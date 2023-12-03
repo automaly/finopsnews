@@ -1,11 +1,128 @@
-#########################
-# Full reference
-# https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
-#########################
-
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+cacheUrl: https://Dynamics365.github.io/finopsnews/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: https://nuxulu.com/posts/index.xml
+  # Downloadable E-learning Courses
+  # - href: https://community.dynamics.com/365/b/learningcurriculum/rss
+  # AX Videos
+  # - href: https://community.dynamics.com/ax/b/axvideos/rss
+  # - href: https://community.dynamics.com/365/financeandoperations/b/howtovideos/rss
+  # - href: https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/rss
+  # AX News
+  # - href: https://community.dynamics.com/ax/b/axmsdwnews/rss
+  # - href: https://community.dynamics.com/365/b/365teamblog/rss #builf failed
+  
+  #https://www.dynamicsduoacademy.com/blog/
+
+  # Consulting
+  - href: https://impulztech.com/category/dynamics-365/feed/
+  - href: https://www.sikich.com/insights/feed/
+  - href: https://erpsoftwareblog.com/feed/
+  - href: https://www.encorebusiness.com/blog/feed/
+  - href: https://365community.online/feed
+
+  # fin
+  - href: https://dynamics.fo/rss.xml
+  - href: https://dynamicsax-fico.com/feed/
+  - href: https://dynamicspedia.com/feed/
+  - href: https://cleverax.wordpress.com/feed/
+
+  # AX Blogs
+  # - href: http://everythingdynamicsaxbi.com/category/dynamics-365-for-finance-and-operations/feed/ #domain gone
+  - href: https://www.dynamicsmanuals.com/feed
+  - href: https://alexdmeyer.com/feed/
+  - href: https://powerazure365.com/?format=rss
+  - href: https://d365fostuff.wordpress.com/feed/
+  - href: https://msdyn365fo.wordpress.com/feed/
+  - href: https://ariste.info/feed/
+  - href: https://dynagile.fr/en/home-page-blog/feed/
+  - href: https://anithasantosh.wordpress.com/feed/
+  - href: https://dynamics365musings.com/feed/
+  - href: http://atomicax.com/rss.xml
+  - href: https://kurthatlevik.com/feed/
+  - href: https://dynvision365.com/feed/
+  - href: https://allaboutdynamic.com/feed/
+  - href: https://daxonline.org/rss.xml
+  - href: https://cloudblogs.microsoft.com/dynamics365/feed/
+  - href: https://dev.goshoom.net/feed/
+  - href: https://exploredynamics365.home.blog/blog-feed/feed/
+  - href: https://exploredynamics365.home.blog/feed/
+  - href: https://d365snippets.com/feeds/posts/default
+  - href: https://www.brewsterware.com/feed
+  - href: https://alexvoy.blogspot.com/feeds/posts/default
+  - href: https://shashidotnet.wordpress.com/feeds/posts/default
+  - href: http://feeds.feedburner.com/blogspot/YAiKF
+  - href: https://jatomas.com/feed/
+  - href: https://robscode.onl/rss/
+  - href: https://sandeepchaudhuryd365.com/feed/
+  - href: https://devblog.sertanyaman.com/feed/
+  - href: https://filardi.cloud/feed/
+  - href: https://ax.docentric.com/blog/feed/
+
+  # Dynamics 365 HR
+  - href: https://paragchapre.com/feed/
+
+  # DYNAMICS 365 SUPPLY CHAIN MANAGEMENT
+  - href: http://feeds.feedburner.com/KashperukIvan/
+  - href: https://axscm.wordpress.com/feed/
+  - href: https://d365cliffsnotes.com/rss.xml
+
+  # Finance
+  
+
+  # Old ax
+  # - href: https://community.dynamics.com/ax/b/happyd365fo/rss
+  # - href: https://community.dynamics.com/ax/b/ftdynamicsax/rss
+  # - href: https://community.dynamics.com/ax/b/simpleax/rss
+  # - href: https://community.dynamics.com/ax/b/shashisaxblog/rss
+  # - href: https://community.dynamics.com/ax/b/moredatamoresuccess/rss
+  # - href: https://community.dynamics.com/ax/b/technicaltutorialsformsdynamicsax2012/rss
+  # - href: https://community.dynamics.com/ax/b/galynafedorovaaxblog/rss
+  # - href: https://community.dynamics.com/ax/b/guyterrysaxblog/rss
+  # - href: https://community.dynamics.com/ax/b/dynamicsaxtechnicalblog/rss
+  # - href: https://community.dynamics.com/ax/b/dynamicsaxconcoction/rss
+  # - href: https://community.dynamics.com/ax/b/axrunbase/rss
+  # - href: https://community.dynamics.com/ax/b/axstart/rss
+  # - href: https://community.dynamics.com/ax/b/axology/rss
+  # - href: https://community.dynamics.com/ax/b/1clickfactory365andax/rss
+  # - href: https://community.dynamics.com/ax/b/axinthefield/rss
+
+  # New AX
+  # - href: https://community.dynamics.com/365/financeandoperations/b/dynamics-365-finance-blog/rss
+  # - href: https://community.dynamics.com/365/financeandoperations/b/mfp/rss
+  # - href: https://community.dynamics.com/365/financeandoperations/b/practitionersviews365operations/rss
+  # - href: https://community.dynamics.com/365/financeandoperations/b/d365fo-blog-of-er-consult/rss
+  # - href: https://community.dynamics.com/365/financeandoperations/b/how-to-set-from-email-address-for-payment-advice/rss
+  # - href: https://community.dynamics.com/365/financeandoperations/b/axsupport/rss
+  # - href: https://community.dynamics.com/365/financeandoperations/b/msdynamics365-empowered-community/rss
+  # - href: https://community.dynamics.com/365/financeandoperations/b/365operationswithsukrut/rss
+  # - href: https://community.dynamics.com/365/financeandoperations/b/newdynamicsax/rss
+  # - href: https://community.dynamics.com/365/financeandoperations/b/msd365-f-o-learning/rss
+
+  - href: https://elearnd365.com/feed/
+  - href: https://denistrunin.com/rss.xml
+  - href: https://dynamics-tips.com/feed/
+  - href: https://erconsult.eu/feed/
+  - href: https://henrikmarxlarsen.wordpress.com/feed/
+  - href: https://gfeaxblog.wordpress.com/feed/
+  - href: https://axraja.blogspot.com/feeds/posts/default
+
+  # Power Apps
+  - href: https://powerapps.microsoft.com/en-us/blog/feed/
+  - href: https://axsoup.com/feeds/posts/default #blogspot # Blogger
+  - href: https://d365fandom.com/feeds/posts/default
+  - href: https://ievgensaxblog.wordpress.com/feed/
+  - href: https://dynamics365ax2012.blogspot.com/feeds/posts/default
+  - href: https://powerautomate.microsoft.com/en-nz/blog/feed/
+
+cacheMaxDays: 730
+
+# `siteTitle`: Title to use in the browser tab and the machine readable feed output. (optional)
+siteTitle: "Dynamics 365 Finance & Operations Feeds"
+# `timezone`: Specify your local timezone so server can group content by weekday
+# Find yours from the "TZ database name" column of this page: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
+# Examples: America/Los_Angeles, America/New_York, Asia/Shanghai, Asia/Tokyo
+timezone: Asia/Bangkok
+
+
+# https://dynamics.fo/
+# https://github.com/pkrashdi/d365fo
