@@ -1460,6 +1460,56 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/ai-builder-for-image-description",
+          "author": "Ana Inés Urrutia",
+          "description": "I’m a fanatic about AI Builder or AI Models, or however it is called these days. Sometimes I lack the imagination or creativity to create ALT descriptions for my images. […]",
+          "link": "https://365community.online/ai-builder-for-image-description",
+          "publishedOn": "2023-12-03T21:20:33.000Z",
+          "wordCount": 3035,
+          "title": "AI Builder for Image Description",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1701638682_AI-Builder-for-Image-Description.png?fit=1000%2C563&ssl=1"
+        },
+        {
+          "id": "https://365community.online/connect-to-microsoft-graph-using-powershell-with-certificates",
+          "author": "Pieter Veenstra",
+          "description": "Earlier this week I fixed some PowerShell scripts that connected into Microsoft Graph using the Thumbnail of a certificate installed on my local system. Some of the challenges in this […]",
+          "link": "https://365community.online/connect-to-microsoft-graph-using-powershell-with-certificates",
+          "publishedOn": "2023-12-03T16:42:30.000Z",
+          "wordCount": 3021,
+          "title": "Connect to Microsoft Graph using PowerShell with certificates",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/4-new-undocumented-functions-to-encode-and-decode-xml-in-power-automate",
+          "author": "Pieter Veenstra",
+          "description": "Today, I found 4 new undocumented functions in Power Automate Why Encode Xml? First of all, why would we need to encode xml? Sometimes characters in the xml could cause […]",
+          "link": "https://365community.online/4-new-undocumented-functions-to-encode-and-decode-xml-in-power-automate",
+          "publishedOn": "2023-12-03T12:37:21.000Z",
+          "wordCount": 3040,
+          "title": "4 new undocumented functions to encode and decode Xml in Power Automate",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/a-scheduled-flow-that-locks-an-app",
+          "author": "Pieter Veenstra",
+          "description": "Earlier this week I was asked on the chat how to handle scheduled flows that need to lock an app in Power Apps while the flow is running. Scheduled flows […]",
+          "link": "https://365community.online/a-scheduled-flow-that-locks-an-app",
+          "publishedOn": "2023-12-03T08:19:00.000Z",
+          "wordCount": 3020,
+          "title": "A scheduled flow that locks an app",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/will-ai-pass-my-aviation-exam",
+          "author": "Andrew Grischenko",
+          "description": "I’m both a technology geek and a pilot. Not surprisingly, when I got my hands on the Azure OpenAI service (in preview) and Azure AI Studio, I wanted to try […]",
+          "link": "https://365community.online/will-ai-pass-my-aviation-exam",
+          "publishedOn": "2023-12-03T06:00:55.000Z",
+          "wordCount": 3035,
+          "title": "Will AI pass my aviation exam?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Will-AI-pass-my-aviation-exam.png?fit=1198%2C683&ssl=1"
+        },
+        {
           "id": "https://365community.online/omnichannel-for-customer-service-new-dialer",
           "author": "Neil Parkhurst",
           "description": "When we make outbound telephone calls used Microsoft’s Omnichannel for customer service a new dialer is now available. I will highlight its features and explain how to enable it in […]",
@@ -2971,6 +3021,36 @@
           "wordCount": 2720,
           "title": "Embrace agent availability to reduce customer wait times",
           "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2019/10/customer-service.png"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/11/07/microsoft-is-named-a-leader-in-2023-gartner-magic-quadrant-for-the-crm-customer-engagement-center/",
+          "author": "Jeff Comstock",
+          "description": "It is with great pride that Microsoft has been recognized as a Leader within the 2023 Gartner Magic Quadrant for CRM Customer Engagement Center. We believe this placement recognizes Microsoft’s continued rapid pace of innovation and our customers’ success using our service as well as our broader end-to-end CRM (customer relationship management) solutions and cloud functionality.  \nThe post Microsoft is named a Leader in 2023 Gartner® Magic Quadrant™ for the CRM Customer Engagement Center appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2023/11/07/microsoft-is-named-a-leader-in-2023-gartner-magic-quadrant-for-the-crm-customer-engagement-center/",
+          "publishedOn": "2023-11-07T16:00:00.000Z",
+          "wordCount": 3511,
+          "title": "Microsoft is named a Leader in 2023 Gartner® Magic Quadrant™ for the CRM Customer Engagement Center",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/10/D365_Blog_Abstract-01.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/11/07/revolutionizing-supply-chain-management-with-dynamics-365-demand-planning-unleash-the-power-of-ai-driven-precision/",
+          "author": "Denis Conway",
+          "description": "Unveiled at the 2023 Microsoft BALE Event and set for Public Preview release on October 31st, 2023, the Demand Planning App for Dynamics 365 Supply Chain Management is poised to revolutionize supply chain management for the modern era. It represents a transformative force in supply chain management and a pivotal component of Microsoft's AI ERP offering. As businesses grapple with evolving challenges, harnessing intelligent demand planning is no longer a choice—it's an imperative for survival and triumph in today's fiercely competitive market. This app equips enterprises with the tools they need to confidently, flexibly, and profitably navigate the complexities of the contemporary supply chain landscape.\nThe post Revolutionizing Supply Chain Management with Dynamics 365 Demand Planning: Unleash the Power of AI-Driven Precision appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/11/07/revolutionizing-supply-chain-management-with-dynamics-365-demand-planning-unleash-the-power-of-ai-driven-precision/",
+          "publishedOn": "2023-11-07T10:49:57.000Z",
+          "wordCount": 4175,
+          "title": "Revolutionizing Supply Chain Management with Dynamics 365 Demand Planning: Unleash the Power of AI-Driven Precision",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/08/CLO22_HumanBuiltExpansive_001-scaled.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/administrator/2023/11/06/best-practices-for-offline-mode-in-the-field-service-mobile-app-part-1/",
+          "author": "Jonathan Baker",
+          "description": "This is a 3-part blog series aimed to get the maximum benefits of using the Field Service mobile application in the ‘Offline’ mode. Follow along as we share the knowledge that would allow the frontline workers using the Field Service mobile application to get the best results. Mobile Offline Overview Frontline workers often perform tasks\nThe post Best Practices for Offline Mode in the Field Service mobile app – Part 1  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/administrator/2023/11/06/best-practices-for-offline-mode-in-the-field-service-mobile-app-part-1/",
+          "publishedOn": "2023-11-06T20:23:24.000Z",
+          "wordCount": 3460,
+          "title": "Best Practices for Offline Mode in the Field Service mobile app – Part 1",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/05/CLO22_GreenEnergyFarm_047-1024x683.jpg"
         }
       ]
     },

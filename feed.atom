@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-12-03T06:57:48.731Z</updated>
+    <updated>2023-12-04T00:40:46.921Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI Builder for Image Description]]></title>
+        <id>https://365community.online/ai-builder-for-image-description</id>
+        <link href="https://365community.online/ai-builder-for-image-description"/>
+        <updated>2023-12-03T21:20:33.000Z</updated>
+        <summary type="html"><![CDATA[I’m a fanatic about AI Builder or AI Models, or however it is called these days. Sometimes I lack the imagination or creativity to create ALT descriptions for my images. […]]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connect to Microsoft Graph using PowerShell with certificates]]></title>
+        <id>https://365community.online/connect-to-microsoft-graph-using-powershell-with-certificates</id>
+        <link href="https://365community.online/connect-to-microsoft-graph-using-powershell-with-certificates"/>
+        <updated>2023-12-03T16:42:30.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this week I fixed some PowerShell scripts that connected into Microsoft Graph using the Thumbnail of a certificate installed on my local system. Some of the challenges in this […]]]></summary>
+        <author>
+            <name>Pieter Veenstra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 new undocumented functions to encode and decode Xml in Power Automate]]></title>
+        <id>https://365community.online/4-new-undocumented-functions-to-encode-and-decode-xml-in-power-automate</id>
+        <link href="https://365community.online/4-new-undocumented-functions-to-encode-and-decode-xml-in-power-automate"/>
+        <updated>2023-12-03T12:37:21.000Z</updated>
+        <summary type="html"><![CDATA[Today, I found 4 new undocumented functions in Power Automate Why Encode Xml? First of all, why would we need to encode xml? Sometimes characters in the xml could cause […]]]></summary>
+        <author>
+            <name>Pieter Veenstra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A scheduled flow that locks an app]]></title>
+        <id>https://365community.online/a-scheduled-flow-that-locks-an-app</id>
+        <link href="https://365community.online/a-scheduled-flow-that-locks-an-app"/>
+        <updated>2023-12-03T08:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this week I was asked on the chat how to handle scheduled flows that need to lock an app in Power Apps while the flow is running. Scheduled flows […]]]></summary>
+        <author>
+            <name>Pieter Veenstra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will AI pass my aviation exam?]]></title>
+        <id>https://365community.online/will-ai-pass-my-aviation-exam</id>
+        <link href="https://365community.online/will-ai-pass-my-aviation-exam"/>
+        <updated>2023-12-03T06:00:55.000Z</updated>
+        <summary type="html"><![CDATA[I’m both a technology geek and a pilot. Not surprisingly, when I got my hands on the Azure OpenAI service (in preview) and Azure AI Studio, I wanted to try […]]]></summary>
+        <author>
+            <name>Andrew Grischenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Omnichannel for Customer Service – New Dialer]]></title>
         <id>https://365community.online/omnichannel-for-customer-service-new-dialer</id>
@@ -2088,6 +2138,17 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Microsoft is named a Leader in 2023 Gartner® Magic Quadrant™ for the CRM Customer Engagement Center]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2023/11/07/microsoft-is-named-a-leader-in-2023-gartner-magic-quadrant-for-the-crm-customer-engagement-center/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2023/11/07/microsoft-is-named-a-leader-in-2023-gartner-magic-quadrant-for-the-crm-customer-engagement-center/"/>
+        <updated>2023-11-07T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It is with great pride that Microsoft has been recognized as a Leader within the 2023 Gartner Magic Quadrant for CRM Customer Engagement Center. We believe this placement recognizes Microsoft’s continued rapid pace of innovation and our customers’ success using our service as well as our broader end-to-end CRM (customer relationship management) solutions and cloud functionality.  
+The post Microsoft is named a Leader in 2023 Gartner® Magic Quadrant™ for the CRM Customer Engagement Center appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Jeff Comstock</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Navigating revenue leakage: a simple approach to understanding and combating it]]></title>
         <id>https://erpsoftwareblog.com/?p=101360</id>
         <link href="https://erpsoftwareblog.com/2023/11/navigating-revenue-leakage-a-simple-approach-to-understanding-and-combating-it/"/>
@@ -2130,6 +2191,17 @@ Considerations for ERP and POS Integration]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Revolutionizing Supply Chain Management with Dynamics 365 Demand Planning: Unleash the Power of AI-Driven Precision]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/11/07/revolutionizing-supply-chain-management-with-dynamics-365-demand-planning-unleash-the-power-of-ai-driven-precision/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/11/07/revolutionizing-supply-chain-management-with-dynamics-365-demand-planning-unleash-the-power-of-ai-driven-precision/"/>
+        <updated>2023-11-07T10:49:57.000Z</updated>
+        <summary type="html"><![CDATA[Unveiled at the 2023 Microsoft BALE Event and set for Public Preview release on October 31st, 2023, the Demand Planning App for Dynamics 365 Supply Chain Management is poised to revolutionize supply chain management for the modern era. It represents a transformative force in supply chain management and a pivotal component of Microsoft's AI ERP offering. As businesses grapple with evolving challenges, harnessing intelligent demand planning is no longer a choice—it's an imperative for survival and triumph in today's fiercely competitive market. This app equips enterprises with the tools they need to confidently, flexibly, and profitably navigate the complexities of the contemporary supply chain landscape.
+The post Revolutionizing Supply Chain Management with Dynamics 365 Demand Planning: Unleash the Power of AI-Driven Precision appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Denis Conway</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Decrease Support Tickets of Your Dynamics 365 Business Central Environment]]></title>
         <id>https://erpsoftwareblog.com/?p=101773</id>
         <link href="https://erpsoftwareblog.com/2023/11/decrease-support-tickets-of-your-dynamics-365-business-central-environment/"/>
@@ -2141,6 +2213,17 @@ Manufacturing firm achieves efficiency through Microsoft Dynamics 365 Business C
 Streamline Purchase & Sales Orders with Free App for Business Central]]></summary>
         <author>
             <name>VisualSP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Practices for Offline Mode in the Field Service mobile app – Part 1]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/administrator/2023/11/06/best-practices-for-offline-mode-in-the-field-service-mobile-app-part-1/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/administrator/2023/11/06/best-practices-for-offline-mode-in-the-field-service-mobile-app-part-1/"/>
+        <updated>2023-11-06T20:23:24.000Z</updated>
+        <summary type="html"><![CDATA[This is a 3-part blog series aimed to get the maximum benefits of using the Field Service mobile application in the ‘Offline’ mode. Follow along as we share the knowledge that would allow the frontline workers using the Field Service mobile application to get the best results. Mobile Offline Overview Frontline workers often perform tasks
+The post Best Practices for Offline Mode in the Field Service mobile app – Part 1  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Jonathan Baker</name>
         </author>
     </entry>
     <entry>
