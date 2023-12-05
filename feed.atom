@@ -2,10 +2,147 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-12-04T00:40:46.921Z</updated>
+    <updated>2023-12-05T00:40:53.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transitioning from Unmanaged to Managed Solution (Dynamics 365 / Dataverse)]]></title>
+        <id>https://365community.online/transitioning-from-unmanaged-to-managed-solution-dynamics-365-dataverse</id>
+        <link href="https://365community.online/transitioning-from-unmanaged-to-managed-solution-dynamics-365-dataverse"/>
+        <updated>2023-12-04T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has always recommended managed solution(s), apart from the some of benefits that managed solutions offer over unmanaged, Microsoft is also adding features to the managed solution, making it easy […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2023 Wave 2: Series Index]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-series-index</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-series-index"/>
+        <updated>2023-12-04T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of a series on the new functionality announced for Wave 2 of Microsoft Power Automate 2023. There are two release waves for Power Automate each year, […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omnichannel for Customer Service – IVR BOTs and Languages]]></title>
+        <id>https://365community.online/omnichannel-for-customer-service-ivr-bots-and-languages</id>
+        <link href="https://365community.online/omnichannel-for-customer-service-ivr-bots-and-languages"/>
+        <updated>2023-12-04T14:01:26.000Z</updated>
+        <summary type="html"><![CDATA[I recently created a blog post which explained the options we have in Microsoft’s Omnichannel for Customer Service and Unified Routing around languages. In this post I will continue that […]]]></summary>
+        <author>
+            <name>Neil Parkhurst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insight Works Introduces a New Era of Shipping for Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=102304</id>
+        <link href="https://erpsoftwareblog.com/2023/12/insight-works-introduces-a-new-era-of-shipping-for-business-central/"/>
+        <updated>2023-12-04T13:22:48.000Z</updated>
+        <summary type="html"><![CDATA[Dynamic Ship by Insight Works transforms shipping for SMBs with comprehensive Dynamics 365 Business Central integration, delivering a powerful, user-friendly interface and advanced connectivity to an extensive range of carriers and shipping services.
+The post Insight Works Introduces a New Era of Shipping for Business Central appeared first on ERP Software Blog.
+From GP to Business Central: Elevate Shipping Processes
+Enhance Shipping Functions in Business Central
+Quote Generation with Product Configurator for Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are Topics in Copilot Studio? #CopilotStudio #PowerPlatform #Copilot #MCS #PVA – YouTube]]></title>
+        <id>https://365community.online/what-are-topics-in-copilot-studio-copilotstudio-powerplatform-copilot-mcs-pva-youtube</id>
+        <link href="https://365community.online/what-are-topics-in-copilot-studio-copilotstudio-powerplatform-copilot-mcs-pva-youtube"/>
+        <updated>2023-12-04T13:00:28.000Z</updated>
+        <summary type="html"><![CDATA[source]]></summary>
+        <author>
+            <name>Matt Collins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics 365 Business Central Table Reference Website Updated to Release 2023 Wave 2]]></title>
+        <id>https://365community.online/microsoft-dynamics-365-business-central-table-reference-website-updated-to-release-2023-wave-2</id>
+        <link href="https://365community.online/microsoft-dynamics-365-business-central-table-reference-website-updated-to-release-2023-wave-2"/>
+        <updated>2023-12-04T13:00:06.000Z</updated>
+        <summary type="html"><![CDATA[I have been building a azurecurve | Dynamics 365 BC Table Reference website which I started awhile ago. I have recently, over the last week or so, done some major […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring AI, Power Virtual Agents, and the Power Platform: A Journey with Sarah Critchley, Microsoft's Principal Program Manager]]></title>
+        <id>https://365community.online/exploring-ai-power-virtual-agents-and-the-power-platform-a-journey-with-sarah-critchley-microsofts-principal-program-manager</id>
+        <link href="https://365community.online/exploring-ai-power-virtual-agents-and-the-power-platform-a-journey-with-sarah-critchley-microsofts-principal-program-manager"/>
+        <updated>2023-12-04T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FULL SHOW NOTES https://podcast.nz365guy.com/505  How would you feel if you could make your interactions with technology more human-like, more interactive, and more efficient? Hop on as we journey with Sarah […]]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[{Power Tip 2023} Low Code Vs Code: Implement same requirement using JS, Plugin or Power Automate – YouTube]]></title>
+        <id>https://365community.online/power-tip-2023-low-code-vs-code-implement-same-requirement-using-js-plugin-or-power-automate-youtube</id>
+        <link href="https://365community.online/power-tip-2023-low-code-vs-code-implement-same-requirement-using-js-plugin-or-power-automate-youtube"/>
+        <updated>2023-12-04T12:44:58.000Z</updated>
+        <summary type="html"><![CDATA[{Power Tip 2023} Low Code Vs Code: Implement same requirement using JS, Plugin or Power Automate source]]></summary>
+        <author>
+            <name>Deepesh Somani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dimensions in Dynamics 365 Business Central]]></title>
+        <id>https://www.encorebusiness.com/?p=44237</id>
+        <link href="https://www.encorebusiness.com/blog/dynamics-365-business-central-dimensions/"/>
+        <updated>2023-12-04T12:13:56.000Z</updated>
+        <summary type="html"><![CDATA[Dimensions in Dynamics 365 Business Central
+Dimensions in Dynamics 365 Business Central make it simpler to perform all kinds of analysis and reporting in your business. This blog defines the terms Dimension and Dimension Value, explains how to best set up your Dimensions, and shows how to use them for insights in reports. We’ll also explain some best practices and common...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Linsey Fell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… Process a Shipment from the Source Document]]></title>
+        <id>https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-process-a-shipment-from-the-source-document</id>
+        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-process-a-shipment-from-the-source-document"/>
+        <updated>2023-12-04T11:00:11.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resubmitting from an Action in Logic Apps Workflows]]></title>
+        <id>https://365community.online/resubmitting-from-an-action-in-logic-apps-workflows</id>
+        <link href="https://365community.online/resubmitting-from-an-action-in-logic-apps-workflows"/>
+        <updated>2023-12-04T09:13:22.000Z</updated>
+        <summary type="html"><![CDATA[Resubmitting feature seeks to provide customers with more control over how they resubmit failed transactions and avoiding data duplication or increasing new operational friction. Earlier, if we need to reprocess […]]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resubmitting from an Action in Logic Apps Workflows]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=3108</id>
+        <link href="https://anithasantosh.wordpress.com/2023/12/04/resubmitting-from-an-action-in-logic-apps-workflows/"/>
+        <updated>2023-12-04T09:13:22.000Z</updated>
+        <summary type="html"><![CDATA[Resubmitting feature seeks to provide customers with more control over how they resubmit failed transactions and avoiding data duplication or increasing new operational friction. Earlier, if we need to reprocess the failed execution, we only had an option to select … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to prevent that Bill get’s wet? ;-)]]></title>
+        <id>http://dynamicsax-fico.com/?p=5502</id>
+        <link href="https://dynamicsax-fico.com/2023/12/04/how-to-prevent-that-bill-gets-wet/"/>
+        <updated>2023-12-04T05:44:39.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Builder for Image Description]]></title>
         <id>https://365community.online/ai-builder-for-image-description</id>

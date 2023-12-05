@@ -346,6 +346,16 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=102304",
+          "author": "Insight Works",
+          "description": "Dynamic Ship by Insight Works transforms shipping for SMBs with comprehensive Dynamics 365 Business Central integration, delivering a powerful, user-friendly interface and advanced connectivity to an extensive range of carriers and shipping services.\nThe post Insight Works Introduces a New Era of Shipping for Business Central appeared first on ERP Software Blog.\nFrom GP to Business Central: Elevate Shipping Processes\nEnhance Shipping Functions in Business Central\nQuote Generation with Product Configurator for Business Central",
+          "link": "https://erpsoftwareblog.com/2023/12/insight-works-introduces-a-new-era-of-shipping-for-business-central/",
+          "publishedOn": "2023-12-04T13:22:48.000Z",
+          "wordCount": 7512,
+          "title": "Insight Works Introduces a New Era of Shipping for Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamic-Ship-200.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=102297",
           "author": "Insight Works",
           "description": "Optimizing shipping efficiency for small and medium-sized businesses (SMBs) on Business Central is crucial. This article showcases how the integration of the Dynamic Ship app enhances the core shipping functionalities of Business Central.\nThe post Enhance Shipping Functions in Business Central appeared first on ERP Software Blog.\nFrom GP to Business Central: Elevate Shipping Processes\nQuote Generation with Product Configurator for Business Central\nQuality Control in Inventory and Manufacturing Using Dynamics 365 Business Central",
@@ -1353,6 +1363,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=44237",
+          "author": "Linsey Fell",
+          "description": "Dimensions in Dynamics 365 Business Central\nDimensions in Dynamics 365 Business Central make it simpler to perform all kinds of analysis and reporting in your business. This blog defines the terms Dimension and Dimension Value, explains how to best set up your Dimensions, and shows how to use them for insights in reports. We’ll also explain some best practices and common...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/dynamics-365-business-central-dimensions/",
+          "publishedOn": "2023-12-04T12:13:56.000Z",
+          "wordCount": 3289,
+          "title": "Dimensions in Dynamics 365 Business Central",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2020/02/BC-LI.jpg"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=51138",
           "author": "Don McNulty",
           "description": "Dynamics GP Year End Procedures and Processes\nIt seems that every year I have the same conversation with several clients over the procedure for year end closing of Dynamics GP. We usually discuss two sides of the system requirements as well as year end timing. System Process The system side is pretty straight forward and there is great tech knowledge by Microsoft...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -1459,6 +1479,101 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/transitioning-from-unmanaged-to-managed-solution-dynamics-365-dataverse",
+          "author": "Nishant Rana",
+          "description": "Microsoft has always recommended managed solution(s), apart from the some of benefits that managed solutions offer over unmanaged, Microsoft is also adding features to the managed solution, making it easy […]",
+          "link": "https://365community.online/transitioning-from-unmanaged-to-managed-solution-dynamics-365-dataverse",
+          "publishedOn": "2023-12-04T19:00:00.000Z",
+          "wordCount": 3058,
+          "title": "Transitioning from Unmanaged to Managed Solution (Dynamics 365 / Dataverse)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Transitioning-from-Unmanaged-to-Managed-Solution-Dynamics-365-Dataverse.jpeg?fit=1200%2C900&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-series-index",
+          "author": "Ian Grieve",
+          "description": "This post is part of a series on the new functionality announced for Wave 2 of Microsoft Power Automate 2023. There are two release waves for Power Automate each year, […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-series-index",
+          "publishedOn": "2023-12-04T15:00:00.000Z",
+          "wordCount": 3072,
+          "title": "New Functionality In Microsoft Power Automate 2023 Wave 2: Series Index",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/omnichannel-for-customer-service-ivr-bots-and-languages",
+          "author": "Neil Parkhurst",
+          "description": "I recently created a blog post which explained the options we have in Microsoft’s Omnichannel for Customer Service and Unified Routing around languages. In this post I will continue that […]",
+          "link": "https://365community.online/omnichannel-for-customer-service-ivr-bots-and-languages",
+          "publishedOn": "2023-12-04T14:01:26.000Z",
+          "wordCount": 3038,
+          "title": "Omnichannel for Customer Service – IVR BOTs and Languages",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Omnichannel-for-Customer-Service-–-IVR-BOTs-and-Languages.png?fit=1200%2C1059&ssl=1"
+        },
+        {
+          "id": "https://365community.online/what-are-topics-in-copilot-studio-copilotstudio-powerplatform-copilot-mcs-pva-youtube",
+          "author": "Matt Collins",
+          "description": "source",
+          "link": "https://365community.online/what-are-topics-in-copilot-studio-copilotstudio-powerplatform-copilot-mcs-pva-youtube",
+          "publishedOn": "2023-12-04T13:00:28.000Z",
+          "wordCount": 2930,
+          "title": "What are Topics in Copilot Studio? #CopilotStudio #PowerPlatform #Copilot #MCS #PVA – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1701734535_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-dynamics-365-business-central-table-reference-website-updated-to-release-2023-wave-2",
+          "author": "Ian Grieve",
+          "description": "I have been building a azurecurve | Dynamics 365 BC Table Reference website which I started awhile ago. I have recently, over the last week or so, done some major […]",
+          "link": "https://365community.online/microsoft-dynamics-365-business-central-table-reference-website-updated-to-release-2023-wave-2",
+          "publishedOn": "2023-12-04T13:00:06.000Z",
+          "wordCount": 3086,
+          "title": "Microsoft Dynamics 365 Business Central Table Reference Website Updated to Release 2023 Wave 2",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/exploring-ai-power-virtual-agents-and-the-power-platform-a-journey-with-sarah-critchley-microsofts-principal-program-manager",
+          "author": "NZ365Guy",
+          "description": "FULL SHOW NOTES https://podcast.nz365guy.com/505  How would you feel if you could make your interactions with technology more human-like, more interactive, and more efficient? Hop on as we journey with Sarah […]",
+          "link": "https://365community.online/exploring-ai-power-virtual-agents-and-the-power-platform-a-journey-with-sarah-critchley-microsofts-principal-program-manager",
+          "publishedOn": "2023-12-04T13:00:00.000Z",
+          "wordCount": 3114,
+          "title": "Exploring AI, Power Virtual Agents, and the Power Platform: A Journey with Sarah Critchley, Microsoft's Principal Program Manager",
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/1796418/13849079-exploring-ai-power-virtual-agents-and-the-power-platform-a-journey-with-sarah-critchley-microsoft-s-principal-program-manager.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/power-tip-2023-low-code-vs-code-implement-same-requirement-using-js-plugin-or-power-automate-youtube",
+          "author": "Deepesh Somani",
+          "description": "{Power Tip 2023} Low Code Vs Code: Implement same requirement using JS, Plugin or Power Automate source",
+          "link": "https://365community.online/power-tip-2023-low-code-vs-code-implement-same-requirement-using-js-plugin-or-power-automate-youtube",
+          "publishedOn": "2023-12-04T12:44:58.000Z",
+          "wordCount": 2961,
+          "title": "{Power Tip 2023} Low Code Vs Code: Implement same requirement using JS, Plugin or Power Automate – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1701716372_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-process-a-shipment-from-the-source-document",
+          "author": "Ian Grieve",
+          "description": "This post is part of the In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, […]",
+          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-process-a-shipment-from-the-source-document",
+          "publishedOn": "2023-12-04T11:00:11.000Z",
+          "wordCount": 3104,
+          "title": "In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… Process a Shipment from the Source Document",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/In-Microsoft-Dynamics-365-Business-Central-Inventory-and-Warehouse-Management.png?fit=1086%2C531&ssl=1"
+        },
+        {
+          "id": "https://365community.online/resubmitting-from-an-action-in-logic-apps-workflows",
+          "author": "Anitha Santosh",
+          "description": "Resubmitting feature seeks to provide customers with more control over how they resubmit failed transactions and avoiding data duplication or increasing new operational friction. Earlier, if we need to reprocess […]",
+          "link": "https://365community.online/resubmitting-from-an-action-in-logic-apps-workflows",
+          "publishedOn": "2023-12-04T09:13:22.000Z",
+          "wordCount": 3041,
+          "title": "Resubmitting from an Action in Logic Apps Workflows",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Resubmitting-from-an-Action-in-Logic-Apps-Workflows.png?fit=411%2C564&ssl=1"
+        },
         {
           "id": "https://365community.online/ai-builder-for-image-description",
           "author": "Ana Inés Urrutia",
@@ -1723,6 +1838,16 @@
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
+        {
+          "id": "http://dynamicsax-fico.com/?p=5502",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2023/12/04/how-to-prevent-that-bill-gets-wet/",
+          "publishedOn": "2023-12-04T05:44:39.000Z",
+          "wordCount": 3094,
+          "title": "How to prevent that Bill get’s wet? ;-)",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/11/titleenglishtextnew.jpg"
+        },
         {
           "id": "http://dynamicsax-fico.com/?p=5518",
           "author": "Ludwig Reinhard",
@@ -2320,6 +2445,16 @@
       "feedUrl": "https://anithasantosh.wordpress.com/feed/",
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=3108",
+          "author": "AnithaEswaran",
+          "description": "Resubmitting feature seeks to provide customers with more control over how they resubmit failed transactions and avoiding data duplication or increasing new operational friction. Earlier, if we need to reprocess the failed execution, we only had an option to select … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2023/12/04/resubmitting-from-an-action-in-logic-apps-workflows/",
+          "publishedOn": "2023-12-04T09:13:22.000Z",
+          "wordCount": 4244,
+          "title": "Resubmitting from an Action in Logic Apps Workflows",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/12/image-7.png"
+        },
         {
           "id": "http://anithasantosh.wordpress.com/?p=3096",
           "author": "AnithaEswaran",
