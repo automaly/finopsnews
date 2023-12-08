@@ -2,10 +2,141 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-12-07T00:40:42.194Z</updated>
+    <updated>2023-12-08T00:40:33.306Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Prepare for an Accounts Receivable Audit]]></title>
+        <id>https://erpsoftwareblog.com/?p=102457</id>
+        <link href="https://erpsoftwareblog.com/2023/12/how-to-prepare-for-an-accounts-receivable-audit/"/>
+        <updated>2023-12-07T19:15:23.000Z</updated>
+        <summary type="html"><![CDATA[Whether internal or external, financial audits can be an extremely stressful time. Accounts receivable auditing is among the most critical of financial audits. An internal AR audit will give deep …  How to Prepare for an Accounts Receivable Audit Read More »
+The post How to Prepare for an Accounts Receivable Audit appeared first on ERP Software Blog.
+Payment Processing is Changing the Pace of AP Automation
+5 Accounts Payable Trends in 2022
+White Paper: 9 Steps onboarding steps to set your new hires up for success with RPA]]></summary>
+        <author>
+            <name>Fidesic AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Logic Apps Community Day: D365 FinOps and Data Integration with Azure Logic Apps]]></title>
+        <id>https://365community.online/azure-logic-apps-community-day-d365-finops-and-data-integration-with-azure-logic-apps</id>
+        <link href="https://365community.online/azure-logic-apps-community-day-d365-finops-and-data-integration-with-azure-logic-apps"/>
+        <updated>2023-12-07T18:07:20.000Z</updated>
+        <summary type="html"><![CDATA[In this session we will talk about the importance of having a Data integration strategy and how Azure Logic Apps can play major role in the data integration processes with […]]]></summary>
+        <author>
+            <name>Adnane Dalhi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Logic Apps Community Day: D365 FinOps and Data Integration with Azure Logic Apps]]></title>
+        <id>http://dynvision365.com/?p=1500</id>
+        <link href="https://dynvision365.com/2023/12/07/azure-logic-apps-community-day-d365-finops-and-data-integration-with-azure-logic-apps/"/>
+        <updated>2023-12-07T18:07:20.000Z</updated>
+        <summary type="html"><![CDATA[In this session we will talk about the importance of having a Data integration strategy and how Azure Logic Apps can play major role in the data integration processes with D365 FinOps.]]></summary>
+        <author>
+            <name>adalhix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Send an email when a contact submits a form in Customer Insights – Journeys]]></title>
+        <id>https://365community.online/send-an-email-when-a-contact-submits-a-form-in-customer-insights-journeys</id>
+        <link href="https://365community.online/send-an-email-when-a-contact-submits-a-form-in-customer-insights-journeys"/>
+        <updated>2023-12-07T16:49:47.000Z</updated>
+        <summary type="html"><![CDATA[A customer of mine is moving from outbound to real-time marketing and is creating new forms in RTM. In outbound they have had a Power Automate Flow created to send […]]]></summary>
+        <author>
+            <name>Malin Martnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2023 Wave 2: Make Changes in Draft Mode for Solution Cloud Flows]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-make-changes-in-draft-mode-for-solution-cloud-flows</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-make-changes-in-draft-mode-for-solution-cloud-flows"/>
+        <updated>2023-12-07T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tag your developer and tester – YouTube]]></title>
+        <id>https://365community.online/tag-your-developer-and-tester-youtube</id>
+        <link href="https://365community.online/tag-your-developer-and-tester-youtube"/>
+        <updated>2023-12-07T14:07:15.000Z</updated>
+        <summary type="html"><![CDATA[Tag your developer and tester source]]></summary>
+        <author>
+            <name>Sourav Raj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tag your developer and tester – YouTube]]></title>
+        <id>https://365community.online/tag-your-developer-and-tester-youtube-2</id>
+        <link href="https://365community.online/tag-your-developer-and-tester-youtube-2"/>
+        <updated>2023-12-07T14:06:18.000Z</updated>
+        <summary type="html"><![CDATA[Tag your developer and tester source]]></summary>
+        <author>
+            <name>Sourav Raj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics GP to Business Central: Optimizing Warehouse Management with Warehouse Insight]]></title>
+        <id>https://erpsoftwareblog.com/?p=102432</id>
+        <link href="https://erpsoftwareblog.com/2023/12/dynamics-gp-to-business-central-optimizing-warehouse-management-with-warehouse-insight/"/>
+        <updated>2023-12-07T13:12:48.000Z</updated>
+        <summary type="html"><![CDATA[Approaching 2025, Microsoft transitions from Dynamics GP to the more advanced, cloud-based Dynamics 365 Business Central, paired with the Warehouse Insight app, streamlining warehouse management with real-time data and enhanced flexibility.
+The post Dynamics GP to Business Central: Optimizing Warehouse Management with Warehouse Insight appeared first on ERP Software Blog.
+How to Choose a Mobile Computer to use with Business Central
+Signature Capture in Business Central: A Comprehensive Guide with Warehouse Insight
+Enhanced Planning Pack for Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What to Look for in a Dynamics 365 CRM Partner]]></title>
+        <id>https://www.encorebusiness.com/?p=60481</id>
+        <link href="https://www.encorebusiness.com/blog/what-to-look-for-in-a-dynamics-365-crm-partner/"/>
+        <updated>2023-12-07T12:13:40.000Z</updated>
+        <summary type="html"><![CDATA[What to Look for in a Dynamics 365 CRM Partner
+Choosing the right Microsoft Dynamics Partner is as important as choosing the right business automation system. The risks involved in a failed project — whether it’s an implementation or a training program — can range from losing money to losing personnel. Similarly, a successful relationship with a Dynamics Partner can unlock business growth and transformation....
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Jess Mooney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2023 Wave 2: Use the New Cloud Flows Designer with Copilot]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-use-the-new-cloud-flows-designer-with-copilot</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-use-the-new-cloud-flows-designer-with-copilot"/>
+        <updated>2023-12-07T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use solutions with Power Pages Through Power Apps- Part 1]]></title>
+        <id>https://365community.online/use-solutions-with-power-pages-through-power-apps-part-1</id>
+        <link href="https://365community.online/use-solutions-with-power-pages-through-power-apps-part-1"/>
+        <updated>2023-12-07T09:15:03.000Z</updated>
+        <summary type="html"><![CDATA[Introduction In the dynamic landscape of digital solutions, staying ahead of the curve is paramount for businesses striving to make a mark. One such revolutionary tool that has been gaining […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building new apps and tables with Maker Copilot is now available worldwide]]></title>
+        <id>build-apps-through-conversation-copilot-capability-now-available-worldwide</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/build-apps-through-conversation-copilot-capability-now-available-worldwide/"/>
+        <updated>2023-12-07T08:59:59.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce that the Build apps through conversation capability is now available globally on make.powerapps.com.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Power Pages payments with Stripe (ft. CloudMinded)]]></title>
         <id>https://365community.online/power-pages-payments-with-stripe-ft-cloudminded</id>
@@ -1823,6 +1954,16 @@ Statistical Accounts in Microsoft Dynamics 365 Business Central
 Top 5 Takeaways from Microsoft Inspire 2023]]></summary>
         <author>
             <name>Kwixand Solutions Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Govern your business applications data with Microsoft Purview]]></title>
+        <id>govern-your-business-applications-data-with-microsoft-purview</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/govern-your-business-applications-data-with-microsoft-purview/"/>
+        <updated>2023-11-17T10:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Today we are excited to announce the public preview of the Microsoft Purview integration with Microsoft Dataverse. Microsoft Purview Data Map will enable automated data discovery and sensitive data classification.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
         </author>
     </entry>
     <entry>
