@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-12-09T00:39:38.715Z</updated>
+    <updated>2023-12-10T00:43:17.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
@@ -42,6 +42,17 @@ Demoing Dynamics GP at Pervasive's IntegrationWorld 2012
 The ERP Implementation Partnership: Human Factor vs. Tools & Procedures]]></summary>
         <author>
             <name>Calsoft Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Impact of Delocalization Process in the Czech Version of Business Central 2023 Wave 2 Release]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/12/08/business-central-dynamics-365-czech/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/12/08/business-central-dynamics-365-czech/"/>
+        <updated>2023-12-08T17:08:53.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has separated all Czech-specific functionalities into distinct applications as part of the delocalization process of the Czech version of Dynamics 365 Business Central. T
+The post Impact of Delocalization Process in the Czech Version of Business Central 2023 Wave 2 Release appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Predrag Maricic</name>
         </author>
     </entry>
     <entry>
