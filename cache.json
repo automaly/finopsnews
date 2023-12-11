@@ -346,6 +346,16 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=102426",
+          "author": "DLD Business Solutions, Inc.",
+          "description": "\\Let me take you back to a breakfast encounter in a California resort, where a chance conversation changed the way a director of finance viewed Microsoft Dynamics GP. This story …  How Process Reviews Prove That Microsoft Dynamics GP Can Do More Than You Think It Can Do Read More »\nThe post How Process Reviews Prove That Microsoft Dynamics GP Can Do More Than You Think It Can Do appeared first on ERP Software Blog.\nCustomerSource Resources Can Help You Maximize the Benefits of Dynamics GP.\nMicrosoft Dynamics GP: All the Functionality – 1/3 of the Investment\nFavorite Features of Microsoft Dynamics GP 2010 R2",
+          "link": "https://erpsoftwareblog.com/2023/12/how-process-reviews-prove-that-microsoft-dynamics-gp-can-do-more-than-you-think-it-can-do/",
+          "publishedOn": "2023-12-10T01:48:17.000Z",
+          "wordCount": 7777,
+          "title": "How Process Reviews Prove That Microsoft Dynamics GP Can Do More Than You Think It Can Do",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2023-12-How-Process-Reviews-Prove-That-Microsoft-Dynamics-GP-Can-Do-More-Than-You-Think-It-Can-Do_1200-x-628.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=102482",
           "author": "Insight Works",
           "description": "In a strategic move to enhance ERP solutions worldwide, Insight Works integrates five new Microsoft Partners into their reseller program. Edmonton, Alberta, Canada, December 8, 2023 – Insight Works, a …  Insight Works Welcomes 5 New Microsoft Partners Read More »\nThe post Insight Works Welcomes 5 New Microsoft Partners appeared first on ERP Software Blog.\nBrilliant Idea #11 Automotive Supplier Stays On Top of Shipments with Real Time Alerts in Microsoft Dynamics GP\nMicrosoft Dynamics AX 2012 for Public Sector Organizations Effectively Manages Public Finances\nIs it Time for Your Microsoft Cloud ERP Migration?",
@@ -1640,6 +1650,16 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/navigate-automatically-between-topics-in-copilot-studio-copilot-copilotstudio-mcs-youtube",
+          "author": "Matt Collins",
+          "description": "source",
+          "link": "https://365community.online/navigate-automatically-between-topics-in-copilot-studio-copilot-copilotstudio-mcs-youtube",
+          "publishedOn": "2023-12-09T17:17:57.000Z",
+          "wordCount": 2935,
+          "title": "Navigate automatically between topics in Copilot Studio #Copilot #CopilotStudio #MCS – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1702178321_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
           "id": "https://365community.online/your-own-ai-prompt-library",
           "author": "Ana Inés Urrutia",
           "description": "I was having a look at Power Apps Studio today and something caught my eye. It is under the AI Hub, and it’s called ‘Unlock the power of generative AI […]",
@@ -1658,6 +1678,16 @@
           "wordCount": 3093,
           "title": "New Functionality In Microsoft Power Automate 2023 Wave 2: Use Versioning for Solution Cloud Flows",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/testing-a-copilot-powerplatform-mcs-copilotstudio-copilot-pva-youtube",
+          "author": "Matt Collins",
+          "description": "source",
+          "link": "https://365community.online/testing-a-copilot-powerplatform-mcs-copilotstudio-copilot-pva-youtube",
+          "publishedOn": "2023-12-08T13:54:03.000Z",
+          "wordCount": 2929,
+          "title": "Testing a Copilot! #powerplatform #mcs #copilotstudio #copilot #pva – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1702192256_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         },
         {
           "id": "https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-configure-warehouse-shipments",
@@ -3457,16 +3487,6 @@
           "wordCount": 4071,
           "title": "Data export via Power automate and Data management package API in D365FinOps",
           "imageUrl": "https://adalhix.files.wordpress.com/2022/05/safeimagekit-resized-imgpng.png"
-        },
-        {
-          "id": "http://dynvision365.com/?p=812",
-          "author": "adalhix",
-          "description": "Getting ready for the next Azure DevOps pipeline agent update",
-          "link": "https://dynvision365.com/2021/12/10/getting-ready-for-the-next-azure-devops-pipeline-agent-update/",
-          "publishedOn": "2021-12-10T21:22:59.000Z",
-          "wordCount": 3442,
-          "title": "Getting ready for the next Azure DevOps pipeline agent update",
-          "imageUrl": "https://adalhix.files.wordpress.com/2021/12/captureada2.png"
         }
       ]
     },
@@ -4804,7 +4824,7 @@
       ]
     },
     {
-      "title": "Microsoft Cloud Solutions - Tools & Tutorials",
+      "title": "Microsoft Cloud Solutions - Tools &amp; Tutorials",
       "feedUrl": "http://feeds.feedburner.com/KashperukIvan/",
       "siteUrl": "http://kashperuk.blogspot.com/",
       "articles": [

@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-12-10T00:43:17.045Z</updated>
+    <updated>2023-12-11T00:41:13.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Process Reviews Prove That Microsoft Dynamics GP Can Do More Than You Think It Can Do]]></title>
+        <id>https://erpsoftwareblog.com/?p=102426</id>
+        <link href="https://erpsoftwareblog.com/2023/12/how-process-reviews-prove-that-microsoft-dynamics-gp-can-do-more-than-you-think-it-can-do/"/>
+        <updated>2023-12-10T01:48:17.000Z</updated>
+        <summary type="html"><![CDATA[\Let me take you back to a breakfast encounter in a California resort, where a chance conversation changed the way a director of finance viewed Microsoft Dynamics GP. This story …  How Process Reviews Prove That Microsoft Dynamics GP Can Do More Than You Think It Can Do Read More »
+The post How Process Reviews Prove That Microsoft Dynamics GP Can Do More Than You Think It Can Do appeared first on ERP Software Blog.
+CustomerSource Resources Can Help You Maximize the Benefits of Dynamics GP.
+Microsoft Dynamics GP: All the Functionality – 1/3 of the Investment
+Favorite Features of Microsoft Dynamics GP 2010 R2]]></summary>
+        <author>
+            <name>DLD Business Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigate automatically between topics in Copilot Studio #Copilot #CopilotStudio #MCS – YouTube]]></title>
+        <id>https://365community.online/navigate-automatically-between-topics-in-copilot-studio-copilot-copilotstudio-mcs-youtube</id>
+        <link href="https://365community.online/navigate-automatically-between-topics-in-copilot-studio-copilot-copilotstudio-mcs-youtube"/>
+        <updated>2023-12-09T17:17:57.000Z</updated>
+        <summary type="html"><![CDATA[source]]></summary>
+        <author>
+            <name>Matt Collins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Your own AI Prompt library]]></title>
         <id>https://365community.online/your-own-ai-prompt-library</id>
@@ -91,6 +115,16 @@ Selecting the Best ERP Software -- How to Make a Big, Scary Decision Simply Easy
 Enhancing Quality and Compliance with Lot Traceability in Business Central for Manufacturing]]></summary>
         <author>
             <name>Criterion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing a Copilot! #powerplatform #mcs #copilotstudio #copilot #pva – YouTube]]></title>
+        <id>https://365community.online/testing-a-copilot-powerplatform-mcs-copilotstudio-copilot-pva-youtube</id>
+        <link href="https://365community.online/testing-a-copilot-powerplatform-mcs-copilotstudio-copilot-pva-youtube"/>
+        <updated>2023-12-08T13:54:03.000Z</updated>
+        <summary type="html"><![CDATA[source]]></summary>
+        <author>
+            <name>Matt Collins</name>
         </author>
     </entry>
     <entry>
@@ -9415,16 +9449,6 @@ An error at step 72
       <FileName>AutoRu…]]></summary>
         <author>
             <name>Max Nguyen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting ready for the next Azure DevOps pipeline agent update]]></title>
-        <id>http://dynvision365.com/?p=812</id>
-        <link href="https://dynvision365.com/2021/12/10/getting-ready-for-the-next-azure-devops-pipeline-agent-update/"/>
-        <updated>2021-12-10T21:22:59.000Z</updated>
-        <summary type="html"><![CDATA[Getting ready for the next Azure DevOps pipeline agent update]]></summary>
-        <author>
-            <name>adalhix</name>
         </author>
     </entry>
 </feed>
