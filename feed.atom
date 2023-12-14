@@ -2,10 +2,187 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-12-13T00:40:10.351Z</updated>
+    <updated>2023-12-14T00:40:44.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Consent center in Real-time marketing]]></title>
+        <id>https://365community.online/consent-center-in-real-time-marketing</id>
+        <link href="https://365community.online/consent-center-in-real-time-marketing"/>
+        <updated>2023-12-13T19:31:14.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been getting a lot of questions from people about how the new consent center in real-time marketing works in Customer Insights – Journeys. In this post, I’ll try to […]]]></summary>
+        <author>
+            <name>Malin Martnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlocking New Features: What Business Central Brings to the Table]]></title>
+        <id>https://erpsoftwareblog.com/?p=102582</id>
+        <link href="https://erpsoftwareblog.com/2023/12/unlocking-new-features-what-business-central-brings-to-the-table/"/>
+        <updated>2023-12-13T19:04:18.000Z</updated>
+        <summary type="html"><![CDATA[In today’s dynamic business environment, staying ahead of the curve is crucial for success. Businesses constantly seek innovative solutions that streamline operations, enhance productivity, and provide valuable insights. Microsoft Dynamics 365 …  Unlocking New Features: What Business Central Brings to the Table Read More »
+The post Unlocking New Features: What Business Central Brings to the Table appeared first on ERP Software Blog.
+How to Upgrade Dynamics NAV to Business Central in 2023?
+Navigating the Upgrade: Steps to Move from Dynamics NAV to Business Central
+Types of dimensions in Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add Logging to SysAdmin Role Assignments in D365FO]]></title>
+        <id>https://365community.online/add-logging-to-sysadmin-role-assignments-in-d365fo</id>
+        <link href="https://365community.online/add-logging-to-sysadmin-role-assignments-in-d365fo"/>
+        <updated>2023-12-13T16:36:43.000Z</updated>
+        <summary type="html"><![CDATA[This is a follow up blog post to one I had a few weeks ago about being able to grant/revoke the SysAdmin role for testing purposes. One of the things […]]]></summary>
+        <author>
+            <name>Alex Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add Logging to SysAdmin Role Assignments in D365FO]]></title>
+        <id>https://alexdmeyer.com/?p=2992</id>
+        <link href="https://alexdmeyer.com/2023/12/13/add-logging-to-sysadmin-role-assignments-in-d365fo/"/>
+        <updated>2023-12-13T16:36:43.000Z</updated>
+        <summary type="html"><![CDATA[This is a follow up blog post to one I had a few weeks ago about being able to grant/revoke the SysAdmin role for testing purposes. One of the things I called out there was that before implementing this solution there needed to be a logging functionality to be able to audit when a user […]
+The post Add Logging to SysAdmin Role Assignments in D365FO appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Storage Classes in C: Auto, Extern, Static, Register | A Guide to Storage Classes in C – YouTube]]></title>
+        <id>https://365community.online/storage-classes-in-c-auto-extern-static-register-a-guide-to-storage-classes-in-c-youtube</id>
+        <link href="https://365community.online/storage-classes-in-c-auto-extern-static-register-a-guide-to-storage-classes-in-c-youtube"/>
+        <updated>2023-12-13T16:10:28.000Z</updated>
+        <summary type="html"><![CDATA[Storage Classes in C: Auto, Extern, Static, Register | A Guide to Storage Classes in C In this video, we’ll take a look at the Storage Classes that are available […]]]></summary>
+        <author>
+            <name>Sourav Raj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2023 Wave 2: Use Your Own Encryption Key for Encrypting Data at-rest for Existing Environments]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-use-your-own-encryption-key-for-encrypting-data-at-rest-for-existing-environments</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-use-your-own-encryption-key-for-encrypting-data-at-rest-for-existing-environments"/>
+        <updated>2023-12-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migrate Brewery Management Software From  QuickBooks to Dynamics Business Central with VicinityBrew]]></title>
+        <id>https://erpsoftwareblog.com/?p=102493</id>
+        <link href="https://erpsoftwareblog.com/2023/12/migrate-brewery-management-software-from-quickbooks-to-dynamics-business-central-with-vicinitybrew/"/>
+        <updated>2023-12-13T14:23:02.000Z</updated>
+        <summary type="html"><![CDATA[Lawson’s Finest Liquids produces and delivers fine-crafted beer. What started as a small home operation in 2008 has grown continually and expanded to a brewery, taproom, and retail store with …  Migrate Brewery Management Software From  QuickBooks to Dynamics Business Central with VicinityBrew Read More »
+The post Migrate Brewery Management Software From  QuickBooks to Dynamics Business Central with VicinityBrew appeared first on ERP Software Blog.
+A Tool to Predict and Prevent ERP Implementation Failure
+Insight Works Welcomes 12 New Global Microsoft Partners into their Reseller Program
+How to keep businesses running smoothly with labor shortages]]></summary>
+        <author>
+            <name>Vicinity Software</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Avoid a Failed ERP Implementation]]></title>
+        <id>https://www.erpsoftwareblog.com/?p=28965</id>
+        <link href="https://erpsoftwareblog.com/2023/12/avoid-failed-erp-implementation/"/>
+        <updated>2023-12-13T14:15:38.000Z</updated>
+        <summary type="html"><![CDATA[Anyone who has been in or around the ERP implementation business for any length of time has witnessed the aftermath of a failed project.  ERP vendors won’t stay in the …  How to Avoid a Failed ERP Implementation Read More »
+The post How to Avoid a Failed ERP Implementation appeared first on ERP Software Blog.
+Three Tips for Avoiding the Dirty Data Trap
+Five ERP Implementation Traps you Want to Avoid
+Budget for Dynamics GP 2013 Hardware and Infrastructure Requirements and Costs]]></summary>
+        <author>
+            <name>Bob Scarborough, Tensoft Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Simplify Complex Reporting in Microsoft Dynamics ERP]]></title>
+        <id>https://erpsoftwareblog.com/?p=102495</id>
+        <link href="https://erpsoftwareblog.com/2023/12/how-to-simplify-complex-reporting-in-microsoft-dynamics-erp/"/>
+        <updated>2023-12-13T14:13:16.000Z</updated>
+        <summary type="html"><![CDATA[In the world of finance and accounting, complex reporting is a common challenge that many organizations face. With multiple entities, acquisitions, reorganizations, and ever-changing regulations, the need for sophisticated financial …  How to Simplify Complex Reporting in Microsoft Dynamics ERP Read More »
+The post How to Simplify Complex Reporting in Microsoft Dynamics ERP appeared first on ERP Software Blog.
+ACA Add-on Shields GP Users from IRS Sledgehammer, Tack Hammer
+Plan Offer Can Simplify ACA Reporting in Dynamics GP
+What Is a 1095-C?]]></summary>
+        <author>
+            <name>FYIsoft, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delving into ERP Development: Steve Endow's Decade-Long MVP Experience and the Emerging Role of Business Central]]></title>
+        <id>https://365community.online/delving-into-erp-development-steve-endows-decade-long-mvp-experience-and-the-emerging-role-of-business-central</id>
+        <link href="https://365community.online/delving-into-erp-development-steve-endows-decade-long-mvp-experience-and-the-emerging-role-of-business-central"/>
+        <updated>2023-12-13T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FULL SHOW NOTES https://podcast.nz365guy.com/508 What if you could peek into the dynamic world of ERP development and understand the evolution of Business Central from NAV? That's exactly what we're offering […]]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customising Your Compliance Profile Preference Centres]]></title>
+        <id>https://365community.online/customising-your-compliance-profile-preference-centres</id>
+        <link href="https://365community.online/customising-your-compliance-profile-preference-centres"/>
+        <updated>2023-12-13T11:22:24.000Z</updated>
+        <summary type="html"><![CDATA[I’ve written a series of blogs all about Compliance Profiles which walk through a series of steps for getting up and running with Realtime Marketing compliance. Part one shows how […]]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… Understand Warehouse Picks and Shipments in Advanced Warehousing]]></title>
+        <id>https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-understand-warehouse-picks-and-shipments-in-advanced-warehousing</id>
+        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-understand-warehouse-picks-and-shipments-in-advanced-warehousing"/>
+        <updated>2023-12-13T11:00:47.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: Microsoft standard AI features and prompts.]]></title>
+        <id>https://365community.online/dynamics-365-business-central-microsoft-standard-ai-features-and-prompts</id>
+        <link href="https://365community.online/dynamics-365-business-central-microsoft-standard-ai-features-and-prompts"/>
+        <updated>2023-12-13T09:21:34.000Z</updated>
+        <summary type="html"><![CDATA[The new Dynamics 365 Business Central 23.2 release unlocks the new Copilot Developer Toolkit (more info here) for creating generative-AI experiences inside the ERP on online sandboxes. The advantages of […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Environment Variables are now Always Visible and Editable during Solution Import and Pipeline Deployments]]></title>
+        <id>environment-variables-are-now-always-visible-and-editable-during-solution-import-and-pipeline-deployments</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/environment-variables-are-now-always-visible-and-editable-during-solution-import-and-pipeline-deployments/"/>
+        <updated>2023-12-13T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Makers, who are using pipelines and solution import, will now always be able view and change the values of a solution’s environment variables. Makers will be able to validate the values that are going to be used in their components (such as their apps) in the target environment.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are entities in Copilot Studio? #CopilotStudio #Copilot #MCS #DieHardCopilot #PowerPlatform – YouTube]]></title>
+        <id>https://365community.online/what-are-entities-in-copilot-studio-copilotstudio-copilot-mcs-diehardcopilot-powerplatform-youtube</id>
+        <link href="https://365community.online/what-are-entities-in-copilot-studio-copilotstudio-copilot-mcs-diehardcopilot-powerplatform-youtube"/>
+        <updated>2023-12-12T21:19:32.000Z</updated>
+        <summary type="html"><![CDATA[source]]></summary>
+        <author>
+            <name>Matt Collins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create Plugin Actions(preview) with Power Automate in Copilot Studio]]></title>
+        <id>https://365community.online/create-plugin-actionspreview-with-power-automate-in-copilot-studio</id>
+        <link href="https://365community.online/create-plugin-actionspreview-with-power-automate-in-copilot-studio"/>
+        <updated>2023-12-12T18:53:31.000Z</updated>
+        <summary type="html"><![CDATA[A few months ago I wrote an article about a new preview feature for Copilot Studio called ‘Plugin Actions’. (You can read the article here if you haven’t read it […]]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Issues Faced by Supply Chain Managers]]></title>
         <id>https://erpsoftwareblog.com/?p=102561</id>
