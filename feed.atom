@@ -2,10 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-12-15T00:40:38.210Z</updated>
+    <updated>2023-12-16T00:39:46.065Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Can Microsoft Ever Catch Salesforce?]]></title>
+        <id>https://365community.online/can-microsoft-ever-catch-salesforce</id>
+        <link href="https://365community.online/can-microsoft-ever-catch-salesforce"/>
+        <updated>2023-12-15T17:02:10.000Z</updated>
+        <summary type="html"><![CDATA[I was reading the Salesforce Economic Impact whitepaper by IDC (sponsored by Salesforce). It struck me that much of the potential economic and social gains outlined in that report were […]]]></summary>
+        <author>
+            <name>Steve Mordue</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2023 Wave 2: Use Power Automate Cloud Flows Designer with Copilot]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-use-power-automate-cloud-flows-designer-with-copilot</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-use-power-automate-cloud-flows-designer-with-copilot"/>
+        <updated>2023-12-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automating business processes through an ERP]]></title>
+        <id>https://erpsoftwareblog.com/?p=102564</id>
+        <link href="https://erpsoftwareblog.com/2023/12/automating-business-processes-through-an-erp/"/>
+        <updated>2023-12-15T12:53:30.000Z</updated>
+        <summary type="html"><![CDATA[Automating business processes through an ERP system involves leveraging the system's capabilities to streamline and optimize various processes within an organization. Consider the following steps to effectively automate business processes …  Automating business processes through an ERP Read More »
+The post Automating business processes through an ERP appeared first on ERP Software Blog.
+Future trends in ERP & eCommerce Integrations
+How will Artificial Intelligence (AI) Impact ERP Software?
+Product Recommendation Engine: Use AI in D365 to Recommend Products to Rental Customers]]></summary>
+        <author>
+            <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… Configure Warehouse Picks and Shipments in Advanced Warehousing]]></title>
+        <id>https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-configure-warehouse-picks-and-shipments-in-advanced-warehousing</id>
+        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-configure-warehouse-picks-and-shipments-in-advanced-warehousing"/>
+        <updated>2023-12-15T11:00:07.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Low-code plug-ins using the Dataverse Accelerator App (Preview)]]></title>
+        <id>https://365community.online/low-code-plug-ins-using-the-dataverse-accelerator-app-preview</id>
+        <link href="https://365community.online/low-code-plug-ins-using-the-dataverse-accelerator-app-preview"/>
+        <updated>2023-12-15T09:06:23.000Z</updated>
+        <summary type="html"><![CDATA[In today’s blog, we are talking about low-code plugins using the Dataverse Accelerator App, which means no coding is required. To perform complex actions on Dataverse table plugins are used. […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 & Power Platform Conferences in 2024]]></title>
+        <id>https://365community.online/dynamics-365-power-platform-conferences-in-2024</id>
+        <link href="https://365community.online/dynamics-365-power-platform-conferences-in-2024"/>
+        <updated>2023-12-15T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are close to the end of this year, and we mostly have important conference dates for the following year. I would like to have all Dynamics 365 (and/or Power […]]]></summary>
+        <author>
+            <name>Marco Totovic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[View In Browser For Realtime Emails]]></title>
+        <id>https://365community.online/view-in-browser-for-realtime-emails</id>
+        <link href="https://365community.online/view-in-browser-for-realtime-emails"/>
+        <updated>2023-12-15T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[This one has been a long time coming, and was a missing feature in Realtime Marketing that could be used in Outbound Marketing long ago. That’s the simple feature of […]]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leave & Absence Human Resources App]]></title>
+        <id>https://paragchapre.com/?p=12306</id>
+        <link href="https://paragchapre.com/leave-absence-human-resources-app/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=leave-absence-human-resources-app"/>
+        <updated>2023-12-15T06:24:09.000Z</updated>
+        <summary type="html"><![CDATA[Introduction In the fast-evolving landscape of business and technology, organizations are constantly seeking innovative solutions to streamline their operations and enhance employee experiences. The Human Resources app seamlessly integrates with Dynamics 365 Human Resources in an F&O environment. Developed for organizational use, it ensures a smooth process for employees to request, modify, and cancel time […]
+The post Leave & Absence Human Resources App appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maintenance of SOP Tables (Video)]]></title>
         <id>https://www.encorebusiness.com/?p=60713</id>

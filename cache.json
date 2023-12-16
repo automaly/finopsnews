@@ -346,6 +346,16 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=102564",
+          "author": "x2x eCommerce",
+          "description": "Automating business processes through an ERP system involves leveraging the system's capabilities to streamline and optimize various processes within an organization. Consider the following steps to effectively automate business processes …  Automating business processes through an ERP Read More »\nThe post Automating business processes through an ERP appeared first on ERP Software Blog.\nFuture trends in ERP & eCommerce Integrations\nHow will Artificial Intelligence (AI) Impact ERP Software?\nProduct Recommendation Engine: Use AI in D365 to Recommend Products to Rental Customers",
+          "link": "https://erpsoftwareblog.com/2023/12/automating-business-processes-through-an-erp/",
+          "publishedOn": "2023-12-15T12:53:30.000Z",
+          "wordCount": 7367,
+          "title": "Automating business processes through an ERP",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Add-a-subheading-31-300x169.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=102596",
           "author": "ArcherPoint",
           "description": "ERP implementation success factors are the key elements that ensure an organization's successful deployment and adoption of an ERP system. Understanding these factors can significantly enhance the effectiveness of your …  6 ERP Implementation Success Factors Read More »\nThe post 6 ERP Implementation Success Factors appeared first on ERP Software Blog.\nWhat To Expect When You Are Expecting (To Get New Accounting/ERP Software)\n“Best of Breed” – Why Include Third Party (ISV) Products with Microsoft Dynamics GP?\nSelecting the Best ERP Software -- How to Make a Big, Scary Decision Simply Easy.",
@@ -1839,6 +1849,66 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/can-microsoft-ever-catch-salesforce",
+          "author": "Steve Mordue",
+          "description": "I was reading the Salesforce Economic Impact whitepaper by IDC (sponsored by Salesforce). It struck me that much of the potential economic and social gains outlined in that report were […]",
+          "link": "https://365community.online/can-microsoft-ever-catch-salesforce",
+          "publishedOn": "2023-12-15T17:02:10.000Z",
+          "wordCount": 2967,
+          "title": "Can Microsoft Ever Catch Salesforce?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Can-Microsoft-Ever-Catch-Salesforce.jpg?fit=1200%2C814&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-use-power-automate-cloud-flows-designer-with-copilot",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-use-power-automate-cloud-flows-designer-with-copilot",
+          "publishedOn": "2023-12-15T15:00:00.000Z",
+          "wordCount": 3105,
+          "title": "New Functionality In Microsoft Power Automate 2023 Wave 2: Use Power Automate Cloud Flows Designer with Copilot",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-configure-warehouse-picks-and-shipments-in-advanced-warehousing",
+          "author": "Ian Grieve",
+          "description": "This post is part of the In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, […]",
+          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-configure-warehouse-picks-and-shipments-in-advanced-warehousing",
+          "publishedOn": "2023-12-15T11:00:07.000Z",
+          "wordCount": 3116,
+          "title": "In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… Configure Warehouse Picks and Shipments in Advanced Warehousing",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1702646882_In-Microsoft-Dynamics-365-Business-Central-Inventory-and-Warehouse-Management.png?fit=1167%2C741&ssl=1"
+        },
+        {
+          "id": "https://365community.online/low-code-plug-ins-using-the-dataverse-accelerator-app-preview",
+          "author": "Inogic",
+          "description": "In today’s blog, we are talking about low-code plugins using the Dataverse Accelerator App, which means no coding is required. To perform complex actions on Dataverse table plugins are used. […]",
+          "link": "https://365community.online/low-code-plug-ins-using-the-dataverse-accelerator-app-preview",
+          "publishedOn": "2023-12-15T09:06:23.000Z",
+          "wordCount": 3313,
+          "title": "Low-code plug-ins using the Dataverse Accelerator App (Preview)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1Dataverse-Accelerator-App.jpeg?fit=1200%2C516&ssl=1"
+        },
+        {
+          "id": "https://365community.online/dynamics-365-power-platform-conferences-in-2024",
+          "author": "Marco Totovic",
+          "description": "We are close to the end of this year, and we mostly have important conference dates for the following year. I would like to have all Dynamics 365 (and/or Power […]",
+          "link": "https://365community.online/dynamics-365-power-platform-conferences-in-2024",
+          "publishedOn": "2023-12-15T09:00:00.000Z",
+          "wordCount": 3026,
+          "title": "Dynamics 365 & Power Platform Conferences in 2024",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/view-in-browser-for-realtime-emails",
+          "author": "Megan V. Walker",
+          "description": "This one has been a long time coming, and was a missing feature in Realtime Marketing that could be used in Outbound Marketing long ago. That’s the simple feature of […]",
+          "link": "https://365community.online/view-in-browser-for-realtime-emails",
+          "publishedOn": "2023-12-15T08:30:00.000Z",
+          "wordCount": 3026,
+          "title": "View In Browser For Realtime Emails",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/View-In-Browser-For-Realtime-Emails.jpg?fit=1200%2C800&ssl=1"
+        },
         {
           "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-run-a-cloud-flow-for-more-than-30-days-per-invocation",
           "author": "Ian Grieve",
@@ -5316,6 +5386,16 @@
       "feedUrl": "https://paragchapre.com/feed/",
       "siteUrl": "https://paragchapre.com/",
       "articles": [
+        {
+          "id": "https://paragchapre.com/?p=12306",
+          "author": "paragchapre@gmail.com",
+          "description": "Introduction In the fast-evolving landscape of business and technology, organizations are constantly seeking innovative solutions to streamline their operations and enhance employee experiences. The Human Resources app seamlessly integrates with Dynamics 365 Human Resources in an F&O environment. Developed for organizational use, it ensures a smooth process for employees to request, modify, and cancel time […]\nThe post Leave & Absence Human Resources App appeared first on Parag Chapre.",
+          "link": "https://paragchapre.com/leave-absence-human-resources-app/?utm_source=rss&utm_medium=rss&utm_campaign=leave-absence-human-resources-app",
+          "publishedOn": "2023-12-15T06:24:09.000Z",
+          "wordCount": 5579,
+          "title": "Leave & Absence Human Resources App",
+          "imageUrl": "https://paragchapre.com/wp-content/uploads/2023/12/HR-teams-app.png"
+        },
         {
           "id": "http://paragchapre.com/?p=12243",
           "author": "paragchapre@gmail.com",
