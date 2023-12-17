@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-12-16T00:39:46.065Z</updated>
+    <updated>2023-12-17T00:43:19.807Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ep.15: Daryl LaBar on The DevConnect Show – YouTube]]></title>
+        <id>https://365community.online/ep-15-daryl-labar-on-the-devconnect-show-youtube</id>
+        <link href="https://365community.online/ep-15-daryl-labar-on-the-devconnect-show-youtube"/>
+        <updated>2023-12-16T20:41:32.000Z</updated>
+        <summary type="html"><![CDATA[In this video we chat with Daryl LaBar about his tool “Early Bound Generator v2”, his journey in Power Platform and how he came up with idea for this tool […]]]></summary>
+        <author>
+            <name>Danish Naglekar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to add any font to Power Pages site]]></title>
+        <id>https://365community.online/how-to-add-any-font-to-power-pages-site</id>
+        <link href="https://365community.online/how-to-add-any-font-to-power-pages-site"/>
+        <updated>2023-12-16T01:39:43.000Z</updated>
+        <summary type="html"><![CDATA[The Power Pages Design Studio makes it easier for users to change out-of-the-box colours and fonts and even manage custom CSS files. However, if you work with specific customer requirements, […]]]></summary>
+        <author>
+            <name>Andrew Grischenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Entities part 3: categorise data in topics #CopilotStudio #MCS #PVA #TechTok #DieHardCopilot – YouTube]]></title>
+        <id>https://365community.online/entities-part-3-categorise-data-in-topics-copilotstudio-mcs-pva-techtok-diehardcopilot-youtube</id>
+        <link href="https://365community.online/entities-part-3-categorise-data-in-topics-copilotstudio-mcs-pva-techtok-diehardcopilot-youtube"/>
+        <updated>2023-12-15T19:47:54.000Z</updated>
+        <summary type="html"><![CDATA[source]]></summary>
+        <author>
+            <name>Matt Collins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can Microsoft Ever Catch Salesforce?]]></title>
         <id>https://365community.online/can-microsoft-ever-catch-salesforce</id>
