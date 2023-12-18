@@ -1850,6 +1850,16 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/new-website-again",
+          "author": "Jen Kuntz",
+          "description": "I'm pleased to announce a new and improved website (for the second time this year)! Yes, it's a little embarrassing to admit that my earlier migration to Hugo & Azure […]",
+          "link": "https://365community.online/new-website-again",
+          "publishedOn": "2023-12-17T15:59:24.000Z",
+          "wordCount": 3039,
+          "title": "New website (again)!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Moving-website-to-Hugo-amp-Azure.jpg?fit=1200%2C916&ssl=1"
+        },
+        {
           "id": "https://365community.online/ep-15-daryl-labar-on-the-devconnect-show-youtube",
           "author": "Danish Naglekar",
           "description": "In this video we chat with Daryl LaBar about his tool “Early Bound Generator v2”, his journey in Power Platform and how he came up with idea for this tool […]",
@@ -1858,6 +1868,66 @@
           "wordCount": 3047,
           "title": "Ep.15: Daryl LaBar on The DevConnect Show – YouTube",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1702763460_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/stack-in-data-structure-stack-implementation-data-structures-and-algorithms-tutorial-youtube",
+          "author": "Sourav Raj",
+          "description": "Stack in Data Structure | Stack Implementation | Data Structures and Algorithms Tutorial In DSA, stacks are ordered collections with a Last In, First Out (LIFO) structure. They support efficient […]",
+          "link": "https://365community.online/stack-in-data-structure-stack-implementation-data-structures-and-algorithms-tutorial-youtube",
+          "publishedOn": "2023-12-16T17:59:07.000Z",
+          "wordCount": 3299,
+          "title": "Stack in Data Structure | Stack Implementation | Data Structures and Algorithms Tutorial – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1702788718_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/hashtable-hashmap-in-data-structures-hash-table-with-example-youtube",
+          "author": "Sourav Raj",
+          "description": "HashTable/HashMap in Data Structures | Hash Table with Example A Hash Table in DSA is a data structure that uses hash functions to map keys to indices, facilitating quick retrieval […]",
+          "link": "https://365community.online/hashtable-hashmap-in-data-structures-hash-table-with-example-youtube",
+          "publishedOn": "2023-12-16T17:57:42.000Z",
+          "wordCount": 3265,
+          "title": "HashTable/HashMap in Data Structures | Hash Table with Example – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1702803072_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/hashing-in-data-structures-what-is-hashing-with-example-youtube",
+          "author": "Sourav Raj",
+          "description": "Hashing in Data Structures | What is Hashing with Example Hashing is a technique in data structures that maps data to a fixed-size array using a hash function, enabling quick […]",
+          "link": "https://365community.online/hashing-in-data-structures-what-is-hashing-with-example-youtube",
+          "publishedOn": "2023-12-16T17:57:39.000Z",
+          "wordCount": 3333,
+          "title": "Hashing in Data Structures | What is Hashing with Example – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1702817318_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/what-are-data-structures-types-of-data-structures-explained-youtube",
+          "author": "Sourav Raj",
+          "description": "What are Data Structures? | Types of Data Structures Explained Ever wondered how computers efficiently manage and organize vast amounts of information? Welcome to the world of Data Structures! What […]",
+          "link": "https://365community.online/what-are-data-structures-types-of-data-structures-explained-youtube",
+          "publishedOn": "2023-12-16T17:57:15.000Z",
+          "wordCount": 3281,
+          "title": "What are Data Structures? | Types of Data Structures Explained – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1702831450_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/binary-search-in-data-structures-binary-search-algorithm-with-example-youtube",
+          "author": "Sourav Raj",
+          "description": "Binary Search in Data Structures | Binary Search Algorithm with Example In this comprehensive guide, we unravel the efficiency and elegance of the Binary Search algorithm, a fundamental method for […]",
+          "link": "https://365community.online/binary-search-in-data-structures-binary-search-algorithm-with-example-youtube",
+          "publishedOn": "2023-12-16T17:55:30.000Z",
+          "wordCount": 3233,
+          "title": "Binary Search in Data Structures | Binary Search Algorithm with Example – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1702845796_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/use-gen-ai-to-answer-a-question-copilotstudio-copilot-diehardcopilot-mcs-powerplatform-youtube",
+          "author": "Matt Collins",
+          "description": "source",
+          "link": "https://365community.online/use-gen-ai-to-answer-a-question-copilotstudio-copilot-diehardcopilot-mcs-powerplatform-youtube",
+          "publishedOn": "2023-12-16T13:00:07.000Z",
+          "wordCount": 2942,
+          "title": "Use Gen AI to answer a question #CopilotStudio #Copilot #DieHardCopilot #MCS #PowerPlatform – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1702850313_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         },
         {
           "id": "https://365community.online/how-to-add-any-font-to-power-pages-site",

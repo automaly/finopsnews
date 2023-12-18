@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-12-17T00:43:19.807Z</updated>
+    <updated>2023-12-18T00:41:12.681Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New website (again)!]]></title>
+        <id>https://365community.online/new-website-again</id>
+        <link href="https://365community.online/new-website-again"/>
+        <updated>2023-12-17T15:59:24.000Z</updated>
+        <summary type="html"><![CDATA[I'm pleased to announce a new and improved website (for the second time this year)! Yes, it's a little embarrassing to admit that my earlier migration to Hugo & Azure […]]]></summary>
+        <author>
+            <name>Jen Kuntz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ep.15: Daryl LaBar on The DevConnect Show – YouTube]]></title>
         <id>https://365community.online/ep-15-daryl-labar-on-the-devconnect-show-youtube</id>
@@ -14,6 +24,66 @@
         <summary type="html"><![CDATA[In this video we chat with Daryl LaBar about his tool “Early Bound Generator v2”, his journey in Power Platform and how he came up with idea for this tool […]]]></summary>
         <author>
             <name>Danish Naglekar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stack in Data Structure | Stack Implementation | Data Structures and Algorithms Tutorial – YouTube]]></title>
+        <id>https://365community.online/stack-in-data-structure-stack-implementation-data-structures-and-algorithms-tutorial-youtube</id>
+        <link href="https://365community.online/stack-in-data-structure-stack-implementation-data-structures-and-algorithms-tutorial-youtube"/>
+        <updated>2023-12-16T17:59:07.000Z</updated>
+        <summary type="html"><![CDATA[Stack in Data Structure | Stack Implementation | Data Structures and Algorithms Tutorial In DSA, stacks are ordered collections with a Last In, First Out (LIFO) structure. They support efficient […]]]></summary>
+        <author>
+            <name>Sourav Raj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HashTable/HashMap in Data Structures | Hash Table with Example – YouTube]]></title>
+        <id>https://365community.online/hashtable-hashmap-in-data-structures-hash-table-with-example-youtube</id>
+        <link href="https://365community.online/hashtable-hashmap-in-data-structures-hash-table-with-example-youtube"/>
+        <updated>2023-12-16T17:57:42.000Z</updated>
+        <summary type="html"><![CDATA[HashTable/HashMap in Data Structures | Hash Table with Example A Hash Table in DSA is a data structure that uses hash functions to map keys to indices, facilitating quick retrieval […]]]></summary>
+        <author>
+            <name>Sourav Raj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hashing in Data Structures | What is Hashing with Example – YouTube]]></title>
+        <id>https://365community.online/hashing-in-data-structures-what-is-hashing-with-example-youtube</id>
+        <link href="https://365community.online/hashing-in-data-structures-what-is-hashing-with-example-youtube"/>
+        <updated>2023-12-16T17:57:39.000Z</updated>
+        <summary type="html"><![CDATA[Hashing in Data Structures | What is Hashing with Example Hashing is a technique in data structures that maps data to a fixed-size array using a hash function, enabling quick […]]]></summary>
+        <author>
+            <name>Sourav Raj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are Data Structures? | Types of Data Structures Explained – YouTube]]></title>
+        <id>https://365community.online/what-are-data-structures-types-of-data-structures-explained-youtube</id>
+        <link href="https://365community.online/what-are-data-structures-types-of-data-structures-explained-youtube"/>
+        <updated>2023-12-16T17:57:15.000Z</updated>
+        <summary type="html"><![CDATA[What are Data Structures? | Types of Data Structures Explained Ever wondered how computers efficiently manage and organize vast amounts of information? Welcome to the world of Data Structures! What […]]]></summary>
+        <author>
+            <name>Sourav Raj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binary Search in Data Structures | Binary Search Algorithm with Example – YouTube]]></title>
+        <id>https://365community.online/binary-search-in-data-structures-binary-search-algorithm-with-example-youtube</id>
+        <link href="https://365community.online/binary-search-in-data-structures-binary-search-algorithm-with-example-youtube"/>
+        <updated>2023-12-16T17:55:30.000Z</updated>
+        <summary type="html"><![CDATA[Binary Search in Data Structures | Binary Search Algorithm with Example In this comprehensive guide, we unravel the efficiency and elegance of the Binary Search algorithm, a fundamental method for […]]]></summary>
+        <author>
+            <name>Sourav Raj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use Gen AI to answer a question #CopilotStudio #Copilot #DieHardCopilot #MCS #PowerPlatform – YouTube]]></title>
+        <id>https://365community.online/use-gen-ai-to-answer-a-question-copilotstudio-copilot-diehardcopilot-mcs-powerplatform-youtube</id>
+        <link href="https://365community.online/use-gen-ai-to-answer-a-question-copilotstudio-copilot-diehardcopilot-mcs-powerplatform-youtube"/>
+        <updated>2023-12-16T13:00:07.000Z</updated>
+        <summary type="html"><![CDATA[source]]></summary>
+        <author>
+            <name>Matt Collins</name>
         </author>
     </entry>
     <entry>
