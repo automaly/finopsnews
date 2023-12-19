@@ -346,6 +346,66 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=102634",
+          "author": "StockIQ Technologies",
+          "description": "Supply chain resilience (SCR) is the ability of a supply chain to withstand and recover from various disruptions, such as natural disasters, pandemics, trade wars, cyberattacks, and economic instability. SCR …  Evaluating Supply Chain Resilience Read More »\nThe post Evaluating Supply Chain Resilience appeared first on ERP Software Blog.\nA Proactive Approach To Stock Outs\n7 Common Problems to Avoid in Demand Forecasting\n6 Strategies to Cut Costs Across Your Supply Chain",
+          "link": "https://erpsoftwareblog.com/2023/12/evaluating-supply-chain-resilience/",
+          "publishedOn": "2023-12-18T21:53:26.000Z",
+          "wordCount": 7750,
+          "title": "Evaluating Supply Chain Resilience",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=102631",
+          "author": "Andrew King, WebSan Solutions, Inc.",
+          "description": "This blog post delves into the crucial topic of evaluating Microsoft Dynamics partners. This discussion was part of our Dynamics Virtual Launchpad, a virtual conference held in November 2023. If …  Red Flags or Green Lights? Questions to Ask When Evaluating Microsoft Dynamics Partners Read More »\nThe post Red Flags or Green Lights? Questions to Ask When Evaluating Microsoft Dynamics Partners appeared first on ERP Software Blog.\n5 Reasons Why Outsourcing Your ERP Needs is the Best Choice\n3 Sure Steps to a Smooth Microsoft Dynamics Implementation\nHow Dynamics 365 Business Central meet the Manufacturer’s expectations?",
+          "link": "https://erpsoftwareblog.com/2023/12/red-flags-or-green-lights-questions-to-ask-when-evaluating-microsoft-dynamics-partners/",
+          "publishedOn": "2023-12-18T20:54:27.000Z",
+          "wordCount": 7561,
+          "title": "Red Flags or Green Lights? Questions to Ask When Evaluating Microsoft Dynamics Partners",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=102590",
+          "author": "Unified A/R",
+          "description": "Cash flow management is critical to the success and sustainability of any business. Accurate and timely payment posting is an essential aspect of this process and a challenge for businesses …  Automating Cash Application in Dynamics 365 Business Central: Streamlining Your Back Office for Efficiency and Growth Read More »\nThe post Automating Cash Application in Dynamics 365 Business Central: Streamlining Your Back Office for Efficiency and Growth appeared first on ERP Software Blog.\nRecorded webinar: Enhance your production schedule in BC with Gantt charts\nProtect Your Business from Data Loss with Microsoft’s Data Loss Prevention Software\nImportance of Quality Management System in Pharmaceutical Industry: QMS",
+          "link": "https://erpsoftwareblog.com/2023/12/automating-cash-application-in-dynamics-365-business-central-streamlining-your-back-office-for-efficiency-and-growth/",
+          "publishedOn": "2023-12-18T18:12:09.000Z",
+          "wordCount": 7578,
+          "title": "Automating Cash Application in Dynamics 365 Business Central: Streamlining Your Back Office for Efficiency and Growth",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=102600",
+          "author": "Kwixand Solutions Inc.",
+          "description": "In an era where agility and efficiency drive business success, the significance of adopting cloud ERP solutions cannot be overstated. Cloud ERP is reshaping the way organizations like yours manage …  7 Reasons You Need a Cloud ERP Solution Read More »\nThe post 7 Reasons You Need a Cloud ERP Solution appeared first on ERP Software Blog.\nHow Microsoft Dynamics 365 Business Central Can Help You Keep Pace\nHow an Industry-Specific Solution Can Change Your Life\nHow Cloud ERP Benefits Your Manufacturing Business",
+          "link": "https://erpsoftwareblog.com/2023/12/7-reasons-you-need-a-cloud-erp-solution/",
+          "publishedOn": "2023-12-18T15:00:34.000Z",
+          "wordCount": 8379,
+          "title": "7 Reasons You Need a Cloud ERP Solution",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Erp-Software-Blog-Post-3.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=102486",
+          "author": "Netstock",
+          "description": "In How to Reduce Inventory Bloat with Netstock and Dynamics 365, Part 1, we discussed the importance of inventory reduction and how it can benefit your operation and your bottom …  How to Reduce Inventory Bloat with Netstock and Dynamics 365, Part 2 Read More »\nThe post How to Reduce Inventory Bloat with Netstock and Dynamics 365, Part 2 appeared first on ERP Software Blog.\nInfographie: Gestion de projets - Comblez le fossé entre vos finances et vos opérations\nPreview of the 2SEE Application coming to KEY2ACT’s MobileTech\nComment un nouveau système financier peut-il améliorer vos capacités de rapports? – Liste d’évaluation d’un nouveau système ERP #2",
+          "link": "https://erpsoftwareblog.com/2023/12/how-to-reduce-inventory-bloat-with-netstock-and-dynamics-365-part-2/",
+          "publishedOn": "2023-12-18T12:41:47.000Z",
+          "wordCount": 7874,
+          "title": "How to Reduce Inventory Bloat with Netstock and Dynamics 365, Part 2",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2023-12-How-to-Reduce-Inventory-Bloat-with-Netstock-and-Dynamics-365-Part-2_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=102614",
+          "author": "Dynamics Square USA",
+          "description": "Bank reconciliation is a critical process for every company that wants to maintain the accuracy and integrity of its financial records. However, without the correct software, this process can be …  Bank Reconciliation in Dynamics 365 Business Central Read More »\nThe post Bank Reconciliation in Dynamics 365 Business Central appeared first on ERP Software Blog.\nStreamline Purchase & Sales Orders with Free App for Business Central\nProduct Configurators for Microsoft Dynamics 365 Business Central\nDon't Miss These Microsoft Dynamics Year-End Prep Webinars",
+          "link": "https://erpsoftwareblog.com/2023/12/bank-reconciliation-in-dynamics-365-business-central/",
+          "publishedOn": "2023-12-18T10:02:02.000Z",
+          "wordCount": 8346,
+          "title": "Bank Reconciliation in Dynamics 365 Business Central",
+          "imageUrl": "https://learn.microsoft.com/en-us/training/modules/bank-reconciliation-dynamics-365-business-central/media/bank-account-reconciliation-ss.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=102564",
           "author": "x2x eCommerce",
           "description": "Automating business processes through an ERP system involves leveraging the system's capabilities to streamline and optimize various processes within an organization. Consider the following steps to effectively automate business processes …  Automating business processes through an ERP Read More »\nThe post Automating business processes through an ERP appeared first on ERP Software Blog.\nFuture trends in ERP & eCommerce Integrations\nHow will Artificial Intelligence (AI) Impact ERP Software?\nProduct Recommendation Engine: Use AI in D365 to Recommend Products to Rental Customers",
@@ -1683,6 +1743,26 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=60744",
+          "author": "Jim Slinn",
+          "description": "Why Are On-Premise Customers Moving to the Cloud? (Video)\nMany on-premise Dynamics GP, NAV, and AX customers are moving to a cloud solution like Dynamics 365 Business Central or Dynamics 365 Finance & Operations. Every company’s situation and needs are different, therefore there are different factors to consider when moving to the cloud. During this recorded webinar, we discuss the core reasons clients are...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/why-are-on-premise-customers-moving-to-the-cloud/",
+          "publishedOn": "2023-12-18T15:33:32.000Z",
+          "wordCount": 5470,
+          "title": "Why Are On-Premise Customers Moving to the Cloud? (Video)",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2023/12/Why-On-Premise-Customers-Moving-Cloud-img.jpg"
+        },
+        {
+          "id": "https://www.encorebusiness.com/?p=60713",
+          "author": "Don McNulty",
+          "description": "Maintenance of SOP Tables in Dynamics GP (Video)\nFind out what happens in SOP to cause orphan records in Dynamics GP, and why we care. Learn about removing these transactions and how that affects inventory allocations. ﻿﻿﻿﻿﻿ Transcript below: – [Katie] Hello, everyone. Thank you for joining us today for our Dynamics GP Coffee Break, Maintenance of SOP Tables. My name is Katie...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/maintenance-of-sop-tables-gp/",
+          "publishedOn": "2023-12-14T20:45:14.000Z",
+          "wordCount": 4917,
+          "title": "Maintenance of SOP Tables in Dynamics GP (Video)",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Dynamics-GP-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=60713",
           "author": "Don McNulty",
           "description": "Maintenance of SOP Tables (Video)\nFind out what happens in SOP to cause orphan records in Dynamics GP, and why we care. Learn about removing these transactions and how that affects inventory allocations. ﻿﻿﻿﻿﻿ Transcript below: – [Katie] Hello, everyone. Thank you for joining us today for our Dynamics GP Coffee Break, Maintenance of SOP Tables. My name is Katie...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -1849,6 +1929,76 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/how-to-change-the-base-url-of-a-website-power-pages",
+          "author": "Nishant Rana",
+          "description": "To change the base URL of a website, navigate to Power Platform Admin Center >> Resources >> Power Pages sites, select the site, and click on Manage. https://admin.powerplatform.microsoft.com/resources/portals Select the […]",
+          "link": "https://365community.online/how-to-change-the-base-url-of-a-website-power-pages",
+          "publishedOn": "2023-12-18T19:00:00.000Z",
+          "wordCount": 3074,
+          "title": "How to – Change the base URL of a website (Power Pages)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/How-to-–-Change-the-base-URL-of-a-website.jpeg?fit=1200%2C799&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-create-desktop-flows-using-natural-language-with-copilot",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-create-desktop-flows-using-natural-language-with-copilot",
+          "publishedOn": "2023-12-18T15:00:48.000Z",
+          "wordCount": 3116,
+          "title": "New Functionality In Microsoft Power Automate 2023 Wave 2: Create Desktop Flows Using Natural Language with Copilot",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/happy-holiday-season-from-simplanova-team-youtube",
+          "author": "Ieva Kukeviciene",
+          "description": "Wishing you a Joyful Holiday Season from Simplanova! As the year comes to a close, we extend our heartfelt gratitude to dedicated partners, and amazing employees. Wishing you a joyous […]",
+          "link": "https://365community.online/happy-holiday-season-from-simplanova-team-youtube",
+          "publishedOn": "2023-12-18T12:35:27.000Z",
+          "wordCount": 2985,
+          "title": "Happy Holiday Season from Simplanova Team! – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1702912927_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-post-pick-from-a-warehouse-pick-document-and-post-shipment-from-a-warehouse-shipment-document",
+          "author": "Ian Grieve",
+          "description": "This post is part of the In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, […]",
+          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-post-pick-from-a-warehouse-pick-document-and-post-shipment-from-a-warehouse-shipment-document",
+          "publishedOn": "2023-12-18T11:00:33.000Z",
+          "wordCount": 3158,
+          "title": "In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… Post Pick From a Warehouse Pick Document and Post Shipment From a Warehouse Shipment Document",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1702898055_In-Microsoft-Dynamics-365-Business-Central-Inventory-and-Warehouse-Management.png?fit=1078%2C582&ssl=1"
+        },
+        {
+          "id": "https://365community.online/design-canvas-app-using-the-figma-ui-kit",
+          "author": "Inogic",
+          "description": "In today’s digital age, user experience is of utmost importance, and design plays a crucial role in creating compelling and user-friendly applications. Figma has emerged as a powerful design tool […]",
+          "link": "https://365community.online/design-canvas-app-using-the-figma-ui-kit",
+          "publishedOn": "2023-12-18T09:55:46.000Z",
+          "wordCount": 3306,
+          "title": "Design Canvas App using the Figma UI kit",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1Figma-UI-kit.jpeg?fit=1200%2C507&ssl=1"
+        },
+        {
+          "id": "https://365community.online/glasgow-azure-user-group-2023-wrap-up-youtube",
+          "author": "Sarah Lean ???????",
+          "description": "Glasgow Azure User Group 2023 Wrap Up A look back at the Glasgow Azure User Group in 2023! A look back at the Glasgow Azure User Group in 2023! source",
+          "link": "https://365community.online/glasgow-azure-user-group-2023-wrap-up-youtube",
+          "publishedOn": "2023-12-18T09:30:41.000Z",
+          "wordCount": 2935,
+          "title": "Glasgow Azure User Group 2023 Wrap Up – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1702939913_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/elevating-housing-association-customer-service-a-comprehensive-guide-to-microsoft-powered-modernisation",
+          "author": "Chris Roberts",
+          "description": "Housing associations nationwide are looking for ways to modernise their customer service operations. Most are dealing with legacy systems, and there is a growing need for an upgrade. This blog […]",
+          "link": "https://365community.online/elevating-housing-association-customer-service-a-comprehensive-guide-to-microsoft-powered-modernisation",
+          "publishedOn": "2023-12-18T07:14:52.000Z",
+          "wordCount": 3053,
+          "title": "Elevating Housing Association Customer Service: A Comprehensive Guide to Microsoft-Powered Modernisation",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Elevating-Housing-Association-Customer-Service-A-Comprehensive-Guide-to-Microsoft-Powered.jpg?fit=1200%2C1200&ssl=1"
+        },
         {
           "id": "https://365community.online/new-website-again",
           "author": "Jen Kuntz",
@@ -3083,6 +3233,16 @@
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
+        {
+          "id": "http://dynamicsax-fico.com/?p=5470",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2023/12/18/onboarding-new-employees-with-minecraft-power-platform/",
+          "publishedOn": "2023-12-18T05:18:39.000Z",
+          "wordCount": 3121,
+          "title": "Onboarding new employees with Minecraft & Power Platform",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/11/introen.jpg"
+        },
         {
           "id": "http://dynamicsax-fico.com/?p=5502",
           "author": "Ludwig Reinhard",
@@ -4373,6 +4533,16 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/12/14/begin-your-copilot-journey-with-summarization/",
+          "author": "Deepa Bansal",
+          "description": "How often do you find yourself spending too much time reading through long and complex customer cases, trying to figure out the main problem and the best solution? What amount of cases do you handle per day, and how do you ensure quality and consistency in your responses? How do you keep track of the\nThe post Begin your copilot journey with summarization appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/12/14/begin-your-copilot-journey-with-summarization/",
+          "publishedOn": "2023-12-14T18:00:00.000Z",
+          "wordCount": 2765,
+          "title": "Begin your copilot journey with summarization",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/11/Copilot-Image.jpg"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/12/08/business-central-dynamics-365-czech/",
           "author": "Predrag Maricic",
           "description": "Microsoft has separated all Czech-specific functionalities into distinct applications as part of the delocalization process of the Czech version of Dynamics 365 Business Central. T\nThe post Impact of Delocalization Process in the Czech Version of Business Central 2023 Wave 2 Release appeared first on Microsoft Dynamics 365 Blog.",
@@ -5486,6 +5656,16 @@
       "feedUrl": "https://paragchapre.com/feed/",
       "siteUrl": "https://paragchapre.com/",
       "articles": [
+        {
+          "id": "http://paragchapre.com/?p=12318",
+          "author": "paragchapre@gmail.com",
+          "description": "Introduction In the ever-evolving landscape of Human Resources management, it becomes imperative for organizations to leverage cutting-edge technologies that enhance efficiency and simplify complex processes. One such noteworthy feature in Dynamics 365 Human Resources is the ability to set a primary position for a new hire, a functionality designed to bring more clarity and structure […]\nThe post Streamlining Workforce Management: Setting Primary Positions in Dynamics 365 Human Resources appeared first on Parag Chapre.",
+          "link": "https://paragchapre.com/setting-primary-positions-in-d365-human-resources/?utm_source=rss&utm_medium=rss&utm_campaign=setting-primary-positions-in-d365-human-resources",
+          "publishedOn": "2023-12-18T05:30:42.000Z",
+          "wordCount": 5585,
+          "title": "Streamlining Workforce Management: Setting Primary Positions in Dynamics 365 Human Resources",
+          "imageUrl": "http://paragchapre.com/wp-content/uploads/2023/12/the-set-primary-position-.png"
+        },
         {
           "id": "https://paragchapre.com/?p=12306",
           "author": "paragchapre@gmail.com",
