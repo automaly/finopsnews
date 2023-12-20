@@ -2,10 +2,163 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-12-19T00:40:13.277Z</updated>
+    <updated>2023-12-20T00:32:53.520Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Integrate Dynamics 365 ERP with Dynamics CRM and Power BI]]></title>
+        <id>https://erpsoftwareblog.com/?p=102609</id>
+        <link href="https://erpsoftwareblog.com/2023/12/integrate-dynamics-365-erp-with-dynamics-crm-and-power-bi/"/>
+        <updated>2023-12-20T00:08:38.000Z</updated>
+        <summary type="html"><![CDATA[These days, business agility and data-driven decisions are key to successful outcomes. However, even with modern business application platforms like Dynamics 365, your sales and customer service teams won’t have …  Integrate Dynamics 365 ERP with Dynamics CRM and Power BI Read More »
+The post Integrate Dynamics 365 ERP with Dynamics CRM and Power BI appeared first on ERP Software Blog.
+Create a Closed-Loop Analysis, Planning, and Reporting Process
+ERP Year End Tips and Tricks - Dynamics GP, NAV, SL, POS, AX, RMS & Dynamics 365 Business Central
+Is Your ERP Software Incomplete Without BI?]]></summary>
+        <author>
+            <name>Western Computer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 Top Trends in Microsoft Dynamics Financial Reporting]]></title>
+        <id>https://erpsoftwareblog.com/?p=102668</id>
+        <link href="https://erpsoftwareblog.com/2023/12/2024-top-trends-in-microsoft-dynamics-financial-reporting/"/>
+        <updated>2023-12-19T20:18:53.000Z</updated>
+        <summary type="html"><![CDATA[As we enter 2024, we also enter a new era in financial reporting. The finance professional is dynamic and ever-changing, and so is the need to evolve current technologies. Understanding …  2024 Top Trends in Microsoft Dynamics Financial Reporting Read More »
+The post 2024 Top Trends in Microsoft Dynamics Financial Reporting appeared first on ERP Software Blog.
+Join Us At Dynamic Communities Summit - Booth 800
+Dynamics GP Reporting: Life After Management Reporter
+Can the web client be your answer to a portal?]]></summary>
+        <author>
+            <name>FYIsoft, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fix – This portal has multiple website bindings, which will cause issues with the portal (Power Pages)]]></title>
+        <id>https://365community.online/fix-this-portal-has-multiple-website-bindings-which-will-cause-issues-with-the-portal-power-pages</id>
+        <link href="https://365community.online/fix-this-portal-has-multiple-website-bindings-which-will-cause-issues-with-the-portal-power-pages"/>
+        <updated>2023-12-19T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently we updated the Site Details like the Site Name and Site URL of a particular Website (Power Platform Admin Center >> Resources >> Dynamics365apps, Select the Website and choose […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canadian Payroll Year-End Tax Update 2023]]></title>
+        <id>https://365community.online/canadian-payroll-year-end-tax-update-2023</id>
+        <link href="https://365community.online/canadian-payroll-year-end-tax-update-2023"/>
+        <updated>2023-12-19T17:05:02.000Z</updated>
+        <summary type="html"><![CDATA[Greetings everyone! Great news for those using Canadian Payroll in Dynamics GP, the tax update was released earlier than expected. Let the installs begin! There are a lot of changes […]]]></summary>
+        <author>
+            <name>Jen Kuntz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monitoring your Azure OpenAI usage]]></title>
+        <id>https://365community.online/monitoring-your-azure-openai-usage</id>
+        <link href="https://365community.online/monitoring-your-azure-openai-usage"/>
+        <updated>2023-12-19T16:55:17.000Z</updated>
+        <summary type="html"><![CDATA[I want to continue the saga of “using Azure OpenAI in a professional way” by talking a bit about a practice that you should always act: monitoring the AI usage. […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2023 Wave 2: UI Automation – Simulate Actions]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-ui-automation-simulate-actions</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-ui-automation-simulate-actions"/>
+        <updated>2023-12-19T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automate Sales Order Processing using ERP Integration]]></title>
+        <id>https://erpsoftwareblog.com/?p=102618</id>
+        <link href="https://erpsoftwareblog.com/2023/12/automate-sales-order-processing-using-erp-integration/"/>
+        <updated>2023-12-19T14:04:35.000Z</updated>
+        <summary type="html"><![CDATA[Automate Sales Order Processing using ERP Integration, as it can significantly enhance efficiency and simplify operations. The step-by-step guide to achieve this is as under: Understand ERP System Capabilities: Automation …  Automate Sales Order Processing using ERP Integration Read More »
+The post Automate Sales Order Processing using ERP Integration appeared first on ERP Software Blog.
+What A Prospect Learned When They Didn’t Choose Microsoft Dynamics GP & SalesPad
+Avoid Unintentional Consequences at All Costs
+Full Service Management for Construction Equipment Dealers: DynaRent for Microsoft Dynamics]]></summary>
+        <author>
+            <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2023 Wave 2: Modify Desktop Flows Using Natural Language with Copilot]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-modify-desktop-flows-using-natural-language-with-copilot</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-modify-desktop-flows-using-natural-language-with-copilot"/>
+        <updated>2023-12-19T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dissecting the Warehouse Management app layout]]></title>
+        <id>https://erconsult.eu/?p=8000</id>
+        <link href="https://erconsult.eu/blog/dissecting-the-warehouse-management-app-layout/"/>
+        <updated>2023-12-19T10:02:20.000Z</updated>
+        <summary type="html"><![CDATA[The Dynamics 365 Warehouse Management app utilizes a container-based system for control layout, incorporating heuristics and customizable rules. Controls without default values prompt user input in the Primary Input Area, creating a seamless experience. Strategic management of controls and rule customization ensures efficient workflow and user-friendly interaction within the app.
+The post Dissecting the Warehouse Management app layout appeared first on ER-Consult.]]></summary>
+        <author>
+            <name>Eugen Glasow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calculation Groups in Power BI]]></title>
+        <id>https://365community.online/calculation-groups-in-power-bi</id>
+        <link href="https://365community.online/calculation-groups-in-power-bi"/>
+        <updated>2023-12-19T09:24:43.000Z</updated>
+        <summary type="html"><![CDATA[Power BI, Microsoft’s Data Analytical tool works with data and provides an enhanced view of data to take further actions for customer business improvement. Microsoft has provided lots of features […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Builder GPT Prompts are generally available]]></title>
+        <id>ai-builder-gpt-prompts-are-generally-available</id>
+        <link href="https://powerautomate.microsoft.com/en-nz/blog/ai-builder-gpt-prompts-are-generally-available/"/>
+        <updated>2023-12-19T09:17:35.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce that GPT Prompts with Prompt Builder, a new feature of AI Builder, is now generally available! GPT Prompts are powerful tools that enable you to add Generative AI capabilities to your automated workflows.]]></summary>
+        <author>
+            <name>powerautomate.microsoft.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lookup Fields With Default Option in Realtime Marketing Forms]]></title>
+        <id>https://365community.online/lookup-fields-with-default-option-in-realtime-marketing-forms</id>
+        <link href="https://365community.online/lookup-fields-with-default-option-in-realtime-marketing-forms"/>
+        <updated>2023-12-19T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[There are number of different types of fields that can be added to a marketing form in Customer Insights – Journeys (D365 Marketing). Most commonly used are text fields such […]]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maker uses Power Platform to help his daughter manage diabetes]]></title>
+        <id>maker-uses-power-platform-to-help-his-daughter-manage-diabetes</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/maker-uses-power-platform-to-help-his-daughter-manage-diabetes/"/>
+        <updated>2023-12-19T07:53:25.000Z</updated>
+        <summary type="html"><![CDATA[An application built using Power Apps and Power Automate helps log and calculate data for managing diabetes.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Santa’s “Ho Ho Ho” message to welcome  good 😀 Makers (Managed Environments)]]></title>
+        <id>https://365community.online/santas-ho-ho-ho-message-to-welcome-good-%f0%9f%98%80-makers-managed-environments</id>
+        <link href="https://365community.online/santas-ho-ho-ho-message-to-welcome-good-%f0%9f%98%80-makers-managed-environments"/>
+        <updated>2023-12-18T23:57:42.000Z</updated>
+        <summary type="html"><![CDATA[Extending a warm welcome to the Makers starting on the environment is a wonderful idea, especially as Christmas is approaching. We won’t miss the opportunity to send them some heartfelt […]]]></summary>
+        <author>
+            <name>Olena Grischenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Evaluating Supply Chain Resilience]]></title>
         <id>https://erpsoftwareblog.com/?p=102634</id>
@@ -42,6 +195,17 @@ How Dynamics 365 Business Central meet the Manufacturer’s expectations?]]></su
         <summary type="html"><![CDATA[To change the base URL of a website, navigate to Power Platform Admin Center >> Resources >> Power Pages sites, select the site, and click on Manage. https://admin.powerplatform.microsoft.com/resources/portals Select the […]]]></summary>
         <author>
             <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experience the power of Copilot in Dynamics 365 Field Service in the mobile application]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/12/18/experience-the-power-of-copilot-in-dynamics-365-field-service-in-the-mobile-application/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/12/18/experience-the-power-of-copilot-in-dynamics-365-field-service-in-the-mobile-application/"/>
+        <updated>2023-12-18T18:27:24.000Z</updated>
+        <summary type="html"><![CDATA[Field Service mobile is a powerful application that helps frontline workers manage their tasks, access information, and communicate updates with the back office. 
+The post Experience the power of Copilot in Dynamics 365 Field Service in the mobile application appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Jonathan Baker</name>
         </author>
     </entry>
     <entry>

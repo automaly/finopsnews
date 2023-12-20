@@ -346,6 +346,36 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=102609",
+          "author": "Western Computer",
+          "description": "These days, business agility and data-driven decisions are key to successful outcomes. However, even with modern business application platforms like Dynamics 365, your sales and customer service teams won’t have …  Integrate Dynamics 365 ERP with Dynamics CRM and Power BI Read More »\nThe post Integrate Dynamics 365 ERP with Dynamics CRM and Power BI appeared first on ERP Software Blog.\nCreate a Closed-Loop Analysis, Planning, and Reporting Process\nERP Year End Tips and Tricks - Dynamics GP, NAV, SL, POS, AX, RMS & Dynamics 365 Business Central\nIs Your ERP Software Incomplete Without BI?",
+          "link": "https://erpsoftwareblog.com/2023/12/integrate-dynamics-365-erp-with-dynamics-crm-and-power-bi/",
+          "publishedOn": "2023-12-20T00:08:38.000Z",
+          "wordCount": 7777,
+          "title": "Integrate Dynamics 365 ERP with Dynamics CRM and Power BI",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2023-12-ERP-Unify-Operations-by-Integrating-Dynamics-365-ERP-with-CRM-and-Using-Power-BI_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=102668",
+          "author": "FYIsoft, Inc.",
+          "description": "As we enter 2024, we also enter a new era in financial reporting. The finance professional is dynamic and ever-changing, and so is the need to evolve current technologies. Understanding …  2024 Top Trends in Microsoft Dynamics Financial Reporting Read More »\nThe post 2024 Top Trends in Microsoft Dynamics Financial Reporting appeared first on ERP Software Blog.\nJoin Us At Dynamic Communities Summit - Booth 800\nDynamics GP Reporting: Life After Management Reporter\nCan the web client be your answer to a portal?",
+          "link": "https://erpsoftwareblog.com/2023/12/2024-top-trends-in-microsoft-dynamics-financial-reporting/",
+          "publishedOn": "2023-12-19T20:18:53.000Z",
+          "wordCount": 7874,
+          "title": "2024 Top Trends in Microsoft Dynamics Financial Reporting",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Featured-Image-2024-Top-Trends-in-Microsoft-Dynamics-Financial-Reporting.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=102618",
+          "author": "x2x eCommerce",
+          "description": "Automate Sales Order Processing using ERP Integration, as it can significantly enhance efficiency and simplify operations. The step-by-step guide to achieve this is as under: Understand ERP System Capabilities: Automation …  Automate Sales Order Processing using ERP Integration Read More »\nThe post Automate Sales Order Processing using ERP Integration appeared first on ERP Software Blog.\nWhat A Prospect Learned When They Didn’t Choose Microsoft Dynamics GP & SalesPad\nAvoid Unintentional Consequences at All Costs\nFull Service Management for Construction Equipment Dealers: DynaRent for Microsoft Dynamics",
+          "link": "https://erpsoftwareblog.com/2023/12/automate-sales-order-processing-using-erp-integration/",
+          "publishedOn": "2023-12-19T14:04:35.000Z",
+          "wordCount": 7362,
+          "title": "Automate Sales Order Processing using ERP Integration",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Add-a-subheading-32-300x169.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=102634",
           "author": "StockIQ Technologies",
           "description": "Supply chain resilience (SCR) is the ability of a supply chain to withstand and recover from various disruptions, such as natural disasters, pandemics, trade wars, cyberattacks, and economic instability. SCR …  Evaluating Supply Chain Resilience Read More »\nThe post Evaluating Supply Chain Resilience appeared first on ERP Software Blog.\nA Proactive Approach To Stock Outs\n7 Common Problems to Avoid in Demand Forecasting\n6 Strategies to Cut Costs Across Your Supply Chain",
@@ -1929,6 +1959,86 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/fix-this-portal-has-multiple-website-bindings-which-will-cause-issues-with-the-portal-power-pages",
+          "author": "Nishant Rana",
+          "description": "Recently we updated the Site Details like the Site Name and Site URL of a particular Website (Power Platform Admin Center >> Resources >> Dynamics365apps, Select the Website and choose […]",
+          "link": "https://365community.online/fix-this-portal-has-multiple-website-bindings-which-will-cause-issues-with-the-portal-power-pages",
+          "publishedOn": "2023-12-19T19:00:00.000Z",
+          "wordCount": 3094,
+          "title": "Fix – This portal has multiple website bindings, which will cause issues with the portal (Power Pages)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Fix-–-This-portal-has-multiple-website-bindings-which-will.jpeg?fit=1200%2C794&ssl=1"
+        },
+        {
+          "id": "https://365community.online/canadian-payroll-year-end-tax-update-2023",
+          "author": "Jen Kuntz",
+          "description": "Greetings everyone! Great news for those using Canadian Payroll in Dynamics GP, the tax update was released earlier than expected. Let the installs begin! There are a lot of changes […]",
+          "link": "https://365community.online/canadian-payroll-year-end-tax-update-2023",
+          "publishedOn": "2023-12-19T17:05:02.000Z",
+          "wordCount": 3057,
+          "title": "Canadian Payroll Year-End Tax Update 2023",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Moving-website-to-Hugo-amp-Azure.jpg?fit=1200%2C916&ssl=1"
+        },
+        {
+          "id": "https://365community.online/monitoring-your-azure-openai-usage",
+          "author": "Stefano Demiliani",
+          "description": "I want to continue the saga of “using Azure OpenAI in a professional way” by talking a bit about a practice that you should always act: monitoring the AI usage. […]",
+          "link": "https://365community.online/monitoring-your-azure-openai-usage",
+          "publishedOn": "2023-12-19T16:55:17.000Z",
+          "wordCount": 3054,
+          "title": "Monitoring your Azure OpenAI usage",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Monitoring-your-Azure-OpenAI-usage.png?fit=1200%2C712&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-ui-automation-simulate-actions",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-ui-automation-simulate-actions",
+          "publishedOn": "2023-12-19T15:00:00.000Z",
+          "wordCount": 3099,
+          "title": "New Functionality In Microsoft Power Automate 2023 Wave 2: UI Automation – Simulate Actions",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-modify-desktop-flows-using-natural-language-with-copilot",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-modify-desktop-flows-using-natural-language-with-copilot",
+          "publishedOn": "2023-12-19T11:00:00.000Z",
+          "wordCount": 3109,
+          "title": "New Functionality In Microsoft Power Automate 2023 Wave 2: Modify Desktop Flows Using Natural Language with Copilot",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/calculation-groups-in-power-bi",
+          "author": "Inogic",
+          "description": "Power BI, Microsoft’s Data Analytical tool works with data and provides an enhanced view of data to take further actions for customer business improvement. Microsoft has provided lots of features […]",
+          "link": "https://365community.online/calculation-groups-in-power-bi",
+          "publishedOn": "2023-12-19T09:24:43.000Z",
+          "wordCount": 3296,
+          "title": "Calculation Groups in Power BI",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1Calculation-Groups-in-Power-BI.jpeg?fit=1200%2C638&ssl=1"
+        },
+        {
+          "id": "https://365community.online/lookup-fields-with-default-option-in-realtime-marketing-forms",
+          "author": "Megan V. Walker",
+          "description": "There are number of different types of fields that can be added to a marketing form in Customer Insights – Journeys (D365 Marketing). Most commonly used are text fields such […]",
+          "link": "https://365community.online/lookup-fields-with-default-option-in-realtime-marketing-forms",
+          "publishedOn": "2023-12-19T08:30:00.000Z",
+          "wordCount": 3030,
+          "title": "Lookup Fields With Default Option in Realtime Marketing Forms",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Lookup-Fields-With-Default-Option-in-Realtime-Marketing-Forms.jpg?fit=1200%2C869&ssl=1"
+        },
+        {
+          "id": "https://365community.online/santas-ho-ho-ho-message-to-welcome-good-%f0%9f%98%80-makers-managed-environments",
+          "author": "Olena Grischenko",
+          "description": "Extending a warm welcome to the Makers starting on the environment is a wonderful idea, especially as Christmas is approaching. We won’t miss the opportunity to send them some heartfelt […]",
+          "link": "https://365community.online/santas-ho-ho-ho-message-to-welcome-good-%f0%9f%98%80-makers-managed-environments",
+          "publishedOn": "2023-12-18T23:57:42.000Z",
+          "wordCount": 3083,
+          "title": "Santa’s “Ho Ho Ho” message to welcome  good 😀 Makers (Managed Environments)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Santas-Ho-Ho-Ho-message-to-welcome-good-Makers-Managed.png?fit=1200%2C853&ssl=1"
+        },
         {
           "id": "https://365community.online/how-to-change-the-base-url-of-a-website-power-pages",
           "author": "Nishant Rana",
@@ -4533,6 +4643,16 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/12/18/experience-the-power-of-copilot-in-dynamics-365-field-service-in-the-mobile-application/",
+          "author": "Jonathan Baker",
+          "description": "Field Service mobile is a powerful application that helps frontline workers manage their tasks, access information, and communicate updates with the back office. \nThe post Experience the power of Copilot in Dynamics 365 Field Service in the mobile application appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2023/12/18/experience-the-power-of-copilot-in-dynamics-365-field-service-in-the-mobile-application/",
+          "publishedOn": "2023-12-18T18:27:24.000Z",
+          "wordCount": 2881,
+          "title": "Experience the power of Copilot in Dynamics 365 Field Service in the mobile application",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/12/IMG_4538-portrait.png"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/12/14/begin-your-copilot-journey-with-summarization/",
           "author": "Deepa Bansal",
           "description": "How often do you find yourself spending too much time reading through long and complex customer cases, trying to figure out the main problem and the best solution? What amount of cases do you handle per day, and how do you ensure quality and consistency in your responses? How do you keep track of the\nThe post Begin your copilot journey with summarization appeared first on Microsoft Dynamics 365 Blog.",
@@ -6401,6 +6521,16 @@
       "siteUrl": "https://erconsult.eu/",
       "articles": [
         {
+          "id": "https://erconsult.eu/?p=8000",
+          "author": "Eugen Glasow",
+          "description": "The Dynamics 365 Warehouse Management app utilizes a container-based system for control layout, incorporating heuristics and customizable rules. Controls without default values prompt user input in the Primary Input Area, creating a seamless experience. Strategic management of controls and rule customization ensures efficient workflow and user-friendly interaction within the app.\nThe post Dissecting the Warehouse Management app layout appeared first on ER-Consult.",
+          "link": "https://erconsult.eu/blog/dissecting-the-warehouse-management-app-layout/",
+          "publishedOn": "2023-12-19T10:02:20.000Z",
+          "wordCount": 2061,
+          "title": "Dissecting the Warehouse Management app layout",
+          "imageUrl": "https://erconsult.eu/wp-content/uploads/2023/12/PrimaryInputArea.png"
+        },
+        {
           "id": "https://erconsult.eu/?p=7894",
           "author": "Eugen Glasow",
           "description": "When utilizing configurable business documents (Electronic Reporting) in Dynamics 365, additional steps are required to dispatch various documents such as invoices, delivery notes (referred to as packing slips in the US), sales order confirmations to customers, or purchase order requests to suppliers. Begin as usual with Accounts receivable > Setup > […]\nThe post How NOT to send an order confirmation per e-mail appeared first on ER-Consult.",
@@ -6637,6 +6767,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "maker-uses-power-platform-to-help-his-daughter-manage-diabetes",
+          "author": null,
+          "description": "An application built using Power Apps and Power Automate helps log and calculate data for managing diabetes.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/maker-uses-power-platform-to-help-his-daughter-manage-diabetes/",
+          "publishedOn": "2023-12-19T07:53:25.000Z",
+          "wordCount": 2740,
+          "title": "Maker uses Power Platform to help his daughter manage diabetes",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "environment-variables-are-now-always-visible-and-editable-during-solution-import-and-pipeline-deployments",
           "author": null,
@@ -7092,6 +7232,16 @@
       "feedUrl": "https://powerautomate.microsoft.com/en-nz/blog/feed/",
       "siteUrl": "https://powerautomate.microsoft.com/en-nz/blog/",
       "articles": [
+        {
+          "id": "ai-builder-gpt-prompts-are-generally-available",
+          "author": null,
+          "description": "We are excited to announce that GPT Prompts with Prompt Builder, a new feature of AI Builder, is now generally available! GPT Prompts are powerful tools that enable you to add Generative AI capabilities to your automated workflows.",
+          "link": "https://powerautomate.microsoft.com/en-nz/blog/ai-builder-gpt-prompts-are-generally-available/",
+          "publishedOn": "2023-12-19T09:17:35.000Z",
+          "wordCount": 3058,
+          "title": "AI Builder GPT Prompts are generally available",
+          "imageUrl": null
+        },
         {
           "id": "announcing-azure-key-vault-credentials-for-desktop-flow-connections-preview",
           "author": null,
