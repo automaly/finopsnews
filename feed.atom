@@ -2,10 +2,115 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-12-21T00:39:49.356Z</updated>
+    <updated>2023-12-22T00:39:37.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Activate and Deactivate Features in SharePoint form Power Automate Flows]]></title>
+        <id>https://365community.online/activate-and-deactivate-features-in-sharepoint-form-power-automate-flows</id>
+        <link href="https://365community.online/activate-and-deactivate-features-in-sharepoint-form-power-automate-flows"/>
+        <updated>2023-12-21T19:17:15.000Z</updated>
+        <summary type="html"><![CDATA[Enabling a SharePoint feature from a flow in Power Automate is easy, but how do you deactivate features? Activate a feature in SharePoint I’ve got a SharePoint site and I […]]]></summary>
+        <author>
+            <name>Pieter Veenstra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 Transportation Management Highlights for Dynamics 365 Users]]></title>
+        <id>https://erpsoftwareblog.com/?p=102643</id>
+        <link href="https://erpsoftwareblog.com/2023/12/2023-transportation-management-highlights-for-dynamics-365-users/"/>
+        <updated>2023-12-21T19:00:49.000Z</updated>
+        <summary type="html"><![CDATA[2023 has been a significant year for the transportation management industry. The field has seen notable growth and advancements, particularly in the wake of rebalancing post-COVID-19 disruptions. In this article, …  2023 Transportation Management Highlights for Dynamics 365 Users Read More »
+The post 2023 Transportation Management Highlights for Dynamics 365 Users appeared first on ERP Software Blog.
+Time to Upgrade Your TMS or Maybe Move to a New Provider ?
+Dynamics 365 Partner Provides a Detailed Analysis of Your Current Transportation Management System
+Comparing Customized Dynamics 365 TMS Solutions with Off-the-Shelf Transportation Management Solutions]]></summary>
+        <author>
+            <name>Next Generation Logistics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use Templates in SharePoint libraries]]></title>
+        <id>https://365community.online/how-to-use-templates-in-sharepoint-libraries</id>
+        <link href="https://365community.online/how-to-use-templates-in-sharepoint-libraries"/>
+        <updated>2023-12-21T16:54:12.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft introduced long-awaited templates for SharePoint libraries. It’s available for everyone so you can use it to jump-start the creation process. Is it good? What’s inside? What’s missing? Let’s check […]]]></summary>
+        <author>
+            <name>Marcin Siewnicki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Converting a certificate from .cert to .pfx to use with Power Pages OAuth2 implicit flow]]></title>
+        <id>https://365community.online/converting-a-certificate-from-cert-to-pfx-to-use-with-power-pages-oauth2-implicit-flow</id>
+        <link href="https://365community.online/converting-a-certificate-from-cert-to-pfx-to-use-with-power-pages-oauth2-implicit-flow"/>
+        <updated>2023-12-21T15:38:54.000Z</updated>
+        <summary type="html"><![CDATA[We know that in order to use OAuth2 implicit flow in Power Pages, we need to have a certificate in the proper format as specified by Microsoft here: Manage custom […]]]></summary>
+        <author>
+            <name>michelcarlo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2023 Wave 2: Use SAP-dedicated Actions in Desktop Flows]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-use-sap-dedicated-actions-in-desktop-flows</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-use-sap-dedicated-actions-in-desktop-flows"/>
+        <updated>2023-12-21T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflecting on a year of empowerment: Microsoft Power Up Programs first-year recap]]></title>
+        <id>reflecting-on-a-year-of-empowerment-microsoft-power-up-programs-first-year-recap</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/reflecting-on-a-year-of-empowerment-microsoft-power-up-programs-first-year-recap/"/>
+        <updated>2023-12-21T11:00:54.000Z</updated>
+        <summary type="html"><![CDATA[The inaugural year witnessed inspiring success stories from the community, with impacts of newfound skills felt globally. As the program enters its second year, it introduces a new feature – Group Learning, which allows colleagues, friends, and family to challenge each other on a learning journey to become low-code app makers.
+The program recognized 13 Power Up champs with the Star Champ badge for their exemplary commitment and dedication. This badge is awarded to champs who have contributed more than 15 hours over the last 6 months across various volunteering categories. The program encourages building an application with Microsoft as a New Year’s resolution.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2023 Wave 2: Inspect a UI Element]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-inspect-a-ui-element</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-inspect-a-ui-element"/>
+        <updated>2023-12-21T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 eCommerce and Relevance search – When life gives you lemons, make lemonade]]></title>
+        <id>https://365community.online/d365-ecommerce-and-relevance-search-when-life-gives-you-lemons-make-lemonade</id>
+        <link href="https://365community.online/d365-ecommerce-and-relevance-search-when-life-gives-you-lemons-make-lemonade"/>
+        <updated>2023-12-21T10:19:32.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics 365 Commerce utilizes cloud-powered search to enhance product discoverability. This feature is crucial for customer interaction across various channels like e-commerce and point of sale (POS), ensuring customers can […]]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 eCommerce and Relevance search – When life gives you lemons, make lemonade]]></title>
+        <id>http://kurthatlevik.com/?p=4554</id>
+        <link href="https://kurthatlevik.com/2023/12/21/d365-ecommerce-and-relevance-search-when-life-gives-you-lemons-make-lemonade/"/>
+        <updated>2023-12-21T10:19:32.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics 365 Commerce utilizes cloud-powered search to enhance product discoverability. This feature is crucial for customer interaction across various channels like e-commerce and point of sale (POS), ensuring customers can quickly find products. This search experience includes advanced capabilities like faceted navigation, immersive autosuggest, and sorting options for better product discovery and scalability required for … Continue reading D365 eCommerce and Relevance search – When life gives you lemons, make lemonade]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Custom Actions with Power Automate Desktop Flows]]></title>
+        <id>https://365community.online/custom-actions-with-power-automate-desktop-flows</id>
+        <link href="https://365community.online/custom-actions-with-power-automate-desktop-flows"/>
+        <updated>2023-12-21T09:28:49.000Z</updated>
+        <summary type="html"><![CDATA[Introduction A custom action in desktop flow is a feature designed to automate repetitive tasks seamlessly. This blog provides a comprehensive guide on designing and leveraging custom actions in the […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Key Lessons Learned from the COVID-19 Crisis and How to Strengthen Supply Chain Resilience]]></title>
         <id>https://erpsoftwareblog.com/?p=102719</id>
@@ -93,6 +198,16 @@ Dynamics GP Vs Dynamics Business Central: The User Experience]]></summary>
         <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
         <author>
             <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigating Tech with Komi Siabi: From Web Development to Dynamics 365 and the Journey to Becoming an – YouTube]]></title>
+        <id>https://365community.online/navigating-tech-with-komi-siabi-from-web-development-to-dynamics-365-and-the-journey-to-becoming-an-youtube</id>
+        <link href="https://365community.online/navigating-tech-with-komi-siabi-from-web-development-to-dynamics-365-and-the-journey-to-becoming-an-youtube"/>
+        <updated>2023-12-20T14:09:33.000Z</updated>
+        <summary type="html"><![CDATA[Navigating Tech with Komi Siabi: From Web Development to Dynamics 365 and the Journey to Becoming an Today we chat with Komi Siabi, a Nigerian Dynamics consultant, about his journey […]]]></summary>
+        <author>
+            <name>NZ365Guy</name>
         </author>
     </entry>
     <entry>

@@ -346,6 +346,16 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=102643",
+          "author": "Next Generation Logistics",
+          "description": "2023 has been a significant year for the transportation management industry. The field has seen notable growth and advancements, particularly in the wake of rebalancing post-COVID-19 disruptions. In this article, …  2023 Transportation Management Highlights for Dynamics 365 Users Read More »\nThe post 2023 Transportation Management Highlights for Dynamics 365 Users appeared first on ERP Software Blog.\nTime to Upgrade Your TMS or Maybe Move to a New Provider ?\nDynamics 365 Partner Provides a Detailed Analysis of Your Current Transportation Management System\nComparing Customized Dynamics 365 TMS Solutions with Off-the-Shelf Transportation Management Solutions",
+          "link": "https://erpsoftwareblog.com/2023/12/2023-transportation-management-highlights-for-dynamics-365-users/",
+          "publishedOn": "2023-12-21T19:00:49.000Z",
+          "wordCount": 7600,
+          "title": "2023 Transportation Management Highlights for Dynamics 365 Users",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2023-12-2023-Transportation-Management-Highlights-for-Dynamics-365-Users_1200-x-628.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=102719",
           "author": "StockIQ Technologies",
           "description": "The COVID-19 pandemic has exposed the fragility and vulnerability of many global supply chains, causing disruptions, delays, and shortages in various sectors and industries. The pandemic has also highlighted the …  Key Lessons Learned from the COVID-19 Crisis and How to Strengthen Supply Chain Resilience Read More »\nThe post Key Lessons Learned from the COVID-19 Crisis and How to Strengthen Supply Chain Resilience appeared first on ERP Software Blog.\nSupply Chain Case Study: Chadwell Supply Increases Sales by 28% and Maintains Leading Fill Rates with Minimal Inventory Investment\nIntegrated Planning with deFacto Power Planning - Webinar\nAre You Ready to Embrace the Omnichannel Revolution?",
@@ -2020,6 +2030,76 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/activate-and-deactivate-features-in-sharepoint-form-power-automate-flows",
+          "author": "Pieter Veenstra",
+          "description": "Enabling a SharePoint feature from a flow in Power Automate is easy, but how do you deactivate features? Activate a feature in SharePoint I’ve got a SharePoint site and I […]",
+          "link": "https://365community.online/activate-and-deactivate-features-in-sharepoint-form-power-automate-flows",
+          "publishedOn": "2023-12-21T19:17:15.000Z",
+          "wordCount": 3026,
+          "title": "Activate and Deactivate Features in SharePoint form Power Automate Flows",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-use-templates-in-sharepoint-libraries",
+          "author": "Marcin Siewnicki",
+          "description": "Microsoft introduced long-awaited templates for SharePoint libraries. It’s available for everyone so you can use it to jump-start the creation process. Is it good? What’s inside? What’s missing? Let’s check […]",
+          "link": "https://365community.online/how-to-use-templates-in-sharepoint-libraries",
+          "publishedOn": "2023-12-21T16:54:12.000Z",
+          "wordCount": 3032,
+          "title": "How to use Templates in SharePoint libraries",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/converting-a-certificate-from-cert-to-pfx-to-use-with-power-pages-oauth2-implicit-flow",
+          "author": "michelcarlo",
+          "description": "We know that in order to use OAuth2 implicit flow in Power Pages, we need to have a certificate in the proper format as specified by Microsoft here: Manage custom […]",
+          "link": "https://365community.online/converting-a-certificate-from-cert-to-pfx-to-use-with-power-pages-oauth2-implicit-flow",
+          "publishedOn": "2023-12-21T15:38:54.000Z",
+          "wordCount": 3215,
+          "title": "Converting a certificate from .cert to .pfx to use with Power Pages OAuth2 implicit flow",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/certppages.png?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-use-sap-dedicated-actions-in-desktop-flows",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-use-sap-dedicated-actions-in-desktop-flows",
+          "publishedOn": "2023-12-21T15:00:00.000Z",
+          "wordCount": 3093,
+          "title": "New Functionality In Microsoft Power Automate 2023 Wave 2: Use SAP-dedicated Actions in Desktop Flows",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-inspect-a-ui-element",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-inspect-a-ui-element",
+          "publishedOn": "2023-12-21T11:00:00.000Z",
+          "wordCount": 3089,
+          "title": "New Functionality In Microsoft Power Automate 2023 Wave 2: Inspect a UI Element",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/d365-ecommerce-and-relevance-search-when-life-gives-you-lemons-make-lemonade",
+          "author": "Kurt Hatlevik",
+          "description": "Dynamics 365 Commerce utilizes cloud-powered search to enhance product discoverability. This feature is crucial for customer interaction across various channels like e-commerce and point of sale (POS), ensuring customers can […]",
+          "link": "https://365community.online/d365-ecommerce-and-relevance-search-when-life-gives-you-lemons-make-lemonade",
+          "publishedOn": "2023-12-21T10:19:32.000Z",
+          "wordCount": 3068,
+          "title": "D365 eCommerce and Relevance search – When life gives you lemons, make lemonade",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/D365-eCommerce-and-Relevance-search-–-When-life-gives-you.png?fit=1200%2C459&ssl=1"
+        },
+        {
+          "id": "https://365community.online/custom-actions-with-power-automate-desktop-flows",
+          "author": "Inogic",
+          "description": "Introduction A custom action in desktop flow is a feature designed to automate repetitive tasks seamlessly. This blog provides a comprehensive guide on designing and leveraging custom actions in the […]",
+          "link": "https://365community.online/custom-actions-with-power-automate-desktop-flows",
+          "publishedOn": "2023-12-21T09:28:49.000Z",
+          "wordCount": 3290,
+          "title": "Custom Actions with Power Automate Desktop Flows",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1Custom-Actions-with-Desktop-Flows.jpeg?fit=1200%2C629&ssl=1"
+        },
+        {
           "id": "https://365community.online/hawaii-power-platform-day-in-10-days-youtube-2",
           "author": "Victor Dantas",
           "description": "source",
@@ -2038,6 +2118,16 @@
           "wordCount": 3114,
           "title": "New Functionality In Microsoft Power Automate 2023 Wave 2: Power Automate for Desktop Displays Dynamic Messages in the Home Screen",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/navigating-tech-with-komi-siabi-from-web-development-to-dynamics-365-and-the-journey-to-becoming-an-youtube",
+          "author": "NZ365Guy",
+          "description": "Navigating Tech with Komi Siabi: From Web Development to Dynamics 365 and the Journey to Becoming an Today we chat with Komi Siabi, a Nigerian Dynamics consultant, about his journey […]",
+          "link": "https://365community.online/navigating-tech-with-komi-siabi-from-web-development-to-dynamics-365-and-the-journey-to-becoming-an-youtube",
+          "publishedOn": "2023-12-20T14:09:33.000Z",
+          "wordCount": 3906,
+          "title": "Navigating Tech with Komi Siabi: From Web Development to Dynamics 365 and the Journey to Becoming an – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1703168676_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         },
         {
           "id": "https://365community.online/connect-copilot-to-an-api-part-2-powerplatform-copilotstudio-diehardcopilot-copilot-dadjoke-youtube",
@@ -4487,6 +4577,16 @@
       "siteUrl": "https://kurthatlevik.com",
       "articles": [
         {
+          "id": "http://kurthatlevik.com/?p=4554",
+          "author": "Kurt Hatlevik",
+          "description": "Dynamics 365 Commerce utilizes cloud-powered search to enhance product discoverability. This feature is crucial for customer interaction across various channels like e-commerce and point of sale (POS), ensuring customers can quickly find products. This search experience includes advanced capabilities like faceted navigation, immersive autosuggest, and sorting options for better product discovery and scalability required for … Continue reading D365 eCommerce and Relevance search – When life gives you lemons, make lemonade",
+          "link": "https://kurthatlevik.com/2023/12/21/d365-ecommerce-and-relevance-search-when-life-gives-you-lemons-make-lemonade/",
+          "publishedOn": "2023-12-21T10:19:32.000Z",
+          "wordCount": 4318,
+          "title": "D365 eCommerce and Relevance search – When life gives you lemons, make lemonade",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2023/12/122123_1019_d365ecommer1.png"
+        },
+        {
           "id": "http://kurthatlevik.com/?p=4541",
           "author": "Kurt Hatlevik",
           "description": "Hey there, eCommerce enthusiasts! Get ready for some exciting news from the Dynamics 365 universe. Microsoft’s hitting pause on Product recommendations for newbies, but hey, who says we can’t have a little fun in the meantime? Enter the world of ChatGPT for Excel – think of it as your personal eCommerce wizard! This nifty tool … Continue reading Dynamics 365 eCommerce, search and no hype",
@@ -6922,6 +7022,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "reflecting-on-a-year-of-empowerment-microsoft-power-up-programs-first-year-recap",
+          "author": null,
+          "description": "The inaugural year witnessed inspiring success stories from the community, with impacts of newfound skills felt globally. As the program enters its second year, it introduces a new feature – Group Learning, which allows colleagues, friends, and family to challenge each other on a learning journey to become low-code app makers.\nThe program recognized 13 Power Up champs with the Star Champ badge for their exemplary commitment and dedication. This badge is awarded to champs who have contributed more than 15 hours over the last 6 months across various volunteering categories. The program encourages building an application with Microsoft as a New Year’s resolution.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/reflecting-on-a-year-of-empowerment-microsoft-power-up-programs-first-year-recap/",
+          "publishedOn": "2023-12-21T11:00:54.000Z",
+          "wordCount": 2164,
+          "title": "Reflecting on a year of empowerment: Microsoft Power Up Programs first-year recap",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "maker-uses-power-platform-to-help-his-daughter-manage-diabetes",
           "author": null,
