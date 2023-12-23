@@ -26,6 +26,9 @@ sources:
   - href: https://dynamicspedia.com/feed/
   - href: https://cleverax.wordpress.com/feed/
 
+  #ER
+  - href: https://fernitudela.dev/feed/
+
   # AX Blogs
   # - href: http://everythingdynamicsaxbi.com/category/dynamics-365-for-finance-and-operations/feed/ #domain gone
   - href: https://www.dynamicsmanuals.com/feed
@@ -121,7 +124,7 @@ siteTitle: "Dynamics 365 Finance & Operations Feeds"
 # `timezone`: Specify your local timezone so server can group content by weekday
 # Find yours from the "TZ database name" column of this page: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
 # Examples: America/Los_Angeles, America/New_York, Asia/Shanghai, Asia/Tokyo
-timezone: Asia/Bangkok
+timezone: America/Los_Angeles
 
 
 # https://dynamics.fo/
