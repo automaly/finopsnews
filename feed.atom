@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-12-23T00:38:14.801Z</updated>
+    <updated>2023-12-23T03:18:19.278Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
@@ -253,6 +253,18 @@ Selecting the Best ERP Software -- How to Make a Big, Scary Decision Simply Easy
 Join JourneyTEAM's Tech Insider Update Webinar on 8/6]]></summary>
         <author>
             <name>TrinSoft, LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s new in Dynamics 365 Field Service Mobile app in 2023 Wave 2]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/12/20/whats-new-in-dynamics-365-field-service-mobile-app-in-2023-wave-2/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/12/20/whats-new-in-dynamics-365-field-service-mobile-app-in-2023-wave-2/"/>
+        <updated>2023-12-20T18:59:48.000Z</updated>
+        <summary type="html"><![CDATA[What's new in Dynamics 365 Field Service Mobile app in 2023 Wave 2. 
+Discover the latest updates and enhancements to the Field Service Mobile app that will help you deliver better service experiences to your customers. 
+The post What’s new in Dynamics 365 Field Service Mobile app in 2023 Wave 2  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Joseph Shum</name>
         </author>
     </entry>
     <entry>
@@ -1535,6 +1547,16 @@ static void VKTest(Args _args)
 AX 2012 Read / Write CSV file]]></summary>
         <author>
             <name>Vasyl Kovalenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365FO Electronic Reporting (GER): Properly use table methods]]></title>
+        <id>http://fernitudela.dev/?p=1219</id>
+        <link href="https://fernitudela.dev/2023/12/12/d365fo-electronic-reporting-ger-properly-use-table-methods/"/>
+        <updated>2023-12-12T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Be careful when you use methods in an Electronic Reporting model mapping, because if you don't use them properly you can be calling the logic too many times. Read the article to know how. … More D365FO Electronic Reporting (GER): Properly use table methods]]></summary>
+        <author>
+            <name>Fernando Tudela Desantes</name>
         </author>
     </entry>
     <entry>
@@ -4756,6 +4778,16 @@ Webinar Coming Up! Reducing Accounting Overhead for Long Term Care]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[D365FO Electronic Reporting complete real export to Excel example: Use of AllItemsQuery, ListDistinct and ListJoin]]></title>
+        <id>http://fernitudela.dev/?p=1177</id>
+        <link href="https://fernitudela.dev/2023/11/08/d365fo-electronic-reporting-complete-real-export-to-excel-example-use-of-allitemsquery-listdistinct-and-listjoin/"/>
+        <updated>2023-11-08T11:12:00.000Z</updated>
+        <summary type="html"><![CDATA[In this video/post we are going to go through the requirement of exporting all the CustInvoiceTrans with the related header and lines charges. This is a real requirement example that I chose because I find it very didactic, since given the table structure I was forced to use and understand the functions AllItemsQuery, ListDistinct and ListJoin. I also take advantage of this example to explain again how to export data to excel, generating myself the Excel template with the ranges and everything. Check it out, it is a good opportunity to continue strengthening your ER abilities! … More D365FO Electronic Reporting complete real export to Excel example: Use of AllItemsQuery, ListDistinct and ListJoin]]></summary>
+        <author>
+            <name>Fernando Tudela Desantes</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Setup A Release Pipeline In D365 FO – Part 2]]></title>
         <id>https://impulztech.com/?p=3277</id>
         <link href="https://impulztech.com/setup-a-release-pipeline-in-d365-fo-part-2/"/>
@@ -5626,6 +5658,16 @@ The post The F&O Twist on Power Automate Process Mining – Getting Started appe
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[D365FO Reports in ER. Destinations with direct  execution or Print Management for Business Documents.]]></title>
+        <id>http://fernitudela.dev/?p=1134</id>
+        <link href="https://fernitudela.dev/2023/09/25/d365fo-reports-in-er-destinations-with-direct-execution-or-print-management-for-business-documents/"/>
+        <updated>2023-09-25T06:15:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post we are going to explain how to configure the Electronic Reporting Destionations to convert a report to PDF, send it to the archive, send it by email, etc. You have also this video where I configure and explain it for our report used in previous videos/posts and for a Business document report in the print management destinations. … More D365FO Reports in ER. Destinations with direct  execution or Print Management for Business Documents.]]></summary>
+        <author>
+            <name>Fernando Tudela Desantes</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NT Conference 2023: Let’s grow Dynamics 365 and Power Platform Community at Home! ❤]]></title>
         <id>https://ax.docentric.com/?p=27097</id>
         <link href="https://ax.docentric.com/nt-conference-2023-lets-grow-dynamics-365-and-power-platform-community-at-home/"/>
@@ -5792,6 +5834,17 @@ The post D365FO Data Entity Metadata appeared first on Alex Meyer.]]></summary>
 The post Write A File In D365 appeared first on Dynamics 365 Musings.]]></summary>
         <author>
             <name>peter.ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365FO Reports with Electronic Reporting: Sharing my solution to stop using SSRS for NEW reports.]]></title>
+        <id>http://fernitudela.dev/?p=1090</id>
+        <link href="https://fernitudela.dev/2023/09/05/reports-with-er-sharing-my-solution-to-stop-using-ssrs-for-new-reports/"/>
+        <updated>2023-09-05T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post and 
+video I'll share my solution to implement easily new reports and I will explain too, how you can use it. Feel free to download it and adapt it to your projects too. It's a generic solution where you will only have to extend (inherit) a few classes, create a parameter to refer the format to execute and a menu item. As simple as that, Check it out! … More D365FO Reports with Electronic Reporting: Sharing my solution to stop using SSRS for NEW reports.]]></summary>
+        <author>
+            <name>Fernando Tudela Desantes</name>
         </author>
     </entry>
     <entry>
@@ -6234,6 +6287,16 @@ Once the project built and synchronized, we can assign this new role along with 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[D365FO Base enums in ER (Electronic Reporting) model mapping. ListOfFields and GetEnumValueByName Functions.]]></title>
+        <id>http://fernitudela.dev/?p=1054</id>
+        <link href="https://fernitudela.dev/2023/07/25/d365fo-base-enums-in-er-electronic-reporting-model-mapping-listoffields-and-getenumvaluebyname-functions/"/>
+        <updated>2023-07-25T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Something very common and simple like binding Enum fields is a little more complex than what we might think initially, this is the way I found to deal with them and once you know it, it's pretty straightforward. If you know better solutions for it, please let me know! … More D365FO Base enums in ER (Electronic Reporting) model mapping. ListOfFields and GetEnumValueByName Functions.]]></summary>
+        <author>
+            <name>Fernando Tudela Desantes</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Export Data To Excel In D365]]></title>
         <id>https://dynamics365musings.com/?p=3023</id>
         <link href="https://dynamics365musings.com/export-data-to-excel-in-d365/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=export-data-to-excel-in-d365"/>
@@ -6352,6 +6415,16 @@ The post Apply Environment Update to D365FO via Command Line appeared first on A
     Microsoft Dynamics 365 Commerce - Component Overview]]></summary>
         <author>
             <name>Max Nguyen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Handle FK relations (RecID) in D365FO data entities and use of Composite data entities.]]></title>
+        <id>http://fernitudela.dev/?p=978</id>
+        <link href="https://fernitudela.dev/2023/07/03/handle-fk-relations-in-d365fo-data-entities-and-use-of-composite-data-entities/"/>
+        <updated>2023-07-03T08:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Handling Foreign key relationships in the Data Entities is a basic issue that you might be solving wrongly. Also knowing the power of the Composite data entities can help you insert data of multiple tables with FK relationships in a single call. Check the post out! … More Handle FK relations (RecID) in D365FO data entities and use of Composite data entities.]]></summary>
+        <author>
+            <name>Fernando Tudela Desantes</name>
         </author>
     </entry>
     <entry>
@@ -6497,6 +6570,16 @@ The post How To Use A D365 Data Entity appeared first on Dynamics 365 Musings.]]
         <summary type="html"><![CDATA[In the evolving world of business applications, Microsoft Dynamics 365 has consistently played a pivotal role in empowering organizations to drive digital transformation. With a rich history of releases, each version of Dynamics 365 has brought about significant enhancements and introduced innovative features to streamline operations, improve customer engagements, and accelerate business growth. As we … Continue reading It’s Time to Increment Dynamics 365 to Version 11: A Focus on Dataverse and CoPilot Innovations]]></summary>
         <author>
             <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Execute D365FO Electronic Reporting from X++ code using parameters and contracts]]></title>
+        <id>http://fernitudela.dev/?p=940</id>
+        <link href="https://fernitudela.dev/2023/05/30/execute-d365fo-electronic-reporting-from-x-code-using-parameters-and-contracts/"/>
+        <updated>2023-05-30T07:06:32.000Z</updated>
+        <summary type="html"><![CDATA[In this post and video we are going to see how you can easily execute an Electronic Reporting format from code and pass to the ER either the user input parameters or a data contract fulfilled … More Execute D365FO Electronic Reporting from X++ code using parameters and contracts]]></summary>
+        <author>
+            <name>Fernando Tudela Desantes</name>
         </author>
     </entry>
     <entry>
@@ -6905,6 +6988,16 @@ Errors that prevent your data sync operation from performing smoothly.  Whether 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Collections in X++, Dynamyth-Busters episode 1]]></title>
+        <id>http://fernitudela.dev/?p=924</id>
+        <link href="https://fernitudela.dev/2023/04/11/collections-in-x-dynamyth-busters-episode-1/"/>
+        <updated>2023-04-11T08:45:00.000Z</updated>
+        <summary type="html"><![CDATA[first episode of Dynamyth-busters, the video series where we put the Technical side of D365FO to the test, and, as a bonus, we learn together along the way. In this chapter we are going to talk about collections in X++, don't miss it! … More Collections in X++, Dynamyth-Busters episode 1]]></summary>
+        <author>
+            <name>Fernando Tudela Desantes</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Microsoft Dynamics 365 Finance and Operations: Importing deployable package to UAT/Production using Lifecycle Services]]></title>
         <id>https://impulztech.com/?p=3086</id>
         <link href="https://impulztech.com/microsoft-dynamics-365-finance-and-operations-importing-deployable-package-to-uat-production-using-lifecycle-services/"/>
@@ -7000,6 +7093,26 @@ The post Production order should not get Released on material shortage appeared 
         <summary type="html"><![CDATA[As promised, please find the source code that generates the spreadsheets that contain the metadata for the Finance and Operations data entities here. If you find this software useful, or have a suggestion to improve it I would love to hear from you.]]></summary>
         <author>
             <name>Joe Brewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Role based X++ tests for D365FO]]></title>
+        <id>http://fernitudela.dev/?p=913</id>
+        <link href="https://fernitudela.dev/2023/03/21/role-based-x-tests-for-d365fo/"/>
+        <updated>2023-03-21T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is a didactic example of how to make tests using a specific role or set of roles. You'll find the code example as well as a short explanation and video. … More Role based X++ tests for D365FO]]></summary>
+        <author>
+            <name>Fernando Tudela Desantes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developing unit tests in D365FO, Finance and Supply Chain summit 2023 event session]]></title>
+        <id>http://fernitudela.dev/?p=905</id>
+        <link href="https://fernitudela.dev/2023/03/20/developing-unit-tests-in-d365fo-finance-and-supply-chain-summit-2023-event-session/"/>
+        <updated>2023-03-20T09:13:28.000Z</updated>
+        <summary type="html"><![CDATA[Here you are the talk I gave in the Finance and Supply Chain summit 2023 event, organized by the Power Community in Lisbon. This session is an introduction to Unit tests focused in D365FO, where many (or almost all) the technical consultants and developers skip that good practice of software development. I hope you enjoy it as much as I did preparing, giving and editing the session. Thanks! … More Developing unit tests in D365FO, Finance and Supply Chain summit 2023 event session]]></summary>
+        <author>
+            <name>Fernando Tudela Desantes</name>
         </author>
     </entry>
     <entry>
