@@ -2070,6 +2070,26 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/last-christmas",
+          "author": "Jen Kuntz",
+          "description": "The title for this post is stolen from a post I read recently on LinkedIn, by Thomas LaRock, a fellow Microsoft MVP though one I’ve never met. The post gave […]",
+          "link": "https://365community.online/last-christmas",
+          "publishedOn": "2023-12-24T15:48:45.000Z",
+          "wordCount": 3058,
+          "title": "Last Christmas…",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1703445147_Last-Christmas….jpeg?fit=1200%2C573&ssl=1"
+        },
+        {
+          "id": "https://365community.online/publish-copilot-to-a-demo-website-copilotstudio-diehardcopilot-copilot-mcs-youtube",
+          "author": "Matt Collins",
+          "description": "source",
+          "link": "https://365community.online/publish-copilot-to-a-demo-website-copilotstudio-diehardcopilot-copilot-mcs-youtube",
+          "publishedOn": "2023-12-23T13:01:00.000Z",
+          "wordCount": 2937,
+          "title": "Publish Copilot to a demo website #CopilotStudio #DieHardCopilot #Copilot #MCS – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1703411352_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
           "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-support-scalar-type-variables-when-invoking-from-protocol-handler-in-power-automate-for-desktop",
           "author": "Ian Grieve",
           "description": "This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]",

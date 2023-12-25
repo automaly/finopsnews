@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-12-24T00:42:42.898Z</updated>
+    <updated>2023-12-25T00:40:49.738Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Last Christmas…]]></title>
+        <id>https://365community.online/last-christmas</id>
+        <link href="https://365community.online/last-christmas"/>
+        <updated>2023-12-24T15:48:45.000Z</updated>
+        <summary type="html"><![CDATA[The title for this post is stolen from a post I read recently on LinkedIn, by Thomas LaRock, a fellow Microsoft MVP though one I’ve never met. The post gave […]]]></summary>
+        <author>
+            <name>Jen Kuntz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Publish Copilot to a demo website #CopilotStudio #DieHardCopilot #Copilot #MCS – YouTube]]></title>
+        <id>https://365community.online/publish-copilot-to-a-demo-website-copilotstudio-diehardcopilot-copilot-mcs-youtube</id>
+        <link href="https://365community.online/publish-copilot-to-a-demo-website-copilotstudio-diehardcopilot-copilot-mcs-youtube"/>
+        <updated>2023-12-23T13:01:00.000Z</updated>
+        <summary type="html"><![CDATA[source]]></summary>
+        <author>
+            <name>Matt Collins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Outsource Accounts Payable Processes? Pros and Cons]]></title>
         <id>https://erpsoftwareblog.com/?p=102760</id>
