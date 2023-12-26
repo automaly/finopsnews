@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-12-25T00:40:49.738Z</updated>
+    <updated>2023-12-26T00:38:48.023Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OData query options with D365F&O (Part 2)]]></title>
+        <id>https://365community.online/odata-query-options-with-d365fo-part-2</id>
+        <link href="https://365community.online/odata-query-options-with-d365fo-part-2"/>
+        <updated>2023-12-25T21:34:01.000Z</updated>
+        <summary type="html"><![CDATA[In the previous post, I have explained about the various options of quering F&O using OData. Let us continue the ARITHEMATIC queries in this post. Less than – Applicable for […]]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OData query options with D365F&O (Part 2)]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=3174</id>
+        <link href="https://anithasantosh.wordpress.com/2023/12/25/odata-query-options-with-d365fo-part-2/"/>
+        <updated>2023-12-25T21:34:01.000Z</updated>
+        <summary type="html"><![CDATA[In the previous post, I have explained about the various options of quering F&O using OData. Let us continue the ARITHEMATIC queries in this post. Less than – Applicable for numeric fields . Retrives the records that have the value … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The user cannot write data to this table, only the integration users may write data to this table – Dynamics 365 Project Operations]]></title>
+        <id>https://365community.online/the-user-cannot-write-data-to-this-table-only-the-integration-users-may-write-data-to-this-table-dynamics-365-project-operations</id>
+        <link href="https://365community.online/the-user-cannot-write-data-to-this-table-only-the-integration-users-may-write-data-to-this-table-dynamics-365-project-operations"/>
+        <updated>2023-12-25T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We configured the Project Operations app in one of our Dataverse Environments, and while creating a Company record we got the below error. Exception Message: OrganizationServiceFault Microsoft.Xrm.Sdk.InvalidPluginExecutionException: “The user be60d0fd-778e-ee11-be36-00224893a88b […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #21]]></title>
+        <id>http://dynamicsax-fico.com/?p=5406</id>
+        <link href="https://dynamicsax-fico.com/2023/12/25/microsoft-bizapps-deutschland-podcast-21/"/>
+        <updated>2023-12-25T17:31:24.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merry Christmas!]]></title>
+        <id>https://365community.online/merry-christmas-2</id>
+        <link href="https://365community.online/merry-christmas-2"/>
+        <updated>2023-12-25T11:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Merry Christmas to everyone in the Microsoft Dynamics 365 Business Central and ClassicPress communities; I look forward to working with you all again next year. Image by Markéta Klimešová from […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merry Christmas 2023 PowerApps Style – YouTube]]></title>
+        <id>https://365community.online/merry-christmas-2023-powerapps-style-youtube</id>
+        <link href="https://365community.online/merry-christmas-2023-powerapps-style-youtube"/>
+        <updated>2023-12-25T08:43:07.000Z</updated>
+        <summary type="html"><![CDATA[Merry Christmas 2023 PowerApps Style source]]></summary>
+        <author>
+            <name>Deepesh Somani</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Christmas…]]></title>
         <id>https://365community.online/last-christmas</id>

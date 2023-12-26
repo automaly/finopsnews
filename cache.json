@@ -2070,6 +2070,46 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/odata-query-options-with-d365fo-part-2",
+          "author": "Anitha Santosh",
+          "description": "In the previous post, I have explained about the various options of quering F&O using OData. Let us continue the ARITHEMATIC queries in this post. Less than – Applicable for […]",
+          "link": "https://365community.online/odata-query-options-with-d365fo-part-2",
+          "publishedOn": "2023-12-25T21:34:01.000Z",
+          "wordCount": 3045,
+          "title": "OData query options with D365F&O (Part 2)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/OData-query-options-with-D365FampO-Part-2.png?fit=1200%2C772&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-user-cannot-write-data-to-this-table-only-the-integration-users-may-write-data-to-this-table-dynamics-365-project-operations",
+          "author": "Nishant Rana",
+          "description": "We configured the Project Operations app in one of our Dataverse Environments, and while creating a Company record we got the below error. Exception Message: OrganizationServiceFault Microsoft.Xrm.Sdk.InvalidPluginExecutionException: “The user be60d0fd-778e-ee11-be36-00224893a88b […]",
+          "link": "https://365community.online/the-user-cannot-write-data-to-this-table-only-the-integration-users-may-write-data-to-this-table-dynamics-365-project-operations",
+          "publishedOn": "2023-12-25T19:00:00.000Z",
+          "wordCount": 3112,
+          "title": "The user cannot write data to this table, only the integration users may write data to this table – Dynamics 365 Project Operations",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/The-user-cannot-write-data-to-this-table-only-the.jpeg?fit=1200%2C799&ssl=1"
+        },
+        {
+          "id": "https://365community.online/merry-christmas-2",
+          "author": "Ian Grieve",
+          "description": "Merry Christmas to everyone in the Microsoft Dynamics 365 Business Central and ClassicPress communities; I look forward to working with you all again next year. Image by Markéta Klimešová from […]",
+          "link": "https://365community.online/merry-christmas-2",
+          "publishedOn": "2023-12-25T11:00:50.000Z",
+          "wordCount": 3016,
+          "title": "Merry Christmas!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Merry-Christmas.png?fit=452%2C640&ssl=1"
+        },
+        {
+          "id": "https://365community.online/merry-christmas-2023-powerapps-style-youtube",
+          "author": "Deepesh Somani",
+          "description": "Merry Christmas 2023 PowerApps Style source",
+          "link": "https://365community.online/merry-christmas-2023-powerapps-style-youtube",
+          "publishedOn": "2023-12-25T08:43:07.000Z",
+          "wordCount": 2917,
+          "title": "Merry Christmas 2023 PowerApps Style – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1703496881_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
           "id": "https://365community.online/last-christmas",
           "author": "Jen Kuntz",
           "description": "The title for this post is stolen from a post I read recently on LinkedIn, by Thomas LaRock, a fellow Microsoft MVP though one I’ve never met. The post gave […]",
@@ -3719,6 +3759,21 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=5406",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2023/12/25/microsoft-bizapps-deutschland-podcast-21/",
+          "publishedOn": "2023-12-25T17:31:24.000Z",
+          "wordCount": 3113,
+          "title": "Microsoft BizApps Deutschland Podcast #21",
+          "enclosure": {
+            "url": "https://dynamicsaxfico.files.wordpress.com/2023/10/2023-10-14_lone_v1.mp3",
+            "length": "18914659",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/10/2023-10-14_picturelonewithtext.png"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=5470",
           "author": "Ludwig Reinhard",
           "description": "Visit the post for more.",
@@ -4462,6 +4517,16 @@
       "feedUrl": "https://anithasantosh.wordpress.com/feed/",
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=3174",
+          "author": "AnithaEswaran",
+          "description": "In the previous post, I have explained about the various options of quering F&O using OData. Let us continue the ARITHEMATIC queries in this post. Less than – Applicable for numeric fields . Retrives the records that have the value … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2023/12/25/odata-query-options-with-d365fo-part-2/",
+          "publishedOn": "2023-12-25T21:34:01.000Z",
+          "wordCount": 4264,
+          "title": "OData query options with D365F&O (Part 2)",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/12/image-22.png"
+        },
         {
           "id": "http://anithasantosh.wordpress.com/?p=3146",
           "author": "AnithaEswaran",
