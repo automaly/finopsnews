@@ -346,6 +346,26 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=102777",
+          "author": "x2x eCommerce",
+          "description": "Enterprise Resource Planning (ERP) plays a vital role in transforming various business processes and addressing different challenges faced by companies. Manufacturing is one such domain where ERP plays a significant …  How ERP Solves Top Manufacturing Problems Read More »\nThe post How ERP Solves Top Manufacturing Problems appeared first on ERP Software Blog.\nEnd to End Optimization of Supply Chain Management for the Future\nMastering Quality Control: A Deep Dive into Dynamics 365 Business Central\nEnhanced Planning Pack for Dynamics 365 Business Central",
+          "link": "https://erpsoftwareblog.com/2023/12/how-erp-solves-top-manufacturing-problems/",
+          "publishedOn": "2023-12-26T17:33:37.000Z",
+          "wordCount": 7376,
+          "title": "How ERP Solves Top Manufacturing Problems",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Add-a-subheading-34-300x169.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=102779",
+          "author": "MetaOption LLC",
+          "description": "In the fast-paced world of the restaurant industry, order accuracy is paramount to customer satisfaction. A single mistake in an order can lead to customer dissatisfaction, negative reviews, and a …  Enhancing Order Accuracy with LS Central in Your Restaurants Read More »\nThe post Enhancing Order Accuracy with LS Central in Your Restaurants appeared first on ERP Software Blog.\nHow to improve the efficiency of your purchase requisition workflow?\nHow Requisition Management System helps to track Purchase Orders?\nSimplify purchasing and manage vendors for restaurants with LS Central",
+          "link": "https://erpsoftwareblog.com/2023/12/enhancing-order-accuracy-with-ls-central-in-your-restaurants/",
+          "publishedOn": "2023-12-26T14:53:28.000Z",
+          "wordCount": 7571,
+          "title": "Enhancing Order Accuracy with LS Central in Your Restaurants",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-111.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=102760",
           "author": "Fidesic AP",
           "description": "Over the last 10 years, businesses have shown more interest in the ability to outsource the accounts payable process, and that interest has only grown among small businesses during the …  Outsource Accounts Payable Processes? Pros and Cons Read More »\nThe post Outsource Accounts Payable Processes? Pros and Cons appeared first on ERP Software Blog.\nThe Struggle to Hire an Accounts Payable Clerk\nDynamics GP to Business Central Migration? Consider these Differences\nHow to Convince Vendors to Accept Electronic Payments",
@@ -2069,6 +2089,76 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/the-webhook-call-failed-because-the-http-request-timed-out-at-client-side-please-check-your-webhook-request-handler-dataverse-dynamics-365",
+          "author": "Nishant Rana",
+          "description": "Recently we were getting the below for one of our webhooks registered on Update of lead. Exception Message: The webhook call failed because the Http request timed out at client […]",
+          "link": "https://365community.online/the-webhook-call-failed-because-the-http-request-timed-out-at-client-side-please-check-your-webhook-request-handler-dataverse-dynamics-365",
+          "publishedOn": "2023-12-26T19:00:00.000Z",
+          "wordCount": 3155,
+          "title": "The webhook call failed because the Http request timed out at client side. Please check your webhook request handler – Dataverse / Dynamics 365",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/The-webhook-call-failed-because-the-Http-request-timed-out.jpeg?fit=1200%2C799&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-edit-variable-values-during-debugging",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-edit-variable-values-during-debugging",
+          "publishedOn": "2023-12-26T15:00:20.000Z",
+          "wordCount": 3030,
+          "title": "New Functionality In Microsoft Power Automate 2023 Wave 2: Edit Variable Values During Debugging",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-connect-your-own-virtual-network-with-hosted-machine-group",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-connect-your-own-virtual-network-with-hosted-machine-group",
+          "publishedOn": "2023-12-26T11:00:00.000Z",
+          "wordCount": 3096,
+          "title": "New Functionality In Microsoft Power Automate 2023 Wave 2: Connect Your Own Virtual Network with Hosted Machine Group",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-entra-id-security-groups-management",
+          "author": "Inogic",
+          "description": "As we all know, Microsoft renamed Azure Active Directory (AAD) to Microsoft Entra ID back in November 2023. The reason for this move is explained in detail in this Microsoft […]",
+          "link": "https://365community.online/microsoft-entra-id-security-groups-management",
+          "publishedOn": "2023-12-26T09:37:34.000Z",
+          "wordCount": 3321,
+          "title": "Microsoft Entra ID Security Groups Management",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1Microsoft-Entra-ID-Security-Groups-Management.jpeg?fit=1200%2C709&ssl=1"
+        },
+        {
+          "id": "https://365community.online/copilot-studio-dynamic-chaining-with-generative-actions-preview",
+          "author": "Dian Taylor",
+          "description": "In previous articles I showed you how you can create plugin actions (currently in preview) in Copilot Studio by using one of the Power Platform connectors, or by using a […]",
+          "link": "https://365community.online/copilot-studio-dynamic-chaining-with-generative-actions-preview",
+          "publishedOn": "2023-12-26T09:03:00.000Z",
+          "wordCount": 3064,
+          "title": "Copilot Studio: Dynamic chaining with generative actions (preview)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/copilot-studio-dynamic-chaining-with-generative-actions-preview-youtube",
+          "author": "Dian Taylor",
+          "description": "Copilot Studio: Dynamic chaining with generative actions( preview) In this video I will show you the ins and outs about Dynamic chaining with generative actions in Copilot Studio! Related Article: […]",
+          "link": "https://365community.online/copilot-studio-dynamic-chaining-with-generative-actions-preview-youtube",
+          "publishedOn": "2023-12-26T09:02:00.000Z",
+          "wordCount": 2984,
+          "title": "Copilot Studio: Dynamic chaining with generative actions( preview) – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1703627921_hqdefault.jpg?fit=480%2C360&ssl=1"
+        },
+        {
+          "id": "https://365community.online/d365-hr-excel-oob-reports",
+          "author": "Ana Inés Urrutia",
+          "description": "One of the things HR teams always ask is: can I export it to Excel? The truth is that almost everything in Dynamics 365 Human Resources can be exported to […]",
+          "link": "https://365community.online/d365-hr-excel-oob-reports",
+          "publishedOn": "2023-12-25T23:10:14.000Z",
+          "wordCount": 3025,
+          "title": "D365 HR + Excel = OOB Reports",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/D365-HR-Excel-OOB-Reports.png?fit=1000%2C750&ssl=1"
+        },
         {
           "id": "https://365community.online/odata-query-options-with-d365fo-part-2",
           "author": "Anitha Santosh",
@@ -3830,6 +3920,16 @@
       "feedUrl": "https://dynamicspedia.com/feed/",
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
+        {
+          "id": "https://dynamicspedia.com/?p=18919",
+          "author": "André Arnaud de Calavon",
+          "description": "In my previous posts about process mining, I explained the basic concept of Process mining including event log data requirements and how to get started with Power Automate process mining. In this post, I will talk about an integration between Microsoft Dynamics 365 Supply Chain Management and process mining. It also contains a video with […]\nThe post The F&O Twist on Process Mining – Warehouse material movement analysis template appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2023/12/the-fo-twist-on-process-mining-warehouse-material-movement-analysis-template/",
+          "publishedOn": "2023-12-26T12:26:11.000Z",
+          "wordCount": 4841,
+          "title": "The F&O Twist on Process Mining – Warehouse material movement analysis template",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2023/12/Warehouse-material-movement-integration-1200.jpg"
+        },
         {
           "id": "https://dynamicspedia.com/?p=18863",
           "author": "André Arnaud de Calavon",

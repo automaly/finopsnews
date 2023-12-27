@@ -2,10 +2,119 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-12-26T00:38:48.023Z</updated>
+    <updated>2023-12-27T00:39:07.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The webhook call failed because the Http request timed out at client side. Please check your webhook request handler – Dataverse / Dynamics 365]]></title>
+        <id>https://365community.online/the-webhook-call-failed-because-the-http-request-timed-out-at-client-side-please-check-your-webhook-request-handler-dataverse-dynamics-365</id>
+        <link href="https://365community.online/the-webhook-call-failed-because-the-http-request-timed-out-at-client-side-please-check-your-webhook-request-handler-dataverse-dynamics-365"/>
+        <updated>2023-12-26T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently we were getting the below for one of our webhooks registered on Update of lead. Exception Message: The webhook call failed because the Http request timed out at client […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How ERP Solves Top Manufacturing Problems]]></title>
+        <id>https://erpsoftwareblog.com/?p=102777</id>
+        <link href="https://erpsoftwareblog.com/2023/12/how-erp-solves-top-manufacturing-problems/"/>
+        <updated>2023-12-26T17:33:37.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise Resource Planning (ERP) plays a vital role in transforming various business processes and addressing different challenges faced by companies. Manufacturing is one such domain where ERP plays a significant …  How ERP Solves Top Manufacturing Problems Read More »
+The post How ERP Solves Top Manufacturing Problems appeared first on ERP Software Blog.
+End to End Optimization of Supply Chain Management for the Future
+Mastering Quality Control: A Deep Dive into Dynamics 365 Business Central
+Enhanced Planning Pack for Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2023 Wave 2: Edit Variable Values During Debugging]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-edit-variable-values-during-debugging</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-edit-variable-values-during-debugging"/>
+        <updated>2023-12-26T15:00:20.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhancing Order Accuracy with LS Central in Your Restaurants]]></title>
+        <id>https://erpsoftwareblog.com/?p=102779</id>
+        <link href="https://erpsoftwareblog.com/2023/12/enhancing-order-accuracy-with-ls-central-in-your-restaurants/"/>
+        <updated>2023-12-26T14:53:28.000Z</updated>
+        <summary type="html"><![CDATA[In the fast-paced world of the restaurant industry, order accuracy is paramount to customer satisfaction. A single mistake in an order can lead to customer dissatisfaction, negative reviews, and a …  Enhancing Order Accuracy with LS Central in Your Restaurants Read More »
+The post Enhancing Order Accuracy with LS Central in Your Restaurants appeared first on ERP Software Blog.
+How to improve the efficiency of your purchase requisition workflow?
+How Requisition Management System helps to track Purchase Orders?
+Simplify purchasing and manage vendors for restaurants with LS Central]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The F&O Twist on Process Mining – Warehouse material movement analysis template]]></title>
+        <id>https://dynamicspedia.com/?p=18919</id>
+        <link href="https://dynamicspedia.com/2023/12/the-fo-twist-on-process-mining-warehouse-material-movement-analysis-template/"/>
+        <updated>2023-12-26T12:26:11.000Z</updated>
+        <summary type="html"><![CDATA[In my previous posts about process mining, I explained the basic concept of Process mining including event log data requirements and how to get started with Power Automate process mining. In this post, I will talk about an integration between Microsoft Dynamics 365 Supply Chain Management and process mining. It also contains a video with […]
+The post The F&O Twist on Process Mining – Warehouse material movement analysis template appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2023 Wave 2: Connect Your Own Virtual Network with Hosted Machine Group]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-connect-your-own-virtual-network-with-hosted-machine-group</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2023-wave-2-connect-your-own-virtual-network-with-hosted-machine-group"/>
+        <updated>2023-12-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2023 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Entra ID Security Groups Management]]></title>
+        <id>https://365community.online/microsoft-entra-id-security-groups-management</id>
+        <link href="https://365community.online/microsoft-entra-id-security-groups-management"/>
+        <updated>2023-12-26T09:37:34.000Z</updated>
+        <summary type="html"><![CDATA[As we all know, Microsoft renamed Azure Active Directory (AAD) to Microsoft Entra ID back in November 2023. The reason for this move is explained in detail in this Microsoft […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Studio: Dynamic chaining with generative actions (preview)]]></title>
+        <id>https://365community.online/copilot-studio-dynamic-chaining-with-generative-actions-preview</id>
+        <link href="https://365community.online/copilot-studio-dynamic-chaining-with-generative-actions-preview"/>
+        <updated>2023-12-26T09:03:00.000Z</updated>
+        <summary type="html"><![CDATA[In previous articles I showed you how you can create plugin actions (currently in preview) in Copilot Studio by using one of the Power Platform connectors, or by using a […]]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Studio: Dynamic chaining with generative actions( preview) – YouTube]]></title>
+        <id>https://365community.online/copilot-studio-dynamic-chaining-with-generative-actions-preview-youtube</id>
+        <link href="https://365community.online/copilot-studio-dynamic-chaining-with-generative-actions-preview-youtube"/>
+        <updated>2023-12-26T09:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Copilot Studio: Dynamic chaining with generative actions( preview) In this video I will show you the ins and outs about Dynamic chaining with generative actions in Copilot Studio! Related Article: […]]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 HR + Excel = OOB Reports]]></title>
+        <id>https://365community.online/d365-hr-excel-oob-reports</id>
+        <link href="https://365community.online/d365-hr-excel-oob-reports"/>
+        <updated>2023-12-25T23:10:14.000Z</updated>
+        <summary type="html"><![CDATA[One of the things HR teams always ask is: can I export it to Excel? The truth is that almost everything in Dynamics 365 Human Resources can be exported to […]]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OData query options with D365F&O (Part 2)]]></title>
         <id>https://365community.online/odata-query-options-with-d365fo-part-2</id>
