@@ -2,10 +2,98 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-12-27T00:39:07.903Z</updated>
+    <updated>2023-12-27T20:31:04.956Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Using JavaScript and Cloud Flows to download files from a SharePoint document library in Power Pages]]></title>
+        <id>https://365community.online/using-javascript-and-cloud-flows-to-download-files-from-a-sharepoint-document-library-in-power-pages</id>
+        <link href="https://365community.online/using-javascript-and-cloud-flows-to-download-files-from-a-sharepoint-document-library-in-power-pages"/>
+        <updated>2023-12-27T17:59:54.000Z</updated>
+        <summary type="html"><![CDATA[Even though we can now use Virtual Tables to expose SharePoint lists in a Power Pages site, the same does not apply to SharePoint Document libraries. You can use the […]]]></summary>
+        <author>
+            <name>michelcarlo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Power Automate), how do I… Understand For What Power Automate can be Used]]></title>
+        <id>https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-understand-for-what-power-automate-can-be-used</id>
+        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-understand-for-what-power-automate-can-be-used"/>
+        <updated>2023-12-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shaping the Future of Technology: Stuart Baxter's Pioneering Work in Microsoft Dynamics and Power Platform]]></title>
+        <id>https://365community.online/shaping-the-future-of-technology-stuart-baxters-pioneering-work-in-microsoft-dynamics-and-power-platform</id>
+        <link href="https://365community.online/shaping-the-future-of-technology-stuart-baxters-pioneering-work-in-microsoft-dynamics-and-power-platform"/>
+        <updated>2023-12-27T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FULL SHOW NOTES https://podcast.nz365guy.com/512 Ready to embark on a technological journey unlike any other? Sit down with us as we catch up with Stuart Baxter, a recognized MVP in Microsoft […]]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Power Automate), how do I… Series Index]]></title>
+        <id>https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-series-index</id>
+        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-series-index"/>
+        <updated>2023-12-27T11:00:29.000Z</updated>
+        <summary type="html"><![CDATA[I have recently started working with Microsoft Dynamics 365 Business Central and have decided to blog about it as I learn; I’ve started a In Microsoft Dynamics 365 Business Central, […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlock the Future of Automation with Copilot and AI Builder in Microsoft Power Automate]]></title>
+        <id>https://erpsoftwareblog.com/?p=102792</id>
+        <link href="https://erpsoftwareblog.com/2023/12/unlock-the-future-of-automation-with-copilot-and-ai-builder-in-microsoft-power-automate/"/>
+        <updated>2023-12-27T10:44:30.000Z</updated>
+        <summary type="html"><![CDATA[The digital landscape is expanding at an unprecedented pace and organizations are constantly seeking ways to optimize their workflows and efficiency. Microsoft Power Automate is quite a dominant platform for …  Unlock the Future of Automation with Copilot and AI Builder in Microsoft Power Automate Read More »
+The post Unlock the Future of Automation with Copilot and AI Builder in Microsoft Power Automate appeared first on ERP Software Blog.
+Automate Repetitive Desktop Tasks with Power Automate Desktop
+A Power Platform Success Story: Western Computer Delivers New Automations and Insights
+Upgrade Your Business with the Intelligence of AI Builder and Microsoft Power Automate]]></summary>
+        <author>
+            <name>DynaTech Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: new additions in Excel Layouts reporting.]]></title>
+        <id>https://365community.online/dynamics-365-business-central-new-additions-in-excel-layouts-reporting</id>
+        <link href="https://365community.online/dynamics-365-business-central-new-additions-in-excel-layouts-reporting"/>
+        <updated>2023-12-27T09:29:50.000Z</updated>
+        <summary type="html"><![CDATA[One of the reporting features I like the most in Dynamics 365 Business Central is the possibility to create Excel Layout reports. Excel Layout reports are essentially reports based on […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HubSpot vs. Microsoft Dynamics 365 CRM (2024 Comparison)]]></title>
+        <id>https://www.erpsoftwareblog.com/?p=99391</id>
+        <link href="https://erpsoftwareblog.com/2023/12/hubspot-vs-microsoft-dynamics-365-crm/"/>
+        <updated>2023-12-27T09:04:55.000Z</updated>
+        <summary type="html"><![CDATA[Are you on the hunt for the perfect CRM software? Deciding that your business could use a CRM solution is just the first step. The real challenge lies in navigating …  HubSpot vs. Microsoft Dynamics 365 CRM (2024 Comparison) Read More »
+The post HubSpot vs. Microsoft Dynamics 365 CRM (2024 Comparison) appeared first on ERP Software Blog.
+No Fooling - 3 Dynamics GP Users For $1!
+Business Intelligence in Microsoft Dynamics GP 2010
+Video: Ramada Hotel and Hampton Inn Use Microsoft Dynamics GP for their Back Office Financials]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get working days and holidays of the CRM Service calendar in Power Automate Flow]]></title>
+        <id>https://365community.online/get-working-days-and-holidays-of-the-crm-service-calendar-in-power-automate-flow</id>
+        <link href="https://365community.online/get-working-days-and-holidays-of-the-crm-service-calendar-in-power-automate-flow"/>
+        <updated>2023-12-27T07:58:50.000Z</updated>
+        <summary type="html"><![CDATA[With Microsoft providing us more flexibility with Power Automate (MS Flow), we can now retrieve working days and holiday details of the CRM Service Calendar directly within Power Automate flows. […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The webhook call failed because the Http request timed out at client side. Please check your webhook request handler – Dataverse / Dynamics 365]]></title>
         <id>https://365community.online/the-webhook-call-failed-because-the-http-request-timed-out-at-client-side-please-check-your-webhook-request-handler-dataverse-dynamics-365</id>
@@ -166,6 +254,17 @@ The post The F&O Twist on Process Mining – Warehouse material movement analysi
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Advent of 2023, Day 25 – Learning paths, materials, and documentation on Microsoft Fabric]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=9956</id>
+        <link href="https://tomaztsql.wordpress.com/2023/12/25/advent-of-2023-day-25-learning-paths-materials-and-documentation-on-microsoft-fabric/"/>
+        <updated>2023-12-25T09:49:39.000Z</updated>
+        <summary type="html"><![CDATA[In this Microsoft Fabric series: To wrap up the series, let’s check the material available online, for you to continue learning, exploring and enjoying Microsoft Fabric. The official website: https://www.microsoft.com/en-us/microsoft-fabricMicrosoft Learn: https://learn.microsoft.com/en-us/fabric/Training path: https://learn.microsoft.com/en-us/training/Github: https://github.com/MicrosoftDocs/fabric-docs/tree/mainFabric Community: https://community.fabric.microsoft.com/ Youtube channel –…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Merry Christmas 2023 PowerApps Style – YouTube]]></title>
         <id>https://365community.online/merry-christmas-2023-powerapps-style-youtube</id>
         <link href="https://365community.online/merry-christmas-2023-powerapps-style-youtube"/>
@@ -186,6 +285,28 @@ The post The F&O Twist on Process Mining – Warehouse material movement analysi
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Advent of 2023, Day 24 – OneLake in Fabric]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=9934</id>
+        <link href="https://tomaztsql.wordpress.com/2023/12/24/advent-of-2023-day-24-onelake-in-fabric/"/>
+        <updated>2023-12-24T12:44:15.000Z</updated>
+        <summary type="html"><![CDATA[In this Microsoft Fabric series: OneLake comes automatically with every Microsoft Fabric tenant and represents a single, logical data lake. Its main features are its unification and one copy of data across the organization and multiple analytical engines. OneLake is…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advent of 2023, Day 23 – Admin Portal in Fabric]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=9897</id>
+        <link href="https://tomaztsql.wordpress.com/2023/12/23/advent-of-2023-day-23-admin-portal-in-fabric/"/>
+        <updated>2023-12-23T14:27:55.000Z</updated>
+        <summary type="html"><![CDATA[In this Microsoft Fabric series: Admin portal serves purpose for governing and setting the Microsoft Fabric, where you can make  tenant settings, also access the Microsoft 365 admin portal, and control how users interact with Microsoft Fabric. To access the…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Publish Copilot to a demo website #CopilotStudio #DieHardCopilot #Copilot #MCS – YouTube]]></title>
         <id>https://365community.online/publish-copilot-to-a-demo-website-copilotstudio-diehardcopilot-copilot-mcs-youtube</id>
         <link href="https://365community.online/publish-copilot-to-a-demo-website-copilotstudio-diehardcopilot-copilot-mcs-youtube"/>
@@ -193,6 +314,17 @@ The post The F&O Twist on Process Mining – Warehouse material movement analysi
         <summary type="html"><![CDATA[source]]></summary>
         <author>
             <name>Matt Collins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advent of 2023, Day 22 – Apps in Fabric]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=9881</id>
+        <link href="https://tomaztsql.wordpress.com/2023/12/22/advent-of-2023-day-22-apps-in-fabric/"/>
+        <updated>2023-12-22T18:19:04.000Z</updated>
+        <summary type="html"><![CDATA[In this Microsoft Fabric series: Apps are collections of dashboards and reports in one easy-to-find place. Go to Apps and click on “Get Apps”. Click the Microsoft Fabric Capacity Metrics tile, click on “get it” and later click on “install…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
         </author>
     </entry>
     <entry>
@@ -299,6 +431,17 @@ Cloud-Based ERP Offers More Options to Manufacturers]]></summary>
         <summary type="html"><![CDATA[The post Unwrap Culinary Confidence and the Potential of Maplytics in Festive Feast appeared first on Blog | Maplytics. Source link]]></summary>
         <author>
             <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advent of 2023, Day 21 – Monitoring workspaces with Fabric]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=9850</id>
+        <link href="https://tomaztsql.wordpress.com/2023/12/21/advent-of-2023-day-21-monitoring-workspaces-with-fabric/"/>
+        <updated>2023-12-21T21:35:50.000Z</updated>
+        <summary type="html"><![CDATA[In this Microsoft Fabric series: Monitoring workspaces, executions and checking logs is so quintessential, that one should get familiarized with this in the first place. Monitoring Hub The easy way to check, view and track your activities and execution and…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
         </author>
     </entry>
     <entry>
@@ -424,6 +567,17 @@ The program recognized 13 Power Up champs with the Star Champ badge for their ex
         <summary type="html"><![CDATA[Introduction A custom action in desktop flow is a feature designed to automate repetitive tasks seamlessly. This blog provides a comprehensive guide on designing and leveraging custom actions in the […]]]></summary>
         <author>
             <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advent of 2023, Day20 – Working with notebooks in Fabric]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=9823</id>
+        <link href="https://tomaztsql.wordpress.com/2023/12/20/advent-of-2023-day20-working-with-notebooks-in-fabric/"/>
+        <updated>2023-12-20T22:00:47.000Z</updated>
+        <summary type="html"><![CDATA[In this Microsoft Fabric series: Notebooks have been around for a long time and people, community, and professionals have proven the usability, practicality, versioning and reliability of notebooks. Not to mention the clarity and hygiene. But opinions are also divided.…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
         </author>
     </entry>
     <entry>
@@ -613,6 +767,17 @@ Is Your ERP Software Incomplete Without BI?]]></summary>
         <summary type="html"><![CDATA[This post is specific to Microsoft Dynamics GP in case someone is reading this post after searching for more general information on this topic. After the Dynamics GP Year-End 2023 […]]]></summary>
         <author>
             <name>Jen Kuntz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advent of 2023, Day 19 – Event streaming with Fabric]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=9806</id>
+        <link href="https://tomaztsql.wordpress.com/2023/12/19/advent-of-2023-day-19-event-streaming-with-fabric/"/>
+        <updated>2023-12-19T21:10:01.000Z</updated>
+        <summary type="html"><![CDATA[In this Microsoft Fabric series: In Fabric, you can create streaming semantic model and when selecting you will get the usual sources: Differences are explained here: Once we create a PubNub API and use the following key and channel name…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
         </author>
     </entry>
     <entry>
@@ -823,6 +988,17 @@ How Dynamics 365 Business Central meet the Manufacturer’s expectations?]]></su
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Advent of 2023, Day 18 – Exploring Power BI in Microsoft Fabric]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=9774</id>
+        <link href="https://tomaztsql.wordpress.com/2023/12/18/advent-of-2023-day-18-exploring-power-bi-in-microsoft-fabric/"/>
+        <updated>2023-12-18T18:56:09.000Z</updated>
+        <summary type="html"><![CDATA[In this Microsoft Fabric series: We have created a Power BI report directly from the datalake and today we will check how to do same with dashboard and paginated reports. Select new “Paginated report”. Select a data we want to…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Experience the power of Copilot in Dynamics 365 Field Service in the mobile application]]></title>
         <id>https://cloudblogs.microsoft.com/dynamics365/it/2023/12/18/experience-the-power-of-copilot-in-dynamics-365-field-service-in-the-mobile-application/</id>
         <link href="https://cloudblogs.microsoft.com/dynamics365/it/2023/12/18/experience-the-power-of-copilot-in-dynamics-365-field-service-in-the-mobile-application/"/>
@@ -984,6 +1160,17 @@ The post Streamlining Workforce Management: Setting Primary Positions in Dynamic
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Advent of 2023, Day 17 – Exploring Power BI in Microsoft Fabric]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=9757</id>
+        <link href="https://tomaztsql.wordpress.com/2023/12/17/advent-of-2023-day-17-exploring-power-bi-in-microsoft-fabric/"/>
+        <updated>2023-12-17T18:23:10.000Z</updated>
+        <summary type="html"><![CDATA[In this Microsoft Fabric series: Within the Power BI in Fabric, you will find many of the components, that can be used to create a final report. And here are the components: Let’s create a report online within the workspace.…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[New website (again)!]]></title>
         <id>https://365community.online/new-website-again</id>
         <link href="https://365community.online/new-website-again"/>
@@ -1054,6 +1241,17 @@ The post Streamlining Workforce Management: Setting Primary Positions in Dynamic
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Advent of 2023, Day 16 – Creating data pipelines for Fabric data warehouse]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=9722</id>
+        <link href="https://tomaztsql.wordpress.com/2023/12/16/advent-of-2023-day-16-creating-data-pipelines-for-fabric-data-warehouse/"/>
+        <updated>2023-12-16T16:38:46.000Z</updated>
+        <summary type="html"><![CDATA[In this Microsoft Fabric series: With the Fabric warehouse created and explored, let’s see, how we can use pipelines to get the data into Fabric warehouse. In the existing data warehouse, we will introduce new data. By clicking “new data”, two…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Use Gen AI to answer a question #CopilotStudio #Copilot #DieHardCopilot #MCS #PowerPlatform – YouTube]]></title>
         <id>https://365community.online/use-gen-ai-to-answer-a-question-copilotstudio-copilot-diehardcopilot-mcs-powerplatform-youtube</id>
         <link href="https://365community.online/use-gen-ai-to-answer-a-question-copilotstudio-copilot-diehardcopilot-mcs-powerplatform-youtube"/>
@@ -1061,6 +1259,394 @@ The post Streamlining Workforce Management: Setting Primary Positions in Dynamic
         <summary type="html"><![CDATA[source]]></summary>
         <author>
             <name>Matt Collins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create shareable, secured URLs (deep links)]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2023/12/create-shareable-secured-urls-deep-links.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2023/12/create-shareable-secured-urls-deep-links.html"/>
+        <updated>2023-12-16T11:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Overview
+The URL Generator enables developers to create shareable and secured URLs (also known as deep links) to specific forms that are root navigable. An optional data context can be passed to the form to display filtered or specific data when the form is opened. The URL Generator enables scenarios such as embedding links in reports, email, and external applications, enabling users to quickly and easily locate the specified forms or data by simply navigating using the generated link.
+
+Purpose
+
+Empower developers to generate URLs that can be used to navigate to root navigable forms in a specified instance.
+Empower developers to optionally specify a data context that should be displayed when navigating to the specified form.
+Empower users to share, save, and access the generated URLs from …]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Filtering options in D365 FO]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2023/12/filtering-options-in-d365-fo.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2023/12/filtering-options-in-d365-fo.html"/>
+        <updated>2023-12-16T11:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+
+Microsoft Dynamics AX 2012 offers the following filtering options.
+
+
+Filter optionDescription
+
+Filter by gridThe user defines filter conditions in input fields below the grid column headers.
+Filter by selection (filter by field)The user selects a field value and uses that value as a filter condition.
+Advanced filterThe user opens a dialog box that contains advanced filtering options (filter on columns, not on the form; join additional data sources; sort by multiple columns; and so on).
+
+
+Finance and operations offers the following filtering options.
+
+
+Filter optionDescription
+
+Filter PaneAn inline pane that slides in from the left, and that contains multiple filter criteria that can be applied to the targeted content.
+QuickFilterA framework-provided filtering mechanism that c…]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Convert enum value to STR  in Electronic report D365 FO]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2023/12/convert-enum-value-to-str-in-electronic.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2023/12/convert-enum-value-to-str-in-electronic.html"/>
+        <updated>2023-12-16T11:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Purpose:
+The purpose of this document is to demonstrate how we can we get enum values in Electronic report
+ X++ based on a business logic.
+Product:
+Dynamics 365 for Finance and Operations, Platform Update 9.
+Development approach:
+Customization through CODE, we need to  get enum values in Electronic report
+Development:
+Create a class to get enum values into electronic report... in Electronic report system wont allow us to provide values as enum for this we required to convert our desired enum value to string and need to bind that method to our value in model mapping 
+Please find the method definition as follows.
+
+
+Below in my requirement i want to assign TransactionType and LedgerPostingType values into may report so that i was added logic like below... here code will convert enum to str fo…]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Export Vendor GSTN details to excel X++ D365 FO]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2023/12/export-vendor-gstn-details-to-excel-x.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2023/12/export-vendor-gstn-details-to-excel-x.html"/>
+        <updated>2023-12-16T10:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Purpose:
+The purpose of this document is to demonstrate how we can Export Vendor GSTN details to excel X++ based on a business logic.
+Product:
+Dynamics 365 for Finance and Operations, Platform Update 9.
+Development approach:
+Customization through CODE, we need to Export Vendor GSTN details to excel
+Development:
+Create a class to export Vendor  gstn details to excel
+Please find the method definition as follows.
+
+
+using System.IO;
+using OfficeOpenXml;
+using OfficeOpenXml.Style;
+using OfficeOpenXml.Table;
+class VendorGSTExportToExcel
+{
+    public static void main(Args _args)
+    {
+        VendTable vendTable;
+        DirPartyTable   dirparty;
+        LogisticsLocation   location;
+        TaxInformation_IN   taxInfo_IN;
+        VendName        vendName;
+        str isprimary;
+        TaxRegist…]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Export Customer GSTN details to excel X++ D365 FO]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2023/12/export-customer-gstn-details-to-excel-x.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2023/12/export-customer-gstn-details-to-excel-x.html"/>
+        <updated>2023-12-16T10:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Purpose:
+The purpose of this document is to demonstrate how we can Export Customer GSTN details to excel X++ based on a business logic.
+Product:
+Dynamics 365 for Finance and Operations, Platform Update 9.
+Development approach:
+Customization through CODE, we need to Export Customer GSTN details to excel
+Development:
+Create a class to export customer gstn details to excel
+Please find the method definition as follows.
+
+
+using System.IO;
+using OfficeOpenXml;
+using OfficeOpenXml.Style;
+using OfficeOpenXml.Table;
+class CustomerGSTExportToExcel
+{
+    public static void main(Args _args)
+    {
+        CustTable custTable;
+        DirPartyTable   dirparty;
+        LogisticsLocation   location;
+        TaxInformation_IN   taxInfo_IN;
+        CustName        custName;
+        str isprimary;
+        Ta…]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Split Dimension values(Ledger Account field) into separate fields x++ D365FO]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2023/12/split-dimension-valuesledger-account.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2023/12/split-dimension-valuesledger-account.html"/>
+        <updated>2023-12-16T09:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Purpose:
+The purpose of this document is to demonstrate how we can Split ledger account into separate field values using ledger dimension field from general journal account entry X++ based on a business logic.
+Product:
+Dynamics 365 for Finance and Operations, Platform Update 9.
+Development approach:
+Customization through Table COC , we need to Split ledger account into separate field values using ledger dimension field from general journal account entry
+Development:
+Create a Class and added main method to get dim value based on dimension and attribute name to identify values from ledger dimension field from general journal account entry table.
+
+
+Please find the method definition as follows.
+
+
+
+
+Public class testclass
+{
+    generaljournalentry accountEntry;
+    
+   select firstonly accountE…]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Send ssrs report to email with excel attachment in D365FO]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2023/12/send-ssrs-report-to-email-with-excel.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2023/12/send-ssrs-report-to-email-with-excel.html"/>
+        <updated>2023-12-16T09:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Purpose:
+The purpose of this document is to demonstrate how we can send ssrs report to mail through attachment Excel X++ based on a business logic.
+Product:
+Dynamics 365 for Finance and Operations, Platform Update 9.
+Development approach:
+Customization through code, to send report in excel format to email
+Development:
+Create class, and get control setting and SMTP config details, to users get email of report as attachment .
+Please find the method definition as follows.
+
+
+class testTransReportService
+{
+    /// <summary>
+    /// Send email with excel attachment
+    /// </summary>
+    [SysEntryPointAttribute(false)]
+    public void processRecords()
+    {
+        date integationDate;
+        SysEmailParameters sysEmailParameters;
+        integationDate = DateTimeUtil::getToday(DateTimeUtil::ge…]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to take control of SSRS Report parameters through UI Builder class in D365FO]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2023/12/how-to-take-control-of-ssrs-report.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2023/12/how-to-take-control-of-ssrs-report.html"/>
+        <updated>2023-12-16T09:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Purpose:
+The purpose of this document is to demonstrate how we can we defualt and not allowing to edit ssrs report parameter  X++ based on a business logic.
+Product:
+Dynamics 365 for Finance and Operations, Platform Update 9.
+Development approach:
+Customization through code , we need make value default and it should be non editable and 
+Development:
+Created 4 parameters in my case, from to dates, banaccount and exchangeratetype, we need to non editable of  exchangeratetype parameter
+Please find the method definition as follows.
+class testTransUIBuilder extends SysOperationAutomaticUIBuilder
+{
+    private DialogField dialogBankID, dialogExrateType, dialogfromdate, dialogtodate;
+    public void getFromDialog()
+    {
+        super();
+
+
+        testTransContract contract = this.dataContractObj…]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Download SSRS Report directly through X++]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2023/12/download-ssrs-report-directly-through-x.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2023/12/download-ssrs-report-directly-through-x.html"/>
+        <updated>2023-12-16T09:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Purpose:
+The purpose of this document is to demonstrate how we can download report directly through X++ based on a business logic.
+Product:
+Dynamics 365 for Finance and Operations, Platform Update 9.
+Development approach:
+Customization through code, we need to directly download report 
+Development:
+Create a Controller class and using print destination helper class to download report
+Please find the method definition as follows.
+
+
+class  testTransController extends SrsReportRunController implements BatchRetryable
+{
+    SRSPrintDestinationSettings printDestinationSetting;
+
+
+    public static void main(Args _args)
+    {
+         testTransController controller = new  testTransController();
+        controller.parmReportName(ssrsReportStr(testTransReport, testTransOrig));
+        controller.parmDialogCaption("test Bank Book Data Report");
+        controller.startOperation();
+    }
+
+
+    // method to call print settings to download our generated report directly to downloads
+    protected void preRunModifyContract()
+    {
+        testTransContract contract = this.parmReportContract().parmRdpContract() as testTransContract;
+        
+        
+        this.parmReportContract().parmReportName(ssrsReportStr(testTransReport, BankBookTransOrig));
+        printDestinationSetting = new SRSPrintDestinationSettings();
+        printDestinationSetting.printMediumType(SRSPrintMediumType::File);
+        printDestinationSetting.fileName(System.IO.Path::GetTempPath() +'test data report.XLSX');
+        printDestinationSetting.fileFormat(SRSReportFileFormat::Excel);
+        printDestinationSetting.overwriteFile(true);
+       
+        this.parmReportContract().parmPrintSettings(printDestinationSetting);
+    }
+
+
+
+}]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get lable of enum value(Main Account Type) through computed column in view D365FO]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2023/12/get-lable-of-enum-valuemain-account.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2023/12/get-lable-of-enum-valuemain-account.html"/>
+        <updated>2023-12-16T08:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Purpose:
+The purpose of this document is to demonstrate how we can get value in view through computed column X++ based on a business logic.
+Product:
+Dynamics 365 for Finance and Operations, Platform Update 9.
+Development approach:
+Customization through View , we need to show Enum values  lable in view based on DimensionLedgerAccountType  from voucher transactions
+Development:
+Create a view and added GneralJournalEntry and GneralJournalAccountEntry data sources. added computed column for this added method to bring dimension values based on dim name. in our case bring value of "Business Unit"
+Please find the method definition as follows.
+public class Dimensionview extends common
+{
+
+
+    private static str mainaccounttypelable()
+    {
+        tableName leaveBankTransactionView = identifierStr(Dimensionview );
+        DictEnum dictEnum = new DictEnum(enumNum(DimensionLedgerAccountType));
+        Map enumValues = new Map(Types::String, Types::String);
+        int counter;
+
+
+        for (counter = 0; counter < dictEnum.values(); counter++)
+        {
+            enumValues.insert(int2str(dictEnum.index2Value(counter)), SysComputedColumn::returnLiteral(dictEnum.index2Symbol(counter)));
+        }
+
+
+        return SysComputedColumn::switch(SysComputedColumn::returnField(leaveBankTransactionView, identifierStr(MainAccount), fieldStr(MainAccount, Type )), enumValues, SysComputedColumn::returnLiteral(dictEnum.index2Symbol(counter)));
+    }
+
+
+}]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Dim Values into view through Computed Column in D365FO]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2023/12/get-dim-values-into-form-through.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2023/12/get-dim-values-into-form-through.html"/>
+        <updated>2023-12-16T08:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Purpose:
+The purpose of this document is to demonstrate how we can get value in view through computed column X++ based on a business logic.
+Product:
+Dynamics 365 for Finance and Operations, Platform Update 9.
+Development approach:
+Customization through View , we need to show dimension values in view based on ledger dimension from voucher transactions
+Development:
+Create a view and added GneralJournalEntry and GneralJournalAccountEntry data sources. added computed column for this added method to bring dimension values based on dim name. in our case bring value of "Business Unit"
+Please find the method definition as follows.
+public class Dimensionview extends common
+{
+
+
+    /// <summary>
+    ///
+    /// </summary>
+    private static  str businessUnit()
+    {
+
+
+        return strFmt(
+            @"select dimvalue 
+                from %1 as prosessedtrans
+                where prosessedtrans.GENERALJOURNALACCOUNTENTRY = %2
+                AND prosessedtrans.DIMNAME = %3",
+            (new SysDictTable(tableNum(LedgerSIEGeneralJournalEntryDimensionsView))).name(DbBackend::Sql),
+            SysComputedColumn::returnField(
+            viewstr(Dimensionview ),
+            tableStr(GeneralJournalAccountEntry),
+            fieldStr(GeneralJournalAccountEntry, RecId)),
+            SysComputedColumn::returnLiteral("BusinessUnit"));
+        
+    }
+}]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enable/Disable form control (COC) in X++]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2023/12/enabledisable-form-control-coc-in-x.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2023/12/enabledisable-form-control-coc-in-x.html"/>
+        <updated>2023-12-16T08:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Purpose:
+The purpose of this document is to demonstrate how we can enable/disable a workflow fields based on workflow toggle on header .form control in X++ based on a business logic.
+Product:
+Dynamics 365 for Finance and Operations, Platform Update 9.
+Development approach:
+Customization through extension. we need to show workflow related fields in VendInvoiceJournal   list page when a transaction enabled with workflow toggle.
+Development:
+
+Create a COC of a standard form method enabling/disabling the form controls. In this case, we are creating a COC of a standard method  VendInvoiceJournal  form.
+Please find the COC method definition as follows.
+
+I had four custom controls already added in my form through extension and enabled Auto declaration = YES for all controls
+
+
+
+
+
+[ExtensionOf(form…]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
         </author>
     </entry>
     <entry>
@@ -3414,6 +4000,87 @@ Top Benefits of MetaWMS that Enable Efficient Warehouse Operations]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to add custom Execute action in logic app]]></title>
+        <id>https://kishoredynamics11.blogspot.com/2023/11/how-to-add-custom-execute-action-in_96.html</id>
+        <link href="https://kishoredynamics11.blogspot.com/2023/11/how-to-add-custom-execute-action-in_96.html"/>
+        <updated>2023-11-28T08:32:00.000Z</updated>
+        <summary type="html"><![CDATA[How to add custom Execute action in the logic app.
+
+
+
+
+
+
+
+
+
+
+
+In the drop-down, the system will display standard OData execute actions. To enable this, we need to create an OData execute action. 
+
+This involves creating a method in the data entity and adding the following attribute at the top of the method.
+
+
+        [SysODataActionAttribute("Name", false)]
+
+
+
+
+ For a static method, we will pass 'false.' For an instance method, we need to pass 'true'.
+
+
+
+Below code I have written in my custom entity.
+[SysODataActionAttribute("GetSalesStatus", false)]
+public static str getStatus(str    salesId, DataAreaId company)
+{
+    str  status;
+
+    changecompany (company)
+    {
+	status = enum2Str(SalesTable::find(salesId).SalesStatus);
+    }
+
+    return  status;
+} 
+
+
+
+After rebuilding the project, it appears in the drop-down.
+
+
+
+
+
+
+
+
+Sales ID and company are the input parameters. After selecting the execute action, click on 'Add parameter,' then select these two parameters and assign their respective values
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In the blog below, he has explained OData actions with different scenarios. Please check for further clarification.   
+OData actions
+
+
+
+Keep Daxing!!]]></summary>
+        <author>
+            <name>Dynamics World</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Join Microsoft at the DEVintersection Conference in Orlando]]></title>
         <id>join-microsoft-the-devintersection-conference-in-orlando</id>
         <link href="https://powerapps.microsoft.com/en-us/blog/join-microsoft-the-devintersection-conference-in-orlando/"/>
@@ -3573,6 +4240,63 @@ This post first appeared first on Encore Business Solutions.]]></summary>
 The post Transforming Supply Chains: Exploring Advanced AI-Powered Demand Forecasting and Demand Planning in Dynamics 365 Supply Chain Management appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Denis Conway and Beatriz Nebot Gracia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Convert CSV file to JSON in Logic app]]></title>
+        <id>https://kishoredynamics11.blogspot.com/2023/11/convert-csv-file-to-json-in-logic-app.html</id>
+        <link href="https://kishoredynamics11.blogspot.com/2023/11/convert-csv-file-to-json-in-logic-app.html"/>
+        <updated>2023-11-23T05:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Convert CSV file to JSON in Logic app.
+This is the full step-by-step process, and I have provided its output below.
+
+
+
+I used the below CSV file, separated by pipes ('|'), to test this.
+
+Please follow the below steps.
+
+
+        Step 1: I fetched the file from Blob by searching for the blob and selecting the 'Get blob content' action.
+
+
+
+
+
+
+       Step 2: For this action, I provided the storage account name and file path.
+
+
+
+
+
+ 
+        Step 3: To process the output content from the blob, I used the 'Compose' action and applied the 'Split' function.
+
+
+
+
+
+         Expression:
+        split(body('Get_blob_content_'),decodeUriComponent('%0D%0A'))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Step 4: Additionally, I used another 'Compose' action to remove the last line, as it appeared empty. You can choose to include…]]></summary>
+        <author>
+            <name>Dynamics World</name>
         </author>
     </entry>
     <entry>
@@ -3799,6 +4523,149 @@ Overcome Tax Management Challenges by Leveraging Microsoft Dynamics 365 Automati
 Streamlining Your Shipping Process: Multi-Carrier Shipping with MetaShip]]></summary>
         <author>
             <name>Binary Stream</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create financial Dimension using x++ in D365FO]]></title>
+        <id>https://kishoredynamics11.blogspot.com/2023/11/create-financial-dimension-using-x-in.html</id>
+        <link href="https://kishoredynamics11.blogspot.com/2023/11/create-financial-dimension-using-x-in.html"/>
+        <updated>2023-11-21T11:48:00.000Z</updated>
+        <summary type="html"><![CDATA[For creating Financial Dimensions we have 2 ways.
+
+
+ container offsetConLoc  =   [_mainaccount, #empty, department, costcenter, #empty, project];
+ container offsetConLoc  =   [_mainaccount,_businessunit,_site, region, department,_Vendor, #empty, #empty, _fixedasset];
+Way 1:
+    public DimensionDynamicAccount   generateLedgerDimension(container    _conData,   MainAccountNum  mainAccountNum)
+    {
+        int                                  hierarchyCount;
+        int                                  hierarchyIdx;
+        RecId                                dimAttId_MainAccount;
+        LedgerRecId                          ledgerRecId;
+        MainAccount                          mainAccount;
+        RefRecId                             recordvalue;
+        DimensionAttribute              …]]></summary>
+        <author>
+            <name>Dynamics World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The operation is not allowed by RBAC. If role assignments were recently changed, please wait several minutes for role assignments to become effective. Error in Azure]]></title>
+        <id>https://kishoredynamics11.blogspot.com/2023/11/the-operation-is-not-allowed-by-rbac-if.html</id>
+        <link href="https://kishoredynamics11.blogspot.com/2023/11/the-operation-is-not-allowed-by-rbac-if.html"/>
+        <updated>2023-11-21T06:43:00.000Z</updated>
+        <summary type="html"><![CDATA[The operation is not allowed by RBAC. If role assignments were recently changed, please wait several minutes for role assignments to become effective. Error in Azure.
+
+
+
+
+
+
+
+
+
+            ·       To address the above error, please follow the process outlined below. 
+          ·       Navigate to "Access Control (IAM)" and click on "Add."
+
+
+
+
+
+        ·      
+Choose
+"Add Role Assignment."
+
+
+
+
+
+        ·      
+Select
+"Key Vault Administrator" and click "Next."
+
+
+
+
+
+        ·      
+Click
+on "Select members" and choose the user.
+
+
+
+
+
+        ·      
+Click
+the "Select" button.
+
+
+
+
+
+
+
+
+
+
+        ·      
+The
+selection will be displayed in the highlighted grid below. Click on "Review
++ assign."
+
+
+
+        ·      
+Again,
+click on "Review + assign."
+
+
+
+         ·       
+This
+action will resolve the error.
+
+
+
+
+
+Keep Daxing!!]]></summary>
+        <author>
+            <name>Dynamics World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Encryption And Decryption Using A Symmetric Key(AES) using x++]]></title>
+        <id>https://kishoredynamics11.blogspot.com/2023/11/encryption-and-decryption-using.html</id>
+        <link href="https://kishoredynamics11.blogspot.com/2023/11/encryption-and-decryption-using.html"/>
+        <updated>2023-11-21T06:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Encryption And Decryption Using A Symmetric Key(AES) using x++.
+
+
+I received a requirement to generate an XML file with encrypted data using a symmetric key. The recipients on the other side will decrypt the text using the same symmetric key. To test this, I used a dummy value such as 'RRR'.
+To achieve this, I wrote the code in C# and added the resulting DLL to my project references.
+
+
+C# Code:
+using System;
+using System.IO;
+using System.Security.Cryptography;
+using System.Text;
+
+namespace EncryptionDecryptionUsingSymmetricKey
+{
+    public class AesOperation
+    {
+        public static string EncryptString(string key, string plainText)
+        {
+            byte[] iv = new byte[16];
+            byte[] array;
+
+            using (Aes aes = Aes.Create())
+            {
+                aes.Key …]]></summary>
+        <author>
+            <name>Dynamics World</name>
         </author>
     </entry>
     <entry>
@@ -4403,6 +5270,53 @@ How to Migrate Data to Business Central During Your Upgrade Transition
 Webinar - New Tools & Features in GP 2013 R2]]></summary>
         <author>
             <name>Dynamics Square UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add File upload option in sys operation dialog in D365FO]]></title>
+        <id>https://kishoredynamics11.blogspot.com/2023/11/add-file-upload-option-in-sys-operation.html</id>
+        <link href="https://kishoredynamics11.blogspot.com/2023/11/add-file-upload-option-in-sys-operation.html"/>
+        <updated>2023-11-15T08:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Add File upload option in sys operation dialog in D365FO. By using this we can upload CSV files and Excel files. This upload option I have added this in sys operation and batch jobs using the below code.
+Dialog:
+
+
+
+
+
+
+
+Code :
+Using sys operation:
+Controller:
+class MyController extends SysOperationServiceController
+{
+    public void new()
+    {
+        super();
+     
+        this.parmClassName(classStr(MyService));
+        this.parmMethodName(methodStr(MyService, processOperation));
+     
+        this.parmDialogCaption("Caption");
+    }
+	
+    public ClassDescription caption()
+    {
+        return "Caption";
+    }
+	
+    public static void main(Args args)
+    {
+	new MyController().startOperation();
+    }
+}
+Contract:
+[   DataContract,
+    SysOperationContractProcessing(classStr(MyUIBuilder))
+]…]]></summary>
+        <author>
+            <name>Dynamics World</name>
         </author>
     </entry>
     <entry>
@@ -5383,6 +6297,54 @@ The post Back to the feature: Bulk editing in grids appeared first on Dynamicspe
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to fetch values from records to Include filter using x++ in D365FO]]></title>
+        <id>https://kishoredynamics11.blogspot.com/2023/10/how-to-fetch-records-to-include-filter.html</id>
+        <link href="https://kishoredynamics11.blogspot.com/2023/10/how-to-fetch-records-to-include-filter.html"/>
+        <updated>2023-10-30T07:55:00.002Z</updated>
+        <summary type="html"><![CDATA[Hi guys, I have a requirement to fetch the record to include filtered values from the report dialog.
+
+
+
+
+
+I need to show those values in the report footer.
+
+ Code :
+Users can apply filters from the filter screen, and if any new tables are joined or new fields are added. To get those values I have used a query filter.
+
+
+
+
+
+
+        str                         value;
+	Query                       query;
+	QueryFilter                 qf;
+
+	query = qr.query();// getting query from query run.
+
+	int  cnt = query.queryFilterCount();
+
+	// Fetching data from query if any new tables are joined or new Fileds are added
+	for (int ds =1; ds<= cnt; ds++)
+	{
+		qf = query.queryFilter(ds);
+
+		if(qf.value())
+		{
+			value += strFmt('%1 : %2',
+				            qf.field(),
+					    qf.value());
+		}
+	}
+
+
+The below …]]></summary>
+        <author>
+            <name>Dynamics World</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Default Description for free text invoice transactions in Microsoft Dynamics 365 Finance and Operations]]></title>
         <id>http://exploredynamics365.home.blog/?p=2776</id>
         <link href="https://exploredynamics365.home.blog/2023/10/29/default-description-for-free-text-invoice-transactions-in-microsoft-dynamics-365-finance-and-operations/"/>
@@ -5420,6 +6382,43 @@ The post Back to the feature: Bulk editing in grids appeared first on Dynamicspe
         <summary type="html"><![CDATA[Welcome to part 3 of our exploration into Inventory Valuation within Microsoft Dynamics 365 Finance and Operations. In this video installment, I’ve endeavored to elucidate the FIFO (Fist in First Out) and LIFO (Last in first out) valuation method in D365, delving into the following key concepts: -Part-1: https://youtu.be/7aF8fye1sIQ -Part-2: https://youtu.be/pynTucydA7s -Blog: https://exploredynamics365.home.blog/ -YouTube: https://youtube.com/@DynamicsClass […]]]></summary>
         <author>
             <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge multiple pdf’s into a single pdf using x++ in D365FO]]></title>
+        <id>https://kishoredynamics11.blogspot.com/2023/10/merge-multiple-pdfs-into-single-pdf.html</id>
+        <link href="https://kishoredynamics11.blogspot.com/2023/10/merge-multiple-pdfs-into-single-pdf.html"/>
+        <updated>2023-10-27T05:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Got the requirement to Merge multiple pdf’s into a single pdf in D365FO.
+
+
+
+To achieve this need to download the (pdfsharp)3rd party DLL from the below link 
+https://www.dllme.com/dll/files/pdfsharp#dl.
+once DLL is downloaded you have to add at the project reference node.
+
+
+Write the below code.
+using PdfSharp;
+internal final class PFDRun
+{
+    public static void main(Args _args)
+    { 
+	PdfSharp.Pdf.PdfDocument 	outPutPDFDocument = new PdfSharp.Pdf.PdfDocument();
+	PdfSharp.Pdf.PdfDocument 	inputPDFDocument  = new PdfSharp.Pdf.PdfDocument(); 
+        PdfSharp.Pdf.PdfPages 		pdfPages;
+
+        container con = ['D:\\Test1.pdf','D:\\Test2.pdf', 'D:\\Test3.pdf'];
+
+        int i, j, pageCount;
+
+	FileName 		pdfFile;
+        InteropPermission 	permission;
+        str 			errorMessage;
+
+        try…]]></summary>
+        <author>
+            <name>Dynamics World</name>
         </author>
     </entry>
     <entry>
@@ -5441,6 +6440,126 @@ The post My Experience at Dynamics Communities North America Summit 2023 appeare
         <summary type="html"><![CDATA[We’re excited to announce the public preview of a much-anticipated update to the Microsoft Dataverse connector in Power Automate. With the new ‘Environment’ parameter, you can use the Dataverse connector to seamlessly connect apps, data, and processes in different Power Platform environments.]]></summary>
         <author>
             <name>powerautomate.microsoft.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT by Open AI with Dynamics 365 Finance and operation – Part 2 with Application]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2023/10/chatgpt-by-open-ai-with-dynamics-365_25.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2023/10/chatgpt-by-open-ai-with-dynamics-365_25.html"/>
+        <updated>2023-10-25T15:30:00.002Z</updated>
+        <summary type="html"><![CDATA[As part of Chat GPT integration with Dynamics 365 Finance and operation, here I have started working on real application which actually can help end user to identify and get more information about error message in system.
+
+if you want to lean about how to integrate ChatGPT with Dynamics 365 Finance and operation.
+
+
+
+
+
+
+
+I have decided to start with General journal posting and Validation process.
+System store all validation message related to journal lines in header table (Log field)
+
+
+
+I have decided to add new button on general journal screen which will help me to read log from header table and try to find out relevant information using ChatGPT call.
+
+
+
+Here below I have showing sample X++ code for your reference.
+
+Following tweaks I am trying to do here to make request more understandabl…]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT by Open AI with Dynamics 365 Finance and operation part1]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2023/10/chatgpt-by-open-ai-with-dynamics-365.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2023/10/chatgpt-by-open-ai-with-dynamics-365.html"/>
+        <updated>2023-10-25T15:29:00.002Z</updated>
+        <summary type="html"><![CDATA[Guys vote if you want Microsoft to add chat GPT by Open API integration with Dynamics 365 Finance and operation in upcoming release.
+
+
+
+This blog is for ChatGPT and D365 Finance and operation integration, As we know so many people are talking about ChatGPT now a days and why don’t we try to access ChatGPT features from Dynamics 365 finance and operation and let user interact with AI to get required help.
+
+
+
+
+
+Yes it is possible to with some C# and X++ code combination.
+To start with I will suggest everyone to play with ChatGPT for sometime and understand. (New chat (openai.com))
+
+
+
+
+
+If you feel now you are ready for technical integration, its time to jump on Playground and understand some technical stuff.
+
+
+
+Playground – OpenAI API (To understand each parameters, Refer https://www.makeuseof.com/how-to-use-gpt-3-openai-playground/, Blog.
+
+
+
+Main parameters to understand.
+1.Model,
+2.Temperature (To fine tune output response)
+3.Maximum length (Max output response)
+4Top P,
+5.Frequency Penalty
+6.Presence penalty.
+Once you understand more about parameter, It time to get API and secret key from beta.openai.com.
+ApiCall = “https://api.openai.com/v1/engines/&#8221; + engine + “/completions”;
+You can generate secret key from
+
+
+
+Once you have all required information you can write C# code to integrate.
+
+
+I have created D365 parameter table to store required parameters for ChatGPT API call.
+Here you can find C# code for calling ChatGPT API.
+
+
+
+
+
+You can refer same code in D365 and call using X++ reference.
+
+Once you are done with above technical changes, Now we can proceed with parameters 
+
+
+setup for API call and start playing with it
+
+Here you have playground in D365 Finance and operation for your reference.
+
+As a responsible technical I would suggest to have some restriction in place for responsible use of ChatGPT API if you wanted to implement same for customer.]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Run custom X++ scripts with zero downtime – D365 Finance and operation]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2023/10/run-custom-x-scripts-with-zero-downtime.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2023/10/run-custom-x-scripts-with-zero-downtime.html"/>
+        <updated>2023-10-25T15:20:00.001Z</updated>
+        <summary type="html"><![CDATA[As we know there are many issues, we face every day where data is not correct, and we need to write small script or runnable job to correct that data. But to do we need downtime in production and complete package deployment and build process is needed which is quite time taking task.
+
+Here with 10.0.25 version Microsoft has given new feature which will help to correct data without any down time required.
+You can check Microsoft document for complete details and feature availability.
+
+
+Here I m going to explain step by step process, how you can use this functionality.
+First process would be, you needed to create new model using model management and add reference module like application suite, application foundation and any other model if required.
+
+
+
+
+Once you are done with model creation, …]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
         </author>
     </entry>
     <entry>
@@ -5516,6 +6635,39 @@ The post How To Setup A Connection Between Azure DevOps & LCS appeared first on 
 The post The F&O Twist on Process Mining – Create new process with event log appeared first on Dynamicspedia.]]></summary>
         <author>
             <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generate Payment Advice report using x++]]></title>
+        <id>https://kishoredynamics11.blogspot.com/2023/10/generate-payment-advice-report-using-x.html</id>
+        <link href="https://kishoredynamics11.blogspot.com/2023/10/generate-payment-advice-report-using-x.html"/>
+        <updated>2023-10-23T06:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Generate Payment Advice report using x++.
+
+
+
+
+
+Way 1: 
+            The system will download the PDF using the Print setting.
+
+Way 2 :
+        Get the stream to send the mail or store it in the server. For this, we have to add the parm method in the contract class and assign the value in savePrintArchiveDetails method.
+
+
+Code:
+    public void generatePaymAdvice(LedgerJournalTrans _ledgerJournalTrans)
+    {
+        Filename                        fileName;
+        BankPaymAdviceVendControllerV2  controller  = new BankPaymAdviceVendControllerV2();
+        BankPaymAdviceContract          contract;
+        SRSPrintDestinationSettings     settings;
+        
+        fileName = strFmt("%1_%2_PaymemtAdvice.pdf", _ledgerjournalTrans.JournalNum, _ledgerjournalTrans.Voucher);
+
+        contract = BankP…]]></summary>
+        <author>
+            <name>Dynamics World</name>
         </author>
     </entry>
     <entry>
@@ -5700,6 +6852,54 @@ The post Dynamics Communities Summit North America 2023 Speaking Activities appe
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to insert a record directly through query X++]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2023/10/how-to-insert-record-directly-through.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2023/10/how-to-insert-record-directly-through.html"/>
+        <updated>2023-10-07T06:59:00.002Z</updated>
+        <summary type="html"><![CDATA[static void test_insertRecordThroughQuery(Args _args)
+{CUSTTEST testTable;
+Map fieldMapping;
+Query query = new Query();
+QueryBuildDataSource qbds_custTable;
+QueryBuildFieldList fldList_custTable;
+qbds_custTable = query.addDataSource(tableNum(CustTable));
+// Field lists are required
+// ————————
+fldList_custTable = qbds_custTable.fields();
+fldList_custTable.addField(fieldNum(CustTable, AccountNum));
+fldList_custTable.addField(fieldNum(CustTable, BirthDate_IT));
+fldList_custTable.dynamic(QueryFieldListDynamic::No);
+fieldMapping = new Map(Types::String, Types::Container);
+fieldMapping.insert(fieldStr(testTable, Name), [qbds_custTable.uniqueId(), fieldStr(CustTable, AccountNum)]);
+fieldMapping.insert(fieldStr(testTable, TransDate), [qbds_custTable.uniqueId(), fieldStr(CustTable, BirthDate_IT)]);
+// Let AX handle getting data from the query to the target table
+// ————————————————————-
+query::insert_recordset(testTable, fieldMapping, query);
+info (“Done”);
+}
+Output:]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Hide Enum values x++]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2023/10/how-to-hide-enum-values-x.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2023/10/how-to-hide-enum-values-x.html"/>
+        <updated>2023-10-07T06:54:00.002Z</updated>
+        <summary type="html"><![CDATA[Today will discuss about a simple topic of hiding enum values through code.
+Suppose, you have enum Gender which contains values A,B,C. you want to hide last value of enum while displaying it on the form.
+So, what you have to do is override the enter method of that enum control at form level.
+public void enter()
+{super();
+this.delete(enum2str(Gender::C));
+}
+Please let me know if you have any further queries.]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Easy identification of D365FO Environments – Chrome extension]]></title>
         <id>http://anithasantosh.wordpress.com/?p=3002</id>
         <link href="https://anithasantosh.wordpress.com/2023/10/06/easy-identification-of-d365fo-environments-chrome-extension/"/>
@@ -5717,6 +6917,69 @@ The post Dynamics Communities Summit North America 2023 Speaking Activities appe
         <summary type="html"><![CDATA[Being a technical, my SSMS window will have multiple active connections , thus at times it will be perplexful to identify the correct environment. I found the below solution long back , but thought of sharing to the community which … Continue reading →]]></summary>
         <author>
             <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The transaction log for database is full in D365FO]]></title>
+        <id>https://kishoredynamics11.blogspot.com/2023/10/the-transaction-log-for-database-is.html</id>
+        <link href="https://kishoredynamics11.blogspot.com/2023/10/the-transaction-log-for-database-is.html"/>
+        <updated>2023-10-06T06:58:00.001Z</updated>
+        <summary type="html"><![CDATA[Managing SQL Server data files when the disk is full.
+If The database is full will get the below issues
+
+
+When I built the project, I encountered 26 synchronization errors. 
+The front-end URL is not open, and I am receiving an HTTP Error 503.
+
+
+So, I checked 'This PC,' and I observed that the MSSQL (H) drive is full. Consequently, I followed the steps below to shrink the database
+
+
+
+https://sql2014.wordpress.com/tag/logdata-disk-full/
+
+
+Step 1: Open SQL Server Management Studio (SSMS) as an administrator.
+Step 2: Select the 'AXDB' database, right-click on it, and choose 'Properties.'
+
+Step 3: In the Properties window, navigate to the 'Options' tab, select the 'Recovery model' as 'Simple,' and click 'OK.'
+
+Step 4: Right-click on 'AXDB' again, select 'Tasks,' and then choose 'Shrink.' Under 'Shrink,' select 'Files.'
+
+Step 5: Choose the file type as 'Log' and click 'OK.'
+
+Step 6: Afterward, change the recovery model back to 'Full' and click 'OK.' (Rollback the step 3)
+
+
+Keep Daxing!!]]></summary>
+        <author>
+            <name>Dynamics World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Field Fixed Relation in D365 with Example]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2023/10/field-fixed-relation-in-d365-with.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2023/10/field-fixed-relation-in-d365-with.html"/>
+        <updated>2023-10-05T09:00:00.004Z</updated>
+        <summary type="html"><![CDATA[In this article I will explain field fixed relation in D365 is f&o. A table relation associates two tables that contain related information. Usually, the primary key field of one table appears as a foreign key field of the related table. The table with the primary key is called the parent table. The table with the foreign key is called the child table.
+
+
+
+A relation on a table can restrict the rows in the table or restrict the values that can be in a particular field. A common use of relations is to associate rows in one table with corresponding rows in another table. Relations enable many forms to display data from multiple tables. Some relations restrict the rows in the table by testing the values in each row against constant values. Other relations restrict the rows by comparing values …]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Restricted Delete Action in Dynamics 365 Finance and Operations]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2023/10/restricted-delete-action-in-dynamics.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2023/10/restricted-delete-action-in-dynamics.html"/>
+        <updated>2023-10-05T08:40:00.001Z</updated>
+        <summary type="html"><![CDATA[In this article i will show How to add a cascade delete in Dynamics 365 finance and operations. In this article, I will show you how to add a restricted delete action in dynamics 365 Finance and Operations. When a Delete Action comes into the picture? Normally delete actions come into the picture when a user is trying to delete a database record. Delete actions are used to maintain the data integrity and consistency of the database. At the time of development, a developer must take care of the delete actions to implement in the project.
+
+In Dynamics 365 Finance and Operations (D365 FO), the delete action refers to the deletion of a record from a table in the database. When a record is deleted, it is permanently removed from the system and cannot be recovered. Therefore, it is important to …]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
         </author>
     </entry>
     <entry>
@@ -5814,6 +7077,28 @@ The post Using Telemetry Data for Read Auditing in D365FO appeared first on Alex
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Context Menus (D365 for Finance and Operations)]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2023/09/context-menus-d365-for-finance-and.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2023/09/context-menus-d365-for-finance-and.html"/>
+        <updated>2023-09-30T06:53:00.001Z</updated>
+        <summary type="html"><![CDATA[In older versions of AX, We used right-click context menus (shortcut menus) by using the PopupMenu class
+
+But in the current version, this can be achieved by using ContextMenu API and by overriding 2 methods getContextMenuOptions(), to add options to the context menu and selectedMenuOption() to process the user’s selection
+Lets create a new form as shown below by name SRContextMenu. I have added CustGroup Table as a dataSource and in the design I have added CustGroup control to the grid.
+ 
+
+Lets see the coding part to achieve this now. Override the classDeclaration method of the form/element and add the below line of code
+[Form]
+public class SRContextMenu extends FormRun
+{
+    public const int rootIdx = 1;
+}
+Then override the getContextMenuOptions method as shown below from the CustGroup c…]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vendor invoice automation for the invoices imported using custom services]]></title>
         <id>http://elearnd365.com/?p=683</id>
         <link href="https://elearnd365.com/2023/09/28/vendor-invoice-automation-for-the-invoices-imported-using-custom-services/"/>
@@ -5832,6 +7117,114 @@ The post Using Telemetry Data for Read Auditing in D365FO appeared first on Alex
 The post Docentric AX 3.4.7 Released appeared first on Docentric AX.]]></summary>
         <author>
             <name>Irena Vujcic Pavlovic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to add destination Tab in sys operation batch job in D365FO]]></title>
+        <id>https://kishoredynamics11.blogspot.com/2023/09/how-to-add-destination-tab-in-sys.html</id>
+        <link href="https://kishoredynamics11.blogspot.com/2023/09/how-to-add-destination-tab-in-sys.html"/>
+        <updated>2023-09-27T05:24:00.003Z</updated>
+        <summary type="html"><![CDATA[I have a requirement to generate multiple reports within a batch job. The user would like the option to specify the destination tab in the system operation dialog. Based on their inputs, the system will generate the selected report.
+
+I have followed the standard class "AssetTransferMassController".
+In the controller class, I have written the below code. 
+class MyController extends SysOperationServiceController implements BatchRetryable
+{
+    #AssetTransfer
+
+    public static void main(Args args)
+    {
+        MyController      controller =  new MyController();
+
+        controller.parmExecutionMode(SysOperationExecutionMode::Synchronous);
+        controller.startOperation();
+
+        if (!controller.isDialogCancelled())
+        {
+            MyContract contract = controller.getDataContractO…]]></summary>
+        <author>
+            <name>Dynamics World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to loop JSON through an array in a logic app?]]></title>
+        <id>https://kishoredynamics11.blogspot.com/2023/09/how-to-loop-json-through-array-in-logic.html</id>
+        <link href="https://kishoredynamics11.blogspot.com/2023/09/how-to-loop-json-through-array-in-logic.html"/>
+        <updated>2023-09-26T07:47:00.002Z</updated>
+        <summary type="html"><![CDATA[Hi guys, 
+I have a requirement to update multiple records in F&O and send a response for each record using a logic app.
+
+
+Please find the request and response in the below screenshot.
+
+
+
+
+To archive my process I have followed the below steps.
+
+
+1. I have utilized the 'When a HTTP request is received' trigger.
+
+
+
+
+2. Initialized the 2 variables(Array, string type).
+
+
+
+
+3. I have used a 'for-each' loop to iterate through each record, passing the HTTP response body as input. Inside the loop, I have parsed the current record.
+
+
+4. After parsing, I updated the record in F&O using the 'update record' trigger.
+
+
+5. If an update is successful, I am assigning a success status to the 'message' variable.
+    If the update fails, I am parsing the error and sending it to the 'message' variable.
+
+
+
+    While parsing the error I have used the below JSON.
+
+    {
+	"status": 400,
+	"message": "An error has occurred.  Write failed for table row of type 'CustCustomerV3Entity'. Infolog: Warning: ",
+	"error": {
+		"message": "An error has occurred.  Write failed for table row of type 'CustCustomerV3Entity'. Infolog: Warning:"
+	"source": "URL"
+    }
+
+    To fetch the above error use the below expression or parse JSON.
+
+    outputs('Update_record')?['error']?['code'] 
+
+    Status code:
+    outputs('Update_record')?['statusCode']
+
+ Afterward, I use 'Append to array variable' to create the response JSON and store it in the array.
+
+
+
+6. Configure run after options for Append to the array variable has set up in the below.
+
+
+7. After the for loop, I used the 'HTTP Response' action. In the response body, I converted the array into a JSON string.
+
+json(string(variables('OutputJson')))
+
+
+8. Open the 'For each' setting and setup like the below screenshot.
+
+
+
+
+
+The output you will find in 1st screenshot.
+
+
+Keep Daxing!!]]></summary>
+        <author>
+            <name>Dynamics World</name>
         </author>
     </entry>
     <entry>
@@ -5983,6 +7376,175 @@ Continue reading ‘Public preview of the new F&O dev experience’ »]]></summa
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Asset library in Lifecycle Services]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2023/09/asset-library-in-lifecycle-services.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2023/09/asset-library-in-lifecycle-services.html"/>
+        <updated>2023-09-13T19:48:00.004Z</updated>
+        <summary type="html"><![CDATA[The Asset library is a storage location for the various assets that are associated with a tenant in Microsoft Dynamics 365 Lifecycle Services. Two types of Asset library are available in Lifecycle Services: the Shared asset library and the project-level Asset library.
+
+ Note
+Asset library is not supported for Prospect projects or organizations. In these situations, the Asset library menu option will not be visible.
+
+Shared asset library – The Shared asset library is used by Microsoft and Partners to share assets across multiple tenants, projects, and environments in Lifecycle Services. This library can be accessed by any user who signs in to Lifecycle Services. To access the Shared asset library, sign in to Lifecycle Services, and then click the Shared asset library tile.
+
+
+
+Project-level …]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caching display Methods in X++]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2023/09/caching-display-methods-in-x.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2023/09/caching-display-methods-in-x.html"/>
+        <updated>2023-09-13T19:40:00.004Z</updated>
+        <summary type="html"><![CDATA[The performance of display methods can be improved by caching them if they are calculated on Application Object Server (AOS). Caching display methods can also improve performance when records are transferred from the server to the client.
+The value of all cached methods is set when data is fetched from the back-end database. In addition, the value is refreshed when the reread method is called on the form data source.
+
+Add a display Method to the Cache
+
+
+Locate the form that the method is used on.
+
+Expand the Data Sources node.
+
+Right-click the data source that the method is associated with, and then select Override Method > init.
+
+Call the FormDataSource.cacheAddMethod method after the call to super() in the init method.
+The first parameter for cacheAddMethod determines the name of the method to be cached. The second parameter (set to true by default) determines whether the value of the display method is updated when a record is written to the database.
+
+
+
+
+
+    [SysClientCacheDataMethodAttribute(true)]
+    public display Reasoncode display_ReasonCode()
+    {
+        reasoncode ret = '';
+        .......
+        return ret;
+    }]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL Query to get Security roles, duties and privileges in D365FO]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2023/09/sql-query-to-get-security-roles-duties.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2023/09/sql-query-to-get-security-roles-duties.html"/>
+        <updated>2023-09-13T19:08:00.006Z</updated>
+        <summary type="html"><![CDATA[All security roles 
+
+            Select Name as SecurityRoleName FROM SecurityRole;
+
+All security roles to duties
+
+    SELECT SECURITYROLE.Name as SecurityRole, SECURITYDUTY.NAME as Duty 
+    FROM SECURITYOBJECTCHILDREREFERENCES  
+    JOIN SECURITYROLE ON SECURITYOBJECTCHILDREREFERENCES.IDENTIFIER = SECURITYROLE.AOTNAME 
+    JOIN SECURITYDUTY ON SECURITYOBJECTCHILDREREFERENCES.CHILDIDENTIFIER = SECURITYDUTY.IDENTIFIER
+        WHERE SECURITYOBJECTCHILDREREFERENCES.OBJECTTYPE = 0 AND SECURITYOBJECTCHILDREREFERENCES.CHILDOBJECTTYPE = 1
+
+order by SECURITYROLE.Name asc;
+
+All security roles with privileges 
+
+    SELECT SECURITYROLE.Name as SecurityRole, SECURITYPRIVILEGE.NAME as Privileges
+    FROM SECURITYOBJECTCHILDREREFERENCES  
+    JOIN SECURITYROLE ON SECURITYOBJECTCHILDREREFERENCES.IDENTIFIER = SECURITYROLE.AOTNAME 
+    JOIN SECURITYPRIVILEGE 
+        ON  SECURITYOBJECTCHILDREREFERENCES.CHILDIDENTIFIER = SECURITYPRIVILEGE.IDENTIFIER
+    	WHERE SECURITYOBJECTCHILDREREFERENCES.OBJECTTYPE = 0 AND 
+		SECURITYOBJECTCHILDREREFERENCES.CHILDOBJECTTYPE = 2 
+		order by SECURITYROLE.Name asc;
+
+ 
+
+All role-duty combination with privilege 
+
+SELECT SECURITYROLE.Name as SecurityRole, SECURITYROLE.AOTNAME as RoleSystemName,  
+    SECURITYDUTY.NAME AS Duty, SECURITYDUTY.IDENTIFIER as DutySystemName, 
+    SECURITYPRIVILEGE.NAME as Privilege, SECURITYPRIVILEGE.IDENTIFIER as PrivilegeSystemName 
+FROM SECURITYOBJECTCHILDREREFERENCES
+JOIN SECURITYROLE ON SECURITYOBJECTCHILDREREFERENCES.IDENTIFIER = SECURITYROLE.AOTNAME
+JOIN SECURITYDUTY ON SECURITYOBJECTCHILDREREFERENCES.CHILDIDENTIFIER = SECURITYDUTY.IDENTIFIER
+JOIN SECURITYOBJECTCHILDREREFERENCES Table1 on Table1.IDENTIFIER = SECURITYDUTY.IDENTIFIER
+JOIN SECURITYPRIVILEGE on Table1.CHILDIDENTIFIER = SECURITYPRIVILEGE.IDENTIFIER
+	WHERE SECURITYOBJECTCHILDREREFERENCES.OBJECTTYPE = 0 AND SECURITYOBJECTCHILDREREFERENCES.CHILDOBJECTTYPE = 1
+	AND Table1.OBJECTTYPE = 1 AND Table1.CHILDOBJECTTYPE = 2
+	order by SECURITYROLE.Name asc;]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CrossCompany and changeCompany using x++.]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2023/09/crosscompany-and-changecompany-using-x.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2023/09/crosscompany-and-changecompany-using-x.html"/>
+        <updated>2023-09-13T19:05:00.004Z</updated>
+        <summary type="html"><![CDATA[CrossCompany and changeCompany using x++.
+
+
+
+ CrossCompany:
+    Required company filter:
+
+    MyTable 	myTable; 
+    container 	conCompanies = ['cmp1', 'cmp2', 'cmp3'];
+
+    while select crossCompany : conCompanies * from myTable
+    {
+	// code
+    }
+    All company filter:
+    MyTable 	myTable; 
+
+    while select crossCompany * from myTable
+    {
+        // code
+    }
+    Applying On Dynamic queries:
+
+    Query 			query = new Query();
+    QueryRun 			queryRun;
+    QueryBuildDataSource 	qBDS;
+
+    qBDS = query.addDataSource(TableNum(CustTable));
+	
+    // Way-1 (we can add required company)
+    query.allowCrossCompany(true);
+    query.addCompanyRange('cmp1');
+    query.addCompanyRange('cmp2');
+
+    // Way-2 (It will loop all company)
+    queryRun = new QueryRun(query);
+    queryRun.allowCrossCompany(true);
+
+
+
+
+
+Change Company:
+    MyTable 	myTable;]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synchronize the table from Visual studio Project]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2023/09/synchronize-table-from-visual-studio.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2023/09/synchronize-table-from-visual-studio.html"/>
+        <updated>2023-09-13T18:54:00.003Z</updated>
+        <summary type="html"><![CDATA[From Visual studio project node we can perform database synchronization either on a required table (or) on few tables bases on our requirement.
+This could be very useful during on-premises environments package deployments because can can drastically reduce the downtime.
+In fact you can only synchronize the tables that you have actually modified rather than perform an entire synchronization
+To perform a single table db sync simply Right click on project >>synchronize table]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Import bacpac error: File contains damaged data]]></title>
         <id>http://paragchapre.com/?p=12095</id>
         <link href="https://paragchapre.com/import-bacpac-error-file-contains-damaged-data/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=import-bacpac-error-file-contains-damaged-data"/>
@@ -5991,6 +7553,109 @@ Continue reading ‘Public preview of the new F&O dev experience’ »]]></summa
 The post Import bacpac error: File contains damaged data appeared first on Parag Chapre.]]></summary>
         <author>
             <name>paragchapre@gmail.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi select workflow using x++]]></title>
+        <id>https://kishoredynamics11.blogspot.com/2023/09/multi-select-workflow-using-x.html</id>
+        <link href="https://kishoredynamics11.blogspot.com/2023/09/multi-select-workflow-using-x.html"/>
+        <updated>2023-09-13T05:37:00.000Z</updated>
+        <summary type="html"><![CDATA[I got a requirement to submit multiple records to workflow.
+For this, I have created multiple buttons like below.
+
+Submit Code:
+#define.WorkFlowTemplateName("Template Name")  
+// or -- workFlowTypeStr(Template name)
+
+if (common.WorkflowApprovalStatus == WFApprovalStatus::Draft)
+{
+    Workflow::activateFromWorkflowType(#WorkFlowTemplateName, common.RecId, 
+	                                'Workflow submitted by button', false, Curuserid());
+}
+
+
+Approval Code:
+
+WorkflowWorkItemTable   WorkflowWorkItemTable;
+
+// main code
+select firstonly WorkflowWorkItemTable
+    where workflowWorkItemTable.Type == WorkflowWorkItemType::WorkItem
+	&& workflowWorkItemTable.Status == WorkflowWorkItemStatus::Pending // this should be Pending
+	&& WorkflowWorkItemTable.RefTableId == tableNum(common)
+	&& WorkflowWo…]]></summary>
+        <author>
+            <name>Dynamics World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fetch the Format of financial dimension formats for data entities using X++]]></title>
+        <id>https://kishoredynamics11.blogspot.com/2023/09/fetch-format-of-financial-dimension.html</id>
+        <link href="https://kishoredynamics11.blogspot.com/2023/09/fetch-format-of-financial-dimension.html"/>
+        <updated>2023-09-12T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Fetch the Format of financial dimension formats for data entities using X++.
+
+
+
+I have a requirement to fetch the value mentioned in the above SC and the below one.
+BusinessUnit-CostCenter-Department-Campaign-Center-Customer-Project-Store
+
+
+To get this I have used the Dimension format type  and Active for type
+
+
+
+
+Way 1:
+    private container getFDFromParameters()
+    {
+	DimensionHierarchy              dimensionHierarchy;
+	DimensionHierarchyIntegration   dimensionHierarchyIntegration;
+	container                       con;
+	str				delimiter = DimensionParameters::getDimensionSegmentDelimiter();
+	
+	select firstonly DisplayString from dimensionHierarchyIntegration
+	    exists join dimensionHierarchy
+		where dimensionHierarchy.RecId == dimensionHierarchyIntegration.DimensionHierarchy
+		    && dimensionHierarchy.StructureType == DimensionHierarchyType::DataEntityDefaultDimensionFormat
+		    && dimensionHierarchyIntegration.IsDefault == true;
+
+	return str2con(dimensionHierarchyIntegration.DisplayString, delimiter);
+    }
+
+
+Way 2:
+    private container getFDFromParameters()
+    {
+	DimensionHierarchyLevel         dimensionHierarchyLevel;
+	DimensionHierarchy              dimensionHierarchy;
+	DimensionHierarchyIntegration   dimensionHierarchyIntegration;
+	container                       con;
+
+	while select dimensionHierarchyLevel order by dimensionHierarchyLevel.Level
+		exists join dimensionHierarchy
+		    where dimensionHierarchy.RecId == dimensionHierarchyLevel.DimensionHierarchy
+		exists join dimensionHierarchyIntegration
+		    where dimensionHierarchyIntegration.DimensionHierarchy == dimensionHierarchy.RecId
+	                && dimensionHierarchyIntegration.IsDefault == true
+			&& dimensionHierarchy.StructureType == DimensionHierarchyType::DataEntityDefaultDimensionFormat
+	{
+	    con += DimensionAttribute::find(dimensionHierarchyLevel.DimensionAttribute).Name;
+	}
+
+	return con;
+    }
+
+
+Output:
+
+
+
+
+
+Keep Daxing!!]]></summary>
+        <author>
+            <name>Dynamics World</name>
         </author>
     </entry>
     <entry>
@@ -6527,6 +8192,50 @@ The post Export Data To Excel In D365 appeared first on Dynamics 365 Musings.]]>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Set input parameter as mandatory in logic app]]></title>
+        <id>https://kishoredynamics11.blogspot.com/2023/07/set-parameter-as-mandatory-in-logic-app.html</id>
+        <link href="https://kishoredynamics11.blogspot.com/2023/07/set-parameter-as-mandatory-in-logic-app.html"/>
+        <updated>2023-07-19T11:09:00.001Z</updated>
+        <summary type="html"><![CDATA[Hi guys,
+                To create customers and vendors, instead of using the 'created record' trigger twice, I have created a new logic app. This logic app will be called from both places with the required inputs. In the child logic app, I have set the input parameters as mandatory.
+In the screenshot provided, it shows that the 'Entity name' and 'Body' fields are marked as mandatory.
+
+
+
+
+
+
+
+I have added the necessary code to make the 'Entity name' and 'Body' fields mandatory as highlighted in the screenshot.
+
+
+After 'properties' I have added the 'required' tag and added the fields.
+
+{
+    "properties": {
+        "EntityName": {
+            "type": "string"
+        },
+        "body": {
+            "properties": {},
+            "type": "object"
+        }
+    },
+    "required": [
+        "EntityName",
+        "body"
+    ],
+    "type": "object"
+}
+
+
+
+Keep Daxing!!]]></summary>
+        <author>
+            <name>Dynamics World</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Microsoft Sentinel para Dynamics 365 F&O]]></title>
         <id>https://ariste.info/?p=7357</id>
         <link href="https://ariste.info/2023/07/microsoft-sentinel-dynamics-365-fo/"/>
@@ -6580,6 +8289,220 @@ final class NXRWHSPostProdJournal_Extension
 The post NodeJS + Dynamics 365 Finance and Supply Chain – A great combo? appeared first on Impulz Technologies LLC.]]></summary>
         <author>
             <name>Ahmad Hussain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fin & ops Actions in Logic app.]]></title>
+        <id>https://kishoredynamics11.blogspot.com/2023/07/fin-ops-actions-in-logic-app.html</id>
+        <link href="https://kishoredynamics11.blogspot.com/2023/07/fin-ops-actions-in-logic-app.html"/>
+        <updated>2023-07-13T12:51:00.005Z</updated>
+        <summary type="html"><![CDATA[Hi guys, Today we can see the Fin & ops Actions in the Logic app.
+
+
+
+Open the Logic app and open the design.
+Click on Add action and search Fin& Ops in the search bar.
+
+
+
+
+
+Select Fin & Ops.
+Below are the Actions available for D365FO
+
+
+
+
+    1. Create Record.
+
+        Way 1:
+
+
+
+
+    Way 2:
+
+
+
+
+            body :
+
+{
+    "CustAccount": "Test001",
+    "Name": "Test 1",
+    "CustomerGroup": "10",
+    "TermsOfPayment": "N10",
+    "Currency": "USD"
+}
+     2. Delete Record
+
+
+        This is used to delete the record in D365FO.
+        Need to select the URL, Entity name, and Object Id.
+        Object Id (Index of entity) --> Company, CustomerID
+
+
+
+
+    3. Execute action
+
+
+            We can select the executed action based on our requirements.
+
+
+
+
+
+    4. Get a Record
+
+
+            By using this will get the record from D365FO.
+            In Object Id, we need to pass the index of the entity.
+
+
+
+
+          Object Id :
+
+
+    Company,CustAccount --> Index of Entity
+
+
+
+    5. Get List of entities
+
+
+        Get all the entities details.
+
+
+
+
+
+
+
+
+
+
+
+
+
+    6. Lists Items present in table
+
+         By using this will get the record from D365FO.
+
+ Single Field
+
+
+
+
+
+
+
+
+
+        Multiple fields
+
+
+
+
+        Expression:
+
+
+length(body('Lists_items_present_in_table')?['value'])
+
+
+
+
+
+
+
+
+    7. Update Record
+        Way 1:
+    
+
+
+
+
+
+        Way 2:
+
+
+            Object Id :
+
+    Company,CustAccount --> Index of Entity
+
+
+
+
+ Keep Daxing!!]]></summary>
+        <author>
+            <name>Dynamics World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Register An App In Azure Active Directory For multiple machines of Dynamics 365FO]]></title>
+        <id>https://kishoredynamics11.blogspot.com/2023/07/how-to-register-app-in-azure-active.html</id>
+        <link href="https://kishoredynamics11.blogspot.com/2023/07/how-to-register-app-in-azure-active.html"/>
+        <updated>2023-07-12T12:37:00.002Z</updated>
+        <summary type="html"><![CDATA[Hi guys,
+Today, we have registered a single app in Azure to be used across multiple development machines.
+In the previous stage, I had registered an app for each machine. However, based on the concern raised by one of our Azure developers, I have to create only one app for all non-production machines. To implement this, I followed the below steps:
+
+
+Step 1:
+
+
+Login to https://portal.azure.com
+
+
+
+Step 2:    
+
+
+ Search app registration in the search bar.
+
+             
+
+
+            2. click on the new registration
+
+
+Step 3: 
+1.      Provide a Name for your App.
+2.    
+Select
+Any Azure AD directory – Multitenant)
+
+
+
+
+
+
+
+3.    
+Click on the Register
+button.
+
+
+
+4. Save the client id and tenant Id
+
+
+
+Step 4 :
+1.    
+Select the Certificates
+& secrets.
+2.    
+Click on New client
+secret.
+
+
+
+Step 5…]]></summary>
+        <author>
+            <name>Dynamics World</name>
         </author>
     </entry>
     <entry>
@@ -6724,6 +8647,209 @@ Continue reading →]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Custom class to handle financial Dimensions using x++]]></title>
+        <id>https://kishoredynamics11.blogspot.com/2023/06/custom-class-to-handle-financial.html</id>
+        <link href="https://kishoredynamics11.blogspot.com/2023/06/custom-class-to-handle-financial.html"/>
+        <updated>2023-06-15T06:04:00.002Z</updated>
+        <summary type="html"><![CDATA[Custom class to handle financial Dimensions using x++ 
+
+
+/// <summary>
+/// Custom class to handle dimensions
+/// </summary>
+class DimensionHelper
+{
+    /// To Get the default dimension value by using default dimension id
+    public static DimensionValue getDefaultDimensionValue(str dimName, 
+                                                        DimensionDefault defaultDimension)
+    {
+        DimensionAttributeValueSetStorage   dimStorage;
+        Counter                             i;
+        str                                 returnValue;
+
+        dimStorage = DimensionAttributeValueSetStorage::find(_defaultDimension);
+
+        for (i=1 ; i<= dimStorage.elements() ; i++)
+        {
+            if (DimensionAttribute::find(dimStorage.getAttributeByIndex(i)).Name == _dimName)
+           …]]></summary>
+        <author>
+            <name>Dynamics World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add additional total discounts to the sales total form using x++]]></title>
+        <id>https://kishoredynamics11.blogspot.com/2023/06/add-additional-total-discounts-to-sales.html</id>
+        <link href="https://kishoredynamics11.blogspot.com/2023/06/add-additional-total-discounts-to-sales.html"/>
+        <updated>2023-06-15T06:01:00.001Z</updated>
+        <summary type="html"><![CDATA[Add additional total discounts to the sales total form using x++.
+
+/// <summary>
+/// extension class to apply total discounts on sales total forms
+/// </summary>
+[ExtensionOf(classstr(TradeTotals))]
+public final class TradeTotals_Extension
+{
+    /// <summary>
+    /// adds additional total discounts to the sales total form
+    /// </summary>
+    /// <returns>total discount</returns>
+    public DiscAmount totalEndDisc()
+    {
+        endDisc = next totalEndDisc();
+
+        if (orderTable.tableID == tableNum(SalesTable))
+        {
+            SalesTable salestableloc = orderTable;
+
+            if (salestableloc.TotalDiscountAmount && salestableloc.SalesStatus != SalesStatus::Invoiced && balance)
+            {
+                return endDisc + ((balance / 100) * salestableloc.TotalDiscPercentag…]]></summary>
+        <author>
+            <name>Dynamics World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding validation for Invoice date in Pending vendor Invoice using x++ in D365]]></title>
+        <id>https://kishoredynamics11.blogspot.com/2023/06/adding-validation-for-invoice-date-in.html</id>
+        <link href="https://kishoredynamics11.blogspot.com/2023/06/adding-validation-for-invoice-date-in.html"/>
+        <updated>2023-06-15T05:58:00.003Z</updated>
+        <summary type="html"><![CDATA[Adding validation for Invoice date in Pending vendor Invoice using x++ in D365.
+
+
+[ExtensionOf(formStr(VendEditInvoice))]
+final class VendEditInvoice_Extension
+{
+    void postInvoice()
+    {
+        VendInvoiceInfoSubLine  vendInvoiceInfoSubLine;
+        VendInvoiceInfoLine     vendInvoiceInfoLine;
+        VendPackingSlipJour     vendPackingSlipJour;
+        VendInvoiceInfoTable    vendInvoiceInfoTable = this.VendInvoiceInfoTable;
+
+        select firstonly DeliveryDate from vendPackingSlipJour order by vendPackingSlipJour.DeliveryDate desc
+            join vendInvoiceInfoSubLine
+                where vendInvoiceInfoSubLine.DocumentId == vendPackingSlipJour.PackingSlipId
+	    join vendInvoiceInfoLine
+		where vendInvoiceInfoSubLine.LineRefRecId == vendInvoiceInfoLine.RecId &&
+		    vendInvoiceInfoLine.ParmId == vendInvoiceInfoTable.ParmId &&
+		    vendInvoiceInfoLine.TableRefId == vendInvoiceInfoTable.TableRefId;
+
+        if (vendPackingSlipJour.DeliveryDate > vendInvoiceInfoTable.DocumentDate)
+        {
+            throw Global::error('Invoice date should be greater than Receipt date');
+        }
+		
+        next postInvoice();
+    }
+
+}
+
+
+Keep daxing!!]]></summary>
+        <author>
+            <name>Dynamics World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open journal lines form from the custom form using x++.]]></title>
+        <id>https://kishoredynamics11.blogspot.com/2023/06/open-journal-lines-form-from-custom.html</id>
+        <link href="https://kishoredynamics11.blogspot.com/2023/06/open-journal-lines-form-from-custom.html"/>
+        <updated>2023-06-15T05:49:00.004Z</updated>
+        <summary type="html"><![CDATA[Open journal lines form from the custom form using x++.
+
+
+
+We need to add ledgerJournalTable in the form data source and don't give any properties.
+Copy the JournalLines_Review button from the LedgerJournalTable form.
+
+
+Write the below code in the Form.
+
+public class Form1 extends FormRun
+{
+    LedgerJournalFormTable  journalFormTable;
+
+    public void init()
+    {
+        journalFormTable = LedgerJournalFormTable::construct(element);
+
+        journalFormTable.datasourceInitPost(LedgerJournalTable);
+
+        super();
+    }
+
+    JournalForm journalForm()
+    {
+        return journalFormTable;
+    }
+}
+
+
+
+
+Button clicked method. (copied from LedgerJournalTable)
+
+    [Control("MenuFunctionButton")]
+    class JournalLines_Review
+    {
+        /// <summary>
+        /// Handles the Lines->Review button's clicked event.
+        /// </summary>
+        public void clicked()
+        {
+            journalFormTable.assertJournalNotInUse();
+    
+            journalFormTable.parmIsProcessingPaymentOnApprovedJounal(false);
+            journalFormTable.parmIsWFApprovedModeSelected(true);
+    
+            super();
+    
+            ledgerJournalTable_ds.reread();
+        }
+
+    }
+
+
+The below code I have written in jumpRef method is based on my requirement.
+
+
+    [Control("String")]
+    class Table1_FieldString1
+    {
+        public void jumpRef()
+        {
+            super();
+
+            LedgerJournalTable  ledgerJournalTableNew = LedgerJournalTable::find(Table1.FieldString1);
+
+
+            //ledgerJournalTable_ds.setRecord(ledgerJournalTableNew);
+
+            ledgerJournalTable_ds.findRecord(ledgerJournalTableNew);
+
+            //ledgerJournalTable_ds.reread();
+            //ledgerJournalTable_ds.refresh();
+
+            journalFormTable.datasourceInitPost(ledgerJournalTable_ds.cursor());
+
+            JournalLines_Review.clicked();
+        }
+    }
+
+
+
+
+Another Way:
+Click Here
+
+
+Keep daxing!!]]></summary>
+        <author>
+            <name>Dynamics World</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Complete pack/unpack pack for RunBaseBatch adventure]]></title>
         <id>https://alexvoy.blogspot.com/2023/06/complete-packunpack-pack-for.html</id>
         <link href="https://alexvoy.blogspot.com/2023/06/complete-packunpack-pack-for.html"/>
@@ -6748,6 +8874,24 @@ Basic example of such a class is Tutorial_RunbaseBatch.
      …]]></summary>
         <author>
             <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Display path of navigation for a form.]]></title>
+        <id>https://kishoredynamics11.blogspot.com/2023/06/display-path-of-navigation-for-form.html</id>
+        <link href="https://kishoredynamics11.blogspot.com/2023/06/display-path-of-navigation-for-form.html"/>
+        <updated>2023-06-08T10:36:00.003Z</updated>
+        <summary type="html"><![CDATA[Enable the legacy navigation bar in system administrator > setup > client performance options.
+
+
+
+
+
+
+
+Keep Daxing!!]]></summary>
+        <author>
+            <name>Dynamics World</name>
         </author>
     </entry>
     <entry>
@@ -7197,6 +9341,77 @@ Errors that prevent your data sync operation from performing smoothly.  Whether 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GSTHelper using x++]]></title>
+        <id>https://kishoredynamics11.blogspot.com/2023/04/gsthelper-using-x.html</id>
+        <link href="https://kishoredynamics11.blogspot.com/2023/04/gsthelper-using-x.html"/>
+        <updated>2023-04-11T07:26:00.000Z</updated>
+        <summary type="html"><![CDATA[GSTHelper using x++.
+
+
+class GSTHelper
+{
+    ITaxDocument                taxDocument;
+    Common                      sourceHeader;
+    Common                      sourceLine;
+    Amount                      CGSTAmount,IGSTAmount,SGSTAmount,reverseAmount,recoverableAmount;
+    real                        CGSTRate,IGSTRate,SGSTRate;
+    Amount                      CESSAmount;
+    real                        CESSRate;
+
+    HSNCode_IN                  HSNOrSACCode;
+    Amount                      taxBaseAmount,discountAmount;
+    ClassName                   bundlerClassName;
+
+    /*Amount  CGSTAmountMiscChrg,IGSTAmountMiscChrg,SGSTAmountMiscChrg;
+    real    CGSTRateMiscChrg,IGSTRateMiscChrg,SGSTRateMiscChrg;*/
+
+    RecId   TaxDocumentRecId;
+    boolean isUTGST;
+
+    #define.TaxType('GST')
+  …]]></summary>
+        <author>
+            <name>Dynamics World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Set vendor on hold using x++]]></title>
+        <id>https://kishoredynamics11.blogspot.com/2023/04/set-vendor-on-hold-using-x.html</id>
+        <link href="https://kishoredynamics11.blogspot.com/2023/04/set-vendor-on-hold-using-x.html"/>
+        <updated>2023-04-11T07:17:00.004Z</updated>
+        <summary type="html"><![CDATA[Set vendor on hold using x++.
+While inserting the vendor If the vendApproval is yes. I need to hold that vendor. I have used the below code.
+[ExtensionOf(tableStr(VendTable))]
+internal final class Vendtable_Extension
+{
+    public void insert()
+    {
+        next insert();
+		
+        container con;
+
+        con = conIns(con,1,this);
+
+        if(this.VendorApproval == NoYes::Yes)
+        {
+            VendTable::updateOnHold(con,
+				    CustVendorBlocked::All,
+				    dateNull(),
+				    false,
+				    true,
+				    " New Record ");
+        }
+        
+    }
+}
+
+
+Keep Daxing!!]]></summary>
+        <author>
+            <name>Dynamics World</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Microsoft Dynamics 365 Finance and Operations: Importing deployable package to UAT/Production using Lifecycle Services]]></title>
         <id>https://impulztech.com/?p=3086</id>
         <link href="https://impulztech.com/microsoft-dynamics-365-finance-and-operations-importing-deployable-package-to-uat-production-using-lifecycle-services/"/>
@@ -7205,6 +9420,66 @@ Errors that prevent your data sync operation from performing smoothly.  Whether 
 The post Microsoft Dynamics 365 Finance and Operations: Importing deployable package to UAT/Production using Lifecycle Services appeared first on Impulz Technologies LLC.]]></summary>
         <author>
             <name>Wajahat Wasti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Print current date in report using x++]]></title>
+        <id>https://kishoredynamics11.blogspot.com/2023/04/print-current-date-in-report-using-x.html</id>
+        <link href="https://kishoredynamics11.blogspot.com/2023/04/print-current-date-in-report-using-x.html"/>
+        <updated>2023-04-10T07:25:00.008Z</updated>
+        <summary type="html"><![CDATA[Print the current date in the report using x++.
+
+
+Use any function to print the date:
+
+=formatdatetime(today)
+
+
+=FORMAT(Cdate(today), "dd-MM-yyyy")
+
+
+=Report Generation Date: " & FORMAT(Cdate(today), "dd-MM-yyyy")
+
+
+=Format(Now(), "dd/MM/yyyy hh:mm tt")
+
+
+="Report generation date:  " & Format(Globals!ExecutionTime,"dd/MM/yyyy  h:mm:ss tt" )
+
+
+="Report Generation Date: " & Today()
+
+ 
+=Format(today(), "dd/MM/yyyy")
+ 
+ 
+=Globals!ExecutionTime
+
+
+
+
+or
+
+
+=Microsoft.Dynamics.Framework.Reports.DataMethodUtility.ConvertUtcToAxUserTimeZoneForUser
+(Parameters!AX_CompanyName.Value, Parameters!AX_UserContext.Value, System.DateTime.UtcNow, 
+"d", Parameters!AX_RenderingCulture.Value) & vbCrLf & Microsoft.Dynamics.Framework.Reports.DataMethodUtility.ConvertUtcToAxUserTimeZoneForUser
+(Parameters!AX_CompanyName.Value, Parameters!AX_UserContext.Value, System.DateTime.UtcNow, "t", Parameters!AX_RenderingCulture.Value)
+
+
+Print user details:
+
+ =User!UserID
+
+XUserInfo::find(false, curUserId()).name;   
+
+
+
+
+
+Keep daxing!!]]></summary>
+        <author>
+            <name>Dynamics World</name>
         </author>
     </entry>
     <entry>

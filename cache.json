@@ -228,6 +228,704 @@
       ]
     },
     {
+      "title": "Dynamics World",
+      "feedUrl": "https://kishoredynamics11.blogspot.com/feeds/posts/default",
+      "siteUrl": "https://kishoredynamics11.blogspot.com/",
+      "articles": [
+        {
+          "id": "https://kishoredynamics11.blogspot.com/2023/11/how-to-add-custom-execute-action-in_96.html",
+          "author": null,
+          "description": "How to add custom Execute action in the logic app.\n\n\n\n\n\n\n\n\n\n\n\nIn the drop-down, the system will display standard OData execute actions. To enable this, we need to create an OData execute action. \n\nThis involves creating a method in the data entity and adding the following attribute at the top of the method.\n\n\n        [SysODataActionAttribute(\"Name\", false)]\n\n\n\n\n For a static method, we will pass 'false.' For an instance method, we need to pass 'true'.\n\n\n\nBelow code I have written in my custom entity.\n[SysODataActionAttribute(\"GetSalesStatus\", false)]\npublic static str getStatus(str    salesId, DataAreaId company)\n{\n    str  status;\n\n    changecompany (company)\n    {\n\tstatus = enum2Str(SalesTable::find(salesId).SalesStatus);\n    }\n\n    return  status;\n} \n\n\n\nAfter rebuilding the project, it appears in the drop-down.\n\n\n\n\n\n\n\n\nSales ID and company are the input parameters. After selecting the execute action, click on 'Add parameter,' then select these two parameters and assign their respective values\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIn the blog below, he has explained OData actions with different scenarios. Please check for further clarification.   \nOData actions\n\n\n\nKeep Daxing!!",
+          "link": "https://kishoredynamics11.blogspot.com/2023/11/how-to-add-custom-execute-action-in_96.html",
+          "publishedOn": "2023-11-28T08:32:00.000Z",
+          "wordCount": 2943,
+          "title": "How to add custom Execute action in logic app",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe1F8hlG3eD9EQKAVRz_7boC-BemrK_-sSOCaE5cPzno2s7fYVVEt3CbuunhBB5k5midD_b_WPWn2Uz6hD9weYa1l58f4yuk_3zbA8tIVnHXuCmKHeZT-D0Z4mXRpYh1_qWDUZ4XcTy1SziYkguU8ALRjkjEIEaNtOJQpUnd4apKvdGcEuhLYdQ_agmMQ/w1200-h630-p-k-no-nu/11.png"
+        },
+        {
+          "id": "https://kishoredynamics11.blogspot.com/2023/11/convert-csv-file-to-json-in-logic-app.html",
+          "author": null,
+          "description": "Convert CSV file to JSON in Logic app.\nThis is the full step-by-step process, and I have provided its output below.\n\n\n\nI used the below CSV file, separated by pipes ('|'), to test this.\n\nPlease follow the below steps.\n\n\n        Step 1: I fetched the file from Blob by searching for the blob and selecting the 'Get blob content' action.\n\n\n\n\n\n\n       Step 2: For this action, I provided the storage account name and file path.\n\n\n\n\n\n \n        Step 3: To process the output content from the blob, I used the 'Compose' action and applied the 'Split' function.\n\n\n\n\n\n         Expression:\n        split(body('Get_blob_content_'),decodeUriComponent('%0D%0A'))\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n        Step 4: Additionally, I used another 'Compose' action to remove the last line, as it appeared empty. You can choose to include…",
+          "link": "https://kishoredynamics11.blogspot.com/2023/11/convert-csv-file-to-json-in-logic-app.html",
+          "publishedOn": "2023-11-23T05:46:00.000Z",
+          "wordCount": 3033,
+          "title": "Convert CSV file to JSON in Logic app",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgMO4srcSDGbVEVqYrA4_QNSYeYi8mS4kcDB1Y-WhW6h_jdvexdtISnxR49CuDySxAhoRrf26GzKDRohwMeU69ZBCJ8aFP1ZdxuAg4IbDcQpyub7laObgtCzjUyhIjwZEk6uf00GNZVS0Xy_Ehmt5GEiaFc_ZLraW5wj6bme1F4_r1Up_pyDq6zscJT6E/w1200-h630-p-k-no-nu/0.jpg"
+        },
+        {
+          "id": "https://kishoredynamics11.blogspot.com/2023/11/create-financial-dimension-using-x-in.html",
+          "author": null,
+          "description": "For creating Financial Dimensions we have 2 ways.\n\n\n container offsetConLoc  =   [_mainaccount, #empty, department, costcenter, #empty, project];\n container offsetConLoc  =   [_mainaccount,_businessunit,_site, region, department,_Vendor, #empty, #empty, _fixedasset];\nWay 1:\n    public DimensionDynamicAccount   generateLedgerDimension(container    _conData,   MainAccountNum  mainAccountNum)\n    {\n        int                                  hierarchyCount;\n        int                                  hierarchyIdx;\n        RecId                                dimAttId_MainAccount;\n        LedgerRecId                          ledgerRecId;\n        MainAccount                          mainAccount;\n        RefRecId                             recordvalue;\n        DimensionAttribute              …",
+          "link": "https://kishoredynamics11.blogspot.com/2023/11/create-financial-dimension-using-x-in.html",
+          "publishedOn": "2023-11-21T11:48:00.000Z",
+          "wordCount": 3006,
+          "title": "Create financial Dimension using x++ in D365FO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kishoredynamics11.blogspot.com/2023/11/the-operation-is-not-allowed-by-rbac-if.html",
+          "author": null,
+          "description": "The operation is not allowed by RBAC. If role assignments were recently changed, please wait several minutes for role assignments to become effective. Error in Azure.\n\n\n\n\n\n\n\n\n\n            ·       To address the above error, please follow the process outlined below. \n          ·       Navigate to \"Access Control (IAM)\" and click on \"Add.\"\n\n\n\n\n\n        ·      \nChoose\n\"Add Role Assignment.\"\n\n\n\n\n\n        ·      \nSelect\n\"Key Vault Administrator\" and click \"Next.\"\n\n\n\n\n\n        ·      \nClick\non \"Select members\" and choose the user.\n\n\n\n\n\n        ·      \nClick\nthe \"Select\" button.\n\n\n\n\n\n\n\n\n\n\n        ·      \nThe\nselection will be displayed in the highlighted grid below. Click on \"Review\n+ assign.\"\n\n\n\n        ·      \nAgain,\nclick on \"Review + assign.\"\n\n\n\n         ·       \nThis\naction will resolve the error.\n\n\n\n\n\nKeep Daxing!!",
+          "link": "https://kishoredynamics11.blogspot.com/2023/11/the-operation-is-not-allowed-by-rbac-if.html",
+          "publishedOn": "2023-11-21T06:43:00.000Z",
+          "wordCount": 2981,
+          "title": "The operation is not allowed by RBAC. If role assignments were recently changed, please wait several minutes for role assignments to become effective. Error in Azure",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO9pdChW9tJjPfkpVq1mVRi2CmXgJxn0YMSAtZqkA5I8qFzhSdcXTel-n5xASIH4vWIIq1bPgQcZHkNK4tP-ipEt9HqzLZSiIwmJ1EENf6TMZ283LEgaDQkEU548DjzbSIL0sp8FwC5VqCaxis0XvwiTEP2B5i82gs_EMQbKsFeKnpMMnTMefsDNLDbto/w1200-h630-p-k-no-nu/1.png"
+        },
+        {
+          "id": "https://kishoredynamics11.blogspot.com/2023/11/encryption-and-decryption-using.html",
+          "author": null,
+          "description": "Encryption And Decryption Using A Symmetric Key(AES) using x++.\n\n\nI received a requirement to generate an XML file with encrypted data using a symmetric key. The recipients on the other side will decrypt the text using the same symmetric key. To test this, I used a dummy value such as 'RRR'.\nTo achieve this, I wrote the code in C# and added the resulting DLL to my project references.\n\n\nC# Code:\nusing System;\nusing System.IO;\nusing System.Security.Cryptography;\nusing System.Text;\n\nnamespace EncryptionDecryptionUsingSymmetricKey\n{\n    public class AesOperation\n    {\n        public static string EncryptString(string key, string plainText)\n        {\n            byte[] iv = new byte[16];\n            byte[] array;\n\n            using (Aes aes = Aes.Create())\n            {\n                aes.Key …",
+          "link": "https://kishoredynamics11.blogspot.com/2023/11/encryption-and-decryption-using.html",
+          "publishedOn": "2023-11-21T06:34:00.000Z",
+          "wordCount": 3057,
+          "title": "Encryption And Decryption Using A Symmetric Key(AES) using x++",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS3Q5t3-3RfIWJzsP3pF1VZ4fF0sgzMAgF5BUKMse8LzKQyc4P2pKnMORl5zJtKzM3f16WRwEnZQso9EdwAnPjhn_NrDpnIfPE3tGGiU9lZmPm3QJwR_18tDNdUQuSmpdNHs-zLLtHirXZXivpeC0uPd_sR4rPjGsgSNQ2ZfI90MFAPODV_J44lqUpzQ0/w1200-h630-p-k-no-nu/333.jpg"
+        },
+        {
+          "id": "https://kishoredynamics11.blogspot.com/2023/11/add-file-upload-option-in-sys-operation.html",
+          "author": null,
+          "description": "Add File upload option in sys operation dialog in D365FO. By using this we can upload CSV files and Excel files. This upload option I have added this in sys operation and batch jobs using the below code.\nDialog:\n\n\n\n\n\n\n\nCode :\nUsing sys operation:\nController:\nclass MyController extends SysOperationServiceController\n{\n    public void new()\n    {\n        super();\n     \n        this.parmClassName(classStr(MyService));\n        this.parmMethodName(methodStr(MyService, processOperation));\n     \n        this.parmDialogCaption(\"Caption\");\n    }\n\t\n    public ClassDescription caption()\n    {\n        return \"Caption\";\n    }\n\t\n    public static void main(Args args)\n    {\n\tnew MyController().startOperation();\n    }\n}\nContract:\n[   DataContract,\n    SysOperationContractProcessing(classStr(MyUIBuilder))\n]…",
+          "link": "https://kishoredynamics11.blogspot.com/2023/11/add-file-upload-option-in-sys-operation.html",
+          "publishedOn": "2023-11-15T08:07:00.000Z",
+          "wordCount": 3529,
+          "title": "Add File upload option in sys operation dialog in D365FO",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9LFp9j2E3dRIt-R5dSBnPy7D16CR-dMekpTW_8Ye3HlYDuWVHrsqDIzrGs1y4gkiim9j2pIlEN6jm4wuDAMZIKWEyY0Zudnap6hjs5Ti5KKWZwxUbedju0IaLf-xiFpAPP4NaF2GzVVn8aMj9dx4PuMlURiO7SaU3sHyLU4ReI4EI7sHpKfDP39brIoQ/w1200-h630-p-k-no-nu/image_2023_11_15T07_24_24_606Z.png"
+        },
+        {
+          "id": "https://kishoredynamics11.blogspot.com/2023/10/how-to-fetch-records-to-include-filter.html",
+          "author": null,
+          "description": "Hi guys, I have a requirement to fetch the record to include filtered values from the report dialog.\n\n\n\n\n\nI need to show those values in the report footer.\n\n Code :\nUsers can apply filters from the filter screen, and if any new tables are joined or new fields are added. To get those values I have used a query filter.\n\n\n\n\n\n\n        str                         value;\n\tQuery                       query;\n\tQueryFilter                 qf;\n\n\tquery = qr.query();// getting query from query run.\n\n\tint  cnt = query.queryFilterCount();\n\n\t// Fetching data from query if any new tables are joined or new Fileds are added\n\tfor (int ds =1; ds<= cnt; ds++)\n\t{\n\t\tqf = query.queryFilter(ds);\n\n\t\tif(qf.value())\n\t\t{\n\t\t\tvalue += strFmt('%1 : %2',\n\t\t\t\t            qf.field(),\n\t\t\t\t\t    qf.value());\n\t\t}\n\t}\n\n\nThe below …",
+          "link": "https://kishoredynamics11.blogspot.com/2023/10/how-to-fetch-records-to-include-filter.html",
+          "publishedOn": "2023-10-30T07:55:00.002Z",
+          "wordCount": 3119,
+          "title": "How to fetch values from records to Include filter using x++ in D365FO",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVaWFIoGXWp5SAVoUCUDj-0ZUP5QBINL_FDsoI4VDUbzUs7Xk4rOpfl9VX_q0ICcNztEX_Xfw6bjTELrD5BBA-yqYnu2O1CO8i1F9o3zdFB7JnJPHSXKIVy9xDXN_gS3z9zl2MCjVjBij9nZpLCdIBQhICuaoX98TrioPsrbAWTbbs1RJ6QGyUdMMwpEo/w1200-h630-p-k-no-nu/11.jpg"
+        },
+        {
+          "id": "https://kishoredynamics11.blogspot.com/2023/10/merge-multiple-pdfs-into-single-pdf.html",
+          "author": null,
+          "description": "Got the requirement to Merge multiple pdf’s into a single pdf in D365FO.\n\n\n\nTo achieve this need to download the (pdfsharp)3rd party DLL from the below link \nhttps://www.dllme.com/dll/files/pdfsharp#dl.\nonce DLL is downloaded you have to add at the project reference node.\n\n\nWrite the below code.\nusing PdfSharp;\ninternal final class PFDRun\n{\n    public static void main(Args _args)\n    { \n\tPdfSharp.Pdf.PdfDocument \toutPutPDFDocument = new PdfSharp.Pdf.PdfDocument();\n\tPdfSharp.Pdf.PdfDocument \tinputPDFDocument  = new PdfSharp.Pdf.PdfDocument(); \n        PdfSharp.Pdf.PdfPages \t\tpdfPages;\n\n        container con = ['D:\\\\Test1.pdf','D:\\\\Test2.pdf', 'D:\\\\Test3.pdf'];\n\n        int i, j, pageCount;\n\n\tFileName \t\tpdfFile;\n        InteropPermission \tpermission;\n        str \t\t\terrorMessage;\n\n        try…",
+          "link": "https://kishoredynamics11.blogspot.com/2023/10/merge-multiple-pdfs-into-single-pdf.html",
+          "publishedOn": "2023-10-27T05:49:00.000Z",
+          "wordCount": 3004,
+          "title": "Merge multiple pdf’s into a single pdf using x++ in D365FO",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC7tZiu3bUPioxmjNfKMsoOL9Xm_lIN6dkcRpXvEEbAF7sCYYNULCWx9W6uuBf6T3WNDuHuyL8KRo9Gz6_qZgeE8Vmc2w6ChHPqr31BI0v6gNgFfjy_YPeh6Kx2u6BYaj7fasdRu886njcKqACNRMiXqdbqmADEiOzYBJJzJa33sdfXQd0yddH3kuBPuc/w1200-h630-p-k-no-nu/image_2023_10_18T11_16_03_145Z.png"
+        },
+        {
+          "id": "https://kishoredynamics11.blogspot.com/2023/10/generate-payment-advice-report-using-x.html",
+          "author": null,
+          "description": "Generate Payment Advice report using x++.\n\n\n\n\n\nWay 1: \n            The system will download the PDF using the Print setting.\n\nWay 2 :\n        Get the stream to send the mail or store it in the server. For this, we have to add the parm method in the contract class and assign the value in savePrintArchiveDetails method.\n\n\nCode:\n    public void generatePaymAdvice(LedgerJournalTrans _ledgerJournalTrans)\n    {\n        Filename                        fileName;\n        BankPaymAdviceVendControllerV2  controller  = new BankPaymAdviceVendControllerV2();\n        BankPaymAdviceContract          contract;\n        SRSPrintDestinationSettings     settings;\n        \n        fileName = strFmt(\"%1_%2_PaymemtAdvice.pdf\", _ledgerjournalTrans.JournalNum, _ledgerjournalTrans.Voucher);\n\n        contract = BankP…",
+          "link": "https://kishoredynamics11.blogspot.com/2023/10/generate-payment-advice-report-using-x.html",
+          "publishedOn": "2023-10-23T06:19:00.000Z",
+          "wordCount": 3010,
+          "title": "Generate Payment Advice report using x++",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQVd9r0fvPHTf61uEQEMSI-_C7mlP1lwMtV2DclL-6Nuid-DWp_M9tr7rLLTAlfyc9pLYoS8xMHO8xtjaLpmaeVqPI1dwTclR7O_8SKVc7bfvk1cpTfnvSR7TtGIau7M8J9DBsxAcCsedb3yKDed-5x7LTDfaBu5HGTcAm4mpV2x5KPSTRGTrWvIfiIK4/w1200-h630-p-k-no-nu/12.jpg"
+        },
+        {
+          "id": "https://kishoredynamics11.blogspot.com/2023/10/the-transaction-log-for-database-is.html",
+          "author": null,
+          "description": "Managing SQL Server data files when the disk is full.\nIf The database is full will get the below issues\n\n\nWhen I built the project, I encountered 26 synchronization errors. \nThe front-end URL is not open, and I am receiving an HTTP Error 503.\n\n\nSo, I checked 'This PC,' and I observed that the MSSQL (H) drive is full. Consequently, I followed the steps below to shrink the database\n\n\n\nhttps://sql2014.wordpress.com/tag/logdata-disk-full/\n\n\nStep 1: Open SQL Server Management Studio (SSMS) as an administrator.\nStep 2: Select the 'AXDB' database, right-click on it, and choose 'Properties.'\n\nStep 3: In the Properties window, navigate to the 'Options' tab, select the 'Recovery model' as 'Simple,' and click 'OK.'\n\nStep 4: Right-click on 'AXDB' again, select 'Tasks,' and then choose 'Shrink.' Under 'Shrink,' select 'Files.'\n\nStep 5: Choose the file type as 'Log' and click 'OK.'\n\nStep 6: Afterward, change the recovery model back to 'Full' and click 'OK.' (Rollback the step 3)\n\n\nKeep Daxing!!",
+          "link": "https://kishoredynamics11.blogspot.com/2023/10/the-transaction-log-for-database-is.html",
+          "publishedOn": "2023-10-06T06:58:00.001Z",
+          "wordCount": 2926,
+          "title": "The transaction log for database is full in D365FO",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD7HPRCgbtqymBKQdOH6aICRb0uldVWv4wr9fdPR2IvFi9YuHOx1nWx6O3Dd7DiH_USAAvGnIh3t393q7ubj7IGlUFAYCkMiUg45HqaIf1PtucBoMFbe2_-OugaWiRs030h3S-XZoGpyDDBABdNVcaUYz6xsbi4N3VbDk4a5mN9H8g9ZDy3wTx9pJfgCc/w1200-h630-p-k-no-nu/7.jpg"
+        },
+        {
+          "id": "https://kishoredynamics11.blogspot.com/2023/09/how-to-add-destination-tab-in-sys.html",
+          "author": null,
+          "description": "I have a requirement to generate multiple reports within a batch job. The user would like the option to specify the destination tab in the system operation dialog. Based on their inputs, the system will generate the selected report.\n\nI have followed the standard class \"AssetTransferMassController\".\nIn the controller class, I have written the below code. \nclass MyController extends SysOperationServiceController implements BatchRetryable\n{\n    #AssetTransfer\n\n    public static void main(Args args)\n    {\n        MyController      controller =  new MyController();\n\n        controller.parmExecutionMode(SysOperationExecutionMode::Synchronous);\n        controller.startOperation();\n\n        if (!controller.isDialogCancelled())\n        {\n            MyContract contract = controller.getDataContractO…",
+          "link": "https://kishoredynamics11.blogspot.com/2023/09/how-to-add-destination-tab-in-sys.html",
+          "publishedOn": "2023-09-27T05:24:00.003Z",
+          "wordCount": 3168,
+          "title": "How to add destination Tab in sys operation batch job in D365FO",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi96-GXGEc946AujO39-3Esu-vXNfRiPa20apltrVy9nP_qHoEV21lT6wV1sPgcn8IxChFS8BBG55ph7-CnfpZswejaRctccQL5taSFYiIPSOBy6b6dk16I4cGUTIW5aheJJf_FiqsoqdIXvl44giG-pidrdmFFLshhF1PYoTQdDACLxtwtZpA-zzu8mBg/w1200-h630-p-k-no-nu/4.jpg"
+        },
+        {
+          "id": "https://kishoredynamics11.blogspot.com/2023/09/how-to-loop-json-through-array-in-logic.html",
+          "author": null,
+          "description": "Hi guys, \nI have a requirement to update multiple records in F&O and send a response for each record using a logic app.\n\n\nPlease find the request and response in the below screenshot.\n\n\n\n\nTo archive my process I have followed the below steps.\n\n\n1. I have utilized the 'When a HTTP request is received' trigger.\n\n\n\n\n2. Initialized the 2 variables(Array, string type).\n\n\n\n\n3. I have used a 'for-each' loop to iterate through each record, passing the HTTP response body as input. Inside the loop, I have parsed the current record.\n\n\n4. After parsing, I updated the record in F&O using the 'update record' trigger.\n\n\n5. If an update is successful, I am assigning a success status to the 'message' variable.\n    If the update fails, I am parsing the error and sending it to the 'message' variable.\n\n\n\n    While parsing the error I have used the below JSON.\n\n    {\n\t\"status\": 400,\n\t\"message\": \"An error has occurred.  Write failed for table row of type 'CustCustomerV3Entity'. Infolog: Warning: \",\n\t\"error\": {\n\t\t\"message\": \"An error has occurred.  Write failed for table row of type 'CustCustomerV3Entity'. Infolog: Warning:\"\n\t\"source\": \"URL\"\n    }\n\n    To fetch the above error use the below expression or parse JSON.\n\n    outputs('Update_record')?['error']?['code'] \n\n    Status code:\n    outputs('Update_record')?['statusCode']\n\n Afterward, I use 'Append to array variable' to create the response JSON and store it in the array.\n\n\n\n6. Configure run after options for Append to the array variable has set up in the below.\n\n\n7. After the for loop, I used the 'HTTP Response' action. In the response body, I converted the array into a JSON string.\n\njson(string(variables('OutputJson')))\n\n\n8. Open the 'For each' setting and setup like the below screenshot.\n\n\n\n\n\nThe output you will find in 1st screenshot.\n\n\nKeep Daxing!!",
+          "link": "https://kishoredynamics11.blogspot.com/2023/09/how-to-loop-json-through-array-in-logic.html",
+          "publishedOn": "2023-09-26T07:47:00.002Z",
+          "wordCount": 3057,
+          "title": "How to loop JSON through an array in a logic app?",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6iaeYPSjVQKhURFerLq5ppj6R45OKZtneR6LZGUjNCfai_ur2-oz9V0cEyXNwI3EXbwDRYXU8Cg2K_JCbe0EnRuTw149FkL4xgj_bpmdbS6eeHQJsUtMS4fI_D-Xs94q_LKRJYAiGoRY9I7i9w321Gf4GanFxuKu6DERZMfU9vQa9kXoCb85PbrlapFM/w1200-h630-p-k-no-nu/Request%20-%20response.png"
+        },
+        {
+          "id": "https://kishoredynamics11.blogspot.com/2023/09/multi-select-workflow-using-x.html",
+          "author": null,
+          "description": "I got a requirement to submit multiple records to workflow.\nFor this, I have created multiple buttons like below.\n\nSubmit Code:\n#define.WorkFlowTemplateName(\"Template Name\")  \n// or -- workFlowTypeStr(Template name)\n\nif (common.WorkflowApprovalStatus == WFApprovalStatus::Draft)\n{\n    Workflow::activateFromWorkflowType(#WorkFlowTemplateName, common.RecId, \n\t                                'Workflow submitted by button', false, Curuserid());\n}\n\n\nApproval Code:\n\nWorkflowWorkItemTable   WorkflowWorkItemTable;\n\n// main code\nselect firstonly WorkflowWorkItemTable\n    where workflowWorkItemTable.Type == WorkflowWorkItemType::WorkItem\n\t&& workflowWorkItemTable.Status == WorkflowWorkItemStatus::Pending // this should be Pending\n\t&& WorkflowWorkItemTable.RefTableId == tableNum(common)\n\t&& WorkflowWo…",
+          "link": "https://kishoredynamics11.blogspot.com/2023/09/multi-select-workflow-using-x.html",
+          "publishedOn": "2023-09-13T05:37:00.000Z",
+          "wordCount": 3008,
+          "title": "Multi select workflow using x++",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4FKcoJog64XAHPfYU0thILe71-lJa1YHThkCEVGMKpcAT187yJwr3KeUsvN7NwraBcQZW1Yh0pm4TAX9EF-t6HzMY4Oq3-hg_hhi8kZo5aujUru2ATLR8EkI83y8kmXKEzFCxMe5TWvgg50LgJpM1IMtl-2RxEqszP1n_phUFGUaHAnD9SaGt3wHue-w/w1200-h630-p-k-no-nu/image_2023_09_12T10_56_49_218Z.png"
+        },
+        {
+          "id": "https://kishoredynamics11.blogspot.com/2023/09/fetch-format-of-financial-dimension.html",
+          "author": null,
+          "description": "Fetch the Format of financial dimension formats for data entities using X++.\n\n\n\nI have a requirement to fetch the value mentioned in the above SC and the below one.\nBusinessUnit-CostCenter-Department-Campaign-Center-Customer-Project-Store\n\n\nTo get this I have used the Dimension format type  and Active for type\n\n\n\n\nWay 1:\n    private container getFDFromParameters()\n    {\n\tDimensionHierarchy              dimensionHierarchy;\n\tDimensionHierarchyIntegration   dimensionHierarchyIntegration;\n\tcontainer                       con;\n\tstr\t\t\t\tdelimiter = DimensionParameters::getDimensionSegmentDelimiter();\n\t\n\tselect firstonly DisplayString from dimensionHierarchyIntegration\n\t    exists join dimensionHierarchy\n\t\twhere dimensionHierarchy.RecId == dimensionHierarchyIntegration.DimensionHierarchy\n\t\t    && dimensionHierarchy.StructureType == DimensionHierarchyType::DataEntityDefaultDimensionFormat\n\t\t    && dimensionHierarchyIntegration.IsDefault == true;\n\n\treturn str2con(dimensionHierarchyIntegration.DisplayString, delimiter);\n    }\n\n\nWay 2:\n    private container getFDFromParameters()\n    {\n\tDimensionHierarchyLevel         dimensionHierarchyLevel;\n\tDimensionHierarchy              dimensionHierarchy;\n\tDimensionHierarchyIntegration   dimensionHierarchyIntegration;\n\tcontainer                       con;\n\n\twhile select dimensionHierarchyLevel order by dimensionHierarchyLevel.Level\n\t\texists join dimensionHierarchy\n\t\t    where dimensionHierarchy.RecId == dimensionHierarchyLevel.DimensionHierarchy\n\t\texists join dimensionHierarchyIntegration\n\t\t    where dimensionHierarchyIntegration.DimensionHierarchy == dimensionHierarchy.RecId\n\t                && dimensionHierarchyIntegration.IsDefault == true\n\t\t\t&& dimensionHierarchy.StructureType == DimensionHierarchyType::DataEntityDefaultDimensionFormat\n\t{\n\t    con += DimensionAttribute::find(dimensionHierarchyLevel.DimensionAttribute).Name;\n\t}\n\n\treturn con;\n    }\n\n\nOutput:\n\n\n\n\n\nKeep Daxing!!",
+          "link": "https://kishoredynamics11.blogspot.com/2023/09/fetch-format-of-financial-dimension.html",
+          "publishedOn": "2023-09-12T06:00:00.000Z",
+          "wordCount": 2920,
+          "title": "Fetch the Format of financial dimension formats for data entities using X++",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj01VDmOEc0jKIrA2KyKSPiYmKgH81TX5l-8iWOIOZAC6V666sLuOiUuI7q_7kukdK3FvBaNz9ErSlACc0SDtzHct-f8RNJCwQouOQRTs7IXKLAx3B4NxUtyeNWdGaph4fvqlL9cIn62MO3dAlw0iQXyL-FuER4yPGJJhGuaWGrkAfbTQVp374m_cXXUPo/w1200-h630-p-k-no-nu/Screenshot_1.jpg"
+        },
+        {
+          "id": "https://kishoredynamics11.blogspot.com/2023/07/set-parameter-as-mandatory-in-logic-app.html",
+          "author": null,
+          "description": "Hi guys,\n                To create customers and vendors, instead of using the 'created record' trigger twice, I have created a new logic app. This logic app will be called from both places with the required inputs. In the child logic app, I have set the input parameters as mandatory.\nIn the screenshot provided, it shows that the 'Entity name' and 'Body' fields are marked as mandatory.\n\n\n\n\n\n\n\nI have added the necessary code to make the 'Entity name' and 'Body' fields mandatory as highlighted in the screenshot.\n\n\nAfter 'properties' I have added the 'required' tag and added the fields.\n\n{\n    \"properties\": {\n        \"EntityName\": {\n            \"type\": \"string\"\n        },\n        \"body\": {\n            \"properties\": {},\n            \"type\": \"object\"\n        }\n    },\n    \"required\": [\n        \"EntityName\",\n        \"body\"\n    ],\n    \"type\": \"object\"\n}\n\n\n\nKeep Daxing!!",
+          "link": "https://kishoredynamics11.blogspot.com/2023/07/set-parameter-as-mandatory-in-logic-app.html",
+          "publishedOn": "2023-07-19T11:09:00.001Z",
+          "wordCount": 2885,
+          "title": "Set input parameter as mandatory in logic app",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmKT7WIdgWcUBxdLClyi5jX8ljVHY5mqemOG_ZstSw8rvkc5_URl66KG6DCTi8aqNfMsgPSWf0y1rFVQHudHsB7knmrbBiJ3rUFWFDxzGAAlInd1m4evfNIYwOCm9QNarxLNxt9fKZ-Z-13Vt5Bt3XMjiKHxXyPeCqBKEEyCKMF9A19hSxAKm7aWB3mJI/w1200-h630-p-k-no-nu/Required%202.png"
+        },
+        {
+          "id": "https://kishoredynamics11.blogspot.com/2023/07/fin-ops-actions-in-logic-app.html",
+          "author": null,
+          "description": "Hi guys, Today we can see the Fin & ops Actions in the Logic app.\n\n\n\nOpen the Logic app and open the design.\nClick on Add action and search Fin& Ops in the search bar.\n\n\n\n\n\nSelect Fin & Ops.\nBelow are the Actions available for D365FO\n\n\n\n\n    1. Create Record.\n\n        Way 1:\n\n\n\n\n    Way 2:\n\n\n\n\n            body :\n\n{\n    \"CustAccount\": \"Test001\",\n    \"Name\": \"Test 1\",\n    \"CustomerGroup\": \"10\",\n    \"TermsOfPayment\": \"N10\",\n    \"Currency\": \"USD\"\n}\n     2. Delete Record\n\n\n        This is used to delete the record in D365FO.\n        Need to select the URL, Entity name, and Object Id.\n        Object Id (Index of entity) --> Company, CustomerID\n\n\n\n\n    3. Execute action\n\n\n            We can select the executed action based on our requirements.\n\n\n\n\n\n    4. Get a Record\n\n\n            By using this will get the record from D365FO.\n            In Object Id, we need to pass the index of the entity.\n\n\n\n\n          Object Id :\n\n\n    Company,CustAccount --> Index of Entity\n\n\n\n    5. Get List of entities\n\n\n        Get all the entities details.\n\n\n\n\n\n\n\n\n\n\n\n\n\n    6. Lists Items present in table\n\n         By using this will get the record from D365FO.\n\n Single Field\n\n\n\n\n\n\n\n\n\n        Multiple fields\n\n\n\n\n        Expression:\n\n\nlength(body('Lists_items_present_in_table')?['value'])\n\n\n\n\n\n\n\n\n    7. Update Record\n        Way 1:\n    \n\n\n\n\n\n        Way 2:\n\n\n            Object Id :\n\n    Company,CustAccount --> Index of Entity\n\n\n\n\n Keep Daxing!!",
+          "link": "https://kishoredynamics11.blogspot.com/2023/07/fin-ops-actions-in-logic-app.html",
+          "publishedOn": "2023-07-13T12:51:00.005Z",
+          "wordCount": 2948,
+          "title": "Fin & ops Actions in Logic app.",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT90BVhFwn2d8Uxrs--8eEvSrlDeGzsJ6bZ6BIfdoRhi8ZJ8VUhFBxaztTZsAvrVT33V3nX-e6P7aFgrQfXbSpCIkflx23NRI5rd20KvpOXA6fJzxPVVhnF-uRrfhiDonK7M1PaMBRxJ_ZZQcJ_MLNv7HP5-nHpO5QWJzYRw_EuFYsC_GH8CYGclLop-0/w1200-h630-p-k-no-nu/Fin.png"
+        },
+        {
+          "id": "https://kishoredynamics11.blogspot.com/2023/07/how-to-register-app-in-azure-active.html",
+          "author": null,
+          "description": "Hi guys,\nToday, we have registered a single app in Azure to be used across multiple development machines.\nIn the previous stage, I had registered an app for each machine. However, based on the concern raised by one of our Azure developers, I have to create only one app for all non-production machines. To implement this, I followed the below steps:\n\n\nStep 1:\n\n\nLogin to https://portal.azure.com\n\n\n\nStep 2:    \n\n\n Search app registration in the search bar.\n\n             \n\n\n            2. click on the new registration\n\n\nStep 3: \n1.      Provide a Name for your App.\n2.    \nSelect\nAny Azure AD directory – Multitenant)\n\n\n\n\n\n\n\n3.    \nClick on the Register\nbutton.\n\n\n\n4. Save the client id and tenant Id\n\n\n\nStep 4 :\n1.    \nSelect the Certificates\n& secrets.\n2.    \nClick on New client\nsecret.\n\n\n\nStep 5…",
+          "link": "https://kishoredynamics11.blogspot.com/2023/07/how-to-register-app-in-azure-active.html",
+          "publishedOn": "2023-07-12T12:37:00.002Z",
+          "wordCount": 3117,
+          "title": "How To Register An App In Azure Active Directory For multiple machines of Dynamics 365FO",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyUI4IXPpulCgEkxpkuC7NX6jV4BvH_Rb1l9mge5V6DH_N4vr3maOfyI9f_YaDAfBKHSNvf5YZsrPyUuSYxPI4DQ7oq_fvw-xDoUUiAmSsSr5-zcgzLyN8hsuFyokWYo0_fTRZzGMUI_lk2d8p9LhZonjTE8s6XVoapS2uftKN9X0oYcEHJjCf_wJP1Y8/w1200-h630-p-k-no-nu/1.png"
+        },
+        {
+          "id": "https://kishoredynamics11.blogspot.com/2023/06/custom-class-to-handle-financial.html",
+          "author": null,
+          "description": "Custom class to handle financial Dimensions using x++ \n\n\n/// <summary>\n/// Custom class to handle dimensions\n/// </summary>\nclass DimensionHelper\n{\n    /// To Get the default dimension value by using default dimension id\n    public static DimensionValue getDefaultDimensionValue(str dimName, \n                                                        DimensionDefault defaultDimension)\n    {\n        DimensionAttributeValueSetStorage   dimStorage;\n        Counter                             i;\n        str                                 returnValue;\n\n        dimStorage = DimensionAttributeValueSetStorage::find(_defaultDimension);\n\n        for (i=1 ; i<= dimStorage.elements() ; i++)\n        {\n            if (DimensionAttribute::find(dimStorage.getAttributeByIndex(i)).Name == _dimName)\n           …",
+          "link": "https://kishoredynamics11.blogspot.com/2023/06/custom-class-to-handle-financial.html",
+          "publishedOn": "2023-06-15T06:04:00.002Z",
+          "wordCount": 3081,
+          "title": "Custom class to handle financial Dimensions using x++",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kishoredynamics11.blogspot.com/2023/06/add-additional-total-discounts-to-sales.html",
+          "author": null,
+          "description": "Add additional total discounts to the sales total form using x++.\n\n/// <summary>\n/// extension class to apply total discounts on sales total forms\n/// </summary>\n[ExtensionOf(classstr(TradeTotals))]\npublic final class TradeTotals_Extension\n{\n    /// <summary>\n    /// adds additional total discounts to the sales total form\n    /// </summary>\n    /// <returns>total discount</returns>\n    public DiscAmount totalEndDisc()\n    {\n        endDisc = next totalEndDisc();\n\n        if (orderTable.tableID == tableNum(SalesTable))\n        {\n            SalesTable salestableloc = orderTable;\n\n            if (salestableloc.TotalDiscountAmount && salestableloc.SalesStatus != SalesStatus::Invoiced && balance)\n            {\n                return endDisc + ((balance / 100) * salestableloc.TotalDiscPercentag…",
+          "link": "https://kishoredynamics11.blogspot.com/2023/06/add-additional-total-discounts-to-sales.html",
+          "publishedOn": "2023-06-15T06:01:00.001Z",
+          "wordCount": 3063,
+          "title": "Add additional total discounts to the sales total form using x++",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaY3nGpioGG91HVLXhgINOWr6HxS-hwVK-br53wJgtwPmsUhZwYXY8mYdw-WU5dycVynjQyLXwapw6LJYQxEMiXxV-f5yOBGcR1Ws-T2WjXG4hGVH9zm0WRWafZdJC5d2jNXo9EZOmrHcXyFZPEbSXVKRs_LOtCk5XQUeU6N4z7HbzhiB6SjCrgcSlFIg/w1200-h630-p-k-no-nu/image_2023_09_14T05_14_36_751Z.png"
+        },
+        {
+          "id": "https://kishoredynamics11.blogspot.com/2023/06/adding-validation-for-invoice-date-in.html",
+          "author": null,
+          "description": "Adding validation for Invoice date in Pending vendor Invoice using x++ in D365.\n\n\n[ExtensionOf(formStr(VendEditInvoice))]\nfinal class VendEditInvoice_Extension\n{\n    void postInvoice()\n    {\n        VendInvoiceInfoSubLine  vendInvoiceInfoSubLine;\n        VendInvoiceInfoLine     vendInvoiceInfoLine;\n        VendPackingSlipJour     vendPackingSlipJour;\n        VendInvoiceInfoTable    vendInvoiceInfoTable = this.VendInvoiceInfoTable;\n\n        select firstonly DeliveryDate from vendPackingSlipJour order by vendPackingSlipJour.DeliveryDate desc\n            join vendInvoiceInfoSubLine\n                where vendInvoiceInfoSubLine.DocumentId == vendPackingSlipJour.PackingSlipId\n\t    join vendInvoiceInfoLine\n\t\twhere vendInvoiceInfoSubLine.LineRefRecId == vendInvoiceInfoLine.RecId &&\n\t\t    vendInvoiceInfoLine.ParmId == vendInvoiceInfoTable.ParmId &&\n\t\t    vendInvoiceInfoLine.TableRefId == vendInvoiceInfoTable.TableRefId;\n\n        if (vendPackingSlipJour.DeliveryDate > vendInvoiceInfoTable.DocumentDate)\n        {\n            throw Global::error('Invoice date should be greater than Receipt date');\n        }\n\t\t\n        next postInvoice();\n    }\n\n}\n\n\nKeep daxing!!",
+          "link": "https://kishoredynamics11.blogspot.com/2023/06/adding-validation-for-invoice-date-in.html",
+          "publishedOn": "2023-06-15T05:58:00.003Z",
+          "wordCount": 2868,
+          "title": "Adding validation for Invoice date in Pending vendor Invoice using x++ in D365",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kishoredynamics11.blogspot.com/2023/06/open-journal-lines-form-from-custom.html",
+          "author": null,
+          "description": "Open journal lines form from the custom form using x++.\n\n\n\nWe need to add ledgerJournalTable in the form data source and don't give any properties.\nCopy the JournalLines_Review button from the LedgerJournalTable form.\n\n\nWrite the below code in the Form.\n\npublic class Form1 extends FormRun\n{\n    LedgerJournalFormTable  journalFormTable;\n\n    public void init()\n    {\n        journalFormTable = LedgerJournalFormTable::construct(element);\n\n        journalFormTable.datasourceInitPost(LedgerJournalTable);\n\n        super();\n    }\n\n    JournalForm journalForm()\n    {\n        return journalFormTable;\n    }\n}\n\n\n\n\nButton clicked method. (copied from LedgerJournalTable)\n\n    [Control(\"MenuFunctionButton\")]\n    class JournalLines_Review\n    {\n        /// <summary>\n        /// Handles the Lines->Review button's clicked event.\n        /// </summary>\n        public void clicked()\n        {\n            journalFormTable.assertJournalNotInUse();\n    \n            journalFormTable.parmIsProcessingPaymentOnApprovedJounal(false);\n            journalFormTable.parmIsWFApprovedModeSelected(true);\n    \n            super();\n    \n            ledgerJournalTable_ds.reread();\n        }\n\n    }\n\n\nThe below code I have written in jumpRef method is based on my requirement.\n\n\n    [Control(\"String\")]\n    class Table1_FieldString1\n    {\n        public void jumpRef()\n        {\n            super();\n\n            LedgerJournalTable  ledgerJournalTableNew = LedgerJournalTable::find(Table1.FieldString1);\n\n\n            //ledgerJournalTable_ds.setRecord(ledgerJournalTableNew);\n\n            ledgerJournalTable_ds.findRecord(ledgerJournalTableNew);\n\n            //ledgerJournalTable_ds.reread();\n            //ledgerJournalTable_ds.refresh();\n\n            journalFormTable.datasourceInitPost(ledgerJournalTable_ds.cursor());\n\n            JournalLines_Review.clicked();\n        }\n    }\n\n\n\n\nAnother Way:\nClick Here\n\n\nKeep daxing!!",
+          "link": "https://kishoredynamics11.blogspot.com/2023/06/open-journal-lines-form-from-custom.html",
+          "publishedOn": "2023-06-15T05:49:00.004Z",
+          "wordCount": 2910,
+          "title": "Open journal lines form from the custom form using x++.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kishoredynamics11.blogspot.com/2023/06/display-path-of-navigation-for-form.html",
+          "author": null,
+          "description": "Enable the legacy navigation bar in system administrator > setup > client performance options.\n\n\n\n\n\n\n\nKeep Daxing!!",
+          "link": "https://kishoredynamics11.blogspot.com/2023/06/display-path-of-navigation-for-form.html",
+          "publishedOn": "2023-06-08T10:36:00.003Z",
+          "wordCount": 2780,
+          "title": "Display path of navigation for a form.",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOvIWmaS23pdCBQK9q6VNvtrP2_NBzWDkI2cZLsmUJZ_gAMFQOOGDp9TtU388P40eA3HzMELyCTSotKu83QmpcfsLlsooIl9cCV7lJlg8_uanHH272v6IzZ0Cr51tzUTMTujDKL-iX-V91oUdc5FudTSAXcfEQTyBMoEgi7voWuOANZvH4CSc0faEj/w1200-h630-p-k-no-nu/1.png"
+        },
+        {
+          "id": "https://kishoredynamics11.blogspot.com/2023/04/gsthelper-using-x.html",
+          "author": null,
+          "description": "GSTHelper using x++.\n\n\nclass GSTHelper\n{\n    ITaxDocument                taxDocument;\n    Common                      sourceHeader;\n    Common                      sourceLine;\n    Amount                      CGSTAmount,IGSTAmount,SGSTAmount,reverseAmount,recoverableAmount;\n    real                        CGSTRate,IGSTRate,SGSTRate;\n    Amount                      CESSAmount;\n    real                        CESSRate;\n\n    HSNCode_IN                  HSNOrSACCode;\n    Amount                      taxBaseAmount,discountAmount;\n    ClassName                   bundlerClassName;\n\n    /*Amount  CGSTAmountMiscChrg,IGSTAmountMiscChrg,SGSTAmountMiscChrg;\n    real    CGSTRateMiscChrg,IGSTRateMiscChrg,SGSTRateMiscChrg;*/\n\n    RecId   TaxDocumentRecId;\n    boolean isUTGST;\n\n    #define.TaxType('GST')\n  …",
+          "link": "https://kishoredynamics11.blogspot.com/2023/04/gsthelper-using-x.html",
+          "publishedOn": "2023-04-11T07:26:00.000Z",
+          "wordCount": 3158,
+          "title": "GSTHelper using x++",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kishoredynamics11.blogspot.com/2023/04/set-vendor-on-hold-using-x.html",
+          "author": null,
+          "description": "Set vendor on hold using x++.\nWhile inserting the vendor If the vendApproval is yes. I need to hold that vendor. I have used the below code.\n[ExtensionOf(tableStr(VendTable))]\ninternal final class Vendtable_Extension\n{\n    public void insert()\n    {\n        next insert();\n\t\t\n        container con;\n\n        con = conIns(con,1,this);\n\n        if(this.VendorApproval == NoYes::Yes)\n        {\n            VendTable::updateOnHold(con,\n\t\t\t\t    CustVendorBlocked::All,\n\t\t\t\t    dateNull(),\n\t\t\t\t    false,\n\t\t\t\t    true,\n\t\t\t\t    \" New Record \");\n        }\n        \n    }\n}\n\n\nKeep Daxing!!",
+          "link": "https://kishoredynamics11.blogspot.com/2023/04/set-vendor-on-hold-using-x.html",
+          "publishedOn": "2023-04-11T07:17:00.004Z",
+          "wordCount": 2822,
+          "title": "Set vendor on hold using x++",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kishoredynamics11.blogspot.com/2023/04/print-current-date-in-report-using-x.html",
+          "author": null,
+          "description": "Print the current date in the report using x++.\n\n\nUse any function to print the date:\n\n=formatdatetime(today)\n\n\n=FORMAT(Cdate(today), \"dd-MM-yyyy\")\n\n\n=Report Generation Date: \" & FORMAT(Cdate(today), \"dd-MM-yyyy\")\n\n\n=Format(Now(), \"dd/MM/yyyy hh:mm tt\")\n\n\n=\"Report generation date:  \" & Format(Globals!ExecutionTime,\"dd/MM/yyyy  h:mm:ss tt\" )\n\n\n=\"Report Generation Date: \" & Today()\n\n \n=Format(today(), \"dd/MM/yyyy\")\n \n \n=Globals!ExecutionTime\n\n\n\n\nor\n\n\n=Microsoft.Dynamics.Framework.Reports.DataMethodUtility.ConvertUtcToAxUserTimeZoneForUser\n(Parameters!AX_CompanyName.Value, Parameters!AX_UserContext.Value, System.DateTime.UtcNow, \n\"d\", Parameters!AX_RenderingCulture.Value) & vbCrLf & Microsoft.Dynamics.Framework.Reports.DataMethodUtility.ConvertUtcToAxUserTimeZoneForUser\n(Parameters!AX_CompanyName.Value, Parameters!AX_UserContext.Value, System.DateTime.UtcNow, \"t\", Parameters!AX_RenderingCulture.Value)\n\n\nPrint user details:\n\n =User!UserID\n\nXUserInfo::find(false, curUserId()).name;   \n\n\n\n\n\nKeep daxing!!",
+          "link": "https://kishoredynamics11.blogspot.com/2023/04/print-current-date-in-report-using-x.html",
+          "publishedOn": "2023-04-10T07:25:00.008Z",
+          "wordCount": 2828,
+          "title": "Print current date in report using x++",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Gatsby RSS Feed",
+      "feedUrl": "https://denistrunin.com/rss.xml",
+      "siteUrl": "https://denistrunin.com",
+      "articles": [
+        {
+          "id": "https://denistrunin.com/d365fo-buildrelease/",
+          "author": null,
+          "description": "Learn how to set up DevOps-hosted Build and Deploy pipelines for Dynamics 365 for Finance and Operations in this detailed guide",
+          "link": "https://denistrunin.com/d365fo-buildrelease/",
+          "publishedOn": "2023-09-08T22:12:03.000Z",
+          "wordCount": 921,
+          "title": "Step-by-Step Guide: Creating D365FO Build and Deploy Pipelines",
+          "imageUrl": "https://denistrunin.com/static/26b330b19634713b17db08c20bb0154b/39351/logo.png"
+        },
+        {
+          "id": "https://denistrunin.com/performance-d365batch/",
+          "author": null,
+          "description": "The blog post describes how D365FO batch framework handle errors and what kind of problems it may cause",
+          "link": "https://denistrunin.com/performance-d365batch/",
+          "publishedOn": "2023-05-25T22:12:03.000Z",
+          "wordCount": 1186,
+          "title": "Batch Job errors in D365FO: How they can ruin the performance and how to fix them",
+          "imageUrl": "https://denistrunin.com/static/3660de68a1c93370618a6689966f0672/0a613/logo.png"
+        },
+        {
+          "id": "https://denistrunin.com/performance-restoretier2/",
+          "author": null,
+          "description": "The blog post tests various options for. restoring BACPAC files on local SQL Server.",
+          "link": "https://denistrunin.com/performance-restoretier2/",
+          "publishedOn": "2023-02-01T22:12:03.000Z",
+          "wordCount": 1250,
+          "title": "Improve the speed for BACPAC database restore from Tier2 to Tier1",
+          "imageUrl": "https://denistrunin.com/static/653dbf3cbdb2dbc80c10f7b9ce323a10/1a02d/logo.png"
+        },
+        {
+          "id": "https://denistrunin.com/performanceD365-tierperf/",
+          "author": null,
+          "description": "The blog post describes performance differences between various environments Tiers in D365FO.",
+          "link": "https://denistrunin.com/performanceD365-tierperf/",
+          "publishedOn": "2022-11-03T22:12:03.000Z",
+          "wordCount": 1518,
+          "title": "Understanding Dynamics 365FO different Tiers performance",
+          "imageUrl": "https://denistrunin.com/static/11267db03d577bf68f4e9e635b3a25ef/c972b/logo.png"
+        },
+        {
+          "id": "https://denistrunin.com/upgradeD365-attachments/",
+          "author": null,
+          "description": "The blog post describes a procedure to transfer attachments from AX2012 to D365FO",
+          "link": "https://denistrunin.com/upgradeD365-attachments/",
+          "publishedOn": "2022-09-21T22:12:03.000Z",
+          "wordCount": 1068,
+          "title": "D365FO upgrade. Transfer attachments from AX2012",
+          "imageUrl": "https://denistrunin.com/static/6aaa310ed24d524c0439df7f41e13d00/37155/logo.png"
+        },
+        {
+          "id": "https://denistrunin.com/xpptools-integfilesharexmlpurch/",
+          "author": null,
+          "description": "The blog post describes a sample approach how to implement XML based integration by importing purchase orders from Azure File Share in D365FO using X++",
+          "link": "https://denistrunin.com/xpptools-integfilesharexmlpurch/",
+          "publishedOn": "2022-05-04T22:12:04.000Z",
+          "wordCount": 2147,
+          "title": "XppInteg - Import purchase orders from XML files into D365FO",
+          "imageUrl": "https://denistrunin.com/static/83b5ef603855164bd637f97af9c5ddda/66882/logo.png"
+        },
+        {
+          "id": "https://denistrunin.com/performance-monitormisind/",
+          "author": null,
+          "description": "The blog post describes a monitoring solution for SQL Server missing indexes.",
+          "link": "https://denistrunin.com/performance-monitormisind/",
+          "publishedOn": "2022-01-28T22:12:03.000Z",
+          "wordCount": 1095,
+          "title": "Dynamics AX performance monitoring: missing indexes",
+          "imageUrl": "https://denistrunin.com/static/ab8f0d0711f8124a7b03b51ac29f71fa/3965e/logo.png"
+        }
+      ]
+    },
+    {
+      "title": "D365 F&amp;O TechExpert",
+      "feedUrl": "https://d365fotechexpert.blogspot.com/feeds/posts/default",
+      "siteUrl": "https://d365fotechexpert.blogspot.com/",
+      "articles": [
+        {
+          "id": "https://d365fotechexpert.blogspot.com/2023/12/create-shareable-secured-urls-deep-links.html",
+          "author": null,
+          "description": "Overview\nThe URL Generator enables developers to create shareable and secured URLs (also known as deep links) to specific forms that are root navigable. An optional data context can be passed to the form to display filtered or specific data when the form is opened. The URL Generator enables scenarios such as embedding links in reports, email, and external applications, enabling users to quickly and easily locate the specified forms or data by simply navigating using the generated link.\n\nPurpose\n\nEmpower developers to generate URLs that can be used to navigate to root navigable forms in a specified instance.\nEmpower developers to optionally specify a data context that should be displayed when navigating to the specified form.\nEmpower users to share, save, and access the generated URLs from …",
+          "link": "https://d365fotechexpert.blogspot.com/2023/12/create-shareable-secured-urls-deep-links.html",
+          "publishedOn": "2023-12-16T11:50:00.000Z",
+          "wordCount": 6008,
+          "title": "Create shareable, secured URLs (deep links)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://d365fotechexpert.blogspot.com/2023/12/filtering-options-in-d365-fo.html",
+          "author": null,
+          "description": "Introduction\n\nMicrosoft Dynamics AX 2012 offers the following filtering options.\n\n\nFilter optionDescription\n\nFilter by gridThe user defines filter conditions in input fields below the grid column headers.\nFilter by selection (filter by field)The user selects a field value and uses that value as a filter condition.\nAdvanced filterThe user opens a dialog box that contains advanced filtering options (filter on columns, not on the form; join additional data sources; sort by multiple columns; and so on).\n\n\nFinance and operations offers the following filtering options.\n\n\nFilter optionDescription\n\nFilter PaneAn inline pane that slides in from the left, and that contains multiple filter criteria that can be applied to the targeted content.\nQuickFilterA framework-provided filtering mechanism that c…",
+          "link": "https://d365fotechexpert.blogspot.com/2023/12/filtering-options-in-d365-fo.html",
+          "publishedOn": "2023-12-16T11:38:00.000Z",
+          "wordCount": 7228,
+          "title": "Filtering options in D365 FO",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdVEgx-INxhexVMM2wLMkNwojqCABPLzdaGsW1xcS2naEfpTOqfGLRuxcS-3s8FLkgQbUYdZ9NQabgn7Z5Am1YvA0U9fX5LQVBp_iJ60_UxQ_yH70avsMEaeZR3UyACHP-CRrKNtK9epddFYF1zKOFdYJpFJaFJAGZiaauSgtdKApE6DlONKGtkXQw=w1200-h630-p-k-no-nu"
+        },
+        {
+          "id": "https://d365fotechexpert.blogspot.com/2023/12/convert-enum-value-to-str-in-electronic.html",
+          "author": null,
+          "description": "Purpose:\nThe purpose of this document is to demonstrate how we can we get enum values in Electronic report\n X++ based on a business logic.\nProduct:\nDynamics 365 for Finance and Operations, Platform Update 9.\nDevelopment approach:\nCustomization through CODE, we need to  get enum values in Electronic report\nDevelopment:\nCreate a class to get enum values into electronic report... in Electronic report system wont allow us to provide values as enum for this we required to convert our desired enum value to string and need to bind that method to our value in model mapping \nPlease find the method definition as follows.\n\n\nBelow in my requirement i want to assign TransactionType and LedgerPostingType values into may report so that i was added logic like below... here code will convert enum to str fo…",
+          "link": "https://d365fotechexpert.blogspot.com/2023/12/convert-enum-value-to-str-in-electronic.html",
+          "publishedOn": "2023-12-16T11:07:00.000Z",
+          "wordCount": 5737,
+          "title": "Convert enum value to STR  in Electronic report D365 FO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://d365fotechexpert.blogspot.com/2023/12/export-vendor-gstn-details-to-excel-x.html",
+          "author": null,
+          "description": "Purpose:\nThe purpose of this document is to demonstrate how we can Export Vendor GSTN details to excel X++ based on a business logic.\nProduct:\nDynamics 365 for Finance and Operations, Platform Update 9.\nDevelopment approach:\nCustomization through CODE, we need to Export Vendor GSTN details to excel\nDevelopment:\nCreate a class to export Vendor  gstn details to excel\nPlease find the method definition as follows.\n\n\nusing System.IO;\nusing OfficeOpenXml;\nusing OfficeOpenXml.Style;\nusing OfficeOpenXml.Table;\nclass VendorGSTExportToExcel\n{\n    public static void main(Args _args)\n    {\n        VendTable vendTable;\n        DirPartyTable   dirparty;\n        LogisticsLocation   location;\n        TaxInformation_IN   taxInfo_IN;\n        VendName        vendName;\n        str isprimary;\n        TaxRegist…",
+          "link": "https://d365fotechexpert.blogspot.com/2023/12/export-vendor-gstn-details-to-excel-x.html",
+          "publishedOn": "2023-12-16T10:40:00.000Z",
+          "wordCount": 5718,
+          "title": "Export Vendor GSTN details to excel X++ D365 FO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://d365fotechexpert.blogspot.com/2023/12/export-customer-gstn-details-to-excel-x.html",
+          "author": null,
+          "description": "Purpose:\nThe purpose of this document is to demonstrate how we can Export Customer GSTN details to excel X++ based on a business logic.\nProduct:\nDynamics 365 for Finance and Operations, Platform Update 9.\nDevelopment approach:\nCustomization through CODE, we need to Export Customer GSTN details to excel\nDevelopment:\nCreate a class to export customer gstn details to excel\nPlease find the method definition as follows.\n\n\nusing System.IO;\nusing OfficeOpenXml;\nusing OfficeOpenXml.Style;\nusing OfficeOpenXml.Table;\nclass CustomerGSTExportToExcel\n{\n    public static void main(Args _args)\n    {\n        CustTable custTable;\n        DirPartyTable   dirparty;\n        LogisticsLocation   location;\n        TaxInformation_IN   taxInfo_IN;\n        CustName        custName;\n        str isprimary;\n        Ta…",
+          "link": "https://d365fotechexpert.blogspot.com/2023/12/export-customer-gstn-details-to-excel-x.html",
+          "publishedOn": "2023-12-16T10:31:00.000Z",
+          "wordCount": 5720,
+          "title": "Export Customer GSTN details to excel X++ D365 FO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://d365fotechexpert.blogspot.com/2023/12/split-dimension-valuesledger-account.html",
+          "author": null,
+          "description": "Purpose:\nThe purpose of this document is to demonstrate how we can Split ledger account into separate field values using ledger dimension field from general journal account entry X++ based on a business logic.\nProduct:\nDynamics 365 for Finance and Operations, Platform Update 9.\nDevelopment approach:\nCustomization through Table COC , we need to Split ledger account into separate field values using ledger dimension field from general journal account entry\nDevelopment:\nCreate a Class and added main method to get dim value based on dimension and attribute name to identify values from ledger dimension field from general journal account entry table.\n\n\nPlease find the method definition as follows.\n\n\n\n\nPublic class testclass\n{\n    generaljournalentry accountEntry;\n    \n   select firstonly accountE…",
+          "link": "https://d365fotechexpert.blogspot.com/2023/12/split-dimension-valuesledger-account.html",
+          "publishedOn": "2023-12-16T09:53:00.000Z",
+          "wordCount": 5704,
+          "title": "Split Dimension values(Ledger Account field) into separate fields x++ D365FO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://d365fotechexpert.blogspot.com/2023/12/send-ssrs-report-to-email-with-excel.html",
+          "author": null,
+          "description": "Purpose:\nThe purpose of this document is to demonstrate how we can send ssrs report to mail through attachment Excel X++ based on a business logic.\nProduct:\nDynamics 365 for Finance and Operations, Platform Update 9.\nDevelopment approach:\nCustomization through code, to send report in excel format to email\nDevelopment:\nCreate class, and get control setting and SMTP config details, to users get email of report as attachment .\nPlease find the method definition as follows.\n\n\nclass testTransReportService\n{\n    /// <summary>\n    /// Send email with excel attachment\n    /// </summary>\n    [SysEntryPointAttribute(false)]\n    public void processRecords()\n    {\n        date integationDate;\n        SysEmailParameters sysEmailParameters;\n        integationDate = DateTimeUtil::getToday(DateTimeUtil::ge…",
+          "link": "https://d365fotechexpert.blogspot.com/2023/12/send-ssrs-report-to-email-with-excel.html",
+          "publishedOn": "2023-12-16T09:40:00.000Z",
+          "wordCount": 5752,
+          "title": "Send ssrs report to email with excel attachment in D365FO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://d365fotechexpert.blogspot.com/2023/12/how-to-take-control-of-ssrs-report.html",
+          "author": null,
+          "description": "Purpose:\nThe purpose of this document is to demonstrate how we can we defualt and not allowing to edit ssrs report parameter  X++ based on a business logic.\nProduct:\nDynamics 365 for Finance and Operations, Platform Update 9.\nDevelopment approach:\nCustomization through code , we need make value default and it should be non editable and \nDevelopment:\nCreated 4 parameters in my case, from to dates, banaccount and exchangeratetype, we need to non editable of  exchangeratetype parameter\nPlease find the method definition as follows.\nclass testTransUIBuilder extends SysOperationAutomaticUIBuilder\n{\n    private DialogField dialogBankID, dialogExrateType, dialogfromdate, dialogtodate;\n    public void getFromDialog()\n    {\n        super();\n\n\n        testTransContract contract = this.dataContractObj…",
+          "link": "https://d365fotechexpert.blogspot.com/2023/12/how-to-take-control-of-ssrs-report.html",
+          "publishedOn": "2023-12-16T09:29:00.000Z",
+          "wordCount": 5695,
+          "title": "How to take control of SSRS Report parameters through UI Builder class in D365FO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://d365fotechexpert.blogspot.com/2023/12/download-ssrs-report-directly-through-x.html",
+          "author": null,
+          "description": "Purpose:\nThe purpose of this document is to demonstrate how we can download report directly through X++ based on a business logic.\nProduct:\nDynamics 365 for Finance and Operations, Platform Update 9.\nDevelopment approach:\nCustomization through code, we need to directly download report \nDevelopment:\nCreate a Controller class and using print destination helper class to download report\nPlease find the method definition as follows.\n\n\nclass  testTransController extends SrsReportRunController implements BatchRetryable\n{\n    SRSPrintDestinationSettings printDestinationSetting;\n\n\n    public static void main(Args _args)\n    {\n         testTransController controller = new  testTransController();\n        controller.parmReportName(ssrsReportStr(testTransReport, testTransOrig));\n        controller.parmDialogCaption(\"test Bank Book Data Report\");\n        controller.startOperation();\n    }\n\n\n    // method to call print settings to download our generated report directly to downloads\n    protected void preRunModifyContract()\n    {\n        testTransContract contract = this.parmReportContract().parmRdpContract() as testTransContract;\n        \n        \n        this.parmReportContract().parmReportName(ssrsReportStr(testTransReport, BankBookTransOrig));\n        printDestinationSetting = new SRSPrintDestinationSettings();\n        printDestinationSetting.printMediumType(SRSPrintMediumType::File);\n        printDestinationSetting.fileName(System.IO.Path::GetTempPath() +'test data report.XLSX');\n        printDestinationSetting.fileFormat(SRSReportFileFormat::Excel);\n        printDestinationSetting.overwriteFile(true);\n       \n        this.parmReportContract().parmPrintSettings(printDestinationSetting);\n    }\n\n\n\n}",
+          "link": "https://d365fotechexpert.blogspot.com/2023/12/download-ssrs-report-directly-through-x.html",
+          "publishedOn": "2023-12-16T09:19:00.000Z",
+          "wordCount": 5581,
+          "title": "Download SSRS Report directly through X++",
+          "imageUrl": null
+        },
+        {
+          "id": "https://d365fotechexpert.blogspot.com/2023/12/get-lable-of-enum-valuemain-account.html",
+          "author": null,
+          "description": "Purpose:\nThe purpose of this document is to demonstrate how we can get value in view through computed column X++ based on a business logic.\nProduct:\nDynamics 365 for Finance and Operations, Platform Update 9.\nDevelopment approach:\nCustomization through View , we need to show Enum values  lable in view based on DimensionLedgerAccountType  from voucher transactions\nDevelopment:\nCreate a view and added GneralJournalEntry and GneralJournalAccountEntry data sources. added computed column for this added method to bring dimension values based on dim name. in our case bring value of \"Business Unit\"\nPlease find the method definition as follows.\npublic class Dimensionview extends common\n{\n\n\n    private static str mainaccounttypelable()\n    {\n        tableName leaveBankTransactionView = identifierStr(Dimensionview );\n        DictEnum dictEnum = new DictEnum(enumNum(DimensionLedgerAccountType));\n        Map enumValues = new Map(Types::String, Types::String);\n        int counter;\n\n\n        for (counter = 0; counter < dictEnum.values(); counter++)\n        {\n            enumValues.insert(int2str(dictEnum.index2Value(counter)), SysComputedColumn::returnLiteral(dictEnum.index2Symbol(counter)));\n        }\n\n\n        return SysComputedColumn::switch(SysComputedColumn::returnField(leaveBankTransactionView, identifierStr(MainAccount), fieldStr(MainAccount, Type )), enumValues, SysComputedColumn::returnLiteral(dictEnum.index2Symbol(counter)));\n    }\n\n\n}",
+          "link": "https://d365fotechexpert.blogspot.com/2023/12/get-lable-of-enum-valuemain-account.html",
+          "publishedOn": "2023-12-16T08:49:00.000Z",
+          "wordCount": 5648,
+          "title": "Get lable of enum value(Main Account Type) through computed column in view D365FO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://d365fotechexpert.blogspot.com/2023/12/get-dim-values-into-form-through.html",
+          "author": null,
+          "description": "Purpose:\nThe purpose of this document is to demonstrate how we can get value in view through computed column X++ based on a business logic.\nProduct:\nDynamics 365 for Finance and Operations, Platform Update 9.\nDevelopment approach:\nCustomization through View , we need to show dimension values in view based on ledger dimension from voucher transactions\nDevelopment:\nCreate a view and added GneralJournalEntry and GneralJournalAccountEntry data sources. added computed column for this added method to bring dimension values based on dim name. in our case bring value of \"Business Unit\"\nPlease find the method definition as follows.\npublic class Dimensionview extends common\n{\n\n\n    /// <summary>\n    ///\n    /// </summary>\n    private static  str businessUnit()\n    {\n\n\n        return strFmt(\n            @\"select dimvalue \n                from %1 as prosessedtrans\n                where prosessedtrans.GENERALJOURNALACCOUNTENTRY = %2\n                AND prosessedtrans.DIMNAME = %3\",\n            (new SysDictTable(tableNum(LedgerSIEGeneralJournalEntryDimensionsView))).name(DbBackend::Sql),\n            SysComputedColumn::returnField(\n            viewstr(Dimensionview ),\n            tableStr(GeneralJournalAccountEntry),\n            fieldStr(GeneralJournalAccountEntry, RecId)),\n            SysComputedColumn::returnLiteral(\"BusinessUnit\"));\n        \n    }\n}",
+          "link": "https://d365fotechexpert.blogspot.com/2023/12/get-dim-values-into-form-through.html",
+          "publishedOn": "2023-12-16T08:45:00.000Z",
+          "wordCount": 5619,
+          "title": "Get Dim Values into view through Computed Column in D365FO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://d365fotechexpert.blogspot.com/2023/12/enabledisable-form-control-coc-in-x.html",
+          "author": null,
+          "description": "Purpose:\nThe purpose of this document is to demonstrate how we can enable/disable a workflow fields based on workflow toggle on header .form control in X++ based on a business logic.\nProduct:\nDynamics 365 for Finance and Operations, Platform Update 9.\nDevelopment approach:\nCustomization through extension. we need to show workflow related fields in VendInvoiceJournal   list page when a transaction enabled with workflow toggle.\nDevelopment:\n\nCreate a COC of a standard form method enabling/disabling the form controls. In this case, we are creating a COC of a standard method  VendInvoiceJournal  form.\nPlease find the COC method definition as follows.\n\nI had four custom controls already added in my form through extension and enabled Auto declaration = YES for all controls\n\n\n\n\n\n[ExtensionOf(form…",
+          "link": "https://d365fotechexpert.blogspot.com/2023/12/enabledisable-form-control-coc-in-x.html",
+          "publishedOn": "2023-12-16T08:32:00.000Z",
+          "wordCount": 5696,
+          "title": "Enable/Disable form control (COC) in X++",
+          "imageUrl": null
+        },
+        {
+          "id": "https://d365fotechexpert.blogspot.com/2023/10/chatgpt-by-open-ai-with-dynamics-365_25.html",
+          "author": null,
+          "description": "As part of Chat GPT integration with Dynamics 365 Finance and operation, here I have started working on real application which actually can help end user to identify and get more information about error message in system.\n\nif you want to lean about how to integrate ChatGPT with Dynamics 365 Finance and operation.\n\n\n\n\n\n\n\nI have decided to start with General journal posting and Validation process.\nSystem store all validation message related to journal lines in header table (Log field)\n\n\n\nI have decided to add new button on general journal screen which will help me to read log from header table and try to find out relevant information using ChatGPT call.\n\n\n\nHere below I have showing sample X++ code for your reference.\n\nFollowing tweaks I am trying to do here to make request more understandabl…",
+          "link": "https://d365fotechexpert.blogspot.com/2023/10/chatgpt-by-open-ai-with-dynamics-365_25.html",
+          "publishedOn": "2023-10-25T15:30:00.002Z",
+          "wordCount": 5906,
+          "title": "ChatGPT by Open AI with Dynamics 365 Finance and operation – Part 2 with Application",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdUXvIqCQMzzzaI1L8V69KFVu95du0Zv2yTI1UChNsnXpAfZOX4Ezeum1-W1tECdU-Pvp6FgyBNY09fBsCHwmK0THTeRtXxn2iA48RCoCgj34TZ5yg6Z-Lvpr0F15_hsy3KEpO7ZyvguBncS=w1200-h630-p-k-no-nu"
+        },
+        {
+          "id": "https://d365fotechexpert.blogspot.com/2023/10/chatgpt-by-open-ai-with-dynamics-365.html",
+          "author": null,
+          "description": "Guys vote if you want Microsoft to add chat GPT by Open API integration with Dynamics 365 Finance and operation in upcoming release.\n\n\n\nThis blog is for ChatGPT and D365 Finance and operation integration, As we know so many people are talking about ChatGPT now a days and why don’t we try to access ChatGPT features from Dynamics 365 finance and operation and let user interact with AI to get required help.\n\n\n\n\n\nYes it is possible to with some C# and X++ code combination.\nTo start with I will suggest everyone to play with ChatGPT for sometime and understand. (New chat (openai.com))\n\n\n\n\n\nIf you feel now you are ready for technical integration, its time to jump on Playground and understand some technical stuff.\n\n\n\nPlayground – OpenAI API (To understand each parameters, Refer https://www.makeuseof.com/how-to-use-gpt-3-openai-playground/, Blog.\n\n\n\nMain parameters to understand.\n1.Model,\n2.Temperature (To fine tune output response)\n3.Maximum length (Max output response)\n4Top P,\n5.Frequency Penalty\n6.Presence penalty.\nOnce you understand more about parameter, It time to get API and secret key from beta.openai.com.\nApiCall = “https://api.openai.com/v1/engines/&#8221; + engine + “/completions”;\nYou can generate secret key from\n\n\n\nOnce you have all required information you can write C# code to integrate.\n\n\nI have created D365 parameter table to store required parameters for ChatGPT API call.\nHere you can find C# code for calling ChatGPT API.\n\n\n\n\n\nYou can refer same code in D365 and call using X++ reference.\n\nOnce you are done with above technical changes, Now we can proceed with parameters \n\n\nsetup for API call and start playing with it\n\nHere you have playground in D365 Finance and operation for your reference.\n\nAs a responsible technical I would suggest to have some restriction in place for responsible use of ChatGPT API if you wanted to implement same for customer.",
+          "link": "https://d365fotechexpert.blogspot.com/2023/10/chatgpt-by-open-ai-with-dynamics-365.html",
+          "publishedOn": "2023-10-25T15:29:00.002Z",
+          "wordCount": 5832,
+          "title": "ChatGPT by Open AI with Dynamics 365 Finance and operation part1",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdVitBeX_5BVEoOsg9VSBAUG7hMdGUxdkvC4QEy8h17hsif9WACIHIj5tH0qryoztr-IcUCiW5QYhrzN0ekCxCQ8aK4Fk49K9bj1CPG0fBWK18nSY_j0JcFoA0GdvT06sxAKobvMZw5ilw=w1200-h630-p-k-no-nu"
+        },
+        {
+          "id": "https://d365fotechexpert.blogspot.com/2023/10/run-custom-x-scripts-with-zero-downtime.html",
+          "author": null,
+          "description": "As we know there are many issues, we face every day where data is not correct, and we need to write small script or runnable job to correct that data. But to do we need downtime in production and complete package deployment and build process is needed which is quite time taking task.\n\nHere with 10.0.25 version Microsoft has given new feature which will help to correct data without any down time required.\nYou can check Microsoft document for complete details and feature availability.\n\n\nHere I m going to explain step by step process, how you can use this functionality.\nFirst process would be, you needed to create new model using model management and add reference module like application suite, application foundation and any other model if required.\n\n\n\n\nOnce you are done with model creation, …",
+          "link": "https://d365fotechexpert.blogspot.com/2023/10/run-custom-x-scripts-with-zero-downtime.html",
+          "publishedOn": "2023-10-25T15:20:00.001Z",
+          "wordCount": 5933,
+          "title": "Run custom X++ scripts with zero downtime – D365 Finance and operation",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdWrk91iOVSz4p3wMcfBkrWlrUGmjTrMCj3CQwQ2YVWXSTtLO3EMKDROZ2KwA5siGNc1TZczSeT43-rq3DRPacuFVjzcIsywWIcbJpCaHnyFC5lj7C8pgNif8fgwOYbSVcSR1cpnDgxus8I=w1200-h630-p-k-no-nu"
+        },
+        {
+          "id": "https://d365fotechexpert.blogspot.com/2023/10/how-to-insert-record-directly-through.html",
+          "author": null,
+          "description": "static void test_insertRecordThroughQuery(Args _args)\n{CUSTTEST testTable;\nMap fieldMapping;\nQuery query = new Query();\nQueryBuildDataSource qbds_custTable;\nQueryBuildFieldList fldList_custTable;\nqbds_custTable = query.addDataSource(tableNum(CustTable));\n// Field lists are required\n// ————————\nfldList_custTable = qbds_custTable.fields();\nfldList_custTable.addField(fieldNum(CustTable, AccountNum));\nfldList_custTable.addField(fieldNum(CustTable, BirthDate_IT));\nfldList_custTable.dynamic(QueryFieldListDynamic::No);\nfieldMapping = new Map(Types::String, Types::Container);\nfieldMapping.insert(fieldStr(testTable, Name), [qbds_custTable.uniqueId(), fieldStr(CustTable, AccountNum)]);\nfieldMapping.insert(fieldStr(testTable, TransDate), [qbds_custTable.uniqueId(), fieldStr(CustTable, BirthDate_IT)]);\n// Let AX handle getting data from the query to the target table\n// ————————————————————-\nquery::insert_recordset(testTable, fieldMapping, query);\ninfo (“Done”);\n}\nOutput:",
+          "link": "https://d365fotechexpert.blogspot.com/2023/10/how-to-insert-record-directly-through.html",
+          "publishedOn": "2023-10-07T06:59:00.002Z",
+          "wordCount": 5575,
+          "title": "How to insert a record directly through query X++",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDA6i5HARq5ZMmC4TeM4oVuKhTaKg-ET-zxYr3UJS6VmCOB1dUvKWAraiuqj6AnUbM8IQZXAN23f0XaCntdAJ8niLHUtW1wzsmHrCWv4WT7zQBGmi41TSWt9y_RMhNcaMMcjCmupCc9dYrhWzKuuV55WDI31MjDPBy36Do6QDTxYtvnzZZfruA_3d68DQ/w1200-h630-p-k-no-nu/1.JPG"
+        },
+        {
+          "id": "https://d365fotechexpert.blogspot.com/2023/10/how-to-hide-enum-values-x.html",
+          "author": null,
+          "description": "Today will discuss about a simple topic of hiding enum values through code.\nSuppose, you have enum Gender which contains values A,B,C. you want to hide last value of enum while displaying it on the form.\nSo, what you have to do is override the enter method of that enum control at form level.\npublic void enter()\n{super();\nthis.delete(enum2str(Gender::C));\n}\nPlease let me know if you have any further queries.",
+          "link": "https://d365fotechexpert.blogspot.com/2023/10/how-to-hide-enum-values-x.html",
+          "publishedOn": "2023-10-07T06:54:00.002Z",
+          "wordCount": 5521,
+          "title": "How to Hide Enum values x++",
+          "imageUrl": null
+        },
+        {
+          "id": "https://d365fotechexpert.blogspot.com/2023/10/field-fixed-relation-in-d365-with.html",
+          "author": null,
+          "description": "In this article I will explain field fixed relation in D365 is f&o. A table relation associates two tables that contain related information. Usually, the primary key field of one table appears as a foreign key field of the related table. The table with the primary key is called the parent table. The table with the foreign key is called the child table.\n\n\n\nA relation on a table can restrict the rows in the table or restrict the values that can be in a particular field. A common use of relations is to associate rows in one table with corresponding rows in another table. Relations enable many forms to display data from multiple tables. Some relations restrict the rows in the table by testing the values in each row against constant values. Other relations restrict the rows by comparing values …",
+          "link": "https://d365fotechexpert.blogspot.com/2023/10/field-fixed-relation-in-d365-with.html",
+          "publishedOn": "2023-10-05T09:00:00.004Z",
+          "wordCount": 6739,
+          "title": "Field Fixed Relation in D365 with Example",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdWqqUghVkM9-y3N03lNi8LJdS1RPjCikSaN3gZW-hpP-ColIDxOcVxFbihFyoZRnEBYfyaf46UlRm59ikb-SaO5hG1f2ZVoHH5SV0ZK4FCD2S8=w1200-h630-p-k-no-nu"
+        },
+        {
+          "id": "https://d365fotechexpert.blogspot.com/2023/10/restricted-delete-action-in-dynamics.html",
+          "author": null,
+          "description": "In this article i will show How to add a cascade delete in Dynamics 365 finance and operations. In this article, I will show you how to add a restricted delete action in dynamics 365 Finance and Operations. When a Delete Action comes into the picture? Normally delete actions come into the picture when a user is trying to delete a database record. Delete actions are used to maintain the data integrity and consistency of the database. At the time of development, a developer must take care of the delete actions to implement in the project.\n\nIn Dynamics 365 Finance and Operations (D365 FO), the delete action refers to the deletion of a record from a table in the database. When a record is deleted, it is permanently removed from the system and cannot be recovered. Therefore, it is important to …",
+          "link": "https://d365fotechexpert.blogspot.com/2023/10/restricted-delete-action-in-dynamics.html",
+          "publishedOn": "2023-10-05T08:40:00.001Z",
+          "wordCount": 6775,
+          "title": "Restricted Delete Action in Dynamics 365 Finance and Operations",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdWqqUghVkM9-y3N03lNi8LJdS1RPjCikSaN3gZW-hpP-ColIDxOcVxFbihFyoZRnEBYfyaf46UlRm59ikb-SaO5hG1f2ZVoHH5SV0ZK4FCD2S8=w1200-h630-p-k-no-nu"
+        },
+        {
+          "id": "https://d365fotechexpert.blogspot.com/2023/09/context-menus-d365-for-finance-and.html",
+          "author": null,
+          "description": "In older versions of AX, We used right-click context menus (shortcut menus) by using the PopupMenu class\n\nBut in the current version, this can be achieved by using ContextMenu API and by overriding 2 methods getContextMenuOptions(), to add options to the context menu and selectedMenuOption() to process the user’s selection\nLets create a new form as shown below by name SRContextMenu. I have added CustGroup Table as a dataSource and in the design I have added CustGroup control to the grid.\n \n\nLets see the coding part to achieve this now. Override the classDeclaration method of the form/element and add the below line of code\n[Form]\npublic class SRContextMenu extends FormRun\n{\n    public const int rootIdx = 1;\n}\nThen override the getContextMenuOptions method as shown below from the CustGroup c…",
+          "link": "https://d365fotechexpert.blogspot.com/2023/09/context-menus-d365-for-finance-and.html",
+          "publishedOn": "2023-09-30T06:53:00.001Z",
+          "wordCount": 6152,
+          "title": "Context Menus (D365 for Finance and Operations)",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdWX4ml7jWIwiyvNMqE1CqmztljidmOzRMWyk_gLPbCWE4yc50I-bzNPUpR-nJB1nAw3_KS6UdJp-E80KDcBCxZGudm5ZvMm0ZaOYDueDVlkLtdEMD6rO7BStLDdeh2EBu0r20c49GIC1N3FsSodQ5DXYw=w1200-h630-p-k-no-nu"
+        },
+        {
+          "id": "https://d365fotechexpert.blogspot.com/2023/09/asset-library-in-lifecycle-services.html",
+          "author": null,
+          "description": "The Asset library is a storage location for the various assets that are associated with a tenant in Microsoft Dynamics 365 Lifecycle Services. Two types of Asset library are available in Lifecycle Services: the Shared asset library and the project-level Asset library.\n\n Note\nAsset library is not supported for Prospect projects or organizations. In these situations, the Asset library menu option will not be visible.\n\nShared asset library – The Shared asset library is used by Microsoft and Partners to share assets across multiple tenants, projects, and environments in Lifecycle Services. This library can be accessed by any user who signs in to Lifecycle Services. To access the Shared asset library, sign in to Lifecycle Services, and then click the Shared asset library tile.\n\n\n\nProject-level …",
+          "link": "https://d365fotechexpert.blogspot.com/2023/09/asset-library-in-lifecycle-services.html",
+          "publishedOn": "2023-09-13T19:48:00.004Z",
+          "wordCount": 6372,
+          "title": "Asset library in Lifecycle Services",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdU7bWyL824ermmz3Zoiq9f-BIW0WQjE84LXMDXJdV8iqQQL_ABdbsjQrhHjUNynzqVpEB0IsnP-kxCcJJ4NNCRu4mKDYFibdaJ2TjLYHa9L_U-0f0zgEhB_7rkViobO2VNycAM2i9MlRsbyXcg5-1GBKYjZKZqn0rEvRnoadQbL29tc7VOdGFKtNKicT4lwb58fIa_iY6Ea=w1200-h630-p-k-no-nu"
+        },
+        {
+          "id": "https://d365fotechexpert.blogspot.com/2023/09/caching-display-methods-in-x.html",
+          "author": null,
+          "description": "The performance of display methods can be improved by caching them if they are calculated on Application Object Server (AOS). Caching display methods can also improve performance when records are transferred from the server to the client.\nThe value of all cached methods is set when data is fetched from the back-end database. In addition, the value is refreshed when the reread method is called on the form data source.\n\nAdd a display Method to the Cache\n\n\nLocate the form that the method is used on.\n\nExpand the Data Sources node.\n\nRight-click the data source that the method is associated with, and then select Override Method > init.\n\nCall the FormDataSource.cacheAddMethod method after the call to super() in the init method.\nThe first parameter for cacheAddMethod determines the name of the method to be cached. The second parameter (set to true by default) determines whether the value of the display method is updated when a record is written to the database.\n\n\n\n\n\n    [SysClientCacheDataMethodAttribute(true)]\n    public display Reasoncode display_ReasonCode()\n    {\n        reasoncode ret = '';\n        .......\n        return ret;\n    }",
+          "link": "https://d365fotechexpert.blogspot.com/2023/09/caching-display-methods-in-x.html",
+          "publishedOn": "2023-09-13T19:40:00.004Z",
+          "wordCount": 5615,
+          "title": "Caching display Methods in X++",
+          "imageUrl": null
+        },
+        {
+          "id": "https://d365fotechexpert.blogspot.com/2023/09/sql-query-to-get-security-roles-duties.html",
+          "author": null,
+          "description": "All security roles \n\n            Select Name as SecurityRoleName FROM SecurityRole;\n\nAll security roles to duties\n\n    SELECT SECURITYROLE.Name as SecurityRole, SECURITYDUTY.NAME as Duty \n    FROM SECURITYOBJECTCHILDREREFERENCES  \n    JOIN SECURITYROLE ON SECURITYOBJECTCHILDREREFERENCES.IDENTIFIER = SECURITYROLE.AOTNAME \n    JOIN SECURITYDUTY ON SECURITYOBJECTCHILDREREFERENCES.CHILDIDENTIFIER = SECURITYDUTY.IDENTIFIER\n        WHERE SECURITYOBJECTCHILDREREFERENCES.OBJECTTYPE = 0 AND SECURITYOBJECTCHILDREREFERENCES.CHILDOBJECTTYPE = 1\n\norder by SECURITYROLE.Name asc;\n\nAll security roles with privileges \n\n    SELECT SECURITYROLE.Name as SecurityRole, SECURITYPRIVILEGE.NAME as Privileges\n    FROM SECURITYOBJECTCHILDREREFERENCES  \n    JOIN SECURITYROLE ON SECURITYOBJECTCHILDREREFERENCES.IDENTIFIER = SECURITYROLE.AOTNAME \n    JOIN SECURITYPRIVILEGE \n        ON  SECURITYOBJECTCHILDREREFERENCES.CHILDIDENTIFIER = SECURITYPRIVILEGE.IDENTIFIER\n    \tWHERE SECURITYOBJECTCHILDREREFERENCES.OBJECTTYPE = 0 AND \n\t\tSECURITYOBJECTCHILDREREFERENCES.CHILDOBJECTTYPE = 2 \n\t\torder by SECURITYROLE.Name asc;\n\n \n\nAll role-duty combination with privilege \n\nSELECT SECURITYROLE.Name as SecurityRole, SECURITYROLE.AOTNAME as RoleSystemName,  \n    SECURITYDUTY.NAME AS Duty, SECURITYDUTY.IDENTIFIER as DutySystemName, \n    SECURITYPRIVILEGE.NAME as Privilege, SECURITYPRIVILEGE.IDENTIFIER as PrivilegeSystemName \nFROM SECURITYOBJECTCHILDREREFERENCES\nJOIN SECURITYROLE ON SECURITYOBJECTCHILDREREFERENCES.IDENTIFIER = SECURITYROLE.AOTNAME\nJOIN SECURITYDUTY ON SECURITYOBJECTCHILDREREFERENCES.CHILDIDENTIFIER = SECURITYDUTY.IDENTIFIER\nJOIN SECURITYOBJECTCHILDREREFERENCES Table1 on Table1.IDENTIFIER = SECURITYDUTY.IDENTIFIER\nJOIN SECURITYPRIVILEGE on Table1.CHILDIDENTIFIER = SECURITYPRIVILEGE.IDENTIFIER\n\tWHERE SECURITYOBJECTCHILDREREFERENCES.OBJECTTYPE = 0 AND SECURITYOBJECTCHILDREREFERENCES.CHILDOBJECTTYPE = 1\n\tAND Table1.OBJECTTYPE = 1 AND Table1.CHILDOBJECTTYPE = 2\n\torder by SECURITYROLE.Name asc;",
+          "link": "https://d365fotechexpert.blogspot.com/2023/09/sql-query-to-get-security-roles-duties.html",
+          "publishedOn": "2023-09-13T19:08:00.006Z",
+          "wordCount": 5638,
+          "title": "SQL Query to get Security roles, duties and privileges in D365FO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://d365fotechexpert.blogspot.com/2023/09/crosscompany-and-changecompany-using-x.html",
+          "author": null,
+          "description": "CrossCompany and changeCompany using x++.\n\n\n\n CrossCompany:\n    Required company filter:\n\n    MyTable \tmyTable; \n    container \tconCompanies = ['cmp1', 'cmp2', 'cmp3'];\n\n    while select crossCompany : conCompanies * from myTable\n    {\n\t// code\n    }\n    All company filter:\n    MyTable \tmyTable; \n\n    while select crossCompany * from myTable\n    {\n        // code\n    }\n    Applying On Dynamic queries:\n\n    Query \t\t\tquery = new Query();\n    QueryRun \t\t\tqueryRun;\n    QueryBuildDataSource \tqBDS;\n\n    qBDS = query.addDataSource(TableNum(CustTable));\n\t\n    // Way-1 (we can add required company)\n    query.allowCrossCompany(true);\n    query.addCompanyRange('cmp1');\n    query.addCompanyRange('cmp2');\n\n    // Way-2 (It will loop all company)\n    queryRun = new QueryRun(query);\n    queryRun.allowCrossCompany(true);\n\n\n\n\n\nChange Company:\n    MyTable \tmyTable;",
+          "link": "https://d365fotechexpert.blogspot.com/2023/09/crosscompany-and-changecompany-using-x.html",
+          "publishedOn": "2023-09-13T19:05:00.004Z",
+          "wordCount": 5536,
+          "title": "CrossCompany and changeCompany using x++.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://d365fotechexpert.blogspot.com/2023/09/synchronize-table-from-visual-studio.html",
+          "author": null,
+          "description": "From Visual studio project node we can perform database synchronization either on a required table (or) on few tables bases on our requirement.\nThis could be very useful during on-premises environments package deployments because can can drastically reduce the downtime.\nIn fact you can only synchronize the tables that you have actually modified rather than perform an entire synchronization\nTo perform a single table db sync simply Right click on project >>synchronize table",
+          "link": "https://d365fotechexpert.blogspot.com/2023/09/synchronize-table-from-visual-studio.html",
+          "publishedOn": "2023-09-13T18:54:00.003Z",
+          "wordCount": 5602,
+          "title": "Synchronize the table from Visual studio Project",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjT2hsODOrsj5XPb3Uvt5qc6fl4xdPbtxWn5AtLa4Y4_2a8y672JxFLAG4dzbfM3zurlauxrPT-IrC9PwwIr7Mfr5bi3frkl70MgPTq2jFrK6QGJESV8MJxavrYjCzIq7ST8xHCx1CBNsC2lsw8aJWtAFRn7JK0Xe8XG5_hM5AUzuAUuOtyoRzFYNLNDcA/w1200-h630-p-k-no-nu/1.png"
+        }
+      ]
+    },
+    {
+      "title": "TomazTsql",
+      "feedUrl": "https://tomaztsql.wordpress.com/feed/",
+      "siteUrl": "https://tomaztsql.wordpress.com",
+      "articles": [
+        {
+          "id": "http://tomaztsql.wordpress.com/?p=9956",
+          "author": "tomaztsql",
+          "description": "In this Microsoft Fabric series: To wrap up the series, let’s check the material available online, for you to continue learning, exploring and enjoying Microsoft Fabric. The official website: https://www.microsoft.com/en-us/microsoft-fabricMicrosoft Learn: https://learn.microsoft.com/en-us/fabric/Training path: https://learn.microsoft.com/en-us/training/Github: https://github.com/MicrosoftDocs/fabric-docs/tree/mainFabric Community: https://community.fabric.microsoft.com/ Youtube channel –…\nRead more ›",
+          "link": "https://tomaztsql.wordpress.com/2023/12/25/advent-of-2023-day-25-learning-paths-materials-and-documentation-on-microsoft-fabric/",
+          "publishedOn": "2023-12-25T09:49:39.000Z",
+          "wordCount": 4007,
+          "title": "Advent of 2023, Day 25 – Learning paths, materials, and documentation on Microsoft Fabric",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
+          "id": "http://tomaztsql.wordpress.com/?p=9934",
+          "author": "tomaztsql",
+          "description": "In this Microsoft Fabric series: OneLake comes automatically with every Microsoft Fabric tenant and represents a single, logical data lake. Its main features are its unification and one copy of data across the organization and multiple analytical engines. OneLake is…\nRead more ›",
+          "link": "https://tomaztsql.wordpress.com/2023/12/24/advent-of-2023-day-24-onelake-in-fabric/",
+          "publishedOn": "2023-12-24T12:44:15.000Z",
+          "wordCount": 4387,
+          "title": "Advent of 2023, Day 24 – OneLake in Fabric",
+          "imageUrl": "https://tomaztsql.files.wordpress.com/2023/12/image-124.png"
+        },
+        {
+          "id": "http://tomaztsql.wordpress.com/?p=9897",
+          "author": "tomaztsql",
+          "description": "In this Microsoft Fabric series: Admin portal serves purpose for governing and setting the Microsoft Fabric, where you can make  tenant settings, also access the Microsoft 365 admin portal, and control how users interact with Microsoft Fabric. To access the…\nRead more ›",
+          "link": "https://tomaztsql.wordpress.com/2023/12/23/advent-of-2023-day-23-admin-portal-in-fabric/",
+          "publishedOn": "2023-12-23T14:27:55.000Z",
+          "wordCount": 5102,
+          "title": "Advent of 2023, Day 23 – Admin Portal in Fabric",
+          "imageUrl": "https://tomaztsql.files.wordpress.com/2023/12/image-122.png"
+        },
+        {
+          "id": "http://tomaztsql.wordpress.com/?p=9881",
+          "author": "tomaztsql",
+          "description": "In this Microsoft Fabric series: Apps are collections of dashboards and reports in one easy-to-find place. Go to Apps and click on “Get Apps”. Click the Microsoft Fabric Capacity Metrics tile, click on “get it” and later click on “install…\nRead more ›",
+          "link": "https://tomaztsql.wordpress.com/2023/12/22/advent-of-2023-day-22-apps-in-fabric/",
+          "publishedOn": "2023-12-22T18:19:04.000Z",
+          "wordCount": 4096,
+          "title": "Advent of 2023, Day 22 – Apps in Fabric",
+          "imageUrl": "https://tomaztsql.files.wordpress.com/2023/12/image-118.png"
+        },
+        {
+          "id": "http://tomaztsql.wordpress.com/?p=9850",
+          "author": "tomaztsql",
+          "description": "In this Microsoft Fabric series: Monitoring workspaces, executions and checking logs is so quintessential, that one should get familiarized with this in the first place. Monitoring Hub The easy way to check, view and track your activities and execution and…\nRead more ›",
+          "link": "https://tomaztsql.wordpress.com/2023/12/21/advent-of-2023-day-21-monitoring-workspaces-with-fabric/",
+          "publishedOn": "2023-12-21T21:35:50.000Z",
+          "wordCount": 4670,
+          "title": "Advent of 2023, Day 21 – Monitoring workspaces with Fabric",
+          "imageUrl": "https://tomaztsql.files.wordpress.com/2023/12/image-114.png"
+        },
+        {
+          "id": "http://tomaztsql.wordpress.com/?p=9823",
+          "author": "tomaztsql",
+          "description": "In this Microsoft Fabric series: Notebooks have been around for a long time and people, community, and professionals have proven the usability, practicality, versioning and reliability of notebooks. Not to mention the clarity and hygiene. But opinions are also divided.…\nRead more ›",
+          "link": "https://tomaztsql.wordpress.com/2023/12/20/advent-of-2023-day20-working-with-notebooks-in-fabric/",
+          "publishedOn": "2023-12-20T22:00:47.000Z",
+          "wordCount": 4785,
+          "title": "Advent of 2023, Day20 – Working with notebooks in Fabric",
+          "imageUrl": "https://tomaztsql.files.wordpress.com/2023/12/image-106.png"
+        },
+        {
+          "id": "http://tomaztsql.wordpress.com/?p=9806",
+          "author": "tomaztsql",
+          "description": "In this Microsoft Fabric series: In Fabric, you can create streaming semantic model and when selecting you will get the usual sources: Differences are explained here: Once we create a PubNub API and use the following key and channel name…\nRead more ›",
+          "link": "https://tomaztsql.wordpress.com/2023/12/19/advent-of-2023-day-19-event-streaming-with-fabric/",
+          "publishedOn": "2023-12-19T21:10:01.000Z",
+          "wordCount": 4130,
+          "title": "Advent of 2023, Day 19 – Event streaming with Fabric",
+          "imageUrl": "https://tomaztsql.files.wordpress.com/2023/12/image-101.png"
+        },
+        {
+          "id": "http://tomaztsql.wordpress.com/?p=9774",
+          "author": "tomaztsql",
+          "description": "In this Microsoft Fabric series: We have created a Power BI report directly from the datalake and today we will check how to do same with dashboard and paginated reports. Select new “Paginated report”. Select a data we want to…\nRead more ›",
+          "link": "https://tomaztsql.wordpress.com/2023/12/18/advent-of-2023-day-18-exploring-power-bi-in-microsoft-fabric/",
+          "publishedOn": "2023-12-18T18:56:09.000Z",
+          "wordCount": 4500,
+          "title": "Advent of 2023, Day 18 – Exploring Power BI in Microsoft Fabric",
+          "imageUrl": "https://tomaztsql.files.wordpress.com/2023/12/image-97.png"
+        },
+        {
+          "id": "http://tomaztsql.wordpress.com/?p=9757",
+          "author": "tomaztsql",
+          "description": "In this Microsoft Fabric series: Within the Power BI in Fabric, you will find many of the components, that can be used to create a final report. And here are the components: Let’s create a report online within the workspace.…\nRead more ›",
+          "link": "https://tomaztsql.wordpress.com/2023/12/17/advent-of-2023-day-17-exploring-power-bi-in-microsoft-fabric/",
+          "publishedOn": "2023-12-17T18:23:10.000Z",
+          "wordCount": 4300,
+          "title": "Advent of 2023, Day 17 – Exploring Power BI in Microsoft Fabric",
+          "imageUrl": "https://tomaztsql.files.wordpress.com/2023/12/image-87.png"
+        },
+        {
+          "id": "http://tomaztsql.wordpress.com/?p=9722",
+          "author": "tomaztsql",
+          "description": "In this Microsoft Fabric series: With the Fabric warehouse created and explored, let’s see, how we can use pipelines to get the data into Fabric warehouse. In the existing data warehouse, we will introduce new data. By clicking “new data”, two…\nRead more ›",
+          "link": "https://tomaztsql.wordpress.com/2023/12/16/advent-of-2023-day-16-creating-data-pipelines-for-fabric-data-warehouse/",
+          "publishedOn": "2023-12-16T16:38:46.000Z",
+          "wordCount": 4685,
+          "title": "Advent of 2023, Day 16 – Creating data pipelines for Fabric data warehouse",
+          "imageUrl": "https://tomaztsql.files.wordpress.com/2023/12/image-82.png"
+        }
+      ]
+    },
+    {
       "title": "Dynamics 365 Archives - Impulz Technologies LLC",
       "feedUrl": "https://impulztech.com/category/dynamics-365/feed/",
       "siteUrl": "https://impulztech.com/category/dynamics-365/",
@@ -345,6 +1043,26 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=102792",
+          "author": "DynaTech Systems",
+          "description": "The digital landscape is expanding at an unprecedented pace and organizations are constantly seeking ways to optimize their workflows and efficiency. Microsoft Power Automate is quite a dominant platform for …  Unlock the Future of Automation with Copilot and AI Builder in Microsoft Power Automate Read More »\nThe post Unlock the Future of Automation with Copilot and AI Builder in Microsoft Power Automate appeared first on ERP Software Blog.\nAutomate Repetitive Desktop Tasks with Power Automate Desktop\nA Power Platform Success Story: Western Computer Delivers New Automations and Insights\nUpgrade Your Business with the Intelligence of AI Builder and Microsoft Power Automate",
+          "link": "https://erpsoftwareblog.com/2023/12/unlock-the-future-of-automation-with-copilot-and-ai-builder-in-microsoft-power-automate/",
+          "publishedOn": "2023-12-27T10:44:30.000Z",
+          "wordCount": 7904,
+          "title": "Unlock the Future of Automation with Copilot and AI Builder in Microsoft Power Automate",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Blog-663-scaled.jpg"
+        },
+        {
+          "id": "https://www.erpsoftwareblog.com/?p=99391",
+          "author": "Dynamics Square UK",
+          "description": "Are you on the hunt for the perfect CRM software? Deciding that your business could use a CRM solution is just the first step. The real challenge lies in navigating …  HubSpot vs. Microsoft Dynamics 365 CRM (2024 Comparison) Read More »\nThe post HubSpot vs. Microsoft Dynamics 365 CRM (2024 Comparison) appeared first on ERP Software Blog.\nNo Fooling - 3 Dynamics GP Users For $1!\nBusiness Intelligence in Microsoft Dynamics GP 2010\nVideo: Ramada Hotel and Hampton Inn Use Microsoft Dynamics GP for their Back Office Financials",
+          "link": "https://erpsoftwareblog.com/2023/12/hubspot-vs-microsoft-dynamics-365-crm/",
+          "publishedOn": "2023-12-27T09:04:55.000Z",
+          "wordCount": 7970,
+          "title": "HubSpot vs. Microsoft Dynamics 365 CRM (2024 Comparison)",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=102777",
           "author": "x2x eCommerce",
@@ -2089,6 +2807,71 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/using-javascript-and-cloud-flows-to-download-files-from-a-sharepoint-document-library-in-power-pages",
+          "author": "michelcarlo",
+          "description": "Even though we can now use Virtual Tables to expose SharePoint lists in a Power Pages site, the same does not apply to SharePoint Document libraries. You can use the […]",
+          "link": "https://365community.online/using-javascript-and-cloud-flows-to-download-files-from-a-sharepoint-document-library-in-power-pages",
+          "publishedOn": "2023-12-27T17:59:54.000Z",
+          "wordCount": 3215,
+          "title": "Using JavaScript and Cloud Flows to download files from a SharePoint document library in Power Pages",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/PowerPagesSharePoint.png?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-understand-for-what-power-automate-can-be-used",
+          "author": "Ian Grieve",
+          "description": "This post is part of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do […]",
+          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-understand-for-what-power-automate-can-be-used",
+          "publishedOn": "2023-12-27T15:00:00.000Z",
+          "wordCount": 3101,
+          "title": "In Microsoft Dynamics 365 Business Central (Power Automate), how do I… Understand For What Power Automate can be Used",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/shaping-the-future-of-technology-stuart-baxters-pioneering-work-in-microsoft-dynamics-and-power-platform",
+          "author": "NZ365Guy",
+          "description": "FULL SHOW NOTES https://podcast.nz365guy.com/512 Ready to embark on a technological journey unlike any other? Sit down with us as we catch up with Stuart Baxter, a recognized MVP in Microsoft […]",
+          "link": "https://365community.online/shaping-the-future-of-technology-stuart-baxters-pioneering-work-in-microsoft-dynamics-and-power-platform",
+          "publishedOn": "2023-12-27T13:00:00.000Z",
+          "wordCount": 3112,
+          "title": "Shaping the Future of Technology: Stuart Baxter's Pioneering Work in Microsoft Dynamics and Power Platform",
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/1796418/14036749-shaping-the-future-of-technology-stuart-baxter-s-pioneering-work-in-microsoft-dynamics-and-power-platform.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-series-index",
+          "author": "Ian Grieve",
+          "description": "I have recently started working with Microsoft Dynamics 365 Business Central and have decided to blog about it as I learn; I’ve started a In Microsoft Dynamics 365 Business Central, […]",
+          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-series-index",
+          "publishedOn": "2023-12-27T11:00:29.000Z",
+          "wordCount": 3081,
+          "title": "In Microsoft Dynamics 365 Business Central (Power Automate), how do I… Series Index",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/dynamics-365-business-central-new-additions-in-excel-layouts-reporting",
+          "author": "Stefano Demiliani",
+          "description": "One of the reporting features I like the most in Dynamics 365 Business Central is the possibility to create Excel Layout reports. Excel Layout reports are essentially reports based on […]",
+          "link": "https://365community.online/dynamics-365-business-central-new-additions-in-excel-layouts-reporting",
+          "publishedOn": "2023-12-27T09:29:50.000Z",
+          "wordCount": 3061,
+          "title": "Dynamics 365 Business Central: new additions in Excel Layouts reporting.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Dynamics-365-Business-Central-new-additions-in-Excel-Layouts-reporting.png?fit=1198%2C356&ssl=1"
+        },
+        {
+          "id": "https://365community.online/get-working-days-and-holidays-of-the-crm-service-calendar-in-power-automate-flow",
+          "author": "Inogic",
+          "description": "With Microsoft providing us more flexibility with Power Automate (MS Flow), we can now retrieve working days and holiday details of the CRM Service Calendar directly within Power Automate flows. […]",
+          "link": "https://365community.online/get-working-days-and-holidays-of-the-crm-service-calendar-in-power-automate-flow",
+          "publishedOn": "2023-12-27T07:58:50.000Z",
+          "wordCount": 3345,
+          "title": "Get working days and holidays of the CRM Service calendar in Power Automate Flow",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1Power-Automate-Flow.jpeg?fit=946%2C628&ssl=1"
+        },
         {
           "id": "https://365community.online/the-webhook-call-failed-because-the-http-request-timed-out-at-client-side-please-check-your-webhook-request-handler-dataverse-dynamics-365",
           "author": "Nishant Rana",
@@ -6995,83 +7778,6 @@
           "wordCount": 3667,
           "title": "Dual write error – “Authentication failed with error Exception Message Failed to get token from AAD by certificate”",
           "imageUrl": "https://elearnd365.files.wordpress.com/2022/05/aad-auth.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Gatsby RSS Feed",
-      "feedUrl": "https://denistrunin.com/rss.xml",
-      "siteUrl": "https://denistrunin.com",
-      "articles": [
-        {
-          "id": "https://denistrunin.com/d365fo-buildrelease/",
-          "author": null,
-          "description": "Learn how to set up DevOps-hosted Build and Deploy pipelines for Dynamics 365 for Finance and Operations in this detailed guide",
-          "link": "https://denistrunin.com/d365fo-buildrelease/",
-          "publishedOn": "2023-09-08T22:12:03.000Z",
-          "wordCount": 921,
-          "title": "Step-by-Step Guide: Creating D365FO Build and Deploy Pipelines",
-          "imageUrl": "https://denistrunin.com/static/26b330b19634713b17db08c20bb0154b/39351/logo.png"
-        },
-        {
-          "id": "https://denistrunin.com/performance-d365batch/",
-          "author": null,
-          "description": "The blog post describes how D365FO batch framework handle errors and what kind of problems it may cause",
-          "link": "https://denistrunin.com/performance-d365batch/",
-          "publishedOn": "2023-05-25T22:12:03.000Z",
-          "wordCount": 1186,
-          "title": "Batch Job errors in D365FO: How they can ruin the performance and how to fix them",
-          "imageUrl": "https://denistrunin.com/static/3660de68a1c93370618a6689966f0672/0a613/logo.png"
-        },
-        {
-          "id": "https://denistrunin.com/performance-restoretier2/",
-          "author": null,
-          "description": "The blog post tests various options for. restoring BACPAC files on local SQL Server.",
-          "link": "https://denistrunin.com/performance-restoretier2/",
-          "publishedOn": "2023-02-01T22:12:03.000Z",
-          "wordCount": 1250,
-          "title": "Improve the speed for BACPAC database restore from Tier2 to Tier1",
-          "imageUrl": "https://denistrunin.com/static/653dbf3cbdb2dbc80c10f7b9ce323a10/1a02d/logo.png"
-        },
-        {
-          "id": "https://denistrunin.com/performanceD365-tierperf/",
-          "author": null,
-          "description": "The blog post describes performance differences between various environments Tiers in D365FO.",
-          "link": "https://denistrunin.com/performanceD365-tierperf/",
-          "publishedOn": "2022-11-03T22:12:03.000Z",
-          "wordCount": 1518,
-          "title": "Understanding Dynamics 365FO different Tiers performance",
-          "imageUrl": "https://denistrunin.com/static/11267db03d577bf68f4e9e635b3a25ef/c972b/logo.png"
-        },
-        {
-          "id": "https://denistrunin.com/upgradeD365-attachments/",
-          "author": null,
-          "description": "The blog post describes a procedure to transfer attachments from AX2012 to D365FO",
-          "link": "https://denistrunin.com/upgradeD365-attachments/",
-          "publishedOn": "2022-09-21T22:12:03.000Z",
-          "wordCount": 1068,
-          "title": "D365FO upgrade. Transfer attachments from AX2012",
-          "imageUrl": "https://denistrunin.com/static/6aaa310ed24d524c0439df7f41e13d00/37155/logo.png"
-        },
-        {
-          "id": "https://denistrunin.com/xpptools-integfilesharexmlpurch/",
-          "author": null,
-          "description": "The blog post describes a sample approach how to implement XML based integration by importing purchase orders from Azure File Share in D365FO using X++",
-          "link": "https://denistrunin.com/xpptools-integfilesharexmlpurch/",
-          "publishedOn": "2022-05-04T22:12:04.000Z",
-          "wordCount": 2147,
-          "title": "XppInteg - Import purchase orders from XML files into D365FO",
-          "imageUrl": "https://denistrunin.com/static/83b5ef603855164bd637f97af9c5ddda/66882/logo.png"
-        },
-        {
-          "id": "https://denistrunin.com/performance-monitormisind/",
-          "author": null,
-          "description": "The blog post describes a monitoring solution for SQL Server missing indexes.",
-          "link": "https://denistrunin.com/performance-monitormisind/",
-          "publishedOn": "2022-01-28T22:12:03.000Z",
-          "wordCount": 1095,
-          "title": "Dynamics AX performance monitoring: missing indexes",
-          "imageUrl": "https://denistrunin.com/static/ab8f0d0711f8124a7b03b51ac29f71fa/3965e/logo.png"
         }
       ]
     },
