@@ -13,6 +13,14 @@ sources:
   
   #https://www.dynamicsduoacademy.com/blog/
 
+  # X++
+  - href: https://kishoredynamics11.blogspot.com/feeds/posts/default
+  - href: https://denistrunin.com/rss.xml
+  - href: https://d365fotechexpert.blogspot.com/feeds/posts/default
+
+  #data
+  - href: https://tomaztsql.wordpress.com/feed/
+
   # Consulting
   - href: https://impulztech.com/category/dynamics-365/feed/
   - href: https://www.sikich.com/insights/feed/
@@ -102,12 +110,13 @@ sources:
   # - href: https://community.dynamics.com/365/financeandoperations/b/msd365-f-o-learning/rss
 
   - href: https://elearnd365.com/feed/
-  - href: https://denistrunin.com/rss.xml
+  
   - href: https://dynamics-tips.com/feed/
   - href: https://erconsult.eu/feed/
   - href: https://henrikmarxlarsen.wordpress.com/feed/
   - href: https://gfeaxblog.wordpress.com/feed/
   - href: https://axraja.blogspot.com/feeds/posts/default
+  
 
   # Power Apps
   - href: https://powerapps.microsoft.com/en-us/blog/feed/
