@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-12-27T20:31:04.956Z</updated>
+    <updated>2023-12-28T00:38:25.651Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
@@ -58,6 +58,16 @@ A Power Platform Success Story: Western Computer Delivers New Automations and In
 Upgrade Your Business with the Intelligence of AI Builder and Microsoft Power Automate]]></summary>
         <author>
             <name>DynaTech Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Introduction – YouTube]]></title>
+        <id>https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-introduction-youtube</id>
+        <link href="https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-introduction-youtube"/>
+        <updated>2023-12-27T09:48:35.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
         </author>
     </entry>
     <entry>
