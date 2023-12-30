@@ -3,8 +3,18 @@
     {
       "title": "All Posts - Dynamics 365 Finance & Operations | nuxulu.com",
       "feedUrl": "https://nuxulu.com/posts/index.xml",
-      "siteUrl": "https://nuxulu.com/posts/",
+      "siteUrl": "https://dynamics365.github.io/posts/",
       "articles": [
+        {
+          "id": "https://dynamics365.github.io/2023-07-04-microsoft-dynamics-365-commerce-component-overview/",
+          "author": "Max Nguyen",
+          "description": "Microsoft Dynamics 365 Commerce - Component Overview\n\">\n        \n    Microsoft Dynamics 365 Commerce - Component Overview",
+          "link": "https://dynamics365.github.io/2023-07-04-microsoft-dynamics-365-commerce-component-overview/",
+          "publishedOn": "2023-07-04T00:00:00.000Z",
+          "wordCount": 119,
+          "title": "Microsoft Dynamics 365 Commerce - Component Overview",
+          "imageUrl": "https://dynamics365.github.io/Icon/mstile-150x150.png"
+        },
         {
           "id": "https://nuxulu.com/2023-07-04-microsoft-dynamics-365-commerce-component-overview/",
           "author": "Max Nguyen",
@@ -16,6 +26,16 @@
           "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
         },
         {
+          "id": "https://dynamics365.github.io/2023-02-14-comparation-finops-business-central-copy/",
+          "author": "Max Nguyen",
+          "description": "Microsoft ecosystem supporting Dynamics 365 Finance\n\">\n        \n    Microsoft ecosystem supporting Dynamics 365 Finance",
+          "link": "https://dynamics365.github.io/2023-02-14-comparation-finops-business-central-copy/",
+          "publishedOn": "2023-02-14T00:00:00.000Z",
+          "wordCount": 120,
+          "title": "Microsoft ecosystem supporting Dynamics 365 Finance",
+          "imageUrl": "https://dynamics365.github.io/Icon/mstile-150x150.png"
+        },
+        {
           "id": "https://nuxulu.com/2023-02-14-comparation-finops-business-central-copy/",
           "author": "Max Nguyen",
           "description": "Microsoft ecosystem supporting Dynamics 365 Finance\n\">\n        \n    Microsoft ecosystem supporting Dynamics 365 Finance",
@@ -24,6 +44,56 @@
           "wordCount": 119,
           "title": "Microsoft ecosystem supporting Dynamics 365 Finance",
           "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://dynamics365.github.io/2023-02-05-mb-220/",
+          "author": "Max Nguyen",
+          "description": "Documentation https://learn.microsoft.com/en-us/dynamics365/marketing/overview\nBasic: Learn the fundamentals of Microsoft Dynamics 365 Marketing\nExam/Learning Path: https://docs.microsoft.com/certifications/exams/mb-220\nLearning Path\nModule\nWeek\n\n\n\n\nSet up Dynamics 365 Marketing and configure advanced settings\nSet up and manage Dynamics 365 Marketing\n1\n\n\n\nAdvanced configuration for Dynamics 365 Marketing\n2\n\n\n\nReview domain authentication, email best practices, and GDPR in Dynamics 365 Marketing\n3\n\n\nWork with core features in Dynamics 365 Marketing\nManage assets and content settings in Dynamics 365 Marketing\n4\n\n\n\nManage customers in Dynamics 365 Marketing\n4\n\n\n\nManage forms and pages in Dynamics 365 Marketing\n5\n\n\n\nManage emails, segments, and journeys in Dynamics 365 Marketing\n6\n\n\n\nManage content, event triggers, and journeys in real-time marketing with Dynamics 365 Marketing\n7\n\n\n\nManage subscription centers and double opt-in in Dynamics 365 Marketing\n8\n\n\n\nManage website visits, redirect URLs, and social postings in Dynamics 365 Marketing\n8\n\n\nManage events in Dynamics 365 Marketing\nCreate an on-site event in Dynamics 365 Marketing\n9\n\n\n\nCreate a webinar event in Dynamics 365 Marketing\n10\n\n\n\nPromote events, manage registration and check-ins, and review results in Dynamics 365 Marketing\n11\n\n\n\nAdvanced event management features in Dynamics 365 Marketing\n11\n\n\nAnalyze insights in Dynamics 365 Marketing\nEvaluate marketing initiatives with analytics in Dynamics 365 Marketing\n12\n\n\n\nAccess and interpret analytics with Dynamics 365 Marketing\n13\n\n\n\nReview the marketing calendar in Dynamics 365 Marketing\n13",
+          "link": "https://dynamics365.github.io/2023-02-05-mb-220/",
+          "publishedOn": "2023-02-05T00:00:00.000Z",
+          "wordCount": 306,
+          "title": "MB-220: Microsoft Dynamics 365 Marketing Functional Consultant",
+          "imageUrl": "https://dynamics365.github.io/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://dynamics365.github.io/2023-02-05-mb-300/",
+          "author": "Max Nguyen",
+          "description": "Exam/Learning Path: https://docs.microsoft.com/certifications/exams/mb-300\nLearning Path\nModule\nWeek\n\n\n\n\nGet started with Finance and Operations apps\nIntroduction to Microsoft Dynamics 365\n1\n\n\n\nNavigate Finance and Operations apps\n2\n\n\n\nGet started with Dynamics 365 Finance\n3\n\n\n\nGet started with Dynamics 365 Supply Chain Management\n4\n\n\n\nGet started with production control in Dynamics 365 Supply Chain Management\n5\n\n\n\nGet help and learn more about Finance and Operations apps\n6\n\n\nUse Lifecycle Services to design and plan an implementation of Finance and Operations apps\nGet started with Lifecycle Services for Finance and Operations apps\n7\n\n\n\nDesign and plan an implementation of Finance and Operations apps\n8\n\n\n\nTranslate Dynamics 365 apps and documentation with Dynamics 365 Translation Service\n9\n\n\nConfigure your organization in Finance and Operations apps\nPlan and configure the global address book in Finance and Operations apps\n10\n\n\n\nPlan and implement legal entities in Finance and Operations apps\n11\n\n\n\nPlan and implement security in Finance and Operations apps\n12\n\n\n\nSet up batch jobs in Finance and Operations apps\n13\n\n\n\nWork with workflows in Finance and Operations apps\n14\n\n\n\nDesign and build mobile apps for Finance and Operations apps\n15\n\n\n\nPersonalize Finance and Operations apps\n16\n\n\n\nImplement common integration features in Finance and Operations apps\n17\n\n\n\nFeature management in Finance and Operations apps\n18\n\n\nMigrate data and go live with Finance and Operations apps\nPrepare data for migration to Finance and Operations apps\n19\n\n\n\nWork with data management in Finance and Operations apps\n20\n\n\n\nPerform user acceptance testing in Finance and Operations apps\n21\n\n\n\nPrepare to go-live with Finance and Operations apps\n22\n\n\nConfigure and work with analytics and reporting in Finance and Operations apps\nWork with analytics and reporting in Finance and Operations apps\n23\n\n\n\nConfigure electronic reporting in Dynamics 365 Finance\n24",
+          "link": "https://dynamics365.github.io/2023-02-05-mb-300/",
+          "publishedOn": "2023-02-05T00:00:00.000Z",
+          "wordCount": 365,
+          "title": "MB-300 Microsoft Dynamics 365: Core Finance and Operations",
+          "imageUrl": "https://dynamics365.github.io/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://dynamics365.github.io/2023-02-05-mb-310/",
+          "author": "Max Nguyen",
+          "description": "MB-310: Microsoft Dynamics 365 Finance Functional Consultant\nExam/Learning Path: https://docs.microsoft.com/certifications/exams/mb-310\nLearning Path\nModule\nWeek\n\n\n\n\nConfigure and use the general ledger in Dynamics 365 Finance\nGet started with Dynamics 365 Finance\n1\n\n\n\nConfigure currencies in Dynamics 365 Finance\n2\n\n\n\nCreate fiscal calendars, years, and periods in Dynamics 365 Finance\n3\n\n\n\nConfigure chart of accounts in Dynamics 365 Finance\n4\n\n\n\nConfigure ledgers and journals in Dynamics 365 Finance\n5\n\n\n\nPerform general ledger daily procedures in Dynamics 365 Finance\n6\n\n\n\nIntercompany accounting in Dynamics 365 Finance\n7\n\n\n\nConfigure ledger allocations and accruals in Dynamics 365 Finance\n8\n\n\n\nConfigure and perform periodic processes in Dynamics 365 Finance\n9\n\n\nConfigure and use cash and b…",
+          "link": "https://dynamics365.github.io/2023-02-05-mb-310/",
+          "publishedOn": "2023-02-05T00:00:00.000Z",
+          "wordCount": 471,
+          "title": "MB-310: Microsoft Dynamics 365 Finance Functional Consultant",
+          "imageUrl": "https://dynamics365.github.io/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://dynamics365.github.io/2023-02-05-mb-500/",
+          "author": "Max Nguyen",
+          "description": "Exam/Learning Path: https://docs.microsoft.com/certifications/exams/mb-500\nLearning Path\nModule\nWeek\n\n\n\n\nIntroduction to developing with Finance and Operations apps\nExplore the ecosystem and main components of Finance and Operations apps\n1\n\n\n\nExplore the technical architecture of Finance and Operations apps\n2\n\n\n\nExplore design and deployment considerations for Finance and Operations apps\n3\n\n\n\nManage Finance and Operations apps implementations by using Lifecycle Services\n4\n\n\n\nWork with performance and monitoring tools in Finance and Operations apps\n5\n\n\n\nManage source code by using version control in Finance and Operations apps\n6\n\n\n\nExplore the test framework and tools in Finance and Operations apps\n7\n\n\n\nExplore reporting tools in Finance and Operations apps\n8\n\n\nBuild Finance and Operations …",
+          "link": "https://dynamics365.github.io/2023-02-05-mb-500/",
+          "publishedOn": "2023-02-05T00:00:00.000Z",
+          "wordCount": 465,
+          "title": "MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer",
+          "imageUrl": "https://dynamics365.github.io/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://dynamics365.github.io/2023-02-05-mb-700/",
+          "author": "Max Nguyen",
+          "description": "Exam/Learning Path: https://docs.microsoft.com/certifications/exams/mb-700\nLearning Path\nModule\nWeek\n\n\n\n\nArchitect solutions for Dynamics 365 and Microsoft Power Platform\nBecoming a solution architect for Dynamics 365 and Microsoft Power Platform\n1\n\n\n\nDiscover customer needs as a Solution Architect for Dynamics 365 and Microsoft Power Platform\n2\n\n\n\nPropose a solution as a Solution Architect for Microsoft Power Platform and Dynamics 365\n2\n\n\n\nWork with requirements as a solution architect for Microsoft Power Platform and Dynamics 365\n3\n\n\n\nPerform fit gap analysis\n3\n\n\nUse Lifecycle Services to design and plan an implementation of Finance and Operations apps\nGet started with Lifecycle Services for Finance and Operations apps\n4\n\n\n\nDesign and plan an implementation of Finance and Operations apps…",
+          "link": "https://dynamics365.github.io/2023-02-05-mb-700/",
+          "publishedOn": "2023-02-05T00:00:00.000Z",
+          "wordCount": 595,
+          "title": "MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect",
+          "imageUrl": "https://dynamics365.github.io/Icon/mstile-150x150.png"
         },
         {
           "id": "https://nuxulu.com/2023-02-05-mb-220/",
@@ -76,6 +146,16 @@
           "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
         },
         {
+          "id": "https://dynamics365.github.io/2023-02-02-vs-tips-finops/",
+          "author": "Max Nguyen",
+          "description": "Some configurations that you should make for Visual studio in newly deplopyed FinOps environments.\n1. Show line number\nOpen Visual studio as Administrator right.\nClick on the Dynamics 365 drop down menu on the toolbar and select Options.\nText editor -> X++\nShow line number\n\">\n        \n    Show line number\n    \n2. Best practice rules\nClick on the Dynamics 365 drop down menu on the toolbar and select Options.\nIn Dynamics 365, select Best Practices and select each of the following:\n\nMicrosoft.Dynamics.AX.Framework.BestPracticeFramework.UIRules\nMicrosoft.Dynamics.AX.Framework.CodeStyleRules\nMicrosoft.Dynamics.AX.Framework.DataAccessRules\nMicrosoft.Dynamics.AX.Framework.DataEntityRules\nMicrosoft.Dynamics.AX.Framework.DataMethodRules\nMicrosoft.Dynamics.AX.Framework.DepreciatedElementsRules\nMicrosoft.Dynamics.AX.Framework.MaintainabilityRules\nMicrosoft.Dynamics.AX.Framework.StaticCodeValidationRules\n3. Build\nIf you want to lower building time\nClick on the Dynamics 365 drop down menu on the toolbar and select Options.\nIn Dynamics 365, select Build and select Build Modules in Parallel\nBuild\n\">\n        \n    Build\n    \nMore information on this feature\n4. Projects\nClick on the Dynamics 365 drop down menu on the toolbar and select Options.\nIn Dynamics 365, select Build and select\n\nOrganize projects by element type\nSynchronize database on build for newly created project\nOrder labels in label file by their ID\nproject\n\">\n        \n    project\n    \n5. Customize toolbars\nRight click on Toolbars, choose Customize\ntoolbars-1\n\">\n        \n    toolbars-1\n    \nCreate a new toolbar named D365\ntoolbars-2\n\">\n        \n    toolbars-2\n    \n\n            \nLighthouse (image)\nSwitch to Commands tab, Choose D365 in Toolbar\ntoolbars-3\n\">\n        \n    toolbars-3\n    \nChoose Add Command -> Extensions -> Add commands that you want\ntoolbars-4\n\">\n        \n    toolbars-4\n    \nHere are my favorites\ntoolbars-5\n\">\n        \n    toolbars-5\n    \nNow you can access them directly from toolbars, it will save you some clicks.\ntoolbars-6\n\">\n        \n    toolbars-6",
+          "link": "https://dynamics365.github.io/2023-02-02-vs-tips-finops/",
+          "publishedOn": "2023-02-02T00:00:00.000Z",
+          "wordCount": 349,
+          "title": "Visual Studio Tips for Dynamics 365 Finance Operations",
+          "imageUrl": "https://dynamics365.github.io/Icon/mstile-150x150.png"
+        },
+        {
           "id": "https://nuxulu.com/2023-02-02-vs-tips-finops/",
           "author": "Max Nguyen",
           "description": "Some configurations that you should make for Visual studio in newly deplopyed FinOps environments.\n1. Show line number\nOpen Visual studio as Administrator right.\nClick on the Dynamics 365 drop down menu on the toolbar and select Options.\nText editor -> X++\nShow line number\n\">\n        \n    Show line number\n    \n2. Best practice rules\nClick on the Dynamics 365 drop down menu on the toolbar and select Options.\nIn Dynamics 365, select Best Practices and select each of the following:\n\nMicrosoft.Dynamics.AX.Framework.BestPracticeFramework.UIRules\nMicrosoft.Dynamics.AX.Framework.CodeStyleRules\nMicrosoft.Dynamics.AX.Framework.DataAccessRules\nMicrosoft.Dynamics.AX.Framework.DataEntityRules\nMicrosoft.Dynamics.AX.Framework.DataMethodRules\nMicrosoft.Dynamics.AX.Framework.DepreciatedElementsRules\nMicrosoft.Dynamics.AX.Framework.MaintainabilityRules\nMicrosoft.Dynamics.AX.Framework.StaticCodeValidationRules\n3. Build\nIf you want to lower building time\nClick on the Dynamics 365 drop down menu on the toolbar and select Options.\nIn Dynamics 365, select Build and select Build Modules in Parallel\nBuild\n\">\n        \n    Build\n    \nMore information on this feature\n4. Projects\nClick on the Dynamics 365 drop down menu on the toolbar and select Options.\nIn Dynamics 365, select Build and select\n\nOrganize projects by element type\nSynchronize database on build for newly created project\nOrder labels in label file by their ID\nproject\n\">\n        \n    project\n    \n5. Customize toolbars\nRight click on Toolbars, choose Customize\ntoolbars-1\n\">\n        \n    toolbars-1\n    \nCreate a new toolbar named D365\ntoolbars-2\n\">\n        \n    toolbars-2\n    \n\n            \nLighthouse (image)\nSwitch to Commands tab, Choose D365 in Toolbar\ntoolbars-3\n\">\n        \n    toolbars-3\n    \nChoose Add Command -> Extensions -> Add commands that you want\ntoolbars-4\n\">\n        \n    toolbars-4\n    \nHere are my favorites\ntoolbars-5\n\">\n        \n    toolbars-5\n    \nNow you can access them directly from toolbars, it will save you some clicks.\ntoolbars-6\n\">\n        \n    toolbars-6",
@@ -84,6 +164,16 @@
           "wordCount": 338,
           "title": "Visual Studio Tips for Dynamics 365 Finance Operations",
           "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://dynamics365.github.io/2023-01-26-comparation-finops-business-central/",
+          "author": "Max Nguyen",
+          "description": "The basic comparation that helps you choose which solution is optimized for your company.\nDynamics 365 Finance Operations\nDynamics 365 Business Central\n\n\n\n\nDynamics 365 Finance Operations applications that are specifically designed to connect individuals, procedures, information, and insights across various business areas such as finance, project management, human resources, supply chain, and commerce. It allows for flexible deployment options and the ability to adapt to new business priorities as needed.\nA all-in-one business management tool that assists small and medium-sized businesses in integrating their financial, sales, service, and operations teams through a single user-friendly application that can be implemented quickly. It is distributed, maintained, and expanded by specialized partner channels.\n\n\nMid-market to large enterprises with 50 – 1000+ users\nSmall to medium-sized businesses (SMBs) with 3 to 250+ users\n\n\nOrganizations with in-house IT resources to support go-live and maintenance\nBusinesses who need fast deployment and have limited IT resources to support\n\n\n\n\n\n\nHeavily invested in Dynamics AX and looking to move to the cloud\nHeavily invested in Dynamics NAV, GP, or SL and ready to move to the cloud\n\n\nDeep industry and vertical capabilities within applications\nOver 2000+ industry and horizontal apps on AppSource optimized for SMBs\n\n\nIndividually deployable solutions for sales, service, customer insights, finance, projects, HR, supply chain, commerce, and more\nSingle solution that supports finance, sales, service, projects, supply chain, warehousing, manufacturing, and more\n\n\nCentralized operating models, with a single deployment spanning multiple companies, entities, and/or countries\nDecentralized operating model, with separate deployments for each company, entity, and or country\n\n\n\nThere is also an ability to use a hub and spoke model is provided, where Dynamics 365 Finance & Supply Chain is deployed in the main office and Business Central in subsidiary locations.",
+          "link": "https://dynamics365.github.io/2023-01-26-comparation-finops-business-central/",
+          "publishedOn": "2023-01-26T00:00:00.000Z",
+          "wordCount": 460,
+          "title": "A comparison between Dynamics 365 Finance & Supply Chain Management and Dynamics 365 Business Central in terms of features, capabilities and suitability for different types of businesses",
+          "imageUrl": "https://dynamics365.github.io/Icon/mstile-150x150.png"
         },
         {
           "id": "https://nuxulu.com/2023-01-26-comparation-finops-business-central/",
@@ -96,6 +186,16 @@
           "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
         },
         {
+          "id": "https://dynamics365.github.io/2023-01-20-microsoft-dynamics-365-ecosystem-map/",
+          "author": "Vadim",
+          "description": "ERP SOLUTIONS\n\">\n        \n    ERP SOLUTIONS\n    \nERP SOLUTIONS SERVICES\n\">\n        \n    ERP SOLUTIONS SERVICES\n    \nCRM-SOLUTIONS\n\">\n        \n    CRM-SOLUTIONS\n    \nAI-SOLUTIONS\n\">\n        \n    AI-SOLUTIONS\n    \nCOLLABORATION-SOLUTIONS\n\">\n        \n    COLLABORATION-SOLUTIONS\n    \nPOWER PLATFORM.png\n\">\n        \n    POWER PLATFORM",
+          "link": "https://dynamics365.github.io/2023-01-20-microsoft-dynamics-365-ecosystem-map/",
+          "publishedOn": "2023-01-20T00:00:00.000Z",
+          "wordCount": 124,
+          "title": "Microsoft Dynamics 365 Ecosystem map",
+          "imageUrl": "https://dynamics365.github.io/Icon/mstile-150x150.png"
+        },
+        {
           "id": "https://nuxulu.com/2023-01-20-microsoft-dynamics-365-ecosystem-map/",
           "author": "Vadim",
           "description": "ERP SOLUTIONS\n\">\n        \n    ERP SOLUTIONS\n    \nERP SOLUTIONS SERVICES\n\">\n        \n    ERP SOLUTIONS SERVICES\n    \nCRM-SOLUTIONS\n\">\n        \n    CRM-SOLUTIONS\n    \nAI-SOLUTIONS\n\">\n        \n    AI-SOLUTIONS\n    \nCOLLABORATION-SOLUTIONS\n\">\n        \n    COLLABORATION-SOLUTIONS\n    \nPOWER PLATFORM.png\n\">\n        \n    POWER PLATFORM",
@@ -104,6 +204,36 @@
           "wordCount": 123,
           "title": "Microsoft Dynamics 365 Ecosystem map",
           "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://dynamics365.github.io/2023-01-01-advanced-query-syntax/",
+          "author": "Max Nguyen",
+          "description": "https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/fin-ops/get-started/advanced-filtering-query-options\nAdvanced query syntax\nSyntax\nCharacter description\nDescription\nExample\n\n\n\n\nvalue\nEqual to the value that is entered\nType the value to find.\nSmith finds \"Smith\".\n\n\n!value (exclamation point)\nNot equal to the value that is entered\nType an exclamation point and then the value to exclude.\n!Smith finds all values except \"Smith\".\n\n\nfrom-value..to-value (double period)\nBetween the two values that are separated by double periods\nType the from-value, then two periods, and then the to-value.\n1..10 finds all values from 1 through 10. However, in a string field, A..C finds all values that start with \"A\" and \"B\", and values that are exactly equal to \"C\". For example, this query won't find \"Ca…",
+          "link": "https://dynamics365.github.io/2023-01-01-advanced-query-syntax/",
+          "publishedOn": "2023-01-01T00:00:00.000Z",
+          "wordCount": 892,
+          "title": "Advanced filtering and query syntax",
+          "imageUrl": "https://dynamics365.github.io/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://dynamics365.github.io/2023-01-01-filtering/",
+          "author": "Max Nguyen",
+          "description": "https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/user-interface/filtering\n1. Introduction\n2. Filter expressions\n\n2.1. Other frequent filter expressions\n3. Filter Pane\n\n3.1. When is the Filter Pane available?\n3.2. What data does the Filter Pane work on?\n3.3. What fields are initially shown in the Filter Pane?\n3.4. Can I control the default fields that appear in the Filter Pane?\n3.5. I don’t want users to be able to filter on a specific field or modify an existing filter. How do I accomplish this?\n3.6. Can I control the fields that appear in the Add a filter field list in the Filter Pane?\n3.7. How is the Filter Pane used?\n4. QuickFilter\n\n4.1. Why don’t I have a column selector in my QuickFilter?\n4.2. Can I use the QuickFilter to filter other collection controls (such as t…",
+          "link": "https://dynamics365.github.io/2023-01-01-filtering/",
+          "publishedOn": "2023-01-01T00:00:00.000Z",
+          "wordCount": 2086,
+          "title": "Filtering options Dynamics 365 Finance Operations",
+          "imageUrl": "https://dynamics365.github.io/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://dynamics365.github.io/2023-01-01-metadata-search-in-visual-studio/",
+          "author": "Max Nguyen",
+          "description": "Metadata search in Visual Studio\nThis article describes how to use metadata search to search your code and metadata for arbitrary patterns and content.\nGiven the large volume of the code base and metadata, it is often necessary to find things in the code that meet a certain criteria. For example, you might not know the name of the metadata element that contains the pattern or meets the criteria. Metadata search is exposed in Visual Studio through two user interfaces: the Metadata Search tool window and the Navigate To window.\nMetadata search tool window\nYou can access the Metadata search tool window from the Dynamics 365 > Metadata Search menu command. Enter your search query to start the search. Results will start populating in the window asynchronously as you type. You can double-click a…",
+          "link": "https://dynamics365.github.io/2023-01-01-metadata-search-in-visual-studio/",
+          "publishedOn": "2023-01-01T00:00:00.000Z",
+          "wordCount": 850,
+          "title": "Metadata search in Visual Studio",
+          "imageUrl": "https://dynamics365.github.io/Icon/mstile-150x150.png"
         },
         {
           "id": "https://nuxulu.com/2023-01-01-advanced-query-syntax/",
@@ -136,6 +266,16 @@
           "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
         },
         {
+          "id": "https://dynamics365.github.io/2022-11-13-extend-on-hand-entities-fin-ops/",
+          "author": "Max Nguyen",
+          "description": "There are some entities that you can use to get the on-hand inventory from Dynamics 365 Finance Operations:\n\n\n\n\n1\n2\n3\n4\n5\n6\n\n\n\nInventorySiteOnHandEntity\nInventorySiteOnHandV2Entity\nInventWarehouseInventoryStatusOnHandEntity\nInventWarehouseInventoryStatusOnHandV2Entity\nInventWarehouseOnHandEntity\nInventWarehouseOnHandV2Entity\n\n\n\n\n\nYou can extend the ententies by adding new fields to tables and entities.\nAfter you add fields to tables that are used by the inventSiteOnHandView view, you must sync the engine so that the extensions are correctly recognized.\nExtend the InventSiteOnHandView view by adding the extension field.\nExtend the InventSiteOnHandAggregatedView view with the extension fields.\nExtend the InventSiteOnHandAggregatedViewBuilder viewBuilder class by modifying the getExtensionFields() method. In this way, you map old view fields to new view fields when viewBuilder synchronization is run.\nFor example, you’ve added the following four fields to the InventTable table through extension:\nCustom field 1\nCustom field 2\nCustom field 3\nCustom field 4\nIn the case, you must modify the getExtensionFields() method in the following way.",
+          "link": "https://dynamics365.github.io/2022-11-13-extend-on-hand-entities-fin-ops/",
+          "publishedOn": "2022-11-13T00:00:00.000Z",
+          "wordCount": 253,
+          "title": "Extend on-hand inventory entities FinOps",
+          "imageUrl": "https://dynamics365.github.io/Icon/mstile-150x150.png"
+        },
+        {
           "id": "https://nuxulu.com/2022-11-13-extend-on-hand-entities-fin-ops/",
           "author": "Max Nguyen",
           "description": "There are some entities that you can use to get the on-hand inventory from Dynamics 365 Finance Operations:\n\n\n\n\n1\n2\n3\n4\n5\n6\n\n\n\nInventorySiteOnHandEntity\nInventorySiteOnHandV2Entity\nInventWarehouseInventoryStatusOnHandEntity\nInventWarehouseInventoryStatusOnHandV2Entity\nInventWarehouseOnHandEntity\nInventWarehouseOnHandV2Entity\n\n\n\n\n\nYou can extend the ententies by adding new fields to tables and entities.\nAfter you add fields to tables that are used by the inventSiteOnHandView view, you must sync the engine so that the extensions are correctly recognized.\nExtend the InventSiteOnHandView view by adding the extension field.\nExtend the InventSiteOnHandAggregatedView view with the extension fields.\nExtend the InventSiteOnHandAggregatedViewBuilder viewBuilder class by modifying the getExtensionFields() method. In this way, you map old view fields to new view fields when viewBuilder synchronization is run.\nFor example, you’ve added the following four fields to the InventTable table through extension:\nCustom field 1\nCustom field 2\nCustom field 3\nCustom field 4\nIn the case, you must modify the getExtensionFields() method in the following way.",
@@ -144,6 +284,16 @@
           "wordCount": 252,
           "title": "Extend on-hand inventory entities FinOps",
           "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://dynamics365.github.io/2022-11-09-reservation-and-on-hand-inventory-in-warehouse-management/",
+          "author": "Max Nguyen",
+          "description": "1. Inventory reservation hierarchy in Warehouse management\nThe reservation functionality can be used only for items that are enabled for warehouse management processes. However, if an item is itself enabled for warehouse management processes, it can be used both in warehouses that are enabled for warehouse management processes and warehouses that are not. The behavior in reservation scenarios is different, depending on the warehouse setup.\nThe functionality is built on reservation hierarchies and is intended to support the following:\nFlexible warehouse operations.\nPostponement of reservation details.\nClear separation of which inventory dimensions can be specified, and when they can be specified.\n1.1 Reservation hierarchies\nA typical reservation hierarchy for an item that uses the Site, War…",
+          "link": "https://dynamics365.github.io/2022-11-09-reservation-and-on-hand-inventory-in-warehouse-management/",
+          "publishedOn": "2022-11-09T00:00:00.000Z",
+          "wordCount": 2409,
+          "title": "Reservation and on-hand inventory in warehouse management",
+          "imageUrl": "https://dynamics365.github.io/2022-11-09-reservation-and-on-hand-inventory-in-warehouse-management/2022-11-15_14h27_10.png"
         },
         {
           "id": "https://nuxulu.com/2022-11-09-reservation-and-on-hand-inventory-in-warehouse-management/",
@@ -156,6 +306,16 @@
           "imageUrl": "https://nuxulu.com/2022-11-15_14h27_10.png"
         },
         {
+          "id": "https://dynamics365.github.io/2022-10-27-how-to-get-d365-azure-blob-storage-str/",
+          "author": "Max Nguyen",
+          "description": "In Dynamics 365 for Finance and Operations Azure storage is used to\nStore files for Attachments\nData import and export jobs\nWhen FinOps prints a report via Document Reporting Services, SSRS Reporting Services generates an EMF image for each page of the generated document. FinOps then temporarily saves the generated EMF files to Azure Blob storage.\nPrinting archive\nAnd more!\nIf you are using tier 1 Cloud-Hosted environment, you can find the azure storage from the Azure resource group in Azure portal.\nFor tier 1, UAT tier 2, and PROD Tier 3, you can create a runnable class and execute to get the Azure storage connection string.\n\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n\n\n\nusing Microsoft.Dynamics.Clx.ServicesWrapper;\nclass GetAzureBlob\n{\n    public static void main(Args _args)\n    {\n        info('AzureStorageConnectionString = ' + CloudInfrastructure::GetCsuStorageConnectionString());\n        info('ClientCertificateThumbprint = ' + CloudInfrastructure::GetCsuClientCertificateThumbprint());\n    }\n}\n\n\n\n\n\nOnce you have the connection string, you can connect it to MS Azure Storage Explorer, Power Automate, or consuming in any framwork/language for integration/backup purposes.",
+          "link": "https://dynamics365.github.io/2022-10-27-how-to-get-d365-azure-blob-storage-str/",
+          "publishedOn": "2022-10-27T00:00:00.000Z",
+          "wordCount": 293,
+          "title": "How to get FinOps Azure storage blob connection string",
+          "imageUrl": "https://dynamics365.github.io/Icon/mstile-150x150.png"
+        },
+        {
           "id": "https://nuxulu.com/2022-10-27-how-to-get-d365-azure-blob-storage-str/",
           "author": "Max Nguyen",
           "description": "In Dynamics 365 for Finance and Operations Azure storage is used to\nStore files for Attachments\nData import and export jobs\nWhen FinOps prints a report via Document Reporting Services, SSRS Reporting Services generates an EMF image for each page of the generated document. FinOps then temporarily saves the generated EMF files to Azure Blob storage.\nPrinting archive\nAnd more!\nIf you are using tier 1 Cloud-Hosted environment, you can find the azure storage from the Azure resource group in Azure portal.\nFor tier 1, UAT tier 2, and PROD Tier 3, you can create a runnable class and execute to get the Azure storage connection string.\n\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n\n\n\nusing Microsoft.Dynamics.Clx.ServicesWrapper;\nclass GetAzureBlob\n{\n    public static void main(Args _args)\n    {\n        info('AzureStorageConnectionString = ' + CloudInfrastructure::GetCsuStorageConnectionString());\n        info('ClientCertificateThumbprint = ' + CloudInfrastructure::GetCsuClientCertificateThumbprint());\n    }\n}\n\n\n\n\n\nOnce you have the connection string, you can connect it to MS Azure Storage Explorer, Power Automate, or consuming in any framwork/language for integration/backup purposes.",
@@ -164,6 +324,16 @@
           "wordCount": 292,
           "title": "How to get FinOps Azure storage blob connection string",
           "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://dynamics365.github.io/2022-10-20-how-to-remove-ssrs-reports-in-d365/",
+          "author": "Max Nguyen",
+          "description": "There are 2 ways that you can delete SSRS reports in FinOps cloud-Hosted\n1. Using Report server configuiration manager web portal\nOpen Report server configuiration manager from your VM FinOps Cloud-Hosted and active the Web Portal\nImage\n\">\n        \n    2022-10-20-how-to-remove-ssrs-reports-in-d365-1\n    \nYou can delete any report from [Servername]/Reports/browse/Dynamics\nImage\n\">\n        \n    2022-10-20-how-to-remove-ssrs-reports-in-d365-3\n    \n2. Using Powershell script\nGo to RemoveAllReportsFromSsrs.ps1 under K:\\AosService\\PackagesLocalDirectory\\Plugins\\AxReportVmRoleStartupTask\nRun the script to remove all SSRS report.\nIf you want to remove a specific report, you can manipulate the $ReportName\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n\n\n\n################################################################################\n# This script is used to manually remove reports to SSRS server\n################################################################################\nparam\n(\n    [Parameter(Mandatory=$false)]\n    [string]$LogFilePath,\n    [Alias(\"ReportServerFqdn\", \"ReportServerName\")]\n    [Parameter(Mandatory=$false)]\n    [string[]]$ReportServerIp = \"127.0.0.1\",\n    [Parameter(Mandatory=$false)]\n\t[string[]]$ReportName = \"[report-name].[design-name]\",\n    [Parameter(Mandatory=$false)]\n\t[switch]$UseHttps = $false,\n    [Parameter(Mandatory=$false)]\n\t[int]$HttpsPort = 443,\n    [Parameter(Mandatory=$false)]\n    [switch]$Help = $false\n)\n\n\n\n\n\nCheck this article for deploy report using PS script.",
+          "link": "https://dynamics365.github.io/2022-10-20-how-to-remove-ssrs-reports-in-d365/",
+          "publishedOn": "2022-10-20T00:00:00.000Z",
+          "wordCount": 276,
+          "title": "How to remove SSRS reports in FinOps Cloud-Hosted",
+          "imageUrl": "https://dynamics365.github.io/Icon/mstile-150x150.png"
         },
         {
           "id": "https://nuxulu.com/2022-10-20-how-to-remove-ssrs-reports-in-d365/",
@@ -176,6 +346,16 @@
           "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
         },
         {
+          "id": "https://dynamics365.github.io/2022-09-28-remove-person-from-users/",
+          "author": "Max Nguyen",
+          "description": "Whenever you add a new person to an user in the user SysUserInfoPage form, the person field grays out.\nImage\n\">\n        \n    userinfo\n    \nTo remove the person from that user:\nIn the user form System administration > Users > Users, go to Maintain versions.\nDelete the person.",
+          "link": "https://dynamics365.github.io/2022-09-28-remove-person-from-users/",
+          "publishedOn": "2022-09-28T00:00:00.000Z",
+          "wordCount": 187,
+          "title": "Remove a person from an user Dynamics 365 Finance Operations",
+          "imageUrl": "https://dynamics365.github.io/Icon/mstile-150x150.png"
+        },
+        {
           "id": "https://nuxulu.com/2022-09-28-remove-person-from-users/",
           "author": "Max Nguyen",
           "description": "Whenever you add a new person to an user in the user SysUserInfoPage form, the person field grays out.\nImage\n\">\n        \n    userinfo\n    \nTo remove the person from that user:\nIn the user form System administration > Users > Users, go to Maintain versions.\nDelete the person.",
@@ -184,6 +364,16 @@
           "wordCount": 186,
           "title": "Remove a person from an user Dynamics 365 Finance Operations",
           "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
+        },
+        {
+          "id": "https://dynamics365.github.io/2022-09-23-add-custom-fields-to-composite-entity/",
+          "author": "Max Nguyen",
+          "description": "Let’s take a composite entity SalesOrderV3Entity as an example.\nScenario\nI will need to add new fields to Sales order header that can be used in the composite entity SalesOrderV3Entity.\nthe composite entity SalesOrderV3Entity uses a standard data entity SalesOrderHeaderV2Entity for sales order header; so, we need to extend SalesOrderHeaderV2Entity.\nThe Steps\nAdd new fields to Main table SalesTable\nAdd new fields to the entity SalesOrderHeaderV2Entity\nAdd new fields to the staging table SalesOrderHeaderV2Staging\nBuild and sync.\nGo to Workspaces -> Data Management -> Framework parameters -> Advanced entity configuration settings -> Refresh entity list.\nYou can automate the Refresh entity list task here\nGo to Workspaces -> Data Management -> Data Entities, find SALES ORDER HEADERS V2 and Generate mapping for it.\nThe new custom fields will be generated for the entity mapping.",
+          "link": "https://dynamics365.github.io/2022-09-23-add-custom-fields-to-composite-entity/",
+          "publishedOn": "2022-09-23T00:00:00.000Z",
+          "wordCount": 274,
+          "title": "Add new fields to data entity or composite entity Dynamics 365",
+          "imageUrl": "https://dynamics365.github.io/Icon/mstile-150x150.png"
         },
         {
           "id": "https://nuxulu.com/2022-09-23-add-custom-fields-to-composite-entity/",
@@ -196,6 +386,16 @@
           "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
         },
         {
+          "id": "https://dynamics365.github.io/2022-09-18-admin-provisioning-tools/",
+          "author": "Max Nguyen",
+          "description": "After restoring database backup, you want to be able to login to Dynamics 365 Finance Operations with different ternant, you need to use the admin provisioning tool to assign a new tenant.\nBefore 10.0.23 verison\nThe admin provisioning tool can be found at\nVHD: C:\\AOSService\\PackagesLocalDirectory\\bin\\AdminUserProvisioning.exe\nCloud- hosted: K:\\AOSService\\PackagesLocalDirectory\\bin\\AdminUserProvisioning.exe\nAfter running Provisioning.exe wtih admin right, you will see the update for the admin user in SQL.\nImage\n\">\n        \n    userinfo\n    \nSome errors you might face:\nFailure\n        \nCan not stop the DynamicsAXBatch service on computer\nFailure\n        \nExecution Timeout Expired. The timeout period elapsed prior to completion of the operation or the server is not responding.\nFailure\n       …",
+          "link": "https://dynamics365.github.io/2022-09-18-admin-provisioning-tools/",
+          "publishedOn": "2022-09-18T00:00:00.000Z",
+          "wordCount": 555,
+          "title": "Admin provisioning tools in Dynamics 365 Finance Operations",
+          "imageUrl": "https://dynamics365.github.io/Icon/mstile-150x150.png"
+        },
+        {
           "id": "https://nuxulu.com/2022-09-18-admin-provisioning-tools/",
           "author": "Max Nguyen",
           "description": "After restoring database backup, you want to be able to login to Dynamics 365 Finance Operations with different ternant, you need to use the admin provisioning tool to assign a new tenant.\nBefore 10.0.23 verison\nThe admin provisioning tool can be found at\nVHD: C:\\AOSService\\PackagesLocalDirectory\\bin\\AdminUserProvisioning.exe\nCloud- hosted: K:\\AOSService\\PackagesLocalDirectory\\bin\\AdminUserProvisioning.exe\nAfter running Provisioning.exe wtih admin right, you will see the update for the admin user in SQL.\nImage\n\">\n        \n    userinfo\n    \nSome errors you might face:\nFailure\n        \nCan not stop the DynamicsAXBatch service on computer\nFailure\n        \nExecution Timeout Expired. The timeout period elapsed prior to completion of the operation or the server is not responding.\nFailure\n       …",
@@ -206,6 +406,16 @@
           "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
         },
         {
+          "id": "https://dynamics365.github.io/2022-06-20-unable-to-trace-error/",
+          "author": "Max Nguyen",
+          "description": "The error pops when you start the trace: Unable to start trace, the required event providers were not found. Contact your system administrator.\nImage\n\">\n        \n    trace-error\n    \nCause: Some how you dont have Dynamics in event viewer\nImage\n\">\n        \n    no-dynamics\n    \nResolution: execute the script below under C:\\Temp in powershell\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n\n\n\n$AOSSetupETWManifestDir = \"K:\\AosService\\WebRoot\\Monitoring\"\nforeach ($manifestFile in Get-ChildItem -Path $AOSSetupETWManifestDir\\*.man | select-object -Property BaseName,Name)\n{\n    $dllFile=\"\"\n    if ((Test-Path \"$AOSSetupETWManifestDir\\$($manifestFile.BaseName).Instrumentation.dll\"))\n    {\n        $dllFile = \"$AOSSetupETWManifestDir\\$($manifestFile.BaseName).Instrumentation.dll\"\n    }\n    elseif ((Test-Path \"$AOSSetupETWManifestDir\\$($manifestFile.BaseName)Resource.dll\"))\n    {\n        $dllFile = \"$AOSSetupETWManifestDir\\$($manifestFile.BaseName)Resource.dll\"\n    }\n    elseif ((Test-Path \"$AOSSetupETWManifestDir\\$($manifestFile.BaseName).dll\"))\n    {\n        $dllFile = \"$AOSSetupETWManifestDir\\$($manifestFile.BaseName).dll\"\n    }\n    else \n    {\n        Write-Host \"Warn : Skipping $AOSSetupETWManifestDir\\$($manifestFile.Name) as DLL not found\"\n        Continue    \n    }\n \n    Write-Host \"Installing $AOSSetupETWManifestDir\\$($manifestFile.Name) using $dllFile\"\n    wevtutil.exe im \"$AOSSetupETWManifestDir\\$($manifestFile.Name)\" /rf:\"$dllFile\" /mf:\"$dllFile\"\n    Write-Host \"Finished installing $AOSSetupETWManifestDir\\$($manifestFile.Name) `n`n\"\n}\n\n\n\n\n\nThen restart the VM by LCS or Azure portal, you will get the Dynamics back in the event viewer and able to start the trace normally.\nImage\n\">\n        \n    dynamics-event",
+          "link": "https://dynamics365.github.io/2022-06-20-unable-to-trace-error/",
+          "publishedOn": "2022-06-20T00:00:00.000Z",
+          "wordCount": 318,
+          "title": "Unable to start trace, the required event providers were not found. Contact your system administrator",
+          "imageUrl": "https://dynamics365.github.io/Icon/mstile-150x150.png"
+        },
+        {
           "id": "https://nuxulu.com/2022-06-20-unable-to-trace-error/",
           "author": "Max Nguyen",
           "description": "The error pops when you start the trace: Unable to start trace, the required event providers were not found. Contact your system administrator.\nImage\n\">\n        \n    trace-error\n    \nCause: Some how you dont have Dynamics in event viewer\nImage\n\">\n        \n    no-dynamics\n    \nResolution: execute the script below under C:\\Temp in powershell\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n\n\n\n$AOSSetupETWManifestDir = \"K:\\AosService\\WebRoot\\Monitoring\"\nforeach ($manifestFile in Get-ChildItem -Path $AOSSetupETWManifestDir\\*.man | select-object -Property BaseName,Name)\n{\n    $dllFile=\"\"\n    if ((Test-Path \"$AOSSetupETWManifestDir\\$($manifestFile.BaseName).Instrumentation.dll\"))\n    {\n        $dllFile = \"$AOSSetupETWManifestDir\\$($manifestFile.BaseName).Instrumentation.dll\"\n    }\n    elseif ((Test-Path \"$AOSSetupETWManifestDir\\$($manifestFile.BaseName)Resource.dll\"))\n    {\n        $dllFile = \"$AOSSetupETWManifestDir\\$($manifestFile.BaseName)Resource.dll\"\n    }\n    elseif ((Test-Path \"$AOSSetupETWManifestDir\\$($manifestFile.BaseName).dll\"))\n    {\n        $dllFile = \"$AOSSetupETWManifestDir\\$($manifestFile.BaseName).dll\"\n    }\n    else \n    {\n        Write-Host \"Warn : Skipping $AOSSetupETWManifestDir\\$($manifestFile.Name) as DLL not found\"\n        Continue    \n    }\n \n    Write-Host \"Installing $AOSSetupETWManifestDir\\$($manifestFile.Name) using $dllFile\"\n    wevtutil.exe im \"$AOSSetupETWManifestDir\\$($manifestFile.Name)\" /rf:\"$dllFile\" /mf:\"$dllFile\"\n    Write-Host \"Finished installing $AOSSetupETWManifestDir\\$($manifestFile.Name) `n`n\"\n}\n\n\n\n\n\nThen restart the VM by LCS or Azure portal, you will get the Dynamics back in the event viewer and able to start the trace normally.\nImage\n\">\n        \n    dynamics-event",
@@ -213,16 +423,6 @@
           "publishedOn": "2022-06-20T00:00:00.000Z",
           "wordCount": 317,
           "title": "Unable to start trace, the required event providers were not found. Contact your system administrator",
-          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
-        },
-        {
-          "id": "https://nuxulu.com/2021-12-21-troubleshooting-dvt-script-for-service-model/",
-          "author": "Max Nguyen",
-          "description": "While doing upgrade to the latest version Dynamics 365 Finance & Operations on tier 1 environment, you might got some errors related to DVT auto scripts.\n1. DVT script for service model: AOSService on machine\nAn error at step 72\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n\n\n\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<Step>\n   <ID>72</ID>\n   <RunbookID>498de9aee46e403e9dcd97b40166775e</RunbookID>\n   <PackageId>dd4119e4331248d5a6ba9b987eef440d</PackageId>\n   <PackageType>PlatAppBinaryHotfixPackage</PackageType>\n   <CompletedManually>false</CompletedManually>\n   <Description>DVT script for service model: AOSService on machine: </Description>\n   <MachineName></MachineName>\n   <ServiceModelName>AOSService</ServiceModelName>\n   <ScriptToExecute>\n      <FileName>AutoRu…",
-          "link": "https://nuxulu.com/2021-12-21-troubleshooting-dvt-script-for-service-model/",
-          "publishedOn": "2021-12-21T00:00:00.000Z",
-          "wordCount": 694,
-          "title": "Troubleshooting DVT script for service model - Dynamics 365 Finance & Operations Tier 1 Upgrade",
           "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
         }
       ]
@@ -1043,6 +1243,36 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=102550",
+          "author": "Innovia Consulting",
+          "description": "Today's progressive business leaders look for efficiency, accuracy, and collaboration to advance their goals and grow their companies. Seamless solutions that integrate various departments are especially beneficial. Microsoft Dynamics Business …  How to Use Dynamics Business Central and the Microsoft 365 Stack Read More »\nThe post How to Use Dynamics Business Central and the Microsoft 365 Stack appeared first on ERP Software Blog.\nImplementing Microsoft Business Central Tips\nConnect your Company with Microsoft Business Central\nHow To Increase Revenue by 7% in 12 Minutes a Day with Microsoft Dynamics 365 and TiM",
+          "link": "https://erpsoftwareblog.com/2023/12/how-to-use-dynamics-business-central-and-the-microsoft-365-stack/",
+          "publishedOn": "2023-12-29T20:56:59.000Z",
+          "wordCount": 7696,
+          "title": "How to Use Dynamics Business Central and the Microsoft 365 Stack",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2023-12-How-to-Use-Dynamics-Business-Central-and-the-Microsoft-365-Stack_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=102765",
+          "author": "Vantree Systems",
+          "description": "Vantree Systems Inc. is a leading EDI & API automation solutions provider specializing in ERP integrations. Recently, Vantree announced the successful completion of the SOC 2 – Type 2 audit. …  Soc 2 Audit Reflects Vantree's Commitment to Data Security Read More »\nThe post Soc 2 Audit Reflects Vantree's Commitment to Data Security appeared first on ERP Software Blog.\nFree Apps to Get More Value from Business Central\nJoin the Product Configurator Demo for Dynamics 365 Business Central\nDocument Management in Business Central Made Easy with Free App",
+          "link": "https://erpsoftwareblog.com/2023/12/soc-2-audit-reinforces-vantrees-commitment-to-data-security/",
+          "publishedOn": "2023-12-29T15:14:31.000Z",
+          "wordCount": 7480,
+          "title": "Soc 2 Audit Reflects Vantree's Commitment to Data Security",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=102855",
+          "author": "x2x eCommerce",
+          "description": "Service Management in Business Central encompasses various functionalities to effectively handle service-related operations. These operations include service orders, resources, contracts, scheduling, and billing. The overview of the key features and …  Service Management in Business Central Read More »\nThe post Service Management in Business Central appeared first on ERP Software Blog.\nTop 5 ways Service Management Companies Are Losing Money - How You Can Fix It\nBest Practices For Dispatchers\nA Path to Intelligent Cloud – Learn about Microsoft Dynamics GP and Intelligent Edge",
+          "link": "https://erpsoftwareblog.com/2023/12/service-management-in-business-central/",
+          "publishedOn": "2023-12-29T14:07:07.000Z",
+          "wordCount": 7366,
+          "title": "Service Management in Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Add-a-subheading-35-300x169.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=102845",
           "author": "Korcomptenz Inc",
@@ -2873,6 +3103,46 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/azure-functions-net-7-and-net-8-local-debugging-bug-on-visual-studio-code",
+          "author": "Stefano Demiliani",
+          "description": "This is a very quick post signaling a bug that makes me spending hours of troubleshooting. If you’re developing Azure Functions with Visual Studio Code and .NET 7 or .NET […]",
+          "link": "https://365community.online/azure-functions-net-7-and-net-8-local-debugging-bug-on-visual-studio-code",
+          "publishedOn": "2023-12-29T15:08:08.000Z",
+          "wordCount": 3083,
+          "title": "Azure Functions: .NET 7 and .NET 8 local debugging bug on Visual Studio Code.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1703868007_Azure-Functions-NET-7-and-NET-8-local-debugging-bug.png?fit=1200%2C616&ssl=1"
+        },
+        {
+          "id": "https://365community.online/transformando-la-conciliacion-bancaria-con-copilot-en-microsoft-business-central-introduccion",
+          "author": "jarmesto",
+          "description": "En el mundo de las finanzas, la conciliación bancaria puede ser una tarea tediosa y que consume mucho tiempo. Afortunadamente, la tecnología está aquí para hacer nuestras vidas más fáciles, […]",
+          "link": "https://365community.online/transformando-la-conciliacion-bancaria-con-copilot-en-microsoft-business-central-introduccion",
+          "publishedOn": "2023-12-29T11:03:00.000Z",
+          "wordCount": 3069,
+          "title": "Transformando la Conciliación Bancaria con Copilot en Microsoft Business Central (Introducción)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Transformando-la-Conciliacion-Bancaria-con-Copilot-en-Microsoft-Business-Central.png?fit=1024%2C1024&ssl=1"
+        },
+        {
+          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-know-what-actions-are-available-with-power-automate",
+          "author": "Ian Grieve",
+          "description": "This post is part of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do […]",
+          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-know-what-actions-are-available-with-power-automate",
+          "publishedOn": "2023-12-29T11:00:57.000Z",
+          "wordCount": 3110,
+          "title": "In Microsoft Dynamics 365 Business Central (Power Automate), how do I… Know What Actions Are Available with Power Automate",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-push-code-to-github-2023-tutorial-youtube",
+          "author": "Sarah Lean ???????",
+          "description": "How to push code to GitHub | 2023 Tutorial Join me in this video as I explain how to push code to your GitHub repository. 🎶 The music in my […]",
+          "link": "https://365community.online/how-to-push-code-to-github-2023-tutorial-youtube",
+          "publishedOn": "2023-12-29T07:00:03.000Z",
+          "wordCount": 3000,
+          "title": "How to push code to GitHub | 2023 Tutorial – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1703893632_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
           "id": "https://365community.online/%f0%9f%9a%80new-video-configuracion-facil-de-importacion-de-movimientos-bancarios-en-business-central",
           "author": "jarmesto",
           "description": "Nuevo Video en mi canal de YouTube. En mi video de hoy, te mostrare cómo configurar de manera sencilla y eficiente la importación de movimientos bancarios en Business Central. Este […]",
@@ -2881,6 +3151,16 @@
           "wordCount": 3070,
           "title": "🚀New Video:  Configuración Fácil de Importación de Movimientos Bancarios en Business Central",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/New-Video-Configuracion-Facil-de-Importacion-de-Movimientos-Bancarios-en.png?fit=1024%2C1024&ssl=1"
+        },
+        {
+          "id": "https://365community.online/configuracion-facil-de-importacion-de-movimientos-bancarios-en-business-central-techspheredynamics-youtube",
+          "author": "jarmesto",
+          "description": "Configuración Fácil de Importación de Movimientos Bancarios en Business Central | TechSphereDynamics 🌟 ¡Bienvenidos a TechSphereDynamics! 🌟 En mi video de hoy, te mostraré cómo configurar de manera sencilla y […]",
+          "link": "https://365community.online/configuracion-facil-de-importacion-de-movimientos-bancarios-en-business-central-techspheredynamics-youtube",
+          "publishedOn": "2023-12-28T19:00:21.000Z",
+          "wordCount": 3270,
+          "title": "Configuración Fácil de Importación de Movimientos Bancarios en Business Central | TechSphereDynamics – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1703813797_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         },
         {
           "id": "https://365community.online/azure-logic-apps-securing-http-triggers-with-microsoft-entra-id-authentication",
@@ -4776,6 +5056,16 @@
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
+        {
+          "id": "http://dynamicsax-fico.com/?p=5653",
+          "author": "Ludwig Reinhard",
+          "description": "A Big Thank You to All My Readers I am thrilled and humbled to announce that my blog has reached …\nContinue reading →",
+          "link": "https://dynamicsax-fico.com/2023/12/29/thank-you-for-1-million-visitors-a-new-chapter-for-finance-and-accounting/",
+          "publishedOn": "2023-12-29T06:00:16.000Z",
+          "wordCount": 3505,
+          "title": "Thank You for 1 Million Visitors: A New Chapter for Finance and Accounting",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "http://dynamicsax-fico.com/?p=5406",
           "author": "Ludwig Reinhard",
@@ -7234,16 +7524,6 @@
           "wordCount": 6247,
           "title": "Does your organization have the right business technology to thrive in the subscription economy? See how Dynamics 365 Finance can help.",
           "imageUrl": "https://sandeepchaudhury.files.wordpress.com/2022/04/pexels-photo-5882683.jpeg?w=1200"
-        },
-        {
-          "id": "http://sandeepchaudhuryd365.com/?p=6179",
-          "author": "Sandeep Chaudhury",
-          "description": "Possibilities of business processes automation and extension is limitless when you use Microsoft power platform. Use PowerApps to extend user interfaces and functionality of your CRM or ERP apps, use power automate to automate business process actions or use AI builder and RPA to reduce manual labor intensive work for your employees. Dynamics 365 and … Continue reading Workflow work item approvals in D365 F&O using Microsoft Power Automate/Flow",
-          "link": "https://sandeepchaudhuryd365.com/2021/12/30/workflow-work-item-approvals-in-d365-fo-using-microsoft-power-automate-flow/",
-          "publishedOn": "2021-12-29T18:55:06.000Z",
-          "wordCount": 5701,
-          "title": "Workflow work item approvals in D365 F&O using Microsoft Power Automate/Flow",
-          "imageUrl": "https://sandeepchaudhury.files.wordpress.com/2021/12/pexels-photo-459654.jpeg?w=1200"
         }
       ]
     },
@@ -7264,6 +7544,16 @@
       "feedUrl": "https://ax.docentric.com/blog/feed/",
       "siteUrl": "https://ax.docentric.com/blog/",
       "articles": [
+        {
+          "id": "https://ax.docentric.com/?p=27740",
+          "author": "Nenad Krantic",
+          "description": "Batch jobs are a major part of D365FO and are a great way to asynchronously process large amounts of data. If we are writing a batch job process that is going to use multiple batch jobs simultaneously on the same data, there are potential problems […]\nThe post Avoiding deadlocks and lost records when using batch jobs in D365FO appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/avoiding-deadlocks-and-lost-records-when-using-batch-jobs-in-d365fo/",
+          "publishedOn": "2023-12-29T08:44:52.000Z",
+          "wordCount": 12559,
+          "title": "Avoiding deadlocks and lost records when using batch jobs in D365FO",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/11/D365Blog_AvoidingDeadlocksAndLostData_Title.jpg"
+        },
         {
           "id": "https://ax.docentric.com/?p=27564",
           "author": "Jovica Zivkovic",
