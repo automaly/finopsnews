@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-12-30T00:38:22.140Z</updated>
+    <updated>2023-12-31T00:42:55.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AOT Browser: D365 Finance and Operations]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2023/12/aot-browser-d365-finance-and-operations.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2023/12/aot-browser-d365-finance-and-operations.html"/>
+        <updated>2023-12-30T09:08:00.000Z</updated>
+        <summary type="html"><![CDATA[If you are doing development work or writing a functional design document for a modification on Dynamics 365 Finance and Operations, you may need to look up the enum value of an enumerated field, find the relationship between two tables, or just see the source code of a class or method. In Dynamics AX 2012, this was easily done directly in the application by going into the AOT (Application Object Tree) and finding the appropriate node.
+
+In Dynamics 365 Finance and Operations the AOT is not accessible from the user interface. It is only available in a development box using Visual Studio. However Arbela Technologies, who is one of the top Microsoft partners, has developed an enhancement that has basically replicated the old AOT user experience right in the Dynamics 365 Finance and Operations…]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Connect Power BI to D365 Finance and Operations]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2023/12/how-to-connect-power-bi-to-d365-finance.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2023/12/how-to-connect-power-bi-to-d365-finance.html"/>
+        <updated>2023-12-30T09:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Written by Tim Woodsin Common
+
+Dynamics 365 Finance and Operations comes out of the box with over 600 standard reports and inquiries (you can find the full catalog of reports and inquiries in this post). These reports and inquiries may meet the majority of reporting requirements but if you want to take your data and analytics to the next level you will need Power BI. Power BI can open up a whole new world of analytics and insights.
+
+
+If you have never used Power BI or have never connected Power BI to Dynamics 365 Finance and Operations, it can be a bit tricky to get connected and start building reports. In this post I will take you through step by step how to connect Power BI to Dynamics 365 Finance and Operations, build your first report, and publish it to your Power BI workspace.
+Downloa…]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transformando la Conciliación Bancaria con Copilot en Microsoft Business Central: Breve guía paso a paso]]></title>
+        <id>https://365community.online/transformando-la-conciliacion-bancaria-con-copilot-en-microsoft-business-central-breve-guia-paso-a-paso</id>
+        <link href="https://365community.online/transformando-la-conciliacion-bancaria-con-copilot-en-microsoft-business-central-breve-guia-paso-a-paso"/>
+        <updated>2023-12-30T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Vamos a ver cómo en pocos pasos podemos estar probando y evaluando la funcionalidad de conciliación bancaria con Copilot. La conciliación bancaria es un proceso fundamental para cualquier empresa, ya […]]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Dynamics Business Central and the Microsoft 365 Stack]]></title>
         <id>https://erpsoftwareblog.com/?p=102550</id>
@@ -69,6 +107,56 @@ A Path to Intelligent Cloud – Learn about Microsoft Dynamics GP and Intelligen
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Weekly Update #122 – 12th May 2023 – YouTube]]></title>
+        <id>https://365community.online/weekly-update-122-12th-may-2023-youtube</id>
+        <link href="https://365community.online/weekly-update-122-12th-may-2023-youtube"/>
+        <updated>2023-12-29T11:01:26.000Z</updated>
+        <summary type="html"><![CDATA[Weekly Update #122 – 12th May 2023 Join me as I talk about the latest public preview and generally available features released for Azure this week. Check out the Azure […]]]></summary>
+        <author>
+            <name>Sarah Lean ???????</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekly Update #121 – Comeback! – YouTube]]></title>
+        <id>https://365community.online/weekly-update-121-comeback-youtube-2</id>
+        <link href="https://365community.online/weekly-update-121-comeback-youtube-2"/>
+        <updated>2023-12-29T11:01:19.000Z</updated>
+        <summary type="html"><![CDATA[Weekly Update #121 – Comeback! I’m back with a weekly news update! This week I am talking about Azure Hybrid Benefit management, new regions in Azure, Azure Virtual Desktop features […]]]></summary>
+        <author>
+            <name>Sarah Lean ???????</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekly Update #125 – 2nd June 2023 – YouTube]]></title>
+        <id>https://365community.online/weekly-update-125-2nd-june-2023-youtube-2</id>
+        <link href="https://365community.online/weekly-update-125-2nd-june-2023-youtube-2"/>
+        <updated>2023-12-29T11:01:19.000Z</updated>
+        <summary type="html"><![CDATA[Weekly Update #125 – 2nd June 2023 It’s been quiet this week after Microsoft Build last week, but let’s catch up on the news. Setting Up a CI/CD Pipeline with […]]]></summary>
+        <author>
+            <name>Sarah Lean ???????</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lenovo MWC23 Recap – YouTube]]></title>
+        <id>https://365community.online/lenovo-mwc23-recap-youtube-2</id>
+        <link href="https://365community.online/lenovo-mwc23-recap-youtube-2"/>
+        <updated>2023-12-29T11:01:19.000Z</updated>
+        <summary type="html"><![CDATA[Lenovo MWC23 Recap Join me as I look back at the announcements from MWC23 and Lenovo. February 27 – March 2, 2023 Join me as I look back at the […]]]></summary>
+        <author>
+            <name>Sarah Lean ???????</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekly Update #123 – 19th May 2023 – YouTube]]></title>
+        <id>https://365community.online/weekly-update-123-19th-may-2023-youtube-2</id>
+        <link href="https://365community.online/weekly-update-123-19th-may-2023-youtube-2"/>
+        <updated>2023-12-29T11:01:19.000Z</updated>
+        <summary type="html"><![CDATA[Weekly Update #123 – 19th May 2023 Join me this week as I run through some of the Azure news sharing information about generally available features as well as public […]]]></summary>
+        <author>
+            <name>Sarah Lean ???????</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Power Automate), how do I… Know What Actions Are Available with Power Automate]]></title>
         <id>https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-know-what-actions-are-available-with-power-automate</id>
         <link href="https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-know-what-actions-are-available-with-power-automate"/>
@@ -76,6 +164,16 @@ A Path to Intelligent Cloud – Learn about Microsoft Dynamics GP and Intelligen
         <summary type="html"><![CDATA[This post is part of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do […]]]></summary>
         <author>
             <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Build 2023 News Highlight Reel – YouTube]]></title>
+        <id>https://365community.online/microsoft-build-2023-news-highlight-reel-youtube-2</id>
+        <link href="https://365community.online/microsoft-build-2023-news-highlight-reel-youtube-2"/>
+        <updated>2023-12-29T11:00:23.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Build 2023 News Highlight Reel This week there is a ton of announcements thanks to Microsoft Build 2023! Microsoft Build Books of News 2023: https://news.microsoft.com/build-2023-book-of-news/ GitHub Copilot X waitlist: […]]]></summary>
+        <author>
+            <name>Sarah Lean ???????</name>
         </author>
     </entry>
     <entry>
