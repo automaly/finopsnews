@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2023-12-31T00:42:55.397Z</updated>
+    <updated>2024-01-01T00:43:55.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Streamlining Integration: Using Azure Managed identities in Power Apps and Power Automate to access Microsoft Graph API – Part 1]]></title>
+        <id>https://365community.online/streamlining-integration-using-azure-managed-identities-in-power-apps-and-power-automate-to-access-microsoft-graph-api-part-1</id>
+        <link href="https://365community.online/streamlining-integration-using-azure-managed-identities-in-power-apps-and-power-automate-to-access-microsoft-graph-api-part-1"/>
+        <updated>2023-12-31T18:23:07.000Z</updated>
+        <summary type="html"><![CDATA[Using Microsoft Graph in Power Apps and Power Automate offers several advantages for streamlining integration with various Microsoft 365 services and applications. Additionally, securing these integrations with Azure Managed Identities […]]]></summary>
+        <author>
+            <name>Mohamed Ashiq Faleel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started with Microsoft Graph API]]></title>
+        <id>https://365community.online/getting-started-with-microsoft-graph-api</id>
+        <link href="https://365community.online/getting-started-with-microsoft-graph-api"/>
+        <updated>2023-12-31T12:18:45.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Graph API is a superb way to leverage Microsoft 365 services as a developer. Before you start to wonder where all to get started from, this post is for […]]]></summary>
+        <author>
+            <name>Priyesh Wagh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Permanently Delete users from Power Platform]]></title>
+        <id>https://365community.online/permanently-delete-users-from-power-platform</id>
+        <link href="https://365community.online/permanently-delete-users-from-power-platform"/>
+        <updated>2023-12-31T11:34:36.000Z</updated>
+        <summary type="html"><![CDATA[Often times, as organizations have users enabled and disabled, over the course of time we see a lot of Disabled Users pile up in the system. Power Platform now lets […]]]></summary>
+        <author>
+            <name>Priyesh Wagh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Permanently Delete a User in Entra ID]]></title>
+        <id>https://365community.online/permanently-delete-a-user-in-entra-id</id>
+        <link href="https://365community.online/permanently-delete-a-user-in-entra-id"/>
+        <updated>2023-12-31T11:26:49.000Z</updated>
+        <summary type="html"><![CDATA[In case you are managing Users in Microsoft 365, a Deleted User still exists in Soft Delete state for 30 days.Here’s how you can immediately delete the user permanently!Please do […]]]></summary>
+        <author>
+            <name>Priyesh Wagh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manually Add Licensed Users in Dataverse Environment in Power Platform Admin Center]]></title>
+        <id>https://365community.online/manually-add-licensed-users-in-dataverse-environment-in-power-platform-admin-center</id>
+        <link href="https://365community.online/manually-add-licensed-users-in-dataverse-environment-in-power-platform-admin-center"/>
+        <updated>2023-12-31T06:55:35.000Z</updated>
+        <summary type="html"><![CDATA[In case you want to reflect a recently licensed user in a Dataverse environment but you don’t see it reflect immediately, here’s how you can manually add users to the […]]]></summary>
+        <author>
+            <name>Priyesh Wagh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AOT Browser: D365 Finance and Operations]]></title>
         <id>https://d365fotechexpert.blogspot.com/2023/12/aot-browser-d365-finance-and-operations.html</id>
@@ -104,6 +154,16 @@ A Path to Intelligent Cloud – Learn about Microsoft Dynamics GP and Intelligen
         <summary type="html"><![CDATA[En el mundo de las finanzas, la conciliación bancaria puede ser una tarea tediosa y que consume mucho tiempo. Afortunadamente, la tecnología está aquí para hacer nuestras vidas más fáciles, […]]]></summary>
         <author>
             <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekly Update #120 – Countdown to the end of the year – YouTube]]></title>
+        <id>https://365community.online/weekly-update-120-countdown-to-the-end-of-the-year-youtube-2</id>
+        <link href="https://365community.online/weekly-update-120-countdown-to-the-end-of-the-year-youtube-2"/>
+        <updated>2023-12-29T11:01:26.000Z</updated>
+        <summary type="html"><![CDATA[Weekly Update #120 – Countdown to the end of the year Join me in my latest weekly update video as I am counting down to the end of the year […]]]></summary>
+        <author>
+            <name>Sarah Lean ???????</name>
         </author>
     </entry>
     <entry>

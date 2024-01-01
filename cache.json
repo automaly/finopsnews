@@ -3123,6 +3123,56 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/streamlining-integration-using-azure-managed-identities-in-power-apps-and-power-automate-to-access-microsoft-graph-api-part-1",
+          "author": "Mohamed Ashiq Faleel",
+          "description": "Using Microsoft Graph in Power Apps and Power Automate offers several advantages for streamlining integration with various Microsoft 365 services and applications. Additionally, securing these integrations with Azure Managed Identities […]",
+          "link": "https://365community.online/streamlining-integration-using-azure-managed-identities-in-power-apps-and-power-automate-to-access-microsoft-graph-api-part-1",
+          "publishedOn": "2023-12-31T18:23:07.000Z",
+          "wordCount": 3115,
+          "title": "Streamlining Integration: Using Azure Managed identities in Power Apps and Power Automate to access Microsoft Graph API – Part 1",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Streamlining-Integration-Using-Azure-Managed-identities-in-Power-Apps-and.png?fit=945%2C482&ssl=1"
+        },
+        {
+          "id": "https://365community.online/getting-started-with-microsoft-graph-api",
+          "author": "Priyesh Wagh",
+          "description": "Microsoft Graph API is a superb way to leverage Microsoft 365 services as a developer. Before you start to wonder where all to get started from, this post is for […]",
+          "link": "https://365community.online/getting-started-with-microsoft-graph-api",
+          "publishedOn": "2023-12-31T12:18:45.000Z",
+          "wordCount": 3032,
+          "title": "Getting Started with Microsoft Graph API",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Getting-Started-with-Microsoft-Graph-API.png?fit=1200%2C747&ssl=1"
+        },
+        {
+          "id": "https://365community.online/permanently-delete-users-from-power-platform",
+          "author": "Priyesh Wagh",
+          "description": "Often times, as organizations have users enabled and disabled, over the course of time we see a lot of Disabled Users pile up in the system. Power Platform now lets […]",
+          "link": "https://365community.online/permanently-delete-users-from-power-platform",
+          "publishedOn": "2023-12-31T11:34:36.000Z",
+          "wordCount": 3034,
+          "title": "Permanently Delete users from Power Platform",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Permanently-Delete-users-from-Power-Platform.png?fit=1104%2C601&ssl=1"
+        },
+        {
+          "id": "https://365community.online/permanently-delete-a-user-in-entra-id",
+          "author": "Priyesh Wagh",
+          "description": "In case you are managing Users in Microsoft 365, a Deleted User still exists in Soft Delete state for 30 days.Here’s how you can immediately delete the user permanently!Please do […]",
+          "link": "https://365community.online/permanently-delete-a-user-in-entra-id",
+          "publishedOn": "2023-12-31T11:26:49.000Z",
+          "wordCount": 3039,
+          "title": "Permanently Delete a User in Entra ID",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Permanently-Delete-a-User-in-Entra-ID.png?fit=767%2C887&ssl=1"
+        },
+        {
+          "id": "https://365community.online/manually-add-licensed-users-in-dataverse-environment-in-power-platform-admin-center",
+          "author": "Priyesh Wagh",
+          "description": "In case you want to reflect a recently licensed user in a Dataverse environment but you don’t see it reflect immediately, here’s how you can manually add users to the […]",
+          "link": "https://365community.online/manually-add-licensed-users-in-dataverse-environment-in-power-platform-admin-center",
+          "publishedOn": "2023-12-31T06:55:35.000Z",
+          "wordCount": 3058,
+          "title": "Manually Add Licensed Users in Dataverse Environment in Power Platform Admin Center",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Manually-Add-Licensed-Users-in-Dataverse-Environment-in-Power-Platform.png?fit=1199%2C799&ssl=1"
+        },
+        {
           "id": "https://365community.online/transformando-la-conciliacion-bancaria-con-copilot-en-microsoft-business-central-breve-guia-paso-a-paso",
           "author": "jarmesto",
           "description": "Vamos a ver cómo en pocos pasos podemos estar probando y evaluando la funcionalidad de conciliación bancaria con Copilot. La conciliación bancaria es un proceso fundamental para cualquier empresa, ya […]",
@@ -3151,6 +3201,16 @@
           "wordCount": 3069,
           "title": "Transformando la Conciliación Bancaria con Copilot en Microsoft Business Central (Introducción)",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Transformando-la-Conciliacion-Bancaria-con-Copilot-en-Microsoft-Business-Central.png?fit=1024%2C1024&ssl=1"
+        },
+        {
+          "id": "https://365community.online/weekly-update-120-countdown-to-the-end-of-the-year-youtube-2",
+          "author": "Sarah Lean ???????",
+          "description": "Weekly Update #120 – Countdown to the end of the year Join me in my latest weekly update video as I am counting down to the end of the year […]",
+          "link": "https://365community.online/weekly-update-120-countdown-to-the-end-of-the-year-youtube-2",
+          "publishedOn": "2023-12-29T11:01:26.000Z",
+          "wordCount": 3100,
+          "title": "Weekly Update #120 – Countdown to the end of the year – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/1703996769_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         },
         {
           "id": "https://365community.online/weekly-update-122-12th-may-2023-youtube",
@@ -7759,7 +7819,7 @@
     {
       "title": "Parag Chapre",
       "feedUrl": "https://paragchapre.com/feed/",
-      "siteUrl": "http://paragchapre.com/",
+      "siteUrl": "https://paragchapre.com/",
       "articles": [
         {
           "id": "http://paragchapre.com/?p=12318",
