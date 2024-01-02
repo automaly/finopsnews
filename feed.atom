@@ -2,10 +2,119 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-01-01T00:43:55.754Z</updated>
+    <updated>2024-01-02T00:39:12.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Streamlining Integration: Using Azure Managed identities in Power Apps and Power Automate to access Microsoft Graph API – Part 2]]></title>
+        <id>https://365community.online/streamlining-integration-using-azure-managed-identities-in-power-apps-and-power-automate-to-access-microsoft-graph-api-part-2</id>
+        <link href="https://365community.online/streamlining-integration-using-azure-managed-identities-in-power-apps-and-power-automate-to-access-microsoft-graph-api-part-2"/>
+        <updated>2024-01-01T19:57:02.000Z</updated>
+        <summary type="html"><![CDATA[In Part 1 of the blog series on using Managed identities in Power Apps and Power Automate to access Microsoft Graph API securely, I have delved into the setup and […]]]></summary>
+        <author>
+            <name>Mohamed Ashiq Faleel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resource Roles and adding Role Prices to Cost and Sales Price List in Project Operations]]></title>
+        <id>https://365community.online/resource-roles-and-adding-role-prices-to-cost-and-sales-price-list-in-project-operations</id>
+        <link href="https://365community.online/resource-roles-and-adding-role-prices-to-cost-and-sales-price-list-in-project-operations"/>
+        <updated>2024-01-01T14:32:16.000Z</updated>
+        <summary type="html"><![CDATA[Now that in the previous blog posts of this series, the Organization Units, Cost Price and Sales Prices were setup – Setting Up Default Organizational Unit, Cost and Sales Price […]]]></summary>
+        <author>
+            <name>Priyesh Wagh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enable Copilot for Project Operations]]></title>
+        <id>https://365community.online/enable-copilot-for-project-operations</id>
+        <link href="https://365community.online/enable-copilot-for-project-operations"/>
+        <updated>2024-01-01T14:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Recently, you must have observed Copilot being introduced in every other Microsoft Business and M365 applications. Dynamics 365 Project Operations too being no exception! Here’s how you can get the […]]]></summary>
+        <author>
+            <name>Priyesh Wagh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Rules in Bulk Edit and Import (Dataverse / Dynamics 365)]]></title>
+        <id>https://365community.online/business-rules-in-bulk-edit-and-import-dataverse-dynamics-365</id>
+        <link href="https://365community.online/business-rules-in-bulk-edit-and-import-dataverse-dynamics-365"/>
+        <updated>2024-01-01T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let us see an example of a Business Rule with scope as Table (Entity) triggering on Bulk Edit as well as Data Import. Below is our Business Rule – It […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Democratizing AI: Ashish Bhatia's Journey from Microsoft to Power Automate and the Evolution of AI Builder]]></title>
+        <id>https://365community.online/democratizing-ai-ashish-bhatias-journey-from-microsoft-to-power-automate-and-the-evolution-of-ai-builder</id>
+        <link href="https://365community.online/democratizing-ai-ashish-bhatias-journey-from-microsoft-to-power-automate-and-the-evolution-of-ai-builder"/>
+        <updated>2024-01-01T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FULL SHOW NOTES https://podcast.nz365guy.com/513  We are thrilled to have on board Ashish Bhatia, a principal product manager at Microsoft, who is on a mission to democratize AI solutions. Through a […]]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project Management in Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=102523</id>
+        <link href="https://erpsoftwareblog.com/2024/01/project-management-in-business-central/"/>
+        <updated>2024-01-01T12:21:03.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Dynamics 365 Business Central offers robust project management capabilities as part of its all-in-one ERP system. In this comprehensive guide, we will explore the key features and functionalities of …  Project Management in Business Central Read More »
+The post Project Management in Business Central appeared first on ERP Software Blog.
+Video: 3 Customers Tell You Why They Love Microsoft Dynamics GP
+Power BI Quick Tip: Export of Data
+Emerging Trends in AP Automation]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Difference between Project Operations Deployment Types]]></title>
+        <id>https://365community.online/difference-between-project-operations-deployment-types</id>
+        <link href="https://365community.online/difference-between-project-operations-deployment-types"/>
+        <updated>2024-01-01T11:17:29.000Z</updated>
+        <summary type="html"><![CDATA[Now, as you know that there are the following 3 types of Project Operations Deployments – To keep the comparison understandable and simple, let’s review the below in a short […]]]></summary>
+        <author>
+            <name>Priyesh Wagh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics 365 application modernization on Azure: Next-Gen Advancement to Level-Up Your Business]]></title>
+        <id>https://erpsoftwareblog.com/?p=102897</id>
+        <link href="https://erpsoftwareblog.com/2024/01/microsoft-dynamics-365-application-modernization-on-azure-next-gen-advancement-to-level-up-your-business/"/>
+        <updated>2024-01-01T11:07:54.000Z</updated>
+        <summary type="html"><![CDATA[As technology continues to evolve at a rapid pace, businesses face the necessity to modernize their applications to keep up with digital transformation in a digital-first world. Microsoft has already …  Microsoft Dynamics 365 application modernization on Azure: Next-Gen Advancement to Level-Up Your Business Read More »
+The post Microsoft Dynamics 365 application modernization on Azure: Next-Gen Advancement to Level-Up Your Business appeared first on ERP Software Blog.
+The Benefits of NAV on Azure for Small and Mid-Size Businesses
+Meet Dynamics 365. Discover How It Is Different Than Other ERP and CRM Systems
+An Overview of Microsoft Azure and Your ERP | Pizza as a Service Example]]></summary>
+        <author>
+            <name>DynaTech Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I’m joining Next365]]></title>
+        <id>https://dynamicspedia.com/?p=18938</id>
+        <link href="https://dynamicspedia.com/2024/01/im-joining-next365/"/>
+        <updated>2024-01-01T10:52:50.000Z</updated>
+        <summary type="html"><![CDATA[Firstly, I want to wish you all a happy and healthy 2024. For me, the new year starts with a new challenge. I moved from To-Increase to Next365 as a Managing Partner in the Netherlands. In this post, I will tell a bit more about my motivation and Next365. For nearly 5 years, I worked […]
+The post I’m joining Next365 appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy New Year 2024]]></title>
+        <id>https://365community.online/happy-new-year-2024</id>
+        <link href="https://365community.online/happy-new-year-2024"/>
+        <updated>2024-01-01T04:05:58.000Z</updated>
+        <summary type="html"><![CDATA[Step into the New Year with confidence and a heart full of dreams. May the next 365 days be a journey of growth, happiness, and success. Happy New Year! Source […]]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Streamlining Integration: Using Azure Managed identities in Power Apps and Power Automate to access Microsoft Graph API – Part 1]]></title>
         <id>https://365community.online/streamlining-integration-using-azure-managed-identities-in-power-apps-and-power-automate-to-access-microsoft-graph-api-part-1</id>

@@ -1264,6 +1264,26 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=102523",
+          "author": "Dynamics Square UK",
+          "description": "Microsoft Dynamics 365 Business Central offers robust project management capabilities as part of its all-in-one ERP system. In this comprehensive guide, we will explore the key features and functionalities of …  Project Management in Business Central Read More »\nThe post Project Management in Business Central appeared first on ERP Software Blog.\nVideo: 3 Customers Tell You Why They Love Microsoft Dynamics GP\nPower BI Quick Tip: Export of Data\nEmerging Trends in AP Automation",
+          "link": "https://erpsoftwareblog.com/2024/01/project-management-in-business-central/",
+          "publishedOn": "2024-01-01T12:21:03.000Z",
+          "wordCount": 8176,
+          "title": "Project Management in Business Central",
+          "imageUrl": "https://assets-global.website-files.com/5e45e7fa0ca16f06c09e1e56/60e87374ebf0c89bbb8d665f_erp-1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=102897",
+          "author": "DynaTech Systems",
+          "description": "As technology continues to evolve at a rapid pace, businesses face the necessity to modernize their applications to keep up with digital transformation in a digital-first world. Microsoft has already …  Microsoft Dynamics 365 application modernization on Azure: Next-Gen Advancement to Level-Up Your Business Read More »\nThe post Microsoft Dynamics 365 application modernization on Azure: Next-Gen Advancement to Level-Up Your Business appeared first on ERP Software Blog.\nThe Benefits of NAV on Azure for Small and Mid-Size Businesses\nMeet Dynamics 365. Discover How It Is Different Than Other ERP and CRM Systems\nAn Overview of Microsoft Azure and Your ERP | Pizza as a Service Example",
+          "link": "https://erpsoftwareblog.com/2024/01/microsoft-dynamics-365-application-modernization-on-azure-next-gen-advancement-to-level-up-your-business/",
+          "publishedOn": "2024-01-01T11:07:54.000Z",
+          "wordCount": 7830,
+          "title": "Microsoft Dynamics 365 application modernization on Azure: Next-Gen Advancement to Level-Up Your Business",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Blog-674-scaled.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=102550",
           "author": "Innovia Consulting",
           "description": "Today's progressive business leaders look for efficiency, accuracy, and collaboration to advance their goals and grow their companies. Seamless solutions that integrate various departments are especially beneficial. Microsoft Dynamics Business …  How to Use Dynamics Business Central and the Microsoft 365 Stack Read More »\nThe post How to Use Dynamics Business Central and the Microsoft 365 Stack appeared first on ERP Software Blog.\nImplementing Microsoft Business Central Tips\nConnect your Company with Microsoft Business Central\nHow To Increase Revenue by 7% in 12 Minutes a Day with Microsoft Dynamics 365 and TiM",
@@ -3122,6 +3142,81 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/streamlining-integration-using-azure-managed-identities-in-power-apps-and-power-automate-to-access-microsoft-graph-api-part-2",
+          "author": "Mohamed Ashiq Faleel",
+          "description": "In Part 1 of the blog series on using Managed identities in Power Apps and Power Automate to access Microsoft Graph API securely, I have delved into the setup and […]",
+          "link": "https://365community.online/streamlining-integration-using-azure-managed-identities-in-power-apps-and-power-automate-to-access-microsoft-graph-api-part-2",
+          "publishedOn": "2024-01-01T19:57:02.000Z",
+          "wordCount": 3134,
+          "title": "Streamlining Integration: Using Azure Managed identities in Power Apps and Power Automate to access Microsoft Graph API – Part 2",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Streamlining-Integration-Using-Azure-Managed-identities-in-Power-Apps-and.png?fit=945%2C584&ssl=1"
+        },
+        {
+          "id": "https://365community.online/resource-roles-and-adding-role-prices-to-cost-and-sales-price-list-in-project-operations",
+          "author": "Priyesh Wagh",
+          "description": "Now that in the previous blog posts of this series, the Organization Units, Cost Price and Sales Prices were setup – Setting Up Default Organizational Unit, Cost and Sales Price […]",
+          "link": "https://365community.online/resource-roles-and-adding-role-prices-to-cost-and-sales-price-list-in-project-operations",
+          "publishedOn": "2024-01-01T14:32:16.000Z",
+          "wordCount": 3077,
+          "title": "Resource Roles and adding Role Prices to Cost and Sales Price List in Project Operations",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Resource-Roles-and-adding-Role-Prices-to-Cost-and-Sales.png?fit=897%2C1200&ssl=1"
+        },
+        {
+          "id": "https://365community.online/enable-copilot-for-project-operations",
+          "author": "Priyesh Wagh",
+          "description": "Recently, you must have observed Copilot being introduced in every other Microsoft Business and M365 applications. Dynamics 365 Project Operations too being no exception! Here’s how you can get the […]",
+          "link": "https://365community.online/enable-copilot-for-project-operations",
+          "publishedOn": "2024-01-01T14:00:50.000Z",
+          "wordCount": 3028,
+          "title": "Enable Copilot for Project Operations",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Enable-Copilot-for-Project-Operations.png?fit=1200%2C573&ssl=1"
+        },
+        {
+          "id": "https://365community.online/business-rules-in-bulk-edit-and-import-dataverse-dynamics-365",
+          "author": "Nishant Rana",
+          "description": "Let us see an example of a Business Rule with scope as Table (Entity) triggering on Bulk Edit as well as Data Import. Below is our Business Rule – It […]",
+          "link": "https://365community.online/business-rules-in-bulk-edit-and-import-dataverse-dynamics-365",
+          "publishedOn": "2024-01-01T14:00:00.000Z",
+          "wordCount": 3090,
+          "title": "Business Rules in Bulk Edit and Import (Dataverse / Dynamics 365)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Business-Rules-in-Bulk-Edit-and-Import-Dataverse-Dynamics.jpeg?fit=1200%2C799&ssl=1"
+        },
+        {
+          "id": "https://365community.online/democratizing-ai-ashish-bhatias-journey-from-microsoft-to-power-automate-and-the-evolution-of-ai-builder",
+          "author": "NZ365Guy",
+          "description": "FULL SHOW NOTES https://podcast.nz365guy.com/513  We are thrilled to have on board Ashish Bhatia, a principal product manager at Microsoft, who is on a mission to democratize AI solutions. Through a […]",
+          "link": "https://365community.online/democratizing-ai-ashish-bhatias-journey-from-microsoft-to-power-automate-and-the-evolution-of-ai-builder",
+          "publishedOn": "2024-01-01T13:00:00.000Z",
+          "wordCount": 3106,
+          "title": "Democratizing AI: Ashish Bhatia's Journey from Microsoft to Power Automate and the Evolution of AI Builder",
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/1796418/14044750-democratizing-ai-ashish-bhatia-s-journey-from-microsoft-to-power-automate-and-the-evolution-of-ai-builder.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/difference-between-project-operations-deployment-types",
+          "author": "Priyesh Wagh",
+          "description": "Now, as you know that there are the following 3 types of Project Operations Deployments – To keep the comparison understandable and simple, let’s review the below in a short […]",
+          "link": "https://365community.online/difference-between-project-operations-deployment-types",
+          "publishedOn": "2024-01-01T11:17:29.000Z",
+          "wordCount": 3023,
+          "title": "Difference between Project Operations Deployment Types",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Difference-between-Project-Operations-Deployment-Types.png?fit=1200%2C815&ssl=1"
+        },
+        {
+          "id": "https://365community.online/happy-new-year-2024",
+          "author": "Arun Potti",
+          "description": "Step into the New Year with confidence and a heart full of dreams. May the next 365 days be a journey of growth, happiness, and success. Happy New Year! Source […]",
+          "link": "https://365community.online/happy-new-year-2024",
+          "publishedOn": "2024-01-01T04:05:58.000Z",
+          "wordCount": 2932,
+          "title": "Happy New Year 2024",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/e0b086e0b0b8e0b18de0b09fe0b18de0b0b0e0b187e0b0b2e0b0bfe0b0afe0b0be-e0b0aee0b186e0b0b2e0b18de0b0ace0b18be0b0b0e0b18de0b0a8e0b18d-4.jpg?fit=1200%2C675&ssl=1"
+        },
         {
           "id": "https://365community.online/streamlining-integration-using-azure-managed-identities-in-power-apps-and-power-automate-to-access-microsoft-graph-api-part-1",
           "author": "Mohamed Ashiq Faleel",
@@ -5288,6 +5383,16 @@
       "feedUrl": "https://dynamicspedia.com/feed/",
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
+        {
+          "id": "https://dynamicspedia.com/?p=18938",
+          "author": "André Arnaud de Calavon",
+          "description": "Firstly, I want to wish you all a happy and healthy 2024. For me, the new year starts with a new challenge. I moved from To-Increase to Next365 as a Managing Partner in the Netherlands. In this post, I will tell a bit more about my motivation and Next365. For nearly 5 years, I worked […]\nThe post I’m joining Next365 appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2024/01/im-joining-next365/",
+          "publishedOn": "2024-01-01T10:52:50.000Z",
+          "wordCount": 3596,
+          "title": "I’m joining Next365",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2024/01/Next365-1200.jpg"
+        },
         {
           "id": "https://dynamicspedia.com/?p=18919",
           "author": "André Arnaud de Calavon",
