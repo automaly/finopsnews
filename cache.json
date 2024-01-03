@@ -1264,6 +1264,46 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=102919",
+          "author": "Express Info",
+          "description": "All companies benefit from savvy, technology-forward consultants to recommend solutions. However, many companies allow common biases from consultants to affect the ERP selection and the potential impact they may have …  Looking for Great ERP Selection Advice? Avoid these 5 Common Biases Read More »\nThe post Looking for Great ERP Selection Advice? Avoid these 5 Common Biases appeared first on ERP Software Blog.\nEleven Ways to Disaster Proof Dynamics GP Data\nWhy Manufacturers are Moving Forward with ERP\nTelecommunications Engineering Firm Improves Project Accounting, Cash Flow, and Data Access",
+          "link": "https://erpsoftwareblog.com/2024/01/looking-for-great-erp-selection-advice-avoid-these-5-common-biases/",
+          "publishedOn": "2024-01-02T21:52:58.000Z",
+          "wordCount": 7748,
+          "title": "Looking for Great ERP Selection Advice? Avoid these 5 Common Biases",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/great-ERP-consultants.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=102911",
+          "author": "ERP Software Blog Writer",
+          "description": "At the end of another year, we would like to acknowledge the contributions of our members. We appreciate each of the 1,029 informative articles written by Microsoft Dynamics ERP experts, …  Top 10 ERP Software Blog Posts of 2023 Read More »\nThe post Top 10 ERP Software Blog Posts of 2023 appeared first on ERP Software Blog.\nInsight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Business Central at BCUG/NAVUG Summit in Phoenix\nHow Dynamics 365 Business Central meet the Manufacturer’s expectations?\nInsight Works Proudly Announces New Partner Acquisitions for March",
+          "link": "https://erpsoftwareblog.com/2024/01/top-10-erp-software-blog-posts-of-2023/",
+          "publishedOn": "2024-01-02T13:47:02.000Z",
+          "wordCount": 7889,
+          "title": "Top 10 ERP Software Blog Posts of 2023",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/top-10-erp-image.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=102904",
+          "author": "x2x eCommerce",
+          "description": "Integrating ERP with different platforms increases efficiency? This question usually arises when businesses decide to implement integration. This article discusses how Integrating an ERP system with different platforms significantly increases …  Integrating ERP with different platforms increases efficiency? Read More »\nThe post Integrating ERP with different platforms increases efficiency? appeared first on ERP Software Blog.\nOn-premise vs Cloud-based - 10 Considerations\nUnlocking Order Fulfillment Excellence: Managing Backorders in Business Central\nBooklet | Centralized or decentralized accounts payable?",
+          "link": "https://erpsoftwareblog.com/2024/01/integrating-erp-with-different-platforms-increases-efficiency/",
+          "publishedOn": "2024-01-02T11:53:26.000Z",
+          "wordCount": 7310,
+          "title": "Integrating ERP with different platforms increases efficiency?",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Add-a-subheading-36-300x169.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=102902",
+          "author": "Dynamics Square USA",
+          "description": "When businesses surpass Xero's financial capabilities, they naturally progress to migrating to Microsoft Dynamics 365 Business Central. Forbes Advisor, in a recent ERP evaluation, has acclaimed Microsoft Dynamics 365 Business …  Migrating from Xero to Dynamics 365 Business Central Read More »\nThe post Migrating from Xero to Dynamics 365 Business Central appeared first on ERP Software Blog.\n17 Most Commonly Overlooked Set-Up and On-Going Use Issues in Microsoft Dynamics GP\nHow Will a New Financial System Impact Your Operations and Resources? – Evaluating a New ERP System Checklist Item #1\nNobody Wants to Experience an ACA Audit",
+          "link": "https://erpsoftwareblog.com/2024/01/xero-to-dynamics-365-business-central-migration/",
+          "publishedOn": "2024-01-02T09:43:01.000Z",
+          "wordCount": 8253,
+          "title": "Migrating from Xero to Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Xero-to-BC-migration.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=102523",
           "author": "Dynamics Square UK",
           "description": "Microsoft Dynamics 365 Business Central offers robust project management capabilities as part of its all-in-one ERP system. In this comprehensive guide, we will explore the key features and functionalities of …  Project Management in Business Central Read More »\nThe post Project Management in Business Central appeared first on ERP Software Blog.\nVideo: 3 Customers Tell You Why They Love Microsoft Dynamics GP\nPower BI Quick Tip: Export of Data\nEmerging Trends in AP Automation",
@@ -2936,6 +2976,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=60881",
+          "author": "The Encore Team",
+          "description": "How to Attach Notes and Documents in Dynamics 365 Business Central\nThis article will go over how to attach notes and documents inside Dynamics 365 Business Central. For this example, I will be working in a sales invoice, but this feature is available in other transactional and master record windows. Once you’re in a sales invoice, you will notice a fact box on the right-hand side...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/how-to-attach-notes-and-documents-in-business-central/",
+          "publishedOn": "2024-01-02T16:48:24.000Z",
+          "wordCount": 1302,
+          "title": "How to Attach Notes and Documents in Dynamics 365 Business Central",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/12/D365BC-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=60747",
           "author": "Carol Steinke",
           "description": "Intercompany Processing in Dynamics GP\nIntercompany Processing in Dynamics GP is a great tool to assist ­users when tracking entries in one company that must also be recorded in another company. For example, if you are creating an invoice in Company A, where the expense or a portion of the expense belongs to Company B, Intercompany Processing allows you to...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -3142,6 +3192,106 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/streamlining-integration-using-azure-managed-identities-in-power-apps-and-power-automate-to-access-microsoft-graph-api-part-3",
+          "author": "Mohamed Ashiq Faleel",
+          "description": "In both Part 1  and Part 2 of the blog series, I’ve covered the utilization of Managed Identities in Power Apps and Power Automate for secure access to Microsoft Graph […]",
+          "link": "https://365community.online/streamlining-integration-using-azure-managed-identities-in-power-apps-and-power-automate-to-access-microsoft-graph-api-part-3",
+          "publishedOn": "2024-01-02T18:36:20.000Z",
+          "wordCount": 3151,
+          "title": "Streamlining Integration: Using Azure Managed identities in Power Apps and Power Automate to access Microsoft Graph API – Part 3",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1704221482_Streamlining-Integration-Using-Azure-Managed-identities-in-Power-Apps-and.png?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/enable-onenote-integration-for-dynamics-365-sales-environment",
+          "author": "Priyesh Wagh",
+          "description": "Since collaboration tools like Teams, SharePoints are a norm, so is OneNote. Here’s how you can enable OneNote Integration in your Dynamics 365 CRM Instance – Settings Given that you […]",
+          "link": "https://365community.online/enable-onenote-integration-for-dynamics-365-sales-environment",
+          "publishedOn": "2024-01-02T18:04:35.000Z",
+          "wordCount": 3047,
+          "title": "Enable OneNote Integration for Dynamics 365 Sales environment",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Enable-OneNote-Integration-for-Dynamics-365-Sales-environment.png?fit=1200%2C628&ssl=1"
+        },
+        {
+          "id": "https://365community.online/enable-disable-turn-on-off-multiple-business-rules-dataverse-dynamics-365",
+          "author": "Nishant Rana",
+          "description": "Within the Maker Portal, we can only turn on / turn off one business rule at a time. If we select multiple business rules, we do not see that option. […]",
+          "link": "https://365community.online/enable-disable-turn-on-off-multiple-business-rules-dataverse-dynamics-365",
+          "publishedOn": "2024-01-02T14:00:00.000Z",
+          "wordCount": 3106,
+          "title": "Enable / Disable (turn on / off) multiple business rules – Dataverse / Dynamics 365",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Enable-Disable-turn-on-off-multiple-business-rules.jpeg?fit=800%2C1199&ssl=1"
+        },
+        {
+          "id": "https://365community.online/use-sales-copilot-to-prepare-for-upcoming-meetings",
+          "author": "Nishant Rana",
+          "description": "Sales Copilot can help salespersons prepare for upcoming meetings using the “Prepare for upcoming meetings / Prepare me for today’s meetings” prompt. Make sure you have Sales Copilot enabled. Navigate […]",
+          "link": "https://365community.online/use-sales-copilot-to-prepare-for-upcoming-meetings",
+          "publishedOn": "2024-01-02T14:00:00.000Z",
+          "wordCount": 3069,
+          "title": "Use Sales Copilot to prepare for upcoming meetings",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Use-Sales-Copilot-to-prepare-for-upcoming-meetings.jpeg?fit=1200%2C799&ssl=1"
+        },
+        {
+          "id": "https://365community.online/omnichannel-for-customer-service-store-voice-surveys",
+          "author": "Neil Parkhurst",
+          "description": "Within Microsoft’s Omnichannel for Customer Service we can enable post-call surveys. I recently published a post explaining this feature. In this second related post I will explain how I have […]",
+          "link": "https://365community.online/omnichannel-for-customer-service-store-voice-surveys",
+          "publishedOn": "2024-01-02T11:59:36.000Z",
+          "wordCount": 3028,
+          "title": "Omnichannel for Customer Service – Store Voice Surveys",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Omnichannel-for-Customer-Service-–-Store-Voice-Surveys.jpg?fit=1200%2C799&ssl=1"
+        },
+        {
+          "id": "https://365community.online/ai-microsoft-copilot-and-copyright",
+          "author": "thecrmninja",
+          "description": "Firstly, a Happy New Year to everyone – I’m sure that you have amazing plans for 2024, and wish you the best of luck with them! Over the last few […]",
+          "link": "https://365community.online/ai-microsoft-copilot-and-copyright",
+          "publishedOn": "2024-01-02T11:28:47.000Z",
+          "wordCount": 3033,
+          "title": "AI, Microsoft Copilot, and Copyright",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/AI-Microsoft-Copilot-and-Copyright.jpg?fit=694%2C279&ssl=1"
+        },
+        {
+          "id": "https://365community.online/empower-frontline-workers-with-microsoft-dynamics-365-crm-teams-and-integrated-maps",
+          "author": "Inogic",
+          "description": "The post Empower Frontline Workers with Microsoft Dynamics 365 CRM, Teams, and Integrated Maps! appeared first on Blog | Maplytics. Source link",
+          "link": "https://365community.online/empower-frontline-workers-with-microsoft-dynamics-365-crm-teams-and-integrated-maps",
+          "publishedOn": "2024-01-02T11:25:07.000Z",
+          "wordCount": 3191,
+          "title": "Empower Frontline Workers with Microsoft Dynamics 365 CRM, Teams, and Integrated Maps!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Teams-Maplytics-Field-Service.jpg?fit=700%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/dynamics-365-business-central-isolated-storage-and-secrettext-support",
+          "author": "Stefano Demiliani",
+          "description": "With Dynamics 365 Business Central 2023 Wave 2 release (version 23) Microsoft introduced a new data type called SecretText. This new data type is useful to protect secrets in AL code […]",
+          "link": "https://365community.online/dynamics-365-business-central-isolated-storage-and-secrettext-support",
+          "publishedOn": "2024-01-02T11:20:51.000Z",
+          "wordCount": 3060,
+          "title": "Dynamics 365 Business Central: Isolated Storage and SecretText support.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Dynamics-365-Business-Central-Isolated-Storage-and-SecretText-support.png?fit=662%2C386&ssl=1"
+        },
+        {
+          "id": "https://365community.online/2023-a-year-in-numbers",
+          "author": "Ian Grieve",
+          "description": "I often write a lot of articles, with 2023 being very much a record year. Hopefully poeple find the articles I write useful, ad based on some comments I get […]",
+          "link": "https://365community.online/2023-a-year-in-numbers",
+          "publishedOn": "2024-01-02T11:00:12.000Z",
+          "wordCount": 3055,
+          "title": "2023, A Year in Numbers",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/european-mct-summit-2024",
+          "author": "Julian Sharp",
+          "description": "The European MCT summit is being held the the Netherlands from January 14th to 17th. All MCTs can register and learn from other MCTs on creating and delivering training. I […]",
+          "link": "https://365community.online/european-mct-summit-2024",
+          "publishedOn": "2024-01-02T09:27:14.000Z",
+          "wordCount": 3015,
+          "title": "European MCT Summit 2024",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/European-MCT-Summit-2024.png?fit=244%2C244&ssl=1"
+        },
         {
           "id": "https://365community.online/streamlining-integration-using-azure-managed-identities-in-power-apps-and-power-automate-to-access-microsoft-graph-api-part-2",
           "author": "Mohamed Ashiq Faleel",
@@ -7050,6 +7200,16 @@
       "siteUrl": "https://dev.goshoom.net",
       "articles": [
         {
+          "id": "https://dev.goshoom.net/?p=9935",
+          "author": "Martin Dráb",
+          "description": "Happy New Year! (To everyone who follows Gregorian calendar :)). Let me look a bit at what I did in 2023 and what I expect in 2024. I keep working for a large end-user company. I do a lot of different things there (X++, Azure Functions, code reviews, Powershell, DevOps processes and so on), but ...\nContinue reading ‘Happy New Year 2024’ »",
+          "link": "https://dev.goshoom.net/2024/01/happy-new-year-2024/",
+          "publishedOn": "2024-01-02T06:08:18.000Z",
+          "wordCount": 1412,
+          "title": "Happy New Year 2024",
+          "imageUrl": null
+        },
+        {
           "id": "https://dev.goshoom.net/?p=9928",
           "author": "Martin Dráb",
           "description": "I noticed that some developers believe that Query* classes can’t be used to query temporary tables. It is possible; it just requires an extra step that isn’t needed with regular tables. When working with temporary tables, each buffer (variable) of the same table can refer to a different set of temporary data. Therefore using the ...\nContinue reading ‘Query/QueryRun with temporary tables (AX/F&O)’ »",
@@ -7818,6 +7978,16 @@
           "wordCount": 12369,
           "title": "Use D365FO's jumpRef() to Open Form in a Different Legal Entity",
           "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/10/D365Blog_JumpRef_Title.jpg"
+        },
+        {
+          "id": "https://ax.docentric.com/?p=27219",
+          "author": "Amir Omanović",
+          "description": "The User defined project invoice report (technical name: PSAManageInvoice.Report) is a standard report available in the Project management and Accounting module of D365FO. It is similar to Project invoice without billing rules (technical name: PSAProjInvoice.Report) in terms of preparing the data for the invoice. But […]\nThe post Post and Print Project Invoices in D365FO appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/prepare-and-print-project-invoice-in-d365fo/",
+          "publishedOn": "2023-12-20T19:24:38.000Z",
+          "wordCount": 12353,
+          "title": "Post and Print Project Invoices in D365FO",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/09/02-05-Prepare-and-Print-PSA-Managed-Invoice.jpg"
         },
         {
           "id": "https://ax.docentric.com/?p=27667",
