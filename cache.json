@@ -767,6 +767,26 @@
       "siteUrl": "https://d365fotechexpert.blogspot.com/",
       "articles": [
         {
+          "id": "https://d365fotechexpert.blogspot.com/2024/01/how-to-validate-special-characters-in.html",
+          "author": null,
+          "description": "Overriding the method ValidateField() from table.\n\nThis is how it works on ValidateField():\n\npublic boolean validateField(FieldId _fieldIdToCheck)\n{\n    boolean ret;\n\n    ret = super(_fieldIdToCheck);\n\n    if(ret)\n    {\n        switch(_fieldIdToCheck)\n        {\n\n            case fieldNum (LogisticsEletronicAddress, Locator):\n                    ret = ValidateCharacter::validateCharacter(this.Locator) ;\n\n                    if(!ret)\n                        error( \"The eletronic address has invalid characters\" );\n                    break;\n        }\n    }\n    return ret;\n}\n\nFor example, I have used the Table LogisticsEletronicAddress which is responsible to save contact information like e-mail and telephone. I will check if I am validating the field Locator and then call my class. Suppose I …",
+          "link": "https://d365fotechexpert.blogspot.com/2024/01/how-to-validate-special-characters-in.html",
+          "publishedOn": "2024-01-03T15:38:00.000Z",
+          "wordCount": 5752,
+          "title": "How to Validate special characters in D365FO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://d365fotechexpert.blogspot.com/2024/01/passing-args-from-one-form-to-another.html",
+          "author": null,
+          "description": "Args concept in dynamics ax is awesome. one can easily pass arguments from one Form to another Form with very less effort. Here, i am going to demonstrate how to pass Arguments from Form to Form. The Scenario is when I select one grid in Form A, that record will be passed to Form B and there Form B will received the whole record and filter it and will show.\nStep 1: Make one SampleTable which has three fields named (SIno, name, ID).\nStep 2: Make FormA with datasource as SampleTable and drag the datasource fields into the design Grid.\nStep 3: Drag one button and override the click method and write the following code.\nvoid clicked()\n{\nArgs args;\nFormRun formRun;\n;\nsuper();\nargs = new args(formstr(FormB)); // sending Args(record) to FormB\nargs.record(SampleTable);\nformrun = classfactory.formrunclass(args);\nformrun.init();\nformrun.run();\nformrun.wait();\nformrun.detach();\n\n}\nstep 4: Make FormB with datasource as same table for which you take for Form A i.e., SampleTable and drag the fields in to the\nGrid of design part.\nstep 5: write the following code in to the init method of FormB.\npublic void init()\n{\nSampleTable _sampleTable;\nsuper();\n_sampleTable = element.args().record();\nSampleTable_ds.query().dataSourceTable(Tablenum(SampleTable)).addRange(fieldNum(SampleTbl,RecId)).\nvalue(SysQuery::value(_sampleTable.Recid));\n}",
+          "link": "https://d365fotechexpert.blogspot.com/2024/01/passing-args-from-one-form-to-another.html",
+          "publishedOn": "2024-01-03T04:45:00.000Z",
+          "wordCount": 5681,
+          "title": "Passing Args from one Form to another Form in D365FO",
+          "imageUrl": null
+        },
+        {
           "id": "https://d365fotechexpert.blogspot.com/2023/12/aot-browser-d365-finance-and-operations.html",
           "author": null,
           "description": "If you are doing development work or writing a functional design document for a modification on Dynamics 365 Finance and Operations, you may need to look up the enum value of an enumerated field, find the relationship between two tables, or just see the source code of a class or method. In Dynamics AX 2012, this was easily done directly in the application by going into the AOT (Application Object Tree) and finding the appropriate node.\n\nIn Dynamics 365 Finance and Operations the AOT is not accessible from the user interface. It is only available in a development box using Visual Studio. However Arbela Technologies, who is one of the top Microsoft partners, has developed an enhancement that has basically replicated the old AOT user experience right in the Dynamics 365 Finance and Operations…",
@@ -1263,6 +1283,36 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=102940",
+          "author": "GP Support North",
+          "description": "2024 Year-End Close Tips With Dynamics GP 18.6 from our GP Support North consulting team.  Dynamics GP (Great Plains) 18.6 (AKA GP 2024) has some updates to help your year-end run smoother.  Be sure to stay up to date with annual upgrades.\nThe post 2024 Year-End Close Tips With Dynamics GP 18.6 appeared first on ERP Software Blog.\nMicrosoft Dynamics GP Timecard Entry - Overview\nMicrosoft Dynamics GP Workflow 2.0 Configuration Tutorial\nBank Deposit, Bank Transactions, & Reconcile Bank Statement Windows in Microsoft Dynamics GP",
+          "link": "https://erpsoftwareblog.com/2024/01/2024-year-end-close-tips-with-dynamics-gp-18-6/",
+          "publishedOn": "2024-01-03T21:55:58.000Z",
+          "wordCount": 7667,
+          "title": "2024 Year-End Close Tips With Dynamics GP 18.6",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-Year-End-2024.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=102929",
+          "author": "ERP Software Blog Writer",
+          "description": "Which Microsoft Dynamics Partners deserve the award for Top Blogger and Top Member on ERP Software Blog in 2023? We love to give credit where credit is due. We are …  2023 ERP/CRM Software Blog Award Winners – ERP Software Blog Read More »\nThe post 2023 ERP/CRM Software Blog Award Winners – ERP Software Blog appeared first on ERP Software Blog.\nERP Software Blog Members Recognized as Microsoft US Partner of the Year Award Winners\n20 ERP Software Blog Members Honored as Bob Scott’s Insights VAR Stars 2020\nBAM BOOM CLOUD RECEIVE THE MICROSOFT SMALL & MIDSIZE BUSINESS MANAGEMENT ADVANCED SPECIALIZATION.",
+          "link": "https://erpsoftwareblog.com/2024/01/2023-erp-crm-software-blog-award-winners-erp-software-blog/",
+          "publishedOn": "2024-01-03T21:15:05.000Z",
+          "wordCount": 7481,
+          "title": "2023 ERP/CRM Software Blog Award Winners – ERP Software Blog",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Top-Member-2023-Large.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=102924",
+          "author": "Techcronus Inc.",
+          "description": "Are you ready to take your Customer Relationship Management (CRM) strategy to new heights? Microsoft Sales Copilot AI might just be the game-changer you've been searching for. In today's fast-paced …  Benefits of Microsoft Sales Copilot AI for CRM | Techcronus Read More »\nThe post Benefits of Microsoft Sales Copilot AI for CRM | Techcronus appeared first on ERP Software Blog.\nCopilot and Dynamics 365 ERP: A Match Made for Efficiency\nDynamics 365 Business Central: Insights for Sales Managers\nDynamics 365 for Sales & Business Central Integration: Quote to Cash",
+          "link": "https://erpsoftwareblog.com/2024/01/benefits-of-microsoft-sales-copilot-ai-for-crm/",
+          "publishedOn": "2024-01-03T06:51:24.000Z",
+          "wordCount": 7426,
+          "title": "Benefits of Microsoft Sales Copilot AI for CRM | Techcronus",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=102919",
           "author": "Express Info",
@@ -3192,6 +3242,111 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/secure-inputs-outputs-in-logic-apps",
+          "author": "Anitha Santosh",
+          "description": "Logic apps is best in orchestrating the workflow integrations and it has close to 200+ connectors .With its simple UI designer , it has become the favourite middleware for any […]",
+          "link": "https://365community.online/secure-inputs-outputs-in-logic-apps",
+          "publishedOn": "2024-01-03T22:09:40.000Z",
+          "wordCount": 3041,
+          "title": "Secure inputs / outputs in Logic apps",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Secure-inputs-outputs-in-Logic-apps.png?fit=1089%2C731&ssl=1"
+        },
+        {
+          "id": "https://365community.online/copilot-in-dynamics-365-implementation-portal",
+          "author": "Kurt Hatlevik",
+          "description": "Have you explored the Dynamics 365 implementation portal (https://experience.dynamics.com/FTimplementationportal )? You should! Lot’s of value and checklists available there. The Dynamics 365 Implementation Portal is designed to assist both customers […]",
+          "link": "https://365community.online/copilot-in-dynamics-365-implementation-portal",
+          "publishedOn": "2024-01-03T18:20:22.000Z",
+          "wordCount": 3037,
+          "title": "CoPilot in Dynamics 365 implementation portal",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/CoPilot-in-Dynamics-365-implementation-portal.png?fit=481%2C861&ssl=1"
+        },
+        {
+          "id": "https://365community.online/create-project-plan-using-copilot-in-project-operations",
+          "author": "Priyesh Wagh",
+          "description": "Now that you must have enabled Copilot for Project Operations [If not, you can refer this post to learn how you can enable Copilot for Project Operations – ] Note: […]",
+          "link": "https://365community.online/create-project-plan-using-copilot-in-project-operations",
+          "publishedOn": "2024-01-03T18:11:28.000Z",
+          "wordCount": 3049,
+          "title": "Create Project Plan using Copilot in Project Operations",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Create-Project-Plan-using-Copilot-in-Project-Operations.png?fit=1200%2C734&ssl=1"
+        },
+        {
+          "id": "https://365community.online/d365ppug-birmingham-jan-2024-event",
+          "author": "Neil Parkhurst",
+          "description": "The first in-person meeting of the Dynamics 365 and Power Platform User Group for Birmingham will take place on Thursday 25th Jan from 18:00. I can’t believe we are entering […]",
+          "link": "https://365community.online/d365ppug-birmingham-jan-2024-event",
+          "publishedOn": "2024-01-03T15:15:34.000Z",
+          "wordCount": 3022,
+          "title": "D365PPUG Birmingham – Jan 2024 Event",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/D365PPUG-Birmingham-–-Jan-2024-Event.webp.jpeg?fit=600%2C338&ssl=1"
+        },
+        {
+          "id": "https://365community.online/a-new-approach-to-error-handling-in-power-automate",
+          "author": "Pieter Veenstra",
+          "description": "For quite a few years now I’ve promoted the Try-Catch error handling pattern. But there is a new approach on its way. The Flow Run Table Within Dataverse you can […]",
+          "link": "https://365community.online/a-new-approach-to-error-handling-in-power-automate",
+          "publishedOn": "2024-01-03T15:12:53.000Z",
+          "wordCount": 3023,
+          "title": "A new approach to error handling in Power Automate",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/from-paraguay-to-tarragona-cristhian-fernandezs-tech-journey-through-software-development-microsoft-business-applications-and-the-power-platform",
+          "author": "NZ365Guy",
+          "description": "FULL SHOW NOTES https://podcast.nz365guy.com/514  Ever wondered about the transformative journey from a software developer to a Microsoft business applications whizz? Our guest, Microsoft MVP Cristhian Fernandez, founder of Creativity Spark, […]",
+          "link": "https://365community.online/from-paraguay-to-tarragona-cristhian-fernandezs-tech-journey-through-software-development-microsoft-business-applications-and-the-power-platform",
+          "publishedOn": "2024-01-03T13:00:00.000Z",
+          "wordCount": 3108,
+          "title": "From Paraguay to Tarragona: Cristhian Fernandez's Tech Journey through Software Development, Microsoft Business Applications, and the Power Platform",
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/1796418/14044647-from-paraguay-to-tarragona-cristhian-fernandez-s-tech-journey-through-software-development-microsoft-business-applications-and-the-power-platform.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/my-review-of-2023",
+          "author": "Jeroen Burgerhout",
+          "description": "So…. 2023. That was 3 days ago. 2023 was a special year for me. In this blog post, I will mention all the highlights, on a personal level, community and […]",
+          "link": "https://365community.online/my-review-of-2023",
+          "publishedOn": "2024-01-03T11:44:05.000Z",
+          "wordCount": 3030,
+          "title": "My review of 2023",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/My-review-of-2023-scaled.jpeg?fit=1200%2C800&ssl=1"
+        },
+        {
+          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-know-what-triggers-are-available-with-power-automate",
+          "author": "Ian Grieve",
+          "description": "This post is part of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do […]",
+          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-know-what-triggers-are-available-with-power-automate",
+          "publishedOn": "2024-01-03T11:00:40.000Z",
+          "wordCount": 3104,
+          "title": "In Microsoft Dynamics 365 Business Central (Power Automate), how do I… Know What Triggers Are Available with Power Automate",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-2-topic-1-part-2-youtube",
+          "author": "shabaz darr",
+          "description": "Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]",
+          "link": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-2-topic-1-part-2-youtube",
+          "publishedOn": "2024-01-03T10:00:16.000Z",
+          "wordCount": 3098,
+          "title": "AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Episode 2 – Topic 1: Part 2 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1704323534_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/generate-customer-voice-survey-invitations-using-canvas-power-apps",
+          "author": "Inogic",
+          "description": "Microsoft has provided Customer Voice Surveys which help an organization to design the Survey where users can provide feedback by answering the questions within the Survey. Customer Voice allows Survey […]",
+          "link": "https://365community.online/generate-customer-voice-survey-invitations-using-canvas-power-apps",
+          "publishedOn": "2024-01-03T09:22:39.000Z",
+          "wordCount": 3322,
+          "title": "Generate Customer Voice Survey Invitations using Canvas Power Apps",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1Canvas-Power-Apps.jpeg?fit=1200%2C511&ssl=1"
+        },
         {
           "id": "https://365community.online/streamlining-integration-using-azure-managed-identities-in-power-apps-and-power-automate-to-access-microsoft-graph-api-part-3",
           "author": "Mohamed Ashiq Faleel",
@@ -5452,6 +5607,16 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=5017",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2024/01/03/do-you-know-how-to-create-a-project-hierarchy-of-the-project-team-members-in-d365projectoperations/",
+          "publishedOn": "2024-01-03T06:05:32.000Z",
+          "wordCount": 3262,
+          "title": "DO YOU KNOW … How to create a project hierarchy of the project team members in D365ProjectOperations?",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/03/en_text.jpg"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=5653",
           "author": "Ludwig Reinhard",
           "description": "A Big Thank You to All My Readers I am thrilled and humbled to announce that my blog has reached …\nContinue reading →",
@@ -6241,6 +6406,16 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=3213",
+          "author": "AnithaEswaran",
+          "description": "Logic apps is best in orchestrating the workflow integrations and it has close to 200+ connectors .With its simple UI designer , it has become the favourite middleware for any integration scenarios. Data plays a major role in today`s transactions … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2024/01/03/secure-inputs-outputs-in-logic-apps/",
+          "publishedOn": "2024-01-03T22:09:40.000Z",
+          "wordCount": 4393,
+          "title": "Secure inputs / outputs in Logic apps",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2024/01/image-11.png"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=3174",
           "author": "AnithaEswaran",
           "description": "In the previous post, I have explained about the various options of quering F&O using OData. Let us continue the ARITHEMATIC queries in this post. Less than – Applicable for numeric fields . Retrives the records that have the value … Continue reading →",
@@ -6601,6 +6776,16 @@
       "feedUrl": "https://kurthatlevik.com/feed/",
       "siteUrl": "https://kurthatlevik.com",
       "articles": [
+        {
+          "id": "http://kurthatlevik.com/?p=4557",
+          "author": "Kurt Hatlevik",
+          "description": "Have you explored the Dynamics 365 implementation portal (https://experience.dynamics.com/FTimplementationportal )? You should! Lot’s of value and checklists available there. The Dynamics 365 Implementation Portal is designed to assist both customers and partners in guiding their Dynamics 365 projects to a successful completion. This portal offers detailed implementation advice and strategies to mitigate risks, tailored to … Continue reading CoPilot in Dynamics 365 implementation portal",
+          "link": "https://kurthatlevik.com/2024/01/03/copilot-in-dynamics-365-implementation-portal/",
+          "publishedOn": "2024-01-03T18:20:22.000Z",
+          "wordCount": 3503,
+          "title": "CoPilot in Dynamics 365 implementation portal",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2024/01/010324_1820_copilotindy1.png"
+        },
         {
           "id": "http://kurthatlevik.com/?p=4554",
           "author": "Kurt Hatlevik",
@@ -7978,6 +8163,16 @@
           "wordCount": 12369,
           "title": "Use D365FO's jumpRef() to Open Form in a Different Legal Entity",
           "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/10/D365Blog_JumpRef_Title.jpg"
+        },
+        {
+          "id": "https://ax.docentric.com/?p=27219",
+          "author": "Amir Omanović",
+          "description": "The User defined project invoice report (technical name: PSAManageInvoice.Report) is a standard report available in the Project management and accounting module of D365FO. It is similar to Project invoice without billing rules (technical name: PSAProjInvoice.Report) in terms of preparing the data for the invoice before […]\nThe post Post and Print Project Invoices in D365FO appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/post-and-print-project-invoices-in-d365fo/",
+          "publishedOn": "2023-12-20T19:24:38.000Z",
+          "wordCount": 12373,
+          "title": "Post and Print Project Invoices in D365FO",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/09/02-05-Prepare-and-Print-PSA-Managed-Invoice.jpg"
         },
         {
           "id": "https://ax.docentric.com/?p=27219",
