@@ -2,10 +2,132 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-01-04T00:40:09.916Z</updated>
+    <updated>2024-01-05T00:40:21.645Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Power Platform First Aid sessions]]></title>
+        <id>https://365community.online/power-platform-first-aid-sessions</id>
+        <link href="https://365community.online/power-platform-first-aid-sessions"/>
+        <updated>2024-01-04T19:44:52.000Z</updated>
+        <summary type="html"><![CDATA[Are you looking for help with your Power Platform. And you had enough of looking for help by searching on the internet? Power Platform First Aid ⛑️Join us in January […]]]></summary>
+        <author>
+            <name>Pieter Veenstra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I spent my holidays… for you!]]></title>
+        <id>https://365community.online/how-i-spent-my-holidays-for-you</id>
+        <link href="https://365community.online/how-i-spent-my-holidays-for-you"/>
+        <updated>2024-01-04T17:17:52.000Z</updated>
+        <summary type="html"><![CDATA[I have been prepared to start a pet project many times but never had a long enough block of uninterrupted quiet time to get started. Then, along came the holidays! […]]]></summary>
+        <author>
+            <name>Steve Mordue</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HOW ROCKTON SOFTWARE CAN CUSTOMIZE DYNAMICS GP TO FIT YOUR NEEDS]]></title>
+        <id>https://erpsoftwareblog.com/?p=102958</id>
+        <link href="https://erpsoftwareblog.com/2024/01/how-rockton-software-can-customize-dynamics-gp-to-fit-your-needs/"/>
+        <updated>2024-01-04T16:38:23.000Z</updated>
+        <summary type="html"><![CDATA[Have you been a loyal Dynamics GP user? Looking for improvements to fit your needs? Rockton has created custom add-on products to help you Work Simpler & Easier® in Dynamics GP. In …  HOW ROCKTON SOFTWARE CAN CUSTOMIZE DYNAMICS GP TO FIT YOUR NEEDS Read More »
+The post HOW ROCKTON SOFTWARE CAN CUSTOMIZE DYNAMICS GP TO FIT YOUR NEEDS appeared first on ERP Software Blog.
+Dynamics GP - Love at First Sight!
+No Fooling - 3 Dynamics GP Users For $1!
+Business Intelligence in Microsoft Dynamics GP 2010]]></summary>
+        <author>
+            <name>Mark Rockwell, Rockton Software</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a New User in Microsoft Dynamics GP]]></title>
+        <id>https://www.encorebusiness.com/?p=34105</id>
+        <link href="https://www.encorebusiness.com/blog/create-new-user-microsoft-dynamics-gp/"/>
+        <updated>2024-01-04T15:47:56.000Z</updated>
+        <summary type="html"><![CDATA[How to Create a New User in Microsoft Dynamics GP
+When creating a new user in Dynamics GP, there are a few things you must know. Before a new user can access Dynamics GP, they will need to be set up with a User ID that has access to at least one company with at least one security role. By default, only the ‘sa’ (system...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Ryan Fiorini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Entity collection as OData action parameter]]></title>
+        <id>https://dev.goshoom.net/?p=9957</id>
+        <link href="https://dev.goshoom.net/2024/01/entity-collection-as-odata-action-parameter/"/>
+        <updated>2024-01-04T15:30:48.000Z</updated>
+        <summary type="html"><![CDATA[Data entities in F&O can be exposed through OData protocol. You can also add OData actions by creating methods in X++ and decorating them with SysODataCollectionAttribute. You can see an example in MssLeaveRequestDateEntity.getDirects(): [ SysODataActionAttribute('getDirects', false), SysODataCollectionAttribute('return', Types::Record, 'MssLeaveRequestDateEntity') ] public static List getDirects( str reportingPersonnelNumber, date fromDate, date toDate, LeaveRequestApprovalStatus leaveRequestStatus) { List list ...
+Continue reading ‘Entity collection as OData action parameter’ »]]></summary>
+        <author>
+            <name>Martin Dráb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elevating your Microsoft Dynamics 365 Project Management & Accounting experience with standardized business solutions tailored to your organizations needs]]></title>
+        <id>https://erpsoftwareblog.com/?p=102949</id>
+        <link href="https://erpsoftwareblog.com/2024/01/elevating-your-microsoft-dynamics-365-project-management-accounting-experience-with-standardized-business-solutions-tailored-to-your-organizations-needs/"/>
+        <updated>2024-01-04T15:04:06.000Z</updated>
+        <summary type="html"><![CDATA[Project Management is constantly transforming and with trends as AI, Machine Learning and an increased emphasis on data-driven decision-making, 2024 will be an inspiring year for organizations looking to optimize …  Elevating your Microsoft Dynamics 365 Project Management & Accounting experience with standardized business solutions tailored to your organizations needs Read More »
+The post Elevating your Microsoft Dynamics 365 Project Management & Accounting experience with standardized business solutions tailored to your organizations needs appeared first on ERP Software Blog.
+Microsoft Dynamics AX 2012 for Public Sector Organizations Effectively Manages Public Finances
+Is Your “Cloud ERP” Really Cloud Based?
+Avastone Technologies to Merge with Heartland Business Systems]]></summary>
+        <author>
+            <name>Axtension</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: how the BCApps repo is moving?]]></title>
+        <id>https://365community.online/dynamics-365-business-central-how-the-bcapps-repo-is-moving</id>
+        <link href="https://365community.online/dynamics-365-business-central-how-the-bcapps-repo-is-moving"/>
+        <updated>2024-01-04T14:58:17.000Z</updated>
+        <summary type="html"><![CDATA[Can you see the image on top of this post? They’re not fireworks of the new year 2024 but instead something different… I think that you already know that Microsoft […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upgrade Your Dynamic 365 CRM Call Transfers: Protect Data, Boost Efficiency, Impress Clients]]></title>
+        <id>https://365community.online/upgrade-your-dynamic-365-crm-call-transfers-protect-data-boost-efficiency-impress-clients</id>
+        <link href="https://365community.online/upgrade-your-dynamic-365-crm-call-transfers-protect-data-boost-efficiency-impress-clients"/>
+        <updated>2024-01-04T12:36:39.000Z</updated>
+        <summary type="html"><![CDATA[Introduction Imagine you are working in a company that keeps records and transcription of phone calls for various reasons, like quality assurance or improvement purposes. Now, let’s say you need […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remove the Dev Home app with Intune]]></title>
+        <id>https://365community.online/remove-the-dev-home-app-with-intune</id>
+        <link href="https://365community.online/remove-the-dev-home-app-with-intune"/>
+        <updated>2024-01-04T11:33:53.000Z</updated>
+        <summary type="html"><![CDATA[Today another short blog post about the removal of the Dev Home app, which comes with the new Windows 11 23H2 update. Dev Home…. What on earth should you use […]]]></summary>
+        <author>
+            <name>Jeroen Burgerhout</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Power Automate), how do I… Know What Flow Templates Are Available from Microsoft]]></title>
+        <id>https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-know-what-flow-templates-are-available-from-microsoft</id>
+        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-how-do-i-know-what-flow-templates-are-available-from-microsoft"/>
+        <updated>2024-01-04T11:00:39.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[For Dummies: creating an internal Microsoft Power Platform hub (from the template)]]></title>
+        <id>https://365community.online/for-dummies-creating-an-internal-microsoft-power-platform-hub-from-the-template</id>
+        <link href="https://365community.online/for-dummies-creating-an-internal-microsoft-power-platform-hub-from-the-template"/>
+        <updated>2024-01-04T08:17:11.000Z</updated>
+        <summary type="html"><![CDATA[In my world being an expert in something and being a dummy in something else is pretty normal. No one knows everything. I am an expert in the Power Platform […]]]></summary>
+        <author>
+            <name>Olena Grischenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Secure inputs / outputs in Logic apps]]></title>
         <id>https://365community.online/secure-inputs-outputs-in-logic-apps</id>
