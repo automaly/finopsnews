@@ -2,10 +2,202 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-01-05T00:40:21.645Z</updated>
+    <updated>2024-01-06T00:39:40.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Check your data via SQL]]></title>
+        <id>https://alexvoy.blogspot.com/2024/01/check-your-data-via-sql.html</id>
+        <link href="https://alexvoy.blogspot.com/2024/01/check-your-data-via-sql.html"/>
+        <updated>2024-01-05T23:30:00.007Z</updated>
+        <summary type="html"><![CDATA[Sometimes we need to check or validate some data in a dev box. The fastest way to do that is to run a query directly in MS SQL management studio.
+For example, I have hundreds legal entities and want to know in which of them I have some Purchase orders. Voila:
+
+
+
+
+
+
+
+select
+dataareaid as Company, count(RECID) as 'Number of PO'
+from PURCHTABLE
+group by DATAAREAID
+having count(RECID) > 1]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhance Microsoft D365 Business Central with Electronic Signatures for Check Payments]]></title>
+        <id>https://erpsoftwareblog.com/?p=102994</id>
+        <link href="https://erpsoftwareblog.com/2024/01/enhance-microsoft-d365-business-central-with-electronic-signatures-for-check-payments/"/>
+        <updated>2024-01-05T19:14:48.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Dynamics 365 Business Central (BC) offers essential financial management features, including standard MICR check printing with signatures. However, Mekorma Electronic Signatures significantly enhances the process, providing more flexibility and …  Enhance Microsoft D365 Business Central with Electronic Signatures for Check Payments Read More »
+The post Enhance Microsoft D365 Business Central with Electronic Signatures for Check Payments appeared first on ERP Software Blog.
+The Top Three Questions to Ask Before Selecting a Dynamics GP Manufacturing Partner
+Surviving Disruption and Amazon-Like Expectations in Food and Beverage E-Commerce
+Using Technology to Track Non-Profit Fundraising for Better Engagement]]></summary>
+        <author>
+            <name>Mekorma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Modify Columns in Dynamics 365 Business Central]]></title>
+        <id>https://www.encorebusiness.com/?p=60908</id>
+        <link href="https://www.encorebusiness.com/blog/how-to-modify-columns-in-d365-business-central/"/>
+        <updated>2024-01-05T17:26:52.000Z</updated>
+        <summary type="html"><![CDATA[How to Modify Columns in Dynamics 365 Business Central
+This blog will demonstrate how to modify columns and personalize a Customer Card in Dynamics 365 Business Central. Begin by navigating to the Customer Page in your Business Central environment. Once in the Customer window, you can click on a customer to view detailed information, including Customer Statistics: Remove Sections From a Page To remove...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>The Encore Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[System Updates in SharePoint from Power Automate using the ValidateUpdateListItem endpoint]]></title>
+        <id>https://365community.online/system-updates-in-sharepoint-from-power-automate-using-the-validateupdatelistitem-endpoint</id>
+        <link href="https://365community.online/system-updates-in-sharepoint-from-power-automate-using-the-validateupdatelistitem-endpoint"/>
+        <updated>2024-01-05T16:36:40.000Z</updated>
+        <summary type="html"><![CDATA[Today I wanted to update Documents/Items without triggering other flows. The ValidateUpdateListItem endpoint in the REST API made this System Update possible. System Updates vs Updates Normally when an item […]]]></summary>
+        <author>
+            <name>Pieter Veenstra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migrating Historical Dynamics GP Data to Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=102952</id>
+        <link href="https://erpsoftwareblog.com/2024/01/migrating-historical-dynamics-gp-data-to-business-central/"/>
+        <updated>2024-01-05T15:30:53.000Z</updated>
+        <summary type="html"><![CDATA[Migrating Historical Dynamics GP Data to Business Central Microsoft has been encouraging Dynamics GP users to migrate to Dynamics 365 Business Central. One of the areas of concern for GP …  Migrating Historical Dynamics GP Data to Business Central Read More »
+The post Migrating Historical Dynamics GP Data to Business Central appeared first on ERP Software Blog.
+When is Azure more effective to access your Data with Microsoft Dynamics 365?
+Microsoft Dynamics Reporting can lead the way with your accounting team today!
+Professional services firms: solve your pain points with a project management solution]]></summary>
+        <author>
+            <name>ArcherPoint</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is TypeScript, pros and cons and how it helps in Model Driven Apps]]></title>
+        <id>https://365community.online/what-is-typescript-pros-and-cons-and-how-it-helps-in-model-driven-apps</id>
+        <link href="https://365community.online/what-is-typescript-pros-and-cons-and-how-it-helps-in-model-driven-apps"/>
+        <updated>2024-01-05T13:57:50.000Z</updated>
+        <summary type="html"><![CDATA[Written by wilmeralcivar88@gmail.com In the quest for a fresh start this year, I’m going to create a series of blogposts that is a guide about TypeScript applied to Model Driven […]]]></summary>
+        <author>
+            <name>Wilmer Alcivar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics NAV to Business Central Upgrade [Insider Tips]]]></title>
+        <id>https://erpsoftwareblog.com/?p=102970</id>
+        <link href="https://erpsoftwareblog.com/2024/01/dynamics-nav-to-business-central-upgrade/"/>
+        <updated>2024-01-05T13:39:32.000Z</updated>
+        <summary type="html"><![CDATA[Are you contemplating deploying Business Central on-premises or migrating your solution online? The decision to upgrade from Microsoft Dynamics NAV to Dynamics 365 Business Central will depend on to what …  Dynamics NAV to Business Central Upgrade [Insider Tips] Read More »
+The post Dynamics NAV to Business Central Upgrade [Insider Tips] appeared first on ERP Software Blog.
+Video: 3 Customers Tell You Why They Love Microsoft Dynamics GP
+What Does a 1095-C Delay Mean for 1040 Filings?
+Power BI Quick Tip: Export of Data]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top ERP Trends to Look for in 2024]]></title>
+        <id>https://erpsoftwareblog.com/?p=102961</id>
+        <link href="https://erpsoftwareblog.com/2024/01/top-erp-trends-to-look-for-in-2024/"/>
+        <updated>2024-01-05T12:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Top ERP Trends to Look for in 2024 mostly depend on the specific need of a business but still, certain shifts in ERP trends are gaining traction and continue to …  Top ERP Trends to Look for in 2024 Read More »
+The post Top ERP Trends to Look for in 2024 appeared first on ERP Software Blog.
+Take Advantage of Microsoft Dynamics 365 Business Central’s Intuitive, User-Friendly Platform
+Profitez de la plateforme intuitive et conviviale de Microsoft Dynamics 365 Business Central
+Dynamics ERP On-Premise to Cloud Top Benefits]]></summary>
+        <author>
+            <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Undo changes or Restore Deleted Dynamics 365 CRM Records in Bulk with the new Undo2Restore Tool!]]></title>
+        <id>https://365community.online/undo-changes-or-restore-deleted-dynamics-365-crm-records-in-bulk-with-the-new-undo2restore-tool</id>
+        <link href="https://365community.online/undo-changes-or-restore-deleted-dynamics-365-crm-records-in-bulk-with-the-new-undo2restore-tool"/>
+        <updated>2024-01-05T11:58:29.000Z</updated>
+        <summary type="html"><![CDATA[As we stand on the threshold of a new year, Team Inogic is delighted to share some exciting updates to your trusted Undo2Restore app—an indispensable solution for safeguarding your CRM […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working with Power Automate: Series Index]]></title>
+        <id>https://365community.online/working-with-power-automate-series-index</id>
+        <link href="https://365community.online/working-with-power-automate-series-index"/>
+        <updated>2024-01-05T11:00:48.000Z</updated>
+        <summary type="html"><![CDATA[I recently wrote a few articles on Power Automate as part of my In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series. Since then I have started […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volume 7: Co-Pilot in Power Automate – YouTube]]></title>
+        <id>https://365community.online/volume-7-co-pilot-in-power-automate-youtube</id>
+        <link href="https://365community.online/volume-7-co-pilot-in-power-automate-youtube"/>
+        <updated>2024-01-05T10:58:20.000Z</updated>
+        <summary type="html"><![CDATA[Volume 7: Co-Pilot in Power Automate source]]></summary>
+        <author>
+            <name>Deepesh Somani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Evolving Landscape of Location Analytics for Dynamics 365 with Generative AI]]></title>
+        <id>https://365community.online/the-evolving-landscape-of-location-analytics-for-dynamics-365-with-generative-ai</id>
+        <link href="https://365community.online/the-evolving-landscape-of-location-analytics-for-dynamics-365-with-generative-ai"/>
+        <updated>2024-01-05T10:47:59.000Z</updated>
+        <summary type="html"><![CDATA[The post The Evolving Landscape of Location Analytics for Dynamics 365 with Generative AI appeared first on Blog | Maplytics. Source link]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Automate: retrieving the first item of a recordset avoiding a loop.]]></title>
+        <id>https://365community.online/power-automate-retrieving-the-first-item-of-a-recordset-avoiding-a-loop</id>
+        <link href="https://365community.online/power-automate-retrieving-the-first-item-of-a-recordset-avoiding-a-loop"/>
+        <updated>2024-01-05T10:46:42.000Z</updated>
+        <summary type="html"><![CDATA[In Dynamics 365 Business Central it’s quite common to do operations in AL code for filtering a set of records and then retrieving a value of the first record of […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do you want to run “Real Async Operations” in MsDyn365FO?]]></title>
+        <id>http://msdyn365fo.wordpress.com/?p=598</id>
+        <link href="https://msdyn365fo.wordpress.com/2024/01/05/do-you-want-to-run-real-async-operations-in-msdyn365fo/"/>
+        <updated>2024-01-05T10:24:59.000Z</updated>
+        <summary type="html"><![CDATA[In version 10.0.38 PU62 of Microsoft Dynamics 365 for Finance and Operations I found a new feature called “Real Async Operations”. The official documentation is leaking some information so I decided to add more details with this blog: https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/dev-tools/real-async As also documented in the official documentation you first have to enable the feature via feature … Continue reading Do you want to run “Real Async Operations” in MsDyn365FO? →]]></summary>
+        <author>
+            <name>Paul Heisterkamp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Episode 3 – Topic 2: Part 1 – YouTube]]></title>
+        <id>https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-3-topic-2-part-1-youtube</id>
+        <link href="https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-3-topic-2-part-1-youtube"/>
+        <updated>2024-01-05T10:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 HR: Compare benefits plans]]></title>
+        <id>https://365community.online/d365-hr-compare-benefits-plans</id>
+        <link href="https://365community.online/d365-hr-compare-benefits-plans"/>
+        <updated>2024-01-05T07:35:10.000Z</updated>
+        <summary type="html"><![CDATA[Deploying a new Dynamics environment means that our first stop is Feature Management. I was doing this earlier today and realized that some new features have been released and it […]]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Power Platform First Aid sessions]]></title>
         <id>https://365community.online/power-platform-first-aid-sessions</id>
