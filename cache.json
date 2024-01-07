@@ -767,6 +767,16 @@
       "siteUrl": "https://d365fotechexpert.blogspot.com/",
       "articles": [
         {
+          "id": "https://d365fotechexpert.blogspot.com/2024/01/make-any-field-mandatory-on-form-level.html",
+          "author": null,
+          "description": "Microsoft provides an feature to make any field mandatory from the front end, but what if we want to make a \"field\" mandatory in Dynamics 365 for Finance and Operations with customization?\nIt is often a requirement from the customer side to make the field mandatory on the forms for some users, user groups, and sometimes for all the users of the organization.\nLet's take an example if we want to make Main Category field mandatory on the main account page. \n\n\n[extensionof(formdatasourceStr(MainAccount, MainAccount))]\ninternal final class COMPMainAccount_Extension\npublic boolean validateWrite()\n {\n boolean ret = next validateWrite();\n FormStringControl LedgerCategory = this.formRun().design().controlName(\"Ledger_Category\") as FormStringControl;\n if (!LedgerCategory.valueStr())\n {\n ret = checkFailed(\"Ledger Category must be filled in\");\n }\n return ret;\n }",
+          "link": "https://d365fotechexpert.blogspot.com/2024/01/make-any-field-mandatory-on-form-level.html",
+          "publishedOn": "2024-01-06T02:39:00.000Z",
+          "wordCount": 5699,
+          "title": "Make any field mandatory on the form level with X++ in D365 Finance and Operations",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdUN2rIsmrAXqugokVK1mIpCEHA-yFvGmfv--UW-6VHXSZvbLdC2pYZv7xXeCPQzly5k0To_D-9Sf7S1y_EJuSNiie6s27gUNuh_lsRQ3REhI0Ms1RkypvovU5r5X3YtU6FFW0Ki3svX8zFO-5QXyKWGL_Yk6ud2tB9l_lfOxiQVaHe9PIQDQCijAw8AJPnN6jzXSFbEzERzTm5G1xmANvrvMBonAegU2RUfDRxLGBbapge6WAXEBhvgHUlPYNOrAn_PnDB4QOXUMrX9o5KncOM=w1200-h630-p-k-no-nu"
+        },
+        {
           "id": "https://d365fotechexpert.blogspot.com/2024/01/how-to-validate-special-characters-in.html",
           "author": null,
           "description": "Overriding the method ValidateField() from table.\n\nThis is how it works on ValidateField():\n\npublic boolean validateField(FieldId _fieldIdToCheck)\n{\n    boolean ret;\n\n    ret = super(_fieldIdToCheck);\n\n    if(ret)\n    {\n        switch(_fieldIdToCheck)\n        {\n\n            case fieldNum (LogisticsEletronicAddress, Locator):\n                    ret = ValidateCharacter::validateCharacter(this.Locator) ;\n\n                    if(!ret)\n                        error( \"The eletronic address has invalid characters\" );\n                    break;\n        }\n    }\n    return ret;\n}\n\nFor example, I have used the Table LogisticsEletronicAddress which is responsible to save contact information like e-mail and telephone. I will check if I am validating the field Locator and then call my class. Suppose I …",
@@ -8433,6 +8443,16 @@
           "wordCount": 12369,
           "title": "Use D365FO's jumpRef() to Open Form in a Different Legal Entity",
           "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/10/D365Blog_JumpRef_Title.jpg"
+        },
+        {
+          "id": "http://ax.docentric.com/?p=7347",
+          "author": "Ana Gligorijevic",
+          "description": "Version 3.4.7 Change Log ▫Release date: 2023-09-29 ▫(Hotfix 3.4.7.1) Release date: 2023-11-02 ▫(Hotfix 3.4.7.2) Release date: 2023-12-27 NEW FEATURES Print management utilities – Free Edition: - Filter, sort and search all Print management settings including overrides for a legal entity in a single grid (tabular […]\nThe post Version 3.x Change Log appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/version-3-x-change-log/",
+          "publishedOn": "2023-12-27T19:00:57.000Z",
+          "wordCount": 28852,
+          "title": "Version 3.x Change Log",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2021/05/D365Blog_VersionChangeLog.jpg"
         },
         {
           "id": "https://ax.docentric.com/?p=27219",

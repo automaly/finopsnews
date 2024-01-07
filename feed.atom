@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-01-06T00:39:40.759Z</updated>
+    <updated>2024-01-07T00:44:18.053Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Make any field mandatory on the form level with X++ in D365 Finance and Operations]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2024/01/make-any-field-mandatory-on-form-level.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2024/01/make-any-field-mandatory-on-form-level.html"/>
+        <updated>2024-01-06T02:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft provides an feature to make any field mandatory from the front end, but what if we want to make a "field" mandatory in Dynamics 365 for Finance and Operations with customization?
+It is often a requirement from the customer side to make the field mandatory on the forms for some users, user groups, and sometimes for all the users of the organization.
+Let's take an example if we want to make Main Category field mandatory on the main account page. 
+
+
+[extensionof(formdatasourceStr(MainAccount, MainAccount))]
+internal final class COMPMainAccount_Extension
+public boolean validateWrite()
+ {
+ boolean ret = next validateWrite();
+ FormStringControl LedgerCategory = this.formRun().design().controlName("Ledger_Category") as FormStringControl;
+ if (!LedgerCategory.valueStr())
+ {
+ ret = checkFailed("Ledger Category must be filled in");
+ }
+ return ret;
+ }]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Check your data via SQL]]></title>
         <id>https://alexvoy.blogspot.com/2024/01/check-your-data-via-sql.html</id>
@@ -1280,6 +1306,17 @@ How to keep businesses running smoothly with labor shortages
 Time to Upgrade Your TMS or Maybe Move to a New Provider ?]]></summary>
         <author>
             <name>The ISV Society</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Version 3.x Change Log]]></title>
+        <id>http://ax.docentric.com/?p=7347</id>
+        <link href="https://ax.docentric.com/version-3-x-change-log/"/>
+        <updated>2023-12-27T19:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Version 3.4.7 Change Log ▫Release date: 2023-09-29 ▫(Hotfix 3.4.7.1) Release date: 2023-11-02 ▫(Hotfix 3.4.7.2) Release date: 2023-12-27 NEW FEATURES Print management utilities – Free Edition: - Filter, sort and search all Print management settings including overrides for a legal entity in a single grid (tabular […]
+The post Version 3.x Change Log appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Ana Gligorijevic</name>
         </author>
     </entry>
     <entry>

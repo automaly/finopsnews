@@ -22,11 +22,61 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-01-05 datetime="2024-01-05T23:30:00.007Z">2024-01-05</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-01-05 datetime="2024-01-05T23:30:00.007Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-01-05 datetime="2024-01-06T02:39:00.000Z">2024-01-05</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-01-05 datetime="2024-01-06T02:39:00.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >D365 F&amp;amp;O TechExpert</button>
+                  <a class="source-heading__link" href="https://d365fotechexpert.blogspot.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://d365fotechexpert.blogspot.com/2024/01/make-any-field-mandatory-on-form-level.html"
+                        open
+                      >
+                        <summary class="article-expander__title">Make any field mandatory on the form level with X++ in D365 Finance and Operations</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://d365fotechexpert.blogspot.com/2024/01/make-any-field-mandatory-on-form-level.html">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdUN2rIsmrAXqugokVK1mIpCEHA-yFvGmfv--UW-6VHXSZvbLdC2pYZv7xXeCPQzly5k0To_D-9Sf7S1y_EJuSNiie6s27gUNuh_lsRQ3REhI0Ms1RkypvovU5r5X3YtU6FFW0Ki3svX8zFO-5QXyKWGL_Yk6ud2tB9l_lfOxiQVaHe9PIQDQCijAw8AJPnN6jzXSFbEzERzTm5G1xmANvrvMBonAegU2RUfDRxLGBbapge6WAXEBhvgHUlPYNOrAn_PnDB4QOXUMrX9o5KncOM&#x3D;w1200-h630-p-k-no-nu" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Microsoft provides an feature to make any field mandatory from the front end, but what if we want to make a &quot;field&quot; mandatory in Dynamics 365 for Finance and Operations with customization?
+It is often a requirement from the customer side to make the field mandatory on the forms for some users, user groups, and sometimes for all the users of the organization.
+Let&#x27;s take an example if we want to make Main Category field mandatory on the main account page. 
+
+
+[extensionof(formdatasourceStr(MainAccount, MainAccount))]
+internal final class COMPMainAccount_Extension
+public boolean validateWrite()
+ {
+ boolean ret &#x3D; next validateWrite();
+ FormStringControl LedgerCategory &#x3D; this.formRun().design().controlName(&quot;Ledger_Category&quot;) as FormStringControl;
+ if (!LedgerCategory.valueStr())
+ {
+ ret &#x3D; checkFailed(&quot;Ledger Category must be filled in&quot;);
+ }
+ return ret;
+ }</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;19
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -2986,11 +3036,46 @@ The post Use D365FO’s jumpRef() to Open Form in a Different Legal Entity appea
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-12-27 datetime="2023-12-27T17:59:54.000Z">2023-12-27</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-12-27 datetime="2023-12-27T17:59:54.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-12-27 datetime="2023-12-27T19:00:57.000Z">2023-12-27</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-12-27 datetime="2023-12-27T19:00:57.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Docentric AX Blog</button>
+                  <a class="source-heading__link" href="https://ax.docentric.com/blog/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://ax.docentric.com/?p&#x3D;7347"
+                        open
+                      >
+                        <summary class="article-expander__title">Version 3.x Change Log</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://ax.docentric.com/version-3-x-change-log/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://ax.docentric.com/wp-content/uploads/2021/05/D365Blog_VersionChangeLog.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Version 3.4.7 Change Log ▫Release date: 2023-09-29 ▫(Hotfix 3.4.7.1) Release date: 2023-11-02 ▫(Hotfix 3.4.7.2) Release date: 2023-12-27 NEW FEATURES Print management utilities – Free Edition: - Filter, sort and search all Print management settings including overrides for a legal entity in a single grid (tabular […]
+The post Version 3.x Change Log appeared first on Docentric AX.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;96
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -37230,8 +37315,8 @@ Provides capability to split warehouse work that is in status open or in progres
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/automaly/finopsnews/actions/runs/7428218805">
-        <time id="build-timestamp" datetime="2024-01-06T00:39:40.701Z">2024-01-06T00:39:40.701Z</time>
+      <a class="footer-link" href="https://github.com/automaly/finopsnews/actions/runs/7434944679">
+        <time id="build-timestamp" datetime="2024-01-07T00:44:17.997Z">2024-01-07T00:44:17.997Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
