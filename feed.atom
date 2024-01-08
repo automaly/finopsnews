@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-01-07T00:44:18.053Z</updated>
+    <updated>2024-01-08T00:41:21.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Get selected records in a grid on a form in D365FO]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2024/01/get-selected-records-in-grid-on-form-in.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2024/01/get-selected-records-in-grid-on-form-in.html"/>
+        <updated>2024-01-07T06:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Purpose:
+The purpose of this document is to demonstrate how we can we Get selected records in a grid on a form  X++ based on a business logic.
+Product:
+Dynamics 365 for Finance and Operations.
+Development approach:
+Customization through CODE, we need to  get selected records in a grid on a form on clicked method to update values
+Development:
+Create a on clicked or clicked method to Get selected records in a grid on a form .
+
+
+
+
+
+
+
+To get selected record(s) in a grid in AX, we use the MultiSelectionHelper class. To achieve that, follow the steps below:
+1.  Create a command button on the form and override the clicked method.
+2.  Insert the code below:
+
+
+
+
+
+void clicked()
+{
+    MultiSelectionHelper          selectionHelper = MultiSelectionHelper::construct();//Create instance of class
+    Set                           selectedRecords = new Set(Types::Record);//Declare a set of type record
+    MyLinesTable                  tableLines; //Your table buffer
+    super();
+
+
+    selectionHelper.parmDataSource(MyLinesTable_DS); //Set the datasource
+    tableLines  = selectionHelper.getFirst(); //assign to table buffer the reference to selected record(s)
+
+
+    if (tableLines.RecId)
+    {
+        while (tableLines)
+        {
+            selectedRecords.add(tableLines);
+            ttsbegin;
+
+            tableLines.reason = "My Reason";
+            tableLines.update();
+            ttscommit;
+
+            tableLines = selectionHelper.getNext();
+
+            info(strFmt('Selected record.. %1',tableLines.myField));//Display selected record
+        }
+        MyLinesTable_DS.research();
+        MyLinesTable_DS.refresh();
+
+    }
+}]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😂 – YouTube]]></title>
+        <id>https://365community.online/%f0%9f%98%82-youtube</id>
+        <link href="https://365community.online/%f0%9f%98%82-youtube"/>
+        <updated>2024-01-06T13:34:35.000Z</updated>
+        <summary type="html"><![CDATA[😂 source]]></summary>
+        <author>
+            <name>Sourav Raj</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Make any field mandatory on the form level with X++ in D365 Finance and Operations]]></title>
         <id>https://d365fotechexpert.blogspot.com/2024/01/make-any-field-mandatory-on-form-level.html</id>
@@ -232,6 +306,17 @@ Dynamics ERP On-Premise to Cloud Top Benefits]]></summary>
         <summary type="html"><![CDATA[Are you looking for help with your Power Platform. And you had enough of looking for help by searching on the internet? Power Platform First Aid ⛑️Join us in January […]]]></summary>
         <author>
             <name>Pieter Veenstra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knowledge management best practices for Copilot ingestion]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2024/01/04/knowledge-management-best-practices-for-copilot-ingestion/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2024/01/04/knowledge-management-best-practices-for-copilot-ingestion/"/>
+        <updated>2024-01-04T19:09:35.000Z</updated>
+        <summary type="html"><![CDATA[Generative AI capabilities are rapidly changing the customer service space. You can use Copilot in Dynamics 365 Customer Service today to help agents save time on case and conversation summarization as these features do not require your organization’s support knowledge. However, before agents can use Copilot to answer questions and draft emails, you need to
+The post Knowledge management best practices for Copilot ingestion appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Deepa Bansal</name>
         </author>
     </entry>
     <entry>

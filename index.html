@@ -22,6 +22,141 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-01-06 datetime="2024-01-07T06:47:00.000Z">2024-01-06</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-01-06 datetime="2024-01-07T06:47:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >D365 F&amp;amp;O TechExpert</button>
+                  <a class="source-heading__link" href="https://d365fotechexpert.blogspot.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://d365fotechexpert.blogspot.com/2024/01/get-selected-records-in-grid-on-form-in.html"
+                        open
+                      >
+                        <summary class="article-expander__title">Get selected records in a grid on a form in D365FO</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://d365fotechexpert.blogspot.com/2024/01/get-selected-records-in-grid-on-form-in.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Purpose:
+The purpose of this document is to demonstrate how we can we Get selected records in a grid on a form  X++ based on a business logic.
+Product:
+Dynamics 365 for Finance and Operations.
+Development approach:
+Customization through CODE, we need to  get selected records in a grid on a form on clicked method to update values
+Development:
+Create a on clicked or clicked method to Get selected records in a grid on a form .
+
+
+
+
+
+
+
+To get selected record(s) in a grid in AX, we use the MultiSelectionHelper class. To achieve that, follow the steps below:
+1.  Create a command button on the form and override the clicked method.
+2.  Insert the code below:
+
+
+
+
+
+void clicked()
+{
+    MultiSelectionHelper          selectionHelper &#x3D; MultiSelectionHelper::construct();//Create instance of class
+    Set                           selectedRecords &#x3D; new Set(Types::Record);//Declare a set of type record
+    MyLinesTable                  tableLines; //Your table buffer
+    super();
+
+
+    selectionHelper.parmDataSource(MyLinesTable_DS); //Set the datasource
+    tableLines  &#x3D; selectionHelper.getFirst(); //assign to table buffer the reference to selected record(s)
+
+
+    if (tableLines.RecId)
+    {
+        while (tableLines)
+        {
+            selectedRecords.add(tableLines);
+            ttsbegin;
+
+            tableLines.reason &#x3D; &quot;My Reason&quot;;
+            tableLines.update();
+            ttscommit;
+
+            tableLines &#x3D; selectionHelper.getNext();
+
+            info(strFmt(&#x27;Selected record.. %1&#x27;,tableLines.myField));//Display selected record
+        }
+        MyLinesTable_DS.research();
+        MyLinesTable_DS.refresh();
+
+    }
+}</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;19
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >365 Community</button>
+                  <a class="source-heading__link" href="https://365community.online">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://365community.online/%f0%9f%98%82-youtube"
+                        open
+                      >
+                        <summary class="article-expander__title">😂 – YouTube</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://365community.online/%f0%9f%98%82-youtube">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1704652984_maxresdefault.jpg?fit&#x3D;1200%2C675&amp;ssl&#x3D;1" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>😂 source</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-01-05 datetime="2024-01-06T02:39:00.000Z">2024-01-05</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-01-05 datetime="2024-01-06T02:39:00.000Z"></time>
           </button>
@@ -658,6 +793,41 @@ This post first appeared first on Encore Business Solutions.</span>
                             <span class="media-object__text">
                               <span>In my world being an expert in something and being a dummy in something else is pretty normal. No one knows everything. I am an expert in the Power Platform […]</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;10
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Microsoft Dynamics 365 Blog</button>
+                  <a class="source-heading__link" href="https://cloudblogs.microsoft.com/dynamics365/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://cloudblogs.microsoft.com/dynamics365/it/2024/01/04/knowledge-management-best-practices-for-copilot-ingestion/"
+                        open
+                      >
+                        <summary class="article-expander__title">Knowledge management best practices for Copilot ingestion</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://cloudblogs.microsoft.com/dynamics365/it/2024/01/04/knowledge-management-best-practices-for-copilot-ingestion/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2014/07/7245.knowledgemanagement.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Generative AI capabilities are rapidly changing the customer service space. You can use Copilot in Dynamics 365 Customer Service today to help agents save time on case and conversation summarization as these features do not require your organization’s support knowledge. However, before agents can use Copilot to answer questions and draft emails, you need to
+The post Knowledge management best practices for Copilot ingestion appeared first on Microsoft Dynamics 365 Blog.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;12
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -37315,8 +37485,8 @@ Provides capability to split warehouse work that is in status open or in progres
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/automaly/finopsnews/actions/runs/7434944679">
-        <time id="build-timestamp" datetime="2024-01-07T00:44:17.997Z">2024-01-07T00:44:17.997Z</time>
+      <a class="footer-link" href="https://github.com/automaly/finopsnews/actions/runs/7441790990">
+        <time id="build-timestamp" datetime="2024-01-08T00:41:21.940Z">2024-01-08T00:41:21.940Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

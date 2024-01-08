@@ -767,6 +767,16 @@
       "siteUrl": "https://d365fotechexpert.blogspot.com/",
       "articles": [
         {
+          "id": "https://d365fotechexpert.blogspot.com/2024/01/get-selected-records-in-grid-on-form-in.html",
+          "author": null,
+          "description": "Purpose:\nThe purpose of this document is to demonstrate how we can we Get selected records in a grid on a form  X++ based on a business logic.\nProduct:\nDynamics 365 for Finance and Operations.\nDevelopment approach:\nCustomization through CODE, we need to  get selected records in a grid on a form on clicked method to update values\nDevelopment:\nCreate a on clicked or clicked method to Get selected records in a grid on a form .\n\n\n\n\n\n\n\nTo get selected record(s) in a grid in AX, we use the MultiSelectionHelper class. To achieve that, follow the steps below:\n1.  Create a command button on the form and override the clicked method.\n2.  Insert the code below:\n\n\n\n\n\nvoid clicked()\n{\n    MultiSelectionHelper          selectionHelper = MultiSelectionHelper::construct();//Create instance of class\n    Set                           selectedRecords = new Set(Types::Record);//Declare a set of type record\n    MyLinesTable                  tableLines; //Your table buffer\n    super();\n\n\n    selectionHelper.parmDataSource(MyLinesTable_DS); //Set the datasource\n    tableLines  = selectionHelper.getFirst(); //assign to table buffer the reference to selected record(s)\n\n\n    if (tableLines.RecId)\n    {\n        while (tableLines)\n        {\n            selectedRecords.add(tableLines);\n            ttsbegin;\n\n            tableLines.reason = \"My Reason\";\n            tableLines.update();\n            ttscommit;\n\n            tableLines = selectionHelper.getNext();\n\n            info(strFmt('Selected record.. %1',tableLines.myField));//Display selected record\n        }\n        MyLinesTable_DS.research();\n        MyLinesTable_DS.refresh();\n\n    }\n}",
+          "link": "https://d365fotechexpert.blogspot.com/2024/01/get-selected-records-in-grid-on-form-in.html",
+          "publishedOn": "2024-01-07T06:47:00.000Z",
+          "wordCount": 5677,
+          "title": "Get selected records in a grid on a form in D365FO",
+          "imageUrl": null
+        },
+        {
           "id": "https://d365fotechexpert.blogspot.com/2024/01/make-any-field-mandatory-on-form-level.html",
           "author": null,
           "description": "Microsoft provides an feature to make any field mandatory from the front end, but what if we want to make a \"field\" mandatory in Dynamics 365 for Finance and Operations with customization?\nIt is often a requirement from the customer side to make the field mandatory on the forms for some users, user groups, and sometimes for all the users of the organization.\nLet's take an example if we want to make Main Category field mandatory on the main account page. \n\n\n[extensionof(formdatasourceStr(MainAccount, MainAccount))]\ninternal final class COMPMainAccount_Extension\npublic boolean validateWrite()\n {\n boolean ret = next validateWrite();\n FormStringControl LedgerCategory = this.formRun().design().controlName(\"Ledger_Category\") as FormStringControl;\n if (!LedgerCategory.valueStr())\n {\n ret = checkFailed(\"Ledger Category must be filled in\");\n }\n return ret;\n }",
@@ -3332,6 +3342,16 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/%f0%9f%98%82-youtube",
+          "author": "Sourav Raj",
+          "description": "😂 source",
+          "link": "https://365community.online/%f0%9f%98%82-youtube",
+          "publishedOn": "2024-01-06T13:34:35.000Z",
+          "wordCount": 2876,
+          "title": "😂 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1704652984_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
         {
           "id": "https://365community.online/system-updates-in-sharepoint-from-power-automate-using-the-validateupdatelistitem-endpoint",
           "author": "Pieter Veenstra",
@@ -7367,6 +7387,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/01/04/knowledge-management-best-practices-for-copilot-ingestion/",
+          "author": "Deepa Bansal",
+          "description": "Generative AI capabilities are rapidly changing the customer service space. You can use Copilot in Dynamics 365 Customer Service today to help agents save time on case and conversation summarization as these features do not require your organization’s support knowledge. However, before agents can use Copilot to answer questions and draft emails, you need to\nThe post Knowledge management best practices for Copilot ingestion appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2024/01/04/knowledge-management-best-practices-for-copilot-ingestion/",
+          "publishedOn": "2024-01-04T19:09:35.000Z",
+          "wordCount": 3473,
+          "title": "Knowledge management best practices for Copilot ingestion",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2014/07/7245.knowledgemanagement.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2023/12/20/whats-new-in-dynamics-365-field-service-mobile-app-in-2023-wave-2/",
           "author": "Joseph Shum",
