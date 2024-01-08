@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-01-08T00:41:21.997Z</updated>
+    <updated>2024-01-08T09:21:27.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Exploring AI Prompts within Power Automate]]></title>
+        <id>https://365community.online/exploring-ai-prompts-within-power-automate</id>
+        <link href="https://365community.online/exploring-ai-prompts-within-power-automate"/>
+        <updated>2024-01-08T06:18:50.000Z</updated>
+        <summary type="html"><![CDATA[As generative AI builder tools are becoming more and more popular, it is worth learning and using them to get the most out of them. One of the exciting features […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deploy Web Resources and Plugin directly from Visual Studio using Kupp Code Analytics]]></title>
+        <id>https://365community.online/deploy-web-resources-and-plugin-directly-from-visual-studio-using-kupp-code-analytics</id>
+        <link href="https://365community.online/deploy-web-resources-and-plugin-directly-from-visual-studio-using-kupp-code-analytics"/>
+        <updated>2024-01-08T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the previous posts, we covered the Overview and Key Features of Kupp Code Analytics, the installation and setup process of the extension, its Intellisense capabilities, and the analytics capabilities. In this blog post, we will […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Get selected records in a grid on a form in D365FO]]></title>
         <id>https://d365fotechexpert.blogspot.com/2024/01/get-selected-records-in-grid-on-form-in.html</id>
@@ -8121,6 +8141,16 @@ Code:
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Export Data from D365 FO using Synapse Link]]></title>
+        <id>http://azureintegrations.com/?p=1336</id>
+        <link href="https://azureintegrations.com/2023/10/21/export-data-from-d365-fo-using-synapse-link/"/>
+        <updated>2023-10-21T10:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Introduced Azure Synapse Link for Dataverse to export data from D365 finance and operations apps into Azure Synapse Analytics or Azure Data Lake Storage Gen2]]></summary>
+        <author>
+            <name>Poojith Jain</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[D365FO Business event for cloud hosted environments – Error Response Status code does not indicate success : 400]]></title>
         <id>http://anithasantosh.wordpress.com/?p=3033</id>
         <link href="https://anithasantosh.wordpress.com/2023/10/20/d365fo-business-event-for-cloud-hosted-environments-error-response-status-code-does-not-indicate-success-400/"/>
@@ -15337,6 +15367,16 @@ Many people believe that estimating projects is an art form or a skill set that 
 Another reason for the difficulty in estimating ERP projects is the lack of past data on…]]></summary>
         <author>
             <name>Rakesh Darge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 FO introduces New user-based service protection API limits]]></title>
+        <id>http://azureintegrations.com/?p=1251</id>
+        <link href="https://azureintegrations.com/2022/05/28/d365-fo-introduces-new-user-based-service-protection-api-limits/"/>
+        <updated>2022-05-28T09:31:00.000Z</updated>
+        <summary type="html"><![CDATA[To ensure the consistent availability, reliability, and performance of the D365FO service protecting against extraordinary usage, Microsoft will be introducing user-based service protection API limits.]]></summary>
+        <author>
+            <name>Poojith Jain</name>
         </author>
     </entry>
     <entry>
