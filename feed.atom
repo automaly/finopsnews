@@ -2,10 +2,197 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-01-08T09:21:27.595Z</updated>
+    <updated>2024-01-09T00:40:56.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Right Microsoft Dynamics Partner for Dynamics ERP Implementation]]></title>
+        <id>https://erpsoftwareblog.com/?p=102893</id>
+        <link href="https://erpsoftwareblog.com/2024/01/the-right-microsoft-dynamics-partner-for-dynamics-erp-implementation/"/>
+        <updated>2024-01-09T00:36:48.000Z</updated>
+        <summary type="html"><![CDATA[Choosing an ERP solution is a significant business decision. It will be expensive, and you'll want it to operate optimally for a very long time to recoup your investment. Arguably, …  The Right Microsoft Dynamics Partner for Dynamics ERP Implementation Read More »
+The post The Right Microsoft Dynamics Partner for Dynamics ERP Implementation appeared first on ERP Software Blog.
+Insight Works Welcomes Interactive Interfaces into Partner Program Fold
+Insight Works Announces New Partner Acquisitions for September 2021
+Insight Works Kicks Off New Year with 10 New Partner Acquisitions for December ‘21]]></summary>
+        <author>
+            <name>Western Computer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to improve Stripe payments in Power Pages]]></title>
+        <id>https://365community.online/how-to-improve-stripe-payments-in-power-pages</id>
+        <link href="https://365community.online/how-to-improve-stripe-payments-in-power-pages"/>
+        <updated>2024-01-08T22:55:00.000Z</updated>
+        <summary type="html"><![CDATA[My recent post, Anatomy of the Stripe payments in Power Pages, got some interest. I looked under the hood of this out-of-the-box integration and raised a few points on the […]]]></summary>
+        <author>
+            <name>Andrew Grischenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 Reasons to Choose Microsoft Business Central in 2024]]></title>
+        <id>https://erpsoftwareblog.com/?p=103034</id>
+        <link href="https://erpsoftwareblog.com/2024/01/top-5-reasons-to-choose-microsoft-business-central-in-2024/"/>
+        <updated>2024-01-08T21:21:38.000Z</updated>
+        <summary type="html"><![CDATA[Your legacy, on-premises solution helped you run your business for many years. However, in the era of digital transformation, modern cloud-based business solutions can help take your company to new …  Top 5 Reasons to Choose Microsoft Business Central in 2024 Read More »
+The post Top 5 Reasons to Choose Microsoft Business Central in 2024 appeared first on ERP Software Blog.
+Best Free Microsoft Business Central Apps
+Upgrade to Dynamics 365: What Version is Best for My Business?
+Why Upgrade to Dynamics 365 Business Central?]]></summary>
+        <author>
+            <name>iCepts Technology Group, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should .NET Developers Stick or Switch to Power Platform? – YouTube]]></title>
+        <id>https://365community.online/should-net-developers-stick-or-switch-to-power-platform-youtube</id>
+        <link href="https://365community.online/should-net-developers-stick-or-switch-to-power-platform-youtube"/>
+        <updated>2024-01-08T21:00:33.000Z</updated>
+        <summary type="html"><![CDATA[#153. Neil Benson is joined by Keith Atherton, a proper pro developer. Keith shares his journey from developing custom apps using .NET, C# and SQL Server to embracing and mastering […]]]></summary>
+        <author>
+            <name>Neil Benson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should .NET Developers Stick or Switch to Power Platform?]]></title>
+        <id>https://365community.online/should-net-developers-stick-or-switch-to-power-platform</id>
+        <link href="https://365community.online/should-net-developers-stick-or-switch-to-power-platform"/>
+        <updated>2024-01-08T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#153.  Neil Benson is joined by Keith Atherton, a proper pro developer. Keith shares his journey from developing custom apps using .NET, C# and SQL Server to embracing and mastering […]]]></summary>
+        <author>
+            <name>Neil Benson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[16 ERP Software Blog Members Honored as Bob Scott’s Insights VAR Stars 2023]]></title>
+        <id>https://erpsoftwareblog.com/?p=103003</id>
+        <link href="https://erpsoftwareblog.com/2024/01/16-erp-software-blog-members-honored-as-bob-scotts-insights-var-stars-2023/"/>
+        <updated>2024-01-08T16:17:47.000Z</updated>
+        <summary type="html"><![CDATA[Bob Scott has been covering the mid-market financial software community for nearly 30 years and is recognized as an expert in his field. Each year since 2009, he has published …  16 ERP Software Blog Members Honored as Bob Scott’s Insights VAR Stars 2023 Read More »
+The post 16 ERP Software Blog Members Honored as Bob Scott’s Insights VAR Stars 2023 appeared first on ERP Software Blog.
+Recurring Reports in Microsoft Dynamics 365 Business Central
+How to move from Microsoft Dynamics GP to Business Central in a few easy steps
+Microsoft Dynamics 365 Business Central vs QuickBooks]]></summary>
+        <author>
+            <name>ERP Software Blog Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365FO bacpac import – Unable to connect to target server localhost – Error occurred during the login process]]></title>
+        <id>https://365community.online/d365fo-bacpac-import-unable-to-connect-to-target-server-localhost-error-occurred-during-the-login-process</id>
+        <link href="https://365community.online/d365fo-bacpac-import-unable-to-connect-to-target-server-localhost-error-occurred-during-the-login-process"/>
+        <updated>2024-01-08T15:41:23.000Z</updated>
+        <summary type="html"><![CDATA[My team had an issue today when importing the bacpac in their devVM. Though the first issue was resolved with this fix , the import again ended up in the […]]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365FO bacpac import – Unable to connect to target server localhost – Error occurred during the login process]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=3248</id>
+        <link href="https://anithasantosh.wordpress.com/2024/01/08/d365fo-bacpac-import-unable-to-connect-to-target-server-localhost-error-occurred-during-the-login-process/"/>
+        <updated>2024-01-08T15:41:23.000Z</updated>
+        <summary type="html"><![CDATA[My team had an issue today when importing the bacpac in their devVM. Though the first issue was resolved with this fix , the import again ended up in the error . What is the fix here : Pretty simple… … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Use D365 Try Catch Statements]]></title>
+        <id>https://365community.online/how-to-use-d365-try-catch-statements</id>
+        <link href="https://365community.online/how-to-use-d365-try-catch-statements"/>
+        <updated>2024-01-08T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, learn how to add exception handling by using D365 try catch statements. Unexpected errors and exceptions can occur in any program. Without exception handling, when an error […]]]></summary>
+        <author>
+            <name>Peter Ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Use D365 Try Catch Statements]]></title>
+        <id>https://dynamics365musings.com/?p=3349</id>
+        <link href="https://dynamics365musings.com/d365-try-catch-statements/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=d365-try-catch-statements"/>
+        <updated>2024-01-08T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, learn how to add exception handling by using D365 try catch statements. Unexpected errors and exceptions can occur in any program. Without exception handling, when an error occurs the system will stop the process entirely. However, with the right code, you can ensure the system skips past invalid records and continues to... Continue Reading →
+The post How To Use D365 Try Catch Statements appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>peter.ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time and Materials Billing Backlog table in Project Operations]]></title>
+        <id>https://365community.online/time-and-materials-billing-backlog-table-in-project-operations</id>
+        <link href="https://365community.online/time-and-materials-billing-backlog-table-in-project-operations"/>
+        <updated>2024-01-08T13:17:42.000Z</updated>
+        <summary type="html"><![CDATA[Even wondered what is Time and Materials Billing Backlog table in Project Operations which you see in the Sitemap but you might not be sure what records are in it […]]]></summary>
+        <author>
+            <name>Priyesh Wagh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elevating Digital Process Orchestration with Massoud Dehkordi's Expertise]]></title>
+        <id>https://365community.online/elevating-digital-process-orchestration-with-massoud-dehkordis-expertise</id>
+        <link href="https://365community.online/elevating-digital-process-orchestration-with-massoud-dehkordis-expertise"/>
+        <updated>2024-01-08T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FULL SHOW NOTES https://podcast.nz365guy.com/515  Prepare to elevate your understanding of Business Process Management (BPM) as we engage with the brilliant Massoud Dehkordi from Agile XRM, who casts a spotlight on […]]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1099 Changes for Tax Year 2023 (Info for Dynamics GP Users)]]></title>
+        <id>https://www.encorebusiness.com/?p=60963</id>
+        <link href="https://www.encorebusiness.com/blog/1099-changes-tax-year-2023-gp/"/>
+        <updated>2024-01-08T12:13:13.000Z</updated>
+        <summary type="html"><![CDATA[1099 Changes for Tax Year 2023 (Info for Dynamics GP Users)
+There have been some changes for handling 1099s for tax year 2023 that are relevant to Dynamics GP users. In this blog, will provide basic info and links to resources about changes from the IRS, a new printing capability in the GP system, and some alternative options for electronic filing. Table of Contents IRS Electronic...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Joann Bash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working with Power Automate: What is Power Automate?]]></title>
+        <id>https://365community.online/working-with-power-automate-what-is-power-automate</id>
+        <link href="https://365community.online/working-with-power-automate-what-is-power-automate"/>
+        <updated>2024-01-08T11:00:43.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the Working with Power Automate series I am writing on my experiences working with the Power Automate, which is part of the Power Platform from […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Edge profile sync not working]]></title>
+        <id>https://365community.online/edge-profile-sync-not-working</id>
+        <link href="https://365community.online/edge-profile-sync-not-working"/>
+        <updated>2024-01-08T10:22:31.000Z</updated>
+        <summary type="html"><![CDATA[Today there is a small blog post about the following problem. In addition to the fact that I am employed, I also have my own small company that provides Microsoft-related […]]]></summary>
+        <author>
+            <name>Jeroen Burgerhout</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OfflineAuthenticationAdminEmail overwritten]]></title>
+        <id>https://dev.goshoom.net/?p=9969</id>
+        <link href="https://dev.goshoom.net/2024/01/offlineauthenticationadminemail-overwritten/"/>
+        <updated>2024-01-08T09:23:42.000Z</updated>
+        <summary type="html"><![CDATA[My F&O environment asked me to log in every time to when I started debugging. I changed OfflineAuthenticationAdminEmail in DynamicsDevConfig.xml (at %USERPROFILE%\Documents\Visual Studio Dynamics 365), but I noticed that the value got overwritten every time when I started Visual Studio and opened an F&O project. I tried changing the value in j:\AosService\PackagesLocalDirectory\bin\DynamicsDevConfig.xml, but it didn’t ...
+Continue reading ‘OfflineAuthenticationAdminEmail overwritten’ »]]></summary>
+        <author>
+            <name>Martin Dráb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Vouchers en Business Central: Innovación y Eficiencia en la Contabilidad]]></title>
+        <id>https://365community.online/digital-vouchers-en-business-central-innovacion-y-eficiencia-en-la-contabilidad</id>
+        <link href="https://365community.online/digital-vouchers-en-business-central-innovacion-y-eficiencia-en-la-contabilidad"/>
+        <updated>2024-01-08T07:45:52.000Z</updated>
+        <summary type="html"><![CDATA[Introducción a la Era Digital en la Contabilidad La implementación de vouchers digitales en Business Central representa un avance significativo en el mundo de la contabilidad. Este cambio, presentado en […]]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exploring AI Prompts within Power Automate]]></title>
         <id>https://365community.online/exploring-ai-prompts-within-power-automate</id>
