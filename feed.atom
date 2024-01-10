@@ -2,10 +2,264 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-01-09T00:40:56.394Z</updated>
+    <updated>2024-01-10T00:40:46.312Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Setting a SharePoint Date only field value to the current date using List Formatting JSON]]></title>
+        <id>https://365community.online/setting-a-sharepoint-date-only-field-value-to-the-current-date-using-list-formatting-json</id>
+        <link href="https://365community.online/setting-a-sharepoint-date-only-field-value-to-the-current-date-using-list-formatting-json"/>
+        <updated>2024-01-09T23:16:00.000Z</updated>
+        <summary type="html"><![CDATA[This post is based on a recent question that I got from a blog reader in a blog post related to List Formatting and setting field values: I am trying […]]]></summary>
+        <author>
+            <name>michelcarlo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Studio bots an alternative to workflows or the better workflow engine?]]></title>
+        <id>http://dynamicsax-fico.com/?p=5673</id>
+        <link href="https://dynamicsax-fico.com/2024/01/09/copilot-studio-bots-an-alternative-to-workflows-or-the-better-workflow-engine/"/>
+        <updated>2024-01-09T17:16:52.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhanced mobile experience(preview) for D365 Field Service – YouTube]]></title>
+        <id>https://365community.online/enhanced-mobile-experiencepreview-for-d365-field-service-youtube</id>
+        <link href="https://365community.online/enhanced-mobile-experiencepreview-for-d365-field-service-youtube"/>
+        <updated>2024-01-09T16:37:14.000Z</updated>
+        <summary type="html"><![CDATA[Enhanced mobile experience(preview) for D365 Field Service There is a new preview feature in Dynamics 365 Field Service, which allows you to take the new mobile experience for a test […]]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Veranova Achieves Seamless Integration of Seven CDMO Facilities in the US and UK onto a Unified Microsoft Dynamics 365 Platform within Nine Months]]></title>
+        <id>https://erpsoftwareblog.com/?p=102947</id>
+        <link href="https://erpsoftwareblog.com/2024/01/veranova-achieves-seamless-integration-of-seven-cdmo-facilities-in-the-us-and-uk-onto-a-unified-microsoft-dynamics-365-platform-within-nine-months/"/>
+        <updated>2024-01-09T16:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Veranova, a globally recognized leader in active pharmaceutical ingredients (API) development and manufacturing, underwent a significant transformation with the consolidation of its seven Contract Development and Manufacturing Organization (CDMO) facilities […]
+The post Veranova Achieves Seamless Integration of Seven CDMO Facilities in the US and UK onto a Unified Microsoft Dynamics 365 Platform within Nine Months appeared first on ERP Software Blog.
+Register Now for JourneyTEAM’s 2021 Business Technology Summit
+4 Big Benefits of a Lead-to-Cash Solution for Rental Companies
+10 Reasons to Implement Dynamics 365 Commerce Now]]></summary>
+        <author>
+            <name>HSO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demand Management: Are You Getting the Best Demand Outcomes for Your Company?]]></title>
+        <id>https://erpsoftwareblog.com/?p=103056</id>
+        <link href="https://erpsoftwareblog.com/2024/01/demand-management-are-you-getting-the-best-demand-outcomes-for-your-company/"/>
+        <updated>2024-01-09T16:27:59.000Z</updated>
+        <summary type="html"><![CDATA[Demand management is a process that helps you forecast, plan, and meet customer demand for your products or services. It involves analyzing past data, current market trends, and future projections […]
+The post Demand Management: Are You Getting the Best Demand Outcomes for Your Company? appeared first on ERP Software Blog.
+Demand forecasting: Find out how to do it the right way
+Your guide to choosing the best eCommerce solution: breaking down the ROI
+Allocation, Reservation and Ownership thru Mobility]]></summary>
+        <author>
+            <name>StockIQ Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evolving Role of ERP in Remote Work Environments]]></title>
+        <id>https://erpsoftwareblog.com/?p=103050</id>
+        <link href="https://erpsoftwareblog.com/2024/01/evolving-role-of-erp-in-remote-work-environments/"/>
+        <updated>2024-01-09T14:31:45.000Z</updated>
+        <summary type="html"><![CDATA[ERP systems have been evolving rapidly due to the extensive shift toward remote teams/work environments. The Evolving Role of ERP in Remote Work Environments is significant as the adaptation to […]
+The post Evolving Role of ERP in Remote Work Environments appeared first on ERP Software Blog.
+Why cloud-based solutions are increasingly popular?
+Top ERP Trends to Look for in 2024
+Importance of Historical ERP Data]]></summary>
+        <author>
+            <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vicinity’s New Microsoft Dynamics BC Batch and Process Manufacturing Features]]></title>
+        <id>https://erpsoftwareblog.com/?p=103037</id>
+        <link href="https://erpsoftwareblog.com/2024/01/vicinitys-new-microsoft-dynamics-bc-batch-and-process-manufacturing-features/"/>
+        <updated>2024-01-09T14:29:35.000Z</updated>
+        <summary type="html"><![CDATA[In batch and process manufacturing, one of the most significant challenges is production scheduling. This process involves meticulously planning and organizing resources to ensure that products are manufactured on time […]
+The post Vicinity’s New Microsoft Dynamics BC Batch and Process Manufacturing Features appeared first on ERP Software Blog.
+Tracking Quality in the Manufacturing Process
+Warehouse Insight Now Available for Dynamics 365 Business Central
+Top 5 ways Service Management Companies Are Losing Money - How You Can Fix It]]></summary>
+        <author>
+            <name>Vicinity Software</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use Solution Health Hub to troubleshoot issues in Dynamics 365 Apps (Sales, Marketing, Field Service, Customer Service..)]]></title>
+        <id>https://365community.online/use-solution-health-hub-to-troubleshoot-issues-in-dynamics-365-apps-sales-marketing-field-service-customer-service</id>
+        <link href="https://365community.online/use-solution-health-hub-to-troubleshoot-issues-in-dynamics-365-apps-sales-marketing-field-service-customer-service"/>
+        <updated>2024-01-09T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Using Solution Health Hub we can validate the environment’s configuration, which might get modified over time, to get an idea about the state of that environment and detect and resolve […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working with Power Automate: What Type of Flow Are Available?]]></title>
+        <id>https://365community.online/working-with-power-automate-what-type-of-flow-are-available</id>
+        <link href="https://365community.online/working-with-power-automate-what-type-of-flow-are-available"/>
+        <updated>2024-01-09T11:00:04.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the Working with Power Automate series I am writing on my experiences working with the Power Automate, which is part of the Power Platform from […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Slicer Visual in Power BI Report within Microsoft Dynamics 365 CRM]]></title>
+        <id>https://365community.online/new-slicer-visual-in-power-bi-report-within-microsoft-dynamics-365-crm</id>
+        <link href="https://365community.online/new-slicer-visual-in-power-bi-report-within-microsoft-dynamics-365-crm"/>
+        <updated>2024-01-09T10:52:30.000Z</updated>
+        <summary type="html"><![CDATA[Power BI is an analytical tool to design interactive Reports, and dashboards using Visuals, which allows information to be collected from different types of Sources such as Dataverse, SQL, Excel […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recap of modern controls evolution in 2023 and a glimpse into 2024 innovations]]></title>
+        <id>recap-of-modern-controls-evolution-in-2023-and-a-glimpse-into-2024-innovations</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/recap-of-modern-controls-evolution-in-2023-and-a-glimpse-into-2024-innovations/"/>
+        <updated>2024-01-09T10:32:46.000Z</updated>
+        <summary type="html"><![CDATA[Recap of modern controls evolution in 2023 and a glimpse into 2024 innovations]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to improve Stripe payments in Power Pages (CloudMinded)]]></title>
+        <id>https://365community.online/how-to-improve-stripe-payments-in-power-pages-cloudminded</id>
+        <link href="https://365community.online/how-to-improve-stripe-payments-in-power-pages-cloudminded"/>
+        <updated>2024-01-09T09:40:06.000Z</updated>
+        <summary type="html"><![CDATA[How to improve Stripe payments in Power Pages Continue Reading Olena Grischenko (she/her)’s Article on their blog How to improve Stripe payments in Power Pages (CloudMinded) Visit the post for more. […]]]></summary>
+        <author>
+            <name>Olena Grischenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 F&O Performance Optimization Tips & Tricks]]></title>
+        <id>https://erpsoftwareblog.com/?p=103012</id>
+        <link href="https://erpsoftwareblog.com/2024/01/microsoft-dynamics-365-fo-performance-optimization/"/>
+        <updated>2024-01-09T08:55:20.000Z</updated>
+        <summary type="html"><![CDATA[Tips and tricks for faster D365 F&O performance Today, we're taking a closer look at the performance of Microsoft's Dynamics 365 F&O, an enterprise-grade ERP system that has evolved significantly. […]
+The post Dynamics 365 F&O Performance Optimization Tips & Tricks appeared first on ERP Software Blog.
+Let’s Play Follow the Leader! IT Leaders Adopt Software as a Service (SaaS) Offerings
+ACA Add-on Shields GP Users from IRS Sledgehammer, Tack Hammer
+Plan Offer Can Simplify ACA Reporting in Dynamics GP]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redirect After Preference Centre Submission]]></title>
+        <id>https://365community.online/redirect-after-preference-centre-submission</id>
+        <link href="https://365community.online/redirect-after-preference-centre-submission"/>
+        <updated>2024-01-09T08:20:00.000Z</updated>
+        <summary type="html"><![CDATA[I wrote about how to make your Preference Centre page look more in line with your organisations branding by adjusting the CSS and adding a few extra items to the […]]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unleash a Startup’s Potential with Maps Integrated within Dynamics 365 CRM]]></title>
+        <id>https://365community.online/unleash-a-startups-potential-with-maps-integrated-within-dynamics-365-crm</id>
+        <link href="https://365community.online/unleash-a-startups-potential-with-maps-integrated-within-dynamics-365-crm"/>
+        <updated>2024-01-09T07:13:48.000Z</updated>
+        <summary type="html"><![CDATA[The post Unleash a Startup’s Potential with Maps Integrated within Dynamics 365 CRM appeared first on Blog | Maplytics. Source link]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Me trying to avoid ChatGPT while fixing the code – YouTube]]></title>
+        <id>https://365community.online/me-trying-to-avoid-chatgpt-while-fixing-the-code-youtube</id>
+        <link href="https://365community.online/me-trying-to-avoid-chatgpt-while-fixing-the-code-youtube"/>
+        <updated>2024-01-09T06:03:53.000Z</updated>
+        <summary type="html"><![CDATA[Me trying to avoid ChatGPT while fixing the code source]]></summary>
+        <author>
+            <name>Sourav Raj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simplifying Dynamics 365 Finance and Operations for HR Users]]></title>
+        <id>https://paragchapre.com/?p=12328</id>
+        <link href="https://paragchapre.com/simplifying-dynamics-365-finance-and-operations-for-hr-users/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=simplifying-dynamics-365-finance-and-operations-for-hr-users"/>
+        <updated>2024-01-09T04:19:37.000Z</updated>
+        <summary type="html"><![CDATA[Explore the option of changing the core product name and disabling irrelevant modules, creating a tailored experience focused solely on Human Resources functionality.
+The post Simplifying Dynamics 365 Finance and Operations for HR Users appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update purchparmline quantity field  from PurchEditLines Form through X++]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2024/01/update-purchparmline-quantity-field.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2024/01/update-purchparmline-quantity-field.html"/>
+        <updated>2024-01-09T03:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Purpose: The purpose of this document is to demonstrate how we can we Update purchparmline quantity field through code
+Product:
+Dynamics 365 for Finance and Operations.
+Development approach:
+Customization through CODE, we need to  update receive now with remain after field from purch edit line form . user wants to update set of lines at a time insted of changing all lines individually.
+Development:
+Create a button , when user click on button with selected all line will update recive now quantity with remainafter values.
+
+
+
+
+[Extensionof(FormDataSourcestr(PurchEditLines, PurchParmTable))] 
+internal final class PurchEditLinesForm_Extension
+{
+  
+    [FormControlEventHandler(formControlStr(PurchEditLines, DefaultRemainderQuantity), FormControlEventType::Clicked)]
+    public static void DefaultRemainderQuantity_OnClicked(FormControl sender, FormControlEventArgs e)
+    {
+        FormRun fr = sender.formRun();
+        FormDataSource purchparmline_ds = fr.dataSource(formDataSourceStr(PurchEditLines, PurchParmLine)) as FormDataSource;
+
+
+        MultiSelectionHelper          selectionHelper = MultiSelectionHelper::construct();
+        Set                           selectedRecords = new Set(Types::Record);//Declare a set of type record
+        PurchParmLine                  tableLines;
+
+
+        selectionHelper.parmDataSource(PurchParmLine_DS); 
+        tableLines  = selectionHelper.getFirst(); 
+
+
+        if (tableLines.RecId)
+        {
+            while (tableLines)
+            {
+                selectedRecords.add(tableLines);
+                ttsbegin;
+                tableLines.ReceiveNow = tableLines.RemainAfter;
+                tableLines.RemainAfter = tableLines.RemainBefore - tableLines.ReceiveNow;
+                tableLines.doUpdate();
+                ttscommit;
+                tableLines = selectionHelper.getNext();
+            }
+            PurchParmLine_DS.research();
+            PurchParmLine_DS.refresh();
+        }
+
+
+    }
+
+
+
+}
+Form:Purch edit lines]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Right Microsoft Dynamics Partner for Dynamics ERP Implementation]]></title>
         <id>https://erpsoftwareblog.com/?p=102893</id>

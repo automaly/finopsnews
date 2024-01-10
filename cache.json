@@ -767,6 +767,16 @@
       "siteUrl": "https://d365fotechexpert.blogspot.com/",
       "articles": [
         {
+          "id": "https://d365fotechexpert.blogspot.com/2024/01/update-purchparmline-quantity-field.html",
+          "author": null,
+          "description": "Purpose: The purpose of this document is to demonstrate how we can we Update purchparmline quantity field through code\nProduct:\nDynamics 365 for Finance and Operations.\nDevelopment approach:\nCustomization through CODE, we need to  update receive now with remain after field from purch edit line form . user wants to update set of lines at a time insted of changing all lines individually.\nDevelopment:\nCreate a button , when user click on button with selected all line will update recive now quantity with remainafter values.\n\n\n\n\n[Extensionof(FormDataSourcestr(PurchEditLines, PurchParmTable))] \ninternal final class PurchEditLinesForm_Extension\n{\n  \n    [FormControlEventHandler(formControlStr(PurchEditLines, DefaultRemainderQuantity), FormControlEventType::Clicked)]\n    public static void DefaultRemainderQuantity_OnClicked(FormControl sender, FormControlEventArgs e)\n    {\n        FormRun fr = sender.formRun();\n        FormDataSource purchparmline_ds = fr.dataSource(formDataSourceStr(PurchEditLines, PurchParmLine)) as FormDataSource;\n\n\n        MultiSelectionHelper          selectionHelper = MultiSelectionHelper::construct();\n        Set                           selectedRecords = new Set(Types::Record);//Declare a set of type record\n        PurchParmLine                  tableLines;\n\n\n        selectionHelper.parmDataSource(PurchParmLine_DS); \n        tableLines  = selectionHelper.getFirst(); \n\n\n        if (tableLines.RecId)\n        {\n            while (tableLines)\n            {\n                selectedRecords.add(tableLines);\n                ttsbegin;\n                tableLines.ReceiveNow = tableLines.RemainAfter;\n                tableLines.RemainAfter = tableLines.RemainBefore - tableLines.ReceiveNow;\n                tableLines.doUpdate();\n                ttscommit;\n                tableLines = selectionHelper.getNext();\n            }\n            PurchParmLine_DS.research();\n            PurchParmLine_DS.refresh();\n        }\n\n\n    }\n\n\n\n}\nForm:Purch edit lines",
+          "link": "https://d365fotechexpert.blogspot.com/2024/01/update-purchparmline-quantity-field.html",
+          "publishedOn": "2024-01-09T03:46:00.000Z",
+          "wordCount": 5692,
+          "title": "Update purchparmline quantity field  from PurchEditLines Form through X++",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0BrZpn1DDJ8Kn37s93WDmz6AN6fnT7jc297gPSef091Q3X02syfR5iExOj8AckfUSL_CAQAukApKH2gv_z0e2X_MOOkT8sN0_y6y1RhmJ5OTuZujbLvEzTtzZ3kQ-2NcyH0PhDqEeDI2NJv9HGVj8LxhtcTqdp-mSJnE7w_4Po4YbiqhGe6yjPUB2nTc/w1200-h630-p-k-no-nu/Capture.PNG"
+        },
+        {
           "id": "https://d365fotechexpert.blogspot.com/2024/01/get-selected-records-in-grid-on-form-in.html",
           "author": null,
           "description": "Purpose:\nThe purpose of this document is to demonstrate how we can we Get selected records in a grid on a form  X++ based on a business logic.\nProduct:\nDynamics 365 for Finance and Operations.\nDevelopment approach:\nCustomization through CODE, we need to  get selected records in a grid on a form on clicked method to update values\nDevelopment:\nCreate a on clicked or clicked method to Get selected records in a grid on a form .\n\n\n\n\n\n\n\nTo get selected record(s) in a grid in AX, we use the MultiSelectionHelper class. To achieve that, follow the steps below:\n1.  Create a command button on the form and override the clicked method.\n2.  Insert the code below:\n\n\n\n\n\nvoid clicked()\n{\n    MultiSelectionHelper          selectionHelper = MultiSelectionHelper::construct();//Create instance of class\n    Set                           selectedRecords = new Set(Types::Record);//Declare a set of type record\n    MyLinesTable                  tableLines; //Your table buffer\n    super();\n\n\n    selectionHelper.parmDataSource(MyLinesTable_DS); //Set the datasource\n    tableLines  = selectionHelper.getFirst(); //assign to table buffer the reference to selected record(s)\n\n\n    if (tableLines.RecId)\n    {\n        while (tableLines)\n        {\n            selectedRecords.add(tableLines);\n            ttsbegin;\n\n            tableLines.reason = \"My Reason\";\n            tableLines.update();\n            ttscommit;\n\n            tableLines = selectionHelper.getNext();\n\n            info(strFmt('Selected record.. %1',tableLines.myField));//Display selected record\n        }\n        MyLinesTable_DS.research();\n        MyLinesTable_DS.refresh();\n\n    }\n}",
@@ -1330,6 +1340,56 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=102947",
+          "author": "HSO",
+          "description": "Veranova, a globally recognized leader in active pharmaceutical ingredients (API) development and manufacturing, underwent a significant transformation with the consolidation of its seven Contract Development and Manufacturing Organization (CDMO) facilities […]\nThe post Veranova Achieves Seamless Integration of Seven CDMO Facilities in the US and UK onto a Unified Microsoft Dynamics 365 Platform within Nine Months appeared first on ERP Software Blog.\nRegister Now for JourneyTEAM’s 2021 Business Technology Summit\n4 Big Benefits of a Lead-to-Cash Solution for Rental Companies\n10 Reasons to Implement Dynamics 365 Commerce Now",
+          "link": "https://erpsoftwareblog.com/2024/01/veranova-achieves-seamless-integration-of-seven-cdmo-facilities-in-the-us-and-uk-onto-a-unified-microsoft-dynamics-365-platform-within-nine-months/",
+          "publishedOn": "2024-01-09T16:30:14.000Z",
+          "wordCount": 7495,
+          "title": "Veranova Achieves Seamless Integration of Seven CDMO Facilities in the US and UK onto a Unified Microsoft Dynamics 365 Platform within Nine Months",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=103056",
+          "author": "StockIQ Technologies",
+          "description": "Demand management is a process that helps you forecast, plan, and meet customer demand for your products or services. It involves analyzing past data, current market trends, and future projections […]\nThe post Demand Management: Are You Getting the Best Demand Outcomes for Your Company? appeared first on ERP Software Blog.\nDemand forecasting: Find out how to do it the right way\nYour guide to choosing the best eCommerce solution: breaking down the ROI\nAllocation, Reservation and Ownership thru Mobility",
+          "link": "https://erpsoftwareblog.com/2024/01/demand-management-are-you-getting-the-best-demand-outcomes-for-your-company/",
+          "publishedOn": "2024-01-09T16:27:59.000Z",
+          "wordCount": 7654,
+          "title": "Demand Management: Are You Getting the Best Demand Outcomes for Your Company?",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=103050",
+          "author": "x2x eCommerce",
+          "description": "ERP systems have been evolving rapidly due to the extensive shift toward remote teams/work environments. The Evolving Role of ERP in Remote Work Environments is significant as the adaptation to […]\nThe post Evolving Role of ERP in Remote Work Environments appeared first on ERP Software Blog.\nWhy cloud-based solutions are increasingly popular?\nTop ERP Trends to Look for in 2024\nImportance of Historical ERP Data",
+          "link": "https://erpsoftwareblog.com/2024/01/evolving-role-of-erp-in-remote-work-environments/",
+          "publishedOn": "2024-01-09T14:31:45.000Z",
+          "wordCount": 7490,
+          "title": "Evolving Role of ERP in Remote Work Environments",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Add-a-subheading-38-300x169.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=103037",
+          "author": "Vicinity Software",
+          "description": "In batch and process manufacturing, one of the most significant challenges is production scheduling. This process involves meticulously planning and organizing resources to ensure that products are manufactured on time […]\nThe post Vicinity’s New Microsoft Dynamics BC Batch and Process Manufacturing Features appeared first on ERP Software Blog.\nTracking Quality in the Manufacturing Process\nWarehouse Insight Now Available for Dynamics 365 Business Central\nTop 5 ways Service Management Companies Are Losing Money - How You Can Fix It",
+          "link": "https://erpsoftwareblog.com/2024/01/vicinitys-new-microsoft-dynamics-bc-batch-and-process-manufacturing-features/",
+          "publishedOn": "2024-01-09T14:29:35.000Z",
+          "wordCount": 7960,
+          "title": "Vicinity’s New Microsoft Dynamics BC Batch and Process Manufacturing Features",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2024-01-Vicinitys-New-Business-Central-Features-Help-Manufacturers-See-Production-Data-and-Deliver-On-Time_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=103012",
+          "author": "Dynamics Square UK",
+          "description": "Tips and tricks for faster D365 F&O performance Today, we're taking a closer look at the performance of Microsoft's Dynamics 365 F&O, an enterprise-grade ERP system that has evolved significantly. […]\nThe post Dynamics 365 F&O Performance Optimization Tips & Tricks appeared first on ERP Software Blog.\nLet’s Play Follow the Leader! IT Leaders Adopt Software as a Service (SaaS) Offerings\nACA Add-on Shields GP Users from IRS Sledgehammer, Tack Hammer\nPlan Offer Can Simplify ACA Reporting in Dynamics GP",
+          "link": "https://erpsoftwareblog.com/2024/01/microsoft-dynamics-365-fo-performance-optimization/",
+          "publishedOn": "2024-01-09T08:55:20.000Z",
+          "wordCount": 7860,
+          "title": "Dynamics 365 F&O Performance Optimization Tips & Tricks",
+          "imageUrl": "https://www.dynamicssquare.co.uk/_next/image/?url=%2Fimg%2FDynamics-365-Finance-Banner.png&w=1920&q=75"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=102893",
           "author": "Western Computer",
@@ -3409,6 +3469,96 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/setting-a-sharepoint-date-only-field-value-to-the-current-date-using-list-formatting-json",
+          "author": "michelcarlo",
+          "description": "This post is based on a recent question that I got from a blog reader in a blog post related to List Formatting and setting field values: I am trying […]",
+          "link": "https://365community.online/setting-a-sharepoint-date-only-field-value-to-the-current-date-using-list-formatting-json",
+          "publishedOn": "2024-01-09T23:16:00.000Z",
+          "wordCount": 3215,
+          "title": "Setting a SharePoint Date only field value to the current date using List Formatting JSON",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/SetDate.png?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/enhanced-mobile-experiencepreview-for-d365-field-service-youtube",
+          "author": "Dian Taylor",
+          "description": "Enhanced mobile experience(preview) for D365 Field Service There is a new preview feature in Dynamics 365 Field Service, which allows you to take the new mobile experience for a test […]",
+          "link": "https://365community.online/enhanced-mobile-experiencepreview-for-d365-field-service-youtube",
+          "publishedOn": "2024-01-09T16:37:14.000Z",
+          "wordCount": 3010,
+          "title": "Enhanced mobile experience(preview) for D365 Field Service – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1704831688_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/use-solution-health-hub-to-troubleshoot-issues-in-dynamics-365-apps-sales-marketing-field-service-customer-service",
+          "author": "Nishant Rana",
+          "description": "Using Solution Health Hub we can validate the environment’s configuration, which might get modified over time, to get an idea about the state of that environment and detect and resolve […]",
+          "link": "https://365community.online/use-solution-health-hub-to-troubleshoot-issues-in-dynamics-365-apps-sales-marketing-field-service-customer-service",
+          "publishedOn": "2024-01-09T14:00:00.000Z",
+          "wordCount": 3096,
+          "title": "Use Solution Health Hub to troubleshoot issues in Dynamics 365 Apps (Sales, Marketing, Field Service, Customer Service..)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Use-Solution-Health-Hub-to-troubleshoot-issues-in-Dynamics-365.jpeg?fit=1200%2C797&ssl=1"
+        },
+        {
+          "id": "https://365community.online/working-with-power-automate-what-type-of-flow-are-available",
+          "author": "Ian Grieve",
+          "description": "This article is part of the Working with Power Automate series I am writing on my experiences working with the Power Automate, which is part of the Power Platform from […]",
+          "link": "https://365community.online/working-with-power-automate-what-type-of-flow-are-available",
+          "publishedOn": "2024-01-09T11:00:04.000Z",
+          "wordCount": 3052,
+          "title": "Working with Power Automate: What Type of Flow Are Available?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-slicer-visual-in-power-bi-report-within-microsoft-dynamics-365-crm",
+          "author": "Inogic",
+          "description": "Power BI is an analytical tool to design interactive Reports, and dashboards using Visuals, which allows information to be collected from different types of Sources such as Dataverse, SQL, Excel […]",
+          "link": "https://365community.online/new-slicer-visual-in-power-bi-report-within-microsoft-dynamics-365-crm",
+          "publishedOn": "2024-01-09T10:52:30.000Z",
+          "wordCount": 3338,
+          "title": "New Slicer Visual in Power BI Report within Microsoft Dynamics 365 CRM",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1Power-BI-Report-1.jpeg?fit=1200%2C791&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-improve-stripe-payments-in-power-pages-cloudminded",
+          "author": "Olena Grischenko",
+          "description": "How to improve Stripe payments in Power Pages Continue Reading Olena Grischenko (she/her)’s Article on their blog How to improve Stripe payments in Power Pages (CloudMinded) Visit the post for more. […]",
+          "link": "https://365community.online/how-to-improve-stripe-payments-in-power-pages-cloudminded",
+          "publishedOn": "2024-01-09T09:40:06.000Z",
+          "wordCount": 2968,
+          "title": "How to improve Stripe payments in Power Pages (CloudMinded)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/How-to-improve-Stripe-payments-in-Power-Pages-CloudMinded.jpg?fit=1200%2C560&ssl=1"
+        },
+        {
+          "id": "https://365community.online/redirect-after-preference-centre-submission",
+          "author": "Megan V. Walker",
+          "description": "I wrote about how to make your Preference Centre page look more in line with your organisations branding by adjusting the CSS and adding a few extra items to the […]",
+          "link": "https://365community.online/redirect-after-preference-centre-submission",
+          "publishedOn": "2024-01-09T08:20:00.000Z",
+          "wordCount": 3013,
+          "title": "Redirect After Preference Centre Submission",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Redirect-After-Preference-Centre-Submission.jpg?fit=1200%2C800&ssl=1"
+        },
+        {
+          "id": "https://365community.online/unleash-a-startups-potential-with-maps-integrated-within-dynamics-365-crm",
+          "author": "Inogic",
+          "description": "The post Unleash a Startup’s Potential with Maps Integrated within Dynamics 365 CRM appeared first on Blog | Maplytics. Source link",
+          "link": "https://365community.online/unleash-a-startups-potential-with-maps-integrated-within-dynamics-365-crm",
+          "publishedOn": "2024-01-09T07:13:48.000Z",
+          "wordCount": 3184,
+          "title": "Unleash a Startup’s Potential with Maps Integrated within Dynamics 365 CRM",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Analyze-better-business-potential-with-Maplytics.png?fit=700%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/me-trying-to-avoid-chatgpt-while-fixing-the-code-youtube",
+          "author": "Sourav Raj",
+          "description": "Me trying to avoid ChatGPT while fixing the code source",
+          "link": "https://365community.online/me-trying-to-avoid-chatgpt-while-fixing-the-code-youtube",
+          "publishedOn": "2024-01-09T06:03:53.000Z",
+          "wordCount": 2915,
+          "title": "Me trying to avoid ChatGPT while fixing the code – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1704802109_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
         {
           "id": "https://365community.online/how-to-improve-stripe-payments-in-power-pages",
           "author": "Andrew Grischenko",
@@ -6073,6 +6223,16 @@
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
+        {
+          "id": "http://dynamicsax-fico.com/?p=5673",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2024/01/09/copilot-studio-bots-an-alternative-to-workflows-or-the-better-workflow-engine/",
+          "publishedOn": "2024-01-09T17:16:52.000Z",
+          "wordCount": 3259,
+          "title": "Copilot Studio bots an alternative to workflows or the better workflow engine?",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2024/01/pictureenglish.jpg"
+        },
         {
           "id": "http://dynamicsax-fico.com/?p=5017",
           "author": "Ludwig Reinhard",
@@ -8839,6 +8999,16 @@
       "siteUrl": "https://paragchapre.com/",
       "articles": [
         {
+          "id": "https://paragchapre.com/?p=12328",
+          "author": "paragchapre@gmail.com",
+          "description": "Explore the option of changing the core product name and disabling irrelevant modules, creating a tailored experience focused solely on Human Resources functionality.\nThe post Simplifying Dynamics 365 Finance and Operations for HR Users appeared first on Parag Chapre.",
+          "link": "https://paragchapre.com/simplifying-dynamics-365-finance-and-operations-for-hr-users/?utm_source=rss&utm_medium=rss&utm_campaign=simplifying-dynamics-365-finance-and-operations-for-hr-users",
+          "publishedOn": "2024-01-09T04:19:37.000Z",
+          "wordCount": 5563,
+          "title": "Simplifying Dynamics 365 Finance and Operations for HR Users",
+          "imageUrl": "http://paragchapre.com/wp-content/uploads/2024/01/HR-Core-product-name-change.png"
+        },
+        {
           "id": "http://paragchapre.com/?p=12318",
           "author": "paragchapre@gmail.com",
           "description": "Introduction In the ever-evolving landscape of Human Resources management, it becomes imperative for organizations to leverage cutting-edge technologies that enhance efficiency and simplify complex processes. One such noteworthy feature in Dynamics 365 Human Resources is the ability to set a primary position for a new hire, a functionality designed to bring more clarity and structure […]\nThe post Streamlining Workforce Management: Setting Primary Positions in Dynamics 365 Human Resources appeared first on Parag Chapre.",
@@ -9752,6 +9922,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "recap-of-modern-controls-evolution-in-2023-and-a-glimpse-into-2024-innovations",
+          "author": null,
+          "description": "Recap of modern controls evolution in 2023 and a glimpse into 2024 innovations",
+          "link": "https://powerapps.microsoft.com/en-us/blog/recap-of-modern-controls-evolution-in-2023-and-a-glimpse-into-2024-innovations/",
+          "publishedOn": "2024-01-09T10:32:46.000Z",
+          "wordCount": 2611,
+          "title": "Recap of modern controls evolution in 2023 and a glimpse into 2024 innovations",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "reflecting-on-a-year-of-empowerment-microsoft-power-up-programs-first-year-recap",
           "author": null,
