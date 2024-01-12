@@ -1341,6 +1341,76 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=103137",
+          "author": "Insight Works",
+          "description": "Discover Graphical Scheduler v1.8: A powerful tool for streamlined production scheduling, offering intuitive use and advanced integration.\nThe post Graphical Scheduler v1.8: Elevating Production Scheduling appeared first on ERP Software Blog.\nQuality Control in Inventory and Manufacturing Using Dynamics 365 Business Central\nFree Business Central Apps to Fill the Gaps\nInsight Works Expands Globally with 11 New Microsoft Partners",
+          "link": "https://erpsoftwareblog.com/2024/01/graphical-scheduler-v1-8-elevating-production-scheduling/",
+          "publishedOn": "2024-01-11T20:18:04.000Z",
+          "wordCount": 7406,
+          "title": "Graphical Scheduler v1.8: Elevating Production Scheduling",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Graphical-Scheduler-250-1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=103128",
+          "author": "Gestisoft",
+          "description": "Cost Control and Financial Visibility: Harnessing Microsoft Business Central for Success   Effective financial management is the cornerstone of a successful business. In today's world, organizations need good tools to […]\nThe post Cost Control and Financial Visibility: Harnessing Microsoft Business Central for Success appeared first on ERP Software Blog.\nEasily Manage Data with Business Central Virtual Tables\nLearn How To Save Time By Using The \"Cancel\" Option to Reverse A Posted Sales Invoice\n6 Best Practices to Planning Successful ERP Implementation",
+          "link": "https://erpsoftwareblog.com/2024/01/cost-control-and-financial-visibility-harnessing-microsoft-business-central-for-success/",
+          "publishedOn": "2024-01-11T18:35:14.000Z",
+          "wordCount": 9919,
+          "title": "Cost Control and Financial Visibility: Harnessing Microsoft Business Central for Success",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Cost-Control-Microsoft-Business-Central-625x415.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=103115",
+          "author": "StockIQ Technologies",
+          "description": "As a growing business, we faced many challenges in managing our supply chain operations. We needed a solution that could help us forecast demand, optimize inventory, plan replenishment, and collaborate […]\nThe post How We Achieved Supply Chain Excellence with StockIQ’s Innovative Solutions appeared first on ERP Software Blog.\n8 Favorite StockIQ Supply Chain Planning Improvements & Features for 2021\n7 Check List Questions When Moving Inventory from One Warehouse to Another\nTIME TO UPGRADE YOUR SUPPLY CHAIN PLANNING SOFTWARE?",
+          "link": "https://erpsoftwareblog.com/2024/01/how-we-achieved-supply-chain-excellence-with-stockiqs-innovative-solutions/",
+          "publishedOn": "2024-01-11T15:12:44.000Z",
+          "wordCount": 7681,
+          "title": "How We Achieved Supply Chain Excellence with StockIQ’s Innovative Solutions",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dashboard-IQ-300x111.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=103113",
+          "author": "Dynamics Square USA",
+          "description": "Business Central Integration with Power BI: Transforming Financial Data into Insights The integration of Microsoft Power BI with Business Central empowers decision-makers with real-time access to valuable financial data and […]\nThe post Business Central Integration with Power BI [Steps to follow] appeared first on ERP Software Blog.\nBrilliant Idea #11 Automotive Supplier Stays On Top of Shipments with Real Time Alerts in Microsoft Dynamics GP\nMicrosoft Dynamics AX 2012 for Public Sector Organizations Effectively Manages Public Finances\nIs Your “Cloud ERP” Really Cloud Based?",
+          "link": "https://erpsoftwareblog.com/2024/01/business-central-power-bi-integration/",
+          "publishedOn": "2024-01-11T15:04:33.000Z",
+          "wordCount": 8043,
+          "title": "Business Central Integration with Power BI [Steps to follow]",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/power-bi-4.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=103106",
+          "author": "NMB Solutions",
+          "description": "ABOUT VALLEY FORGE Valley Forge stands out as a global leader in innovative textile and design manufacturing, specializing in window treatment solutions for the hospitality industry. Renowned among the world's […]\nThe post Case study: How innovation creates a seamless digital transformation journey with Dynamics 365 appeared first on ERP Software Blog.\nReducing food companies’ risk while increasing their control and competitive standing with the Cloud\nWhy Microsoft Dynamics 365?\nCloud Technology Trends",
+          "link": "https://erpsoftwareblog.com/2024/01/case-study-how-innovation-creates-a-seamless-digital-transformation-journey-with-dynamics-365/",
+          "publishedOn": "2024-01-11T14:00:33.000Z",
+          "wordCount": 7822,
+          "title": "Case study: How innovation creates a seamless digital transformation journey with Dynamics 365",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=103092",
+          "author": "Dexpro Dynamics",
+          "description": "Many businesses are evaluating the transition from on-premises servers to the cloud, and a common question arises: \"How much does it cost to move Dynamics GP to Microsoft Azure?\" In […]\nThe post Analyzing the Cost of Moving Microsoft Dynamics GP to Azure appeared first on ERP Software Blog.\nImplementing BC PST & PEI HST in Dynamics GP\nCompare SaaS Against On-Premise Software Cost Calculator\nMobile ERP Technology Benefits",
+          "link": "https://erpsoftwareblog.com/2024/01/analyzing-the-cost-of-moving-microsoft-dynamics-gp-to-azure/",
+          "publishedOn": "2024-01-10T20:49:25.000Z",
+          "wordCount": 7540,
+          "title": "Analyzing the Cost of Moving Microsoft Dynamics GP to Azure",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Maximizing-GP.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=103074",
+          "author": "Dynamics Square USA",
+          "description": "Microsoft currently presents a duo of ERP-centric solutions: Dynamics 365 Business Central and Dynamics 365 for Finance and Operations, each tailored to meet diverse business needs. In this blog, we'll […]\nThe post Microsoft Business Central vs Dynamics 365 for Finance and Operations appeared first on ERP Software Blog.\nDevelop your Microsoft Dynamics GP Solution with the Developer Toolkit\nTop 5 Factors for Successful ERP Implementations from a Microsoft Partner Perspective\nAvoiding a Business Disaster After a Disaster Strikes: Recovery with the Cloud",
+          "link": "https://erpsoftwareblog.com/2024/01/business-central-vs-dynamics-365-finance-and-operations/",
+          "publishedOn": "2024-01-10T11:49:11.000Z",
+          "wordCount": 7443,
+          "title": "Microsoft Business Central vs Dynamics 365 for Finance and Operations",
+          "imageUrl": "https://www.dynamicssquare.com/_next/image/?url=%2Fimg%2Fmicrosoft-dynamics-365-business-central.png&w=3840&q=75"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=102947",
           "author": "HSO",
           "description": "Veranova, a globally recognized leader in active pharmaceutical ingredients (API) development and manufacturing, underwent a significant transformation with the consolidation of its seven Contract Development and Manufacturing Organization (CDMO) facilities […]\nThe post Veranova Achieves Seamless Integration of Seven CDMO Facilities in the US and UK onto a Unified Microsoft Dynamics 365 Platform within Nine Months appeared first on ERP Software Blog.\nRegister Now for JourneyTEAM’s 2021 Business Technology Summit\n4 Big Benefits of a Lead-to-Cash Solution for Rental Companies\n10 Reasons to Implement Dynamics 365 Commerce Now",
@@ -3223,6 +3293,26 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=60984",
+          "author": "Joann Bash",
+          "description": "How to Process 1099s in Dynamics GP\nIf you are doing business in the Untied States, you may be required to track purchase amounts and issue 1099 Statements to certain Vendors and the IRS. Dynamics GP allows you to set up and track 1099 Vendors, process and pay transactions with 1099 Amounts, adjust 1099 transaction values, and print 1099 Statements. Currently, Dynamics...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/how-to-process-1099s-in-dynamics-gp/",
+          "publishedOn": "2024-01-11T14:41:52.000Z",
+          "wordCount": 2864,
+          "title": "How to Process 1099s in Dynamics GP",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Dynamics-GP-Img.png"
+        },
+        {
+          "id": "https://www.encorebusiness.com/?p=60882",
+          "author": "Mike Harris",
+          "description": "Reporting Tools for Dynamics 365 Business Central\nIn Dynamics 365 Business Central, there are quite a few different reporting tools, and each one is best for a particular set of use cases. Below are brief descriptions of each of the most common reporting tools available for Business Central, to help you select the right one for your specific need. Business Central Financials...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/reporting-tools-for-dynamics-365-business-central/",
+          "publishedOn": "2024-01-10T15:15:40.000Z",
+          "wordCount": 1689,
+          "title": "Reporting Tools for Dynamics 365 Business Central",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/12/D365BC-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=60963",
           "author": "Joann Bash",
           "description": "1099 Changes for Tax Year 2023 (Info for Dynamics GP Users)\nThere have been some changes for handling 1099s for tax year 2023 that are relevant to Dynamics GP users. In this blog, will provide basic info and links to resources about changes from the IRS, a new printing capability in the GP system, and some alternative options for electronic filing. Table of Contents IRS Electronic...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -3469,6 +3559,106 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/mct-lounge",
+          "author": "Julian Sharp",
+          "description": "This post is for Microsoft Certified Trainers (MCTs) only. There are a lot of changes coming to the MCT Program in the next few year. Many of these are to […]",
+          "link": "https://365community.online/mct-lounge",
+          "publishedOn": "2024-01-11T18:30:08.000Z",
+          "wordCount": 3016,
+          "title": "MCT Lounge",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/MCT-Lounge.png?fit=212%2C213&ssl=1"
+        },
+        {
+          "id": "https://365community.online/%f0%9f%a4%96new-video-introduccion-al-proyecto-sophia-de-microsoft",
+          "author": "jarmesto",
+          "description": "Nuevo Video en mi canal de YouTube. ¿Estás listo para sumergirte en el futuro de la inteligencia artificial en los negocios? ¡No busques más! En mi último video, junto a […]",
+          "link": "https://365community.online/%f0%9f%a4%96new-video-introduccion-al-proyecto-sophia-de-microsoft",
+          "publishedOn": "2024-01-11T16:32:00.000Z",
+          "wordCount": 3055,
+          "title": "🤖New Video:  Introducción al Proyecto Sophia de Microsoft",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/New-Video-Introduccion-al-Proyecto-Sophia-de-Microsoft.png?fit=1080%2C1080&ssl=1"
+        },
+        {
+          "id": "https://365community.online/introduccion-al-proyecto-sophia-de-microsoft-un-nuevo-horizonte-en-ia-de-negocios-youtube",
+          "author": "jarmesto",
+          "description": "Introducción al Proyecto Sophia de Microsoft: Un Nuevo Horizonte en IA de Negocios En este video, exploramos(Circe y yo) el Proyecto Sophia de Microsoft, una innovadora aplicación de negocios basada […]",
+          "link": "https://365community.online/introduccion-al-proyecto-sophia-de-microsoft-un-nuevo-horizonte-en-ia-de-negocios-youtube",
+          "publishedOn": "2024-01-11T16:00:31.000Z",
+          "wordCount": 3120,
+          "title": "Introducción al Proyecto Sophia de Microsoft: Un Nuevo Horizonte en IA de Negocios – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1705019866_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/ocean-dynamics-rebrands-to-madic-dynamics",
+          "author": "Ian Grieve",
+          "description": "In September of 2023, I started a new job with Ocean Dynamics as a Functional Consultant, working with Microsoft Dynamics 365 Business Central. A few years ago, the French owned […]",
+          "link": "https://365community.online/ocean-dynamics-rebrands-to-madic-dynamics",
+          "publishedOn": "2024-01-11T15:00:20.000Z",
+          "wordCount": 3025,
+          "title": "Ocean Dynamics Rebrands to MADIC dynamics",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/omnichannel-for-customer-service-training-march-2023",
+          "author": "Neil Parkhurst",
+          "description": "I am very pleased to announce my first Microsoft Omnichannel for Customer Service training course Omnichannel for Customer Service is part of the Microsoft Digital Contact Center Platform, a comprehensive […]",
+          "link": "https://365community.online/omnichannel-for-customer-service-training-march-2023",
+          "publishedOn": "2024-01-11T13:32:04.000Z",
+          "wordCount": 3017,
+          "title": "Omnichannel for Customer Service Training – March 2023",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Omnichannel-for-Customer-Service-Training-–-March-2023.png?fit=892%2C592&ssl=1"
+        },
+        {
+          "id": "https://365community.online/working-with-power-automate-power-automate-with-business-central",
+          "author": "Ian Grieve",
+          "description": "This article is part of the Working with Power Automate series I am writing on my experiences working with the Power Automate, which is part of the Power Platform from […]",
+          "link": "https://365community.online/working-with-power-automate-power-automate-with-business-central",
+          "publishedOn": "2024-01-11T11:00:50.000Z",
+          "wordCount": 3044,
+          "title": "Working with Power Automate: Power Automate with Business Central",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/capture-lead-channel-traffic-source-without-utm-parameters",
+          "author": "Megan V. Walker",
+          "description": "If you use Google Analytics, you should be familiar with channels. As defined by Google, channels are rule-based definitions of your website’s traffic sources that let you monitor the performance […]",
+          "link": "https://365community.online/capture-lead-channel-traffic-source-without-utm-parameters",
+          "publishedOn": "2024-01-11T08:30:00.000Z",
+          "wordCount": 3014,
+          "title": "Capture Lead Channel Traffic Source Without UTM Parameters",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Capture-Lead-Channel-Traffic-Source-Without-UTM-Parameters.jpg?fit=1200%2C800&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-directly-access-custom-action-from-custom-pages-in-power-apps",
+          "author": "Inogic",
+          "description": "Power Apps offers versatile design experiences, including model-driven apps and Canvas apps, and the recent addition of Custom Pages. Based on the client’s recent requirements, we had to replace the […]",
+          "link": "https://365community.online/how-to-directly-access-custom-action-from-custom-pages-in-power-apps",
+          "publishedOn": "2024-01-11T07:32:46.000Z",
+          "wordCount": 3323,
+          "title": "How to directly access Custom Action from Custom Pages in Power Apps",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1Custom-Action-from-Custom-Pages-in-Power-Apps.png?fit=1200%2C519&ssl=1"
+        },
+        {
+          "id": "https://365community.online/chat-with-external-systems-using-plugin-actions-preview-in-copilot-studio-%f0%9f%98%8e-youtube",
+          "author": "Scott Durow",
+          "description": "Chat with external systems using plugin actions (preview) in Copilot Studio 😎 Join me in this video as I explore the various plugins in Copilot studio and then deep dive […]",
+          "link": "https://365community.online/chat-with-external-systems-using-plugin-actions-preview-in-copilot-studio-%f0%9f%98%8e-youtube",
+          "publishedOn": "2024-01-11T05:26:15.000Z",
+          "wordCount": 3162,
+          "title": "Chat with external systems using plugin actions (preview) in Copilot Studio 😎 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1704955289_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/overview-of-third-party-form-builder-voice-of-customer-applications-that-integrate-with-dynamics-365-power-platform",
+          "author": "Saurav Dhyani",
+          "description": "Clients often ask me if it is possible to integrate third-party form builder applications with Microsoft Dynamics 365 and the broader Power Platform. The short answer to that question is […]",
+          "link": "https://365community.online/overview-of-third-party-form-builder-voice-of-customer-applications-that-integrate-with-dynamics-365-power-platform",
+          "publishedOn": "2024-01-10T23:41:14.000Z",
+          "wordCount": 3066,
+          "title": "Overview of Third-Party Form Builder (Voice of Customer) Applications that Integrate with Dynamics 365/Power Platform",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/06/Migration-of-SLAs-in-Dynamics-365.png?fit=512%2C512&ssl=1"
+        },
         {
           "id": "https://365community.online/setting-a-sharepoint-date-only-field-value-to-the-current-date-using-list-formatting-json",
           "author": "michelcarlo",
@@ -6593,6 +6783,16 @@
       "siteUrl": "https://alexdmeyer.com/",
       "articles": [
         {
+          "id": "https://alexdmeyer.com/?p=3012",
+          "author": "Alex",
+          "description": "I’m excited today to release something I’ve been working on, the D365FO Admin Toolkit. The idea of this solution is that toolkit created for the Dynamics 365 FinOps community by the community itself. It is my hope and goal that this will be a platform that myself and others can add to going forward to […]\nThe post Public Release of the D365FO Admin Toolkit appeared first on Alex Meyer.",
+          "link": "https://alexdmeyer.com/2024/01/10/public-release-of-the-d365fo-admin-toolkit/",
+          "publishedOn": "2024-01-10T15:48:22.000Z",
+          "wordCount": 4081,
+          "title": "Public Release of the D365FO Admin Toolkit",
+          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2024/01/1.png"
+        },
+        {
           "id": "https://alexdmeyer.com/?p=2992",
           "author": "Alex",
           "description": "This is a follow up blog post to one I had a few weeks ago about being able to grant/revoke the SysAdmin role for testing purposes. One of the things I called out there was that before implementing this solution there needed to be a logging functionality to be able to audit when a user […]\nThe post Add Logging to SysAdmin Role Assignments in D365FO appeared first on Alex Meyer.",
@@ -7434,6 +7634,16 @@
       "siteUrl": "https://kurthatlevik.com",
       "articles": [
         {
+          "id": "http://kurthatlevik.com/?p=4559",
+          "author": "Kurt Hatlevik",
+          "description": "Exciting news from Microsoft has just landed a new preview feature, and it’s all about making our Dynamics 365 environment cleaner, more efficient, and compliant. In a recent Yammer post, Microsoft announced a significant upgrade to the storage capacity experience in the Power Platform Admin Center (PPAC) for Finance and Operations. This new (preview) feature … Continue reading D365 new year.  Let’s take the trash out.",
+          "link": "https://kurthatlevik.com/2024/01/10/d365-new-year-lets-take-the-trash-out/",
+          "publishedOn": "2024-01-10T12:09:15.000Z",
+          "wordCount": 3754,
+          "title": "D365 new year.  Let’s take the trash out.",
+          "imageUrl": "https://kurthatlevik.files.wordpress.com/2024/01/blogpost2.jpg"
+        },
+        {
           "id": "http://kurthatlevik.com/?p=4557",
           "author": "Kurt Hatlevik",
           "description": "Have you explored the Dynamics 365 implementation portal (https://experience.dynamics.com/FTimplementationportal )? You should! Lot’s of value and checklists available there. The Dynamics 365 Implementation Portal is designed to assist both customers and partners in guiding their Dynamics 365 projects to a successful completion. This portal offers detailed implementation advice and strategies to mitigate risks, tailored to … Continue reading CoPilot in Dynamics 365 implementation portal",
@@ -8209,6 +8419,66 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2798",
+          "author": "Saurabh Bharti",
+          "description": "Let’s kick off the year by exploring a noteworthy feature with potential significance from a taxation standpoint. Now, you have the capability to specify item sales tax information at the variant level. Prior to this enhancement, the option to default item sales tax groups was available only at the product master level. Imagine a scenario […]",
+          "link": "https://exploredynamics365.home.blog/2024/01/10/new-feature-item-sales-tax-group-at-product-variant-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2024-01-10T04:35:14.000Z",
+          "wordCount": 3173,
+          "title": "[New Feature] Item Sales tax group at Product variant in Microsoft Dynamics 365 Finance and Operations",
+          "imageUrl": "http://img.youtube.com/vi/kBsLVGwzw0s/0.jpg"
+        },
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2795",
+          "author": "Saurabh Bharti",
+          "description": "Welcome to the next video on “Learning Path to Become Functional consultant” series. Business requirements form the fundamental cornerstone for solution design, and it falls within the purview of a functional consultant to oversee the end-to-end process of gathering these requirements. In light of this responsibility, I’ve segmented this comprehensive activity into multiple parts for […]",
+          "link": "https://exploredynamics365.home.blog/2024/01/10/requirement-gathering-part-1-learning-path-to-become-functional-consultantfc-003/",
+          "publishedOn": "2024-01-10T04:33:18.000Z",
+          "wordCount": 3156,
+          "title": "Requirement Gathering: Part-1: Learning Path to Become Functional Consultant:FC-003",
+          "imageUrl": "http://img.youtube.com/vi/gYZJy4h5lrI/0.jpg"
+        },
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2792",
+          "author": "Saurabh Bharti",
+          "description": "Welcome to the next video on “Learning Path to Become Functional consultant” series. In our previous discussion, we delved into the significance of project phases and methodology for a functional consultant. Now, let’s narrow our focus to specific phases. In this video, I will explore the “Initiate” phase, a pivotal component for functional consultants, with […]",
+          "link": "https://exploredynamics365.home.blog/2024/01/10/solution-design-pillars-learning-path-to-become-functional-consultantfc-002/",
+          "publishedOn": "2024-01-10T04:31:10.000Z",
+          "wordCount": 3134,
+          "title": "Solution Design Pillars: Learning Path to Become Functional Consultant:FC-002",
+          "imageUrl": "http://img.youtube.com/vi/lc3DdEc42rc/0.jpg"
+        },
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2786",
+          "author": "Saurabh Bharti",
+          "description": "After receiving positive feedback on the initial video, “Path to Become a Functional Consultant,” I’ve been contemplating starting this series for quite some time. I firmly believe that for a functional consultant, the ratio is 30:70 – 30% product knowledge and 70% other essential skills. This series is dedicated to exploring that crucial 70%. This […]",
+          "link": "https://exploredynamics365.home.blog/2024/01/10/learning-path-to-become-functional-consultant-project-phases-and-methodology-overviewfc-001/",
+          "publishedOn": "2024-01-10T04:28:51.000Z",
+          "wordCount": 3140,
+          "title": "Learning Path To Become Functional Consultant: Project Phases and Methodology overview:FC-001",
+          "imageUrl": "http://img.youtube.com/vi/77yeMCkxAoA/0.jpg"
+        },
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2783",
+          "author": "Saurabh Bharti",
+          "description": "Did you observe the item number dropdown on Purchase order, Sales order or purchase requisition line, how the search works on that dropdown by entering any keyword? Dynamics 365 Finance and Operations offers a robust item search criteria functionality, empowering users to streamline their product exploration process. #d365 #dynamics #d365fo #d365 #microsoft #microsoftdynamics #microsoftdynamics365 #d365bc",
+          "link": "https://exploredynamics365.home.blog/2024/01/10/search-criteria-item-customer-search-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2024-01-10T04:24:47.000Z",
+          "wordCount": 3049,
+          "title": "Search criteria [Item/Customer Search] in Microsoft Dynamics 365 Finance and Operations",
+          "imageUrl": "http://img.youtube.com/vi/IQPnMaLu_f0/0.jpg"
+        },
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2779",
+          "author": "Saurabh Bharti",
+          "description": "Welcome to the subsequent segment of the inventory valuation series. Up to this point, I’ve delved into three valuation methods: Weighted Average, FIFO, and LIFO. In today’s video, I will explore value adjustment without affecting quantity. Often, discrepancies arise in the valuation of received inventory. Such discrepancies can stem from data entry errors or other […]",
+          "link": "https://exploredynamics365.home.blog/2024/01/10/inventory-value-adjustments-in-microsoft-dynamics-365-finance-and-operations-part-4/",
+          "publishedOn": "2024-01-10T04:22:25.000Z",
+          "wordCount": 3125,
+          "title": "Inventory value adjustments in Microsoft Dynamics 365 Finance and Operations: Part-4",
+          "imageUrl": "http://img.youtube.com/vi/TZX7NM7Wh94/0.jpg"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2776",
           "author": "Saurabh Bharti",
           "description": "I recently had a discussion with a customer who plans to utilize a free text invoice for processing customer invoices. One specific requirement they have is the ability to input a description in the header and ensure that it is recorded in both customer and ledger transactions. In D365, the issue lies in the absence […]",
@@ -8315,6 +8585,66 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2798",
+          "author": "Saurabh Bharti",
+          "description": "Let’s kick off the year by exploring a noteworthy feature with potential significance from a taxation standpoint. Now, you have the capability to specify item sales tax information at the variant level. Prior to this enhancement, the option to default item sales tax groups was available only at the product master level. Imagine a scenario […]",
+          "link": "https://exploredynamics365.home.blog/2024/01/10/new-feature-item-sales-tax-group-at-product-variant-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2024-01-10T04:35:14.000Z",
+          "wordCount": 3173,
+          "title": "[New Feature] Item Sales tax group at Product variant in Microsoft Dynamics 365 Finance and Operations",
+          "imageUrl": "http://img.youtube.com/vi/kBsLVGwzw0s/0.jpg"
+        },
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2795",
+          "author": "Saurabh Bharti",
+          "description": "Welcome to the next video on “Learning Path to Become Functional consultant” series. Business requirements form the fundamental cornerstone for solution design, and it falls within the purview of a functional consultant to oversee the end-to-end process of gathering these requirements. In light of this responsibility, I’ve segmented this comprehensive activity into multiple parts for […]",
+          "link": "https://exploredynamics365.home.blog/2024/01/10/requirement-gathering-part-1-learning-path-to-become-functional-consultantfc-003/",
+          "publishedOn": "2024-01-10T04:33:18.000Z",
+          "wordCount": 3156,
+          "title": "Requirement Gathering: Part-1: Learning Path to Become Functional Consultant:FC-003",
+          "imageUrl": "http://img.youtube.com/vi/gYZJy4h5lrI/0.jpg"
+        },
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2792",
+          "author": "Saurabh Bharti",
+          "description": "Welcome to the next video on “Learning Path to Become Functional consultant” series. In our previous discussion, we delved into the significance of project phases and methodology for a functional consultant. Now, let’s narrow our focus to specific phases. In this video, I will explore the “Initiate” phase, a pivotal component for functional consultants, with […]",
+          "link": "https://exploredynamics365.home.blog/2024/01/10/solution-design-pillars-learning-path-to-become-functional-consultantfc-002/",
+          "publishedOn": "2024-01-10T04:31:10.000Z",
+          "wordCount": 3134,
+          "title": "Solution Design Pillars: Learning Path to Become Functional Consultant:FC-002",
+          "imageUrl": "http://img.youtube.com/vi/lc3DdEc42rc/0.jpg"
+        },
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2786",
+          "author": "Saurabh Bharti",
+          "description": "After receiving positive feedback on the initial video, “Path to Become a Functional Consultant,” I’ve been contemplating starting this series for quite some time. I firmly believe that for a functional consultant, the ratio is 30:70 – 30% product knowledge and 70% other essential skills. This series is dedicated to exploring that crucial 70%. This […]",
+          "link": "https://exploredynamics365.home.blog/2024/01/10/learning-path-to-become-functional-consultant-project-phases-and-methodology-overviewfc-001/",
+          "publishedOn": "2024-01-10T04:28:51.000Z",
+          "wordCount": 3140,
+          "title": "Learning Path To Become Functional Consultant: Project Phases and Methodology overview:FC-001",
+          "imageUrl": "http://img.youtube.com/vi/77yeMCkxAoA/0.jpg"
+        },
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2783",
+          "author": "Saurabh Bharti",
+          "description": "Did you observe the item number dropdown on Purchase order, Sales order or purchase requisition line, how the search works on that dropdown by entering any keyword? Dynamics 365 Finance and Operations offers a robust item search criteria functionality, empowering users to streamline their product exploration process. #d365 #dynamics #d365fo #d365 #microsoft #microsoftdynamics #microsoftdynamics365 #d365bc",
+          "link": "https://exploredynamics365.home.blog/2024/01/10/search-criteria-item-customer-search-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2024-01-10T04:24:47.000Z",
+          "wordCount": 3049,
+          "title": "Search criteria [Item/Customer Search] in Microsoft Dynamics 365 Finance and Operations",
+          "imageUrl": "http://img.youtube.com/vi/IQPnMaLu_f0/0.jpg"
+        },
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2779",
+          "author": "Saurabh Bharti",
+          "description": "Welcome to the subsequent segment of the inventory valuation series. Up to this point, I’ve delved into three valuation methods: Weighted Average, FIFO, and LIFO. In today’s video, I will explore value adjustment without affecting quantity. Often, discrepancies arise in the valuation of received inventory. Such discrepancies can stem from data entry errors or other […]",
+          "link": "https://exploredynamics365.home.blog/2024/01/10/inventory-value-adjustments-in-microsoft-dynamics-365-finance-and-operations-part-4/",
+          "publishedOn": "2024-01-10T04:22:25.000Z",
+          "wordCount": 3125,
+          "title": "Inventory value adjustments in Microsoft Dynamics 365 Finance and Operations: Part-4",
+          "imageUrl": "http://img.youtube.com/vi/TZX7NM7Wh94/0.jpg"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2776",
           "author": "Saurabh Bharti",
@@ -8910,6 +9240,36 @@
           "wordCount": 14191,
           "title": "SysGlobalCache versus SysGlobalObjectCache in D365FO",
           "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/10/D365Blog_SysGlobalCache_Title.jpg"
+        },
+        {
+          "id": "https://ax.docentric.com/?p=27661",
+          "author": "Jovica Zivkovic",
+          "description": "At the Digiton Conference in Skopje, Docentric expert, Jovica Živković, demonstrated how to use Attachments and Alerts, providing insights into enhancing their usability through small customizations. For every D365FO implementation, Alerts and Attachments are essential functionalities which, let's be honest, could offer more features out […]\nThe post Digiton 2023: Tips and Tricks with Alerts and Attachments in D365FO appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/digiton-2023-tips-and-tricks-with-alerts-and-attachments-in-d365fo/",
+          "publishedOn": "2023-10-26T08:19:51.000Z",
+          "wordCount": 11493,
+          "title": "Digiton 2023: Tips and Tricks with Alerts and Attachments in D365FO",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/11/Digiton-Tips-and-Tricks-with-Alerts-and-Attachments-in-D365FO.png"
+        },
+        {
+          "id": "https://ax.docentric.com/?p=27648",
+          "author": "Irena Vujcic Pavlovic",
+          "description": "Docentric Team was attending Digiton Conference in Skopje, which is powered by Axapta Masters and Axapta Learning Center, and supported by Microsoft. 🚀 The event merges the power of Microsoft's latest updates with revolutionary ERP, CRM, and Power Platform technologies. We were heading there as […]\nThe post Docentric Team at Digiton Conference in Skopje appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/docentric-team-at-digiton-conference-in-skopje/",
+          "publishedOn": "2023-10-26T08:18:30.000Z",
+          "wordCount": 11387,
+          "title": "Docentric Team at Digiton Conference in Skopje",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/11/docentric-at-digiton.png"
+        },
+        {
+          "id": "https://ax.docentric.com/?p=27656",
+          "author": "Raul Rodman",
+          "description": "At the Digiton conference organized by Axapta Masters on October 20-21, 2023 in North Macedonia, Raul Rodman presented how to simplify reporting and document automation in D365FO with Docentric AX. During the demo session, he highlighted some key features of the Docentric solution: ✅ Integration […]\nThe post Digiton 2023: Elevating Report and Document Automation in D365FO appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/digiton-2023-elevating-report-and-document-automation-in-d365fo/",
+          "publishedOn": "2023-10-26T08:17:23.000Z",
+          "wordCount": 11528,
+          "title": "Digiton 2023: Elevating Report and Document Automation in D365FO",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/11/Digiton-Elevating-Reort-and-Document-Automation-in-D365FO.png"
         },
         {
           "id": "https://ax.docentric.com/?p=27547",

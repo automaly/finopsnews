@@ -2,10 +2,375 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-01-10T00:40:46.312Z</updated>
+    <updated>2024-01-12T00:41:35.441Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Graphical Scheduler v1.8: Elevating Production Scheduling]]></title>
+        <id>https://erpsoftwareblog.com/?p=103137</id>
+        <link href="https://erpsoftwareblog.com/2024/01/graphical-scheduler-v1-8-elevating-production-scheduling/"/>
+        <updated>2024-01-11T20:18:04.000Z</updated>
+        <summary type="html"><![CDATA[Discover Graphical Scheduler v1.8: A powerful tool for streamlined production scheduling, offering intuitive use and advanced integration.
+The post Graphical Scheduler v1.8: Elevating Production Scheduling appeared first on ERP Software Blog.
+Quality Control in Inventory and Manufacturing Using Dynamics 365 Business Central
+Free Business Central Apps to Fill the Gaps
+Insight Works Expands Globally with 11 New Microsoft Partners]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cost Control and Financial Visibility: Harnessing Microsoft Business Central for Success]]></title>
+        <id>https://erpsoftwareblog.com/?p=103128</id>
+        <link href="https://erpsoftwareblog.com/2024/01/cost-control-and-financial-visibility-harnessing-microsoft-business-central-for-success/"/>
+        <updated>2024-01-11T18:35:14.000Z</updated>
+        <summary type="html"><![CDATA[Cost Control and Financial Visibility: Harnessing Microsoft Business Central for Success   Effective financial management is the cornerstone of a successful business. In today's world, organizations need good tools to […]
+The post Cost Control and Financial Visibility: Harnessing Microsoft Business Central for Success appeared first on ERP Software Blog.
+Easily Manage Data with Business Central Virtual Tables
+Learn How To Save Time By Using The "Cancel" Option to Reverse A Posted Sales Invoice
+6 Best Practices to Planning Successful ERP Implementation]]></summary>
+        <author>
+            <name>Gestisoft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MCT Lounge]]></title>
+        <id>https://365community.online/mct-lounge</id>
+        <link href="https://365community.online/mct-lounge"/>
+        <updated>2024-01-11T18:30:08.000Z</updated>
+        <summary type="html"><![CDATA[This post is for Microsoft Certified Trainers (MCTs) only. There are a lot of changes coming to the MCT Program in the next few year. Many of these are to […]]]></summary>
+        <author>
+            <name>Julian Sharp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🤖New Video:  Introducción al Proyecto Sophia de Microsoft]]></title>
+        <id>https://365community.online/%f0%9f%a4%96new-video-introduccion-al-proyecto-sophia-de-microsoft</id>
+        <link href="https://365community.online/%f0%9f%a4%96new-video-introduccion-al-proyecto-sophia-de-microsoft"/>
+        <updated>2024-01-11T16:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Nuevo Video en mi canal de YouTube. ¿Estás listo para sumergirte en el futuro de la inteligencia artificial en los negocios? ¡No busques más! En mi último video, junto a […]]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducción al Proyecto Sophia de Microsoft: Un Nuevo Horizonte en IA de Negocios – YouTube]]></title>
+        <id>https://365community.online/introduccion-al-proyecto-sophia-de-microsoft-un-nuevo-horizonte-en-ia-de-negocios-youtube</id>
+        <link href="https://365community.online/introduccion-al-proyecto-sophia-de-microsoft-un-nuevo-horizonte-en-ia-de-negocios-youtube"/>
+        <updated>2024-01-11T16:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Introducción al Proyecto Sophia de Microsoft: Un Nuevo Horizonte en IA de Negocios En este video, exploramos(Circe y yo) el Proyecto Sophia de Microsoft, una innovadora aplicación de negocios basada […]]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How We Achieved Supply Chain Excellence with StockIQ’s Innovative Solutions]]></title>
+        <id>https://erpsoftwareblog.com/?p=103115</id>
+        <link href="https://erpsoftwareblog.com/2024/01/how-we-achieved-supply-chain-excellence-with-stockiqs-innovative-solutions/"/>
+        <updated>2024-01-11T15:12:44.000Z</updated>
+        <summary type="html"><![CDATA[As a growing business, we faced many challenges in managing our supply chain operations. We needed a solution that could help us forecast demand, optimize inventory, plan replenishment, and collaborate […]
+The post How We Achieved Supply Chain Excellence with StockIQ’s Innovative Solutions appeared first on ERP Software Blog.
+8 Favorite StockIQ Supply Chain Planning Improvements & Features for 2021
+7 Check List Questions When Moving Inventory from One Warehouse to Another
+TIME TO UPGRADE YOUR SUPPLY CHAIN PLANNING SOFTWARE?]]></summary>
+        <author>
+            <name>StockIQ Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central Integration with Power BI [Steps to follow]]]></title>
+        <id>https://erpsoftwareblog.com/?p=103113</id>
+        <link href="https://erpsoftwareblog.com/2024/01/business-central-power-bi-integration/"/>
+        <updated>2024-01-11T15:04:33.000Z</updated>
+        <summary type="html"><![CDATA[Business Central Integration with Power BI: Transforming Financial Data into Insights The integration of Microsoft Power BI with Business Central empowers decision-makers with real-time access to valuable financial data and […]
+The post Business Central Integration with Power BI [Steps to follow] appeared first on ERP Software Blog.
+Brilliant Idea #11 Automotive Supplier Stays On Top of Shipments with Real Time Alerts in Microsoft Dynamics GP
+Microsoft Dynamics AX 2012 for Public Sector Organizations Effectively Manages Public Finances
+Is Your “Cloud ERP” Really Cloud Based?]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ocean Dynamics Rebrands to MADIC dynamics]]></title>
+        <id>https://365community.online/ocean-dynamics-rebrands-to-madic-dynamics</id>
+        <link href="https://365community.online/ocean-dynamics-rebrands-to-madic-dynamics"/>
+        <updated>2024-01-11T15:00:20.000Z</updated>
+        <summary type="html"><![CDATA[In September of 2023, I started a new job with Ocean Dynamics as a Functional Consultant, working with Microsoft Dynamics 365 Business Central. A few years ago, the French owned […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Process 1099s in Dynamics GP]]></title>
+        <id>https://www.encorebusiness.com/?p=60984</id>
+        <link href="https://www.encorebusiness.com/blog/how-to-process-1099s-in-dynamics-gp/"/>
+        <updated>2024-01-11T14:41:52.000Z</updated>
+        <summary type="html"><![CDATA[How to Process 1099s in Dynamics GP
+If you are doing business in the Untied States, you may be required to track purchase amounts and issue 1099 Statements to certain Vendors and the IRS. Dynamics GP allows you to set up and track 1099 Vendors, process and pay transactions with 1099 Amounts, adjust 1099 transaction values, and print 1099 Statements. Currently, Dynamics...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Joann Bash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Case study: How innovation creates a seamless digital transformation journey with Dynamics 365]]></title>
+        <id>https://erpsoftwareblog.com/?p=103106</id>
+        <link href="https://erpsoftwareblog.com/2024/01/case-study-how-innovation-creates-a-seamless-digital-transformation-journey-with-dynamics-365/"/>
+        <updated>2024-01-11T14:00:33.000Z</updated>
+        <summary type="html"><![CDATA[ABOUT VALLEY FORGE Valley Forge stands out as a global leader in innovative textile and design manufacturing, specializing in window treatment solutions for the hospitality industry. Renowned among the world's […]
+The post Case study: How innovation creates a seamless digital transformation journey with Dynamics 365 appeared first on ERP Software Blog.
+Reducing food companies’ risk while increasing their control and competitive standing with the Cloud
+Why Microsoft Dynamics 365?
+Cloud Technology Trends]]></summary>
+        <author>
+            <name>NMB Solutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omnichannel for Customer Service Training – March 2023]]></title>
+        <id>https://365community.online/omnichannel-for-customer-service-training-march-2023</id>
+        <link href="https://365community.online/omnichannel-for-customer-service-training-march-2023"/>
+        <updated>2024-01-11T13:32:04.000Z</updated>
+        <summary type="html"><![CDATA[I am very pleased to announce my first Microsoft Omnichannel for Customer Service training course Omnichannel for Customer Service is part of the Microsoft Digital Contact Center Platform, a comprehensive […]]]></summary>
+        <author>
+            <name>Neil Parkhurst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working with Power Automate: Power Automate with Business Central]]></title>
+        <id>https://365community.online/working-with-power-automate-power-automate-with-business-central</id>
+        <link href="https://365community.online/working-with-power-automate-power-automate-with-business-central"/>
+        <updated>2024-01-11T11:00:50.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the Working with Power Automate series I am writing on my experiences working with the Power Automate, which is part of the Power Platform from […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Capture Lead Channel Traffic Source Without UTM Parameters]]></title>
+        <id>https://365community.online/capture-lead-channel-traffic-source-without-utm-parameters</id>
+        <link href="https://365community.online/capture-lead-channel-traffic-source-without-utm-parameters"/>
+        <updated>2024-01-11T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[If you use Google Analytics, you should be familiar with channels. As defined by Google, channels are rule-based definitions of your website’s traffic sources that let you monitor the performance […]]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to directly access Custom Action from Custom Pages in Power Apps]]></title>
+        <id>https://365community.online/how-to-directly-access-custom-action-from-custom-pages-in-power-apps</id>
+        <link href="https://365community.online/how-to-directly-access-custom-action-from-custom-pages-in-power-apps"/>
+        <updated>2024-01-11T07:32:46.000Z</updated>
+        <summary type="html"><![CDATA[Power Apps offers versatile design experiences, including model-driven apps and Canvas apps, and the recent addition of Custom Pages. Based on the client’s recent requirements, we had to replace the […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chat with external systems using plugin actions (preview) in Copilot Studio 😎 – YouTube]]></title>
+        <id>https://365community.online/chat-with-external-systems-using-plugin-actions-preview-in-copilot-studio-%f0%9f%98%8e-youtube</id>
+        <link href="https://365community.online/chat-with-external-systems-using-plugin-actions-preview-in-copilot-studio-%f0%9f%98%8e-youtube"/>
+        <updated>2024-01-11T05:26:15.000Z</updated>
+        <summary type="html"><![CDATA[Chat with external systems using plugin actions (preview) in Copilot Studio 😎 Join me in this video as I explore the various plugins in Copilot studio and then deep dive […]]]></summary>
+        <author>
+            <name>Scott Durow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overview of Third-Party Form Builder (Voice of Customer) Applications that Integrate with Dynamics 365/Power Platform]]></title>
+        <id>https://365community.online/overview-of-third-party-form-builder-voice-of-customer-applications-that-integrate-with-dynamics-365-power-platform</id>
+        <link href="https://365community.online/overview-of-third-party-form-builder-voice-of-customer-applications-that-integrate-with-dynamics-365-power-platform"/>
+        <updated>2024-01-10T23:41:14.000Z</updated>
+        <summary type="html"><![CDATA[Clients often ask me if it is possible to integrate third-party form builder applications with Microsoft Dynamics 365 and the broader Power Platform. The short answer to that question is […]]]></summary>
+        <author>
+            <name>Saurav Dhyani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analyzing the Cost of Moving Microsoft Dynamics GP to Azure]]></title>
+        <id>https://erpsoftwareblog.com/?p=103092</id>
+        <link href="https://erpsoftwareblog.com/2024/01/analyzing-the-cost-of-moving-microsoft-dynamics-gp-to-azure/"/>
+        <updated>2024-01-10T20:49:25.000Z</updated>
+        <summary type="html"><![CDATA[Many businesses are evaluating the transition from on-premises servers to the cloud, and a common question arises: "How much does it cost to move Dynamics GP to Microsoft Azure?" In […]
+The post Analyzing the Cost of Moving Microsoft Dynamics GP to Azure appeared first on ERP Software Blog.
+Implementing BC PST & PEI HST in Dynamics GP
+Compare SaaS Against On-Premise Software Cost Calculator
+Mobile ERP Technology Benefits]]></summary>
+        <author>
+            <name>Dexpro Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public Release of the D365FO Admin Toolkit]]></title>
+        <id>https://alexdmeyer.com/?p=3012</id>
+        <link href="https://alexdmeyer.com/2024/01/10/public-release-of-the-d365fo-admin-toolkit/"/>
+        <updated>2024-01-10T15:48:22.000Z</updated>
+        <summary type="html"><![CDATA[I’m excited today to release something I’ve been working on, the D365FO Admin Toolkit. The idea of this solution is that toolkit created for the Dynamics 365 FinOps community by the community itself. It is my hope and goal that this will be a platform that myself and others can add to going forward to […]
+The post Public Release of the D365FO Admin Toolkit appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reporting Tools for Dynamics 365 Business Central]]></title>
+        <id>https://www.encorebusiness.com/?p=60882</id>
+        <link href="https://www.encorebusiness.com/blog/reporting-tools-for-dynamics-365-business-central/"/>
+        <updated>2024-01-10T15:15:40.000Z</updated>
+        <summary type="html"><![CDATA[Reporting Tools for Dynamics 365 Business Central
+In Dynamics 365 Business Central, there are quite a few different reporting tools, and each one is best for a particular set of use cases. Below are brief descriptions of each of the most common reporting tools available for Business Central, to help you select the right one for your specific need. Business Central Financials...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Mike Harris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 new year.  Let’s take the trash out.]]></title>
+        <id>http://kurthatlevik.com/?p=4559</id>
+        <link href="https://kurthatlevik.com/2024/01/10/d365-new-year-lets-take-the-trash-out/"/>
+        <updated>2024-01-10T12:09:15.000Z</updated>
+        <summary type="html"><![CDATA[Exciting news from Microsoft has just landed a new preview feature, and it’s all about making our Dynamics 365 environment cleaner, more efficient, and compliant. In a recent Yammer post, Microsoft announced a significant upgrade to the storage capacity experience in the Power Platform Admin Center (PPAC) for Finance and Operations. This new (preview) feature … Continue reading D365 new year.  Let’s take the trash out.]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Business Central vs Dynamics 365 for Finance and Operations]]></title>
+        <id>https://erpsoftwareblog.com/?p=103074</id>
+        <link href="https://erpsoftwareblog.com/2024/01/business-central-vs-dynamics-365-finance-and-operations/"/>
+        <updated>2024-01-10T11:49:11.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft currently presents a duo of ERP-centric solutions: Dynamics 365 Business Central and Dynamics 365 for Finance and Operations, each tailored to meet diverse business needs. In this blog, we'll […]
+The post Microsoft Business Central vs Dynamics 365 for Finance and Operations appeared first on ERP Software Blog.
+Develop your Microsoft Dynamics GP Solution with the Developer Toolkit
+Top 5 Factors for Successful ERP Implementations from a Microsoft Partner Perspective
+Avoiding a Business Disaster After a Disaster Strikes: Recovery with the Cloud]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[New Feature] Item Sales tax group at Product variant in Microsoft Dynamics 365 Finance and Operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2798</id>
+        <link href="https://exploredynamics365.home.blog/2024/01/10/new-feature-item-sales-tax-group-at-product-variant-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2024-01-10T04:35:14.000Z</updated>
+        <summary type="html"><![CDATA[Let’s kick off the year by exploring a noteworthy feature with potential significance from a taxation standpoint. Now, you have the capability to specify item sales tax information at the variant level. Prior to this enhancement, the option to default item sales tax groups was available only at the product master level. Imagine a scenario […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[New Feature] Item Sales tax group at Product variant in Microsoft Dynamics 365 Finance and Operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2798</id>
+        <link href="https://exploredynamics365.home.blog/2024/01/10/new-feature-item-sales-tax-group-at-product-variant-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2024-01-10T04:35:14.000Z</updated>
+        <summary type="html"><![CDATA[Let’s kick off the year by exploring a noteworthy feature with potential significance from a taxation standpoint. Now, you have the capability to specify item sales tax information at the variant level. Prior to this enhancement, the option to default item sales tax groups was available only at the product master level. Imagine a scenario […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Requirement Gathering: Part-1: Learning Path to Become Functional Consultant:FC-003]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2795</id>
+        <link href="https://exploredynamics365.home.blog/2024/01/10/requirement-gathering-part-1-learning-path-to-become-functional-consultantfc-003/"/>
+        <updated>2024-01-10T04:33:18.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the next video on “Learning Path to Become Functional consultant” series. Business requirements form the fundamental cornerstone for solution design, and it falls within the purview of a functional consultant to oversee the end-to-end process of gathering these requirements. In light of this responsibility, I’ve segmented this comprehensive activity into multiple parts for […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Requirement Gathering: Part-1: Learning Path to Become Functional Consultant:FC-003]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2795</id>
+        <link href="https://exploredynamics365.home.blog/2024/01/10/requirement-gathering-part-1-learning-path-to-become-functional-consultantfc-003/"/>
+        <updated>2024-01-10T04:33:18.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the next video on “Learning Path to Become Functional consultant” series. Business requirements form the fundamental cornerstone for solution design, and it falls within the purview of a functional consultant to oversee the end-to-end process of gathering these requirements. In light of this responsibility, I’ve segmented this comprehensive activity into multiple parts for […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solution Design Pillars: Learning Path to Become Functional Consultant:FC-002]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2792</id>
+        <link href="https://exploredynamics365.home.blog/2024/01/10/solution-design-pillars-learning-path-to-become-functional-consultantfc-002/"/>
+        <updated>2024-01-10T04:31:10.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the next video on “Learning Path to Become Functional consultant” series. In our previous discussion, we delved into the significance of project phases and methodology for a functional consultant. Now, let’s narrow our focus to specific phases. In this video, I will explore the “Initiate” phase, a pivotal component for functional consultants, with […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solution Design Pillars: Learning Path to Become Functional Consultant:FC-002]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2792</id>
+        <link href="https://exploredynamics365.home.blog/2024/01/10/solution-design-pillars-learning-path-to-become-functional-consultantfc-002/"/>
+        <updated>2024-01-10T04:31:10.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the next video on “Learning Path to Become Functional consultant” series. In our previous discussion, we delved into the significance of project phases and methodology for a functional consultant. Now, let’s narrow our focus to specific phases. In this video, I will explore the “Initiate” phase, a pivotal component for functional consultants, with […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Path To Become Functional Consultant: Project Phases and Methodology overview:FC-001]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2786</id>
+        <link href="https://exploredynamics365.home.blog/2024/01/10/learning-path-to-become-functional-consultant-project-phases-and-methodology-overviewfc-001/"/>
+        <updated>2024-01-10T04:28:51.000Z</updated>
+        <summary type="html"><![CDATA[After receiving positive feedback on the initial video, “Path to Become a Functional Consultant,” I’ve been contemplating starting this series for quite some time. I firmly believe that for a functional consultant, the ratio is 30:70 – 30% product knowledge and 70% other essential skills. This series is dedicated to exploring that crucial 70%. This […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Path To Become Functional Consultant: Project Phases and Methodology overview:FC-001]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2786</id>
+        <link href="https://exploredynamics365.home.blog/2024/01/10/learning-path-to-become-functional-consultant-project-phases-and-methodology-overviewfc-001/"/>
+        <updated>2024-01-10T04:28:51.000Z</updated>
+        <summary type="html"><![CDATA[After receiving positive feedback on the initial video, “Path to Become a Functional Consultant,” I’ve been contemplating starting this series for quite some time. I firmly believe that for a functional consultant, the ratio is 30:70 – 30% product knowledge and 70% other essential skills. This series is dedicated to exploring that crucial 70%. This […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Search criteria [Item/Customer Search] in Microsoft Dynamics 365 Finance and Operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2783</id>
+        <link href="https://exploredynamics365.home.blog/2024/01/10/search-criteria-item-customer-search-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2024-01-10T04:24:47.000Z</updated>
+        <summary type="html"><![CDATA[Did you observe the item number dropdown on Purchase order, Sales order or purchase requisition line, how the search works on that dropdown by entering any keyword? Dynamics 365 Finance and Operations offers a robust item search criteria functionality, empowering users to streamline their product exploration process. #d365 #dynamics #d365fo #d365 #microsoft #microsoftdynamics #microsoftdynamics365 #d365bc]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Search criteria [Item/Customer Search] in Microsoft Dynamics 365 Finance and Operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2783</id>
+        <link href="https://exploredynamics365.home.blog/2024/01/10/search-criteria-item-customer-search-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2024-01-10T04:24:47.000Z</updated>
+        <summary type="html"><![CDATA[Did you observe the item number dropdown on Purchase order, Sales order or purchase requisition line, how the search works on that dropdown by entering any keyword? Dynamics 365 Finance and Operations offers a robust item search criteria functionality, empowering users to streamline their product exploration process. #d365 #dynamics #d365fo #d365 #microsoft #microsoftdynamics #microsoftdynamics365 #d365bc]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inventory value adjustments in Microsoft Dynamics 365 Finance and Operations: Part-4]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2779</id>
+        <link href="https://exploredynamics365.home.blog/2024/01/10/inventory-value-adjustments-in-microsoft-dynamics-365-finance-and-operations-part-4/"/>
+        <updated>2024-01-10T04:22:25.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the subsequent segment of the inventory valuation series. Up to this point, I’ve delved into three valuation methods: Weighted Average, FIFO, and LIFO. In today’s video, I will explore value adjustment without affecting quantity. Often, discrepancies arise in the valuation of received inventory. Such discrepancies can stem from data entry errors or other […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inventory value adjustments in Microsoft Dynamics 365 Finance and Operations: Part-4]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2779</id>
+        <link href="https://exploredynamics365.home.blog/2024/01/10/inventory-value-adjustments-in-microsoft-dynamics-365-finance-and-operations-part-4/"/>
+        <updated>2024-01-10T04:22:25.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the subsequent segment of the inventory valuation series. Up to this point, I’ve delved into three valuation methods: Weighted Average, FIFO, and LIFO. In today’s video, I will explore value adjustment without affecting quantity. Often, discrepancies arise in the valuation of received inventory. Such discrepancies can stem from data entry errors or other […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Setting a SharePoint Date only field value to the current date using List Formatting JSON]]></title>
         <id>https://365community.online/setting-a-sharepoint-date-only-field-value-to-the-current-date-using-list-formatting-json</id>
@@ -8341,6 +8706,39 @@ The post My Experience at Dynamics Communities North America Summit 2023 appeare
         <summary type="html"><![CDATA[We’re excited to announce the public preview of a much-anticipated update to the Microsoft Dataverse connector in Power Automate. With the new ‘Environment’ parameter, you can use the Dataverse connector to seamlessly connect apps, data, and processes in different Power Platform environments.]]></summary>
         <author>
             <name>powerautomate.microsoft.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digiton 2023: Tips and Tricks with Alerts and Attachments in D365FO]]></title>
+        <id>https://ax.docentric.com/?p=27661</id>
+        <link href="https://ax.docentric.com/digiton-2023-tips-and-tricks-with-alerts-and-attachments-in-d365fo/"/>
+        <updated>2023-10-26T08:19:51.000Z</updated>
+        <summary type="html"><![CDATA[At the Digiton Conference in Skopje, Docentric expert, Jovica Živković, demonstrated how to use Attachments and Alerts, providing insights into enhancing their usability through small customizations. For every D365FO implementation, Alerts and Attachments are essential functionalities which, let's be honest, could offer more features out […]
+The post Digiton 2023: Tips and Tricks with Alerts and Attachments in D365FO appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Jovica Zivkovic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docentric Team at Digiton Conference in Skopje]]></title>
+        <id>https://ax.docentric.com/?p=27648</id>
+        <link href="https://ax.docentric.com/docentric-team-at-digiton-conference-in-skopje/"/>
+        <updated>2023-10-26T08:18:30.000Z</updated>
+        <summary type="html"><![CDATA[Docentric Team was attending Digiton Conference in Skopje, which is powered by Axapta Masters and Axapta Learning Center, and supported by Microsoft. 🚀 The event merges the power of Microsoft's latest updates with revolutionary ERP, CRM, and Power Platform technologies. We were heading there as […]
+The post Docentric Team at Digiton Conference in Skopje appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Irena Vujcic Pavlovic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digiton 2023: Elevating Report and Document Automation in D365FO]]></title>
+        <id>https://ax.docentric.com/?p=27656</id>
+        <link href="https://ax.docentric.com/digiton-2023-elevating-report-and-document-automation-in-d365fo/"/>
+        <updated>2023-10-26T08:17:23.000Z</updated>
+        <summary type="html"><![CDATA[At the Digiton conference organized by Axapta Masters on October 20-21, 2023 in North Macedonia, Raul Rodman presented how to simplify reporting and document automation in D365FO with Docentric AX. During the demo session, he highlighted some key features of the Docentric solution: ✅ Integration […]
+The post Digiton 2023: Elevating Report and Document Automation in D365FO appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Raul Rodman</name>
         </author>
     </entry>
     <entry>
