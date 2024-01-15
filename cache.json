@@ -3610,6 +3610,16 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/using-ai-to-provide-help-for-users",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 01/14/24. Last modified:  01/14/24 Tags:  AI Help Using ChatGPT to improve the help experience for your end users This article is about using ChatGPT to […]",
+          "link": "https://365community.online/using-ai-to-provide-help-for-users",
+          "publishedOn": "2024-01-14T20:41:48.000Z",
+          "wordCount": 3036,
+          "title": "Using AI To Provide Help For Users",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
           "id": "https://365community.online/snowflake-training-snowflake-tutorial-for-beginners-snowflake-certification-demo-mindmajix-youtube",
           "author": "Jaya Sri",
           "description": "Are you ready to take your career to the next level? Dive into the world of Snowflake certification training and unlock the power of cloud data warehousing. In this Snowflake […]",
@@ -7565,6 +7575,16 @@
       "feedUrl": "http://atomicax.com/rss.xml",
       "siteUrl": "https://www.atomicax.com/frontpage",
       "articles": [
+        {
+          "id": "1685 at https://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 01/14/24.\n\n\nLast modified: \n\n01/14/24\n\n\n\n\n\n\n\n\n\n\n\n\n      \nTags: \nAI      \nHelp      \n\nUsing ChatGPT to improve the help experience for your end users\nThis article is about using ChatGPT to help provide contextual help to an end user of Finance and Operations. This is simply an example of how to do it with some extra features to illustrate how AI can be used and also mis-used. I don't expect that this specific use case would be provided in the manner this article shows and for a real solution, you would have a much larger set of training data available for an AI large language model to ingest and provide even better help. With that out the way, let's dig in.\nNew users of Finance and Operations can sometimes face issues getting the training or documentation they …",
+          "link": "https://www.atomicax.com/article/using-ai-provide-help-users",
+          "publishedOn": "2024-01-14T20:41:48.000Z",
+          "wordCount": 1721,
+          "title": "Using AI To Provide Help For Users",
+          "imageUrl": null
+        },
         {
           "id": "1684 at https://www.atomicax.com",
           "author": "Nathan Clouse",
