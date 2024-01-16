@@ -2,10 +2,248 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-01-15T00:42:43.923Z</updated>
+    <updated>2024-01-16T00:40:40.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Power platform integration for D365F&O VM]]></title>
+        <id>https://365community.online/power-platform-integration-for-d365fo-vm</id>
+        <link href="https://365community.online/power-platform-integration-for-d365fo-vm"/>
+        <updated>2024-01-15T18:49:46.000Z</updated>
+        <summary type="html"><![CDATA[Are you unable to find the Power platform add-ins in the LCS ? It might be because your user id doesn`t have advanced privilege to view or the VM might […]]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power platform integration for D365F&O VM]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=3259</id>
+        <link href="https://anithasantosh.wordpress.com/2024/01/15/power-platform-integration-for-d365fo-vm/"/>
+        <updated>2024-01-15T18:49:46.000Z</updated>
+        <summary type="html"><![CDATA[Are you unable to find the Power platform add-ins in the LCS ? It might be because your user id doesn`t have advanced privilege to view or the VM might not be configured with Power Platform Integration. I can read … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing automatic Copilot enablement in Customer Service]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2024/01/15/announcing-automatic-copilot-enablement-in-customer-service/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2024/01/15/announcing-automatic-copilot-enablement-in-customer-service/"/>
+        <updated>2024-01-15T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Starting January 19, 2024, Microsoft Copilot in Dynamics 365 Customer Service will be automatically installed and enabled in your Dynamics 365 Customer Service environment. 
+The post Announcing automatic Copilot enablement in Customer Service appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Rushil Vora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Signs You Need to Improve Financial Reporting in Your Dynamics ERP]]></title>
+        <id>https://erpsoftwareblog.com/?p=103099</id>
+        <link href="https://erpsoftwareblog.com/2024/01/7-signs-you-need-to-improve-financial-reporting-in-your-dynamics-erp/"/>
+        <updated>2024-01-15T15:49:54.000Z</updated>
+        <summary type="html"><![CDATA[Effective financial reporting is vital for any business utilizing Dynamics ERP. It's not just about having data; it's about how quickly and accurately you can process and utilize that information, […]
+The post 7 Signs You Need to Improve Financial Reporting in Your Dynamics ERP appeared first on ERP Software Blog.
+Self-Service Analytics: Exploring Your ERP Data for Maximum Insights
+Find New Life for Your Dead-End BPC System with deFacto Planning
+2024 Top Trends in Microsoft Dynamics Financial Reporting]]></summary>
+        <author>
+            <name>FYIsoft, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Comprehensive Guide on How to Use the Warehouse Item Journal]]></title>
+        <id>https://erpsoftwareblog.com/?p=103215</id>
+        <link href="https://erpsoftwareblog.com/2024/01/a-comprehensive-guide-on-how-to-use-the-warehouse-item-journal/"/>
+        <updated>2024-01-15T15:19:42.000Z</updated>
+        <summary type="html"><![CDATA[Efficient inventory management is crucial for the success of any business, ensuring that products are readily available for customers while minimizing holding costs. The Warehouse Item Journal is a powerful […]
+The post A Comprehensive Guide on How to Use the Warehouse Item Journal appeared first on ERP Software Blog.
+Everything you need to know about Warehouse Order Picking Methods
+How much time does a Business Central implementation take?
+Customizing Workflows in Business Central: Streamline your Business Processes]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inventory and Warehouse Management in Dynamics 365 Finance & Operations]]></title>
+        <id>https://www.encorebusiness.com/?p=59852</id>
+        <link href="https://www.encorebusiness.com/blog/inventory-and-warehouse-management-in-d365-finance-operations/"/>
+        <updated>2024-01-15T15:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Inventory and Warehouse Management in Dynamics 365 Finance & Operations
+You may be curious about the functionality of warehouse management systems (WMS) in Dynamics 365 Finance & Operations and how it can benefit your existing inventory management processes. This article will cover the importance of having a well organized inventory management system, as well as some common drawbacks. It will also introduce the benefits and...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Allen Shannon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Microsoft Dynamics Manufacturing Partners (For 2024)]]></title>
+        <id>https://erpsoftwareblog.com/?p=103212</id>
+        <link href="https://erpsoftwareblog.com/2024/01/best-microsoft-dynamics-manufacturing-partners/"/>
+        <updated>2024-01-15T14:35:32.000Z</updated>
+        <summary type="html"><![CDATA[You’re a small to medium-sized manufacturing company and you want to know the best way to implement an ERP for your business. Well, you’re going to need a partner for […]
+The post Best Microsoft Dynamics Manufacturing Partners (For 2024) appeared first on ERP Software Blog.
+How to Migrate Data to Business Central During Your Upgrade Transition
+Signature Capture in Business Central: A Comprehensive Guide with Warehouse Insight
+Lot Traceability for Chemical Manufacturers in VicinityChem and Microsoft Dynamics ERP]]></summary>
+        <author>
+            <name>Sabre Limited</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harnessing Codeless AI: Gwenael Bego’s Journey from Hong Kong to Paris and Revolutionizing Workf – YouTube]]></title>
+        <id>https://365community.online/harnessing-codeless-ai-gwenael-begos-journey-from-hong-kong-to-paris-and-revolutionizing-workf-youtube</id>
+        <link href="https://365community.online/harnessing-codeless-ai-gwenael-begos-journey-from-hong-kong-to-paris-and-revolutionizing-workf-youtube"/>
+        <updated>2024-01-15T14:16:51.000Z</updated>
+        <summary type="html"><![CDATA[Harnessing Codeless AI: Gwenael Bego’s Journey from Hong Kong to Paris and Revolutionizing Workf FULL SHOW NOTES https://podcast.nz365guy.com/517   • Discover the transformative power of AI as Gwenael Bego, Microsoft’s […]]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365FO ER (GER): Error while evaluating expression…]]></title>
+        <id>http://fernitudela.dev/?p=1241</id>
+        <link href="https://fernitudela.dev/2024/01/15/d365fo-ger-error-while-evaluating-expression/"/>
+        <updated>2024-01-15T13:38:52.000Z</updated>
+        <summary type="html"><![CDATA[In this post (and you have the video version of it in YouTube), we are going to understand why this pretty common error happens, giving us the tools to see what is wrong, and troubleshooting the error. We are going to see 2 different examples, first didactic one, made out by me to force the error and help us understand it, and second one, a real ER error from the OOB BAI2 Bank statements, that I had to face lately in a project. … More D365FO ER (GER): Error while evaluating expression…]]></summary>
+        <author>
+            <name>Fernando Tudela Desantes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics Square: Trusted Microsoft Dynamics 365 Partner for your Retail Business]]></title>
+        <id>https://erpsoftwareblog.com/?p=103209</id>
+        <link href="https://erpsoftwareblog.com/2024/01/dynamics-square-microsoft-dynamics-365-for-retail/"/>
+        <updated>2024-01-15T13:32:37.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics Square, a trusted Microsoft Dynamics 365 Certified Solutions Partner, is excited to announce its role as a dependable ally for retailers aiming to boost their business using Microsoft Dynamics […]
+The post Dynamics Square: Trusted Microsoft Dynamics 365 Partner for your Retail Business appeared first on ERP Software Blog.
+In the Field with Microsoft Dynamics ERP RapidStart Services – First Impressions
+How To Take Those Necessary Steps Toward Paperless Document Management
+How to Seamlessly Transfer Data from Excel to Microsoft Dynamics GP]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigating Document Storage in Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=103152</id>
+        <link href="https://erpsoftwareblog.com/2024/01/navigating-document-storage-in-business-central/"/>
+        <updated>2024-01-15T13:02:14.000Z</updated>
+        <summary type="html"><![CDATA[In the Dynamics 365 Business Central community, Insight Works' DocXtender has become a notable addition since its release in 2017. DocXtender is a completely free app that provides a streamlined […]
+The post Navigating Document Storage in Business Central appeared first on ERP Software Blog.
+Graphical Scheduler v1.8: Elevating Production Scheduling
+Quality Control in Inventory and Manufacturing Using Dynamics 365 Business Central
+Insight Works Launches Quality Inspector App for Business Central Users]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harnessing Codeless AI: Gwenael Bego's Journey from Hong Kong to Paris and Revolutionizing Workflows with Microsoft AI Builder and Power Automate]]></title>
+        <id>https://365community.online/harnessing-codeless-ai-gwenael-begos-journey-from-hong-kong-to-paris-and-revolutionizing-workflows-with-microsoft-ai-builder-and-power-automate</id>
+        <link href="https://365community.online/harnessing-codeless-ai-gwenael-begos-journey-from-hong-kong-to-paris-and-revolutionizing-workflows-with-microsoft-ai-builder-and-power-automate"/>
+        <updated>2024-01-15T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FULL SHOW NOTES https://podcast.nz365guy.com/517  Discover the transformative power of AI as Gwenael Bego, Microsoft's Group Product Manager, takes us on a journey through the innovative landscapes of AI Builder and […]]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monitoring your Azure OpenAI usage (part 2)]]></title>
+        <id>https://365community.online/monitoring-your-azure-openai-usage-part-2</id>
+        <link href="https://365community.online/monitoring-your-azure-openai-usage-part-2"/>
+        <updated>2024-01-15T11:21:24.000Z</updated>
+        <summary type="html"><![CDATA[In a previous post I wrote about how you can monitor your Azure OpenAI usage with Azure Monitor and Application Insights. Monitoring Azure OpenAI usage is an important practice to […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working with Power Automate Solutions: What Types of Solution Are There?]]></title>
+        <id>https://365community.online/working-with-power-automate-solutions-what-types-of-solution-are-there</id>
+        <link href="https://365community.online/working-with-power-automate-solutions-what-types-of-solution-are-there"/>
+        <updated>2024-01-15T11:00:19.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the Working with Power Automate Solutions series and of the larger Working with Power Automate series I am writing on my experiences working with the […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Offline Capabilities in the Canvas app within Dynamics 365 – Part 1]]></title>
+        <id>https://365community.online/offline-capabilities-in-the-canvas-app-within-dynamics-365-part-1</id>
+        <link href="https://365community.online/offline-capabilities-in-the-canvas-app-within-dynamics-365-part-1"/>
+        <updated>2024-01-15T10:35:07.000Z</updated>
+        <summary type="html"><![CDATA[Canvas Apps, a pillar of Power Platform, allows users to design apps with a focus on user experience and functionality. The “Mobile Offline” feature extends the capabilities of Canvas Apps […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hierarchy Settings in Dynamics 365 CE | Power Platform Admin Center]]></title>
+        <id>https://365community.online/hierarchy-settings-in-dynamics-365-ce-power-platform-admin-center</id>
+        <link href="https://365community.online/hierarchy-settings-in-dynamics-365-ce-power-platform-admin-center"/>
+        <updated>2024-01-15T10:16:18.000Z</updated>
+        <summary type="html"><![CDATA[You must have seen Security Roles, Field Level Security, Access Teams etc. as a way to access records in Dynamics 365 CE (or CRM). Here’s what Hierarchy Security is all […]]]></summary>
+        <author>
+            <name>Priyesh Wagh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Position Hierarchy Settings in Dynamics 365 CE]]></title>
+        <id>https://365community.online/position-hierarchy-settings-in-dynamics-365-ce</id>
+        <link href="https://365community.online/position-hierarchy-settings-in-dynamics-365-ce"/>
+        <updated>2024-01-15T10:15:18.000Z</updated>
+        <summary type="html"><![CDATA[In this post, you’ll learn how to configure Position Hierarchy for Dynamics 365 CE environment – Let’s first look at the scenario which we want to look at and then […]]]></summary>
+        <author>
+            <name>Priyesh Wagh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manager Hierarchy Settings in Dynamics 365 CE]]></title>
+        <id>https://365community.online/manager-hierarchy-settings-in-dynamics-365-ce</id>
+        <link href="https://365community.online/manager-hierarchy-settings-in-dynamics-365-ce"/>
+        <updated>2024-01-15T10:14:20.000Z</updated>
+        <summary type="html"><![CDATA[In this post, you’ll learn how to configure Manager Hierarchy for Dynamics 365 CE environment – Let’s first look at the scenario which we want to look at and then […]]]></summary>
+        <author>
+            <name>Priyesh Wagh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Episode 7 – Topic 3: Part 3 – YouTube]]></title>
+        <id>https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-7-topic-3-part-3-youtube</id>
+        <link href="https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-7-topic-3-part-3-youtube"/>
+        <updated>2024-01-15T10:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[¡He escrito un libro! Extending Dynamics 365 Finance and Operations Apps with Power Platform]]></title>
+        <id>https://ariste.info/?p=8264</id>
+        <link href="https://ariste.info/2024/01/he-escrito-un-libro-extending-dynamics-365-finance-and-operations-apps-with-power-platform/"/>
+        <updated>2024-01-15T08:28:45.000Z</updated>
+        <summary type="html"><![CDATA[Supongo que la mayoría de mis lectores ya estarán al tanto de esto, ya que he estado spameando un poco LinkedIn con la noticia: ¡He escrito un libro! El libro, escrito en inglés, se titula como el título de este post: «Extending Dynamics 365 Finance and Operations Apps with Power Platform». Cubre algunos escenarios prácticos… Continue Reading ¡He escrito un libro! Extending Dynamics 365 Finance and Operations Apps with Power Platform]]></summary>
+        <author>
+            <name>Adrià Ariste Santacreu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master Inventory Management with Dynamics 365 BC and Netstock]]></title>
+        <id>https://erpsoftwareblog.com/?p=103071</id>
+        <link href="https://erpsoftwareblog.com/2024/01/master-inventory-management-with-dynamics-365-bc-and-netstock/"/>
+        <updated>2024-01-15T07:59:54.000Z</updated>
+        <summary type="html"><![CDATA[Mastering Inventory management is essential to balancing supply and demand and freeing working capital for your business. In 2024, inventory management continues to evolve as new and better tools become […]
+The post Master Inventory Management with Dynamics 365 BC and Netstock appeared first on ERP Software Blog.
+Importance of ERP Software in Manufacturing Industries
+New levels of productivity with Advanced WMS
+Year-End Advice - Upgrade Dynamics GP to Business Central]]></summary>
+        <author>
+            <name>Netstock</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Using AI To Provide Help For Users]]></title>
         <id>https://365community.online/using-ai-to-provide-help-for-users</id>
@@ -11445,6 +11683,23 @@ Basic example of such a class is Tutorial_RunbaseBatch.
      …]]></summary>
         <author>
             <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Database Inserts - Code Table]]></title>
+        <id>1676 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/content/database-inserts-code-table"/>
+        <updated>2023-06-10T02:41:37.000Z</updated>
+        <summary type="html"><![CDATA[Does the process of inserting data with Code matter for performance?
+When inserting data in F&O, there are several best practices on how to do this from MSFT. But for this specific type of workload, do those best practices really matter? Can I code up a solution that is less than ideal and still have a workable solution? Let's find out. This will only look at Azure hosted VM performance for the time being.
+Firstly, as a refresher, we'll be reviewing the basic workloads outlined here: https://www.atomicax.com/article/database-inserts-and-performance. 
+The Results
+Single Insert
+The basic test used here is available at https://www.atomicax.com/article/database-inserts-and-performance#Single...
+
+So what are we looking at? when using a single insert pattern with test size of 1, 10, 250, and 100…]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
         </author>
     </entry>
     <entry>
