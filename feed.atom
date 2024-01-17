@@ -2,10 +2,255 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-01-16T00:40:40.136Z</updated>
+    <updated>2024-01-17T00:41:12.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Video: Options for Migrating Your Legacy ERP to the Cloud]]></title>
+        <id>https://erpsoftwareblog.com/?p=103264</id>
+        <link href="https://erpsoftwareblog.com/2024/01/video-options-for-migrating-your-legacy-erp-to-the-cloud/"/>
+        <updated>2024-01-16T17:37:05.000Z</updated>
+        <summary type="html"><![CDATA[Are you thinking of upgrading your Dynamics system but feel overwhelmed by potential costs and operational disruptions? You are not alone. In the evolving business tech world, the journey to […]
+The post Video: Options for Migrating Your Legacy ERP to the Cloud appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+Get More in the Cloud with Dynamics 365 Business Central
+Outgrowing Legacy Finance Software and the Bad Consequences for Your Business]]></summary>
+        <author>
+            <name>Western Computer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ERP Horror Story Interview January 30: Ransomware Attack Cripples Manufacturer’s On-Premise ERP System]]></title>
+        <id>https://erpsoftwareblog.com/?p=103186</id>
+        <link href="https://erpsoftwareblog.com/2024/01/erp-horror-story-interview-january-30-ransomware-attack-cripples-manufacturers-on-premise-erp-system/"/>
+        <updated>2024-01-16T17:36:42.000Z</updated>
+        <summary type="html"><![CDATA[First a failed migration. Then, a cyberattack. This mid-sized manufacturing/distribution company was unable to access its data, and operations stopped. No ability to invoice, ship, or pay vendors for weeks, […]
+The post ERP Horror Story Interview January 30: Ransomware Attack Cripples Manufacturer’s On-Premise ERP System appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+To Be, or Not to Be in the Cloud…That is the Question: Pros and Cons of Cloud Computing
+Insight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Business Central at BCUG/NAVUG Summit in Phoenix]]></summary>
+        <author>
+            <name>ERP Software Blog Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Reasons Businesses Choose Microsoft Dynamics 365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=103007</id>
+        <link href="https://erpsoftwareblog.com/2024/01/7-reasons-businesses-choose-microsoft-dynamics-365-business-central/"/>
+        <updated>2024-01-16T17:35:42.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Dynamics 365 Business Central is a cloud-based ERP solution that helps businesses manage their operations, finances, and resources in a unified and efficient way. Business Central is not just […]
+The post 7 Reasons Businesses Choose Microsoft Dynamics 365 Business Central appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+How Can Microsoft Dynamics enable better data access with powerful Financial Reporting?
+Microsoft Dynamics 365 Business Central: Essentials vs. Premium]]></summary>
+        <author>
+            <name>CAL Business Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prepare your organization for conversation intelligence data migration into Dataverse]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2024/01/16/prepare-your-organization-for-conversation-intelligence-data-migration-into-dataverse/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2024/01/16/prepare-your-organization-for-conversation-intelligence-data-migration-into-dataverse/"/>
+        <updated>2024-01-16T17:26:48.000Z</updated>
+        <summary type="html"><![CDATA[During the 1st quarter of 2024, sales conversation intelligence data will migrate from its current storage location (Microsoft provided storage) across to each customer’s Dataverse organization
+The post Prepare your organization for conversation intelligence data migration into Dataverse appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Asaf Tzuk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Importance of Data Mapping in Integration]]></title>
+        <id>https://erpsoftwareblog.com/?p=103205</id>
+        <link href="https://erpsoftwareblog.com/2024/01/importance-of-data-mapping-in-integration/"/>
+        <updated>2024-01-16T17:16:44.000Z</updated>
+        <summary type="html"><![CDATA[The importance of Data mapping in Integration is critical, ensuring that information from one system aligns with the structure and requirements of another. While integrating different applications, databases, or systems, […]
+The post Importance of Data Mapping in Integration appeared first on ERP Software Blog.
+Evolving Role of ERP in Remote Work Environments
+Making the Move to Mobile
+On-premise vs Cloud-based - 10 Considerations]]></summary>
+        <author>
+            <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enable Copilot for Dynamics 365 Sales environment]]></title>
+        <id>https://365community.online/enable-copilot-for-dynamics-365-sales-environment</id>
+        <link href="https://365community.online/enable-copilot-for-dynamics-365-sales-environment"/>
+        <updated>2024-01-16T17:11:19.000Z</updated>
+        <summary type="html"><![CDATA[Copilot for Dynamics 365 Sales is in Preview at the point of writing this post. Hence, I’ll start by showing how you can turn Copilot for Dynamics 365 Sales on […]]]></summary>
+        <author>
+            <name>Priyesh Wagh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Empowering Regulated Manufacturing with Advanced ERP Solutions: The HSO Edge]]></title>
+        <id>https://erpsoftwareblog.com/?p=103126</id>
+        <link href="https://erpsoftwareblog.com/2024/01/empowering-regulated-manufacturing-with-advanced-erp-solutions-the-hso-edge/"/>
+        <updated>2024-01-16T17:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Introduction In the challenging landscape of regulated industry manufacturing, the integration of robust Enterprise Resource Planning (ERP) systems is not just beneficial—it's essential. These industries face unique challenges where efficiency, […]
+The post Empowering Regulated Manufacturing with Advanced ERP Solutions: The HSO Edge appeared first on ERP Software Blog.
+How construction equipment rental businesses can add dealership to their portfolio
+Rent, Service, Repeat - Microsoft Dynamics 365 for Equipment Rental Management
+Customize Your Microsoft Dynamics AX…?? Learn from Travel Industry]]></summary>
+        <author>
+            <name>HSO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Benefits of Shopify to Microsoft Business Central Integration]]></title>
+        <id>https://erpsoftwareblog.com/?p=103251</id>
+        <link href="https://erpsoftwareblog.com/2024/01/3-benefits-of-shopify-to-microsoft-business-central-integration/"/>
+        <updated>2024-01-16T16:50:26.000Z</updated>
+        <summary type="html"><![CDATA[More and more companies today rely on ECommerce solutions to help grow their business.  One powerful solution that has gained prominence is the integration between Shopify, a leading e-commerce platform, […]
+The post 3 Benefits of Shopify to Microsoft Business Central Integration appeared first on ERP Software Blog.
+Exploring ERP: Fixed Assets in Microsoft Business Central
+Microsoft Dynamics ERP: Get a Price Quote Instantly
+Webinar | How to Navigate Supply Chain Disruptions & Stay Productive]]></summary>
+        <author>
+            <name>iCepts Technology Group, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Feature Release of the D365FO Admin Toolkit (v1.1)]]></title>
+        <id>https://365community.online/new-feature-release-of-the-d365fo-admin-toolkit-v1-1</id>
+        <link href="https://365community.online/new-feature-release-of-the-d365fo-admin-toolkit-v1-1"/>
+        <updated>2024-01-16T15:56:53.000Z</updated>
+        <summary type="html"><![CDATA[There has been some fantastic feedback already about the D365FO Admin Toolkit! I appreciate everyone that reached out with feature requests, bugs they found, and overall encouragement! Based on all […]]]></summary>
+        <author>
+            <name>Alex Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Feature Release of the D365FO Admin Toolkit (v1.1)]]></title>
+        <id>https://alexdmeyer.com/?p=3022</id>
+        <link href="https://alexdmeyer.com/2024/01/16/new-feature-release-of-the-d365fo-admin-toolkit-v1-1/"/>
+        <updated>2024-01-16T15:56:53.000Z</updated>
+        <summary type="html"><![CDATA[There has been some fantastic feedback already about the D365FO Admin Toolkit! I appreciate everyone that reached out with feature requests, bugs they found, and overall encouragement! Based on all of the feedback we already have a new release with some new features, bug fixes, and functionality changes. See below for details! Version 1.1 Release […]
+The post New Feature Release of the D365FO Admin Toolkit (v1.1) appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Artificial Intelligence in Dynamics 365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=103248</id>
+        <link href="https://erpsoftwareblog.com/2024/01/artificial-intelligence-in-dynamics-365-business-central/"/>
+        <updated>2024-01-16T14:59:49.000Z</updated>
+        <summary type="html"><![CDATA[AI-powered experiences Redefining Dynamics 365 Business Central The ever-growing evolution of AI is transforming the business management scenario. According to a recent survey, 73% of US companies have adopted Generative […]
+The post Artificial Intelligence in Dynamics 365 Business Central appeared first on ERP Software Blog.
+ERP Software Trends for 2011: Social Media Integration and Facebook-ization of ERP
+ERP Software Proves To Be a Smart Investment
+Advanced Picking With Microsoft Dynamics GP]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Custom Actions missing in the “Perform Action” step of the workflow (Dataverse / Dynamics 365)]]></title>
+        <id>https://365community.online/custom-actions-missing-in-the-perform-action-step-of-the-workflow-dataverse-dynamics-365</id>
+        <link href="https://365community.online/custom-actions-missing-in-the-perform-action-step-of-the-workflow-dataverse-dynamics-365"/>
+        <updated>2024-01-16T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We might see some of the custom actions not appearing in the Actions list inside the Perform Action step of the workflow. This is because the Custom Action would be […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canadian Payroll Incomplete Paycodes message]]></title>
+        <id>https://365community.online/canadian-payroll-incomplete-paycodes-message</id>
+        <link href="https://365community.online/canadian-payroll-incomplete-paycodes-message"/>
+        <updated>2024-01-16T13:45:56.000Z</updated>
+        <summary type="html"><![CDATA[A client ran into this last week and I thought it would be a good topic for a #TipTuesday blog post. The scenario is specific to users with both the […]]]></summary>
+        <author>
+            <name>Jen Kuntz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[European Webinar: Mobile Barcoding for Warehousing in Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=103218</id>
+        <link href="https://erpsoftwareblog.com/2024/01/european-webinar-mobile-barcoding-for-warehousing-in-business-central/"/>
+        <updated>2024-01-16T13:01:35.000Z</updated>
+        <summary type="html"><![CDATA[Explore the Warehouse Insight app for Business Central, offering seamless integration with Business Central for mobile warehouse management. Learn about Warehouse Insight's quick deployment, customisation capabilities, and more in our upcoming webinar.
+The post European Webinar: Mobile Barcoding for Warehousing in Business Central appeared first on ERP Software Blog.
+Quality Control in Inventory and Manufacturing Using Dynamics 365 Business Central
+Signature Capture in Business Central: A Comprehensive Guide with Warehouse Insight
+Enhanced Planning Pack for Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolutionizing Demand Planning: Unleashing Cutting-Edge Features in Dynamics 365 Supply Chain Management’s January Update]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2024/01/16/revolutionizing-demand-planning-unleashing-cutting-edge-features-in-dynamics-365-supply-chain-managements-january-update/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2024/01/16/revolutionizing-demand-planning-unleashing-cutting-edge-features-in-dynamics-365-supply-chain-managements-january-update/"/>
+        <updated>2024-01-16T12:31:45.000Z</updated>
+        <summary type="html"><![CDATA[In conclusion, the recent January release of Dynamics 365 Supply Chain Management Demand Planning has brought forth a wave of transformative features, including "Edit on Total Level," "Filter in Transformation," and "Comments," redefining the landscape for planners with tools that enhance efficiency and collaboration. The incorporation of the System Administrator role, Role Level Access for Contributors, Row Level Access Rules, and advanced security features positions the platform as a robust and secure solution for demand planning needs. With increased flexibility in editing demand plans and promising additions in the upcoming February release, Dynamics 365 is shaping a future of more streamlined and user-friendly demand planning experiences. This release marks a substantial leap forward, promising organizations worldwide a future characterized by smarter and more precise demand planning. As we embrace this evolution in demand planning, Dynamics 365 Supply Chain Management stands as a pioneer, leading the way with innovative features. Stay tuned for ongoing updates and enhancements that will continuously elevate your planning processes to unprecedented heights!
+The post Revolutionizing Demand Planning: Unleashing Cutting-Edge Features in Dynamics 365 Supply Chain Management’s January Update appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Denis Conway</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High CRM Adoption Rates – Importance, challenges, and strategies]]></title>
+        <id>https://365community.online/high-crm-adoption-rates-importance-challenges-and-strategies</id>
+        <link href="https://365community.online/high-crm-adoption-rates-importance-challenges-and-strategies"/>
+        <updated>2024-01-16T11:47:09.000Z</updated>
+        <summary type="html"><![CDATA[In a world driven by customer relationships, the stakes are high, and relying on scattered information in spreadsheets, bundles of files, and desktop folders just won’t cut it. You understood […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working with Power Automate Solutions: What is a Solution Publisher?]]></title>
+        <id>https://365community.online/working-with-power-automate-solutions-what-is-a-solution-publisher</id>
+        <link href="https://365community.online/working-with-power-automate-solutions-what-is-a-solution-publisher"/>
+        <updated>2024-01-16T11:00:48.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the Working with Power Automate Solutions series and of the larger Working with Power Automate series I am writing on my experiences working with the […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Organize smart Marketing Campaigns in 2024 with Maplytics]]></title>
+        <id>https://365community.online/organize-smart-marketing-campaigns-in-2024-with-maplytics</id>
+        <link href="https://365community.online/organize-smart-marketing-campaigns-in-2024-with-maplytics"/>
+        <updated>2024-01-16T10:29:19.000Z</updated>
+        <summary type="html"><![CDATA[The post Organize smart Marketing Campaigns in 2024 with Maplytics appeared first on Blog | Maplytics. Source link]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot in the enhanced mobile experience for D365 Field Service – YouTube]]></title>
+        <id>https://365community.online/copilot-in-the-enhanced-mobile-experience-for-d365-field-service-youtube</id>
+        <link href="https://365community.online/copilot-in-the-enhanced-mobile-experience-for-d365-field-service-youtube"/>
+        <updated>2024-01-16T09:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Copilot in the enhanced mobile experience for D365 Field Service In my last video I showed you the new mobile experience for Dynamics 365 Field Service. Part of the new […]]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🤖New Video:  Business Central Digital Voucher , Configuracion y uso.]]></title>
+        <id>https://365community.online/%f0%9f%a4%96new-video-business-central-digital-voucher-configuracion-y-uso</id>
+        <link href="https://365community.online/%f0%9f%a4%96new-video-business-central-digital-voucher-configuracion-y-uso"/>
+        <updated>2024-01-16T08:15:45.000Z</updated>
+        <summary type="html"><![CDATA[Nuevo Video en mi canal de YouTube. ¿Sabes configurar fácil los comprobantes digitales? En el siguiente video te cuento en cinco minutos como hacerlo. Te leo en los comentarios. Mantente […]]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📣Comprobantes digitales en Business Central : ⚙️Configuración FÁCIL y Como usarlos🗂️ – YouTube]]></title>
+        <id>https://365community.online/%f0%9f%93%a3comprobantes-digitales-en-business-central-%e2%9a%99%ef%b8%8fconfiguracion-facil-y-como-usarlos%f0%9f%97%82%ef%b8%8f-youtube</id>
+        <link href="https://365community.online/%f0%9f%93%a3comprobantes-digitales-en-business-central-%e2%9a%99%ef%b8%8fconfiguracion-facil-y-como-usarlos%f0%9f%97%82%ef%b8%8f-youtube"/>
+        <updated>2024-01-16T08:00:31.000Z</updated>
+        <summary type="html"><![CDATA[📣Comprobantes digitales en Business Central : ⚙️Configuración FÁCIL y Como usarlos🗂️ 🔹 ¡Bienvenidos a una guía rápida y sencilla para configurar comprobantes digitales en Microsoft Dynamics 365 Business Central! En […]]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Power platform integration for D365F&O VM]]></title>
         <id>https://365community.online/power-platform-integration-for-d365fo-vm</id>
