@@ -1341,6 +1341,26 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=103268",
+          "author": "StockIQ Technologies",
+          "description": "If you are still using spreadsheets to manage your ordering process, you are not alone. Many businesses rely on spreadsheets to manage their inventory, pricing, and order fulfillment. However, spreadsheets […]\nThe post How to Automate Your Ordering Process with StockIQ's Supply Chain Planning Solution appeared first on ERP Software Blog.\n8 Favorite StockIQ Supply Chain Planning Improvements & Features for 2021\n7 Common Problems to Avoid in Demand Forecasting\n6 Strategies to Cut Costs Across Your Supply Chain",
+          "link": "https://erpsoftwareblog.com/2024/01/how-to-automate-your-ordering-process-with-stockiqs-supply-chain-planning-solution/",
+          "publishedOn": "2024-01-17T14:17:47.000Z",
+          "wordCount": 7678,
+          "title": "How to Automate Your Ordering Process with StockIQ's Supply Chain Planning Solution",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=103158",
+          "author": "Insight Works",
+          "description": "Document Storage in Dynamics 365 Business Central gets a significant boost with Insight Works' DocXtender. Since 2017, this free app has offered a comprehensive solution, simplifying document management with features like drag-and-drop, SharePoint integration, and support for various document types.\nThe post Enhanced Document Storage in Dynamics 365 Business Central appeared first on ERP Software Blog.\nNavigating Document Storage in Business Central\nGraphical Scheduler v1.8: Elevating Production Scheduling\nFree Business Central Apps to Fill the Gaps",
+          "link": "https://erpsoftwareblog.com/2024/01/enhanced-document-storage-in-dynamics-365-business-central/",
+          "publishedOn": "2024-01-17T13:05:18.000Z",
+          "wordCount": 7548,
+          "title": "Enhanced Document Storage in Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/DocXtender-250.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=103264",
           "author": "Western Computer",
           "description": "Are you thinking of upgrading your Dynamics system but feel overwhelmed by potential costs and operational disruptions? You are not alone. In the evolving business tech world, the journey to […]\nThe post Video: Options for Migrating Your Legacy ERP to the Cloud appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve\nGet More in the Cloud with Dynamics 365 Business Central\nOutgrowing Legacy Finance Software and the Bad Consequences for Your Business",
@@ -3759,6 +3779,101 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/welsh-azure-user-group-january-2024-meet-up",
+          "author": "John Lunn",
+          "description": "It was the day of our Welsh Azure User Group #WAUG January 2024 meet up and we had yet another two amazing speakers join us. We were joined by Nikos […]",
+          "link": "https://365community.online/welsh-azure-user-group-january-2024-meet-up",
+          "publishedOn": "2024-01-17T21:18:05.000Z",
+          "wordCount": 3032,
+          "title": "Welsh Azure User Group January 2024 Meet Up!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Welsh-Azure-User-Group-January-2024-Meet-Up.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/date-and-time-columns-in-dataverse",
+          "author": "Nick Doelman",
+          "description": "Creating date and time columns (aka fields) in Microsoft Dataverse is a really straightforward process, however, you really should take a pause to make sure you are configuring the right […]",
+          "link": "https://365community.online/date-and-time-columns-in-dataverse",
+          "publishedOn": "2024-01-17T18:00:08.000Z",
+          "wordCount": 3031,
+          "title": "Date and time columns in Dataverse",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Date-and-time-columns-in-Dataverse.jpg?fit=809%2C1200&ssl=1"
+        },
+        {
+          "id": "https://365community.online/fix-cannot-write-more-bytes-to-the-buffer-than-the-configured-maximum-buffer-size-104857600-power-automate-dataverse",
+          "author": "Nishant Rana",
+          "description": "We might below error in our flow – BadRequest. Http request failed as there is an error: ‘Cannot write more bytes to the buffer than the configured maximum buffer size: 104857600.’. […]",
+          "link": "https://365community.online/fix-cannot-write-more-bytes-to-the-buffer-than-the-configured-maximum-buffer-size-104857600-power-automate-dataverse",
+          "publishedOn": "2024-01-17T14:00:00.000Z",
+          "wordCount": 3132,
+          "title": "Fix – Cannot write more bytes to the buffer than the configured maximum buffer size: 104857600 (Power Automate / Dataverse)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Fix-–-Cannot-write-more-bytes-to-the-buffer-than.jpeg?fit=1200%2C799&ssl=1"
+        },
+        {
+          "id": "https://365community.online/journey-of-a-microsoft-mvp-nanddeep-nachans-evolution-from-java-developer-to-office-365-expert-and-community-luminary",
+          "author": "NZ365Guy",
+          "description": "FULL SHOW NOTES https://podcast.nz365guy.com/518  Embark on a captivating journey with Nanddeep Nachan, an esteemed Office 365 consultant from Pune and a Microsoft MVP since 2019. His tale is one of […]",
+          "link": "https://365community.online/journey-of-a-microsoft-mvp-nanddeep-nachans-evolution-from-java-developer-to-office-365-expert-and-community-luminary",
+          "publishedOn": "2024-01-17T13:00:00.000Z",
+          "wordCount": 3119,
+          "title": "Journey of a Microsoft MVP: Nanddeep Nachan's Evolution from Java Developer to Office 365 Expert and Community Luminary",
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/1796418/14238369-journey-of-a-microsoft-mvp-nanddeep-nachan-s-evolution-from-java-developer-to-office-365-expert-and-community-luminary.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/novidades-do-microsoft-copilot-pro-gpt-4-licencas-e-muito-mais-youtube",
+          "author": "Renato Romao de Souza",
+          "description": "Olá pessoal, tudo bem? 📱 Objetivo do vídeo Entender o lançamento do Microsoft Copilot Pro, uma novidade da Microsoft com o intuito de melhorar o seu dia-a-dia com a Inteligência […]",
+          "link": "https://365community.online/novidades-do-microsoft-copilot-pro-gpt-4-licencas-e-muito-mais-youtube",
+          "publishedOn": "2024-01-17T12:01:18.000Z",
+          "wordCount": 3077,
+          "title": "NOVIDADES DO MICROSOFT COPILOT PRO | GPT-4, Licenças e muito mais – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1705525561_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/working-with-power-automate-solutions-create-a-solution-publisher",
+          "author": "Ian Grieve",
+          "description": "This article is part of the Working with Power Automate Solutions series and of the larger Working with Power Automate series I am writing on my experiences working with the […]",
+          "link": "https://365community.online/working-with-power-automate-solutions-create-a-solution-publisher",
+          "publishedOn": "2024-01-17T11:00:12.000Z",
+          "wordCount": 3043,
+          "title": "Working with Power Automate Solutions: Create a Solution Publisher",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/understanding-your-unassigned-data-in-ga4-with-custom-channels",
+          "author": "Megan V. Walker",
+          "description": "If you are using Google Analytics (GA4), and are reviewing any of the acquisition reports, you’ll likely have seen some of that traffic showing up as unassigned. If Google doesn’t […]",
+          "link": "https://365community.online/understanding-your-unassigned-data-in-ga4-with-custom-channels",
+          "publishedOn": "2024-01-17T08:30:00.000Z",
+          "wordCount": 3022,
+          "title": "Understanding Your Unassigned Data In GA4 With Custom Channels",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Understanding-Your-Unassigned-Data-In-GA4-With-Custom-Channels.jpg?fit=1200%2C900&ssl=1"
+        },
+        {
+          "id": "https://365community.online/mobilise-your-team-with-power-apps-mobile",
+          "author": "Chris Roberts",
+          "description": "Did you know that if you are you currently using Microsoft Dynamics 365 or #MicrosoftPowerApps you have access to a FREE app that can help you mobilise your teams? Here’s […]",
+          "link": "https://365community.online/mobilise-your-team-with-power-apps-mobile",
+          "publishedOn": "2024-01-17T08:00:00.000Z",
+          "wordCount": 3060,
+          "title": "Mobilise your Team with Power Apps Mobile",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Mobilise-your-Team-with-Power-Apps-Mobile.jpg?fit=1200%2C1200&ssl=1"
+        },
+        {
+          "id": "https://365community.online/visual-formatting-using-on-object-preview-feature-in-power-bi",
+          "author": "Inogic",
+          "description": "Microsoft Power BI is an interactive tool to visualize the data. Using Power BI, users can interact with the data in order to develop business reports and make business-level decisions. […]",
+          "link": "https://365community.online/visual-formatting-using-on-object-preview-feature-in-power-bi",
+          "publishedOn": "2024-01-17T04:56:50.000Z",
+          "wordCount": 3313,
+          "title": "Visual Formatting Using On-Object (Preview) Feature in Power BI",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1Visual-Formatting-using-On-object-Feature-in-Power-BI.jpeg?fit=1110%2C656&ssl=1"
+        },
         {
           "id": "https://365community.online/enable-copilot-for-dynamics-365-sales-environment",
           "author": "Priyesh Wagh",
@@ -6807,6 +6922,21 @@
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
+        {
+          "id": "http://dynamicsax-fico.com/?p=5456",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2024/01/17/microsoft-bizapps-deutschland-podcast-22/",
+          "publishedOn": "2024-01-17T19:43:00.000Z",
+          "wordCount": 3255,
+          "title": "Microsoft BizApps Deutschland Podcast #22",
+          "enclosure": {
+            "url": "https://dynamicsaxfico.files.wordpress.com/2023/10/2023-10-27_christophschenek-v2.mp3",
+            "length": "28208447",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/10/collagev2.jpg"
+        },
         {
           "id": "http://dynamicsax-fico.com/?p=5673",
           "author": "Ludwig Reinhard",
@@ -10053,16 +10183,6 @@
           "wordCount": 6268,
           "title": "[Tutorial] Look up data in the Warehouse management app using detours",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEh-6qbEU5xEX-LAzN51HkS-EGqGC1uN4wkYbG4i2ewbY0udQyL5xIGiawlW0_Eid2xNyT3Ad1hNOeUOUrReNKa_lW9tcpvQ91zHJrnIXEvVXcgGWPtvd5LdiUdqRxaiX4nd1U94qjL9fB3x8GhnGyqMKtwdkEbZOo--GIYPZ1Hru0_54Q79eQ=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "http://kashperuk.blogspot.com/2022/01/tutorial-warehouse-management-app.html",
-          "author": null,
-          "description": "Feature overviewWarehouse management app detours is a feature we have shipped recently, available as part of 10.0.23, which enables a warehouse worker to park a task they are currently executing, perform another mobile device operation, and then come back to exactly where they left off, once the detour is complete. This is feedback we have heard way too often from workers in the warehouse, saying",
-          "link": "http://kashperuk.blogspot.com/2022/01/tutorial-warehouse-management-app.html",
-          "publishedOn": "2022-01-17T14:20:00.002Z",
-          "wordCount": 4300,
-          "title": "[Tutorial] Warehouse management app detours",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjw7hgiuqG6P6tGDdam-nw3__eAPXX-DC4lPRDyR2HGL1B31fJV1lUj3g--OToqezIzqIBXQiLVIH19Gr1vHdoYd8kEi5_l75R8yvz5mBpKdd4YA7JDEbtLzlXrO1aPn5CS-r5yEpgXBCNHWELnuFqgz-lmhBjQzh9lFABb8IV1iRHb8AviUg=w1200-h630-p-k-no-nu"
         }
       ]
     },
@@ -11301,6 +11421,16 @@
       "feedUrl": "https://powerautomate.microsoft.com/en-nz/blog/feed/",
       "siteUrl": "https://powerautomate.microsoft.com/en-nz/blog/",
       "articles": [
+        {
+          "id": "process-mining-is-generally-available-in-gcc-sovereign-region",
+          "author": null,
+          "description": "This is a post about the general availability of Process Mining in GCC.",
+          "link": "https://powerautomate.microsoft.com/en-nz/blog/process-mining-is-generally-available-in-gcc-sovereign-region/",
+          "publishedOn": "2024-01-17T08:32:18.000Z",
+          "wordCount": 2696,
+          "title": "Process Mining is Generally Available in GCC (Sovereign Region)",
+          "imageUrl": null
+        },
         {
           "id": "ai-builder-gpt-prompts-are-generally-available",
           "author": null,
