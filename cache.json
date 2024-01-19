@@ -1341,6 +1341,41 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=103288",
+          "author": "MetaOption LLC",
+          "description": "In the fast-paced world of logistics and supply chain management, precision is key. The ability to track, manage, and optimize the movement of goods can make or break a business. […]\nThe post Unlock Precision with Scan Pack: Revolutionizing Logistics with MetaShip appeared first on ERP Software Blog.\nCost Accounting in Dynamics 365 Business Central | Profit Analysis\nBenefits of an Integrated Advanced WMS and ERP System\nHow Advanced Warehouse technology can transform your Warehouses?",
+          "link": "https://erpsoftwareblog.com/2024/01/unlock-precision-with-scan-pack-revolutionizing-logistics-with-metaship/",
+          "publishedOn": "2024-01-18T15:43:54.000Z",
+          "wordCount": 7543,
+          "title": "Unlock Precision with Scan Pack: Revolutionizing Logistics with MetaShip",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-2-36.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=103185",
+          "author": "Innovia Consulting",
+          "description": "Innovia Consulting is happy to announce a strategic partnership with U.S. Transactions Corporation's education division, UST Education. This remarkable association enables Innovia to continue creating first-class Microsoft Dynamics 365 Business […]\nThe post Innovia & UST Education Collaborate to Offer Dynamics 365 BC Webinars with CPE Credit appeared first on ERP Software Blog.\nBam Boom Cloud Receives the 2021 Ingram Micro Cloud Partner Award\nWebinar : Drive Superior Customer Engagement with Microsoft D365 for Customer Service\nERP Comparison: NetSuite vs. Dynamics 365 Business Central",
+          "link": "https://erpsoftwareblog.com/2024/01/innovia-ust-education-collaborate-to-offer-dynamics-365-bc-webinars-with-cpe-credit/",
+          "publishedOn": "2024-01-18T14:03:24.000Z",
+          "wordCount": 7795,
+          "title": "Innovia & UST Education Collaborate to Offer Dynamics 365 BC Webinars with CPE Credit",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2024-01-Innovia-UST-Education-Collaborate-to-Offer-Dynamics-365-BC-Webinars-with-CPE-Credit_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=103281",
+          "author": "Insight Works",
+          "description": "Learn how Order Fulfillment Worksheet v1.3 optimizes warehouse operations with its new, efficient management features.\nThe post Order Fulfillment Worksheet v1.3: Enhancing Efficiency in Warehouse Operations appeared first on ERP Software Blog.\nOrder Fulfillment Worksheet v1.2: Enhance Order Fulfillment in Business Central with App Update\nInsight Works Unveils Enhanced Order Fulfillment for Dynamics 365\nWarehouse Insight v2.11: Streamlining Operations in Business Central",
+          "link": "https://erpsoftwareblog.com/2024/01/order-fulfillment-worksheet-v1-3-enhancing-efficiency-in-warehouse-operations/",
+          "publishedOn": "2024-01-18T13:06:30.000Z",
+          "wordCount": 7489,
+          "title": "Order Fulfillment Worksheet v1.3: Enhancing Efficiency in Warehouse Operations",
+          "enclosure": {
+            "url": "https://erpsoftwareblog.com/wp-content/uploads/Order-Fulfillment-Worksheet-Quick-Overview.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Order-Fulfillment-Worksheet-250.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=103268",
           "author": "StockIQ Technologies",
           "description": "If you are still using spreadsheets to manage your ordering process, you are not alone. Many businesses rely on spreadsheets to manage their inventory, pricing, and order fulfillment. However, spreadsheets […]\nThe post How to Automate Your Ordering Process with StockIQ's Supply Chain Planning Solution appeared first on ERP Software Blog.\n8 Favorite StockIQ Supply Chain Planning Improvements & Features for 2021\n7 Common Problems to Avoid in Demand Forecasting\n6 Strategies to Cut Costs Across Your Supply Chain",
@@ -3779,6 +3814,66 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/concurrency-control-apply-to-each-for-improving-performance-power-automate-dataverse",
+          "author": "Nishant Rana",
+          "description": "Let us fetch 5000 contact records using List Rows, and then update it using Apply To Each. It took around – 37 minutes Now let us enable concurrency control for […]",
+          "link": "https://365community.online/concurrency-control-apply-to-each-for-improving-performance-power-automate-dataverse",
+          "publishedOn": "2024-01-18T14:00:00.000Z",
+          "wordCount": 3093,
+          "title": "Concurrency Control – Apply to each for improving performance (Power Automate / Dataverse)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Concurrency-Control-–-Apply-to-each-for-improving-performance-Power.jpeg?fit=1200%2C592&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-copilot-recommends-maplytics-to-enhance-field-efficiency-in-dynamics-365-crm",
+          "author": "Inogic",
+          "description": "The post Microsoft Copilot recommends Maplytics to enhance field efficiency in Dynamics 365 CRM! appeared first on Blog | Maplytics. Source link",
+          "link": "https://365community.online/microsoft-copilot-recommends-maplytics-to-enhance-field-efficiency-in-dynamics-365-crm",
+          "publishedOn": "2024-01-18T12:38:30.000Z",
+          "wordCount": 3187,
+          "title": "Microsoft Copilot recommends Maplytics to enhance field efficiency in Dynamics 365 CRM!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Microsoft-Copilot-recommends-Maplytics-to-enhance-field-efficiency-in-Dynamics-365-CRM.png?fit=700%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/merge-duplicates-choose-the-right-master-record-and-much-more-with-dedupeds-new-release",
+          "author": "Inogic",
+          "description": "Detecting and cleaning up duplicate records in Dynamics 365 CRM is both time consuming and costly. The fact that the average duplicate rate in any database is 20%-30% makes it […]",
+          "link": "https://365community.online/merge-duplicates-choose-the-right-master-record-and-much-more-with-dedupeds-new-release",
+          "publishedOn": "2024-01-18T11:50:16.000Z",
+          "wordCount": 3340,
+          "title": "Merge Duplicates, Choose the Right Master Record, and Much More with DeDupeD’s New Release",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/DeDupeD.png?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/working-with-power-automate-solutions-create-a-solution",
+          "author": "Ian Grieve",
+          "description": "This article is part of the Working with Power Automate Solutions series and of the larger Working with Power Automate series I am writing on my experiences working with the […]",
+          "link": "https://365community.online/working-with-power-automate-solutions-create-a-solution",
+          "publishedOn": "2024-01-18T11:00:26.000Z",
+          "wordCount": 3039,
+          "title": "Working with Power Automate Solutions: Create a Solution",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/implementing-no-code-dynamics-365-service-bus-listener-using-logic-apps",
+          "author": "Nishant Rana",
+          "description": "Implementing No Code Dynamics 365 Service Bus Listener using Logic Apps Continue Reading Nishant Rana’s Article on their blog Implementing No Code Dynamics 365 Service Bus Listener using Logic Apps […]",
+          "link": "https://365community.online/implementing-no-code-dynamics-365-service-bus-listener-using-logic-apps",
+          "publishedOn": "2024-01-18T06:20:22.000Z",
+          "wordCount": 2981,
+          "title": "Implementing No Code Dynamics 365 Service Bus Listener using Logic Apps",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/01/Business-Process-Flow-Key-Notes.jpg?fit=200%2C200&ssl=1"
+        },
+        {
+          "id": "https://365community.online/welsh-azure-user-group-january-2024-event-youtube",
+          "author": "John Lunn",
+          "description": "Welsh Azure User Group – January 2024 Event It was the day of our Welsh Azure User Group #WAUG January 2024 meet up and we had yet another two amazing […]",
+          "link": "https://365community.online/welsh-azure-user-group-january-2024-event-youtube",
+          "publishedOn": "2024-01-17T21:19:49.000Z",
+          "wordCount": 3175,
+          "title": "Welsh Azure User Group – January 2024 Event – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1705613720_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
         {
           "id": "https://365community.online/welsh-azure-user-group-january-2024-meet-up",
           "author": "John Lunn",
