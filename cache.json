@@ -767,6 +767,16 @@
       "siteUrl": "https://d365fotechexpert.blogspot.com/",
       "articles": [
         {
+          "id": "https://d365fotechexpert.blogspot.com/2024/01/set-up-online-vm-for-dynamics-365-fo.html",
+          "author": null,
+          "description": "In this blog, I will discuss how we set up an online VM for D365F&O for Technical and Functional learning purposes for free.\n\nStep: 1 Click this link to set up a free Azure VM. \n\n\n\n\n\n\n\n\n\n\n\nStep: 2 Sign-in with your email (outlook, live, or Hotmail). \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStep: 3 Provide your details. \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStep: 4 Select roles. (I have selected roles as per technical requirement)\n\n\n\nStep: 5 Select your level.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStep: 6 Select products you have interested in.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStep: 7 Complete the setup.\n\n\n\n\n\n\n\n\n\n\n\nWhen you completed the setup, launch VM mode as shown in the image.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhen VM started Type Password as shown in the image.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAfter you type the password basic admin provisioning command will run as shown in the below image.\n\n\n\n\n\n\n\n\n\n\n\n\nAs you select the password, now select sign-in email and password as shown in the images.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThat is all. You can now use this VM for technical and functional learning as you like.\n\n\n\n\n\n\n\n\n\nNote: VM has a time limit for 2 hours. Also, there is no need to create another account after the VM is expired simply re-login with your existing account and you are good to go.",
+          "link": "https://d365fotechexpert.blogspot.com/2024/01/set-up-online-vm-for-dynamics-365-fo.html",
+          "publishedOn": "2024-01-20T04:05:00.000Z",
+          "wordCount": 5739,
+          "title": "Set up Online VM for Dynamics 365 FO for Learning Purpose",
+          "imageUrl": "https://lh3.googleusercontent.com/-20IeVpXv0rk/X3syDu8bg5I/AAAAAAAABVw/HtwT46hvWaYb1HSIJaZQC1eN82cywcoQgCLcBGAsYHQ/w1200-h630-p-k-no-nu/image.png"
+        },
+        {
           "id": "https://d365fotechexpert.blogspot.com/2024/01/update-purchparmline-quantity-field.html",
           "author": null,
           "description": "Purpose: The purpose of this document is to demonstrate how we can we Update purchparmline quantity field through code\nProduct:\nDynamics 365 for Finance and Operations.\nDevelopment approach:\nCustomization through CODE, we need to  update receive now with remain after field from purch edit line form . user wants to update set of lines at a time insted of changing all lines individually.\nDevelopment:\nCreate a button , when user click on button with selected all line will update recive now quantity with remainafter values.\n\n\n\n\n[Extensionof(FormDataSourcestr(PurchEditLines, PurchParmTable))] \ninternal final class PurchEditLinesForm_Extension\n{\n  \n    [FormControlEventHandler(formControlStr(PurchEditLines, DefaultRemainderQuantity), FormControlEventType::Clicked)]\n    public static void DefaultRemainderQuantity_OnClicked(FormControl sender, FormControlEventArgs e)\n    {\n        FormRun fr = sender.formRun();\n        FormDataSource purchparmline_ds = fr.dataSource(formDataSourceStr(PurchEditLines, PurchParmLine)) as FormDataSource;\n\n\n        MultiSelectionHelper          selectionHelper = MultiSelectionHelper::construct();\n        Set                           selectedRecords = new Set(Types::Record);//Declare a set of type record\n        PurchParmLine                  tableLines;\n\n\n        selectionHelper.parmDataSource(PurchParmLine_DS); \n        tableLines  = selectionHelper.getFirst(); \n\n\n        if (tableLines.RecId)\n        {\n            while (tableLines)\n            {\n                selectedRecords.add(tableLines);\n                ttsbegin;\n                tableLines.ReceiveNow = tableLines.RemainAfter;\n                tableLines.RemainAfter = tableLines.RemainBefore - tableLines.ReceiveNow;\n                tableLines.doUpdate();\n                ttscommit;\n                tableLines = selectionHelper.getNext();\n            }\n            PurchParmLine_DS.research();\n            PurchParmLine_DS.refresh();\n        }\n\n\n    }\n\n\n\n}\nForm:Purch edit lines",
@@ -3915,6 +3925,16 @@
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1705700345_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         },
         {
+          "id": "https://365community.online/weekly-update-127-19th-january-2024-youtube",
+          "author": "Sarah Lean ???????",
+          "description": "Weekly Update #127 – 19th January 2024 Join me as I look at the latest tech new and Azure updates from the past week. Join me as I look at […]",
+          "link": "https://365community.online/weekly-update-127-19th-january-2024-youtube",
+          "publishedOn": "2024-01-19T09:37:24.000Z",
+          "wordCount": 2959,
+          "title": "Weekly Update #127 – 19th January 2024 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1705731446_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
           "id": "https://365community.online/mb-260-microsoft-dynamics-365-customer-insights-data-specialist",
           "author": "Malin Martnes",
           "description": "Speciality badge for the MB-260 certification As I’m waiting for the MB-220 Customer Insights Journey certification to change, I wanted to do a series on the MB-260 Customer Insights Data […]",
@@ -3923,6 +3943,16 @@
           "wordCount": 3000,
           "title": "MB-260: Microsoft Dynamics 365 Customer Insights (Data) Specialist",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1705653830_MB-260-Microsoft-Dynamics-365-Customer-Insights-Data-Specialist.webp.jpeg?fit=830%2C860&ssl=1"
+        },
+        {
+          "id": "https://365community.online/programmer-nowadays-%f0%9f%98%82-youtube",
+          "author": "Sourav Raj",
+          "description": "Programmer nowadays 😂 source",
+          "link": "https://365community.online/programmer-nowadays-%f0%9f%98%82-youtube",
+          "publishedOn": "2024-01-18T17:12:25.000Z",
+          "wordCount": 2898,
+          "title": "Programmer nowadays 😂 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1705729316_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         },
         {
           "id": "https://365community.online/a-microsoft-esta-investindo-na-inteligencia-artificial-e-voce-pode-se-beneficiar-copilot-ia-youtube",

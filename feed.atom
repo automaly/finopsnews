@@ -2,10 +2,220 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-01-20T00:40:16.429Z</updated>
+    <updated>2024-01-21T00:44:42.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Set up Online VM for Dynamics 365 FO for Learning Purpose]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2024/01/set-up-online-vm-for-dynamics-365-fo.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2024/01/set-up-online-vm-for-dynamics-365-fo.html"/>
+        <updated>2024-01-20T04:05:00.000Z</updated>
+        <summary type="html"><![CDATA[In this blog, I will discuss how we set up an online VM for D365F&O for Technical and Functional learning purposes for free.
+
+Step: 1 Click this link to set up a free Azure VM. 
+
+
+
+
+
+
+
+
+
+
+
+Step: 2 Sign-in with your email (outlook, live, or Hotmail). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Step: 3 Provide your details. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Step: 4 Select roles. (I have selected roles as per technical requirement)
+
+
+
+Step: 5 Select your level.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Step: 6 Select products you have interested in.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Step: 7 Complete the setup.
+
+
+
+
+
+
+
+
+
+
+
+When you completed the setup, launch VM mode as shown in the image.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+When VM started Type Password as shown in the image.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+After you type the password basic admin provisioning command will run as shown in the below image.
+
+
+
+
+
+
+
+
+
+
+
+
+As you select the password, now select sign-in email and password as shown in the images.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+That is all. You can now use this VM for technical and functional learning as you like.
+
+
+
+
+
+
+
+
+
+Note: VM has a time limit for 2 hours. Also, there is no need to create another account after the VM is expired simply re-login with your existing account and you are good to go.]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[So what’s in a name?… Apparently a lot if you’re Microsoft.]]></title>
         <id>https://erpsoftwareblog.com/?p=103327</id>
@@ -127,6 +337,16 @@ Year-End Advice - Upgrade Dynamics GP to Business Central]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Weekly Update #127 – 19th January 2024 – YouTube]]></title>
+        <id>https://365community.online/weekly-update-127-19th-january-2024-youtube</id>
+        <link href="https://365community.online/weekly-update-127-19th-january-2024-youtube"/>
+        <updated>2024-01-19T09:37:24.000Z</updated>
+        <summary type="html"><![CDATA[Weekly Update #127 – 19th January 2024 Join me as I look at the latest tech new and Azure updates from the past week. Join me as I look at […]]]></summary>
+        <author>
+            <name>Sarah Lean ???????</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Friends don’t let friends create a deployable package from Visual Studio!]]></title>
         <id>http://msdyn365fo.wordpress.com/?p=625</id>
         <link href="https://msdyn365fo.wordpress.com/2024/01/19/friends-dont-let-friends-create-a-deployable-package-from-visual-studio/"/>
@@ -154,6 +374,16 @@ Year-End Advice - Upgrade Dynamics GP to Business Central]]></summary>
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Programmer nowadays 😂 – YouTube]]></title>
+        <id>https://365community.online/programmer-nowadays-%f0%9f%98%82-youtube</id>
+        <link href="https://365community.online/programmer-nowadays-%f0%9f%98%82-youtube"/>
+        <updated>2024-01-18T17:12:25.000Z</updated>
+        <summary type="html"><![CDATA[Programmer nowadays 😂 source]]></summary>
+        <author>
+            <name>Sourav Raj</name>
         </author>
     </entry>
     <entry>
