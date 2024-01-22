@@ -3875,6 +3875,66 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/pl-100-power-platform-app-maker-is-retiring",
+          "author": "Julian Sharp",
+          "description": "Microsoft will be retiring the PL-100 certification and course in June 2024. You will be able to renew the certification before the end of June, and the exam and certification […]",
+          "link": "https://365community.online/pl-100-power-platform-app-maker-is-retiring",
+          "publishedOn": "2024-01-21T10:55:55.000Z",
+          "wordCount": 3040,
+          "title": "PL-100 Power Platform App Maker is retiring",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/should-net-developers-stick-or-switch-to-power-platform-youtube-2",
+          "author": "Neil Benson",
+          "description": "#153.  Neil Benson is joined by Keith Atherton, a proper pro developer. Keith shares his journey from developing custom apps using .NET, C# and SQL Server to embracing and mastering […]",
+          "link": "https://365community.online/should-net-developers-stick-or-switch-to-power-platform-youtube-2",
+          "publishedOn": "2024-01-21T00:23:19.000Z",
+          "wordCount": 3228,
+          "title": "Should .NET Developers Stick or Switch to Power Platform? – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1705807897_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/unpacking-user-stories-and-backlog-refinement-with-dani-kahil-youtube-2",
+          "author": "Neil Benson",
+          "description": "#152.  Host Neil Benson is joined by the talented Dani Kahil for an insightful discussion on managing backlogs and enhancing user stories in Azure DevOps and Jira. Neil shares his […]",
+          "link": "https://365community.online/unpacking-user-stories-and-backlog-refinement-with-dani-kahil-youtube-2",
+          "publishedOn": "2024-01-21T00:23:18.000Z",
+          "wordCount": 3122,
+          "title": "Unpacking User Stories and Backlog Refinement with Dani Kahil – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1705823264_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/super-crm-a-case-study-youtube",
+          "author": "Neil Benson",
+          "description": "#151. Amazing Apps host, Neil Benson, dives into a case study from one of his team’s own projects: “Member Super”, a financial services organisation in Australia. With over a million […]",
+          "link": "https://365community.online/super-crm-a-case-study-youtube",
+          "publishedOn": "2024-01-21T00:23:17.000Z",
+          "wordCount": 3072,
+          "title": "Super CRM: a case study – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1705839403_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/a-big-bang-going-live-with-dynamics-365-or-power-platform-with-andrew-bibby-youtube-2",
+          "author": "Neil Benson",
+          "description": "#150. What does it take to have a successful go live event for your Dynamics 365 or Power Platform application. Neil Benson sat down with Andrew Bibby, a seasoned expert […]",
+          "link": "https://365community.online/a-big-bang-going-live-with-dynamics-365-or-power-platform-with-andrew-bibby-youtube-2",
+          "publishedOn": "2024-01-21T00:23:16.000Z",
+          "wordCount": 3222,
+          "title": "A Big Bang? Going Live with Dynamics 365 or Power Platform with Andrew Bibby – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1705854733_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/breaking-free-from-the-tyranny-of-the-deliverable-with-andrew-welch-youtube",
+          "author": "Neil Benson",
+          "description": "#149. Andrew Welch is the Chief Technology Officer at HSO. Andrew is an expert in IT strategy and has a wealth of experience advising customers on their big strategic technology […]",
+          "link": "https://365community.online/breaking-free-from-the-tyranny-of-the-deliverable-with-andrew-welch-youtube",
+          "publishedOn": "2024-01-21T00:23:14.000Z",
+          "wordCount": 3246,
+          "title": "Breaking Free from the Tyranny of the Deliverable with Andrew Welch – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1705870114_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
           "id": "https://365community.online/dynamics-365-business-central-introducing-the-azure-file-share-module",
           "author": "Stefano Demiliani",
           "description": "I wrote in the past some articles about how it’s important to use Azure Storage for storing files in a Dynamics 365 Business Central project (avoid using blobs and media […]",
@@ -7295,6 +7355,16 @@
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
         {
+          "id": "https://dynamicspedia.com/?p=18977",
+          "author": "André Arnaud de Calavon",
+          "description": "After writing and creating some video content about the basics of Power Automate Process Mining, in this blog, I will talk about an example of how to ingest data from Dynamics 365 F&O. I get a lot of questions, so finally here is a blog with hopefully answering a lot of your questions. Overview available […]\nThe post The F&O Twist on Process Mining – Use a data entity to connect a process appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2024/01/the-fo-twist-on-process-mining-use-a-data-entity-to-connect-a-process/",
+          "publishedOn": "2024-01-21T11:20:41.000Z",
+          "wordCount": 4343,
+          "title": "The F&O Twist on Process Mining – Use a data entity to connect a process",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2024/01/DataEntityConnectProcess1200.jpg"
+        },
+        {
           "id": "https://dynamicspedia.com/?p=18938",
           "author": "André Arnaud de Calavon",
           "description": "Firstly, I want to wish you all a happy and healthy 2024. For me, the new year starts with a new challenge. I moved from To-Increase to Next365 as a Managing Partner in the Netherlands. In this post, I will tell a bit more about my motivation and Next365. For nearly 5 years, I worked […]\nThe post I’m joining Next365 appeared first on Dynamicspedia.",
@@ -8834,6 +8904,16 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/01/18/microsoft-named-as-a-worldwide-leader-in-four-idc-marketscapes-for-field-service-management-service-life-cycle/",
+          "author": "Hector Garcia Tellado",
+          "description": "Across all industries and around the world, field service leaders face any number of challenges in areas including digitalization and modernization of traditionally paper-based processes, rising customer expectations, and employee training and retention. With these challenges top of mind, we have continually invested in Microsoft Dynamics 365 Field Service as a solution to meet the growing requirements of field service management (FSM) operations.\nThe post Microsoft named as a worldwide Leader in four IDC MarketScapes for Field Service Management & Service Life-Cycle appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/01/18/microsoft-named-as-a-worldwide-leader-in-four-idc-marketscapes-for-field-service-management-service-life-cycle/",
+          "publishedOn": "2024-01-18T16:00:00.000Z",
+          "wordCount": 4061,
+          "title": "Microsoft named as a worldwide Leader in four IDC MarketScapes for Field Service Management & Service Life-Cycle",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/01/MSFT_Dynamics365_Jan_10_Blog_240110_Final_1200.png"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/01/16/prepare-your-organization-for-conversation-intelligence-data-migration-into-dataverse/",
           "author": "Asaf Tzuk",
           "description": "During the 1st quarter of 2024, sales conversation intelligence data will migrate from its current storage location (Microsoft provided storage) across to each customer’s Dataverse organization\nThe post Prepare your organization for conversation intelligence data migration into Dataverse appeared first on Microsoft Dynamics 365 Blog.",
@@ -10285,7 +10365,7 @@
     {
       "title": "Parag Chapre",
       "feedUrl": "https://paragchapre.com/feed/",
-      "siteUrl": "http://paragchapre.com/",
+      "siteUrl": "https://paragchapre.com/",
       "articles": [
         {
           "id": "https://paragchapre.com/?p=12328",

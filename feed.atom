@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-01-21T00:44:42.245Z</updated>
+    <updated>2024-01-22T00:43:07.060Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The F&O Twist on Process Mining – Use a data entity to connect a process]]></title>
+        <id>https://dynamicspedia.com/?p=18977</id>
+        <link href="https://dynamicspedia.com/2024/01/the-fo-twist-on-process-mining-use-a-data-entity-to-connect-a-process/"/>
+        <updated>2024-01-21T11:20:41.000Z</updated>
+        <summary type="html"><![CDATA[After writing and creating some video content about the basics of Power Automate Process Mining, in this blog, I will talk about an example of how to ingest data from Dynamics 365 F&O. I get a lot of questions, so finally here is a blog with hopefully answering a lot of your questions. Overview available […]
+The post The F&O Twist on Process Mining – Use a data entity to connect a process appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PL-100 Power Platform App Maker is retiring]]></title>
+        <id>https://365community.online/pl-100-power-platform-app-maker-is-retiring</id>
+        <link href="https://365community.online/pl-100-power-platform-app-maker-is-retiring"/>
+        <updated>2024-01-21T10:55:55.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft will be retiring the PL-100 certification and course in June 2024. You will be able to renew the certification before the end of June, and the exam and certification […]]]></summary>
+        <author>
+            <name>Julian Sharp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should .NET Developers Stick or Switch to Power Platform? – YouTube]]></title>
+        <id>https://365community.online/should-net-developers-stick-or-switch-to-power-platform-youtube-2</id>
+        <link href="https://365community.online/should-net-developers-stick-or-switch-to-power-platform-youtube-2"/>
+        <updated>2024-01-21T00:23:19.000Z</updated>
+        <summary type="html"><![CDATA[#153.  Neil Benson is joined by Keith Atherton, a proper pro developer. Keith shares his journey from developing custom apps using .NET, C# and SQL Server to embracing and mastering […]]]></summary>
+        <author>
+            <name>Neil Benson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unpacking User Stories and Backlog Refinement with Dani Kahil – YouTube]]></title>
+        <id>https://365community.online/unpacking-user-stories-and-backlog-refinement-with-dani-kahil-youtube-2</id>
+        <link href="https://365community.online/unpacking-user-stories-and-backlog-refinement-with-dani-kahil-youtube-2"/>
+        <updated>2024-01-21T00:23:18.000Z</updated>
+        <summary type="html"><![CDATA[#152.  Host Neil Benson is joined by the talented Dani Kahil for an insightful discussion on managing backlogs and enhancing user stories in Azure DevOps and Jira. Neil shares his […]]]></summary>
+        <author>
+            <name>Neil Benson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Super CRM: a case study – YouTube]]></title>
+        <id>https://365community.online/super-crm-a-case-study-youtube</id>
+        <link href="https://365community.online/super-crm-a-case-study-youtube"/>
+        <updated>2024-01-21T00:23:17.000Z</updated>
+        <summary type="html"><![CDATA[#151. Amazing Apps host, Neil Benson, dives into a case study from one of his team’s own projects: “Member Super”, a financial services organisation in Australia. With over a million […]]]></summary>
+        <author>
+            <name>Neil Benson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Big Bang? Going Live with Dynamics 365 or Power Platform with Andrew Bibby – YouTube]]></title>
+        <id>https://365community.online/a-big-bang-going-live-with-dynamics-365-or-power-platform-with-andrew-bibby-youtube-2</id>
+        <link href="https://365community.online/a-big-bang-going-live-with-dynamics-365-or-power-platform-with-andrew-bibby-youtube-2"/>
+        <updated>2024-01-21T00:23:16.000Z</updated>
+        <summary type="html"><![CDATA[#150. What does it take to have a successful go live event for your Dynamics 365 or Power Platform application. Neil Benson sat down with Andrew Bibby, a seasoned expert […]]]></summary>
+        <author>
+            <name>Neil Benson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking Free from the Tyranny of the Deliverable with Andrew Welch – YouTube]]></title>
+        <id>https://365community.online/breaking-free-from-the-tyranny-of-the-deliverable-with-andrew-welch-youtube</id>
+        <link href="https://365community.online/breaking-free-from-the-tyranny-of-the-deliverable-with-andrew-welch-youtube"/>
+        <updated>2024-01-21T00:23:14.000Z</updated>
+        <summary type="html"><![CDATA[#149. Andrew Welch is the Chief Technology Officer at HSO. Andrew is an expert in IT strategy and has a wealth of experience advising customers on their big strategic technology […]]]></summary>
+        <author>
+            <name>Neil Benson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Set up Online VM for Dynamics 365 FO for Learning Purpose]]></title>
         <id>https://d365fotechexpert.blogspot.com/2024/01/set-up-online-vm-for-dynamics-365-fo.html</id>
@@ -384,6 +455,17 @@ Year-End Advice - Upgrade Dynamics GP to Business Central]]></summary>
         <summary type="html"><![CDATA[Programmer nowadays 😂 source]]></summary>
         <author>
             <name>Sourav Raj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft named as a worldwide Leader in four IDC MarketScapes for Field Service Management & Service Life-Cycle]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2024/01/18/microsoft-named-as-a-worldwide-leader-in-four-idc-marketscapes-for-field-service-management-service-life-cycle/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2024/01/18/microsoft-named-as-a-worldwide-leader-in-four-idc-marketscapes-for-field-service-management-service-life-cycle/"/>
+        <updated>2024-01-18T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Across all industries and around the world, field service leaders face any number of challenges in areas including digitalization and modernization of traditionally paper-based processes, rising customer expectations, and employee training and retention. With these challenges top of mind, we have continually invested in Microsoft Dynamics 365 Field Service as a solution to meet the growing requirements of field service management (FSM) operations.
+The post Microsoft named as a worldwide Leader in four IDC MarketScapes for Field Service Management & Service Life-Cycle appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Hector Garcia Tellado</name>
         </author>
     </entry>
     <entry>
