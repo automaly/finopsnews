@@ -4160,6 +4160,16 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/logic-apps-key-vaults-for-encryption",
+          "author": "Anitha Santosh",
+          "description": "I had to work on a task where they data has to be encrypted during automation and logic apps came to my rescue to make the job simple and easy. […]",
+          "link": "https://365community.online/logic-apps-key-vaults-for-encryption",
+          "publishedOn": "2024-01-26T18:48:23.000Z",
+          "wordCount": 3053,
+          "title": "Logic apps – Key vaults for Encryption",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Logic-apps-–-Key-vaults-for-Encryption.png?fit=571%2C753&ssl=1"
+        },
+        {
           "id": "https://365community.online/sftp-connector-with-private-key-logic-apps",
           "author": "Anitha Santosh",
           "description": "This article shows you how to connect SFTP gateway via logic apps using private key. In our instance, Standard logic apps is used. Create a new workflow. Let the trigger […]",
@@ -4188,6 +4198,16 @@
           "wordCount": 3056,
           "title": "New Functionality In Microsoft Power Automate 2024 Wave 1: Series Index",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/working-with-power-automate-solutions-importing-a-managed-solution",
+          "author": "Ian Grieve",
+          "description": "This article is part of the Working with Power Automate Solutions series and of the larger Working with Power Automate series I am writing on my experiences working with the […]",
+          "link": "https://365community.online/working-with-power-automate-solutions-importing-a-managed-solution",
+          "publishedOn": "2024-01-26T11:00:51.000Z",
+          "wordCount": 3050,
+          "title": "Working with Power Automate Solutions: Importing A Managed Solution",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
         },
         {
           "id": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-12-topic-5-part-2-youtube",
@@ -9668,6 +9688,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/01/23/embrace-cloud-migration-with-microsoft-dynamics-365/",
+          "author": "Stephanie Dart",
+          "description": "In this blog, we discuss how the shift to cloud solutions empowers organizations to tackle challenges and thrive in a demanding era. Learn more about Microsoft's “Accelerate, Innovate, Move” (AIM) program for a smooth cloud transition. \nThe post Embrace cloud migration with Microsoft Dynamics 365 appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/01/23/embrace-cloud-migration-with-microsoft-dynamics-365/",
+          "publishedOn": "2024-01-23T16:00:00.000Z",
+          "wordCount": 3930,
+          "title": "Embrace cloud migration with Microsoft Dynamics 365",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/01/1.16-SEO-Image.png"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/01/18/microsoft-named-as-a-worldwide-leader-in-four-idc-marketscapes-for-field-service-management-service-life-cycle/",
           "author": "Hector Garcia Tellado",

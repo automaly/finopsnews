@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-01-26T22:23:32.720Z</updated>
+    <updated>2024-01-27T00:38:03.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Logic apps – Key vaults for Encryption]]></title>
+        <id>https://365community.online/logic-apps-key-vaults-for-encryption</id>
+        <link href="https://365community.online/logic-apps-key-vaults-for-encryption"/>
+        <updated>2024-01-26T18:48:23.000Z</updated>
+        <summary type="html"><![CDATA[I had to work on a task where they data has to be encrypted during automation and logic apps came to my rescue to make the job simple and easy. […]]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Logic apps – Key vaults for Encryption]]></title>
         <id>http://anithasantosh.wordpress.com/?p=3348</id>
@@ -164,6 +174,16 @@ Transform your retail business with point of sale software]]></summary>
         <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-series-index"/>
         <updated>2024-01-26T13:00:31.000Z</updated>
         <summary type="html"><![CDATA[This post is part of a series on the new functionality announced for Wave 1 of Microsoft Power Automate 2024. There are two release waves for Power Automate each year, […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working with Power Automate Solutions: Importing A Managed Solution]]></title>
+        <id>https://365community.online/working-with-power-automate-solutions-importing-a-managed-solution</id>
+        <link href="https://365community.online/working-with-power-automate-solutions-importing-a-managed-solution"/>
+        <updated>2024-01-26T11:00:51.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the Working with Power Automate Solutions series and of the larger Working with Power Automate series I am writing on my experiences working with the […]]]></summary>
         <author>
             <name>Ian Grieve</name>
         </author>
@@ -554,6 +574,17 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>Don McNulty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embrace cloud migration with Microsoft Dynamics 365]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2024/01/23/embrace-cloud-migration-with-microsoft-dynamics-365/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2024/01/23/embrace-cloud-migration-with-microsoft-dynamics-365/"/>
+        <updated>2024-01-23T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this blog, we discuss how the shift to cloud solutions empowers organizations to tackle challenges and thrive in a demanding era. Learn more about Microsoft's “Accelerate, Innovate, Move” (AIM) program for a smooth cloud transition. 
+The post Embrace cloud migration with Microsoft Dynamics 365 appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Stephanie Dart</name>
         </author>
     </entry>
     <entry>
