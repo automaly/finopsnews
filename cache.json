@@ -748,16 +748,6 @@
           "wordCount": 2147,
           "title": "XppInteg - Import purchase orders from XML files into D365FO",
           "imageUrl": "https://denistrunin.com/static/83b5ef603855164bd637f97af9c5ddda/66882/logo.png"
-        },
-        {
-          "id": "https://denistrunin.com/performance-monitormisind/",
-          "author": null,
-          "description": "The blog post describes a monitoring solution for SQL Server missing indexes.",
-          "link": "https://denistrunin.com/performance-monitormisind/",
-          "publishedOn": "2022-01-28T22:12:03.000Z",
-          "wordCount": 1095,
-          "title": "Dynamics AX performance monitoring: missing indexes",
-          "imageUrl": "https://denistrunin.com/static/ab8f0d0711f8124a7b03b51ac29f71fa/3965e/logo.png"
         }
       ]
     },
@@ -4180,6 +4170,16 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/cyber-security-training-cyber-security-training-for-beginners-cybersecurity-course-mindmajix-youtube",
+          "author": "Jaya Sri",
+          "description": "This video on MindMajix Cyber Security Training Course aims to deliver quality training that covers solid fundamental knowledge on core concepts like fundamentals of networking, OSI Layers, security information and […]",
+          "link": "https://365community.online/cyber-security-training-cyber-security-training-for-beginners-cybersecurity-course-mindmajix-youtube",
+          "publishedOn": "2024-01-27T09:00:07.000Z",
+          "wordCount": 3426,
+          "title": "Cyber Security Training | Cyber Security Training For Beginners | Cybersecurity Course | MindMajix – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1706418211_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
           "id": "https://365community.online/from-basics-to-brilliance-typescript-examples-for-model-driven-apps",
           "author": "Wilmer Alcivar",
           "description": "Written by wilmeralcivar88@gmail.com Unleash the power of TypeScript in Model Driven Apps! Explore practical examples, from handling basic logic in main forms to opening Custom Pages, calling Custom APIs, and […]",
@@ -4208,6 +4208,16 @@
           "wordCount": 3064,
           "title": "SFTP connector with Private key – Logic apps",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1706292483_SFTP-connector-with-Private-key-–-Logic-apps.png?fit=707%2C392&ssl=1"
+        },
+        {
+          "id": "https://365community.online/weekly-update-128-26th-january-2024-youtube",
+          "author": "Sarah Lean ???????",
+          "description": "Weekly Update #128 – 26th January 2024 Join me as I look at the latest Azure updates from the past week. Join me as I look at the latest Azure […]",
+          "link": "https://365community.online/weekly-update-128-26th-january-2024-youtube",
+          "publishedOn": "2024-01-26T15:28:09.000Z",
+          "wordCount": 2952,
+          "title": "Weekly Update #128 – 26th January 2024 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/1706420165_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         },
         {
           "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-receive-intelligent-license-recommendations-for-admins",
@@ -9261,6 +9271,16 @@
       "siteUrl": "https://www.atomicax.com/frontpage",
       "articles": [
         {
+          "id": "1686 at https://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 01/27/24.\n\n\nLast modified: \n\n01/28/24\n\n\n\n\n\n\n\n\n\n\n\n\nIs it possible to train an AI to offer intelligent assistance in your Dynamics 365 F&O instance?\nIn a previous article, I showed how you could use AI to provide dynamic help to your users. This example simply allowed for a user to ask a ChatGPT generic model how to perform a task in Dynamics 365 for Finance and Operations. This was an example of how to incorporate an AI bot with some additional context and prompting info to be helpful to your users. This would include a specific prompt with context info to help with user provide a simple request and get a specifically helpful response. This was a fun and interesting demo for a use of the technology but its still fairly dumb. Rather than use AI to help provide a…",
+          "link": "https://www.atomicax.com/article/using-ai-assistant-provide-dynamic-help",
+          "publishedOn": "2024-01-27T15:31:58.000Z",
+          "wordCount": 2898,
+          "title": "Using an AI Assistant to Provide Dynamic Help",
+          "imageUrl": null
+        },
+        {
           "id": "1685 at https://www.atomicax.com",
           "author": "Nathan Clouse",
           "description": "Submitted by Nathan Clouse on 01/14/24.\n\n\nLast modified: \n\n01/14/24\n\n\n\n\n\n\n\n\n\n\n\n\n      \nTags: \nAI      \nHelp      \n\nUsing ChatGPT to improve the help experience for your end users\nThis article is about using ChatGPT to help provide contextual help to an end user of Finance and Operations. This is simply an example of how to do it with some extra features to illustrate how AI can be used and also mis-used. I don't expect that this specific use case would be provided in the manner this article shows and for a real solution, you would have a much larger set of training data available for an AI large language model to ingest and provide even better help. With that out the way, let's dig in.\nNew users of Finance and Operations can sometimes face issues getting the training or documentation they …",
@@ -9728,6 +9748,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/01/25/2024-release-wave-1-plans-for-microsoft-dynamics-365-and-power-platform-now-available/",
+          "author": "Mo Osborne",
+          "description": "On January 25, 2024, we published the 2024 release wave 1 plans for Microsoft Dynamics 365 and Microsoft Power Platform, a compilation of new capabilities planned to be released between April 2024 and September 2024. This first release wave of the year offers hundreds of new features and improvements.\nThe post 2024 release wave 1 plans for Microsoft Dynamics 365 and Power Platform now available appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/01/25/2024-release-wave-1-plans-for-microsoft-dynamics-365-and-power-platform-now-available/",
+          "publishedOn": "2024-01-25T16:00:00.000Z",
+          "wordCount": 4110,
+          "title": "2024 release wave 1 plans for Microsoft Dynamics 365 and Power Platform now available",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/01/MSFT_Blog_D365_Jan_22_-Template_20240122_V1_1200.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/01/23/embrace-cloud-migration-with-microsoft-dynamics-365/",
           "author": "Stephanie Dart",

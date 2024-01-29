@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-01-28T00:40:56.992Z</updated>
+    <updated>2024-01-29T00:38:05.441Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Using an AI Assistant to Provide Dynamic Help]]></title>
+        <id>1686 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/article/using-ai-assistant-provide-dynamic-help"/>
+        <updated>2024-01-27T15:31:58.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 01/27/24.
+
+
+Last modified: 
+
+01/28/24
+
+
+
+
+
+
+
+
+
+
+
+
+Is it possible to train an AI to offer intelligent assistance in your Dynamics 365 F&O instance?
+In a previous article, I showed how you could use AI to provide dynamic help to your users. This example simply allowed for a user to ask a ChatGPT generic model how to perform a task in Dynamics 365 for Finance and Operations. This was an example of how to incorporate an AI bot with some additional context and prompting info to be helpful to your users. This would include a specific prompt with context info to help with user provide a simple request and get a specifically helpful response. This was a fun and interesting demo for a use of the technology but its still fairly dumb. Rather than use AI to help provide a…]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyber Security Training | Cyber Security Training For Beginners | Cybersecurity Course | MindMajix – YouTube]]></title>
+        <id>https://365community.online/cyber-security-training-cyber-security-training-for-beginners-cybersecurity-course-mindmajix-youtube</id>
+        <link href="https://365community.online/cyber-security-training-cyber-security-training-for-beginners-cybersecurity-course-mindmajix-youtube"/>
+        <updated>2024-01-27T09:00:07.000Z</updated>
+        <summary type="html"><![CDATA[This video on MindMajix Cyber Security Training Course aims to deliver quality training that covers solid fundamental knowledge on core concepts like fundamentals of networking, OSI Layers, security information and […]]]></summary>
+        <author>
+            <name>Jaya Sri</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Navigating the Future of Finance: Microsoft Dynamics 365 Finance xP&A Solution as a Catalyst]]></title>
         <id>https://erpsoftwareblog.com/?p=103621</id>
@@ -138,6 +177,16 @@ Take Business Central to the Next Level with these ERP Apps
 SimplyAP - Cloud AP Automation for Business Central]]></summary>
         <author>
             <name>KwikTag by Paymerang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekly Update #128 – 26th January 2024 – YouTube]]></title>
+        <id>https://365community.online/weekly-update-128-26th-january-2024-youtube</id>
+        <link href="https://365community.online/weekly-update-128-26th-january-2024-youtube"/>
+        <updated>2024-01-26T15:28:09.000Z</updated>
+        <summary type="html"><![CDATA[Weekly Update #128 – 26th January 2024 Join me as I look at the latest Azure updates from the past week. Join me as I look at the latest Azure […]]]></summary>
+        <author>
+            <name>Sarah Lean ???????</name>
         </author>
     </entry>
     <entry>
@@ -387,6 +436,17 @@ Graphical Scheduler v1.8: Elevating Production Scheduling]]></summary>
 The post Dynamics 365 & Power Platform – 2024 release wave 1 plans appeared first on Dynamicspedia.]]></summary>
         <author>
             <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 release wave 1 plans for Microsoft Dynamics 365 and Power Platform now available]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2024/01/25/2024-release-wave-1-plans-for-microsoft-dynamics-365-and-power-platform-now-available/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2024/01/25/2024-release-wave-1-plans-for-microsoft-dynamics-365-and-power-platform-now-available/"/>
+        <updated>2024-01-25T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On January 25, 2024, we published the 2024 release wave 1 plans for Microsoft Dynamics 365 and Microsoft Power Platform, a compilation of new capabilities planned to be released between April 2024 and September 2024. This first release wave of the year offers hundreds of new features and improvements.
+The post 2024 release wave 1 plans for Microsoft Dynamics 365 and Power Platform now available appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Mo Osborne</name>
         </author>
     </entry>
     <entry>
@@ -19236,16 +19296,6 @@ Check this article for more complicated scenario https://alexvoy.blogspot.com/2
         <summary type="html"><![CDATA[Disclaimer: I do not encourage anyone on using this feature. And if you use it, please be careful with manipulating data using this feature. With the release of the PEAP version for 10.0.25 Microsoft reintroduced the ability to execute jobs without having a downtime for the needed deployment: https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/deployment/run-custom-scriptsWhile I wouldn’t recommend anyone to use […]]]></summary>
         <author>
             <name>Marijan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics AX performance monitoring: missing indexes]]></title>
-        <id>https://denistrunin.com/performance-monitormisind/</id>
-        <link href="https://denistrunin.com/performance-monitormisind/"/>
-        <updated>2022-01-28T22:12:03.000Z</updated>
-        <summary type="html"><![CDATA[The blog post describes a monitoring solution for SQL Server missing indexes.]]></summary>
-        <author>
-            <name>Gatsby RSS Feed</name>
         </author>
     </entry>
 </feed>
