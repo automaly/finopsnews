@@ -2,10 +2,217 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-01-31T00:38:23.473Z</updated>
+    <updated>2024-02-01T00:40:04.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Automate the assignment of Capacity Add-ons in Power Platform Environment using Power Automate Flow]]></title>
+        <id>https://365community.online/automate-the-assignment-of-capacity-add-ons-in-power-platform-environment-using-power-automate-flow</id>
+        <link href="https://365community.online/automate-the-assignment-of-capacity-add-ons-in-power-platform-environment-using-power-automate-flow"/>
+        <updated>2024-01-31T21:02:19.000Z</updated>
+        <summary type="html"><![CDATA[In Power Platform, capacity add-ons such as AI Builder Credits, Per-App plan, Power Pages Capacity, Power Automate Per Flow, Power Automate Process, Copilot Studio messages are allocated at an environment […]]]></summary>
+        <author>
+            <name>Mohamed Ashiq Faleel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamlining Compliance: Lot & Serial Number Tracking in Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=103749</id>
+        <link href="https://erpsoftwareblog.com/2024/01/streamlining-compliance-lot-serial-number-tracking-in-business-central/"/>
+        <updated>2024-01-31T19:36:39.000Z</updated>
+        <summary type="html"><![CDATA[Explore lot and serial number tracking in Business Central using apps for regulatory compliance. For small and medium-sized businesses in the distribution and manufacturing sectors using Microsoft Dynamics 365 Business […]
+The post Streamlining Compliance: Lot & Serial Number Tracking in Business Central appeared first on ERP Software Blog.
+Free Business Central Apps to Fill the Gaps
+Unlocking Seamless Order Fulfillment in Dynamics 365 Business Central
+Unlock Enhanced Order Fulfillment Capabilities in Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Human Resources Should Ask Accounting About AP Clerks]]></title>
+        <id>https://erpsoftwareblog.com/?p=103744</id>
+        <link href="https://erpsoftwareblog.com/2024/01/why-human-resources-should-ask-accounting-about-ap-clerks/"/>
+        <updated>2024-01-31T18:22:08.000Z</updated>
+        <summary type="html"><![CDATA[Have you thought about how you can change the way accounting hires staff? In this post we are going to discuss the high turnover rates for accounts payable clerking roles […]
+The post Why Human Resources Should Ask Accounting About AP Clerks appeared first on ERP Software Blog.
+AP Automation for Healthcare - Dynamics GP Success Story
+Join Us At Dynamic Communities Summit - Booth 800
+The Struggle to Hire an Accounts Payable Clerk]]></summary>
+        <author>
+            <name>Fidesic AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Release of D365FO Admin Toolkit v1.2]]></title>
+        <id>https://365community.online/new-release-of-d365fo-admin-toolkit-v1-2</id>
+        <link href="https://365community.online/new-release-of-d365fo-admin-toolkit-v1-2"/>
+        <updated>2024-01-31T15:35:16.000Z</updated>
+        <summary type="html"><![CDATA[We have a new release of the D365FO Admin Toolkit that includes some exciting new community contributions and features! Version 1.2 Release D365FO Admin Toolkit GitHub D365FO Admin Toolkit v1.2 […]]]></summary>
+        <author>
+            <name>Alex Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Release of D365FO Admin Toolkit v1.2]]></title>
+        <id>https://alexdmeyer.com/?p=3043</id>
+        <link href="https://alexdmeyer.com/2024/01/31/new-release-of-d365fo-admin-toolkit-v1-2/"/>
+        <updated>2024-01-31T15:35:16.000Z</updated>
+        <summary type="html"><![CDATA[We have a new release of the D365FO Admin Toolkit that includes some exciting new community contributions and features! Version 1.2 Release D365FO Admin Toolkit GitHub D365FO Admin Toolkit v1.2 Deployable Package Download Note: The deployable package has been built against a CY24Q1: 10.0.38 version of D365FO, which is now GA. New Features Based on community […]
+The post New Release of D365FO Admin Toolkit v1.2 appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Use Power Platform Connectors in Power Automate for Desktop Actions]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-power-platform-connectors-in-power-automate-for-desktop-actions</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-power-platform-connectors-in-power-automate-for-desktop-actions"/>
+        <updated>2024-01-31T15:00:42.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audit Dynamics 365 Business Central operations in Microsoft Purview: what is it?]]></title>
+        <id>https://365community.online/audit-dynamics-365-business-central-operations-in-microsoft-purview-what-is-it</id>
+        <link href="https://365community.online/audit-dynamics-365-business-central-operations-in-microsoft-purview-what-is-it"/>
+        <updated>2024-01-31T15:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Some days ago Microsoft announced the upcoming new features for the new products wave and also Dynamics 365 Business Central is on the list and you can read more about […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to – Submit multipart/form-data using HTTP action in Power Automate (Dataverse)]]></title>
+        <id>https://365community.online/how-to-submit-multipart-form-data-using-http-action-in-power-automate-dataverse</id>
+        <link href="https://365community.online/how-to-submit-multipart-form-data-using-http-action-in-power-automate-dataverse"/>
+        <updated>2024-01-31T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently we were calling an API (that expects multipart/form-data) to pass the image uploaded in Dataverse’s Image Column. We used Power Automate for this i.e. to get the image uploaded […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Power Fx Integration with Power Automate for Desktop]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-power-fx-integration-with-power-automate-for-desktop</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-power-fx-integration-with-power-automate-for-desktop"/>
+        <updated>2024-01-31T13:00:04.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crafting a Consulting Niche by Merging Finance Skills and Brazilian Culture with Josh Knox]]></title>
+        <id>https://365community.online/crafting-a-consulting-niche-by-merging-finance-skills-and-brazilian-culture-with-josh-knox</id>
+        <link href="https://365community.online/crafting-a-consulting-niche-by-merging-finance-skills-and-brazilian-culture-with-josh-knox"/>
+        <updated>2024-01-31T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FULL SHOW NOTES https://podcast.nz365guy.com/522 Have you ever pondered the intriguing intersection where professional expertise meets vibrant personal passions? That's precisely what we unpack with Dynamics 365 MVP Josh Knox, whose […]]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics 365 2024 Release Wave 1 plan for Business Central]]></title>
+        <id>https://365community.online/microsoft-dynamics-365-2024-release-wave-1-plan-for-business-central</id>
+        <link href="https://365community.online/microsoft-dynamics-365-2024-release-wave-1-plan-for-business-central"/>
+        <updated>2024-01-31T11:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft just released the plans for the next major release wave.  I’m not going to explain what they mean with “waves” anymore – I did that in length in one […]]]></summary>
+        <author>
+            <name>Waldo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiple Record Changes Volume Limitation for Power Automate in Microsoft Dynamics 365 Business Central]]></title>
+        <id>https://365community.online/multiple-record-changes-volume-limitation-for-power-automate-in-microsoft-dynamics-365-business-central</id>
+        <link href="https://365community.online/multiple-record-changes-volume-limitation-for-power-automate-in-microsoft-dynamics-365-business-central"/>
+        <updated>2024-01-31T11:00:45.000Z</updated>
+        <summary type="html"><![CDATA[This isn’t something which I have an issue with at the moment, but, when researching for something else, I came across a blog post which mentioned it and thought it […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cómo Business Central te ayuda a cumplir con la CSRD y los criterios ESG]]></title>
+        <id>https://365community.online/como-business-central-te-ayuda-a-cumplir-con-la-csrd-y-los-criterios-esg</id>
+        <link href="https://365community.online/como-business-central-te-ayuda-a-cumplir-con-la-csrd-y-los-criterios-esg"/>
+        <updated>2024-01-31T10:06:28.000Z</updated>
+        <summary type="html"><![CDATA[La sostenibilidad se ha convertido en un factor clave para el éxito de las empresas en el siglo XXI. Los consumidores, los inversores y los reguladores exigen cada vez más […]]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[New Feature] Copilot & AI Capabilities in Dynamics 365 finance and Operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2808</id>
+        <link href="https://exploredynamics365.home.blog/2024/01/31/new-feature-copilot-ai-capabilities-in-dynamics-365-finance-and-operations/"/>
+        <updated>2024-01-31T09:55:03.000Z</updated>
+        <summary type="html"><![CDATA[This marks my 200th blog post on Microsoft Dynamics 365 Finance and Operations, and what better topic to discuss than the emerging revolution in the technological landscape: Artificial Intelligence (AI). In the coming posts, I aim to delve into AI features within Dynamics 365 and explore their implications. Stay tuned as I explore these cutting-edge […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[New Feature] Copilot & AI Capabilities in Dynamics 365 finance and Operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2808</id>
+        <link href="https://exploredynamics365.home.blog/2024/01/31/new-feature-copilot-ai-capabilities-in-dynamics-365-finance-and-operations/"/>
+        <updated>2024-01-31T09:55:03.000Z</updated>
+        <summary type="html"><![CDATA[This marks my 200th blog post on Microsoft Dynamics 365 Finance and Operations, and what better topic to discuss than the emerging revolution in the technological landscape: Artificial Intelligence (AI). In the coming posts, I aim to delve into AI features within Dynamics 365 and explore their implications. Stay tuned as I explore these cutting-edge […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Inventory valuation] Weighted average vs Weighted average by date Microsoft Dynamics 365 Finance and Operations: Part-5]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2804</id>
+        <link href="https://exploredynamics365.home.blog/2024/01/31/inventory-valuation-weighted-average-vs-weighted-average-by-date-microsoft-dynamics-365-finance-and-operations-part-5/"/>
+        <updated>2024-01-31T08:49:41.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to part 5 of our exploration into Inventory Valuation within Microsoft Dynamics 365 Finance and Operations. In this video I will be talking about weighted average by date method and difference between weighted average vs weighted by date.]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Inventory valuation] Weighted average vs Weighted average by date Microsoft Dynamics 365 Finance and Operations: Part-5]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2804</id>
+        <link href="https://exploredynamics365.home.blog/2024/01/31/inventory-valuation-weighted-average-vs-weighted-average-by-date-microsoft-dynamics-365-finance-and-operations-part-5/"/>
+        <updated>2024-01-31T08:49:41.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to part 5 of our exploration into Inventory Valuation within Microsoft Dynamics 365 Finance and Operations. In this video I will be talking about weighted average by date method and difference between weighted average vs weighted by date.]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolutionizing Asset Management]]></title>
+        <id>https://erpsoftwareblog.com/?p=103678</id>
+        <link href="https://erpsoftwareblog.com/2024/01/revolutionizing-asset-management/"/>
+        <updated>2024-01-31T07:14:06.000Z</updated>
+        <summary type="html"><![CDATA[Press release for Dynaway CONNECT Conference for Microsoft Dynamics 365 Supply Chain Management Professionals Get ready for a game-changing event! We're thrilled to introduce the very first Dynaway CONNECT Conference, created […]
+The post Revolutionizing Asset Management appeared first on ERP Software Blog.
+Move with equipment-driven market trends easily with DynaRent for Microsoft Dynamics 365
+How sustainability can make equipment maintenance profitable
+E-Commerce Business Process Efficiency: Microsoft Dynamics 365 Supply Chain Management ERP and EDI Integration]]></summary>
+        <author>
+            <name>Dynaway</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electronic Bill of Lading eBOL Solution for Microsoft Dynamics 365]]></title>
+        <id>https://erpsoftwareblog.com/?p=103735</id>
+        <link href="https://erpsoftwareblog.com/2024/01/electronic-bill-of-lading-ebol-solution-for-microsoft-dynamics-365/"/>
+        <updated>2024-01-31T01:46:31.000Z</updated>
+        <summary type="html"><![CDATA[Do you need a shipping documentation, signing, digitization, and automation solution for Microsoft Dynamics 365? SmartBOL can help you, the way we have helped these customers. Here are three examples […]
+The post Electronic Bill of Lading eBOL Solution for Microsoft Dynamics 365 appeared first on ERP Software Blog.
+Customize Your Microsoft Dynamics AX…?? Learn from Travel Industry
+What do you need to gain complete control of how you manage equipment rental projects?
+Dynamics 365 and Power BI: Transforming insight for equipment-driven rental projects]]></summary>
+        <author>
+            <name>SmartBOL</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Preventing Common Errors with AP Automation]]></title>
         <id>https://erpsoftwareblog.com/?p=103609</id>
@@ -201,6 +408,16 @@ Benefits of ERP Integration with an eCommerce Platform]]></summary>
         <summary type="html"><![CDATA[Epic riffs and dancing Prime Ministers? Nope… Welcome to the J of the A to Z Accessibility: Power Platform Edition, and this one is all about Jump! Those who enjoy […]]]></summary>
         <author>
             <name>Mike Hartley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[January 2024 update of Power Automate for desktop]]></title>
+        <id>january-2024-update-of-power-automate-for-desktop</id>
+        <link href="https://powerautomate.microsoft.com/en-nz/blog/january-2024-update-of-power-automate-for-desktop/"/>
+        <updated>2024-01-30T07:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Power Automate for desktop comes with new additions in 2023 January’s release, including AI-suggested actions, the support of blank values, single sign-on and multiple new actions including Word dedicated ones.]]></summary>
+        <author>
+            <name>powerautomate.microsoft.com</name>
         </author>
     </entry>
     <entry>
