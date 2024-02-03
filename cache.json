@@ -1351,6 +1351,56 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=103864",
+          "author": "Dexpro Dynamics",
+          "description": "Business software has moved to the cloud. Clients often tell me they own Dynamics GP, but their IT department doesn’t want to maintain on-premise servers anymore. So the question is, […]\nThe post Compare Cloud Scenarios: When Should I Move Dynamics GP to Azure versus Move to Dynamics 365 BC appeared first on ERP Software Blog.\nHow Dynamics 365 can boost your Sales Cycle?\nBetter Together - Explore the Microsoft Intelligent Edge with Dynamics GP 2018R2 and Business Central!\nThe Quickest and Easiest way to Create Custom Warehouse Apps without any Programming",
+          "link": "https://erpsoftwareblog.com/2024/02/compare-cloud-scenarios-when-should-i-move-dynamics-gp-to-azure-versus-move-to-dynamics-365-bc/",
+          "publishedOn": "2024-02-02T19:37:56.000Z",
+          "wordCount": 8121,
+          "title": "Compare Cloud Scenarios: When Should I Move Dynamics GP to Azure versus Move to Dynamics 365 BC",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/DEXPRO-30MIN.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=103858",
+          "author": "MetaOption LLC",
+          "description": "In the fast-paced world of supply chain management, efficiency and accuracy are paramount. To meet these demands, businesses are turning to advanced warehouse management solutions, and MetaADCS for Microsoft Dynamics NAV stands […]\nThe post Optimizing Visibility: The Strategic Role of Over-Receiving in MetaADCS appeared first on ERP Software Blog.\nTake Control of Your ERP Data\nOptimizing Warehouse Operations with MetaADCS for Dynamics NAV\nExploring the Warehouse Structure in MetaWMS for Dynamics 365 Business Central",
+          "link": "https://erpsoftwareblog.com/2024/02/the-strategic-role-of-over-receiving-in-metaadcs/",
+          "publishedOn": "2024-02-02T19:02:42.000Z",
+          "wordCount": 7526,
+          "title": "Optimizing Visibility: The Strategic Role of Over-Receiving in MetaADCS",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-2-37.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=103373",
+          "author": "Mark Rockwell, Rockton Software",
+          "description": "Dynamics GP has, from early on, built into its core system a feature called Activity Tracking.  This feature allows for lightweight auditing of certain steps or missteps inside of Dynamics […]\nThe post GP Activity Tracking Without Rockton Auditor appeared first on ERP Software Blog.\nIs Your “Cloud ERP” Really Cloud Based?\nDynamics GP and Document Management Systems\nAvastone Technologies to Merge with Heartland Business Systems",
+          "link": "https://erpsoftwareblog.com/2024/02/gp-activity-tracking-without-rockton-auditor/",
+          "publishedOn": "2024-02-02T17:49:44.000Z",
+          "wordCount": 7741,
+          "title": "GP Activity Tracking Without Rockton Auditor",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/GP-Activity-Tracking_1200x800.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=103853",
+          "author": "MetaOption LLC",
+          "description": "In the ever-evolving landscape of business technology, organizations are constantly seeking ways to streamline their operations and make informed decisions. Business Central, Microsoft’s comprehensive business management solution, has emerged as […]\nThe post Harnessing Business Intelligence: Power BI Integration in Business Central appeared first on ERP Software Blog.\nScalable Solutions: How Business Central Warehouse Management adapts to growing businesses\nExploring Jet Reports and Power BI Reporting Solutions\nUnleashing Business Intelligence with Jet Global (formerly Jet Reports)",
+          "link": "https://erpsoftwareblog.com/2024/02/harnessing-business-intelligence-power-bi-integration/",
+          "publishedOn": "2024-02-02T14:42:44.000Z",
+          "wordCount": 7408,
+          "title": "Harnessing Business Intelligence: Power BI Integration in Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-1-71.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=103742",
+          "author": "x2x eCommerce",
+          "description": "Modular solutions, which involve designing systems or products as a combination of independent, self-contained modules, offer several benefits in terms of flexibility and cost. There are numerous Benefits associated with […]\nThe post Benefits associated with Modular Solutions appeared first on ERP Software Blog.\n5 Scalability Benefits of Microsoft Dynamics GP in the Cloud\nWhy cloud-based solutions are increasingly popular?\nEssential accounts payable software features for efficient financial management",
+          "link": "https://erpsoftwareblog.com/2024/02/benefits-associated-with-modular-solutions/",
+          "publishedOn": "2024-02-02T12:41:35.000Z",
+          "wordCount": 7312,
+          "title": "Benefits associated with Modular Solutions",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Modern-Promotion-Business-Agency-Blog-Banner-8-300x169.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=103843",
           "author": "Dynamics eShop",
           "description": "Customers expect a seamless payment experience, whether they're buying online, in-store, or on the go. For businesses, offering a smooth and secure payment process is no longer just a perk, […]\nThe post 5 Reasons To Start Using A Payment Processing System appeared first on ERP Software Blog.\nUnlocking Financial Agility: Demystifying Revenue and Expense Deferrals in Dynamic GP\nThe Important Business Function Your ERP System CAN'T Do\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
@@ -4434,6 +4484,86 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-use-virtual-tables-to-expose-more-business-central-data-in-dataverse",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-use-virtual-tables-to-expose-more-business-central-data-in-dataverse",
+          "publishedOn": "2024-02-02T15:00:27.000Z",
+          "wordCount": 3129,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Use Virtual Tables to Expose More Business Central Data in Dataverse",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/validate-file-input-of-manually-triggered-flow-with-trigger-conditions",
+          "author": "Stefan Strube",
+          "description": "The requirement is simple: the file input in the manual trigger should only accept PDF files. This is something that can’t be configured in the file input parameter itself, but […]",
+          "link": "https://365community.online/validate-file-input-of-manually-triggered-flow-with-trigger-conditions",
+          "publishedOn": "2024-02-02T14:28:34.000Z",
+          "wordCount": 2998,
+          "title": "Validate file input of manually triggered flow with trigger conditions",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/Validate-file-input-of-manually-triggered-flow-with-trigger-conditions.jpg?fit=1021%2C805&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-manage-work-orders-in-field-service-invoice-them-in-business-central",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-manage-work-orders-in-field-service-invoice-them-in-business-central",
+          "publishedOn": "2024-02-02T13:00:04.000Z",
+          "wordCount": 3129,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Manage Work Orders in Field Service, Invoice Them in Business Central",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/power-platform-release-wave-1-2024",
+          "author": "Wilmer Alcivar",
+          "description": "Written by wilmeralcivar88@gmail.com It’s here, the release wave 1 2024 was announced. Every year Microsoft delights us twice with the wave of releases so here I come to share my […]",
+          "link": "https://365community.online/power-platform-release-wave-1-2024",
+          "publishedOn": "2024-02-02T12:49:16.000Z",
+          "wordCount": 3041,
+          "title": "Power Platform Release wave 1 2024",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/Power-Platform-Release-wave-1-2024.jpg?fit=1200%2C650&ssl=1"
+        },
+        {
+          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-manage-consignment-stock-at-a-customer-location",
+          "author": "Ian Grieve",
+          "description": "This post is part of the In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, […]",
+          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-inventory-and-warehouse-management-how-do-i-manage-consignment-stock-at-a-customer-location",
+          "publishedOn": "2024-02-02T11:00:59.000Z",
+          "wordCount": 3120,
+          "title": "In Microsoft Dynamics 365 Business Central (Inventory and Warehouse Management), how do I… Manage Consignment Stock at a Customer Location",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/improved-visualization-and-user-experience-of-organization-charts-within-dynamics-365",
+          "author": "Inogic",
+          "description": "Introduction: Managing your customer’s organizations by using organization charts can help you visualize their hierarchy and the relationships between their departments and roles. As a result, you can tailor your […]",
+          "link": "https://365community.online/improved-visualization-and-user-experience-of-organization-charts-within-dynamics-365",
+          "publishedOn": "2024-02-02T08:58:05.000Z",
+          "wordCount": 3326,
+          "title": "Improved visualization and user experience of Organization Charts within Dynamics 365",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1Organization-Charts-within-Dynamics-365.jpeg?fit=1200%2C567&ssl=1"
+        },
+        {
+          "id": "https://365community.online/mb-260-describe-support-for-enrichment",
+          "author": "Malin Martnes",
+          "description": "As we learned from the first post, enrichment is when you connect to other data sources to get more information about your customer data. It’s adding data to your existing […]",
+          "link": "https://365community.online/mb-260-describe-support-for-enrichment",
+          "publishedOn": "2024-02-02T08:00:00.000Z",
+          "wordCount": 3022,
+          "title": "MB 260: Describe support for enrichment",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/MB-260-Describe-support-for-enrichment.png?fit=1198%2C687&ssl=1"
+        },
+        {
+          "id": "https://365community.online/msdyn365bc-using-different-gl-accounts-for-payables-and-receivables",
+          "author": "Saurav Dhyani",
+          "description": "Hi Readers, In this article we will discuss about new feature to use different G/L Account for Payables and Receivables.  This video describes how to use this feature in business […]",
+          "link": "https://365community.online/msdyn365bc-using-different-gl-accounts-for-payables-and-receivables",
+          "publishedOn": "2024-02-02T05:30:00.000Z",
+          "wordCount": 2993,
+          "title": "#msdyn365bc – Using Different GL Accounts for Payables and Receivables.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/msdyn365bc-Using-Different-GL-Accounts-for-Payables-and-Receivables.jpeg?fit=480%2C360&ssl=1"
+        },
         {
           "id": "https://365community.online/handling-graph-api-pagination-in-power-platform-dataflows",
           "author": "Richard Wilson",
@@ -10307,6 +10437,16 @@
       "siteUrl": "http://daxonline.org/",
       "articles": [
         {
+          "id": "1939",
+          "author": "Vasyl Kovalenko",
+          "description": "Warning: \nThe view query has been overridden because of a conflict.\n\n\n\n\nOccurs when users navigate to a page where the corresponding menu item has a query defined for the page. In this case, if the default view also contains a query, the page loads using the default menu item query instead of the default view's query, and the user sees this warning message above.\n\n\nTo resolve this Microsoft created two additional extension points (development required):\nEnableSavedViewQueryPriority - this will use a query saved by the user\nOnFailureQueryPersonalizationApply - this gives the ability to merge the queries\n\nYou can catch this even by placing a break point to info.addActionMessageToInfoLog / insertActionMessage\nCall stack:\n\nEnableSavedViewQueryPriority\nThe method should be called on the form in…",
+          "link": "http://daxonline.org/1939-the-view-query-has-been-overridden-because-of-a-conflict-new-extension-points.html",
+          "publishedOn": "2024-02-02T09:38:34.000Z",
+          "wordCount": 521,
+          "title": "The view query has been overridden because of a conflict. New extension points.",
+          "imageUrl": null
+        },
+        {
           "id": "1934",
           "author": "Vasyl Kovalenko",
           "description": "Number sequence code V2\n  SELECT T1.allowchangedown                AS TOALOWERNUMBER,\n         T1.allowchangeup                  AS TOAHIGHERNUMBER,\n\n         T1.blocked                        AS STOPPED,\n\n         T1.cleanataccess                  AS CLEANUP,\n\n         T1.cleaninterval                  AS INTERVAL,\n\n         T1.continuous                     AS CONTINUOUS,\n\n         T1.cyclic                         AS CYCLICAL,\n\n         T1.fetchahead                     AS PREALLOCATION,\n\n         T1.fetchaheadqty                  AS QUANTITYOFNUMBERS,\n\n         T1.format                         AS FORMAT,\n\n         T1.highest                        AS LARGEST,\n\n         T1.inuse                          AS INUSE,\n\n         T1.latestcleandatetime            AS DATETIME,\n\n         T1.low…",
@@ -10433,6 +10573,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/02/01/microsoft-copilot-for-sales-and-copilot-for-service-are-now-generally-available/",
+          "author": "Emily He",
+          "description": "Microsoft is dedicated to helping organizations transform the way people work using secure, enterprise-grade AI capabilities, no matter which business applications teams depend on. Starting today, you can seamlessly integrate role-specific Copilot capabilities into Microsoft 365 applications and popular customer relationship management (CRM) and contact center systems for sales and customer service professionals.  \nThe post Microsoft Copilot for Sales and Copilot for Service are now generally available appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/02/01/microsoft-copilot-for-sales-and-copilot-for-service-are-now-generally-available/",
+          "publishedOn": "2024-02-01T16:00:00.000Z",
+          "wordCount": 3893,
+          "title": "Microsoft Copilot for Sales and Copilot for Service are now generally available",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/02/MSFT_Dynamics365_Jan_30_Blog_240130_V01_1200.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/01/30/support-parallel-working-with-multiple-sequences-in-dynamics-365-sales/",
           "author": "Akhilesh Shukla and Rik Roy Chowdhury",
@@ -11995,7 +12145,7 @@
     {
       "title": "Parag Chapre",
       "feedUrl": "https://paragchapre.com/feed/",
-      "siteUrl": "http://paragchapre.com/",
+      "siteUrl": "https://paragchapre.com/",
       "articles": [
         {
           "id": "http://paragchapre.com/?p=12363",
