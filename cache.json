@@ -4485,6 +4485,66 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/trigger-a-cloud-flow-when-css-webs-file-are-modified-in-power-pages-standard-data-model",
+          "author": "michelcarlo",
+          "description": "Sometimes when multiple developers work on the same Power Pages site using Power Platform CLI or changing WebFiles/WebTemplates via browser we might have update conflicts. One special case is when […]",
+          "link": "https://365community.online/trigger-a-cloud-flow-when-css-webs-file-are-modified-in-power-pages-standard-data-model",
+          "publishedOn": "2024-02-03T11:39:12.000Z",
+          "wordCount": 3217,
+          "title": "Trigger a Cloud Flow when CSS webs file are modified in Power Pages (Standard Data Model)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/WebFilesFlow.png?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/sql-query-on-matomo-database-to-calculate-the-number-of-visits-to-each-page",
+          "author": "Ian Grieve",
+          "description": "I’ve been using for just short of four years now and have been pretty happy with it. I generally consume the data it holds via the eweb portal, but I […]",
+          "link": "https://365community.online/sql-query-on-matomo-database-to-calculate-the-number-of-visits-to-each-page",
+          "publishedOn": "2024-02-03T11:00:09.000Z",
+          "wordCount": 3109,
+          "title": "SQL Query on Matomo Database to Calculate the Number of Visits to Each Page",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/what-is-planned-for-business-central-wave-1-2024-release",
+          "author": "Amol Salvi",
+          "description": "As we are gearing up for new release of business central and already the buzz is started for new version. Here listing few upcoming features which I am looking forward […]",
+          "link": "https://365community.online/what-is-planned-for-business-central-wave-1-2024-release",
+          "publishedOn": "2024-02-03T08:32:19.000Z",
+          "wordCount": 3071,
+          "title": "What is planned for Business Central Wave 1 2024 release",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1706950666_What-is-planned-for-Business-Central-Wave-1-2024-release.png?fit=780%2C440&ssl=1"
+        },
+        {
+          "id": "https://365community.online/function-overriding-in-c-c-tutorial-for-beginners-youtube",
+          "author": "Sourav Raj",
+          "description": "Function Overriding in C++ | C++ Tutorial for Beginners Today, we’re venturing into the dynamic world of Object-Oriented Programming (OOP) with a focus on a fundamental concept—Function Overriding in C++. […]",
+          "link": "https://365community.online/function-overriding-in-c-c-tutorial-for-beginners-youtube",
+          "publishedOn": "2024-02-03T07:47:08.000Z",
+          "wordCount": 3115,
+          "title": "Function Overriding in C++ | C++ Tutorial for Beginners – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1707004223_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-copilot-suggests-inogics-crm-apps-for-microsoft-dynamics-365",
+          "author": "Inogic",
+          "description": "‘Copilot’, ‘Microsoft Copilot’, ‘ChatGPT’, ‘OpenAI’ These have been the trending terms of an upcoming era and have been chanted incessantly for a year now, worldwide. Google Trends vividly denotes the […]",
+          "link": "https://365community.online/microsoft-copilot-suggests-inogics-crm-apps-for-microsoft-dynamics-365",
+          "publishedOn": "2024-02-03T06:26:00.000Z",
+          "wordCount": 3314,
+          "title": "Microsoft Copilot suggests Inogic’s CRM Apps for Microsoft Dynamics 365",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1Microsoft-Copilot-suggests-Inogics-CRM-Apps.png?fit=903%2C476&ssl=1"
+        },
+        {
+          "id": "https://365community.online/canadian-power-platform-summit-registration-is-now-open-youtube",
+          "author": "Victor Dantas",
+          "description": "We’ve introduced a $25 registration fee to ensure committed attendees, manage capacity, and reduce food waste. This balance makes the event accessible while ensuring a positive experience for all. Register […]",
+          "link": "https://365community.online/canadian-power-platform-summit-registration-is-now-open-youtube",
+          "publishedOn": "2024-02-02T17:43:43.000Z",
+          "wordCount": 2957,
+          "title": "Canadian Power Platform Summit registration is now open@ – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1706946096_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
           "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-use-virtual-tables-to-expose-more-business-central-data-in-dataverse",
           "author": "Ian Grieve",
           "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]",

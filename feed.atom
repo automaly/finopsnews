@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-02-03T00:37:58.738Z</updated>
+    <updated>2024-02-04T00:41:20.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Trigger a Cloud Flow when CSS webs file are modified in Power Pages (Standard Data Model)]]></title>
+        <id>https://365community.online/trigger-a-cloud-flow-when-css-webs-file-are-modified-in-power-pages-standard-data-model</id>
+        <link href="https://365community.online/trigger-a-cloud-flow-when-css-webs-file-are-modified-in-power-pages-standard-data-model"/>
+        <updated>2024-02-03T11:39:12.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes when multiple developers work on the same Power Pages site using Power Platform CLI or changing WebFiles/WebTemplates via browser we might have update conflicts. One special case is when […]]]></summary>
+        <author>
+            <name>michelcarlo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL Query on Matomo Database to Calculate the Number of Visits to Each Page]]></title>
+        <id>https://365community.online/sql-query-on-matomo-database-to-calculate-the-number-of-visits-to-each-page</id>
+        <link href="https://365community.online/sql-query-on-matomo-database-to-calculate-the-number-of-visits-to-each-page"/>
+        <updated>2024-02-03T11:00:09.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been using for just short of four years now and have been pretty happy with it. I generally consume the data it holds via the eweb portal, but I […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is planned for Business Central Wave 1 2024 release]]></title>
+        <id>https://365community.online/what-is-planned-for-business-central-wave-1-2024-release</id>
+        <link href="https://365community.online/what-is-planned-for-business-central-wave-1-2024-release"/>
+        <updated>2024-02-03T08:32:19.000Z</updated>
+        <summary type="html"><![CDATA[As we are gearing up for new release of business central and already the buzz is started for new version. Here listing few upcoming features which I am looking forward […]]]></summary>
+        <author>
+            <name>Amol Salvi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Function Overriding in C++ | C++ Tutorial for Beginners – YouTube]]></title>
+        <id>https://365community.online/function-overriding-in-c-c-tutorial-for-beginners-youtube</id>
+        <link href="https://365community.online/function-overriding-in-c-c-tutorial-for-beginners-youtube"/>
+        <updated>2024-02-03T07:47:08.000Z</updated>
+        <summary type="html"><![CDATA[Function Overriding in C++ | C++ Tutorial for Beginners Today, we’re venturing into the dynamic world of Object-Oriented Programming (OOP) with a focus on a fundamental concept—Function Overriding in C++. […]]]></summary>
+        <author>
+            <name>Sourav Raj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot suggests Inogic’s CRM Apps for Microsoft Dynamics 365]]></title>
+        <id>https://365community.online/microsoft-copilot-suggests-inogics-crm-apps-for-microsoft-dynamics-365</id>
+        <link href="https://365community.online/microsoft-copilot-suggests-inogics-crm-apps-for-microsoft-dynamics-365"/>
+        <updated>2024-02-03T06:26:00.000Z</updated>
+        <summary type="html"><![CDATA[‘Copilot’, ‘Microsoft Copilot’, ‘ChatGPT’, ‘OpenAI’ These have been the trending terms of an upcoming era and have been chanted incessantly for a year now, worldwide. Google Trends vividly denotes the […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Compare Cloud Scenarios: When Should I Move Dynamics GP to Azure versus Move to Dynamics 365 BC]]></title>
         <id>https://erpsoftwareblog.com/?p=103864</id>
@@ -46,6 +96,16 @@ Dynamics GP and Document Management Systems
 Avastone Technologies to Merge with Heartland Business Systems]]></summary>
         <author>
             <name>Mark Rockwell, Rockton Software</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canadian Power Platform Summit registration is now open@ – YouTube]]></title>
+        <id>https://365community.online/canadian-power-platform-summit-registration-is-now-open-youtube</id>
+        <link href="https://365community.online/canadian-power-platform-summit-registration-is-now-open-youtube"/>
+        <updated>2024-02-02T17:43:43.000Z</updated>
+        <summary type="html"><![CDATA[We’ve introduced a $25 registration fee to ensure committed attendees, manage capacity, and reduce food waste. This balance makes the event accessible while ensuring a positive experience for all. Register […]]]></summary>
+        <author>
+            <name>Victor Dantas</name>
         </author>
     </entry>
     <entry>
