@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-02-04T00:41:20.634Z</updated>
+    <updated>2024-02-05T00:39:08.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cloud service types]]></title>
+        <id>https://365community.online/cloud-service-types</id>
+        <link href="https://365community.online/cloud-service-types"/>
+        <updated>2024-02-04T21:40:25.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft learn has abundant resources to get introduced to basics or refresh our knowledge to keep ourselves updated. One topic I refreshed this week is ‘Cloud service types’ Key terms […]]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud service types]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=3398</id>
+        <link href="https://anithasantosh.wordpress.com/2024/02/04/cloud-service-types/"/>
+        <updated>2024-02-04T21:40:25.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft learn has abundant resources to get introduced to basics or refresh our knowledge to keep ourselves updated. One topic I refreshed this week is ‘Cloud service types’ Key terms : Referred to as the cloud service stack, with each … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Start here: Copilot]]></title>
+        <id>https://365community.online/start-here-copilot</id>
+        <link href="https://365community.online/start-here-copilot"/>
+        <updated>2024-02-04T15:20:36.000Z</updated>
+        <summary type="html"><![CDATA[Since the launch of Copilot, we’ve been increasingly listening to logic and nonsense. This post tries to bring light to what on earth Copilot is. As you are aware there […]]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating and removing N:N relationship between Dataverse records using JavaScript and Power Pages  Web API]]></title>
+        <id>https://365community.online/creating-and-removing-nn-relationship-between-dataverse-records-using-javascript-and-power-pages-web-api</id>
+        <link href="https://365community.online/creating-and-removing-nn-relationship-between-dataverse-records-using-javascript-and-power-pages-web-api"/>
+        <updated>2024-02-04T14:26:25.000Z</updated>
+        <summary type="html"><![CDATA[Managing Dataverse N:N relationships between records using the Power Pages Web API can be trickier as there are few samples around and the syntax differs a little bit from handling […]]]></summary>
+        <author>
+            <name>michelcarlo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dataverse Long Term Data Retention]]></title>
+        <id>https://365community.online/dataverse-long-term-data-retention</id>
+        <link href="https://365community.online/dataverse-long-term-data-retention"/>
+        <updated>2024-02-04T10:10:39.000Z</updated>
+        <summary type="html"><![CDATA[What is Dataverse Long Term Data Retention? Currently in Public Preview (Q1 2024), Dataverse Long Term Data Retention allows your organisation to archive data to long term storage. But what […]]]></summary>
+        <author>
+            <name>Saurav Dhyani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #23]]></title>
+        <id>http://dynamicsax-fico.com/?p=5492</id>
+        <link href="https://dynamicsax-fico.com/2024/02/04/microsoft-bizapps-deutschland-podcast-23/"/>
+        <updated>2024-02-04T07:09:21.000Z</updated>
+        <summary type="html"><![CDATA[In diesem Podcast sprechen wir mit Monika Timm und Juergen Zinner von der Firma Dorfner, die gerade dabei sind mit …
+Continue reading →]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trigger a Cloud Flow when CSS webs file are modified in Power Pages (Standard Data Model)]]></title>
         <id>https://365community.online/trigger-a-cloud-flow-when-css-webs-file-are-modified-in-power-pages-standard-data-model</id>
@@ -54,6 +115,16 @@
         <summary type="html"><![CDATA[‘Copilot’, ‘Microsoft Copilot’, ‘ChatGPT’, ‘OpenAI’ These have been the trending terms of an upcoming era and have been chanted incessantly for a year now, worldwide. Google Trends vividly denotes the […]]]></summary>
         <author>
             <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cheating nahi ye Coding hai😂 – YouTube]]></title>
+        <id>https://365community.online/cheating-nahi-ye-coding-hai%f0%9f%98%82-youtube</id>
+        <link href="https://365community.online/cheating-nahi-ye-coding-hai%f0%9f%98%82-youtube"/>
+        <updated>2024-02-03T03:28:25.000Z</updated>
+        <summary type="html"><![CDATA[Cheating nahi ye Coding hai😂 source]]></summary>
+        <author>
+            <name>Sourav Raj</name>
         </author>
     </entry>
     <entry>

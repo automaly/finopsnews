@@ -4485,6 +4485,46 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/cloud-service-types",
+          "author": "Anitha Santosh",
+          "description": "Microsoft learn has abundant resources to get introduced to basics or refresh our knowledge to keep ourselves updated. One topic I refreshed this week is ‘Cloud service types’ Key terms […]",
+          "link": "https://365community.online/cloud-service-types",
+          "publishedOn": "2024-02-04T21:40:25.000Z",
+          "wordCount": 3028,
+          "title": "Cloud service types",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/Cloud-service-types.png?fit=1041%2C614&ssl=1"
+        },
+        {
+          "id": "https://365community.online/start-here-copilot",
+          "author": "Ana Inés Urrutia",
+          "description": "Since the launch of Copilot, we’ve been increasingly listening to logic and nonsense. This post tries to bring light to what on earth Copilot is. As you are aware there […]",
+          "link": "https://365community.online/start-here-copilot",
+          "publishedOn": "2024-02-04T15:20:36.000Z",
+          "wordCount": 3016,
+          "title": "Start here: Copilot",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/Start-here-Copilot.png?fit=1000%2C563&ssl=1"
+        },
+        {
+          "id": "https://365community.online/creating-and-removing-nn-relationship-between-dataverse-records-using-javascript-and-power-pages-web-api",
+          "author": "michelcarlo",
+          "description": "Managing Dataverse N:N relationships between records using the Power Pages Web API can be trickier as there are few samples around and the syntax differs a little bit from handling […]",
+          "link": "https://365community.online/creating-and-removing-nn-relationship-between-dataverse-records-using-javascript-and-power-pages-web-api",
+          "publishedOn": "2024-02-04T14:26:25.000Z",
+          "wordCount": 3220,
+          "title": "Creating and removing N:N relationship between Dataverse records using JavaScript and Power Pages  Web API",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/AssociateDisassociate.png?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/dataverse-long-term-data-retention",
+          "author": "Saurav Dhyani",
+          "description": "What is Dataverse Long Term Data Retention? Currently in Public Preview (Q1 2024), Dataverse Long Term Data Retention allows your organisation to archive data to long term storage. But what […]",
+          "link": "https://365community.online/dataverse-long-term-data-retention",
+          "publishedOn": "2024-02-04T10:10:39.000Z",
+          "wordCount": 3014,
+          "title": "Dataverse Long Term Data Retention",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/Dataverse-Long-Term-Data-Retention.jpeg?fit=1200%2C628&ssl=1"
+        },
+        {
           "id": "https://365community.online/trigger-a-cloud-flow-when-css-webs-file-are-modified-in-power-pages-standard-data-model",
           "author": "michelcarlo",
           "description": "Sometimes when multiple developers work on the same Power Pages site using Power Platform CLI or changing WebFiles/WebTemplates via browser we might have update conflicts. One special case is when […]",
@@ -4533,6 +4573,16 @@
           "wordCount": 3314,
           "title": "Microsoft Copilot suggests Inogic’s CRM Apps for Microsoft Dynamics 365",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1Microsoft-Copilot-suggests-Inogics-CRM-Apps.png?fit=903%2C476&ssl=1"
+        },
+        {
+          "id": "https://365community.online/cheating-nahi-ye-coding-hai%f0%9f%98%82-youtube",
+          "author": "Sourav Raj",
+          "description": "Cheating nahi ye Coding hai😂 source",
+          "link": "https://365community.online/cheating-nahi-ye-coding-hai%f0%9f%98%82-youtube",
+          "publishedOn": "2024-02-03T03:28:25.000Z",
+          "wordCount": 2909,
+          "title": "Cheating nahi ye Coding hai😂 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1707020056_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         },
         {
           "id": "https://365community.online/canadian-power-platform-summit-registration-is-now-open-youtube",
@@ -8858,6 +8908,21 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=5492",
+          "author": "Ludwig Reinhard",
+          "description": "In diesem Podcast sprechen wir mit Monika Timm und Juergen Zinner von der Firma Dorfner, die gerade dabei sind mit …\nContinue reading →",
+          "link": "https://dynamicsax-fico.com/2024/02/04/microsoft-bizapps-deutschland-podcast-23/",
+          "publishedOn": "2024-02-04T07:09:21.000Z",
+          "wordCount": 3446,
+          "title": "Microsoft BizApps Deutschland Podcast #23",
+          "enclosure": {
+            "url": "https://dynamicsaxfico.files.wordpress.com/2023/11/2023-11-09_dorfnerpodcast_v3.mp3",
+            "length": "27386033",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/11/collagev3.jpg"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=5777",
           "author": "Ludwig Reinhard",
           "description": "Visit the post for more.",
@@ -9811,6 +9876,16 @@
       "feedUrl": "https://anithasantosh.wordpress.com/feed/",
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=3398",
+          "author": "AnithaEswaran",
+          "description": "Microsoft learn has abundant resources to get introduced to basics or refresh our knowledge to keep ourselves updated. One topic I refreshed this week is ‘Cloud service types’ Key terms : Referred to as the cloud service stack, with each … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2024/02/04/cloud-service-types/",
+          "publishedOn": "2024-02-04T21:40:25.000Z",
+          "wordCount": 4306,
+          "title": "Cloud service types",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2024/02/image-3.png"
+        },
         {
           "id": "http://anithasantosh.wordpress.com/?p=3348",
           "author": "AnithaEswaran",
