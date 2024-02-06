@@ -1351,6 +1351,36 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=103902",
+          "author": "The TM Group, Inc.",
+          "description": "Elevating Family Office Efficiency with Microsoft Dynamics 365 Business Central Discover how a well-established single-family office transformed its operations with Microsoft Dynamics 365 Business Central. Facing challenges with their outdated […]\nThe post Revolutionize Your Family Office Efficiency: The Microsoft Dynamics 365 Business Central Solution appeared first on ERP Software Blog.\nUnified or Enterprise eCommerce Solution ; What’s your pick?\nImportance of advanced quality management in Pharmaceutical Manufacturing\nWhy small firms should consider Microsoft Dynamics 365 Business Central",
+          "link": "https://erpsoftwareblog.com/2024/02/revolutionize-your-family-office-efficiency-the-microsoft-dynamics-365-business-central-solution/",
+          "publishedOn": "2024-02-05T19:04:39.000Z",
+          "wordCount": 7150,
+          "title": "Revolutionize Your Family Office Efficiency: The Microsoft Dynamics 365 Business Central Solution",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/FOO.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=103880",
+          "author": "Vyas Consulting",
+          "description": "Boost profits and streamline Vendor cost recovery for long-term success Industry […]\nThe post Simplifying Special Pricing & Chargeback for Wholesale Distributors appeared first on ERP Software Blog.\nThe Product-as-a-Service advantage — a potential game-changer for equipment manufacturers\nIntegrated Planning with deFacto Power Planning - Webinar\nJoin Us At Dynamic Communities Summit - Booth 800",
+          "link": "https://erpsoftwareblog.com/2024/02/wholesale-distributors-pricing/",
+          "publishedOn": "2024-02-05T15:25:44.000Z",
+          "wordCount": 7527,
+          "title": "Simplifying Special Pricing & Chargeback for Wholesale Distributors",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/solutionpics.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=103552",
+          "author": "Insight Works",
+          "description": "Insight Works announces the upcoming release of Counter Sales version 2.5, the latest upgrade to its innovative point-of-sale solution designed specifically for Dynamics 365 Business Central. Set to launch in late Q1 2024, this update marks a significant enhancement in the app's capabilities, primarily through credit card processing integration.\nThe post Process Credit Card Payments in Dynamics 365 Business Central with Counter Sales v2.5 appeared first on ERP Software Blog.\nQuality Control in Inventory and Manufacturing Using Dynamics 365 Business Central\nCycle Counting vs. Full Physical Counts: A Comprehensive Inventory Insight\nFrom GP to Business Central: Elevate Shipping Processes",
+          "link": "https://erpsoftwareblog.com/2024/02/process-credit-card-payments-in-dynamics-365-business-central-with-counter-sales-v2-5/",
+          "publishedOn": "2024-02-05T13:18:50.000Z",
+          "wordCount": 7354,
+          "title": "Process Credit Card Payments in Dynamics 365 Business Central with Counter Sales v2.5",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Counter-Sales-250-1.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=103864",
           "author": "Dexpro Dynamics",
           "description": "Business software has moved to the cloud. Clients often tell me they own Dynamics GP, but their IT department doesn’t want to maintain on-premise servers anymore. So the question is, […]\nThe post Compare Cloud Scenarios: When Should I Move Dynamics GP to Azure versus Move to Dynamics 365 BC appeared first on ERP Software Blog.\nHow Dynamics 365 can boost your Sales Cycle?\nBetter Together - Explore the Microsoft Intelligent Edge with Dynamics GP 2018R2 and Business Central!\nThe Quickest and Easiest way to Create Custom Warehouse Apps without any Programming",
@@ -4484,6 +4514,111 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/do-you-have-multiple-developers-working-on-1-flow-in-power-automate",
+          "author": "Pieter Veenstra",
+          "description": "This post is all about some issues that I ran into yesterday. Multiple developers worked on one flow in Power Automate and my app in Power Apps broke. When apps […]",
+          "link": "https://365community.online/do-you-have-multiple-developers-working-on-1-flow-in-power-automate",
+          "publishedOn": "2024-02-06T00:07:14.000Z",
+          "wordCount": 3054,
+          "title": "Do you have multiple developers working on 1 flow in Power Automate?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/process-ai-builder-data-using-xpath-in-power-automate",
+          "author": "Pieter Veenstra",
+          "description": "Today I was asked to have a look at the dynamic data that is generated by AI builder and make it easier to process AI Builder data. AI Builder data […]",
+          "link": "https://365community.online/process-ai-builder-data-using-xpath-in-power-automate",
+          "publishedOn": "2024-02-05T19:39:29.000Z",
+          "wordCount": 3040,
+          "title": "Process AI Builder data using xpath in Power Automate",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/invalidprotocolresponse-logic-apps",
+          "author": "Anitha Santosh",
+          "description": "I was trying to configure composite entity for D365F&O using logic apps and faced the below error.  The response to partial content upload initiating request is not valid. The response […]",
+          "link": "https://365community.online/invalidprotocolresponse-logic-apps",
+          "publishedOn": "2024-02-05T19:00:57.000Z",
+          "wordCount": 3030,
+          "title": "InvalidProtocolResponse – Logic apps",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1707163102_InvalidProtocolResponse-–-Logic-apps.png?fit=543%2C763&ssl=1"
+        },
+        {
+          "id": "https://365community.online/excel-filter-query-in-list-rows-present-in-a-table-action-in-power-automate-2",
+          "author": "Pieter Veenstra",
+          "description": "Filter queries are important when you work with SharePoint Get Items actions or Dataverse Get Rows, but how about the Excel Filter Query setting? Get rows present in a Table […]",
+          "link": "https://365community.online/excel-filter-query-in-list-rows-present-in-a-table-action-in-power-automate-2",
+          "publishedOn": "2024-02-05T15:14:33.000Z",
+          "wordCount": 3057,
+          "title": "Excel Filter Query in List Rows Present in a Table Action in Power Automate",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/fixed-invalid-type-expected-integer-but-got-number-power-automate",
+          "author": "Nishant Rana",
+          "description": "In one of our Cloud Flows, for Parse JSON action, we got the below error – ValidationFailed. The schema validation Failed. “Invalid type. Expected Integer but got Number” The generated […]",
+          "link": "https://365community.online/fixed-invalid-type-expected-integer-but-got-number-power-automate",
+          "publishedOn": "2024-02-05T13:30:00.000Z",
+          "wordCount": 3068,
+          "title": "Fixed  – Invalid type. Expected Integer but got Number (Power Automate)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/Fixed-–-Invalid-type-Expected-Integer-but-got-Number-Power.jpeg?fit=867%2C587&ssl=1"
+        },
+        {
+          "id": "https://365community.online/beyond-the-screen-with-microsofts-guides-app-and-the-evolution-of-workplace-training-christian-segurado",
+          "author": "NZ365Guy",
+          "description": "FULL SHOW NOTES https://podcast.nz365guy.com/523  Discover how the virtual world is transforming our reality with Christian Segurado, a system integration manager from Microsoft who joins us from the bustling city of […]",
+          "link": "https://365community.online/beyond-the-screen-with-microsofts-guides-app-and-the-evolution-of-workplace-training-christian-segurado",
+          "publishedOn": "2024-02-05T13:00:00.000Z",
+          "wordCount": 3088,
+          "title": "Beyond the Screen with Microsoft's Guides App and the Evolution of Workplace Training – Christian Segurado",
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/1796418/14366501-beyond-the-screen-with-microsoft-s-guides-app-and-the-evolution-of-workplace-training-christian-segurado.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/excel-filter-query-in-list-rows-present-in-a-table-action-in-power-automate",
+          "author": "Pieter Veenstra",
+          "description": "Understanding Filter Query settings in Power Automate actions is important when you work with SharePoint Get Items actions or Dataverse Get Rows, but how about the Excel Filter Query setting? […]",
+          "link": "https://365community.online/excel-filter-query-in-list-rows-present-in-a-table-action-in-power-automate",
+          "publishedOn": "2024-02-05T11:07:27.000Z",
+          "wordCount": 3057,
+          "title": "Excel Filter Query in List Rows Present in a Table Action in Power Automate",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-16-topic-7-part-2-youtube",
+          "author": "shabaz darr",
+          "description": "Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]",
+          "link": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-16-topic-7-part-2-youtube",
+          "publishedOn": "2024-02-05T10:00:34.000Z",
+          "wordCount": 3126,
+          "title": "AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Episode 16 – Topic 7: Part 2 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1707161224_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/automate-solution-deployments-with-approvals-using-power-platform-pipelines",
+          "author": "Inogic",
+          "description": "In the dynamic landscape of technology, organizations are constantly seeking efficient ways to deploy solutions seamlessly. Power Platform Pipelines emerge as a powerful tool to automate solution deployments, providing a […]",
+          "link": "https://365community.online/automate-solution-deployments-with-approvals-using-power-platform-pipelines",
+          "publishedOn": "2024-02-05T09:12:09.000Z",
+          "wordCount": 3290,
+          "title": "Automate Solution Deployments with approvals using Power Platform Pipelines",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1Power-Platform-Pipelines.jpeg?fit=1200%2C629&ssl=1"
+        },
+        {
+          "id": "https://365community.online/simplify-navigation-share-readable-deep-links-in-msdyn365bc-to-pages-and-records",
+          "author": "Saurav Dhyani",
+          "description": "Hi Readers, With Business Central #msdyn365bc, sharing links is getting better day by day. With latest release links are shared with a great and meaningful text, as discussed in below […]",
+          "link": "https://365community.online/simplify-navigation-share-readable-deep-links-in-msdyn365bc-to-pages-and-records",
+          "publishedOn": "2024-02-05T04:30:00.000Z",
+          "wordCount": 3007,
+          "title": "Simplify Navigation: Share Readable Deep Links in #msdyn365bc to Pages and Records.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
         {
           "id": "https://365community.online/cloud-service-types",
           "author": "Anitha Santosh",
@@ -9877,6 +10012,16 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=3403",
+          "author": "AnithaEswaran",
+          "description": "I was trying to configure composite entity for D365F&O using logic apps and faced the below error.  The response to partial content upload initiating request is not valid. The response to initiating partial content upload request must contain a valid … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2024/02/05/invalidprotocolresponse-logic-apps/",
+          "publishedOn": "2024-02-05T19:00:57.000Z",
+          "wordCount": 4266,
+          "title": "InvalidProtocolResponse – Logic apps",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2024/02/image-5.png"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=3398",
           "author": "AnithaEswaran",
           "description": "Microsoft learn has abundant resources to get introduced to basics or refresh our knowledge to keep ourselves updated. One topic I refreshed this week is ‘Cloud service types’ Key terms : Referred to as the cloud service stack, with each … Continue reading →",
@@ -13206,6 +13351,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "january-2024-updates-for-modernization-and-theming-in-power-apps",
+          "author": null,
+          "description": "na",
+          "link": "https://powerapps.microsoft.com/en-us/blog/january-2024-updates-for-modernization-and-theming-in-power-apps/",
+          "publishedOn": "2024-02-05T10:19:07.000Z",
+          "wordCount": 2103,
+          "title": "January 2024 updates for modernization and theming in Power Apps",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "general-availability-of-secure-implicit-connections",
           "author": null,
