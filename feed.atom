@@ -2,10 +2,144 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-02-07T00:36:34.159Z</updated>
+    <updated>2024-02-08T00:37:30.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[When you understand that you can create anything using JavaScript – YouTube]]></title>
+        <id>https://365community.online/when-you-understand-that-you-can-create-anything-using-javascript-youtube</id>
+        <link href="https://365community.online/when-you-understand-that-you-can-create-anything-using-javascript-youtube"/>
+        <updated>2024-02-07T16:55:37.000Z</updated>
+        <summary type="html"><![CDATA[When you understand that you can create anything using JavaScript source]]></summary>
+        <author>
+            <name>Sourav Raj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[REST APIs and the importance of Versioning.]]></title>
+        <id>https://365community.online/rest-apis-and-the-importance-of-versioning</id>
+        <link href="https://365community.online/rest-apis-and-the-importance-of-versioning"/>
+        <updated>2024-02-07T16:40:08.000Z</updated>
+        <summary type="html"><![CDATA[A REST API (also known as RESTful API) is an application programming interface that conforms to the constraints of REST architecture and it’s one of the main building block for integration between applicartions […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use the theme assistant Copilot to style emails (Dynamics 365 Customer Insights – Journey / Marketing)]]></title>
+        <id>https://365community.online/use-the-theme-assistant-copilot-to-style-emails-dynamics-365-customer-insights-journey-marketing</id>
+        <link href="https://365community.online/use-the-theme-assistant-copilot-to-style-emails-dynamics-365-customer-insights-journey-marketing"/>
+        <updated>2024-02-07T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Using Copilot’s theme assistant we can fetch the styles from a website and apply it to our email. Microsoft strongly recommends using Theme Assistant only on websites owned and not […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Charting a Unique Course in Tech: Fernando Tudela’s Insightful Dive into Freelance Consulting]]></title>
+        <id>https://365community.online/charting-a-unique-course-in-tech-fernando-tudelas-insightful-dive-into-freelance-consulting</id>
+        <link href="https://365community.online/charting-a-unique-course-in-tech-fernando-tudelas-insightful-dive-into-freelance-consulting"/>
+        <updated>2024-02-07T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FULL SHOW NOTES https://podcast.nz365guy.com/524 Have you ever wondered if the road less travelled leads to unexpected success? Fernando Tudela, Spain's premier D365 FNO expert and senior technical consultant with Aluma […]]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saviynt Training | Saviynt Tutorial For Beginners | IAM Saviynt Course Demo | MindMajix – YouTube]]></title>
+        <id>https://365community.online/saviynt-training-saviynt-tutorial-for-beginners-iam-saviynt-course-demo-mindmajix-youtube</id>
+        <link href="https://365community.online/saviynt-training-saviynt-tutorial-for-beginners-iam-saviynt-course-demo-mindmajix-youtube"/>
+        <updated>2024-02-07T12:00:28.000Z</updated>
+        <summary type="html"><![CDATA[This MindMajix’s YouTube video on Saviynt tutorial dives deep into all the fundamentals of Saviynt and its products with practical examples. This MindMajix’s Saviynt course include topics like Saviynt basis, […]]]></summary>
+        <author>
+            <name>Jaya Sri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live Webinar – First Look of New SMS Integration for Dynamics 365 CRM with TextSMS4Dynamics!]]></title>
+        <id>https://365community.online/live-webinar-first-look-of-new-sms-integration-for-dynamics-365-crm-with-textsms4dynamics</id>
+        <link href="https://365community.online/live-webinar-first-look-of-new-sms-integration-for-dynamics-365-crm-with-textsms4dynamics"/>
+        <updated>2024-02-07T11:26:46.000Z</updated>
+        <summary type="html"><![CDATA[Effective communication is the cornerstone of success in today’s dynamic business landscape. For businesses utilizing Microsoft Dynamics 365 CRM, integrating SMS messaging will be a game-changer, redefining sales, customer support, […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Episode 17 – Topic 8: Part 1 – YouTube]]></title>
+        <id>https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-17-topic-8-part-1-youtube</id>
+        <link href="https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-17-topic-8-part-1-youtube"/>
+        <updated>2024-02-07T10:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saviynt Training | Saviynt Certification Course | Saviynt Tutorial | IAM Saviynt Demo | MindMajix – YouTube]]></title>
+        <id>https://365community.online/saviynt-training-saviynt-certification-course-saviynt-tutorial-iam-saviynt-demo-mindmajix-youtube</id>
+        <link href="https://365community.online/saviynt-training-saviynt-certification-course-saviynt-tutorial-iam-saviynt-demo-mindmajix-youtube"/>
+        <updated>2024-02-07T09:00:04.000Z</updated>
+        <summary type="html"><![CDATA[This MindMajix’s YouTube video on Saviynt training dives deep into all the fundamentals of Saviynt and its products with practical examples. This MindMajix’s Saviynt course include topics like Saviynt basis, […]]]></summary>
+        <author>
+            <name>Jaya Sri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Proven Ways to Boost Dynamics 365/PowerApps Adoption in the Housing Sector]]></title>
+        <id>https://365community.online/6-proven-ways-to-boost-dynamics-365-powerapps-adoption-in-the-housing-sector</id>
+        <link href="https://365community.online/6-proven-ways-to-boost-dynamics-365-powerapps-adoption-in-the-housing-sector"/>
+        <updated>2024-02-07T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[User adoption is a critical factor in the success of Customer Relationship Management (CRM) systems. However, research has shown that CRM implementations have consistently high failure rates, ranging from 30% to […]]]></summary>
+        <author>
+            <name>Chris Roberts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Power Platform Global AI #HackTogether inspired AI-powered solutions for real-world use cases]]></title>
+        <id>how-power-platform-global-ai-hacktogether-inspired-ai-powered-solutions-for-real-world-use-cases</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/how-power-platform-global-ai-hacktogether-inspired-ai-powered-solutions-for-real-world-use-cases/"/>
+        <updated>2024-02-07T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In September 2023, participants from around the world built solutions for the Power Platform Global AI #HackTogether using AI technologies together with Power Platform. The hundreds of solutions developed for real-world use cases were innovative and impactful. We summarize some of the solutions by use cases to inspire you in building your next AI-powered solution with Power Platform.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MSM: A first look at the ESG value chain solution]]></title>
+        <id>http://dynamicsax-fico.com/?p=5546</id>
+        <link href="https://dynamicsax-fico.com/2024/02/07/msm-a-first-look-at-the-esg-value-chain-solution/"/>
+        <updated>2024-02-07T07:09:03.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Studio – Hide Fields in Adaptive Cards]]></title>
+        <id>https://365community.online/copilot-studio-hide-fields-in-adaptive-cards</id>
+        <link href="https://365community.online/copilot-studio-hide-fields-in-adaptive-cards"/>
+        <updated>2024-02-07T07:01:59.000Z</updated>
+        <summary type="html"><![CDATA[I have recently been experimenting with adaptive cards within my Copilot Studio BOTS. (Previously known as Power Virtual Agents!) In this post I will explore how we can hide (and […]]]></summary>
+        <author>
+            <name>Neil Parkhurst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Prepare for Your Exit or Acquisition in 2024]]></title>
+        <id>https://erpsoftwareblog.com/?p=103498</id>
+        <link href="https://erpsoftwareblog.com/2024/02/how-to-prepare-for-your-exit-or-acquisition-in-2024/"/>
+        <updated>2024-02-07T01:35:35.000Z</updated>
+        <summary type="html"><![CDATA[Is selling or acquiring a company in your plans for 2024? The exit and acquisition process involves intensive financial planning and reporting. Assembling 3-5 years of historical financial statements, projections, […]
+The post How to Prepare for Your Exit or Acquisition in 2024 appeared first on ERP Software Blog.
+Ariett Showcases New Dashboards and BI Reporting at GP User Group Summit
+Accountants No Longer Just Keep the Books
+Financial Reporting Options for Microsoft Dynamics NAV]]></summary>
+        <author>
+            <name>Solver Inc.</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PPDevWeekly 200th Newsletter Post – Interview & Celebration – YouTube]]></title>
         <id>https://365community.online/ppdevweekly-200th-newsletter-post-interview-celebration-youtube</id>
@@ -289,6 +423,28 @@ Why small firms should consider Microsoft Dynamics 365 Business Central]]></summ
         <summary type="html"><![CDATA[I was trying to configure composite entity for D365F&O using logic apps and faced the below error.  The response to partial content upload initiating request is not valid. The response to initiating partial content upload request must contain a valid … Continue reading →]]></summary>
         <author>
             <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhanced focused view in Dynamics 365 Sales helps optimize task execution!]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2024/02/05/enhanced-focused-view-in-dynamics-365-sales-helps-optimize-task-execution/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2024/02/05/enhanced-focused-view-in-dynamics-365-sales-helps-optimize-task-execution/"/>
+        <updated>2024-02-05T18:05:00.000Z</updated>
+        <summary type="html"><![CDATA[In the fast-paced world of sales, sellers are now expected to be adept multitaskers.
+The post Enhanced focused view in Dynamics 365 Sales helps optimize task execution! appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Rik Roy Chowdhury</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forrester study finds 346% ROI when modernizing service operations with Dynamics 365 Field Service]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2024/02/05/forrester-study-finds-346-roi-when-modernizing-service-operations-with-dynamics-365-field-service/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2024/02/05/forrester-study-finds-346-roi-when-modernizing-service-operations-with-dynamics-365-field-service/"/>
+        <updated>2024-02-05T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[According to our Forrester Consulting study, software that helps organizations improve field service delivery can improve financial performance in two ways: by helping improve customer retention and expansion by exceeding service expectations, and by increasing productivity. We are pleased to share the results of a December 2023 Forrester Consulting Total Economic ImpactTM (TEI) Study commissioned by Microsoft.
+The post Forrester study finds 346% ROI when modernizing service operations with Dynamics 365 Field Service  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Safiyyah O’Quinn</name>
         </author>
     </entry>
     <entry>
@@ -20904,16 +21060,6 @@ Check this article for more complicated scenario https://alexvoy.blogspot.com/2
         <summary type="html"><![CDATA[If you are using the purchase requisition or purchase order approval workflow and routing the workflow to approvers based on the department financial dimension you may come across the error]]></summary>
         <author>
             <name>Tim Woods</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Derived Test Cases in RSAT]]></title>
-        <id>http://henrikmarxlarsen.wordpress.com/?p=2714</id>
-        <link href="https://henrikmarxlarsen.wordpress.com/2022/02/08/using-derived-test-cases-in-rsat/"/>
-        <updated>2022-02-08T07:20:28.000Z</updated>
-        <summary type="html"><![CDATA[The derived test case in RSAT is a highly effective way to increase test coverage and avoid unitentional behaviour.]]></summary>
-        <author>
-            <name>Henrik Marx Larsen</name>
         </author>
     </entry>
 </feed>
