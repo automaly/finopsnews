@@ -4745,6 +4745,56 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/ms-learn-fabric-analytics-engineer-challenge-part-2",
+          "author": "Jen Kuntz",
+          "description": "In this post, I am covering module 3 of the Microsoft Learn challenge. Previous posts in the series Part 1 (Introduction, Lakehouses) Microsoft Learn Module 2 Use Apache Spark in […]",
+          "link": "https://365community.online/ms-learn-fabric-analytics-engineer-challenge-part-2",
+          "publishedOn": "2024-02-11T21:15:10.000Z",
+          "wordCount": 3018,
+          "title": "MS Learn Fabric Analytics Engineer Challenge Part 2",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/MS-Learn-Fabric-Analytics-Engineer-Challenge-Part-2.png?fit=1200%2C899&ssl=1"
+        },
+        {
+          "id": "https://365community.online/ms-learn-fabric-analytics-engineer-challenge-part-1",
+          "author": "Jen Kuntz",
+          "description": "As I wrote in my introductory post a couple of days ago (which can be found here), this is the start of a short series following my journey through the […]",
+          "link": "https://365community.online/ms-learn-fabric-analytics-engineer-challenge-part-1",
+          "publishedOn": "2024-02-11T16:51:39.000Z",
+          "wordCount": 3075,
+          "title": "MS Learn Fabric Analytics Engineer Challenge Part 1",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1707676359_MS-Learn-Fabric-Analytics-Engineer-Challenge-Part-1.png?fit=1200%2C899&ssl=1"
+        },
+        {
+          "id": "https://365community.online/more-work-%e2%9e%a1%ef%b8%8f-more-features",
+          "author": "Jonas Rapp ᴹᴠᴾ ??",
+          "description": "During the last few months, I’ve been working more than ever (well, most after my little stroke issue three years ago), and more work apparently creates more needs, more features, […]",
+          "link": "https://365community.online/more-work-%e2%9e%a1%ef%b8%8f-more-features",
+          "publishedOn": "2024-02-11T16:37:35.000Z",
+          "wordCount": 3049,
+          "title": "More work ➡️ More features",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/More-work-More-features.png?fit=818%2C554&ssl=1"
+        },
+        {
+          "id": "https://365community.online/dynamics-365-ce-release-wave-1-2024",
+          "author": "Wilmer Alcivar",
+          "description": "Written by wilmeralcivar88@gmail.com It’s here, the release wave 1 2024 was announced. Every year Microsoft delights us twice with the wave of releases so here I come to share my […]",
+          "link": "https://365community.online/dynamics-365-ce-release-wave-1-2024",
+          "publishedOn": "2024-02-11T14:23:19.000Z",
+          "wordCount": 3044,
+          "title": "Dynamics 365 CE Release wave 1 2024",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/Dynamics-365-CE-Release-wave-1-2024.png?fit=1100%2C619&ssl=1"
+        },
+        {
+          "id": "https://365community.online/power-automate-send-email-from-sharepoint-rest-api",
+          "author": "Angelo Gulisano",
+          "description": "Hello, today I want to share with you a method to send emails with Power Automate by using a REST API available in SharePoint. There is a method called “sendMail” […]",
+          "link": "https://365community.online/power-automate-send-email-from-sharepoint-rest-api",
+          "publishedOn": "2024-02-11T11:10:30.000Z",
+          "wordCount": 3021,
+          "title": "Power Automate – Send email from SharePoint Rest Api",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/Power-Automate-–-Send-email-from-SharePoint-Rest-Api.png?fit=1080%2C566&ssl=1"
+        },
+        {
           "id": "https://365community.online/shape-the-future-of-maplytics-add-your-reviews-on-microsoft-appsource-or-g2-com",
           "author": "Inogic",
           "description": "Over the years, Maplytics has basked in the warm glow of incredible client reviews. These weren’t just pats on the back, but powerful testaments to our efficiency and top-notch service. […]",
@@ -9900,6 +9950,16 @@
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
         {
+          "id": "https://dynamicspedia.com/?p=19000",
+          "author": "André Arnaud de Calavon",
+          "description": "Recently, I discovered two new security roles in the application that seem to have a relation with eXtensible Data Security (XDS). Anything related to security and for that reason also XDS intrigues me. In this post, you will read about the two new security roles and how they can be useful, or not… XDS roles […]\nThe post What is the purpose of the two new XDS security roles? appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2024/02/what-is-the-purpose-of-the-two-new-xds-security-roles/",
+          "publishedOn": "2024-02-11T11:03:32.000Z",
+          "wordCount": 4315,
+          "title": "What is the purpose of the two new XDS security roles?",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2024/02/XDSbypass-1200.jpg"
+        },
+        {
           "id": "https://dynamicspedia.com/?p=18992",
           "author": "André Arnaud de Calavon",
           "description": "Today, Microsoft released the new plans for 2024 release wave 1. These plans will tell you about the short-term investments to be released by Microsoft for Dynamics 365 and the Power Platform. Microsoft is releasing these plans twice a year to indicate what they are working on. In this post, you will find the links […]\nThe post Dynamics 365 & Power Platform – 2024 release wave 1 plans appeared first on Dynamicspedia.",
@@ -12821,16 +12881,6 @@
           "wordCount": 3364,
           "title": "How to populate custom fields in GeneralJournalAccountEntry from LedgerJournalTrans for Ledger, Customer, Vendor, and Bank account type",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEj0blC1mcbJhqXB5yaF2gwFCUidqaHU2j5tzT_5N0atHhFvos5WXnRgT_segukIQJXlbMtuCYFAJwHaBCU42_2WeFqDuEiQBzQcPe8vwt3nwU-zZMwfRCYOb8W107ZmWwT-ZfS2oJse3DdvTv-pL4eGAYxoqLZO7uF4heCd9-35FkJ5YO51K2vSTZML=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://alexvoy.blogspot.com/2022/02/additional-parameters-in-runbasebatch.html",
-          "author": null,
-          "description": "Old good pack/unpack patterns with SysPackExtension call. Say, we need to augment RunBaseBatch based class <ClassName>.\n\n\n\n\n/// <summary>\n/// We are going to use a new additional parameter\n/// </summary>\n[ExtensionOf(classStr(<ClassName>))]\npublic final class My<ClassName>_Extension\n{\n    private boolean     myNewParm;   \n    #define.CurrentVersion(1)\n    #localmacro.CurrentList\n        myNewParm\n    #endmacro\n\n    \n    /// <summary>\n    /// myNewParm access\n    /// </summary>\n    /// <param name = \"_parm\">boolean</param>\n    /// <returns>boolean</returns>\n    public boolean parmMyNewParm(boolean _parm = myNewParm)\n    {\n        myNewParm= _parm;\n        return myNewParm;\n    }\n\n    /// <summary>\n    /// Extends Pack\n    /// </summary>\n    /// <returns>container</returns>\n    public contai…",
-          "link": "https://alexvoy.blogspot.com/2022/02/additional-parameters-in-runbasebatch.html",
-          "publishedOn": "2022-02-11T16:49:00.002Z",
-          "wordCount": 2175,
-          "title": "Additional parameters in RunBaseBatch class extension",
-          "imageUrl": null
         }
       ]
     },
@@ -13770,16 +13820,6 @@
           "wordCount": 4541,
           "title": "Default Order Settings: D365 Finance and Operations",
           "imageUrl": "https://dynamics-tips.com/wp-content/uploads/2022/02/defaultordersetting.jpg"
-        },
-        {
-          "id": "https://dynamics-tips.com/?p=2221",
-          "author": "Tim Woods",
-          "description": "In most organizations customer and vendor setup is a task handled by the Accounting or the Supply Chain team and in some cases both with each responsible for specific setups.",
-          "link": "https://dynamics-tips.com/customer-and-vendor-proposed-change-approvals/",
-          "publishedOn": "2022-02-11T21:36:36.000Z",
-          "wordCount": 2911,
-          "title": "Customer and Vendor Proposed Change Approvals: D365 Finance and Operations",
-          "imageUrl": "https://dynamics-tips.com/wp-content/uploads/2022/02/changeapproval.jpg"
         }
       ]
     },

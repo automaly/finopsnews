@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-02-11T00:41:38.437Z</updated>
+    <updated>2024-02-12T00:38:49.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MS Learn Fabric Analytics Engineer Challenge Part 2]]></title>
+        <id>https://365community.online/ms-learn-fabric-analytics-engineer-challenge-part-2</id>
+        <link href="https://365community.online/ms-learn-fabric-analytics-engineer-challenge-part-2"/>
+        <updated>2024-02-11T21:15:10.000Z</updated>
+        <summary type="html"><![CDATA[In this post, I am covering module 3 of the Microsoft Learn challenge. Previous posts in the series Part 1 (Introduction, Lakehouses) Microsoft Learn Module 2 Use Apache Spark in […]]]></summary>
+        <author>
+            <name>Jen Kuntz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MS Learn Fabric Analytics Engineer Challenge Part 1]]></title>
+        <id>https://365community.online/ms-learn-fabric-analytics-engineer-challenge-part-1</id>
+        <link href="https://365community.online/ms-learn-fabric-analytics-engineer-challenge-part-1"/>
+        <updated>2024-02-11T16:51:39.000Z</updated>
+        <summary type="html"><![CDATA[As I wrote in my introductory post a couple of days ago (which can be found here), this is the start of a short series following my journey through the […]]]></summary>
+        <author>
+            <name>Jen Kuntz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More work ➡️ More features]]></title>
+        <id>https://365community.online/more-work-%e2%9e%a1%ef%b8%8f-more-features</id>
+        <link href="https://365community.online/more-work-%e2%9e%a1%ef%b8%8f-more-features"/>
+        <updated>2024-02-11T16:37:35.000Z</updated>
+        <summary type="html"><![CDATA[During the last few months, I’ve been working more than ever (well, most after my little stroke issue three years ago), and more work apparently creates more needs, more features, […]]]></summary>
+        <author>
+            <name>Jonas Rapp ᴹᴠᴾ ??</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 CE Release wave 1 2024]]></title>
+        <id>https://365community.online/dynamics-365-ce-release-wave-1-2024</id>
+        <link href="https://365community.online/dynamics-365-ce-release-wave-1-2024"/>
+        <updated>2024-02-11T14:23:19.000Z</updated>
+        <summary type="html"><![CDATA[Written by wilmeralcivar88@gmail.com It’s here, the release wave 1 2024 was announced. Every year Microsoft delights us twice with the wave of releases so here I come to share my […]]]></summary>
+        <author>
+            <name>Wilmer Alcivar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Automate – Send email from SharePoint Rest Api]]></title>
+        <id>https://365community.online/power-automate-send-email-from-sharepoint-rest-api</id>
+        <link href="https://365community.online/power-automate-send-email-from-sharepoint-rest-api"/>
+        <updated>2024-02-11T11:10:30.000Z</updated>
+        <summary type="html"><![CDATA[Hello, today I want to share with you a method to send emails with Power Automate by using a REST API available in SharePoint. There is a method called “sendMail” […]]]></summary>
+        <author>
+            <name>Angelo Gulisano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the purpose of the two new XDS security roles?]]></title>
+        <id>https://dynamicspedia.com/?p=19000</id>
+        <link href="https://dynamicspedia.com/2024/02/what-is-the-purpose-of-the-two-new-xds-security-roles/"/>
+        <updated>2024-02-11T11:03:32.000Z</updated>
+        <summary type="html"><![CDATA[Recently, I discovered two new security roles in the application that seem to have a relation with eXtensible Data Security (XDS). Anything related to security and for that reason also XDS intrigues me. In this post, you will read about the two new security roles and how they can be useful, or not… XDS roles […]
+The post What is the purpose of the two new XDS security roles? appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shape the Future of Maplytics: Add your reviews on Microsoft AppSource or G2.com]]></title>
         <id>https://365community.online/shape-the-future-of-maplytics-add-your-reviews-on-microsoft-appsource-or-g2-com</id>
@@ -21393,59 +21454,6 @@ We are always looking for interesting speakers and topics, so if you have any id
         <summary type="html"><![CDATA[This time I’ve got a less technical and more functional post about the Regulatory Configuration Service (RCS) for you. I couldn’t find too much information about it out there, besides the MS Docs pages. Lately I had to set it up in some projects, and wanted to share my findings. With the release of the […]]]></summary>
         <author>
             <name>Marijan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Customer and Vendor Proposed Change Approvals: D365 Finance and Operations]]></title>
-        <id>https://dynamics-tips.com/?p=2221</id>
-        <link href="https://dynamics-tips.com/customer-and-vendor-proposed-change-approvals/"/>
-        <updated>2022-02-11T21:36:36.000Z</updated>
-        <summary type="html"><![CDATA[In most organizations customer and vendor setup is a task handled by the Accounting or the Supply Chain team and in some cases both with each responsible for specific setups.]]></summary>
-        <author>
-            <name>Tim Woods</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Additional parameters in RunBaseBatch class extension]]></title>
-        <id>https://alexvoy.blogspot.com/2022/02/additional-parameters-in-runbasebatch.html</id>
-        <link href="https://alexvoy.blogspot.com/2022/02/additional-parameters-in-runbasebatch.html"/>
-        <updated>2022-02-11T16:49:00.002Z</updated>
-        <summary type="html"><![CDATA[Old good pack/unpack patterns with SysPackExtension call. Say, we need to augment RunBaseBatch based class <ClassName>.
-
-
-
-
-/// <summary>
-/// We are going to use a new additional parameter
-/// </summary>
-[ExtensionOf(classStr(<ClassName>))]
-public final class My<ClassName>_Extension
-{
-    private boolean     myNewParm;   
-    #define.CurrentVersion(1)
-    #localmacro.CurrentList
-        myNewParm
-    #endmacro
-
-    
-    /// <summary>
-    /// myNewParm access
-    /// </summary>
-    /// <param name = "_parm">boolean</param>
-    /// <returns>boolean</returns>
-    public boolean parmMyNewParm(boolean _parm = myNewParm)
-    {
-        myNewParm= _parm;
-        return myNewParm;
-    }
-
-    /// <summary>
-    /// Extends Pack
-    /// </summary>
-    /// <returns>container</returns>
-    public contai…]]></summary>
-        <author>
-            <name>Adventures in Axapta world</name>
         </author>
     </entry>
 </feed>
