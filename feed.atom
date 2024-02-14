@@ -2,10 +2,150 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-02-13T00:38:18.441Z</updated>
+    <updated>2024-02-14T00:38:40.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[6 Prompts for resolving Tier 1 ERP table mapping challenges with Dynamics 365 Finance & Supply chain]]></title>
+        <id>https://d365cliffsnotes.com/6-prompts-for-resolving-tier-1-erp-table-mapping-challenges-with-dynamics-365-finance-supply-chain</id>
+        <link href="https://d365cliffsnotes.com/6-prompts-for-resolving-tier-1-erp-table-mapping-challenges-with-dynamics-365-finance-supply-chain"/>
+        <updated>2024-02-13T19:03:59.000Z</updated>
+        <summary type="html"><![CDATA[Wouldn't it be great if we could simplify a few complex tasks to boost Dynamics 365 FO implementation productivity?
+There have been a number of you who have reached out to me and said you'd like to overcome more about common learning challenges Dynamics 365 FO functional & technical consultants face when there is an ERP transformation. 
+SAP or Oracle consultants are experts in SAP or Oracle, while Dynamics 365 FO consultants are experts in Dynamics 365. Due to this, it is nearly impossible for Dynamics 365 consultants to learn how to integrate ERP functionality across different companies. 
+In today's blog post, we will discuss how gen AI can simplify this task, aka Table mapping Tier-1 or Tier-2 ERP tables with Dynamics 365 Finance and SCM.
+Generally, Tier 1 software is large scale and cap…]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamlining Retail Operations with LS Central: An All-in-One Solution]]></title>
+        <id>https://erpsoftwareblog.com/?p=104076</id>
+        <link href="https://erpsoftwareblog.com/2024/02/streamlining-retail-operations-with-ls-central-an-all-in-one-solution/"/>
+        <updated>2024-02-13T13:21:53.000Z</updated>
+        <summary type="html"><![CDATA[In today’s fast-paced retail landscape, staying competitive requires more than just offering great products. Retailers need efficient systems that can manage everything from inventory and sales to customer relationships seamlessly. […]
+The post Streamlining Retail Operations with LS Central: An All-in-One Solution appeared first on ERP Software Blog.
+Unlocking success: How LS Central can revolutionize your store’s sales performance
+Streamlining Retail Operations: LS Retail Integration with Business Central
+Centralized POS and Retail Management Software to control your entire business with LS Central]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mappings in x2x Acumatica and RMH Integration]]></title>
+        <id>https://erpsoftwareblog.com/?p=104072</id>
+        <link href="https://erpsoftwareblog.com/2024/02/mappings-in-x2x-acumatica-and-rmh-integration/"/>
+        <updated>2024-02-13T13:09:37.000Z</updated>
+        <summary type="html"><![CDATA[Mappings play an important role in ERP (Enterprise Resource Planning) integration as they facilitate smooth data synchronization.  Translation and alignment of data between two systems is crucial for flawless operations. […]
+The post Mappings in x2x Acumatica and RMH Integration appeared first on ERP Software Blog.
+The Role of ERP & eCommerce Integration in Multi-channel eCommerce Management
+Dynamics GP & POS (RMH) Integration by x2x-eCommerce
+Why Hybrid Solution for Acumatica & POS Integration?]]></summary>
+        <author>
+            <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use Sales Copilot to see the pipeline (Dynamics 365)]]></title>
+        <id>https://365community.online/use-sales-copilot-to-see-the-pipeline-dynamics-365</id>
+        <link href="https://365community.online/use-sales-copilot-to-see-the-pipeline-dynamics-365"/>
+        <updated>2024-02-13T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Using the “Sales Copilot” we can get the list of opportunities assigned to us. For this, we can use the “Show my pipeline” prompt To enable Sales Copilot, Inside Sales […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Menus [A to Z a11y]]]></title>
+        <id>https://365community.online/menus-a-to-z-a11y</id>
+        <link href="https://365community.online/menus-a-to-z-a11y"/>
+        <updated>2024-02-13T10:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome, honoured guest, to the midway point in the A to Z Accessibility: Power Platform Edition. Today we are looking at Menus. I’m talking hamburgers, stacks, waffles, and more. Are […]]]></summary>
+        <author>
+            <name>Mike Hartley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Duplicate Data Management in Dynamics 365 CRM – OOB Duplicate Detection vs Inogic’s Data DeDuplication App!]]></title>
+        <id>https://365community.online/duplicate-data-management-in-dynamics-365-crm-oob-duplicate-detection-vs-inogics-data-deduplication-app</id>
+        <link href="https://365community.online/duplicate-data-management-in-dynamics-365-crm-oob-duplicate-detection-vs-inogics-data-deduplication-app"/>
+        <updated>2024-02-13T09:36:48.000Z</updated>
+        <summary type="html"><![CDATA[Duplicate data is an inherent aspect of any database operation. It is crucial to take steps to prevent the creation of duplicate records, promptly identify them if present, and eliminate […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Providing Security Access To Users For Realtime Form Ownership]]></title>
+        <id>https://365community.online/providing-security-access-to-users-for-realtime-form-ownership</id>
+        <link href="https://365community.online/providing-security-access-to-users-for-realtime-form-ownership"/>
+        <updated>2024-02-13T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Using Realtime Marketing Forms from Customer Insights Journeys on your website provides a quick and seamless way to have new Leads and Contacts created automatically in Dynamics 365. It’s good […]]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MB-260: Ingest and transform data using Power Query connectors]]></title>
+        <id>https://365community.online/mb-260-ingest-and-transform-data-using-power-query-connectors</id>
+        <link href="https://365community.online/mb-260-ingest-and-transform-data-using-power-query-connectors"/>
+        <updated>2024-02-13T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s review how to use Microsoft Power Query(MPQ) as your data source. And how you can ingest and transform that data. This post will be an overview of the MPQ […]]]></summary>
+        <author>
+            <name>Malin Martnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#msdyn365bc Allow Debugging in Business Central.]]></title>
+        <id>https://365community.online/msdyn365bc-allow-debugging-in-business-central</id>
+        <link href="https://365community.online/msdyn365bc-allow-debugging-in-business-central"/>
+        <updated>2024-02-13T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi Readers, There are certain areas in business central, which cannot be debugged. In this article we will discuss about what is allowed for debugging in business central and how […]]]></summary>
+        <author>
+            <name>Saurav Dhyani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to create Microsoft Power Apps Developer Plan Environment?]]></title>
+        <id>https://365community.online/how-to-create-microsoft-power-apps-developer-plan-environment</id>
+        <link href="https://365community.online/how-to-create-microsoft-power-apps-developer-plan-environment"/>
+        <updated>2024-02-13T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In my earlier articles, I had explained about the, Microsoft Power Apps Developer Plan Microsoft Power Apps Developer Plan vs Power Apps Trial 30 days And in this article, will […]]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VIDEO: From On-Premises ERP Horror Story to Cloud Success - A Manufacturer's Journey]]></title>
+        <id>https://erpsoftwareblog.com/?p=104068</id>
+        <link href="https://erpsoftwareblog.com/2024/02/video-from-on-premises-erp-horror-story-to-cloud-success-a-manufacturers-journey/"/>
+        <updated>2024-02-13T02:13:09.000Z</updated>
+        <summary type="html"><![CDATA[In today's digital landscape, the transition from legacy systems to cloud-based solutions is not just a matter of convenience—it's a critical step in safeguarding against catastrophic events like ransomware attacks. […]
+The post VIDEO: From On-Premises ERP Horror Story to Cloud Success - A Manufacturer's Journey appeared first on ERP Software Blog.
+Optimize your Distribution Process with Advanced Warehouse Management System
+Top Reasons why SMBs Are Investing in Cloud-Based ERP System
+Warehouse Management Trends for 2021- WMS]]></summary>
+        <author>
+            <name>ERP Software Blog Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Architecting For File Security : Solution Design Approaches to Encrypting and Decrypting File Data in Dynamics 365 Finance - Part I]]></title>
+        <id>https://d365cliffsnotes.com/architecting-for-file-security-solution-design-approaches-to-encrypting-and-decrypting-file-data-in-dynamics-365-finance-part-i</id>
+        <link href="https://d365cliffsnotes.com/architecting-for-file-security-solution-design-approaches-to-encrypting-and-decrypting-file-data-in-dynamics-365-finance-part-i"/>
+        <updated>2024-02-13T01:39:24.000Z</updated>
+        <summary type="html"><![CDATA[The security of data is one of the most pressing concerns in the digital age. Whether you're sharing sensitive information over the internet, protecting your files, or storing sensitive information, encryption is critical.
+This series of posts will focus on encryption and decryption concepts, common frameworks, solution design approaches, and step-by-step implementation in Dynamics 365 Finance.
+In this article, we will be looking at the core concepts and design principles of file encryption and how to go about it.
+Every Dynamics 365 Finance implementation especially when the business is focused on Finance processes has a use case that involves 3rd party file integration, such as banks, contractors & partners.
+Let's first understand the common use cases of file data encryption and decryptio…]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New update on Regulatory configuration service (RCS) as globalization studio in D365FO.]]></title>
         <id>https://365community.online/new-update-on-regulatory-configuration-service-rcs-as-globalization-studio-in-d365fo</id>
