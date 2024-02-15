@@ -2,10 +2,216 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-02-14T00:38:40.726Z</updated>
+    <updated>2024-02-15T00:38:32.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cloud Financial Reporting That Optimizes Dynamics and Azure Investments]]></title>
+        <id>https://erpsoftwareblog.com/?p=104146</id>
+        <link href="https://erpsoftwareblog.com/2024/02/financial-reporting-that-optimizes-dynamics-and-azure/"/>
+        <updated>2024-02-14T21:49:46.000Z</updated>
+        <summary type="html"><![CDATA[In today's fast-paced business environment, efficient financial reporting is essential for driving strategic decisions and maintaining a competitive edge. This can be a challenge for companies with complex reporting needs […]
+The post Cloud Financial Reporting That Optimizes Dynamics and Azure Investments appeared first on ERP Software Blog.
+Dynamics GP Reporting: Life After Management Reporter
+Ariett Showcases New Dashboards and BI Reporting at GP User Group Summit
+Happy Opening Day, MLB Fans! A Look at Baseball and Business Intelligence]]></summary>
+        <author>
+            <name>FYIsoft, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Check permissions like a Pro Low Coder]]></title>
+        <id>https://365community.online/check-permissions-like-a-pro-low-coder</id>
+        <link href="https://365community.online/check-permissions-like-a-pro-low-coder"/>
+        <updated>2024-02-14T21:18:57.000Z</updated>
+        <summary type="html"><![CDATA[When you develop an app using Dataverse, you might have a button to update data in Dataverse. How do you check permissions before Power Apps tells you that the Patch […]]]></summary>
+        <author>
+            <name>Pieter Veenstra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Top 10 Learning of Copilot for Dynamics 365 Finance & Supply Chain Management]]></title>
+        <id>https://d365cliffsnotes.com/my-top-10-learning-of-copilot-for-dynamics-365-finance-supply-chain-management</id>
+        <link href="https://d365cliffsnotes.com/my-top-10-learning-of-copilot-for-dynamics-365-finance-supply-chain-management"/>
+        <updated>2024-02-14T18:23:49.000Z</updated>
+        <summary type="html"><![CDATA[Hey Learners, 👏
+It seems that Microsoft Copilot, the AI-powered assistant, is gaining popularity worldwide. Customers and partners are trying to understand the various features of Copilot to align them with their specific needs and set expectations for their business and IT strategies.
+While trying to understand Copilot's architecture, learners like me are also exploring its pricing model and extensions to incorporate custom business processes.
+To enable Copilot, there are numerous dependent components involved.
+
+Availability of Azure Open AI service in specific region
+
+Microsoft Power Platform integration in Microsoft Dynamics Lifecycle Services
+
+Microsoft Power Apps solution for Copilot from AppSource
+
+Dynamics 365 FO platform compatible version
+
+Dynamics 365 FO Feature management (User…]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s New in Dynamics GP 18.X (Video)]]></title>
+        <id>https://www.encorebusiness.com/?p=61479</id>
+        <link href="https://www.encorebusiness.com/blog/whats-new-in-dynamics-gp/"/>
+        <updated>2024-02-14T17:40:59.000Z</updated>
+        <summary type="html"><![CDATA[What’s New in Dynamics GP 18.X (Video)
+Find out what’s new in Dynamics GP. We will review and show some new features in GP versions 18.4, 18.5, and 18.6, covering items in system, distribution, and financial. ﻿﻿﻿﻿﻿﻿ Transcript below: – [Katie] Hello, everyone. Thank you for joining us today for our “Dynamics GP Coffee Break | What’s New in Dynamics GP Versions...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Don McNulty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Help! My Dataverse flow does not trigger anymore!]]></title>
+        <id>https://365community.online/help-my-dataverse-flow-does-not-trigger-anymore-2</id>
+        <link href="https://365community.online/help-my-dataverse-flow-does-not-trigger-anymore-2"/>
+        <updated>2024-02-14T17:01:18.000Z</updated>
+        <summary type="html"><![CDATA[Today suddenly my flow does not trigger anymore. My flow should trigger when a new account is created but suddenly it doesn’t trigger my flow anymore. First steps to debug […]]]></summary>
+        <author>
+            <name>Pieter Veenstra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UnitOfMeasureConverter::convert() method is depreciated]]></title>
+        <id>1940</id>
+        <link href="http://daxonline.org/1940-unitofmeasureconverter-convert-method-is-depreciated.html"/>
+        <updated>2024-02-14T13:05:04.000Z</updated>
+        <summary type="html"><![CDATA[Message: 
+BP Rule: [BPDeprecatedUOMProductParameter]:BPDeprecatedUOMProductParameter: The product parameter in UnitOfMeasureConverter class method 'convert' is deprecated, use the EcoResProductUnitConverter class instead.
+
+
+Original deprecated code:
+                salesLine.SalesDeliverNow   = UnitOfMeasureConverter::convert(
+                        salesLine.InventDeliverNow,
+                        UnitOfMeasure::unitOfMeasureIdBySymbol(salesLine.inventTable().inventUnitId()),
+                        UnitOfMeasure::unitOfMeasureIdBySymbol(salesLine.SalesUnit),
+                        NoYes::Yes,
+                        InventTable::itemProduct(salesLine.ItemId));
+Used to convert quantity from invent to sales. Replacement using EcoResProductUnitConverter class:
+                salesLine.…]]></summary>
+        <author>
+            <name>Vasyl Kovalenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Making of a Tech Luminary in Ghana and the Art of Community Engagement – Silvester Akakpo]]></title>
+        <id>https://365community.online/the-making-of-a-tech-luminary-in-ghana-and-the-art-of-community-engagement-silvester-akakpo</id>
+        <link href="https://365community.online/the-making-of-a-tech-luminary-in-ghana-and-the-art-of-community-engagement-silvester-akakpo"/>
+        <updated>2024-02-14T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FULL SHOW NOTES https://podcast.nz365guy.com/526 When Silvester Akakpo's father sparked his curiosity with the enigmatic world of computers, little did he know it would propel his son toward becoming Ghana's shining […]]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Help! My Dataverse flow does not trigger anymore!]]></title>
+        <id>https://365community.online/help-my-dataverse-flow-does-not-trigger-anymore</id>
+        <link href="https://365community.online/help-my-dataverse-flow-does-not-trigger-anymore"/>
+        <updated>2024-02-14T12:49:30.000Z</updated>
+        <summary type="html"><![CDATA[Today suddenly my flow does not trigger anymore. My flow should trigger when a new account is created but suddenly it doesn’t trigger my flow anymore. First steps to debug […]]]></summary>
+        <author>
+            <name>Pieter Veenstra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use Sales Copilot to see the leads and opportunities assigned (Dynamics 365)]]></title>
+        <id>https://365community.online/use-sales-copilot-to-see-the-leads-and-opportunities-assigned-dynamics-365</id>
+        <link href="https://365community.online/use-sales-copilot-to-see-the-leads-and-opportunities-assigned-dynamics-365"/>
+        <updated>2024-02-14T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Using the “Sales Copilot” we can get the list of leads and opportunities assigned to us in the last 15 days. For this, we can use the “What’s newly assigned […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advisor matching in your organization by using Power Apps integrated virtual agent]]></title>
+        <id>https://365community.online/advisor-matching-in-your-organization-by-using-power-apps-integrated-virtual-agent</id>
+        <link href="https://365community.online/advisor-matching-in-your-organization-by-using-power-apps-integrated-virtual-agent"/>
+        <updated>2024-02-14T10:22:32.000Z</updated>
+        <summary type="html"><![CDATA[Introduction In this blog post, we aim to provide guidance to beginners and new users of Power Apps. Our focus is on helping individuals enhance their knowledge of the platform […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking down form script in Customer Insight Journeys]]></title>
+        <id>https://365community.online/breaking-down-form-script-in-customer-insight-journeys</id>
+        <link href="https://365community.online/breaking-down-form-script-in-customer-insight-journeys"/>
+        <updated>2024-02-14T10:07:08.000Z</updated>
+        <summary type="html"><![CDATA[When creating a form in Customer Insight Journeys (real time) one option is to embedd it in an existing page. A customer asked me if it was possible to get […]]]></summary>
+        <author>
+            <name>Gustaf Westerlund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Prevent Supply Chain Disruption with Dynamics ERP]]></title>
+        <id>https://erpsoftwareblog.com/?p=103999</id>
+        <link href="https://erpsoftwareblog.com/2024/02/how-to-prevent-supply-chain-disruption-with-dynamics-erp/"/>
+        <updated>2024-02-14T08:28:10.000Z</updated>
+        <summary type="html"><![CDATA[Recently, terror attacks directed at shipping in the Red Sea have greatly affected businesses in many sectors. The resulting supply chain disruptions demand quick strategic responses. The repercussions of rerouted […]
+The post How to Prevent Supply Chain Disruption with Dynamics ERP appeared first on ERP Software Blog.
+Reducing Warehouse Disruptions with Cycle Counting: Strategies for Success
+Unlock Precision with Scan Pack: Revolutionizing Logistics with MetaShip
+Crestwood Makes Bob Scott’s VAR Stars List for a 5th Year]]></summary>
+        <author>
+            <name>Netstock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing preview for blocking unmanaged customizations]]></title>
+        <id>announcing-public-preview-of-capability-to-block-unmanaged-customizations</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-public-preview-of-capability-to-block-unmanaged-customizations/"/>
+        <updated>2024-02-14T08:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Block unmanaged customizations is an environment setting that allows Power Platform system administrators to prevent unmanaged customizations in Microsoft Dataverse environments. By blocking any unmanaged customizations, you can ensure that any changes to your environment, specifically your production environments, are only going through approved application lifecycle management (ALM) processes that have sufficient safety, visibility and auditing.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Balancing Life With Your Microsoft Supplier and Ensuring Smooth Dynamics/PowerApps Project Management]]></title>
+        <id>https://365community.online/balancing-life-with-your-microsoft-supplier-and-ensuring-smooth-dynamics-powerapps-project-management</id>
+        <link href="https://365community.online/balancing-life-with-your-microsoft-supplier-and-ensuring-smooth-dynamics-powerapps-project-management"/>
+        <updated>2024-02-14T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you find yourself grappling with your Microsoft Dynamics/PowerApps supplier, fear not! I’ve got some insights to share. Deploying, updating, or upgrading Dynamics/powerapps can be a rollercoaster ride. You start […]]]></summary>
+        <author>
+            <name>Chris Roberts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #24]]></title>
+        <id>http://dynamicsax-fico.com/?p=5555</id>
+        <link href="https://dynamicsax-fico.com/2024/02/14/microsoft-bizapps-deutschland-podcast-24/"/>
+        <updated>2024-02-14T06:24:52.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NerdioCon 2024 – Day 1 Conference vlog – YouTube]]></title>
+        <id>https://365community.online/nerdiocon-2024-day-1-conference-vlog-youtube</id>
+        <link href="https://365community.online/nerdiocon-2024-day-1-conference-vlog-youtube"/>
+        <updated>2024-02-14T02:48:17.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to I Am IT Geeks day 1 vlog at the NerdioCon 2024 conference! In this video diary I will show my experience from the welcome party and day 1 […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Power Apps Developer Environment]]></title>
+        <id>https://365community.online/microsoft-power-apps-developer-environment</id>
+        <link href="https://365community.online/microsoft-power-apps-developer-environment"/>
+        <updated>2024-02-14T02:37:55.000Z</updated>
+        <summary type="html"><![CDATA[Follow my earlier articles to know more about Microsoft Power Apps Developer Environments. What is Microsoft Power Apps Developer Plan? Microsoft Power Apps Developer Plan vs Power Apps Trial 30 days […]]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6 Prompts for resolving Tier 1 ERP table mapping challenges with Dynamics 365 Finance & Supply chain]]></title>
         <id>https://d365cliffsnotes.com/6-prompts-for-resolving-tier-1-erp-table-mapping-challenges-with-dynamics-365-finance-supply-chain</id>
@@ -21752,26 +21958,6 @@ LedgerJournalCheckPost class creates one…]]></summary>
 We are always looking for interesting speakers and topics, so if you have any ideas, feel free to add a comment to this blog post. Thanks for listening!]]></summary>
         <author>
             <name>D365FandO(m)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product configurator: Attribute inheritance for subcomponents]]></title>
-        <id>http://cleverax.wordpress.com/?p=572</id>
-        <link href="https://cleverax.wordpress.com/2022/02/15/product-configurator-attribute-inheritance-for-subcomponents/"/>
-        <updated>2022-02-15T07:52:35.000Z</updated>
-        <summary type="html"><![CDATA[I have been involved in several implementations that included product configurator functionality and all I can say it is one of the very powerful but not very well documented features. I have been asked a very simple question today and when I tried to search for an answer all I could find was just a … Continue reading Product configurator: Attribute inheritance for subcomponents →]]></summary>
-        <author>
-            <name>cleverax</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Say hello to the Regulatory Configuration Service – RCS]]></title>
-        <id>http://d365fostuff.wordpress.com/?p=397</id>
-        <link href="https://d365fostuff.wordpress.com/2022/02/14/say-hello-to-the-regulatory-configuration-service-rcs/"/>
-        <updated>2022-02-14T19:28:43.000Z</updated>
-        <summary type="html"><![CDATA[This time I’ve got a less technical and more functional post about the Regulatory Configuration Service (RCS) for you. I couldn’t find too much information about it out there, besides the MS Docs pages. Lately I had to set it up in some projects, and wanted to share my findings. With the release of the […]]]></summary>
-        <author>
-            <name>Marijan</name>
         </author>
     </entry>
 </feed>
