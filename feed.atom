@@ -2,10 +2,206 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-02-16T00:37:33.466Z</updated>
+    <updated>2024-02-17T00:37:53.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Canadian Payroll 2023 T4s]]></title>
+        <id>https://365community.online/canadian-payroll-2023-t4s</id>
+        <link href="https://365community.online/canadian-payroll-2023-t4s"/>
+        <updated>2024-02-16T22:31:12.000Z</updated>
+        <summary type="html"><![CDATA[I received an email yesterday from someone I know via the Dynamics communities sites, asking me about the new Box 45 for Employer Offered Dental Benefits. The question was: is […]]]></summary>
+        <author>
+            <name>Jen Kuntz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamlining BOM and Routing Creation in Business Central: Product Configurator v3.9]]></title>
+        <id>https://erpsoftwareblog.com/?p=104229</id>
+        <link href="https://erpsoftwareblog.com/2024/02/product-configurator-v3-9-streamlining-bom-and-routing-creation-in-business-central/"/>
+        <updated>2024-02-16T21:21:18.000Z</updated>
+        <summary type="html"><![CDATA[Discover how Product Configurator v3.9 transforms BOM & Routing management in Business Central, making manufacturing workflows smoother and more efficient.
+The post Streamlining BOM and Routing Creation in Business Central: Product Configurator v3.9 appeared first on ERP Software Blog.
+Warehouse Insight Now Available for Dynamics 365 Business Central
+Quote Generation with Product Configurator for Business Central
+Free Business Central Apps to Fill the Gaps]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Procrastinating a Move to the Cloud: Overcoming The 7 Common Hurdles of Upgrading from NAV to BC]]></title>
+        <id>https://erpsoftwareblog.com/?p=104226</id>
+        <link href="https://erpsoftwareblog.com/2024/02/overcoming-common-hurdles-of-upgrading-from-nav-to-bc/"/>
+        <updated>2024-02-16T20:07:44.000Z</updated>
+        <summary type="html"><![CDATA[Updating operations in this digitized era is critical to your business strategy. Perhaps this even motivated you to leverage Microsoft Dynamics NAV initially. This dependable, trusted, and popular ERP system […]
+The post Stop Procrastinating a Move to the Cloud: Overcoming The 7 Common Hurdles of Upgrading from NAV to BC appeared first on ERP Software Blog.
+Learn How To Save Time By Using The "Cancel" Option to Reverse A Posted Sales Invoice
+Microsoft Dynamics ERP for Distribution/Manufacturing Industry
+DYNAMICS 365 BUSINESS CENTRAL VS NAV: WHAT’S THE DIFFERENCE?]]></summary>
+        <author>
+            <name>NAVtoBC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solving Pricing Management Problems: Price Breaks on Quantity]]></title>
+        <id>https://erpsoftwareblog.com/?p=103756</id>
+        <link href="https://erpsoftwareblog.com/2024/02/solving-pricing-management-problems-price-breaks-on-quantity/"/>
+        <updated>2024-02-16T19:42:30.000Z</updated>
+        <summary type="html"><![CDATA[Rockton Pricing Management was built to address the numerous challenges businesses have with managing various pricing scenarios. We explain how Rockton Pricing Management handles price breaks on quantity. Businesses often […]
+The post Solving Pricing Management Problems: Price Breaks on Quantity appeared first on ERP Software Blog.
+Register Now for JourneyTEAM’s 2021 Business Technology Summit
+December GP Insights – 2021 year in review and looking ahead at Dynamics GP in 2022
+Microsoft Dynamics GP 2016 Features]]></summary>
+        <author>
+            <name>Mark Rockwell, Rockton Software</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Benefits of Bundle Solutions]]></title>
+        <id>https://erpsoftwareblog.com/?p=104037</id>
+        <link href="https://erpsoftwareblog.com/2024/02/benefits-of-bundle-solutions/"/>
+        <updated>2024-02-16T18:05:59.000Z</updated>
+        <summary type="html"><![CDATA[The benefits of Bundle Solutions are undeniable for both the business and the consumers. Bundle solutions/products integrate different platforms like ERP, eCommerce, and point of sale with each other boosting […]
+The post Benefits of Bundle Solutions appeared first on ERP Software Blog.
+Streamlining Your Shipping Process: Multi-Carrier Shipping with MetaShip
+Importance of Historical ERP Data
+Evolving Role of ERP in Remote Work Environments]]></summary>
+        <author>
+            <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot(s) in Microsoft Learn]]></title>
+        <id>https://365community.online/copilots-in-microsoft-learn</id>
+        <link href="https://365community.online/copilots-in-microsoft-learn"/>
+        <updated>2024-02-16T15:48:46.000Z</updated>
+        <summary type="html"><![CDATA[In my previous post I had Copilot(s) on my mind and shared my thoughts as I was looking into what’s what in the Microsoft Copilot ecosystem. In this post we […]]]></summary>
+        <author>
+            <name>Carina Claesson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot(s) on my mind]]></title>
+        <id>https://365community.online/copilots-on-my-mind</id>
+        <link href="https://365community.online/copilots-on-my-mind"/>
+        <updated>2024-02-16T15:47:39.000Z</updated>
+        <summary type="html"><![CDATA[A post dedicated to Copilots. When did we hear about it for the first time? Have you followed how the concept has evolved? What’s what? I recently had to delve […]]]></summary>
+        <author>
+            <name>Carina Claesson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing Warehouse Management: Unveiling the Power of D365 Warehouse Mobile App Version 2.1.23]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2024/02/16/optimizing-warehouse-management-unveiling-the-power-of-d365-warehouse-mobile-app-version-2-1-23/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2024/02/16/optimizing-warehouse-management-unveiling-the-power-of-d365-warehouse-mobile-app-version-2-1-23/"/>
+        <updated>2024-02-16T14:18:58.000Z</updated>
+        <summary type="html"><![CDATA[The unveiling of the D365 Warehouse Mobile App's latest iteration, version 2.1.23, marks a notable advancement in warehouse management technology. It introduces a range of upgraded features aimed at enriching user interaction and optimizing processes. Notably, this update prioritizes authentication, stability, and user-friendliness, addressing the intricate challenges faced by businesses aiming to refine their warehouse management.
+The post Optimizing Warehouse Management: Unveiling the Power of D365 Warehouse Mobile App Version 2.1.23 appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Michael Fruergaard Pontoppidan and Denis Conway</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring Pascalcase Data Mask App for masking data for Dynamics 365 and Power Platform Environments]]></title>
+        <id>https://365community.online/exploring-pascalcase-data-mask-app-for-masking-data-for-dynamics-365-and-power-platform-environments</id>
+        <link href="https://365community.online/exploring-pascalcase-data-mask-app-for-masking-data-for-dynamics-365-and-power-platform-environments"/>
+        <updated>2024-02-16T13:11:06.000Z</updated>
+        <summary type="html"><![CDATA[You have probably used the copy environment feature in the Microsoft Power Platform admin centre to copy data and customizations between environments. However, there is a crucial aspect to consider […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omnichannel for Customer Service – Phone Number Formats]]></title>
+        <id>https://365community.online/omnichannel-for-customer-service-phone-number-formats</id>
+        <link href="https://365community.online/omnichannel-for-customer-service-phone-number-formats"/>
+        <updated>2024-02-16T12:30:17.000Z</updated>
+        <summary type="html"><![CDATA[When using Microsoft’s Omnichannel for Customer Service you may need to ensure phone numbers held on your accounts and contacts are in a specific format. In this post I will […]]]></summary>
+        <author>
+            <name>Neil Parkhurst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekly Update #131 – 16th February 2024 – YouTube]]></title>
+        <id>https://365community.online/weekly-update-131-16th-february-2024-youtube</id>
+        <link href="https://365community.online/weekly-update-131-16th-february-2024-youtube"/>
+        <updated>2024-02-16T12:21:33.000Z</updated>
+        <summary type="html"><![CDATA[Weekly Update #131 – 16th February 2024 Join me as I look at the latest Azure updates from the past week. Join me as I look at the latest Azure […]]]></summary>
+        <author>
+            <name>Sarah Lean ???????</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React JS Training | React JS Tutorial For Beginners | React.js Certification Course | MindMajix – YouTube]]></title>
+        <id>https://365community.online/react-js-training-react-js-tutorial-for-beginners-react-js-certification-course-mindmajix-youtube</id>
+        <link href="https://365community.online/react-js-training-react-js-tutorial-for-beginners-react-js-certification-course-mindmajix-youtube"/>
+        <updated>2024-02-16T12:00:10.000Z</updated>
+        <summary type="html"><![CDATA[This MindMajix’s YouTube video on React JS training will equip the learners with the expertise to build customized user interfaces and web applications efficiently with less code. This React.JS course […]]]></summary>
+        <author>
+            <name>Jaya Sri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get worker current company using x++]]></title>
+        <id>https://kishoredynamics11.blogspot.com/2024/02/get-worker-current-company-using-x.html</id>
+        <link href="https://kishoredynamics11.blogspot.com/2024/02/get-worker-current-company-using-x.html"/>
+        <updated>2024-02-16T10:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Get worker current company using x++.
+
+
+
+
+
+
+    HcmWorker               hcmWorker;
+    HcmEmployment           hcmEmployment;
+    utcdatetime             now = DateTimeUtil::utcNow();
+    CompanyInfo             companyInfo; 
+    select ValidTimeState(now) hcmEmployment
+        join hcmWorker
+            where hcmWorker.RecId == hcmEmployment.Worker
+            && hcmWorker.PersonnelNumber == ''
+        join companyInfo where companyInfo.RecId == hcmEmployment.LegalEntity;
+
+
+
+Keep Daxing!!]]></summary>
+        <author>
+            <name>Dynamics World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Location-Driven Referral Marketing Strategies for Microsoft Dynamics 365 CRM Users]]></title>
+        <id>https://365community.online/location-driven-referral-marketing-strategies-for-microsoft-dynamics-365-crm-users</id>
+        <link href="https://365community.online/location-driven-referral-marketing-strategies-for-microsoft-dynamics-365-crm-users"/>
+        <updated>2024-02-16T09:29:36.000Z</updated>
+        <summary type="html"><![CDATA[The post Location-Driven Referral Marketing Strategies for Microsoft Dynamics 365 CRM Users appeared first on Blog | Maplytics. Source link]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MB-260: Determine whether to use the managed data lake or an organization’s data lake]]></title>
+        <id>https://365community.online/mb-260-determine-whether-to-use-the-managed-data-lake-or-an-organizations-data-lake</id>
+        <link href="https://365community.online/mb-260-determine-whether-to-use-the-managed-data-lake-or-an-organizations-data-lake"/>
+        <updated>2024-02-16T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When you first set up Customer Insights – Data you have to select if you want to use the managed data lake or the your own organization’s data lake. Create […]]]></summary>
+        <author>
+            <name>Malin Martnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avoid document number errors when you post item journals.]]></title>
+        <id>https://365community.online/avoid-document-number-errors-when-you-post-item-journals</id>
+        <link href="https://365community.online/avoid-document-number-errors-when-you-post-item-journals"/>
+        <updated>2024-02-16T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi Readers, In this article we will discuss how to avoid document No. error while posting item journal.  Demo Video :  Let me know your views in comment to this […]]]></summary>
+        <author>
+            <name>Saurav Dhyani</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Do you have multiple developers working on 1 flow in Power Automate?]]></title>
         <id>https://365community.online/do-you-have-multiple-developers-working-on-1-flow-in-power-automate-2</id>
@@ -14,6 +210,28 @@
         <summary type="html"><![CDATA[This post is all about some issues that I ran into yesterday. Multiple developers worked on one flow in Power Automate and my app in Power Apps broke. When apps […]]]></summary>
         <author>
             <name>Pieter Veenstra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Sales: Enhanced overview for tracking features & settings]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2024/02/15/dynamics-365-sales-enhanced-overview-for-tracking-features-settings/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2024/02/15/dynamics-365-sales-enhanced-overview-for-tracking-features-settings/"/>
+        <updated>2024-02-15T18:32:00.000Z</updated>
+        <summary type="html"><![CDATA[In the ever-growing world of Microsoft Dynamics 365 Sales, there is always a host of capabilities that could be enabled to support sellers, complemented by monthly releases packed with innovations.
+The post Dynamics 365 Sales: Enhanced overview for tracking features & settings  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Aditya Naik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft named as a worldwide Leader in IDC MarketScape for Finance and Accounting Applications for Enterprise, Midmarket, and Small Business]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2024/02/15/microsoft-named-as-a-worldwide-leader-in-idc-marketscape-for-finance-and-accounting-applications-for-enterprise-midmarket-and-small-business/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2024/02/15/microsoft-named-as-a-worldwide-leader-in-idc-marketscape-for-finance-and-accounting-applications-for-enterprise-midmarket-and-small-business/"/>
+        <updated>2024-02-15T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[To thrive in today’s highly complex global business environment, organizations are increasingly relying upon the technological and strategic prowess of their financial leaders. We’re continually investing in Microsoft Dynamics 365 to enable finance leaders to monitor financial operations in real time, predict outcomes, and drive strategic decision-making that hinges on insight.
+The post Microsoft named as a worldwide Leader in IDC MarketScape for Finance and Accounting Applications for Enterprise, Midmarket, and Small Business appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Andrea Ton</name>
         </author>
     </entry>
     <entry>
@@ -28,6 +246,16 @@ Moving on Up:  Transitioning from Quickbooks to Microsoft Dynamics GP
 How Can Microsoft Dynamics GP and Office 365 Enable Better Systems For Growth in 2018?]]></summary>
         <author>
             <name>CAL Business Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Power Up program unveils new curriculum, workshops and simplified Dev environment]]></title>
+        <id>microsoft-power-up-program-unveils-new-curriculum-workshops-and-simplified-dev-environment</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/microsoft-power-up-program-unveils-new-curriculum-workshops-and-simplified-dev-environment/"/>
+        <updated>2024-02-15T17:38:34.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Power Up program unveils new curriculum, workshops and simplified Dev environment.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
         </author>
     </entry>
     <entry>
@@ -317,6 +545,17 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         <summary type="html"><![CDATA[Today suddenly my flow does not trigger anymore. My flow should trigger when a new account is created but suddenly it doesn’t trigger my flow anymore. First steps to debug […]]]></summary>
         <author>
             <name>Pieter Veenstra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adapting to change with Microsoft Dynamics 365 Sales: Customers’ success stories]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2024/02/14/adapting-to-change-with-microsoft-dynamics-365-sales-customers-success-stories/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2024/02/14/adapting-to-change-with-microsoft-dynamics-365-sales-customers-success-stories/"/>
+        <updated>2024-02-14T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In a rapidly changing business landscape, organizations face numerous challenges in meeting their customers' expectations and staying relevant.
+The post Adapting to change with Microsoft Dynamics 365 Sales: Customers’ success stories appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Elad Ben-Yosef</name>
         </author>
     </entry>
     <entry>
@@ -627,6 +866,28 @@ Insight Works Expands its Global Reach with New International Coalition Partners
 5 Reasons Why Outsourcing Your ERP Needs is the Best Choice]]></summary>
         <author>
             <name>Dynamics Square UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build your Copilot testing strategy in Dynamics 365 Customer Service]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2024/02/12/build-your-copilot-testing-strategy-in-dynamics-365-customer-service/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2024/02/12/build-your-copilot-testing-strategy-in-dynamics-365-customer-service/"/>
+        <updated>2024-02-12T18:28:56.000Z</updated>
+        <summary type="html"><![CDATA[Introducing a new tool like Copilot in Customer Service to customer service agents must be well-tested and validated.
+The post Build your Copilot testing strategy in Dynamics 365 Customer Service appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Ashraf Omar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics 365 Business Central and Microsoft 365: Connect data to the tools where work is done]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2024/02/12/microsoft-dynamics-365-business-central-and-microsoft-365-connect-data-to-the-tools-where-work-is-done/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2024/02/12/microsoft-dynamics-365-business-central-and-microsoft-365-connect-data-to-the-tools-where-work-is-done/"/>
+        <updated>2024-02-12T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With Microsoft Dynamics 365 Business Central and Microsoft 365, businesses can establish a unified experience where data seamlessly connects with productivity apps including Microsoft Excel, Microsoft Outlook, and Microsoft Teams. This connectivity ensures that employees can access timely information, gain valuable insights, and collaborate directly within the tools they use daily—all without the need to switch between applications. 
+The post Microsoft Dynamics 365 Business Central and Microsoft 365: Connect data to the tools where work is done appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Mike Morton</name>
         </author>
     </entry>
     <entry>
@@ -22186,21 +22447,6 @@ LedgerJournalCheckPost class creates one…]]></summary>
         <summary type="html"><![CDATA[In Dynamics 365 Finance and Operations, default order settings are a core part of the product setup if you are using master planning in any capacity. The default order settings]]></summary>
         <author>
             <name>Tim Woods</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IT☕ Time Podcast]]></title>
-        <id>https://www.d365fandom.com/2022/02/it-time-podcast.html</id>
-        <link href="https://www.d365fandom.com/2022/02/it-time-podcast.html"/>
-        <updated>2022-02-16T16:50:00.001Z</updated>
-        <summary type="html"><![CDATA[One of the things I have recently been working on is a podcast that is by women and geared toward tech topics. The podcast is called IT🍵 Time. It's a collaborative effort with Zoe Abulzahab and Yuanming Chu, both of whom I work with at Alpha Variance Solutions. 
-
-
-
-
-We are always looking for interesting speakers and topics, so if you have any ideas, feel free to add a comment to this blog post. Thanks for listening!]]></summary>
-        <author>
-            <name>D365FandO(m)</name>
         </author>
     </entry>
 </feed>

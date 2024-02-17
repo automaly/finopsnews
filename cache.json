@@ -433,6 +433,16 @@
       "siteUrl": "https://kishoredynamics11.blogspot.com/",
       "articles": [
         {
+          "id": "https://kishoredynamics11.blogspot.com/2024/02/get-worker-current-company-using-x.html",
+          "author": null,
+          "description": "Get worker current company using x++.\n\n\n\n\n\n\n    HcmWorker               hcmWorker;\n    HcmEmployment           hcmEmployment;\n    utcdatetime             now = DateTimeUtil::utcNow();\n    CompanyInfo             companyInfo; \n    select ValidTimeState(now) hcmEmployment\n        join hcmWorker\n            where hcmWorker.RecId == hcmEmployment.Worker\n            && hcmWorker.PersonnelNumber == ''\n        join companyInfo where companyInfo.RecId == hcmEmployment.LegalEntity;\n\n\n\nKeep Daxing!!",
+          "link": "https://kishoredynamics11.blogspot.com/2024/02/get-worker-current-company-using-x.html",
+          "publishedOn": "2024-02-16T10:27:00.000Z",
+          "wordCount": 2771,
+          "title": "Get worker current company using x++",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKVqhPgtthwYLwQKH4Yl6KeHq7eVJ9wbqMnDIwUY98ykenycQsx4uu3m7Y8x7pMN0LAPNLcIamoiYeaWHovCoOXfe28Yq-ZrpgkHBVm3QRlnPTLDP4TnbkxJ-4Khogz1iQS8uZX9Tn4XbioLNu0KtA9yADsKwpExMweFm9RnCYc2sc5wKAMwcSIL0z9n4/w1200-h630-p-k-no-nu/image_2024_02_16T10_17_52_109Z.png"
+        },
+        {
           "id": "https://kishoredynamics11.blogspot.com/2023/11/how-to-add-custom-execute-action-in_96.html",
           "author": null,
           "description": "How to add custom Execute action in the logic app.\n\n\n\n\n\n\n\n\n\n\n\nIn the drop-down, the system will display standard OData execute actions. To enable this, we need to create an OData execute action. \n\nThis involves creating a method in the data entity and adding the following attribute at the top of the method.\n\n\n        [SysODataActionAttribute(\"Name\", false)]\n\n\n\n\n For a static method, we will pass 'false.' For an instance method, we need to pass 'true'.\n\n\n\nBelow code I have written in my custom entity.\n[SysODataActionAttribute(\"GetSalesStatus\", false)]\npublic static str getStatus(str    salesId, DataAreaId company)\n{\n    str  status;\n\n    changecompany (company)\n    {\n\tstatus = enum2Str(SalesTable::find(salesId).SalesStatus);\n    }\n\n    return  status;\n} \n\n\n\nAfter rebuilding the project, it appears in the drop-down.\n\n\n\n\n\n\n\n\nSales ID and company are the input parameters. After selecting the execute action, click on 'Add parameter,' then select these two parameters and assign their respective values\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIn the blog below, he has explained OData actions with different scenarios. Please check for further clarification.   \nOData actions\n\n\n\nKeep Daxing!!",
@@ -1350,6 +1360,46 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=104229",
+          "author": "Insight Works",
+          "description": "Discover how Product Configurator v3.9 transforms BOM & Routing management in Business Central, making manufacturing workflows smoother and more efficient.\nThe post Streamlining BOM and Routing Creation in Business Central: Product Configurator v3.9 appeared first on ERP Software Blog.\nWarehouse Insight Now Available for Dynamics 365 Business Central\nQuote Generation with Product Configurator for Business Central\nFree Business Central Apps to Fill the Gaps",
+          "link": "https://erpsoftwareblog.com/2024/02/product-configurator-v3-9-streamlining-bom-and-routing-creation-in-business-central/",
+          "publishedOn": "2024-02-16T21:21:18.000Z",
+          "wordCount": 7517,
+          "title": "Streamlining BOM and Routing Creation in Business Central: Product Configurator v3.9",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Product-Configurator-250-2.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=104226",
+          "author": "NAVtoBC",
+          "description": "Updating operations in this digitized era is critical to your business strategy. Perhaps this even motivated you to leverage Microsoft Dynamics NAV initially. This dependable, trusted, and popular ERP system […]\nThe post Stop Procrastinating a Move to the Cloud: Overcoming The 7 Common Hurdles of Upgrading from NAV to BC appeared first on ERP Software Blog.\nLearn How To Save Time By Using The \"Cancel\" Option to Reverse A Posted Sales Invoice\nMicrosoft Dynamics ERP for Distribution/Manufacturing Industry\nDYNAMICS 365 BUSINESS CENTRAL VS NAV: WHAT’S THE DIFFERENCE?",
+          "link": "https://erpsoftwareblog.com/2024/02/overcoming-common-hurdles-of-upgrading-from-nav-to-bc/",
+          "publishedOn": "2024-02-16T20:07:44.000Z",
+          "wordCount": 8561,
+          "title": "Stop Procrastinating a Move to the Cloud: Overcoming The 7 Common Hurdles of Upgrading from NAV to BC",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/NAVtoBC_7_things-Facebook.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=103756",
+          "author": "Mark Rockwell, Rockton Software",
+          "description": "Rockton Pricing Management was built to address the numerous challenges businesses have with managing various pricing scenarios. We explain how Rockton Pricing Management handles price breaks on quantity. Businesses often […]\nThe post Solving Pricing Management Problems: Price Breaks on Quantity appeared first on ERP Software Blog.\nRegister Now for JourneyTEAM’s 2021 Business Technology Summit\nDecember GP Insights – 2021 year in review and looking ahead at Dynamics GP in 2022\nMicrosoft Dynamics GP 2016 Features",
+          "link": "https://erpsoftwareblog.com/2024/02/solving-pricing-management-problems-price-breaks-on-quantity/",
+          "publishedOn": "2024-02-16T19:42:30.000Z",
+          "wordCount": 7283,
+          "title": "Solving Pricing Management Problems: Price Breaks on Quantity",
+          "imageUrl": "https://www.rocktonsoftware.com/wp-content/uploads/2024/01/quantitybreaksinvolume.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=104037",
+          "author": "x2x eCommerce",
+          "description": "The benefits of Bundle Solutions are undeniable for both the business and the consumers. Bundle solutions/products integrate different platforms like ERP, eCommerce, and point of sale with each other boosting […]\nThe post Benefits of Bundle Solutions appeared first on ERP Software Blog.\nStreamlining Your Shipping Process: Multi-Carrier Shipping with MetaShip\nImportance of Historical ERP Data\nEvolving Role of ERP in Remote Work Environments",
+          "link": "https://erpsoftwareblog.com/2024/02/benefits-of-bundle-solutions/",
+          "publishedOn": "2024-02-16T18:05:59.000Z",
+          "wordCount": 7393,
+          "title": "Benefits of Bundle Solutions",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Add-a-subheading-46-300x169.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=103023",
           "author": "CAL Business Solutions, Inc.",
@@ -4904,6 +4954,106 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/canadian-payroll-2023-t4s",
+          "author": "Jen Kuntz",
+          "description": "I received an email yesterday from someone I know via the Dynamics communities sites, asking me about the new Box 45 for Employer Offered Dental Benefits. The question was: is […]",
+          "link": "https://365community.online/canadian-payroll-2023-t4s",
+          "publishedOn": "2024-02-16T22:31:12.000Z",
+          "wordCount": 3070,
+          "title": "Canadian Payroll 2023 T4s",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Moving-website-to-Hugo-amp-Azure.jpg?fit=1200%2C916&ssl=1"
+        },
+        {
+          "id": "https://365community.online/copilots-in-microsoft-learn",
+          "author": "Carina Claesson",
+          "description": "In my previous post I had Copilot(s) on my mind and shared my thoughts as I was looking into what’s what in the Microsoft Copilot ecosystem. In this post we […]",
+          "link": "https://365community.online/copilots-in-microsoft-learn",
+          "publishedOn": "2024-02-16T15:48:46.000Z",
+          "wordCount": 3027,
+          "title": "Copilot(s) in Microsoft Learn",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/Copilots-in-Microsoft-Learn.png?fit=1199%2C674&ssl=1"
+        },
+        {
+          "id": "https://365community.online/copilots-on-my-mind",
+          "author": "Carina Claesson",
+          "description": "A post dedicated to Copilots. When did we hear about it for the first time? Have you followed how the concept has evolved? What’s what? I recently had to delve […]",
+          "link": "https://365community.online/copilots-on-my-mind",
+          "publishedOn": "2024-02-16T15:47:39.000Z",
+          "wordCount": 3030,
+          "title": "Copilot(s) on my mind",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/Copilots-on-my-mind.png?fit=1199%2C674&ssl=1"
+        },
+        {
+          "id": "https://365community.online/exploring-pascalcase-data-mask-app-for-masking-data-for-dynamics-365-and-power-platform-environments",
+          "author": "Nishant Rana",
+          "description": "You have probably used the copy environment feature in the Microsoft Power Platform admin centre to copy data and customizations between environments. However, there is a crucial aspect to consider […]",
+          "link": "https://365community.online/exploring-pascalcase-data-mask-app-for-masking-data-for-dynamics-365-and-power-platform-environments",
+          "publishedOn": "2024-02-16T13:11:06.000Z",
+          "wordCount": 3090,
+          "title": "Exploring Pascalcase Data Mask App for masking data for Dynamics 365 and Power Platform Environments",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/Exploring-Pascalcase-Data-Mask-App-for-masking-data-for-Dynamics.png?fit=559%2C205&ssl=1"
+        },
+        {
+          "id": "https://365community.online/omnichannel-for-customer-service-phone-number-formats",
+          "author": "Neil Parkhurst",
+          "description": "When using Microsoft’s Omnichannel for Customer Service you may need to ensure phone numbers held on your accounts and contacts are in a specific format. In this post I will […]",
+          "link": "https://365community.online/omnichannel-for-customer-service-phone-number-formats",
+          "publishedOn": "2024-02-16T12:30:17.000Z",
+          "wordCount": 3039,
+          "title": "Omnichannel for Customer Service – Phone Number Formats",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/Omnichannel-for-Customer-Service-–-Phone-Number-Formats.jpg?fit=1200%2C799&ssl=1"
+        },
+        {
+          "id": "https://365community.online/weekly-update-131-16th-february-2024-youtube",
+          "author": "Sarah Lean ???????",
+          "description": "Weekly Update #131 – 16th February 2024 Join me as I look at the latest Azure updates from the past week. Join me as I look at the latest Azure […]",
+          "link": "https://365community.online/weekly-update-131-16th-february-2024-youtube",
+          "publishedOn": "2024-02-16T12:21:33.000Z",
+          "wordCount": 2952,
+          "title": "Weekly Update #131 – 16th February 2024 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1708089119_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/react-js-training-react-js-tutorial-for-beginners-react-js-certification-course-mindmajix-youtube",
+          "author": "Jaya Sri",
+          "description": "This MindMajix’s YouTube video on React JS training will equip the learners with the expertise to build customized user interfaces and web applications efficiently with less code. This React.JS course […]",
+          "link": "https://365community.online/react-js-training-react-js-tutorial-for-beginners-react-js-certification-course-mindmajix-youtube",
+          "publishedOn": "2024-02-16T12:00:10.000Z",
+          "wordCount": 3392,
+          "title": "React JS Training | React JS Tutorial For Beginners | React.js Certification Course | MindMajix – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1708087267_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/location-driven-referral-marketing-strategies-for-microsoft-dynamics-365-crm-users",
+          "author": "Inogic",
+          "description": "The post Location-Driven Referral Marketing Strategies for Microsoft Dynamics 365 CRM Users appeared first on Blog | Maplytics. Source link",
+          "link": "https://365community.online/location-driven-referral-marketing-strategies-for-microsoft-dynamics-365-crm-users",
+          "publishedOn": "2024-02-16T09:29:36.000Z",
+          "wordCount": 3191,
+          "title": "Location-Driven Referral Marketing Strategies for Microsoft Dynamics 365 CRM Users",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/Reimagine-Your-Marketing-with-the-Magic-of-Integrated-Maps.png?fit=700%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/mb-260-determine-whether-to-use-the-managed-data-lake-or-an-organizations-data-lake",
+          "author": "Malin Martnes",
+          "description": "When you first set up Customer Insights – Data you have to select if you want to use the managed data lake or the your own organization’s data lake. Create […]",
+          "link": "https://365community.online/mb-260-determine-whether-to-use-the-managed-data-lake-or-an-organizations-data-lake",
+          "publishedOn": "2024-02-16T08:00:00.000Z",
+          "wordCount": 3047,
+          "title": "MB-260: Determine whether to use the managed data lake or an organization’s data lake",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/MB-260-Determine-whether-to-use-the-managed-data-lake-or.png?fit=700%2C430&ssl=1"
+        },
+        {
+          "id": "https://365community.online/avoid-document-number-errors-when-you-post-item-journals",
+          "author": "Saurav Dhyani",
+          "description": "Hi Readers, In this article we will discuss how to avoid document No. error while posting item journal.  Demo Video :  Let me know your views in comment to this […]",
+          "link": "https://365community.online/avoid-document-number-errors-when-you-post-item-journals",
+          "publishedOn": "2024-02-16T04:30:00.000Z",
+          "wordCount": 2972,
+          "title": "Avoid document number errors when you post item journals.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/Avoid-document-number-errors-when-you-post-item-journals.jpeg?fit=480%2C360&ssl=1"
+        },
         {
           "id": "https://365community.online/do-you-have-multiple-developers-working-on-1-flow-in-power-automate-2",
           "author": "Pieter Veenstra",
@@ -12143,6 +12293,66 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/02/16/optimizing-warehouse-management-unveiling-the-power-of-d365-warehouse-mobile-app-version-2-1-23/",
+          "author": "Michael Fruergaard Pontoppidan and Denis Conway",
+          "description": "The unveiling of the D365 Warehouse Mobile App's latest iteration, version 2.1.23, marks a notable advancement in warehouse management technology. It introduces a range of upgraded features aimed at enriching user interaction and optimizing processes. Notably, this update prioritizes authentication, stability, and user-friendliness, addressing the intricate challenges faced by businesses aiming to refine their warehouse management.\nThe post Optimizing Warehouse Management: Unveiling the Power of D365 Warehouse Mobile App Version 2.1.23 appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2024/02/16/optimizing-warehouse-management-unveiling-the-power-of-d365-warehouse-mobile-app-version-2-1-23/",
+          "publishedOn": "2024-02-16T14:18:58.000Z",
+          "wordCount": 3052,
+          "title": "Optimizing Warehouse Management: Unveiling the Power of D365 Warehouse Mobile App Version 2.1.23",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/11/CLO17_warehouse_003.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/02/15/dynamics-365-sales-enhanced-overview-for-tracking-features-settings/",
+          "author": "Aditya Naik",
+          "description": "In the ever-growing world of Microsoft Dynamics 365 Sales, there is always a host of capabilities that could be enabled to support sellers, complemented by monthly releases packed with innovations.\nThe post Dynamics 365 Sales: Enhanced overview for tracking features & settings  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2024/02/15/dynamics-365-sales-enhanced-overview-for-tracking-features-settings/",
+          "publishedOn": "2024-02-15T18:32:00.000Z",
+          "wordCount": 3005,
+          "title": "Dynamics 365 Sales: Enhanced overview for tracking features & settings",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/02/CLO20_Jessie_Surface_001-scaled.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/02/15/microsoft-named-as-a-worldwide-leader-in-idc-marketscape-for-finance-and-accounting-applications-for-enterprise-midmarket-and-small-business/",
+          "author": "Andrea Ton",
+          "description": "To thrive in today’s highly complex global business environment, organizations are increasingly relying upon the technological and strategic prowess of their financial leaders. We’re continually investing in Microsoft Dynamics 365 to enable finance leaders to monitor financial operations in real time, predict outcomes, and drive strategic decision-making that hinges on insight.\nThe post Microsoft named as a worldwide Leader in IDC MarketScape for Finance and Accounting Applications for Enterprise, Midmarket, and Small Business appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/02/15/microsoft-named-as-a-worldwide-leader-in-idc-marketscape-for-finance-and-accounting-applications-for-enterprise-midmarket-and-small-business/",
+          "publishedOn": "2024-02-15T18:00:00.000Z",
+          "wordCount": 3460,
+          "title": "Microsoft named as a worldwide Leader in IDC MarketScape for Finance and Accounting Applications for Enterprise, Midmarket, and Small Business",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/02/MSFT_D365_FEB09_317081_Blog_Blogheader_240209_V01_1200.png"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/02/14/adapting-to-change-with-microsoft-dynamics-365-sales-customers-success-stories/",
+          "author": "Elad Ben-Yosef",
+          "description": "In a rapidly changing business landscape, organizations face numerous challenges in meeting their customers' expectations and staying relevant.\nThe post Adapting to change with Microsoft Dynamics 365 Sales: Customers’ success stories appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/02/14/adapting-to-change-with-microsoft-dynamics-365-sales-customers-success-stories/",
+          "publishedOn": "2024-02-14T16:00:00.000Z",
+          "wordCount": 3399,
+          "title": "Adapting to change with Microsoft Dynamics 365 Sales: Customers’ success stories",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2023/11/D365_Blog_Abstract-09_1200.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/02/12/build-your-copilot-testing-strategy-in-dynamics-365-customer-service/",
+          "author": "Ashraf Omar",
+          "description": "Introducing a new tool like Copilot in Customer Service to customer service agents must be well-tested and validated.\nThe post Build your Copilot testing strategy in Dynamics 365 Customer Service appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2024/02/12/build-your-copilot-testing-strategy-in-dynamics-365-customer-service/",
+          "publishedOn": "2024-02-12T18:28:56.000Z",
+          "wordCount": 3546,
+          "title": "Build your Copilot testing strategy in Dynamics 365 Customer Service",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/01/MSFT_Dynamics365_Jan_26_Blog_240126_V01_1260.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/02/12/microsoft-dynamics-365-business-central-and-microsoft-365-connect-data-to-the-tools-where-work-is-done/",
+          "author": "Mike Morton",
+          "description": "With Microsoft Dynamics 365 Business Central and Microsoft 365, businesses can establish a unified experience where data seamlessly connects with productivity apps including Microsoft Excel, Microsoft Outlook, and Microsoft Teams. This connectivity ensures that employees can access timely information, gain valuable insights, and collaborate directly within the tools they use daily—all without the need to switch between applications. \nThe post Microsoft Dynamics 365 Business Central and Microsoft 365: Connect data to the tools where work is done appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/02/12/microsoft-dynamics-365-business-central-and-microsoft-365-connect-data-to-the-tools-where-work-is-done/",
+          "publishedOn": "2024-02-12T18:00:00.000Z",
+          "wordCount": 3581,
+          "title": "Microsoft Dynamics 365 Business Central and Microsoft 365: Connect data to the tools where work is done",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/02/MSFT_D365_FEB07_315819_Blog_Blogheader_240207_V02-social.png"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/02/08/manage-time-off-requests-with-human-resources-app-for-microsoft-teams/",
           "author": "Ajit Chandran",
           "description": "We are announcing the public preview of the Human Resources app for Dynamics 365 Human Resources on Finance and Operations environments.\nThe post Manage time off requests with Human Resources app for Microsoft Teams appeared first on Microsoft Dynamics 365 Blog.",
@@ -14701,6 +14911,16 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "microsoft-power-up-program-unveils-new-curriculum-workshops-and-simplified-dev-environment",
+          "author": null,
+          "description": "Microsoft Power Up program unveils new curriculum, workshops and simplified Dev environment.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/microsoft-power-up-program-unveils-new-curriculum-workshops-and-simplified-dev-environment/",
+          "publishedOn": "2024-02-15T17:38:34.000Z",
+          "wordCount": 1978,
+          "title": "Microsoft Power Up program unveils new curriculum, workshops and simplified Dev environment",
+          "imageUrl": "//powerappsblogmedia.azureedge.net/powerappsblog/2024/02/PowerUp_96x96.png"
+        },
+        {
           "id": "announcing-public-preview-of-capability-to-block-unmanaged-customizations",
           "author": null,
           "description": "Block unmanaged customizations is an environment setting that allows Power Platform system administrators to prevent unmanaged customizations in Microsoft Dataverse environments. By blocking any unmanaged customizations, you can ensure that any changes to your environment, specifically your production environments, are only going through approved application lifecycle management (ALM) processes that have sufficient safety, visibility and auditing.",
@@ -15133,16 +15353,6 @@
           "wordCount": 1990,
           "title": "Credit Management Release to Warehouse Credit Hold Loop",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgrF5asx5oFqgpn379T0SvYAB4hbSH0be29j-57PCgQgyJ3pON7PozZPw7Hakems9sAUWjXMWLt8RgSnIV-DeW2-5w3JPrDs66ycO1IazBY9ECHXJj3h0j0NwWqZF533UKX09qC3q4SNGlDgzlVwqDPbjmA_qSIYn5-SGmSt2gDHSFMrajTAI1HSSFc=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://www.d365fandom.com/2022/02/it-time-podcast.html",
-          "author": null,
-          "description": "One of the things I have recently been working on is a podcast that is by women and geared toward tech topics. The podcast is called IT🍵 Time. It's a collaborative effort with Zoe Abulzahab and Yuanming Chu, both of whom I work with at Alpha Variance Solutions. \n\n\n\n\nWe are always looking for interesting speakers and topics, so if you have any ideas, feel free to add a comment to this blog post. Thanks for listening!",
-          "link": "https://www.d365fandom.com/2022/02/it-time-podcast.html",
-          "publishedOn": "2022-02-16T16:50:00.001Z",
-          "wordCount": 1832,
-          "title": "IT☕ Time Podcast",
-          "imageUrl": null
         }
       ]
     },
