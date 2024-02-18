@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-02-17T00:37:53.427Z</updated>
+    <updated>2024-02-18T00:40:48.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Generic JavaScript Functions to Associate and Disassociate Dataverse records using the Power Pages Web API]]></title>
+        <id>https://365community.online/generic-javascript-functions-to-associate-and-disassociate-dataverse-records-using-the-power-pages-web-api</id>
+        <link href="https://365community.online/generic-javascript-functions-to-associate-and-disassociate-dataverse-records-using-the-power-pages-web-api"/>
+        <updated>2024-02-17T17:43:41.000Z</updated>
+        <summary type="html"><![CDATA[In my previous post Creating and removing N:N relationship between Dataverse records using Javascript and Power Pages Web API I showed how we can leverage the Power Pages Web API […]]]></summary>
+        <author>
+            <name>michelcarlo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Resolved] Web resource method does not exist in Dynamics 365 CE JavaScript Error]]></title>
+        <id>https://365community.online/resolved-web-resource-method-does-not-exist-in-dynamics-365-ce-javascript-error</id>
+        <link href="https://365community.online/resolved-web-resource-method-does-not-exist-in-dynamics-365-ce-javascript-error"/>
+        <updated>2024-02-17T02:35:03.000Z</updated>
+        <summary type="html"><![CDATA[Recently, when I was opening a Case record and on onload, I got the below error message. One of the scripts for this record has caused an error. For more […]]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Canadian Payroll 2023 T4s]]></title>
         <id>https://365community.online/canadian-payroll-2023-t4s</id>
@@ -28,6 +48,16 @@ Quote Generation with Product Configurator for Business Central
 Free Business Central Apps to Fill the Gaps]]></summary>
         <author>
             <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keep Your Dataverse Solution Clean and Simple]]></title>
+        <id>https://365community.online/keep-your-dataverse-solution-clean-and-simple</id>
+        <link href="https://365community.online/keep-your-dataverse-solution-clean-and-simple"/>
+        <updated>2024-02-16T21:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Solutions are used to transport table metadata, apps, automations and other components from one environment to another in Dataverse or Power Platform projects. It is important to keep the solutions […]]]></summary>
+        <author>
+            <name>Linn Zaw Win</name>
         </author>
     </entry>
     <entry>
@@ -70,6 +100,16 @@ Importance of Historical ERP Data
 Evolving Role of ERP in Remote Work Environments]]></summary>
         <author>
             <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NerdioCon 2024 – Day 4 Conference vlog – YouTube]]></title>
+        <id>https://365community.online/nerdiocon-2024-day-4-conference-vlog-youtube</id>
+        <link href="https://365community.online/nerdiocon-2024-day-4-conference-vlog-youtube"/>
+        <updated>2024-02-16T17:20:18.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to I Am IT Geeks day 4 vlog at the NerdioCon 2024 conference! This is a bonus video where I show some highlights from the closing party on the […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
         </author>
     </entry>
     <entry>

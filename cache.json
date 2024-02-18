@@ -4955,6 +4955,26 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/generic-javascript-functions-to-associate-and-disassociate-dataverse-records-using-the-power-pages-web-api",
+          "author": "michelcarlo",
+          "description": "In my previous post Creating and removing N:N relationship between Dataverse records using Javascript and Power Pages Web API I showed how we can leverage the Power Pages Web API […]",
+          "link": "https://365community.online/generic-javascript-functions-to-associate-and-disassociate-dataverse-records-using-the-power-pages-web-api",
+          "publishedOn": "2024-02-17T17:43:41.000Z",
+          "wordCount": 3215,
+          "title": "Generic JavaScript Functions to Associate and Disassociate Dataverse records using the Power Pages Web API",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/generic.png?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/resolved-web-resource-method-does-not-exist-in-dynamics-365-ce-javascript-error",
+          "author": "Arun Potti",
+          "description": "Recently, when I was opening a Case record and on onload, I got the below error message. One of the scripts for this record has caused an error. For more […]",
+          "link": "https://365community.online/resolved-web-resource-method-does-not-exist-in-dynamics-365-ce-javascript-error",
+          "publishedOn": "2024-02-17T02:35:03.000Z",
+          "wordCount": 3071,
+          "title": "[Resolved] Web resource method does not exist in Dynamics 365 CE JavaScript Error",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/microsoft-dynamics-365.png?fit=647%2C336&ssl=1"
+        },
+        {
           "id": "https://365community.online/canadian-payroll-2023-t4s",
           "author": "Jen Kuntz",
           "description": "I received an email yesterday from someone I know via the Dynamics communities sites, asking me about the new Box 45 for Employer Offered Dental Benefits. The question was: is […]",
@@ -4963,6 +4983,26 @@
           "wordCount": 3070,
           "title": "Canadian Payroll 2023 T4s",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Moving-website-to-Hugo-amp-Azure.jpg?fit=1200%2C916&ssl=1"
+        },
+        {
+          "id": "https://365community.online/keep-your-dataverse-solution-clean-and-simple",
+          "author": "Linn Zaw Win",
+          "description": "Solutions are used to transport table metadata, apps, automations and other components from one environment to another in Dataverse or Power Platform projects. It is important to keep the solutions […]",
+          "link": "https://365community.online/keep-your-dataverse-solution-clean-and-simple",
+          "publishedOn": "2024-02-16T21:13:00.000Z",
+          "wordCount": 3032,
+          "title": "Keep Your Dataverse Solution Clean and Simple",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/Keep-Your-Dataverse-Solution-Clean-and-Simple.png?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/nerdiocon-2024-day-4-conference-vlog-youtube",
+          "author": "shabaz darr",
+          "description": "Welcome to I Am IT Geeks day 4 vlog at the NerdioCon 2024 conference! This is a bonus video where I show some highlights from the closing party on the […]",
+          "link": "https://365community.online/nerdiocon-2024-day-4-conference-vlog-youtube",
+          "publishedOn": "2024-02-16T17:20:18.000Z",
+          "wordCount": 2986,
+          "title": "NerdioCon 2024 – Day 4 Conference vlog – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1708161769_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         },
         {
           "id": "https://365community.online/copilots-in-microsoft-learn",
