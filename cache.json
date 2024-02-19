@@ -4985,6 +4985,16 @@
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Moving-website-to-Hugo-amp-Azure.jpg?fit=1200%2C916&ssl=1"
         },
         {
+          "id": "https://365community.online/government-api-development-playbook-designing-for-power-platform-and-building-custom-connectors",
+          "author": "Richard Wilson",
+          "description": "The article discusses integrating Government APIs with Microsoft Power Platform, emphasizing the creation and certification of custom connectors. It guides government API developers on adopting best practices and standards for […]",
+          "link": "https://365community.online/government-api-development-playbook-designing-for-power-platform-and-building-custom-connectors",
+          "publishedOn": "2024-02-16T21:18:00.000Z",
+          "wordCount": 3046,
+          "title": "Government API Development Playbook: Designing for Power Platform and Building Custom Connectors",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1708287554_Government-API-Development-Playbook-Designing-for-Power-Platform-and-Building.png?fit=1200%2C630&ssl=1"
+        },
+        {
           "id": "https://365community.online/keep-your-dataverse-solution-clean-and-simple",
           "author": "Linn Zaw Win",
           "description": "Solutions are used to transport table metadata, apps, automations and other components from one environment to another in Dataverse or Power Platform projects. It is important to keep the solutions […]",
@@ -10488,6 +10498,16 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=5737",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2024/02/18/hr-copilot-studio-application-part-1/",
+          "publishedOn": "2024-02-18T06:41:22.000Z",
+          "wordCount": 3335,
+          "title": "HR Copilot Studio Application – Part 1",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2024/01/englishtitle.jpg"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=5555",
           "author": "Ludwig Reinhard",
           "description": "Visit the post for more.",
@@ -14695,16 +14715,6 @@
           "wordCount": 2647,
           "title": "Arrival Overview: D365 Finance and Operations",
           "imageUrl": "https://dynamics-tips.com/wp-content/uploads/2022/09/ArrivalOverview.jpg"
-        },
-        {
-          "id": "https://dynamics-tips.com/?p=2240",
-          "author": "Tim Woods",
-          "description": "In Dynamics 365 Finance and Operations, default order settings are a core part of the product setup if you are using master planning in any capacity. The default order settings",
-          "link": "https://dynamics-tips.com/default-order-settings/",
-          "publishedOn": "2022-02-18T23:31:29.000Z",
-          "wordCount": 4541,
-          "title": "Default Order Settings: D365 Finance and Operations",
-          "imageUrl": "https://dynamics-tips.com/wp-content/uploads/2022/02/defaultordersetting.jpg"
         }
       ]
     },

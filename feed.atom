@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-02-18T00:40:48.829Z</updated>
+    <updated>2024-02-19T00:39:48.812Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HR Copilot Studio Application – Part 1]]></title>
+        <id>http://dynamicsax-fico.com/?p=5737</id>
+        <link href="https://dynamicsax-fico.com/2024/02/18/hr-copilot-studio-application-part-1/"/>
+        <updated>2024-02-18T06:41:22.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Generic JavaScript Functions to Associate and Disassociate Dataverse records using the Power Pages Web API]]></title>
         <id>https://365community.online/generic-javascript-functions-to-associate-and-disassociate-dataverse-records-using-the-power-pages-web-api</id>
@@ -48,6 +58,16 @@ Quote Generation with Product Configurator for Business Central
 Free Business Central Apps to Fill the Gaps]]></summary>
         <author>
             <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Government API Development Playbook: Designing for Power Platform and Building Custom Connectors]]></title>
+        <id>https://365community.online/government-api-development-playbook-designing-for-power-platform-and-building-custom-connectors</id>
+        <link href="https://365community.online/government-api-development-playbook-designing-for-power-platform-and-building-custom-connectors"/>
+        <updated>2024-02-16T21:18:00.000Z</updated>
+        <summary type="html"><![CDATA[The article discusses integrating Government APIs with Microsoft Power Platform, emphasizing the creation and certification of custom connectors. It guides government API developers on adopting best practices and standards for […]]]></summary>
+        <author>
+            <name>Richard Wilson</name>
         </author>
     </entry>
     <entry>
@@ -22477,16 +22497,6 @@ LedgerJournalCheckPost class creates one…]]></summary>
         <summary type="html"><![CDATA[Idea and Feature introductionAll of you are familiar with the Ideas portal, and in the Supply Chain Management team we do everything we can to include the features requested there into our plans.One feature in particular has been sitting there in the Warehouse management top 5 for quite a whileDrop down to select purchase order (and order line) when receiving via Mobile deviceThe problem]]></summary>
         <author>
             <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Default Order Settings: D365 Finance and Operations]]></title>
-        <id>https://dynamics-tips.com/?p=2240</id>
-        <link href="https://dynamics-tips.com/default-order-settings/"/>
-        <updated>2022-02-18T23:31:29.000Z</updated>
-        <summary type="html"><![CDATA[In Dynamics 365 Finance and Operations, default order settings are a core part of the product setup if you are using master planning in any capacity. The default order settings]]></summary>
-        <author>
-            <name>Tim Woods</name>
         </author>
     </entry>
 </feed>
