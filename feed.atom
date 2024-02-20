@@ -2,10 +2,129 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-02-19T00:39:48.812Z</updated>
+    <updated>2024-02-20T00:38:12.792Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MS Learn Fabric Analytics Engineer Challenge Part 12]]></title>
+        <id>https://365community.online/ms-learn-fabric-analytics-engineer-challenge-part-12</id>
+        <link href="https://365community.online/ms-learn-fabric-analytics-engineer-challenge-part-12"/>
+        <updated>2024-02-20T00:33:24.000Z</updated>
+        <summary type="html"><![CDATA[This post is the last in the series specifically about the modules in this Cloud Skills challenge. Yay! The deadline to complete the challenge is February 22, 2024, so I […]]]></summary>
+        <author>
+            <name>Jen Kuntz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MS Learn Fabric Analytics Engineer Challenge Part 5]]></title>
+        <id>https://365community.online/ms-learn-fabric-analytics-engineer-challenge-part-5</id>
+        <link href="https://365community.online/ms-learn-fabric-analytics-engineer-challenge-part-5"/>
+        <updated>2024-02-19T20:23:58.000Z</updated>
+        <summary type="html"><![CDATA[This post is about module 6 in the Cloud Skills challenge. Previous posts in this series: Part 1 (Introduction, Lakehouses) Part 2 (Apache Spark) Part 3 (Delta Lake tables) Part […]]]></summary>
+        <author>
+            <name>Jen Kuntz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Microsoft ERP Benefits for Employees]]></title>
+        <id>https://erpsoftwareblog.com/?p=104243</id>
+        <link href="https://erpsoftwareblog.com/2024/02/10-microsoft-erp-benefits-for-employees/"/>
+        <updated>2024-02-19T19:55:03.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Dynamics 365 Business Central is an all-in-one business management solution that’s easy to use and adapt, helping you connect your business and make smarter decisions.  Built on functionality within Microsoft Dynamics NAV and adaptable to […]
+The post 10 Microsoft ERP Benefits for Employees appeared first on ERP Software Blog.
+How To Get Perfect Reliable Data - The Hidden Ingredient To ERP Success
+Things to Know About D365 Business Central to grow your Business
+Are Your D365 Business Central Payments Truly Automated]]></summary>
+        <author>
+            <name>iCepts Technology Group, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Infraestrutura de TI e a sua relação com Aplicações de Negócio | EP#28 Romão’s Cast – YouTube]]></title>
+        <id>https://365community.online/infraestrutura-de-ti-e-a-sua-relacao-com-aplicacoes-de-negocio-ep28-romaos-cast-youtube</id>
+        <link href="https://365community.online/infraestrutura-de-ti-e-a-sua-relacao-com-aplicacoes-de-negocio-ep28-romaos-cast-youtube"/>
+        <updated>2024-02-19T14:07:54.000Z</updated>
+        <summary type="html"><![CDATA[Olá pessoal, tudo bem? 📱 Tópicos do Podcast: – Com a evolução da nuvem, como o pessoal de infra, governança e segurança foi impactado? – Dentro do cenário da Power […]]]></summary>
+        <author>
+            <name>Renato Romao de Souza</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generate Classes From Data In D365]]></title>
+        <id>https://365community.online/generate-classes-from-data-in-d365</id>
+        <link href="https://365community.online/generate-classes-from-data-in-d365"/>
+        <updated>2024-02-19T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Often times you need to send data from an external system into Microsoft Dynamics 365 for Finance and Supply Chain. Options include using the data migration framework, data entities, and […]]]></summary>
+        <author>
+            <name>Peter Ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generate Classes From Data In D365]]></title>
+        <id>https://dynamics365musings.com/?p=3487</id>
+        <link href="https://dynamics365musings.com/generate-classes-from-data/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=generate-classes-from-data"/>
+        <updated>2024-02-19T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Often times you need to send data from an external system into Microsoft Dynamics 365 for Finance and Supply Chain. Options include using the data migration framework, data entities, and custom services. When using custom services, learn how to generate classes from data that is sent in. Specifically, when the data is in JSON or... Continue Reading →
+The post Generate Classes From Data In D365 appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>peter.ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mobile Barcode Integration in Business Central 2024 by WMS Express]]></title>
+        <id>https://erpsoftwareblog.com/?p=104139</id>
+        <link href="https://erpsoftwareblog.com/2024/02/mobile-barcode-integration-in-business-central-2024-by-wms-express/"/>
+        <updated>2024-02-19T13:15:24.000Z</updated>
+        <summary type="html"><![CDATA[Maximize warehouse efficiency and productivity in Business Central with WMS Express. This free app empowers SMBs to integrate mobile barcode scanning for managing inventory and warehouse operations.
+The post Mobile Barcode Integration in Business Central 2024 by WMS Express appeared first on ERP Software Blog.
+Choosing the right Inventory Management WMS Supply Chain Platform
+Ditching Homegrown for Business Central's Shop Floor Edge
+From GP to Business Central: Elevate Shipping Processes]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crafting a Digital Future with Personal Stories and Advanced AI with Jon Russell and Mike Gowland]]></title>
+        <id>https://365community.online/crafting-a-digital-future-with-personal-stories-and-advanced-ai-with-jon-russell-and-mike-gowland</id>
+        <link href="https://365community.online/crafting-a-digital-future-with-personal-stories-and-advanced-ai-with-jon-russell-and-mike-gowland"/>
+        <updated>2024-02-19T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FULL SHOW NOTES https://podcast.nz365guy.com/527 Imagine intertwining the rhythms of personal passion with the beats of cutting-edge technology. That's the melody we play in our latest discussion with Jon Russell and […]]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to invoke Low-code plug-ins using Power Automate Cloud Flow]]></title>
+        <id>https://365community.online/how-to-invoke-low-code-plug-ins-using-power-automate-cloud-flow</id>
+        <link href="https://365community.online/how-to-invoke-low-code-plug-ins-using-power-automate-cloud-flow"/>
+        <updated>2024-02-19T09:27:41.000Z</updated>
+        <summary type="html"><![CDATA[In the previous blog post, we talked about low-code plugins using the Dataverse Accelerator App where we created an instant plug-in to calculate Billing Details. In this blog, we will […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customizing the Action Bar on Document Lines for Enhanced Efficiency.]]></title>
+        <id>https://365community.online/customizing-the-action-bar-on-document-lines-for-enhanced-efficiency</id>
+        <link href="https://365community.online/customizing-the-action-bar-on-document-lines-for-enhanced-efficiency"/>
+        <updated>2024-02-19T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi Readers, In this article we will discuss about How to customize the action bar on document lines in #msdyn365bc.  Demo Video –  Let me know your views in comment […]]]></summary>
+        <author>
+            <name>Saurav Dhyani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Enable Copilot for Model-Driven apps feature in Dynamics 365 CE Environment?]]></title>
+        <id>https://365community.online/how-to-enable-copilot-for-model-driven-apps-feature-in-dynamics-365-ce-environment</id>
+        <link href="https://365community.online/how-to-enable-copilot-for-model-driven-apps-feature-in-dynamics-365-ce-environment"/>
+        <updated>2024-02-19T03:01:47.000Z</updated>
+        <summary type="html"><![CDATA[Copilot for model-driven apps in Power Apps is a next-generation AI assistant for app users to get insights about the data in their apps through conversation in natural language. Copilot […]]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HR Copilot Studio Application – Part 1]]></title>
         <id>http://dynamicsax-fico.com/?p=5737</id>

@@ -1361,6 +1361,26 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=104243",
+          "author": "iCepts Technology Group, Inc.",
+          "description": "Microsoft Dynamics 365 Business Central is an all-in-one business management solution that’s easy to use and adapt, helping you connect your business and make smarter decisions.  Built on functionality within Microsoft Dynamics NAV and adaptable to […]\nThe post 10 Microsoft ERP Benefits for Employees appeared first on ERP Software Blog.\nHow To Get Perfect Reliable Data - The Hidden Ingredient To ERP Success\nThings to Know About D365 Business Central to grow your Business\nAre Your D365 Business Central Payments Truly Automated",
+          "link": "https://erpsoftwareblog.com/2024/02/10-microsoft-erp-benefits-for-employees/",
+          "publishedOn": "2024-02-19T19:55:03.000Z",
+          "wordCount": 7506,
+          "title": "10 Microsoft ERP Benefits for Employees",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=104139",
+          "author": "Insight Works",
+          "description": "Maximize warehouse efficiency and productivity in Business Central with WMS Express. This free app empowers SMBs to integrate mobile barcode scanning for managing inventory and warehouse operations.\nThe post Mobile Barcode Integration in Business Central 2024 by WMS Express appeared first on ERP Software Blog.\nChoosing the right Inventory Management WMS Supply Chain Platform\nDitching Homegrown for Business Central's Shop Floor Edge\nFrom GP to Business Central: Elevate Shipping Processes",
+          "link": "https://erpsoftwareblog.com/2024/02/mobile-barcode-integration-in-business-central-2024-by-wms-express/",
+          "publishedOn": "2024-02-19T13:15:24.000Z",
+          "wordCount": 7360,
+          "title": "Mobile Barcode Integration in Business Central 2024 by WMS Express",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/WMS-Express-250.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=104229",
           "author": "Insight Works",
           "description": "Discover how Product Configurator v3.9 transforms BOM & Routing management in Business Central, making manufacturing workflows smoother and more efficient.\nThe post Streamlining BOM and Routing Creation in Business Central: Product Configurator v3.9 appeared first on ERP Software Blog.\nWarehouse Insight Now Available for Dynamics 365 Business Central\nQuote Generation with Product Configurator for Business Central\nFree Business Central Apps to Fill the Gaps",
@@ -4954,6 +4974,91 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/ms-learn-fabric-analytics-engineer-challenge-part-12",
+          "author": "Jen Kuntz",
+          "description": "This post is the last in the series specifically about the modules in this Cloud Skills challenge. Yay! The deadline to complete the challenge is February 22, 2024, so I […]",
+          "link": "https://365community.online/ms-learn-fabric-analytics-engineer-challenge-part-12",
+          "publishedOn": "2024-02-20T00:33:24.000Z",
+          "wordCount": 3087,
+          "title": "MS Learn Fabric Analytics Engineer Challenge Part 12",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1708389365_MS-Learn-Fabric-Analytics-Engineer-Challenge-Part-12.png?fit=1200%2C899&ssl=1"
+        },
+        {
+          "id": "https://365community.online/ms-learn-fabric-analytics-engineer-challenge-part-5",
+          "author": "Jen Kuntz",
+          "description": "This post is about module 6 in the Cloud Skills challenge. Previous posts in this series: Part 1 (Introduction, Lakehouses) Part 2 (Apache Spark) Part 3 (Delta Lake tables) Part […]",
+          "link": "https://365community.online/ms-learn-fabric-analytics-engineer-challenge-part-5",
+          "publishedOn": "2024-02-19T20:23:58.000Z",
+          "wordCount": 3047,
+          "title": "MS Learn Fabric Analytics Engineer Challenge Part 5",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1708374465_MS-Learn-Fabric-Analytics-Engineer-Challenge-Part-5.png?fit=1200%2C899&ssl=1"
+        },
+        {
+          "id": "https://365community.online/infraestrutura-de-ti-e-a-sua-relacao-com-aplicacoes-de-negocio-ep28-romaos-cast-youtube",
+          "author": "Renato Romao de Souza",
+          "description": "Olá pessoal, tudo bem? 📱 Tópicos do Podcast: – Com a evolução da nuvem, como o pessoal de infra, governança e segurança foi impactado? – Dentro do cenário da Power […]",
+          "link": "https://365community.online/infraestrutura-de-ti-e-a-sua-relacao-com-aplicacoes-de-negocio-ep28-romaos-cast-youtube",
+          "publishedOn": "2024-02-19T14:07:54.000Z",
+          "wordCount": 3064,
+          "title": "Infraestrutura de TI e a sua relação com Aplicações de Negócio | EP#28 Romão’s Cast – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1708353841_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/generate-classes-from-data-in-d365",
+          "author": "Peter Ramer",
+          "description": "Often times you need to send data from an external system into Microsoft Dynamics 365 for Finance and Supply Chain. Options include using the data migration framework, data entities, and […]",
+          "link": "https://365community.online/generate-classes-from-data-in-d365",
+          "publishedOn": "2024-02-19T14:00:00.000Z",
+          "wordCount": 3016,
+          "title": "Generate Classes From Data In D365",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/Generate-Classes-From-Data-In-D365.png?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/crafting-a-digital-future-with-personal-stories-and-advanced-ai-with-jon-russell-and-mike-gowland",
+          "author": "NZ365Guy",
+          "description": "FULL SHOW NOTES https://podcast.nz365guy.com/527 Imagine intertwining the rhythms of personal passion with the beats of cutting-edge technology. That's the melody we play in our latest discussion with Jon Russell and […]",
+          "link": "https://365community.online/crafting-a-digital-future-with-personal-stories-and-advanced-ai-with-jon-russell-and-mike-gowland",
+          "publishedOn": "2024-02-19T13:00:00.000Z",
+          "wordCount": 3111,
+          "title": "Crafting a Digital Future with Personal Stories and Advanced AI with Jon Russell and Mike Gowland",
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/1796418/14366797-crafting-a-digital-future-with-personal-stories-and-advanced-ai-with-jon-russell-and-mike-gowland.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-invoke-low-code-plug-ins-using-power-automate-cloud-flow",
+          "author": "Inogic",
+          "description": "In the previous blog post, we talked about low-code plugins using the Dataverse Accelerator App where we created an instant plug-in to calculate Billing Details. In this blog, we will […]",
+          "link": "https://365community.online/how-to-invoke-low-code-plug-ins-using-power-automate-cloud-flow",
+          "publishedOn": "2024-02-19T09:27:41.000Z",
+          "wordCount": 3343,
+          "title": "How to invoke Low-code plug-ins using Power Automate Cloud Flow",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1Power-Automate-Cloud-Flow.jpeg?fit=1200%2C564&ssl=1"
+        },
+        {
+          "id": "https://365community.online/customizing-the-action-bar-on-document-lines-for-enhanced-efficiency",
+          "author": "Saurav Dhyani",
+          "description": "Hi Readers, In this article we will discuss about How to customize the action bar on document lines in #msdyn365bc.  Demo Video –  Let me know your views in comment […]",
+          "link": "https://365community.online/customizing-the-action-bar-on-document-lines-for-enhanced-efficiency",
+          "publishedOn": "2024-02-19T04:30:00.000Z",
+          "wordCount": 2979,
+          "title": "Customizing the Action Bar on Document Lines for Enhanced Efficiency.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/Customizing-the-Action-Bar-on-Document-Lines-for-Enhanced-Efficiency.jpeg?fit=480%2C360&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-enable-copilot-for-model-driven-apps-feature-in-dynamics-365-ce-environment",
+          "author": "Arun Potti",
+          "description": "Copilot for model-driven apps in Power Apps is a next-generation AI assistant for app users to get insights about the data in their apps through conversation in natural language. Copilot […]",
+          "link": "https://365community.online/how-to-enable-copilot-for-model-driven-apps-feature-in-dynamics-365-ce-environment",
+          "publishedOn": "2024-02-19T03:01:47.000Z",
+          "wordCount": 3095,
+          "title": "How to Enable Copilot for Model-Driven apps feature in Dynamics 365 CE Environment?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/microsoft-copilot.webp.png?fit=1200%2C1200&ssl=1"
+        },
         {
           "id": "https://365community.online/generic-javascript-functions-to-associate-and-disassociate-dataverse-records-using-the-power-pages-web-api",
           "author": "michelcarlo",
@@ -11707,6 +11812,16 @@
       "feedUrl": "https://dynamics365musings.com/feed/",
       "siteUrl": "https://dynamics365musings.com/",
       "articles": [
+        {
+          "id": "https://dynamics365musings.com/?p=3487",
+          "author": "peter.ramer",
+          "description": "Often times you need to send data from an external system into Microsoft Dynamics 365 for Finance and Supply Chain. Options include using the data migration framework, data entities, and custom services. When using custom services, learn how to generate classes from data that is sent in. Specifically, when the data is in JSON or... Continue Reading →\nThe post Generate Classes From Data In D365 appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/generate-classes-from-data/?utm_source=rss&utm_medium=rss&utm_campaign=generate-classes-from-data",
+          "publishedOn": "2024-02-19T14:00:00.000Z",
+          "wordCount": 4370,
+          "title": "Generate Classes From Data In D365",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2024/02/Generate-Classes-From-Data-In-D365.png"
+        },
         {
           "id": "https://dynamics365musings.com/?p=3387",
           "author": "peter.ramer",
