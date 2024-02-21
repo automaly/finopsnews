@@ -2,10 +2,280 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-02-20T00:38:12.792Z</updated>
+    <updated>2024-02-21T00:38:21.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Managing Quality Assurance (QA) in Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=104281</id>
+        <link href="https://erpsoftwareblog.com/2024/02/managing-quality-assurance-qa-in-business-central/"/>
+        <updated>2024-02-21T00:12:15.000Z</updated>
+        <summary type="html"><![CDATA[Unveil how the Quality Inspector app redefines Quality Assurance (QA) in Business Central, boosting efficiency and product quality standards.
+The post Managing Quality Assurance (QA) in Business Central appeared first on ERP Software Blog.
+Everything is Taxable until Proven Otherwise
+SalesPad’s Roadmap to an Even Better “All- in-One” Sales Management Solution - Now R2 Compatible
+Your ZIP code might be creating audit risk. Here’s why..]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project intercompany invoice sales tax calculation bug in 10.0.37]]></title>
+        <id>https://alexvoy.blogspot.com/2024/02/project-intercompany-invoice-sales-tax.html</id>
+        <link href="https://alexvoy.blogspot.com/2024/02/project-intercompany-invoice-sales-tax.html"/>
+        <updated>2024-02-20T22:24:00.004Z</updated>
+        <summary type="html"><![CDATA[While Microsoft working on this issue, let me show you how you can fix it in the current code running on 10.0.37 or lower.
+Scenario
+When using the project intercompany customer invoice form in Project management and accounting module , you can create a customer invoice to bill to an intercompany customer. As the customer is intercompany, there is a legal entity (LE) associated with that customer. When posting the intercompany customer invoice, a pending vendor invoice is created in the customer’s LE with the same lines from the customer invoice.
+
+
+You can see calculated Sales taxes via Sales tax button
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Issue
+
+
+If you try to add more lines, it will be added with line number 1, and sales taxes won't be added with this newly added line. Note: If you delete any line here a…]]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigating Business Central Reporting Options]]></title>
+        <id>https://erpsoftwareblog.com/?p=104262</id>
+        <link href="https://erpsoftwareblog.com/2024/02/navigating-business-central-reporting-options-cosmos/"/>
+        <updated>2024-02-20T17:40:24.000Z</updated>
+        <summary type="html"><![CDATA[In the digital age, where data dictates decisions, the crucial role swift, accurate reporting plays in growth, efficiency, and success cannot be overstated. While Microsoft Dynamics 365 Business Central offers […]
+The post Navigating Business Central Reporting Options appeared first on ERP Software Blog.
+Self-Service Analytics: Exploring Your ERP Data for Maximum Insights
+Professional Sports Team Financial Reporting with Dynamics GP
+Ariett Showcases New Dashboards and BI Reporting at GP User Group Summit]]></summary>
+        <author>
+            <name>Cosmos Data Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The comprehensive checklist for seamless subscription billing]]></title>
+        <id>https://erpsoftwareblog.com/?p=103314</id>
+        <link href="https://erpsoftwareblog.com/2024/02/the-comprehensive-checklist-for-seamless-subscription-billing/"/>
+        <updated>2024-02-20T16:57:19.000Z</updated>
+        <summary type="html"><![CDATA[Subscription billing lies at the heart of modern businesses, powering recurring revenue models and ensuring financial stability. However, the key to a successful subscription billing strategy is in choosing the […]
+The post The comprehensive checklist for seamless subscription billing appeared first on ERP Software Blog.
+Let Document Management Soften the Blow of a Disaster
+Dynamics GP – The Top 5 System Administrator Tools!
+How to Control Costs with New Overtime Regulations]]></summary>
+        <author>
+            <name>Binary Stream</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigating the Transition: Dynamics SL to Business Central Migration Strategies]]></title>
+        <id>https://erpsoftwareblog.com/?p=104259</id>
+        <link href="https://erpsoftwareblog.com/2024/02/dynamics-sl-to-business-central-migration-strategies/"/>
+        <updated>2024-02-20T16:25:38.000Z</updated>
+        <summary type="html"><![CDATA[In the realm of enterprise resource planning (ERP) systems, change is inevitable. As technology evolves and business needs shift, companies often find themselves at the crossroads of upgrading their ERP […]
+The post Navigating the Transition: Dynamics SL to Business Central Migration Strategies appeared first on ERP Software Blog.
+Types of data that can be migrated from Dynamics GP to Business Central
+Transitioning from Dynamics SL to Business Central: Streamlining Your Business Operations
+Dynamics GP to Dynamics 365 Business Central migration]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Integrate eCommerce platform with an ERP?]]></title>
+        <id>https://erpsoftwareblog.com/?p=104249</id>
+        <link href="https://erpsoftwareblog.com/2024/02/why-integrate-ecommerce-platform-with-an-erp/"/>
+        <updated>2024-02-20T14:43:51.000Z</updated>
+        <summary type="html"><![CDATA[Why Integrate an eCommerce platform with an ERP? There can be multiple reasons for integration as per the business needs. This article discusses some key benefits of integration for overall […]
+The post Why Integrate eCommerce platform with an ERP? appeared first on ERP Software Blog.
+The Role of ERP & eCommerce Integration in Multi-channel eCommerce Management
+Dynamics GP & POS (RMH) Integration by x2x-eCommerce
+Significance of Integrated Systems for Businesses]]></summary>
+        <author>
+            <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next-Gen Solutions: Exploring the Benefits of Business Central Over Dynamics NAV]]></title>
+        <id>https://erpsoftwareblog.com/?p=104252</id>
+        <link href="https://erpsoftwareblog.com/2024/02/next-gen-solutions-exploring-the-benefits-of-business-central-over-dynamics-nav/"/>
+        <updated>2024-02-20T14:01:26.000Z</updated>
+        <summary type="html"><![CDATA[In the dynamic landscape of enterprise resource planning (ERP) systems, staying ahead of the curve is essential for businesses to thrive. For companies currently utilizing Dynamics NAV (formerly Navision), the transition to […]
+The post Next-Gen Solutions: Exploring the Benefits of Business Central Over Dynamics NAV appeared first on ERP Software Blog.
+How to Upgrade Dynamics NAV to Business Central in 2023?
+Types of data that can be migrated from Dynamics GP to Business Central
+Navigating the Upgrade: Steps to Move from Dynamics NAV to Business Central]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Flow Training | Microsoft Flow Certification Course | Microsoft Flow Tutorial | MindMajix – YouTube]]></title>
+        <id>https://365community.online/microsoft-flow-training-microsoft-flow-certification-course-microsoft-flow-tutorial-mindmajix-youtube</id>
+        <link href="https://365community.online/microsoft-flow-training-microsoft-flow-certification-course-microsoft-flow-tutorial-mindmajix-youtube"/>
+        <updated>2024-02-20T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This MindMajix’s YouTube video on Microsoft Flow training will help you learn how to automate apps and services. This Microsoft Flow course include topics like introduction to Flow, build flows, […]]]></summary>
+        <author>
+            <name>Jaya Sri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Know Browser and OS Details in Power Apps using Host Object]]></title>
+        <id>https://365community.online/how-to-know-browser-and-os-details-in-power-apps-using-host-object</id>
+        <link href="https://365community.online/how-to-know-browser-and-os-details-in-power-apps-using-host-object"/>
+        <updated>2024-02-20T09:35:16.000Z</updated>
+        <summary type="html"><![CDATA[Recently, I was working on a project where we created a Login form in the Canvas App compatible with iPhone systems only. Throughout the development phase, we faced challenges in […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 Wave 1 Release Notes: D365 Field Service]]></title>
+        <id>https://365community.online/2024-wave-1-release-notes-d365-field-service</id>
+        <link href="https://365community.online/2024-wave-1-release-notes-d365-field-service"/>
+        <updated>2024-02-20T09:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Like every year, I’ve been writing several articles about the features included in the 2024 Wave 1 release for Dynamics 365 CX! In the first article of this series, I […]]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 Release Wave 1 – D365 Field Service – YouTube]]></title>
+        <id>https://365community.online/2024-release-wave-1-d365-field-service-youtube</id>
+        <link href="https://365community.online/2024-release-wave-1-d365-field-service-youtube"/>
+        <updated>2024-02-20T09:11:00.000Z</updated>
+        <summary type="html"><![CDATA[2024 Release Wave 1 – D365 Field Service This is the 4th video in my series about 2024 Release Wave 1. In this video I will discuss and explain features […]]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Internal Notification Emails For Event Forms In Realtime Marketing]]></title>
+        <id>https://365community.online/internal-notification-emails-for-event-forms-in-realtime-marketing</id>
+        <link href="https://365community.online/internal-notification-emails-for-event-forms-in-realtime-marketing"/>
+        <updated>2024-02-20T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[I’ve previously written about creating internal notification email for Realtime Marketing Form Submissions. This post is an extension of that, and covers the scenario of someone submitting a Realtime form […]]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to retrieve the value from array or list in logic app]]></title>
+        <id>https://kishoredynamics11.blogspot.com/2024/02/how-to-retrieve-value-from-array-or.html</id>
+        <link href="https://kishoredynamics11.blogspot.com/2024/02/how-to-retrieve-value-from-array-or.html"/>
+        <updated>2024-02-20T08:22:00.000Z</updated>
+        <summary type="html"><![CDATA[As per my requirement, I need to trigger third-party API. Upon a successful response, the API provides an array containing the Account ID. I have to retrieve this value without utilizing a for-each loop.
+ I have successfully met this requirement using the following approach. 
+
+
+Below is the JSON format:
+"OrderLines": [
+    {
+	"line": "1",
+	"orderedAccount": {
+	    "Reference": {
+		"AccountID": "ABC1234"
+		}
+	    }
+    }
+]
+I have used the Below expression:
+"body('HTTP')?['OrderLines']?[0]?['orderedAccount']?['Reference']?['AccountID']"
+
+
+"OrderLines": [
+    {
+	"Reference": {
+	    "AccountID": "ABC1234"
+	   }
+    },
+    {
+	"Reference": {
+	    "AccountID": "ABC1235"
+	    }
+    }
+],
+I have used the Below expression:
+"body('HTTP')?['OrderLines']?[0]?['Reference']?['AccountID']"
+Output: ABC1234.
+
+
+Keep Daxing!!]]></summary>
+        <author>
+            <name>Dynamics World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: introducing the new Table Key module]]></title>
+        <id>https://365community.online/dynamics-365-business-central-introducing-the-new-table-key-module</id>
+        <link href="https://365community.online/dynamics-365-business-central-introducing-the-new-table-key-module"/>
+        <updated>2024-02-20T08:07:45.000Z</updated>
+        <summary type="html"><![CDATA[One of the announced features for Dynamics 365 Business Central 2024 Wave 1 release is the possibility to enable or disable indexes via AL code. For that scope (at the […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot now helps users draft text input in canvas apps]]></title>
+        <id>copilot-now-helps-users-draft-text-input-in-canvas-apps</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/copilot-now-helps-users-draft-text-input-in-canvas-apps/"/>
+        <updated>2024-02-20T08:00:33.000Z</updated>
+        <summary type="html"><![CDATA[We’re excited to announce Copilot assistance for inputting text when using Canvas apps. This new feature leverages the power of AI to help users craft well-written text, simplifying and speeding up the process of entering text in an app.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MB 260: Describe real-time ingestion capabilities and limitations]]></title>
+        <id>https://365community.online/mb-260-describe-real-time-ingestion-capabilities-and-limitations</id>
+        <link href="https://365community.online/mb-260-describe-real-time-ingestion-capabilities-and-limitations"/>
+        <updated>2024-02-20T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the post MB-260: Describe support for near real-time updates we go through what the real-time updates are, what the prerequisites are, what can be done and how. In this […]]]></summary>
+        <author>
+            <name>Malin Martnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overflowing with content]]></title>
+        <id>https://365community.online/overflowing-with-content</id>
+        <link href="https://365community.online/overflowing-with-content"/>
+        <updated>2024-02-20T07:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Howdy reader and welcome to the first O in the A to Z Accessibility: Power Platform Edition. In this article we are Overflowing with content, or rather talking about what […]]]></summary>
+        <author>
+            <name>Mike Hartley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#msdyn365bc Defining Regional Settings per Report with the Region Property.]]></title>
+        <id>https://365community.online/msdyn365bc-defining-regional-settings-per-report-with-the-region-property</id>
+        <link href="https://365community.online/msdyn365bc-defining-regional-settings-per-report-with-the-region-property"/>
+        <updated>2024-02-20T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi Readers, Report Output values are generated based on Regional Settings set by developers while designing reports.  In this article we will discuss about new features where there are more […]]]></summary>
+        <author>
+            <name>Saurav Dhyani</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MS Learn Fabric Analytics Engineer Challenge Part 12]]></title>
         <id>https://365community.online/ms-learn-fabric-analytics-engineer-challenge-part-12</id>
@@ -4426,6 +4696,16 @@ Create a Closed-Loop Analysis, Planning, and Reporting Process
 How Can Microsoft Dynamics enable better data access with powerful Financial Reporting?]]></summary>
         <author>
             <name>Lori Johnson, MetaViewer Paperless AP Automation for Microsoft Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Streamline Your Calendar and Reduce Email Distractions with Power Automate]]></title>
+        <id>how-to-streamline-your-calendar-and-reduce-email-distractions-with-power-automate</id>
+        <link href="https://powerautomate.microsoft.com/en-nz/blog/how-to-streamline-your-calendar-and-reduce-email-distractions-with-power-automate/"/>
+        <updated>2024-01-22T15:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover three new Power Automate templates that help you focus on your critical tasks and save time.]]></summary>
+        <author>
+            <name>powerautomate.microsoft.com</name>
         </author>
     </entry>
     <entry>
@@ -22606,16 +22886,6 @@ LedgerJournalCheckPost class creates one…]]></summary>
         <summary type="html"><![CDATA[Today I want to share a small trick I learned this week from a colleague of mine. I wasn’t aware of this possibility and couldn’t find any documentation on this. So it is more of a reminder post for myself, and maybe I am not the last person to learn about this. When we want […]]]></summary>
         <author>
             <name>Marijan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Tutorial] Look up data in the Warehouse management app using detours]]></title>
-        <id>http://kashperuk.blogspot.com/2022/02/tutorial-look-up-data-in-warehouse.html</id>
-        <link href="http://kashperuk.blogspot.com/2022/02/tutorial-look-up-data-in-warehouse.html"/>
-        <updated>2022-02-21T09:00:00.003Z</updated>
-        <summary type="html"><![CDATA[Idea and Feature introductionAll of you are familiar with the Ideas portal, and in the Supply Chain Management team we do everything we can to include the features requested there into our plans.One feature in particular has been sitting there in the Warehouse management top 5 for quite a whileDrop down to select purchase order (and order line) when receiving via Mobile deviceThe problem]]></summary>
-        <author>
-            <name>Microsoft Cloud Solutions - Tools &amp; Tutorials</name>
         </author>
     </entry>
 </feed>
