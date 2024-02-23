@@ -1371,6 +1371,46 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=104344",
+          "author": "Dynamics Square UK",
+          "description": "SAP B1 to Dynamics 365 Business Central SAP B1 has been a reliable solution for small to mid-sized businesses, offering functionalities across finance, operations, and customer relations. However, the shift […]\nThe post Migrating from SAP B1 to Dynamics 365 Business Central appeared first on ERP Software Blog.\nIs Your “Cloud ERP” Really Cloud Based?\nAvastone Technologies to Merge with Heartland Business Systems\nManaging Expectations in Your Move to ERP",
+          "link": "https://erpsoftwareblog.com/2024/02/sap-b1-to-dynamics-365-business-central/",
+          "publishedOn": "2024-02-22T19:45:08.000Z",
+          "wordCount": 8028,
+          "title": "Migrating from SAP B1 to Dynamics 365 Business Central",
+          "imageUrl": "https://www.dynamicssquare.co.uk/_next/image/?url=%2Fimg%2Fbusiness-center-new-banner.png&w=2048&q=75"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=104338",
+          "author": "Jason Ochipa, Tensoft, Inc.",
+          "description": "When you make a sale there is a record of the sale. The sale could be online or in app, it could also exist in your financial or CRM solution. […]\nThe post How to Manage Revenue Agreements in Tensoft Revenue Lens appeared first on ERP Software Blog.\nSoftware Revenue Recognition Training: Online Course\nIs Your ERP Ready for the FASB/IASB Revenue Standard?\nRevenue Recognition for Technology Companies - Free Webcast",
+          "link": "https://erpsoftwareblog.com/2024/02/how-to-manage-revenue-agreements-in-tensoft-revenue-lens/",
+          "publishedOn": "2024-02-22T17:25:52.000Z",
+          "wordCount": 4935,
+          "title": "How to Manage Revenue Agreements in Tensoft Revenue Lens",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Managing-Revenue-Agreements-Tensoft-.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=104330",
+          "author": "Calsoft Systems",
+          "description": "Finding the right ERP partner is just as crucial as choosing the right technology. Fortunately, Microsoft Dynamics 365, a leading ERP suite, empowers you with not only cutting-edge solutions […]\nThe post Why Choosing an ERP Partner with Microsoft Gold Partner Certification is Essential appeared first on ERP Software Blog.\nMicrosoft Partner Network - Gold, Silver Competencies and What it All Means\nMicrosoft Dynamics GP and Cargas Energy Make a Perfect Software Pair for Energy Distributors\nHow to Seamlessly Transfer Data from Excel to Microsoft Dynamics GP",
+          "link": "https://erpsoftwareblog.com/2024/02/why-choosing-an-erp-partner-with-microsoft-gold-partner-certification-is-essential/",
+          "publishedOn": "2024-02-22T17:03:06.000Z",
+          "wordCount": 5031,
+          "title": "Why Choosing an ERP Partner with Microsoft Gold Partner Certification is Essential",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/gold-partner.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=104326",
+          "author": "DynamicPoint",
+          "description": "Learn how to unlock the power of customer and vendor portals with Office 365 to streamline processes while boosting customer service levels and increasing efficiencies. Access the webinar HERE. \nThe post WEBINAR ON DEMAND: Unlock the Power of Customer and Vendor Portals with Office 365 appeared first on ERP Software Blog.\nSave Money with SmartIT!\nNew Budgeting Features in Microsoft Dynamics GP 2010\nBacking Up Your Dynamics SL Data",
+          "link": "https://erpsoftwareblog.com/2024/02/webinar-on-demand-unlock-the-power-of-customer-and-vendor-portals-with-office-365/",
+          "publishedOn": "2024-02-22T15:47:03.000Z",
+          "wordCount": 4735,
+          "title": "WEBINAR ON DEMAND: Unlock the Power of Customer and Vendor Portals with Office 365",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/DP-221-webinar-4.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=104266",
           "author": "Mekorma",
           "description": "[Boulder, CO, February 5, 2023] – Mekorma, a renowned leader in providing innovative accounts payable automation solutions, is proud to announce its latest milestone: achieving the status of Microsoft Solutions Partner […]\nThe post Mekorma Achieves Microsoft Solutions Partner Status appeared first on ERP Software Blog.\nWant To Lower The True Costs Of Your Microsoft Dynamics Software? Section 179 is expiring 12/31/2009...\nExploring ERP: Service Management in Microsoft Dynamics NAV 2013\n3 Challenges an ERP System Can Help You Overcome",
@@ -5064,6 +5104,96 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/welsh-azure-user-group-february-2024-meet-up",
+          "author": "John Lunn",
+          "description": "It was the day of our Welsh Azure User Group #WAUG February 2024 meet up and we had yet another two amazing speakers join us. We were joined by Tiago […]",
+          "link": "https://365community.online/welsh-azure-user-group-february-2024-meet-up",
+          "publishedOn": "2024-02-22T18:27:59.000Z",
+          "wordCount": 3229,
+          "title": "Welsh Azure User Group February 2024 Meet Up!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/Welsh-Azure-User-Group-February-2024-Meet-Up.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/azure-key-vault-support-in-isvlicensegenerator-v0-7",
+          "author": "Adrià Ariste Santacreu",
+          "description": "I’m once again back with a new version of the ISVLicenseGenerator tool, the piece of software I created with a modified version of the standard AXUtil.dll library that lets us […]",
+          "link": "https://365community.online/azure-key-vault-support-in-isvlicensegenerator-v0-7",
+          "publishedOn": "2024-02-22T15:49:09.000Z",
+          "wordCount": 3258,
+          "title": "Azure Key Vault support in ISVLicenseGenerator v0.7",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/Azure-Key-Vault-support-in-ISVLicenseGenerator-v07.png?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/exploring-detail-map-control-enhancements-to-travel-smartly-on-the-field-with-dynamics-365-maps-integration",
+          "author": "Inogic",
+          "description": "The post Exploring Detail Map Control enhancements to travel smartly on the Field with Dynamics 365 Maps Integration! appeared first on Blog | Maplytics. Source link",
+          "link": "https://365community.online/exploring-detail-map-control-enhancements-to-travel-smartly-on-the-field-with-dynamics-365-maps-integration",
+          "publishedOn": "2024-02-22T12:44:52.000Z",
+          "wordCount": 3406,
+          "title": "Exploring Detail Map Control enhancements to travel smartly on the Field with Dynamics 365 Maps Integration!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/Explore-the-hidden-features-of-maps-integrated-within-Dynamics-365-CRM-for-improved-Field-Management.png?fit=700%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/exploring-polymorphism-in-c-comprehensive-guide-youtube",
+          "author": "Sourav Raj",
+          "description": "Exploring Polymorphism in C++ | Comprehensive Guide Dive into the fascinating world of polymorphism in C++ with this in-depth tutorial! Whether you’re a beginner or looking to enhance your understanding […]",
+          "link": "https://365community.online/exploring-polymorphism-in-c-comprehensive-guide-youtube",
+          "publishedOn": "2024-02-22T08:13:35.000Z",
+          "wordCount": 3208,
+          "title": "Exploring Polymorphism in C++ | Comprehensive Guide – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1708600347_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/mastering-abstraction-in-c-with-implementation-youtube",
+          "author": "Sourav Raj",
+          "description": "Mastering Abstraction in C++ | With Implementation Unlock the power of abstraction in C++ with this comprehensive tutorial! Whether you’re new to programming or looking to deepen your understanding of […]",
+          "link": "https://365community.online/mastering-abstraction-in-c-with-implementation-youtube",
+          "publishedOn": "2024-02-22T07:36:43.000Z",
+          "wordCount": 3320,
+          "title": "Mastering Abstraction in C++ | With Implementation – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1708615539_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/one-size-fits-one",
+          "author": "Mike Hartley",
+          "description": "Step inside to O2 tailoring where we know that One Size Fits One. This is an extra post for the letter O in the A to Z Accessibility: Power Platform […]",
+          "link": "https://365community.online/one-size-fits-one",
+          "publishedOn": "2024-02-22T07:21:32.000Z",
+          "wordCount": 3168,
+          "title": "One Size Fits One",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/One-Size-Fits-One.png?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/conditional-statements-in-c-if-if-else-if-else-if-and-nested-if-youtube",
+          "author": "Sourav Raj",
+          "description": "Conditional Statements in C++ | if , if..else, if-else-if and nested if Unlock the power of conditional statements in C++ with this in-depth tutorial! Whether you’re new to programming or […]",
+          "link": "https://365community.online/conditional-statements-in-c-if-if-else-if-else-if-and-nested-if-youtube",
+          "publishedOn": "2024-02-22T05:54:09.000Z",
+          "wordCount": 3362,
+          "title": "Conditional Statements in C++ | if , if..else, if-else-if and nested if – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1708630870_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-create-a-new-database-in-msdyn365bc-on-premises",
+          "author": "Saurav Dhyani",
+          "description": "Hi Readers, In this article we will discuss about Creating New Database in Business Central On-Prem.  Typically, during implementation, a blank database is required. In this video, we discussed about […]",
+          "link": "https://365community.online/how-to-create-a-new-database-in-msdyn365bc-on-premises",
+          "publishedOn": "2024-02-22T04:30:00.000Z",
+          "wordCount": 3197,
+          "title": "How to Create a New Database in #msdyn365bc On-Premises.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/How-to-Create-a-New-Database-in-msdyn365bc-On-Premises.jpeg?fit=480%2C360&ssl=1"
+        },
+        {
+          "id": "https://365community.online/is-dsa-required-in-web-development-youtube",
+          "author": "Sourav Raj",
+          "description": "Is DSA Required in Web Development source",
+          "link": "https://365community.online/is-dsa-required-in-web-development-youtube",
+          "publishedOn": "2024-02-21T17:51:08.000Z",
+          "wordCount": 3116,
+          "title": "Is DSA Required in Web Development – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1708646480_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
         {
           "id": "https://365community.online/ddmrp-additional-features-decoupling-point-status-collaborative-execution",
           "author": "yohann-D365Tour",
@@ -12723,6 +12853,26 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/02/21/dynamics-365-business-central-sustainability/",
+          "author": "Aleksandar Totovic",
+          "description": "We're excited to announce that Dynamics 365 Business Central will soon offer new sustainability features that will help you comply with the latest standards and best practices, as well as drive positive changes for your business and the environment. \nThe post Sustainability in Dynamics 365 Business Central: A New Way to Measure and Manage Your Environmental Impact appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2024/02/21/dynamics-365-business-central-sustainability/",
+          "publishedOn": "2024-02-21T17:17:20.000Z",
+          "wordCount": 3180,
+          "title": "Sustainability in Dynamics 365 Business Central: A New Way to Measure and Manage Your Environmental Impact",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/02/water-1024x685.png"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/02/19/use-microsoft-copilot-for-service-with-your-external-crm/",
+          "author": "Kat Taylor",
+          "description": "Just like Copilot in Dynamics 365 Customer Service, Copilot for Service enables agents to easily manage customer inquiries, track service requests, and provide personalized support.\nThe post Use Microsoft Copilot for Service with your external CRM  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2024/02/19/use-microsoft-copilot-for-service-with-your-external-crm/",
+          "publishedOn": "2024-02-19T18:39:35.000Z",
+          "wordCount": 3118,
+          "title": "Use Microsoft Copilot for Service with your external CRM",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2017/06/262589_5F00_ServiceAgents.jpg"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/02/16/optimizing-warehouse-management-unveiling-the-power-of-d365-warehouse-mobile-app-version-2-1-23/",
           "author": "Michael Fruergaard Pontoppidan and Denis Conway",
           "description": "The unveiling of the D365 Warehouse Mobile App's latest iteration, version 2.1.23, marks a notable advancement in warehouse management technology. It introduces a range of upgraded features aimed at enriching user interaction and optimizing processes. Notably, this update prioritizes authentication, stability, and user-friendliness, addressing the intricate challenges faced by businesses aiming to refine their warehouse management.\nThe post Optimizing Warehouse Management: Unveiling the Power of D365 Warehouse Mobile App Version 2.1.23 appeared first on Microsoft Dynamics 365 Blog.",
@@ -14591,7 +14741,7 @@
       ]
     },
     {
-      "title": "Birger Larsen – AX / Dynamics 365 blog on WMS",
+      "title": "Birger Larsen – Dynamics 365 for operations blog on WMS",
       "feedUrl": "https://axscm.wordpress.com/feed/",
       "siteUrl": "https://axscm.wordpress.com",
       "articles": [
