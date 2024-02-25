@@ -5145,6 +5145,26 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/conquer-dynamics-365-crm-chaos-with-copilot-and-inogic-data-recovery-app",
+          "author": "Inogic",
+          "description": "Ever feel like your Dynamics 365 CRM is a whirlwind of data updates? As a sales rep, you are juggling leads, opportunities, and customer data; every edit ripples through the […]",
+          "link": "https://365community.online/conquer-dynamics-365-crm-chaos-with-copilot-and-inogic-data-recovery-app",
+          "publishedOn": "2024-02-24T09:45:38.000Z",
+          "wordCount": 3563,
+          "title": "Conquer Dynamics 365 CRM Chaos with Copilot and Inogic Data Recovery App!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/Data-Recovery-App.png?fit=1200%2C686&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-set-up-an-ssl-certificate-for-ms-dynamics-365-business-central-on-premises",
+          "author": "Saurav Dhyani",
+          "description": "Hi Readers, In this article we will discuss about Steps to setup SSL Certificate in Business Central on-prem environment.  This video describes all steps w.r.t Creating and Deploying Test SSL […]",
+          "link": "https://365community.online/how-to-set-up-an-ssl-certificate-for-ms-dynamics-365-business-central-on-premises",
+          "publishedOn": "2024-02-24T04:30:00.000Z",
+          "wordCount": 3234,
+          "title": "How to Set Up an SSL Certificate for MS Dynamics 365 Business Central On-Premises.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/How-to-Set-Up-an-SSL-Certificate-for-MS-Dynamics.jpeg?fit=480%2C360&ssl=1"
+        },
+        {
           "id": "https://365community.online/how-to-fix-button-in-modern-command-bar-disappearing-after-grid-item-selection",
           "author": "Linn Zaw Win",
           "description": "This post provides a resolution for the issue that the modern command button added to the Main Grid, Subgrid View or Associated View doesn’t appear as expected after one or […]",
@@ -5193,6 +5213,16 @@
           "wordCount": 3222,
           "title": "MB-260: Transform, cleanse, and load data by using Power Query",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/MB-260-Transform-cleanse-and-load-data-by-using-Power-Query.jpg?fit=1200%2C618&ssl=1"
+        },
+        {
+          "id": "https://365community.online/weekly-update-132-23rd-february-2024-youtube",
+          "author": "Sarah Lean ???????",
+          "description": "Weekly Update #132 – 23rd February 2024 Join me as I look at the latest Azure updates from the past week. Join me as I look at the latest Azure […]",
+          "link": "https://365community.online/weekly-update-132-23rd-february-2024-youtube",
+          "publishedOn": "2024-02-23T07:12:03.000Z",
+          "wordCount": 3146,
+          "title": "Weekly Update #132 – 23rd February 2024 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/02/1708792020_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         },
         {
           "id": "https://365community.online/microsoft-dynamics-365-field-service-an-approach-to-data-migration-of-work-orders-from-external-systems",
@@ -13657,6 +13687,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2824",
+          "author": "Saurabh Bharti",
+          "description": "Welcome to part 7 of our exploration into Inventory Valuation within Microsoft Dynamics 365 Finance and Operations. In this video I will be talking about revaluation moving average valuation method. Revaluation of moving average feature helps you to redefine your cost price for the product as on date. It works like the adjustment feature which […]",
+          "link": "https://exploredynamics365.home.blog/2024/02/24/revaluation-of-moving-average-in-microsoft-dynamics-365-finance-and-operations-part-7/",
+          "publishedOn": "2024-02-24T12:44:09.000Z",
+          "wordCount": 3149,
+          "title": "Revaluation of Moving average in Microsoft Dynamics 365 Finance and Operations: Part-7",
+          "imageUrl": "http://img.youtube.com/vi/AJqONgiS3SY/0.jpg"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2821",
           "author": "Saurabh Bharti",
           "description": "Welcome to the next video on “Learning Path to Become Functional consultant” series. This is the next part on requirement gathering process, Gather and document requirements. After you prepare for your requirement gathering process, now it’s time for get into the requirement gathering activity and document them. In this video I talk about the end-to-end […]",
@@ -13873,6 +13913,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2824",
+          "author": "Saurabh Bharti",
+          "description": "Welcome to part 7 of our exploration into Inventory Valuation within Microsoft Dynamics 365 Finance and Operations. In this video I will be talking about revaluation moving average valuation method. Revaluation of moving average feature helps you to redefine your cost price for the product as on date. It works like the adjustment feature which […]",
+          "link": "https://exploredynamics365.home.blog/2024/02/24/revaluation-of-moving-average-in-microsoft-dynamics-365-finance-and-operations-part-7/",
+          "publishedOn": "2024-02-24T12:44:09.000Z",
+          "wordCount": 3149,
+          "title": "Revaluation of Moving average in Microsoft Dynamics 365 Finance and Operations: Part-7",
+          "imageUrl": "http://img.youtube.com/vi/AJqONgiS3SY/0.jpg"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2821",
           "author": "Saurabh Bharti",
