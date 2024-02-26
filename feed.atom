@@ -2,10 +2,176 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-02-25T00:40:52.532Z</updated>
+    <updated>2024-02-26T00:39:44.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Using Git in PackagesLocalDirectory – VS 2022 Edition]]></title>
+        <id>https://365community.online/using-git-in-packageslocaldirectory-vs-2022-edition</id>
+        <link href="https://365community.online/using-git-in-packageslocaldirectory-vs-2022-edition"/>
+        <updated>2024-02-25T20:32:23.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 02/25/24. Last modified:  02/25/24 Using Git in PackagesLocalDirectory – VS 2022 Edition This article is an update of this post to show how to use Git […]]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Git in PackagesLocalDirectory - VS 2022 Edition]]></title>
+        <id>1688 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/article/using-git-packageslocaldirectory-vs-2022-edition"/>
+        <updated>2024-02-25T20:32:23.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 02/25/24.
+
+
+Last modified: 
+
+02/25/24
+
+
+
+
+
+
+
+
+
+
+
+
+Using Git in PackagesLocalDirectory - VS 2022 Edition
+
+This article is an update of this post to show how to use Git in PackagesLocalDirectory when using Visual Studio 2022.
+Open VS 2022. Open the Git Changes Tab then click on Clone Repository
+
+Click on Azure DevOps
+
+Select your repo from the available projects, review settings and click "Clone". Note location to be used for later.
+
+Click Clone.
+Next, close Visual Studio and install Git from https://git-scm.com/download/win accepting the defaults if you're uncertain what the installer is asking you.
+Next, Open PowerShell as an admin to run the following commands. Update the paths to what is appropriate for your scenario first.
+#Update for your VM / environment
+…]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Git in PackagesLocalDirectory - VS 2019 Edition]]></title>
+        <id>1687 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/article/using-git-packageslocaldirectory-vs-2019-edition"/>
+        <updated>2024-02-25T20:31:42.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 02/25/24.
+
+
+Last modified: 
+
+02/25/24
+
+
+
+
+
+
+
+
+
+
+
+
+Using Git in PackagesLocalDirectory - VS 2019 Edition
+This article is an update of this post to show how to use Git in PackagesLocalDirectory when using Visual Studio 2019.
+Open VS 2019. Open the Team Explorer tab then click on "connect" for Azure DevOps.
+
+Connect to your Azure DevOps Project
+
+Next, Clone the repository.
+
+Review settings and click "Clone". Note locations used for later.
+
+Click Clone.
+Next, close Visual Studio and install Git from https://git-scm.com/download/win accepting the defaults if you're uncertain what the installer is asking you.
+Next, Open PowerShell as an admin to run the following commands. Update the paths to what is appropriate for your scenario first.
+#Update for your VM / environ…]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Database Inserts - Primary Table]]></title>
+        <id>1677 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/content/database-inserts-primary-table"/>
+        <updated>2024-02-25T20:09:36.000Z</updated>
+        <summary type="html"><![CDATA[Does the process of inserting data with Code matter for performance by table?
+
+When inserting data in F&O, there are several best practices on how to do this from MSFT. But when inserting data, do those best practices really matter? Can I code up a solution that is less than ideal and still have a workable solution? Let's find out. This will only look at Azure hosted VM performance for the time being. 
+Firstly, as a refresher, we'll be reviewing the basic workloads outlined here: https://www.atomicax.com/article/database-inserts-and-performance. We'll be examining the results using a "Primary Table"; CustTable specifically in this instance.
+The Results
+Single Insert
+The basic test used here is available at https://www.atomicax.com/article/database-inserts-and-performance#Single...
+
+This is…]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Database Inserts - Transaction Table]]></title>
+        <id>1678 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/content/database-inserts-transaction-table"/>
+        <updated>2024-02-25T20:09:07.000Z</updated>
+        <summary type="html"><![CDATA[Does the process of inserting data with Code matter for performance?
+
+When inserting data in F&O, there are several best practices on how to do this from MSFT. But for this specific type of workload, do those best practices really matter? Can I code up a solution that is less than ideal and still have a workable solution? Let's find out. This will only look at Azure hosted VM performance for the time being.
+Firstly, as a refresher, we'll be reviewing the basic workloads outlined here: https://www.atomicax.com/article/database-inserts-and-performance. In this series of tests, we'll be looking at table SalesTable.
+The Results
+Single Insert
+The basic test used here is available at https://www.atomicax.com/article/database-inserts-and-performance#Single...
+
+Similar to other tests, we're lookin…]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Database Inserts - Code Data Entity]]></title>
+        <id>1679 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/content/database-inserts-code-data-entity"/>
+        <updated>2024-02-25T20:08:29.000Z</updated>
+        <summary type="html"><![CDATA[Does the process of inserting data with Code matter for performance?
+
+When inserting data in F&O, there are several best practices on how to do this from MSFT. But for this specific type of workload, do those best practices really matter? Can I code up a solution that is less than ideal and still have a workable solution? Let's find out. This will only look at Azure hosted VM performance for the time being.
+Firstly, as a refresher, we'll be reviewing the basic workloads outlined here: https://www.atomicax.com/article/database-inserts-and-performance. 
+The Results
+Single Insert
+The basic test used here is available at https://www.atomicax.com/article/database-inserts-and-performance#Single...
+
+Similar to other tests, we are looking at a workload size of 1, 10, 250, and 1000. We can see that…]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My own Copilot: Nova]]></title>
+        <id>https://365community.online/my-own-copilot-nova</id>
+        <link href="https://365community.online/my-own-copilot-nova"/>
+        <updated>2024-02-25T18:03:09.000Z</updated>
+        <summary type="html"><![CDATA[After the Copilot series in Microsoft Reactor, I received some very kind messages about Nova. For those who haven’t seen the series, Nova is a Copilot I created to learn […]]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HR Copilot Studio Application – Part 2]]></title>
+        <id>http://dynamicsax-fico.com/?p=5742</id>
+        <link href="https://dynamicsax-fico.com/2024/02/25/hr-copilot-studio-application-part-2/"/>
+        <updated>2024-02-25T06:06:25.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Revaluation of Moving average in Microsoft Dynamics 365 Finance and Operations: Part-7]]></title>
         <id>http://exploredynamics365.home.blog/?p=2824</id>
@@ -24,6 +190,16 @@
         <summary type="html"><![CDATA[Welcome to part 7 of our exploration into Inventory Valuation within Microsoft Dynamics 365 Finance and Operations. In this video I will be talking about revaluation moving average valuation method. Revaluation of moving average feature helps you to redefine your cost price for the product as on date. It works like the adjustment feature which […]]]></summary>
         <author>
             <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Storage Classes in C++ | Complete Guide – YouTube]]></title>
+        <id>https://365community.online/understanding-storage-classes-in-c-complete-guide-youtube</id>
+        <link href="https://365community.online/understanding-storage-classes-in-c-complete-guide-youtube"/>
+        <updated>2024-02-24T09:47:08.000Z</updated>
+        <summary type="html"><![CDATA[Understanding Storage Classes in C++ | Complete Guide Delve into the intricate world of storage classes in C++ with this comprehensive tutorial! Whether you’re a beginner or seeking to deepen […]]]></summary>
+        <author>
+            <name>Sourav Raj</name>
         </author>
     </entry>
     <entry>
@@ -34,6 +210,36 @@
         <summary type="html"><![CDATA[Ever feel like your Dynamics 365 CRM is a whirlwind of data updates? As a sales rep, you are juggling leads, opportunities, and customer data; every edit ripples through the […]]]></summary>
         <author>
             <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering the Switch Statement in C++ | Complete Guide – YouTube]]></title>
+        <id>https://365community.online/mastering-the-switch-statement-in-c-complete-guide-youtube</id>
+        <link href="https://365community.online/mastering-the-switch-statement-in-c-complete-guide-youtube"/>
+        <updated>2024-02-24T09:09:37.000Z</updated>
+        <summary type="html"><![CDATA[Mastering the Switch Statement in C++ | Complete Guide Unlock the full potential of control flow in C++ with this comprehensive tutorial on the “switch” statement! Whether you’re a beginner […]]]></summary>
+        <author>
+            <name>Sourav Raj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring Recursion in C++ | C++ Tutorial for Beginners – YouTube]]></title>
+        <id>https://365community.online/exploring-recursion-in-c-c-tutorial-for-beginners-youtube</id>
+        <link href="https://365community.online/exploring-recursion-in-c-c-tutorial-for-beginners-youtube"/>
+        <updated>2024-02-24T08:42:42.000Z</updated>
+        <summary type="html"><![CDATA[Exploring Recursion in C++ | C++ Tutorial for Beginners Dive deep into the world of recursion in C++ with this comprehensive tutorial! Whether you’re new to programming or looking to […]]]></summary>
+        <author>
+            <name>Sourav Raj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering the While Loop in C++ | Complete Guide – YouTube]]></title>
+        <id>https://365community.online/mastering-the-while-loop-in-c-complete-guide-youtube</id>
+        <link href="https://365community.online/mastering-the-while-loop-in-c-complete-guide-youtube"/>
+        <updated>2024-02-24T05:02:53.000Z</updated>
+        <summary type="html"><![CDATA[Mastering the While Loop in C++ | Complete Guide Unlock the full potential of iteration in C++ with this comprehensive tutorial on the “while” loop! Whether you’re a beginner or […]]]></summary>
+        <author>
+            <name>Sourav Raj</name>
         </author>
     </entry>
     <entry>
