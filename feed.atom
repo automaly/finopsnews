@@ -2,10 +2,215 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-02-27T00:37:27.605Z</updated>
+    <updated>2024-02-28T00:37:17.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Azure blob – Tier architechture]]></title>
+        <id>https://365community.online/azure-blob-tier-architechture</id>
+        <link href="https://365community.online/azure-blob-tier-architechture"/>
+        <updated>2024-02-27T21:31:59.000Z</updated>
+        <summary type="html"><![CDATA[Azure services groups the services into four – Blob, Files, Queues,Tables. Though we are familiar with these terms , learning the usage and purpose can leverage cost benefit. Today`s post […]]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure blob – Tier architechture]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=3420</id>
+        <link href="https://anithasantosh.wordpress.com/2024/02/27/azure-blob-tier-architechture/"/>
+        <updated>2024-02-27T21:31:59.000Z</updated>
+        <summary type="html"><![CDATA[Azure services groups the services into four – Blob, Files, Queues,Tables. Though we are familiar with these terms , learning the usage and purpose can leverage cost benefit. Today`s post focuses on blobs and its tiers. Blob stands for Binary … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Follow Microsoft to trigger plugins by Bulk Operations]]></title>
+        <id>https://365community.online/follow-microsoft-to-trigger-plugins-by-bulk-operations</id>
+        <link href="https://365community.online/follow-microsoft-to-trigger-plugins-by-bulk-operations"/>
+        <updated>2024-02-27T20:51:26.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has recently urged us to move all our plugin steps from messages: Create, Update, Delete to instead use: CreateMultiple, UpdateMultiple, and DeleteMultiple. I like that.I like that a lot […]]]></summary>
+        <author>
+            <name>Jonas Rapp ᴹᴠᴾ ??</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Five Supply Chain Enhancements Featured in the Spring MSDW Showcase for Dynamics 365 Finance (AX)]]></title>
+        <id>https://erpsoftwareblog.com/?p=104483</id>
+        <link href="https://erpsoftwareblog.com/2024/02/five-supply-chain-enhancements-featured-in-the-spring-msdw-showcase-for-dynamics-365-finance-ax/"/>
+        <updated>2024-02-27T20:12:49.000Z</updated>
+        <summary type="html"><![CDATA[Today’s growing businesses face a host of challenges, including supplier disruptions, transportation inefficiencies, regulatory compliance issues, and the increasing complexity of global supply chains. Such disruptions can lead to delayed […]
+The post Five Supply Chain Enhancements Featured in the Spring MSDW Showcase for Dynamics 365 Finance (AX) appeared first on ERP Software Blog.
+Time to Upgrade Your TMS or Maybe Move to a New Provider ?
+Top 3 reasons for equipment-driven companies to use DynaRent industry-specific lifecycle services
+Top bet for streamlining equipment rental processes: DynaRent for Microsoft Dynamics 365 and Dynamics AX]]></summary>
+        <author>
+            <name>ERP Software Blog Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gain Control of Your Supply Chain in Business Central with 5 Tools Featured in the Spring 2024 MSDW Showcase]]></title>
+        <id>https://erpsoftwareblog.com/?p=104478</id>
+        <link href="https://erpsoftwareblog.com/2024/02/gain-control-of-your-supply-chain-in-business-central-with-5-tools-featured-in-the-spring-2024-msdw-showcase/"/>
+        <updated>2024-02-27T20:04:49.000Z</updated>
+        <summary type="html"><![CDATA[Today's businesses grapple with supply chain management challenges that stem from a variety of sources, including increasing globalization, customer demands for faster and more reliable deliveries, and the need for […]
+The post Gain Control of Your Supply Chain in Business Central with 5 Tools Featured in the Spring 2024 MSDW Showcase appeared first on ERP Software Blog.
+Get More in the Cloud with Dynamics 365 Business Central
+Insight Works Proudly Announces New Partner Acquisitions for March
+What industry newbies can learn from “The State of Dynamics 365 Business Central and Manufacturing Report”]]></summary>
+        <author>
+            <name>ERP Software Blog Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supercharge Your Workflow: Unleashing Copilot's Power in the Microsoft 365 Universe]]></title>
+        <id>https://erpsoftwareblog.com/?p=104467</id>
+        <link href="https://erpsoftwareblog.com/2024/02/supercharge-your-workflow-unleashing-copilots-power-in-the-microsoft-365-universe/"/>
+        <updated>2024-02-27T19:36:52.000Z</updated>
+        <summary type="html"><![CDATA[Imagine a world where your team has a secret weapon: an AI assistant seamlessly woven into your everyday tools, whispering suggestions and automating tasks. That's the reality with Microsoft Copilot […]
+The post Supercharge Your Workflow: Unleashing Copilot's Power in the Microsoft 365 Universe appeared first on ERP Software Blog.
+Copilot and Dynamics 365 ERP: A Match Made for Efficiency
+WebSan Solutions Inc. Invites You to Our Third Annual Interactive Virtual Half-Day Conference: Dynamics Virtual Launchpad!
+Register Now for JourneyTEAM’s 2021 Business Technology Summit]]></summary>
+        <author>
+            <name>Andrew King, WebSan Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Asset Management Training]]></title>
+        <id>https://www.erpsoftwareblog.com/?p=81334</id>
+        <link href="https://erpsoftwareblog.com/2024/02/microsoft-asset-management-training/"/>
+        <updated>2024-02-27T18:47:02.000Z</updated>
+        <summary type="html"><![CDATA[Are you or you clients involved in asset-intensive sectors like energy, utilities, manufacturing, mining, construction, water supply, agriculture, accommodation, food service, transportation? Learn how Microsoft Asset Management Module can optimize […]
+The post Microsoft Asset Management Training appeared first on ERP Software Blog.
+How construction equipment rental businesses can add dealership to their portfolio
+Top bet for streamlining equipment rental processes: DynaRent for Microsoft Dynamics 365 and Dynamics AX
+Webinar: Benefits of Rental Business Intelligence Solution]]></summary>
+        <author>
+            <name>Dynaway</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maximize your AEC firm’s productivity, agility, and profitability with AI solutions]]></title>
+        <id>https://erpsoftwareblog.com/?p=104460</id>
+        <link href="https://erpsoftwareblog.com/2024/02/maximize-your-aec-firms-productivity-agility-and-profitability-with-ai-solutions/"/>
+        <updated>2024-02-27T18:38:18.000Z</updated>
+        <summary type="html"><![CDATA[Artificial Intelligence (AI) is driving increased efficiencies across industries, and the dynamic field of Architecture, Engineering, and Construction (AEC) is no exception. This game-changing technology provides pivotal tools for firms […]
+The post Maximize your AEC firm’s productivity, agility, and profitability with AI solutions appeared first on ERP Software Blog.
+Join JourneyTEAM's Tech Insider Update Webinar on 8/6
+Check Out DynamicPoint’s Product Video Galleries
+On-Demand Webinar: Using Data to Drive SMB Growth and Scale? Power BI Makes It Easy!]]></summary>
+        <author>
+            <name>HSO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project Status Update Reports on Projects using Copilot in Project Operations]]></title>
+        <id>https://365community.online/project-status-update-reports-on-projects-using-copilot-in-project-operations</id>
+        <link href="https://365community.online/project-status-update-reports-on-projects-using-copilot-in-project-operations"/>
+        <updated>2024-02-27T18:15:03.000Z</updated>
+        <summary type="html"><![CDATA[Now that you must have enabled Copilot for Project Operations [If not, you can refer this post to learn how you can enable Copilot for Project Operations – Enable Copilot […]]]></summary>
+        <author>
+            <name>Priyesh Wagh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How we (probably) broke limits at the #BCAIHackathon]]></title>
+        <id>https://365community.online/how-we-probably-broke-limits-at-the-bcaihackathon</id>
+        <link href="https://365community.online/how-we-probably-broke-limits-at-the-bcaihackathon"/>
+        <updated>2024-02-27T18:04:25.000Z</updated>
+        <summary type="html"><![CDATA[Last week Microsoft organized the #BCAIHackathon initiative, a 3 days dedicated to create innovative solutions using generative AI in Dynamics 365 Business Central and (probably) to bring new ideas on […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Release of D365FO Admin Toolkit v1.3]]></title>
+        <id>https://365community.online/new-release-of-d365fo-admin-toolkit-v1-3</id>
+        <link href="https://365community.online/new-release-of-d365fo-admin-toolkit-v1-3"/>
+        <updated>2024-02-27T15:28:05.000Z</updated>
+        <summary type="html"><![CDATA[Excited to announce the v1.3 release of the D365FO Admin Toolkit! Version 1.3 Release D365FO Admin Toolkit v1.3 Deployable Package D365FO Admin Toolkit GitHub Note: The deployable package has been built […]]]></summary>
+        <author>
+            <name>Alex Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Release of D365FO Admin Toolkit v1.3]]></title>
+        <id>https://alexdmeyer.com/?p=3069</id>
+        <link href="https://alexdmeyer.com/2024/02/27/new-release-of-d365fo-admin-toolkit-v1-3/"/>
+        <updated>2024-02-27T15:28:05.000Z</updated>
+        <summary type="html"><![CDATA[Excited to announce the v1.3 release of the D365FO Admin Toolkit! Version 1.3 Release D365FO Admin Toolkit v1.3 Deployable Package D365FO Admin Toolkit GitHub Note: The deployable package has been built against a CY24Q1: 10.0.38 version of D365FO, which is now GA. Navigation Updates I started to break out the different features into separate sub menus […]
+The post New Release of D365FO Admin Toolkit v1.3 appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How ERP-eCommerce Integration Impacts Sales Volume?]]></title>
+        <id>https://erpsoftwareblog.com/?p=104408</id>
+        <link href="https://erpsoftwareblog.com/2024/02/how-erp-ecommerce-integration-impacts-sales-volume/"/>
+        <updated>2024-02-27T13:22:46.000Z</updated>
+        <summary type="html"><![CDATA[ERP-eCommerce Integration has a noteworthy impact on sales volume, productivity scale, customer affairs, and decision-making strategies. This article discusses How ERP-eCommerce Integration Impacts Sales Volume? Organized Operations: Organize major key […]
+The post How ERP-eCommerce Integration Impacts Sales Volume? appeared first on ERP Software Blog.
+Why x2x-eCommerce for BC & Shopify Integration? 
+5 Reasons Why Magento is the Preferred eCommerce Cart for Dynamics ERP Systems
+Key Features for a Successful B2B eCommerce Store]]></summary>
+        <author>
+            <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Automate with Azure OpenAI Services to analyze Buyer Behaviour – an AI app by Inogic!]]></title>
+        <id>https://365community.online/power-automate-with-azure-openai-services-to-analyze-buyer-behaviour-an-ai-app-by-inogic</id>
+        <link href="https://365community.online/power-automate-with-azure-openai-services-to-analyze-buyer-behaviour-an-ai-app-by-inogic"/>
+        <updated>2024-02-27T10:01:52.000Z</updated>
+        <summary type="html"><![CDATA[Azure OpenAI is a cloud-based service offered by Microsoft that provides access to advanced artificial intelligence models developed by OpenAI. It empowers developers to integrate these powerful models into their […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPPB ’24 Special Edition [A to Z a11y]]]></title>
+        <id>https://365community.online/gppb-24-special-edition-a-to-z-a11y</id>
+        <link href="https://365community.online/gppb-24-special-edition-a-to-z-a11y"/>
+        <updated>2024-02-27T08:55:22.000Z</updated>
+        <summary type="html"><![CDATA[This special edition post is for the GPPB ’24 event. I was asked to speak at the Orlando event but the session could not be played. So here’s the full […]]]></summary>
+        <author>
+            <name>Mike Hartley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Google Tag Manager For Your Realtime Marketing Form Scripts]]></title>
+        <id>https://365community.online/using-google-tag-manager-for-your-realtime-marketing-form-scripts</id>
+        <link href="https://365community.online/using-google-tag-manager-for-your-realtime-marketing-form-scripts"/>
+        <updated>2024-02-27T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[I’ve shared information on getting set up with Google Tag Manager in the past, and also on how to add different scripts to work with your Realtime Marketing scripts. In […]]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MB-260: Describe the differences between individual consumer and business account profiles]]></title>
+        <id>https://365community.online/mb-260-describe-the-differences-between-individual-consumer-and-business-account-profiles</id>
+        <link href="https://365community.online/mb-260-describe-the-differences-between-individual-consumer-and-business-account-profiles"/>
+        <updated>2024-02-27T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Some people are customers not connected to a company only as individuals (B2C). While other people are customers through their employer (B2B). When Customer Insights -Data was first released only […]]]></summary>
+        <author>
+            <name>Malin Martnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to get the Client Version of the Model Driven Apps?]]></title>
+        <id>https://365community.online/how-to-get-the-client-version-of-the-model-driven-apps</id>
+        <link href="https://365community.online/how-to-get-the-client-version-of-the-model-driven-apps"/>
+        <updated>2024-02-27T05:39:46.000Z</updated>
+        <summary type="html"><![CDATA[Follow the below steps to know the Client Version of the Model-Driven Apps that you are using. Step 1: Open any Model Driven App. Step 2: Click on Settings. Step […]]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Improve Dynamics GP Reporting: Delivering Financials to 400 Stores in One Click]]></title>
         <id>https://erpsoftwareblog.com/?p=104387</id>
