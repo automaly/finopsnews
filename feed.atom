@@ -2,10 +2,202 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-02-28T00:37:17.882Z</updated>
+    <updated>2024-02-29T00:37:45.594Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Fix Common Invoice Discrepancies with Automation]]></title>
+        <id>https://erpsoftwareblog.com/?p=104542</id>
+        <link href="https://erpsoftwareblog.com/2024/02/how-to-fix-common-invoice-discrepancies-with-automation/"/>
+        <updated>2024-02-28T22:15:47.000Z</updated>
+        <summary type="html"><![CDATA[Invoice discrepancies are common! They may lead to delays, strain supplier relationships, and create financial errors. Fortunately, MetaViewer's AI-driven Accounts Payable (AP) automation provides a practical solution to many typical […]
+The post How to Fix Common Invoice Discrepancies with Automation appeared first on ERP Software Blog.
+AP Automation: Inside or Outside the ERP? Weighing the pros and cons
+Adding AP Automation to Existing Systems
+Create a Closed-Loop Analysis, Planning, and Reporting Process]]></summary>
+        <author>
+            <name>Lori Johnson, MetaViewer Paperless AP Automation for Microsoft Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leverage Microsoft Business Central for Better Supply Chain Management]]></title>
+        <id>https://erpsoftwareblog.com/?p=104531</id>
+        <link href="https://erpsoftwareblog.com/2024/02/leverage-microsoft-business-central-for-better-supply-chain-management/"/>
+        <updated>2024-02-28T21:02:31.000Z</updated>
+        <summary type="html"><![CDATA[In the dynamic landscape of modern business, Supply Chain Management (SCM) plays a pivotal role in the success of organizations. To meet the demands of today's global markets, businesses are […]
+The post Leverage Microsoft Business Central for Better Supply Chain Management appeared first on ERP Software Blog.
+Cycle Counting vs. Full Physical Counts: A Comprehensive Inventory Insight
+Master the Art of Inventory Counts with Dynamics 365 Business Central
+Parcel for Microsoft Dynamics 365 Finance and Operations]]></summary>
+        <author>
+            <name>iCepts Technology Group, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ISV Partners: How They Benefit Microsoft Dynamics 365 BC Users]]></title>
+        <id>https://erpsoftwareblog.com/?p=104238</id>
+        <link href="https://erpsoftwareblog.com/2024/02/isv-partners-how-they-benefit-microsoft-dynamics-365-bc-users/"/>
+        <updated>2024-02-28T20:06:19.000Z</updated>
+        <summary type="html"><![CDATA[Even robust, feature-filled ERP solutions like Microsoft Dynamics 365 BC can benefit from specialized ISV or third-party software solutions. What are ISVs? ISVs, Independent Software Vendors, develop and sell software […]
+The post ISV Partners: How They Benefit Microsoft Dynamics 365 BC Users appeared first on ERP Software Blog.
+How can we simplify the scheduling data in Business Central for our customers?
+Webinar | Business Central Add-on Spotlight Series - ADP
+Business Central Add-on Spotlight Webinar | Binary Stream Multi-Entity Management]]></summary>
+        <author>
+            <name>Innovia Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embrace Seamless Transition: Cloud Migration with Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=104521</id>
+        <link href="https://erpsoftwareblog.com/2024/02/embrace-seamless-transition-cloud-migration-with-business-central/"/>
+        <updated>2024-02-28T17:57:20.000Z</updated>
+        <summary type="html"><![CDATA[In today’s rapidly evolving business landscape, staying competitive means staying agile. Embracing digital transformation is no longer an option but a necessity. As businesses strive to optimize processes, enhance productivity, […]
+The post Embrace Seamless Transition: Cloud Migration with Business Central appeared first on ERP Software Blog.
+How Business Central in the Cloud Can Help You Scale & Thrive
+How does Business Central offer enhanced reporting and data access?
+Navigating the Upgrade: Steps to Move from Dynamics NAV to Business Central]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New awesome feature in Power Apps! How to Run SQL Server stored procedures without Power Automate in 2024]]></title>
+        <id>https://365community.online/new-awesome-feature-in-power-apps-how-to-run-sql-server-stored-procedures-without-power-automate-in-2024</id>
+        <link href="https://365community.online/new-awesome-feature-in-power-apps-how-to-run-sql-server-stored-procedures-without-power-automate-in-2024"/>
+        <updated>2024-02-28T17:05:15.000Z</updated>
+        <summary type="html"><![CDATA[Recently Microsoft released a new feature in Power Apps that will let you call SQL Stored procedures without needing to call a flow in Power Automate What are SQL Server […]]]></summary>
+        <author>
+            <name>Pieter Veenstra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vyas Inside Sales & Counter Sales for D365: The key to provide acceleration to Wholesale Distributors]]></title>
+        <id>https://erpsoftwareblog.com/?p=104454</id>
+        <link href="https://erpsoftwareblog.com/2024/02/wholesaledistribution-inside-sales/"/>
+        <updated>2024-02-28T17:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Efficiency. Speed. Great returns. Seamless Operations. How do you think any organization who is into wholesale business with huge product lines spread across demography’s can achieve this? There are various […]
+The post Vyas Inside Sales & Counter Sales for D365: The key to provide acceleration to Wholesale Distributors appeared first on ERP Software Blog.
+Overcome Tax Management Challenges by Leveraging Microsoft Dynamics 365 Automation
+The Product-as-a-Service advantage — a potential game-changer for equipment manufacturers
+Register Now for JourneyTEAM’s 2021 Business Technology Summit]]></summary>
+        <author>
+            <name>Vyas Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lessons learned from not trusting my gut]]></title>
+        <id>https://365community.online/lessons-learned-from-not-trusting-my-gut</id>
+        <link href="https://365community.online/lessons-learned-from-not-trusting-my-gut"/>
+        <updated>2024-02-28T16:18:32.000Z</updated>
+        <summary type="html"><![CDATA[It's been an expensive couple of weeks for me. I love/hate "life lessons". They hurt, but make me stronger if I learn from my mistakes. I've been wrapping up two […]]]></summary>
+        <author>
+            <name>Jen Kuntz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Achieve more than ever with AI & Copilot for Microsoft 365]]></title>
+        <id>https://erpsoftwareblog.com/?p=104511</id>
+        <link href="https://erpsoftwareblog.com/2024/02/achieve-more-than-ever-with-ai-copilot-for-microsoft-365/"/>
+        <updated>2024-02-28T16:10:39.000Z</updated>
+        <summary type="html"><![CDATA[Elevate your creativity and innovation with Copilot for Microsoft 365. Copilot seamlessly integrates and collaborates across the suite of familiar Microsoft 365 apps including Microsoft Teams, Word, Excel, PowerPoint, Outlook, […]
+The post Achieve more than ever with AI & Copilot for Microsoft 365 appeared first on ERP Software Blog.
+Copilot and Dynamics 365 ERP: A Match Made for Efficiency
+Register Now for JourneyTEAM’s 2021 Business Technology Summit
+Learn How To Save Time By Using The "Cancel" Option to Reverse A Posted Sales Invoice]]></summary>
+        <author>
+            <name>Open Door Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlocking Data Magic: A Guide to Next-Level Reports and Insights]]></title>
+        <id>https://erpsoftwareblog.com/?p=104290</id>
+        <link href="https://erpsoftwareblog.com/2024/02/unlocking-data-magic-a-guide-to-next-level-reports-and-insights/"/>
+        <updated>2024-02-28T14:48:55.000Z</updated>
+        <summary type="html"><![CDATA[Shhhhhhh - don't let your competitors hear about or attend this webinar! Organizations that can capture, understand, and use their data in real-time are going to have a competitive advantage […]
+The post Unlocking Data Magic: A Guide to Next-Level Reports and Insights appeared first on ERP Software Blog.
+Automate Repetitive Desktop Tasks with Power Automate Desktop
+Connectors Help ISV Solutions Thrive in The Microsoft Ecosystem 
+Power Apps for ERP Systems: 7 Use Cases]]></summary>
+        <author>
+            <name>TrinSoft, LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serendipity in Systems: Andrew Lencsak's Unplanned Path to MVP and Championing Dynamics ERP & Community Content Creation]]></title>
+        <id>https://365community.online/serendipity-in-systems-andrew-lencsaks-unplanned-path-to-mvp-and-championing-dynamics-erp-community-content-creation</id>
+        <link href="https://365community.online/serendipity-in-systems-andrew-lencsaks-unplanned-path-to-mvp-and-championing-dynamics-erp-community-content-creation"/>
+        <updated>2024-02-28T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FULL SHOW NOTES https://podcast.nz365guy.com/530 Ever wonder how stumbling into a career can lead to a dynamic love affair with technology? Our guest, Andrew Lencsak, an ERP delivery director and freshly […]]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixed – System.InvalidOperationException: Message size exceeded when attempting to send response to sandbox. Message Size 123 Mb. Max Allowed 128974848 Mb (Dataverse / Dynamics 365 )]]></title>
+        <id>https://365community.online/fixed-system-invalidoperationexception-message-size-exceeded-when-attempting-to-send-response-to-sandbox-message-size-123-mb-max-allowed-128974848-mb-dataverse-dynamics-365</id>
+        <link href="https://365community.online/fixed-system-invalidoperationexception-message-size-exceeded-when-attempting-to-send-response-to-sandbox-message-size-123-mb-max-allowed-128974848-mb-dataverse-dynamics-365"/>
+        <updated>2024-02-28T11:26:14.000Z</updated>
+        <summary type="html"><![CDATA[Recently we got the below exception for one of our plugins Message: System.InvalidOperationException: Message size exceeded when attempting to send response to sandbox. Message Size 123 Mb. Max Allowed 128974848 […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Utilize a model for work classification based on sentiment prediction in Dynamics 365]]></title>
+        <id>https://365community.online/utilize-a-model-for-work-classification-based-on-sentiment-prediction-in-dynamics-365</id>
+        <link href="https://365community.online/utilize-a-model-for-work-classification-based-on-sentiment-prediction-in-dynamics-365"/>
+        <updated>2024-02-28T09:59:02.000Z</updated>
+        <summary type="html"><![CDATA[Introduction Work items can be routed using artificial intelligence (AI)-based sentiment predictions in Microsoft’s Unified Routing for Dynamics 365. Let’s say the user begins a customer service conversation via the […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Versatile Document Management for Dynamics 365 with Axtension® Content Gate]]></title>
+        <id>https://erpsoftwareblog.com/?p=104393</id>
+        <link href="https://erpsoftwareblog.com/2024/02/versatile-document-management-for-dynamics-365-with-axtension-content-gate/"/>
+        <updated>2024-02-28T09:16:49.000Z</updated>
+        <summary type="html"><![CDATA[In modern business, managing documents efficiently is not just a necessity but a backbone for operational success. From maintaining the latest version of a document to ensuring seamless collaboration across […]
+The post Versatile Document Management for Dynamics 365 with Axtension® Content Gate appeared first on ERP Software Blog.
+Time for Cities and Municipalities to Get Off of the Invoice Processing Treadmill
+How Do I Ensure Data Quality During PLM-ERP Integration for D365 ERP?
+VIDEO: Payment Automation Made Easy with LISA BusinessPro and GoCardless]]></summary>
+        <author>
+            <name>Axtension</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing General Availability for Shared Device Mode for Power Apps on iOS]]></title>
+        <id>announcing-general-availability-for-shared-device-mode-for-power-apps-on-ios</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-for-shared-device-mode-for-power-apps-on-ios/"/>
+        <updated>2024-02-28T08:00:35.000Z</updated>
+        <summary type="html"><![CDATA[General Availability (GA) of Shared Device Mode (SDM) for Power Apps Mobile App on shared iOS devices.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Ways the Microsoft Power Platform Boosts Scalability and Future-Proofs Housing Associations]]></title>
+        <id>https://365community.online/4-ways-the-microsoft-power-platform-boosts-scalability-and-future-proofs-housing-associations</id>
+        <link href="https://365community.online/4-ways-the-microsoft-power-platform-boosts-scalability-and-future-proofs-housing-associations"/>
+        <updated>2024-02-28T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As housing professionals, we understand the critical role technology plays in managing properties, streamlining processes, and enhancing customer experiences. The Microsoft Power Platform offers a suite of powerful tools that […]]]></summary>
+        <author>
+            <name>Chris Roberts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telemetry and Companies]]></title>
+        <id>https://365community.online/telemetry-and-companies</id>
+        <link href="https://365community.online/telemetry-and-companies"/>
+        <updated>2024-02-27T23:04:11.000Z</updated>
+        <summary type="html"><![CDATA[I don’t know about you – but when working with Telemetry, I found it sometimes tedious to map certain traces to actual customers (names of the company, that is).  Here’s […]]]></summary>
+        <author>
+            <name>Waldo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Azure blob – Tier architechture]]></title>
         <id>https://365community.online/azure-blob-tier-architechture</id>
