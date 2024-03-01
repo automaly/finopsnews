@@ -2,10 +2,159 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-02-29T00:37:45.594Z</updated>
+    <updated>2024-03-01T00:42:16.492Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Future of ERP: Transitioning from NAV to Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=104601</id>
+        <link href="https://erpsoftwareblog.com/2024/02/the-future-of-erp-transitioning-from-nav-to-business-central/"/>
+        <updated>2024-02-29T22:19:52.000Z</updated>
+        <summary type="html"><![CDATA[The landscape of Enterprise Resource Planning (ERP) software is undergoing a significant transformation. Businesses globally are moving away from legacy on-premise solutions towards dynamic, cloud-based platforms. This transition is not […]
+The post The Future of ERP: Transitioning from NAV to Business Central appeared first on ERP Software Blog.
+6 Best Practices to Planning Successful ERP Implementation
+Telltale Signs You’ve Outgrown QuickBooks - Part 1
+Telltale Signs You’ve Outgrown QuickBooks: Part 3]]></summary>
+        <author>
+            <name>NAVtoBC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlock Lightning-Fast Insights: How Power BI Integration Transforms Business Central Reporting]]></title>
+        <id>https://erpsoftwareblog.com/?p=104592</id>
+        <link href="https://erpsoftwareblog.com/2024/02/how-power-bi-integration-transforms-business-central-reporting/"/>
+        <updated>2024-02-29T22:12:44.000Z</updated>
+        <summary type="html"><![CDATA[In the fast-paced world of business, making smart decisions quickly can be your biggest advantage. And for that, data is your best friend. It powers everything: from choosing the next […]
+The post Unlock Lightning-Fast Insights: How Power BI Integration Transforms Business Central Reporting appeared first on ERP Software Blog.
+Self-Service Analytics: Exploring Your ERP Data for Maximum Insights
+Top benefits of Power BI and Business Central Integration
+Microsoft Dynamics 365 Business Central: The Future of Distribution Accounting]]></summary>
+        <author>
+            <name>Cosmos Data Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Text-to-Speech and Audio Playback in Power Apps using Azure and Power Automate]]></title>
+        <id>https://365community.online/text-to-speech-and-audio-playback-in-power-apps-using-azure-and-power-automate</id>
+        <link href="https://365community.online/text-to-speech-and-audio-playback-in-power-apps-using-azure-and-power-automate"/>
+        <updated>2024-02-29T18:34:27.000Z</updated>
+        <summary type="html"><![CDATA[Capabilities like text-to-speech (TTS) and audio playback can take your applications to new heights of user engagement and accessibility. In this blog post, we’ll look at integrating text-to-speech and audio […]]]></summary>
+        <author>
+            <name>Mohamed Ashiq Faleel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The good and the bad of using Copilot in the Power Platform]]></title>
+        <id>https://365community.online/the-good-and-the-bad-of-using-copilot-in-the-power-platform</id>
+        <link href="https://365community.online/the-good-and-the-bad-of-using-copilot-in-the-power-platform"/>
+        <updated>2024-02-29T18:33:36.000Z</updated>
+        <summary type="html"><![CDATA[Copilot is everywhere within Microsoft technology nowadays. But it is really helping or is it just a step in the wrong direction. In this post the good and the bad […]]]></summary>
+        <author>
+            <name>Pieter Veenstra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Process ACH/EFT Transactions in Dynamics 365 Business Central]]></title>
+        <id>https://www.encorebusiness.com/?p=61292</id>
+        <link href="https://www.encorebusiness.com/blog/how-to-process-ach-eft-transactions-in-d365-business-central/"/>
+        <updated>2024-02-29T16:04:27.000Z</updated>
+        <summary type="html"><![CDATA[How to Process ACH/EFT Transactions in Dynamics 365 Business Central
+In this article, I will review how to process and set up ACH/EFT transactions, covering how to print remittance advice and generate EFT files in Dynamics 365 Business Central. Table of Contents How to Process ACH/EFT Transactions How to Set Up ACH/EFT How to Process ACH/EFT Transactions 1. Apply the Transaction Against the Vendor Invoice...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Abhishek Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WEBINAR ON DEMAND: Vendor Management Using Office 365 Portal]]></title>
+        <id>https://erpsoftwareblog.com/?p=104567</id>
+        <link href="https://erpsoftwareblog.com/2024/02/webinar-on-demand-vendor-management-using-office-365-portal/"/>
+        <updated>2024-02-29T15:21:58.000Z</updated>
+        <summary type="html"><![CDATA[Join us for a focused session where we explore the use of Office 365 SharePoint and DynamicPoint’s portal application to enable vendor portals. Discover how a Vendor Portal can be […]
+The post WEBINAR ON DEMAND: Vendor Management Using Office 365 Portal appeared first on ERP Software Blog.
+Better User Experience – Better Life
+Tips for Choosing an AP Automation Solution
+Invoice Automation for Microsoft Dynamics GP]]></summary>
+        <author>
+            <name>DynamicPoint</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixed – Duplicate records in Azure Synapse Link (Dataverse)]]></title>
+        <id>https://365community.online/fixed-duplicate-records-in-azure-synapse-link-dataverse</id>
+        <link href="https://365community.online/fixed-duplicate-records-in-azure-synapse-link-dataverse"/>
+        <updated>2024-02-29T13:37:57.000Z</updated>
+        <summary type="html"><![CDATA[Recently for some of our Dataverse environments, we found duplicate records getting created (same GUID) for Notes and Work Order Incident tables in the corresponding CSV files. Here we were […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Finance Insights: Everything You Need To Know]]></title>
+        <id>https://erpsoftwareblog.com/?p=104549</id>
+        <link href="https://erpsoftwareblog.com/2024/02/dynamics-365-finance-insights-everything-you-need-to-know/"/>
+        <updated>2024-02-29T13:35:28.000Z</updated>
+        <summary type="html"><![CDATA[As the business world evolves at an unprecedented pace, the need for intelligent financial solutions becomes increasingly evident. Microsoft Dynamics 365 Financial Insights has emerged as a revolutionary solution– bringing […]
+The post Dynamics 365 Finance Insights: Everything You Need To Know appeared first on ERP Software Blog.
+13 Recommended CPM Tools for Powerful KPI Management
+The Basics of Globalization Studio in Microsoft Dynamics 365 Finance
+Priority-based Throttling feature in Microsoft Dynamics 365 Finance and Operations]]></summary>
+        <author>
+            <name>DynaTech Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fit-Gap Analysis: Learning Path to Become Functional Consultant:FC-006]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2827</id>
+        <link href="https://exploredynamics365.home.blog/2024/02/29/fit-gap-analysis-learning-path-to-become-functional-consultantfc-006/"/>
+        <updated>2024-02-29T13:08:11.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the next video on “Learning Path to Become Functional consultant” series. After you gather and documented your requirements, next step for functional consultants is to perform the Fit Gap analysis before going for the sign-off from stakeholders. Fit gap analysis is a crucial step in ERP implementation where the existing business processes and […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fit-Gap Analysis: Learning Path to Become Functional Consultant:FC-006]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2827</id>
+        <link href="https://exploredynamics365.home.blog/2024/02/29/fit-gap-analysis-learning-path-to-become-functional-consultantfc-006/"/>
+        <updated>2024-02-29T13:08:11.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the next video on “Learning Path to Become Functional consultant” series. After you gather and documented your requirements, next step for functional consultants is to perform the Fit Gap analysis before going for the sign-off from stakeholders. Fit gap analysis is a crucial step in ERP implementation where the existing business processes and […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conquer the Clock: Time Management for Sales Teams using Dynamics 365 CRM]]></title>
+        <id>https://365community.online/conquer-the-clock-time-management-for-sales-teams-using-dynamics-365-crm</id>
+        <link href="https://365community.online/conquer-the-clock-time-management-for-sales-teams-using-dynamics-365-crm"/>
+        <updated>2024-02-29T10:32:38.000Z</updated>
+        <summary type="html"><![CDATA[The post Conquer the Clock: Time Management for Sales Teams using Dynamics 365 CRM appeared first on Blog | Maplytics. Source link]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call SQL Server stored procedures directly in Power Fx (Preview)]]></title>
+        <id>call-sql-server-stored-procedures-directly-in-power-fx-preview</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/call-sql-server-stored-procedures-directly-in-power-fx-preview/"/>
+        <updated>2024-02-29T10:30:45.000Z</updated>
+        <summary type="html"><![CDATA[Calling stored procedures directly in Power Fx.  Speed up app development.  Speeds up Power App performance.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unable to see “Enable Managed Environments” button?]]></title>
+        <id>https://365community.online/unable-to-see-enable-managed-environments-button</id>
+        <link href="https://365community.online/unable-to-see-enable-managed-environments-button"/>
+        <updated>2024-02-29T05:45:11.000Z</updated>
+        <summary type="html"><![CDATA[Recently, my colleague was asked to Enable the managed Environment feature for one of the Dataverse Environment from the Power Platform admin center (PPAC) and when he navigated to PPAC, […]]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Fix Common Invoice Discrepancies with Automation]]></title>
         <id>https://erpsoftwareblog.com/?p=104542</id>
@@ -18,6 +167,26 @@ Adding AP Automation to Existing Systems
 Create a Closed-Loop Analysis, Planning, and Reporting Process]]></summary>
         <author>
             <name>Lori Johnson, MetaViewer Paperless AP Automation for Microsoft Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Step-by-Step to Success: Run AutoGPT using Azure OpenAI on Docker]]></title>
+        <id>https://365community.online/step-by-step-to-success-run-autogpt-using-azure-openai-on-docker</id>
+        <link href="https://365community.online/step-by-step-to-success-run-autogpt-using-azure-openai-on-docker"/>
+        <updated>2024-02-28T22:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Integrating AutoGPT with Azure OpenAI through Docker offers a direct path to unlocking advanced AI capabilities. This detailed guide not only walks through the initial setup and configuration steps but […]]]></summary>
+        <author>
+            <name>Richard Wilson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[É essencial ter uma pessoa de infra nas aplicações de negócio? #podcast #shorts #powerplatform – YouTube]]></title>
+        <id>https://365community.online/e-essencial-ter-uma-pessoa-de-infra-nas-aplicacoes-de-negocio-podcast-shorts-powerplatform-youtube</id>
+        <link href="https://365community.online/e-essencial-ter-uma-pessoa-de-infra-nas-aplicacoes-de-negocio-podcast-shorts-powerplatform-youtube"/>
+        <updated>2024-02-28T22:03:28.000Z</updated>
+        <summary type="html"><![CDATA[source]]></summary>
+        <author>
+            <name>Renato Romao de Souza</name>
         </author>
     </entry>
     <entry>
@@ -84,6 +253,16 @@ The Product-as-a-Service advantage — a potential game-changer for equipment ma
 Register Now for JourneyTEAM’s 2021 Business Technology Summit]]></summary>
         <author>
             <name>Vyas Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Pages Plus Admin Template – Feedback request – YouTube]]></title>
+        <id>https://365community.online/power-pages-plus-admin-template-feedback-request-youtube</id>
+        <link href="https://365community.online/power-pages-plus-admin-template-feedback-request-youtube"/>
+        <updated>2024-02-28T16:49:49.000Z</updated>
+        <summary type="html"><![CDATA[Vote Here: https://www.linkedin.com/posts/victordantas_powerpagesheroes-powerpagesplus-powerplatformcommunity-activity-7168643056743735298-NKaS?utm_source=share&utm_medium=member_desktop source]]></summary>
+        <author>
+            <name>Victor Dantas</name>
         </author>
     </entry>
     <entry>
@@ -2692,6 +2871,17 @@ An Active Partner Relationship: Increase ROI and Long-Term ERP Success - free eB
         <summary type="html"><![CDATA[Introduction Are you feeling overwhelmed by the myriad of CRM options out there? Fear not! In this guide, we’ll demystify the world of CRMs and help you find the one […]]]></summary>
         <author>
             <name>Chris Roberts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generating Job Descriptions Using AI in Dynamics 365 Human Resources]]></title>
+        <id>https://paragchapre.com/?p=12373</id>
+        <link href="https://paragchapre.com/generating-job-descriptions-using-ai-in-dynamics-365-hr/"/>
+        <updated>2024-02-12T06:03:30.000Z</updated>
+        <summary type="html"><![CDATA[Experience seamless job description generation with our automated tool. Effortlessly craft detailed and organized job postings without manual input. Enhance your recruiting process with streamlined efficiency and precision.
+The post Generating Job Descriptions Using AI in Dynamics 365 Human Resources appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
         </author>
     </entry>
     <entry>
@@ -5499,6 +5689,17 @@ Insight Works Announces MxAPS 4.7 for Dynamics 365 Business Central: Advanced Sc
     <entry>
         <title type="html"><![CDATA[Dynamics 365 Human Resources – 2024 release wave 1]]></title>
         <id>http://paragchapre.com/?p=12363</id>
+        <link href="https://paragchapre.com/dynamics-365-human-resources-2024-release-wave-1/"/>
+        <updated>2024-01-25T02:09:11.000Z</updated>
+        <summary type="html"><![CDATA[Explore the latest enhancements in the Dynamics 365 Human Resources 2024 release wave 1. Elevate your workforce management with innovative features, improved user experiences, and cutting-edge capabilities. 
+The post Dynamics 365 Human Resources – 2024 release wave 1 appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Human Resources – 2024 release wave 1]]></title>
+        <id>http://paragchapre.com/?p=12363</id>
         <link href="https://paragchapre.com/dynamics-365-human-resources-2024-release-wave-1/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dynamics-365-human-resources-2024-release-wave-1"/>
         <updated>2024-01-25T02:09:11.000Z</updated>
         <summary type="html"><![CDATA[Explore the latest enhancements in the Dynamics 365 Human Resources 2024 release wave 1. Elevate your workforce management with innovative features, improved user experiences, and cutting-edge capabilities. 
@@ -8052,6 +8253,17 @@ Plan Offer Can Simplify ACA Reporting in Dynamics GP]]></summary>
         <summary type="html"><![CDATA[Me trying to avoid ChatGPT while fixing the code source]]></summary>
         <author>
             <name>Sourav Raj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simplifying Dynamics 365 Finance and Operations for HR Users]]></title>
+        <id>https://paragchapre.com/?p=12328</id>
+        <link href="https://paragchapre.com/simplifying-dynamics-365-finance-and-operations-for-hr-users/"/>
+        <updated>2024-01-09T04:19:37.000Z</updated>
+        <summary type="html"><![CDATA[Explore the option of changing the core product name and disabling irrelevant modules, creating a tailored experience focused solely on Human Resources functionality.
+The post Simplifying Dynamics 365 Finance and Operations for HR Users appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
         </author>
     </entry>
     <entry>
@@ -10921,6 +11133,17 @@ Don't Miss These Microsoft Dynamics Year-End Prep Webinars]]></summary>
     <entry>
         <title type="html"><![CDATA[Streamlining Workforce Management: Setting Primary Positions in Dynamics 365 Human Resources]]></title>
         <id>http://paragchapre.com/?p=12318</id>
+        <link href="https://paragchapre.com/setting-primary-positions-in-d365-human-resources/"/>
+        <updated>2023-12-18T05:30:42.000Z</updated>
+        <summary type="html"><![CDATA[Introduction In the ever-evolving landscape of Human Resources management, it becomes imperative for organizations to leverage cutting-edge technologies that enhance efficiency and simplify complex processes. One such noteworthy feature in Dynamics 365 Human Resources is the ability to set a primary position for a new hire, a functionality designed to bring more clarity and structure […]
+The post Streamlining Workforce Management: Setting Primary Positions in Dynamics 365 Human Resources appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamlining Workforce Management: Setting Primary Positions in Dynamics 365 Human Resources]]></title>
+        <id>http://paragchapre.com/?p=12318</id>
         <link href="https://paragchapre.com/setting-primary-positions-in-d365-human-resources/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=setting-primary-positions-in-d365-human-resources"/>
         <updated>2023-12-18T05:30:42.000Z</updated>
         <summary type="html"><![CDATA[Introduction In the ever-evolving landscape of Human Resources management, it becomes imperative for organizations to leverage cutting-edge technologies that enhance efficiency and simplify complex processes. One such noteworthy feature in Dynamics 365 Human Resources is the ability to set a primary position for a new hire, a functionality designed to bring more clarity and structure […]
@@ -11521,6 +11744,17 @@ Product Recommendation Engine: Use AI in D365 to Recommend Products to Rental Cu
         <summary type="html"><![CDATA[This one has been a long time coming, and was a missing feature in Realtime Marketing that could be used in Outbound Marketing long ago. That’s the simple feature of […]]]></summary>
         <author>
             <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leave & Absence Human Resources App]]></title>
+        <id>https://paragchapre.com/?p=12306</id>
+        <link href="https://paragchapre.com/leave-absence-human-resources-app/"/>
+        <updated>2023-12-15T06:24:09.000Z</updated>
+        <summary type="html"><![CDATA[Introduction In the fast-evolving landscape of business and technology, organizations are constantly seeking innovative solutions to streamline their operations and enhance employee experiences. The Human Resources app seamlessly integrates with Dynamics 365 Human Resources in an F&O environment. Developed for organizational use, it ensures a smooth process for employees to request, modify, and cancel time […]
+The post Leave & Absence Human Resources App appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
         </author>
     </entry>
     <entry>
@@ -15122,6 +15356,17 @@ Contract:
     <entry>
         <title type="html"><![CDATA[Installing and Configuring Dynamics 365 Expense Management Mobile App]]></title>
         <id>http://paragchapre.com/?p=12243</id>
+        <link href="https://paragchapre.com/installing-and-configuring-dynamics-365-expense-management-mobile-app/"/>
+        <updated>2023-11-15T05:20:45.000Z</updated>
+        <summary type="html"><![CDATA[Introduction In the fast-paced business world, managing expenses efficiently is crucial for the success of any organization. Dynamics 365 Expense Management provides a comprehensive solution to streamline the expense reporting process, and with the mobile app, employees can easily submit expenses on the go. In this article, we will guide you through the installation and […]
+The post Installing and Configuring Dynamics 365 Expense Management Mobile App appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Installing and Configuring Dynamics 365 Expense Management Mobile App]]></title>
+        <id>http://paragchapre.com/?p=12243</id>
         <link href="https://paragchapre.com/installing-and-configuring-dynamics-365-expense-management-mobile-app/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=installing-and-configuring-dynamics-365-expense-management-mobile-app"/>
         <updated>2023-11-15T05:20:45.000Z</updated>
         <summary type="html"><![CDATA[Introduction In the fast-paced business world, managing expenses efficiently is crucial for the success of any organization. Dynamics 365 Expense Management provides a comprehensive solution to streamline the expense reporting process, and with the mobile app, employees can easily submit expenses on the go. In this article, we will guide you through the installation and […]
@@ -15962,6 +16207,17 @@ How Can Microsoft Dynamics Point You in the Right Direction?]]></summary>
     <entry>
         <title type="html"><![CDATA[Power for HR: Transform your HR processes with Power Platform Enterprise Templates]]></title>
         <id>http://paragchapre.com/?p=12220</id>
+        <link href="https://paragchapre.com/power-for-hr-power-platform-enterprise-templates/"/>
+        <updated>2023-11-02T23:58:31.000Z</updated>
+        <summary type="html"><![CDATA["Power for HR: Transform your HR processes with Power Platform Enterprise Templates
+The post Power for HR: Transform your HR processes with Power Platform Enterprise Templates appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power for HR: Transform your HR processes with Power Platform Enterprise Templates]]></title>
+        <id>http://paragchapre.com/?p=12220</id>
         <link href="https://paragchapre.com/power-for-hr-power-platform-enterprise-templates/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=power-for-hr-power-platform-enterprise-templates"/>
         <updated>2023-11-02T23:58:31.000Z</updated>
         <summary type="html"><![CDATA["Power for HR: Transform your HR processes with Power Platform Enterprise Templates
@@ -16399,10 +16655,32 @@ The post D365FO Attachments Tips & Tricks: Why does DocuRef have two CompanyId f
     <entry>
         <title type="html"><![CDATA[Connect to other environments using the Microsoft Dataverse connector]]></title>
         <id>http://paragchapre.com/?p=12211</id>
+        <link href="https://paragchapre.com/dataverse-connect-to-other-environments/"/>
+        <updated>2023-10-25T05:50:56.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to use the Microsoft Dataverse connector for actions and triggers across Power Platform environments.
+The post Connect to other environments using the Microsoft Dataverse connector appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connect to other environments using the Microsoft Dataverse connector]]></title>
+        <id>http://paragchapre.com/?p=12211</id>
         <link href="https://paragchapre.com/dataverse-connect-to-other-environments/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dataverse-connect-to-other-environments"/>
         <updated>2023-10-25T05:50:56.000Z</updated>
         <summary type="html"><![CDATA[Learn how to use the Microsoft Dataverse connector for actions and triggers across Power Platform environments.
 The post Connect to other environments using the Microsoft Dataverse connector appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Managing Open-Ended Leave of Absence in Dynamics 365 HR]]></title>
+        <id>http://paragchapre.com/?p=12196</id>
+        <link href="https://paragchapre.com/open-ended-leave/"/>
+        <updated>2023-10-24T06:02:32.000Z</updated>
+        <summary type="html"><![CDATA[You can submit requests for a leave of absence that is open-ended and view the status of your leave requests in Dynamics 365 Human Resources.
+The post Managing Open-Ended Leave of Absence in Dynamics 365 HR appeared first on Parag Chapre.]]></summary>
         <author>
             <name>paragchapre@gmail.com</name>
         </author>
@@ -16511,6 +16789,17 @@ Code:
         <summary type="html"><![CDATA[As we are aware Business events are used to send messages to third party applications when the active event is triggered. When you set up business events or virtual entities in a cloud-hosted environment, you might receive the following error … Continue reading →]]></summary>
         <author>
             <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to import worker documents in Dynamics 365 F&O with Power Platform]]></title>
+        <id>http://paragchapre.com/?p=12182</id>
+        <link href="https://paragchapre.com/worker-attachment-d365fo-powerplatform/"/>
+        <updated>2023-10-20T06:03:59.000Z</updated>
+        <summary type="html"><![CDATA[Introduction The Power Platform has revolutionized the way organizations handle data and streamline their workflows. One powerful feature of Power Platform is its ability to import work attachments, allowing users to seamlessly integrate various file types into their business processes. In this article, we will explore the benefits of importing work attachments, provide a step-by-step […]
+The post How to import worker documents in Dynamics 365 F&O with Power Platform appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
         </author>
     </entry>
     <entry>
