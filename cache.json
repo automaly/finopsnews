@@ -1371,6 +1371,26 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=104368",
+          "author": "Red Maple",
+          "description": "Small and mid-size businesses often struggle to compete with larger corporations due to limited resources and capabilities. However, Red Maple Advanced Credit Cards for Business Central was designed to level […]\nThe post 6 Ways Capture Credit Card Payments in Dynamics 365 Business Central appeared first on ERP Software Blog.\nInsight Works Add-Ons Awarded “Microsoft Preferred Solution” Accolade\nStreamline Purchase & Sales Orders with Free App for Business Central\nInsight Works: Supporting Nonprofits via Technology",
+          "link": "https://erpsoftwareblog.com/2024/03/6-ways-capture-credit-card-payments-in-dynamics-365-business-central/",
+          "publishedOn": "2024-03-01T18:07:12.000Z",
+          "wordCount": 5541,
+          "title": "6 Ways Capture Credit Card Payments in Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2024-02-6-Ways-to-Empower-Your-Business-with-Advanced-Credit-Cards-for-Dynamics-365-Business-Central_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=104621",
+          "author": "MetaOption LLC",
+          "description": "In today’s dynamic professional services landscape, adaptability and flexibility are paramount for success. The ability to seamlessly collaborate, manage projects, and access critical data from any location, on any device, […]\nThe post Revolutionizing Professional Services: Embracing Flexibility with MetaPro’s “Work from Anywhere, on Any Device” Feature appeared first on ERP Software Blog.\nLeveraging MetaPro for DCAA Compliance in Federal Government Contracting\nEmpowering Professional Services with Microsoft Dynamics 365 Business Central\nUnlocking Success with MetaPro: Revolutionizing Professional Services",
+          "link": "https://erpsoftwareblog.com/2024/03/revolutionizing-professional-services-embracing-flexibility-with-metapro/",
+          "publishedOn": "2024-03-01T13:14:37.000Z",
+          "wordCount": 5110,
+          "title": "Revolutionizing Professional Services: Embracing Flexibility with MetaPro’s “Work from Anywhere, on Any Device” Feature",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-122.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=104601",
           "author": "NAVtoBC",
           "description": "The landscape of Enterprise Resource Planning (ERP) software is undergoing a significant transformation. Businesses globally are moving away from legacy on-premise solutions towards dynamic, cloud-based platforms. This transition is not […]\nThe post The Future of ERP: Transitioning from NAV to Business Central appeared first on ERP Software Blog.\n6 Best Practices to Planning Successful ERP Implementation\nTelltale Signs You’ve Outgrown QuickBooks - Part 1\nTelltale Signs You’ve Outgrown QuickBooks: Part 3",
@@ -5404,6 +5424,106 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/selection-sort-in-data-structures-step-by-step-guide-youtube",
+          "author": "Sourav Raj",
+          "description": "Selection Sort in Data Structures | Step-by-Step Guide In this video, we’ll walk you through the intricacies of Selection Sort, providing you with a detailed explanation of its concepts, implementation […]",
+          "link": "https://365community.online/selection-sort-in-data-structures-step-by-step-guide-youtube",
+          "publishedOn": "2024-03-01T16:53:00.000Z",
+          "wordCount": 3370,
+          "title": "Selection Sort in Data Structures | Step-by-Step Guide – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1709320308_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/counting-sort-in-data-structures-step-by-step-guide-youtube",
+          "author": "Sourav Raj",
+          "description": "Counting Sort in Data Structures | Step-by-Step Guide Counting Sort is a powerful tool in your Data Structures and Algorithms (DSA) arsenal, especially for small to medium-sized datasets with a […]",
+          "link": "https://365community.online/counting-sort-in-data-structures-step-by-step-guide-youtube",
+          "publishedOn": "2024-03-01T16:44:40.000Z",
+          "wordCount": 3342,
+          "title": "Counting Sort in Data Structures | Step-by-Step Guide – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1709335774_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/copilot-for-finance-and-dynamics-365-business-central",
+          "author": "Stefano Demiliani",
+          "description": "Yesterday Microsoft announced the public preview of Microsoft Copilot for Finance, the newest Copilot offering designed for business functions that extends Microsoft Copilot for Microsoft 365 and revolutionizes how finance teams […]",
+          "link": "https://365community.online/copilot-for-finance-and-dynamics-365-business-central",
+          "publishedOn": "2024-03-01T14:42:36.000Z",
+          "wordCount": 3246,
+          "title": "Copilot for Finance and Dynamics 365 Business Central",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Copilot-for-Finance-and-Dynamics-365-Business-Central.png?fit=987%2C782&ssl=1"
+        },
+        {
+          "id": "https://365community.online/performance-profiling-tests-with-al-test-runner",
+          "author": "James Pearson",
+          "description": "This is a feature that has been in AL Test Runner for a months now but I haven’t got round to blogging about it. I haven’t done much blogging or […]",
+          "link": "https://365community.online/performance-profiling-tests-with-al-test-runner",
+          "publishedOn": "2024-03-01T14:34:18.000Z",
+          "wordCount": 3182,
+          "title": "Performance Profiling Tests with AL Test Runner",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Performance-Profiling-Tests-with-AL-Test-Runner.gif?fit=1200%2C642&ssl=1"
+        },
+        {
+          "id": "https://365community.online/copilots-in-microsoft-learn-part-2",
+          "author": "Carina Claesson",
+          "description": "In my previous post I wrote about what I was missing in the Microsoft official documentation when it comes to Copilot. With AI capability being introduced in each and every […]",
+          "link": "https://365community.online/copilots-in-microsoft-learn-part-2",
+          "publishedOn": "2024-03-01T13:16:23.000Z",
+          "wordCount": 3224,
+          "title": "Copilot(s) in Microsoft Learn part 2",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Copilots-in-Microsoft-Learn-part-2.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/relationships-in-dataverse-managed-with-power-automate",
+          "author": "Pieter Veenstra",
+          "description": "In Dataverse you can create relationships between tables, but how do you manage the relationships from a flow in Power Automate? Relationships in Dataverse In Dataverse there are a number […]",
+          "link": "https://365community.online/relationships-in-dataverse-managed-with-power-automate",
+          "publishedOn": "2024-03-01T11:30:50.000Z",
+          "wordCount": 3223,
+          "title": "Relationships in Dataverse managed with Power Automate",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-21-topic-10-part-1-youtube",
+          "author": "shabaz darr",
+          "description": "Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]",
+          "link": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-21-topic-10-part-1-youtube",
+          "publishedOn": "2024-03-01T10:00:01.000Z",
+          "wordCount": 3294,
+          "title": "AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Episode 21 – Topic 10: Part 1 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1709336097_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/group-opportunities-for-better-analysis-by-aggregating-the-numeric-fields-in-dynamics-365-sales",
+          "author": "Inogic",
+          "description": "Introduction The Pipeline feature in Dynamics 365 Sales is designed to improve the management of Opportunities, providing a more efficient approach for both managers and salespersons. This feature allows users […]",
+          "link": "https://365community.online/group-opportunities-for-better-analysis-by-aggregating-the-numeric-fields-in-dynamics-365-sales",
+          "publishedOn": "2024-03-01T09:32:22.000Z",
+          "wordCount": 3528,
+          "title": "Group Opportunities for better analysis by aggregating the numeric fields in Dynamics 365 Sales",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Dynamics-365-Sales-1.jpeg?fit=1200%2C537&ssl=1"
+        },
+        {
+          "id": "https://365community.online/mb-260-describe-benefits-of-pre-unification-data-enrichment",
+          "author": "Malin Martnes",
+          "description": "You can do two types of enrichments on data sources: address enrichments and identity data from LiveRamp. The main benefit of pre-unification data enrichment is improved data quality. Enriching the […]",
+          "link": "https://365community.online/mb-260-describe-benefits-of-pre-unification-data-enrichment",
+          "publishedOn": "2024-03-01T08:00:00.000Z",
+          "wordCount": 3195,
+          "title": "MB-260: Describe benefits of pre-unification data enrichment",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/Release-wave-1-2024-Dynamics-365-Customer-Insights-–-Data.png?fit=200%2C200&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-enable-the-sql-server-stored-procedures-preview-feature-in-the-power-apps",
+          "author": "Arun Potti",
+          "description": "Microsoft has released a new feature to call the SQL stored procedure from the Canvas Apps using Power Fx. Customers can add a SQL Server Database object to their data sources and […]",
+          "link": "https://365community.online/how-to-enable-the-sql-server-stored-procedures-preview-feature-in-the-power-apps",
+          "publishedOn": "2024-03-01T00:26:51.000Z",
+          "wordCount": 3293,
+          "title": "How to Enable the SQL Server stored procedures (preview) feature in the Power Apps?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/image-75.png?fit=788%2C257&ssl=1"
+        },
         {
           "id": "https://365community.online/text-to-speech-and-audio-playback-in-power-apps-using-azure-and-power-automate",
           "author": "Mohamed Ashiq Faleel",
@@ -11808,6 +11928,16 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=5752",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2024/03/01/hr-copilot-studio-application-part-3/",
+          "publishedOn": "2024-03-01T05:59:18.000Z",
+          "wordCount": 3334,
+          "title": "HR Copilot Studio Application – Part 3",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2024/01/englishtitlepart3.jpg"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=5742",
           "author": "Ludwig Reinhard",
           "description": "Visit the post for more.",
@@ -12528,18 +12658,7 @@
       "title": "d365FO.stuff",
       "feedUrl": "https://d365fostuff.wordpress.com/feed/",
       "siteUrl": "https://d365fostuff.wordpress.com",
-      "articles": [
-        {
-          "id": "http://d365fostuff.wordpress.com/?p=436",
-          "author": "Marijan",
-          "description": "Today I want to share a small trick I learned this week from a colleague of mine. I wasn’t aware of this possibility and couldn’t find any documentation on this. So it is more of a reminder post for myself, and maybe I am not the last person to learn about this. When we want […]",
-          "link": "https://d365fostuff.wordpress.com/2022/03/02/activate-financial-dimensions-without-downtime/",
-          "publishedOn": "2022-03-02T19:33:29.000Z",
-          "wordCount": 3984,
-          "title": "Activate financial dimensions without downtime",
-          "imageUrl": "https://d365fostuff.files.wordpress.com/2022/03/financial-dimension-warning-1.png?w=1200"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "MsDyn365FO.Blog",
@@ -15517,6 +15636,16 @@
       "siteUrl": "https://paragchapre.com",
       "articles": [
         {
+          "id": "https://paragchapre.com/?p=12598",
+          "author": "paragchapre@gmail.com",
+          "description": "Discover how workflows in Dynamics 365 HR streamline the approval process for employee images, improving efficiency and compliance with organizational standards.\nThe post Streamlining Employee Image Approval with Workflows in Dynamics 365 Human Resources appeared first on Parag Chapre.",
+          "link": "https://paragchapre.com/dynamics-365-human-resources-workflows-streamline-image-approval/",
+          "publishedOn": "2024-03-01T02:35:33.000Z",
+          "wordCount": 2258,
+          "title": "Streamlining Employee Image Approval with Workflows in Dynamics 365 Human Resources",
+          "imageUrl": "https://paragchapre.com/wp-content/uploads/2024/03/Streamlining-Employee-Image-Approval-1.png"
+        },
+        {
           "id": "https://paragchapre.com/?p=12373",
           "author": "paragchapre@gmail.com",
           "description": "Experience seamless job description generation with our automated tool. Effortlessly craft detailed and organized job postings without manual input. Enhance your recruiting process with streamlined efficiency and precision.\nThe post Generating Job Descriptions Using AI in Dynamics 365 Human Resources appeared first on Parag Chapre.",
@@ -16115,6 +16244,16 @@
       "siteUrl": "https://elearnd365.com",
       "articles": [
         {
+          "id": "http://elearnd365.com/?p=782",
+          "author": "Sukrut Parab",
+          "description": "In my previous post we saw how to use runnable class utility to run custom x++ script. In today’s post we will see how to use Table browser utility using runnable class utility. I posted a code for this utility on my github Table browser is an important tool within Finance and operations. It’s a […]",
+          "link": "https://elearnd365.com/2024/01/12/custom-table-browser-utility/",
+          "publishedOn": "2024-01-13T01:23:00.000Z",
+          "wordCount": 3948,
+          "title": "Custom table browser utility",
+          "imageUrl": "https://elearnd365.files.wordpress.com/2024/02/image-11.png"
+        },
+        {
           "id": "http://elearnd365.com/?p=710",
           "author": "Sukrut Parab",
           "description": "We have different ways to execute runnable classes in D365 FO. Below are few ways you can execute With the utility available on my GitHub page you can run your runnable class through single UI where you can run runnable class which can be of type form or class. Here are the steps which will […]",
@@ -16123,6 +16262,16 @@
           "wordCount": 3679,
           "title": "Utility to run runnable classes in D365 FO",
           "imageUrl": "https://elearnd365.files.wordpress.com/2023/12/picture3.png"
+        },
+        {
+          "id": "http://elearnd365.com/?p=791",
+          "author": "Sukrut Parab",
+          "description": "Microsoft’s Power platform has rich functionalities which can be used while working with Finance and operations apps. To unlock those features for Finance and operations customer Microsoft has provided power platform integration through LCS which gives us ability to use following features The above features provide a way of convergence of F&O with dataverse platform […]",
+          "link": "https://elearnd365.com/2023/10/20/using-power-platform-integration-capabilities-in-finance-and-operations-integrations-2/",
+          "publishedOn": "2023-10-20T23:55:00.000Z",
+          "wordCount": 4171,
+          "title": "Using power platform integration capabilities in Finance and operations integrations",
+          "imageUrl": "https://elearnd365.files.wordpress.com/2023/10/2021-12-16-en-de.jpg"
         },
         {
           "id": "http://elearnd365.com/?p=683",
@@ -16545,6 +16694,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "whats-new-power-apps-february-2024-feature-update",
+          "author": null,
+          "description": "Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place.\nThis month we’ve got an exciting set of updates for makers, Copilot, pro devs and our end users.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-february-2024-feature-update/",
+          "publishedOn": "2024-03-01T09:27:26.000Z",
+          "wordCount": 3064,
+          "title": "What’s new: Power Apps February 2024 Feature Update",
+          "imageUrl": "//powerappsblogmedia.azureedge.net/powerappsblog/2024/03/FormFilling.gif"
+        },
         {
           "id": "call-sql-server-stored-procedures-directly-in-power-fx-preview",
           "author": null,
