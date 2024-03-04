@@ -13922,6 +13922,26 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://www.microsoft.com/en-us/microsoft-365/blog/2024/02/29/introducing-microsoft-copilot-for-finance-transform-finance-with-next-generation-ai-in-microsoft-365/",
+          "author": "Emily He",
+          "description": "We’re announcing the public preview of Microsoft Copilot for Finance, a game-changer for finance professionals and the newest role-based extension of Microsoft Copilot. Microsoft Copilot for Finance is a momentous leap forward, specifically crafted to revolutionize the daily grind of well-known financial processes.\nThe post Introducing Microsoft Copilot for Finance: Transform finance with next-generation AI in Microsoft 365 appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2024/02/29/introducing-microsoft-copilot-for-finance-transform-finance-with-next-generation-ai-in-microsoft-365/",
+          "publishedOn": "2024-02-29T16:00:00.000Z",
+          "wordCount": 4003,
+          "title": "Introducing Microsoft Copilot for Finance: Transform finance with next-generation AI in Microsoft 365",
+          "imageUrl": "https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2024/02/MSFT_M365_FEB23_320727_Blog_Blogheader_240227_V03.png"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/02/26/empowering-business-innovation-for-modernizing-retailers-and-manufacturers-with-copilot-unleashing-dynamics-365-commerce-investments-for-2024-wave-1/",
+          "author": "Ashish Harchwani",
+          "description": "Dynamics 365 Commerce is a comprehensive omnichannel solution that empowers retailers to deliver personalized, seamless, and differentiated shopping experiences across physical and digital channels. In the 2024 release wave 1, Dynamics 365 Commerce continues to innovate and enhance its capabilities to improve store associate productivity and meet the evolving needs of customers and businesses. Here are some of the highlights of the new features coming soon: \nThe post Empowering Business innovation for modernizing Retailers and manufacturers with Copilot: Unleashing Dynamics 365 Commerce investments for 2024 Wave 1 appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2024/02/26/empowering-business-innovation-for-modernizing-retailers-and-manufacturers-with-copilot-unleashing-dynamics-365-commerce-investments-for-2024-wave-1/",
+          "publishedOn": "2024-02-26T18:45:43.000Z",
+          "wordCount": 3585,
+          "title": "Empowering Business innovation for modernizing Retailers and manufacturers with Copilot: Unleashing Dynamics 365 Commerce investments for 2024 Wave 1",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/01/MSC24-Japan-business-Getty-1145785115-rgb-1024x683.jpg"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/02/21/dynamics-365-business-central-sustainability/",
           "author": "Aleksandar Totovic",
           "description": "We're excited to announce that Dynamics 365 Business Central will soon offer new sustainability features that will help you comply with the latest standards and best practices, as well as drive positive changes for your business and the environment. \nThe post Sustainability in Dynamics 365 Business Central: A New Way to Measure and Manage Your Environmental Impact appeared first on Microsoft Dynamics 365 Blog.",

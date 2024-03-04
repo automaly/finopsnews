@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-03-03T00:40:06.837Z</updated>
+    <updated>2024-03-04T00:38:49.510Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
@@ -269,6 +269,17 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>Abhishek Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Microsoft Copilot for Finance: Transform finance with next-generation AI in Microsoft 365]]></title>
+        <id>https://www.microsoft.com/en-us/microsoft-365/blog/2024/02/29/introducing-microsoft-copilot-for-finance-transform-finance-with-next-generation-ai-in-microsoft-365/</id>
+        <link href="https://www.microsoft.com/en-us/microsoft-365/blog/2024/02/29/introducing-microsoft-copilot-for-finance-transform-finance-with-next-generation-ai-in-microsoft-365/"/>
+        <updated>2024-02-29T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re announcing the public preview of Microsoft Copilot for Finance, a game-changer for finance professionals and the newest role-based extension of Microsoft Copilot. Microsoft Copilot for Finance is a momentous leap forward, specifically crafted to revolutionize the daily grind of well-known financial processes.
+The post Introducing Microsoft Copilot for Finance: Transform finance with next-generation AI in Microsoft 365 appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Emily He</name>
         </author>
     </entry>
     <entry>
@@ -836,6 +847,17 @@ Key Features for Accountants in Microsoft Dynamics 365 Business Central
 Dynamics 365 Business Central Software for Project Managers]]></summary>
         <author>
             <name>Western Computer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Empowering Business innovation for modernizing Retailers and manufacturers with Copilot: Unleashing Dynamics 365 Commerce investments for 2024 Wave 1]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2024/02/26/empowering-business-innovation-for-modernizing-retailers-and-manufacturers-with-copilot-unleashing-dynamics-365-commerce-investments-for-2024-wave-1/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2024/02/26/empowering-business-innovation-for-modernizing-retailers-and-manufacturers-with-copilot-unleashing-dynamics-365-commerce-investments-for-2024-wave-1/"/>
+        <updated>2024-02-26T18:45:43.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics 365 Commerce is a comprehensive omnichannel solution that empowers retailers to deliver personalized, seamless, and differentiated shopping experiences across physical and digital channels. In the 2024 release wave 1, Dynamics 365 Commerce continues to innovate and enhance its capabilities to improve store associate productivity and meet the evolving needs of customers and businesses. Here are some of the highlights of the new features coming soon: 
+The post Empowering Business innovation for modernizing Retailers and manufacturers with Copilot: Unleashing Dynamics 365 Commerce investments for 2024 Wave 1 appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Ashish Harchwani</name>
         </author>
     </entry>
     <entry>
