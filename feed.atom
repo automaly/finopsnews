@@ -2,10 +2,166 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-03-04T00:38:49.510Z</updated>
+    <updated>2024-03-05T00:37:59.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Wine Producer Benefits from Moving to the Cloud with Dynamics 365BC and 365WineTrade]]></title>
+        <id>https://erpsoftwareblog.com/?p=104448</id>
+        <link href="https://erpsoftwareblog.com/2024/03/a-wine-producer-benefits-from-moving-to-the-cloud-with-dynamics-365bc-and-365winetrade/"/>
+        <updated>2024-03-04T19:25:15.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Dynamics ERP solutions have always been front runners; even legacy versions wear their age well. However, as technology advances, maintaining integrations with new or updated applications can be a […]
+The post A Wine Producer Benefits from Moving to the Cloud with Dynamics 365BC and 365WineTrade appeared first on ERP Software Blog.
+How 365WineTrade and Dynamics 365BC Simplifies Regulatory Compliance
+JOVACO répond à toutes vos questions sur les systèmes ERP 
+Five Great Reasons to Implement Barcode Scanning]]></summary>
+        <author>
+            <name>Western Computer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Platform Pipelines | Blog Series]]></title>
+        <id>https://365community.online/power-platform-pipelines-blog-series</id>
+        <link href="https://365community.online/power-platform-pipelines-blog-series"/>
+        <updated>2024-03-04T19:14:16.000Z</updated>
+        <summary type="html"><![CDATA[Here’s a blog series to get you up to speed on Power Platform Pipelines! Setting up and Running Power Platform Pipelines Here is what you need to get done in […]]]></summary>
+        <author>
+            <name>Priyesh Wagh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Run a Power Platform Pipeline]]></title>
+        <id>https://365community.online/run-a-power-platform-pipeline</id>
+        <link href="https://365community.online/run-a-power-platform-pipeline"/>
+        <updated>2024-03-04T19:12:22.000Z</updated>
+        <summary type="html"><![CDATA[In case you setup your first Power Platform Pipeline and looking to test it out? This post is for you. Or if you haven’t yet configured your Power Platform Pipelines […]]]></summary>
+        <author>
+            <name>Priyesh Wagh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The plug-in execution failed because the Sandbox Worker process crashed. This is typically due to an error in the plug-in code – Dataverse / Dynamics 365]]></title>
+        <id>https://365community.online/the-plug-in-execution-failed-because-the-sandbox-worker-process-crashed-this-is-typically-due-to-an-error-in-the-plug-in-code-dataverse-dynamics-365</id>
+        <link href="https://365community.online/the-plug-in-execution-failed-because-the-sandbox-worker-process-crashed-this-is-typically-due-to-an-error-in-the-plug-in-code-dataverse-dynamics-365"/>
+        <updated>2024-03-04T18:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently we got the below exception for one of our plugins. Message: The plug-in execution failed because the Sandbox Worker process crashed. This is typically due to an error in […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Restoring a copy of a GP company reminder]]></title>
+        <id>https://365community.online/restoring-a-copy-of-a-gp-company-reminder</id>
+        <link href="https://365community.online/restoring-a-copy-of-a-gp-company-reminder"/>
+        <updated>2024-03-04T15:44:46.000Z</updated>
+        <summary type="html"><![CDATA[Several years ago, I wrote about a restore issue "that drove me nuts" as the post title says. That was written shortly after the "named system database" functionality was introduced […]]]></summary>
+        <author>
+            <name>Jen Kuntz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mendix Training | Mendix Certification Course Online | Mendix StudioPro Tutorial | MindMajix – YouTube]]></title>
+        <id>https://365community.online/mendix-training-mendix-certification-course-online-mendix-studiopro-tutorial-mindmajix-youtube</id>
+        <link href="https://365community.online/mendix-training-mendix-certification-course-online-mendix-studiopro-tutorial-mindmajix-youtube"/>
+        <updated>2024-03-04T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Mendix Training | Mendix Certification Course Online | Mendix StudioPro Tutorial | MindMajix This MindMajix’s YouTube video on Mendix training you will gain skills to build quick and reliable enterprise […]]]></summary>
+        <author>
+            <name>Jaya Sri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open New Record Form with Pre-populated Fields Using Xrm.Navigation.navigateTo]]></title>
+        <id>https://365community.online/open-new-record-form-with-pre-populated-fields-using-xrm-navigation-navigateto</id>
+        <link href="https://365community.online/open-new-record-form-with-pre-populated-fields-using-xrm-navigation-navigateto"/>
+        <updated>2024-03-04T14:06:00.000Z</updated>
+        <summary type="html"><![CDATA[This post will explain how you can pre-populate fields with various data types (lookup, partylist, etc.) when a new table form is opened using the Xrm.Navigation.navigateTo method. There is a navigateTo (Client […]]]></summary>
+        <author>
+            <name>Linn Zaw Win</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: support for multiple extensions to same target in the same app]]></title>
+        <id>https://365community.online/dynamics-365-business-central-support-for-multiple-extensions-to-same-target-in-the-same-app</id>
+        <link href="https://365community.online/dynamics-365-business-central-support-for-multiple-extensions-to-same-target-in-the-same-app"/>
+        <updated>2024-03-04T13:39:08.000Z</updated>
+        <summary type="html"><![CDATA[I talked about this upcoming feature with some of you last week, but now that Dynamics 365 Business Central 2024 Wave 1 release (v24) is in a public preview stage, […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PowerDocu and the Art of Managing Multitenancy in a Global Powerhouse with Rene Modery]]></title>
+        <id>https://365community.online/powerdocu-and-the-art-of-managing-multitenancy-in-a-global-powerhouse-with-rene-modery</id>
+        <link href="https://365community.online/powerdocu-and-the-art-of-managing-multitenancy-in-a-global-powerhouse-with-rene-modery"/>
+        <updated>2024-03-04T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FULL SHOW NOTES https://podcast.nz365guy.com/531  Step into the future of IT management and creative innovation with our esteemed guest from Singapore, Rene Modery, the Power Platform Technical Lead at WPP. Rene […]]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Should You Attend MODEX]]></title>
+        <id>https://erpsoftwareblog.com/?p=104675</id>
+        <link href="https://erpsoftwareblog.com/2024/03/why-should-you-attend-modex/"/>
+        <updated>2024-03-04T12:28:32.000Z</updated>
+        <summary type="html"><![CDATA[FULL SPECTRUM SUPPLY CHAIN SOLUTIONS FIND THEM ALL AT MODEX 2024 MARCH 11-14, 2024 Atlanta's Georgia World Congress Center As the speed of manufacturing and supply chain operations continues to […]
+The post Why Should You Attend MODEX appeared first on ERP Software Blog.
+Penske Racing Drives Success with Dynamics SL
+If Your Trial Balance is Off, What Else is Wrong?  Take These Steps to Solve Your Problems!
+Mastering Mobile Inventory in Dynamics GP]]></summary>
+        <author>
+            <name>SmartBOL</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TIBCO BusinessWorks 6.x Training | TIBCO BW 6.x Course | TIBCO BW 6.x Tutorial | MindMajix – YouTube]]></title>
+        <id>https://365community.online/tibco-businessworks-6-x-training-tibco-bw-6-x-course-tibco-bw-6-x-tutorial-mindmajix-youtube</id>
+        <link href="https://365community.online/tibco-businessworks-6-x-training-tibco-bw-6-x-course-tibco-bw-6-x-tutorial-mindmajix-youtube"/>
+        <updated>2024-03-04T12:00:40.000Z</updated>
+        <summary type="html"><![CDATA[TIBCO BusinessWorks 6.x Training | TIBCO BW 6.x Course | TIBCO BW 6.x Tutorial | MindMajix This MindMajix’s YouTube video on Tibco BW 6.x training provides in-depth knowledge on all […]]]></summary>
+        <author>
+            <name>Jaya Sri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are You Planning to go to MODEX in Atlanta from March 11 - 14]]></title>
+        <id>https://erpsoftwareblog.com/?p=104670</id>
+        <link href="https://erpsoftwareblog.com/2024/03/are-you-planning-to-go-to-modex-in-atlanta-from-march-11-14/"/>
+        <updated>2024-03-04T11:45:25.000Z</updated>
+        <summary type="html"><![CDATA[Stop by the SmartBOL Booth C8371 and we can show you how we help Microsoft Dynamics users with their Shipping documentation, signing, and delivering a better retention solution.
+The post Are You Planning to go to MODEX in Atlanta from March 11 - 14 appeared first on ERP Software Blog.
+Dynamics GP Training –Why it Really is THAT important  – Part I
+Revenue Recognition for Software Companies in Dynamics GP 10.0
+BI ERP solutions: Why integrate Power BI into your ERP software?]]></summary>
+        <author>
+            <name>SmartBOL</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Paper to Digital: Transforming QA with Dynamics 365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=104485</id>
+        <link href="https://erpsoftwareblog.com/2024/03/from-paper-to-digital-transforming-quality-assurance-with-dynamics-365-business-central/"/>
+        <updated>2024-03-04T11:16:39.000Z</updated>
+        <summary type="html"><![CDATA[Integrating Quality Inspector within Business Central enhances quality assurance in manufacturing and distribution by transforming paper-based processes into streamlined and accurate digital processes. Such a strategy ensures product integrity and compliance, perfectly aligning with the industry's move toward digital transformation.
+The post From Paper to Digital: Transforming QA with Dynamics 365 Business Central appeared first on ERP Software Blog.
+Microsoft Dynamics GP, NAV and SL Field Service with Smartphones and Tablets
+PIM: Creating an Effective Product Workflow
+B2B vs. B2C eCommerce: What's the difference and why does it matter?]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Episode 22 – Topic 10: Part 2 – YouTube]]></title>
+        <id>https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-22-topic-10-part-2-youtube</id>
+        <link href="https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-22-topic-10-part-2-youtube"/>
+        <updated>2024-03-04T10:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AP Automation Tools Comparison for Dynamics 365 Finance (AX) and BC/NAV]]></title>
         <id>https://erpsoftwareblog.com/?p=104646</id>

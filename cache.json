@@ -1371,6 +1371,46 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=104448",
+          "author": "Western Computer",
+          "description": "Microsoft Dynamics ERP solutions have always been front runners; even legacy versions wear their age well. However, as technology advances, maintaining integrations with new or updated applications can be a […]\nThe post A Wine Producer Benefits from Moving to the Cloud with Dynamics 365BC and 365WineTrade appeared first on ERP Software Blog.\nHow 365WineTrade and Dynamics 365BC Simplifies Regulatory Compliance\nJOVACO répond à toutes vos questions sur les systèmes ERP \nFive Great Reasons to Implement Barcode Scanning",
+          "link": "https://erpsoftwareblog.com/2024/03/a-wine-producer-benefits-from-moving-to-the-cloud-with-dynamics-365bc-and-365winetrade/",
+          "publishedOn": "2024-03-04T19:25:15.000Z",
+          "wordCount": 7887,
+          "title": "A Wine Producer Benefits from Moving to the Cloud with Dynamics 365BC and 365WineTrade",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Crimson-Wine-Group-wines-image.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=104675",
+          "author": "SmartBOL",
+          "description": "FULL SPECTRUM SUPPLY CHAIN SOLUTIONS FIND THEM ALL AT MODEX 2024 MARCH 11-14, 2024 Atlanta's Georgia World Congress Center As the speed of manufacturing and supply chain operations continues to […]\nThe post Why Should You Attend MODEX appeared first on ERP Software Blog.\nPenske Racing Drives Success with Dynamics SL\nIf Your Trial Balance is Off, What Else is Wrong?  Take These Steps to Solve Your Problems!\nMastering Mobile Inventory in Dynamics GP",
+          "link": "https://erpsoftwareblog.com/2024/03/why-should-you-attend-modex/",
+          "publishedOn": "2024-03-04T12:28:32.000Z",
+          "wordCount": 4967,
+          "title": "Why Should You Attend MODEX",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=104670",
+          "author": "SmartBOL",
+          "description": "Stop by the SmartBOL Booth C8371 and we can show you how we help Microsoft Dynamics users with their Shipping documentation, signing, and delivering a better retention solution.\nThe post Are You Planning to go to MODEX in Atlanta from March 11 - 14 appeared first on ERP Software Blog.\nDynamics GP Training –Why it Really is THAT important  – Part I\nRevenue Recognition for Software Companies in Dynamics GP 10.0\nBI ERP solutions: Why integrate Power BI into your ERP software?",
+          "link": "https://erpsoftwareblog.com/2024/03/are-you-planning-to-go-to-modex-in-atlanta-from-march-11-14/",
+          "publishedOn": "2024-03-04T11:45:25.000Z",
+          "wordCount": 4747,
+          "title": "Are You Planning to go to MODEX in Atlanta from March 11 - 14",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=104485",
+          "author": "Insight Works",
+          "description": "Integrating Quality Inspector within Business Central enhances quality assurance in manufacturing and distribution by transforming paper-based processes into streamlined and accurate digital processes. Such a strategy ensures product integrity and compliance, perfectly aligning with the industry's move toward digital transformation.\nThe post From Paper to Digital: Transforming QA with Dynamics 365 Business Central appeared first on ERP Software Blog.\nMicrosoft Dynamics GP, NAV and SL Field Service with Smartphones and Tablets\nPIM: Creating an Effective Product Workflow\nB2B vs. B2C eCommerce: What's the difference and why does it matter?",
+          "link": "https://erpsoftwareblog.com/2024/03/from-paper-to-digital-transforming-quality-assurance-with-dynamics-365-business-central/",
+          "publishedOn": "2024-03-04T11:16:39.000Z",
+          "wordCount": 5368,
+          "title": "From Paper to Digital: Transforming QA with Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Quality-Inspector-2000.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=104646",
           "author": "DynamicPoint",
           "description": "How can you find the best AP Automation tools for Dynamics 365 Finance (AX) or BC/NAV? DynamicPoint recently took part in two Comparison Showcase Events for finance-focused Dynamics 365 Finance […]\nThe post AP Automation Tools Comparison for Dynamics 365 Finance (AX) and BC/NAV appeared first on ERP Software Blog.\nMicrosoft Convergence 2011 – Tips and Tricks\nHow construction equipment rental businesses can add dealership to their portfolio\nTop Cloud Benefits",
@@ -5434,6 +5474,111 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/power-platform-pipelines-blog-series",
+          "author": "Priyesh Wagh",
+          "description": "Here’s a blog series to get you up to speed on Power Platform Pipelines! Setting up and Running Power Platform Pipelines Here is what you need to get done in […]",
+          "link": "https://365community.online/power-platform-pipelines-blog-series",
+          "publishedOn": "2024-03-04T19:14:16.000Z",
+          "wordCount": 3224,
+          "title": "Power Platform Pipelines | Blog Series",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Power-Platform-Pipelines-Blog-Series.jpg?fit=200%2C200&ssl=1"
+        },
+        {
+          "id": "https://365community.online/run-a-power-platform-pipeline",
+          "author": "Priyesh Wagh",
+          "description": "In case you setup your first Power Platform Pipeline and looking to test it out? This post is for you. Or if you haven’t yet configured your Power Platform Pipelines […]",
+          "link": "https://365community.online/run-a-power-platform-pipeline",
+          "publishedOn": "2024-03-04T19:12:22.000Z",
+          "wordCount": 3229,
+          "title": "Run a Power Platform Pipeline",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Run-a-Power-Platform-Pipeline.png?fit=1199%2C749&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-plug-in-execution-failed-because-the-sandbox-worker-process-crashed-this-is-typically-due-to-an-error-in-the-plug-in-code-dataverse-dynamics-365",
+          "author": "Nishant Rana",
+          "description": "Recently we got the below exception for one of our plugins. Message: The plug-in execution failed because the Sandbox Worker process crashed. This is typically due to an error in […]",
+          "link": "https://365community.online/the-plug-in-execution-failed-because-the-sandbox-worker-process-crashed-this-is-typically-due-to-an-error-in-the-plug-in-code-dataverse-dynamics-365",
+          "publishedOn": "2024-03-04T18:40:00.000Z",
+          "wordCount": 3343,
+          "title": "The plug-in execution failed because the Sandbox Worker process crashed. This is typically due to an error in the plug-in code – Dataverse / Dynamics 365",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/The-plug-in-execution-failed-because-the-Sandbox-Worker-process-crashed.jpeg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/restoring-a-copy-of-a-gp-company-reminder",
+          "author": "Jen Kuntz",
+          "description": "Several years ago, I wrote about a restore issue \"that drove me nuts\" as the post title says. That was written shortly after the \"named system database\" functionality was introduced […]",
+          "link": "https://365community.online/restoring-a-copy-of-a-gp-company-reminder",
+          "publishedOn": "2024-03-04T15:44:46.000Z",
+          "wordCount": 3291,
+          "title": "Restoring a copy of a GP company reminder",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/12/Moving-website-to-Hugo-amp-Azure.jpg?fit=1200%2C916&ssl=1"
+        },
+        {
+          "id": "https://365community.online/mendix-training-mendix-certification-course-online-mendix-studiopro-tutorial-mindmajix-youtube",
+          "author": "Jaya Sri",
+          "description": "Mendix Training | Mendix Certification Course Online | Mendix StudioPro Tutorial | MindMajix This MindMajix’s YouTube video on Mendix training you will gain skills to build quick and reliable enterprise […]",
+          "link": "https://365community.online/mendix-training-mendix-certification-course-online-mendix-studiopro-tutorial-mindmajix-youtube",
+          "publishedOn": "2024-03-04T14:30:00.000Z",
+          "wordCount": 3459,
+          "title": "Mendix Training | Mendix Certification Course Online | Mendix StudioPro Tutorial | MindMajix – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1709570899_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/open-new-record-form-with-pre-populated-fields-using-xrm-navigation-navigateto",
+          "author": "Linn Zaw Win",
+          "description": "This post will explain how you can pre-populate fields with various data types (lookup, partylist, etc.) when a new table form is opened using the Xrm.Navigation.navigateTo method. There is a navigateTo (Client […]",
+          "link": "https://365community.online/open-new-record-form-with-pre-populated-fields-using-xrm-navigation-navigateto",
+          "publishedOn": "2024-03-04T14:06:00.000Z",
+          "wordCount": 3236,
+          "title": "Open New Record Form with Pre-populated Fields Using Xrm.Navigation.navigateTo",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1709574641_Open-New-Record-Form-with-Pre-populated-Fields-Using-XrmNavigationnavigateTo.png?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/dynamics-365-business-central-support-for-multiple-extensions-to-same-target-in-the-same-app",
+          "author": "Stefano Demiliani",
+          "description": "I talked about this upcoming feature with some of you last week, but now that Dynamics 365 Business Central 2024 Wave 1 release (v24) is in a public preview stage, […]",
+          "link": "https://365community.online/dynamics-365-business-central-support-for-multiple-extensions-to-same-target-in-the-same-app",
+          "publishedOn": "2024-03-04T13:39:08.000Z",
+          "wordCount": 3288,
+          "title": "Dynamics 365 Business Central: support for multiple extensions to same target in the same app",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/03/Dynamics-365-Business-Central-2023-Wave-1-introducing-Master-Data.jpg?fit=394%2C362&ssl=1"
+        },
+        {
+          "id": "https://365community.online/powerdocu-and-the-art-of-managing-multitenancy-in-a-global-powerhouse-with-rene-modery",
+          "author": "NZ365Guy",
+          "description": "FULL SHOW NOTES https://podcast.nz365guy.com/531  Step into the future of IT management and creative innovation with our esteemed guest from Singapore, Rene Modery, the Power Platform Technical Lead at WPP. Rene […]",
+          "link": "https://365community.online/powerdocu-and-the-art-of-managing-multitenancy-in-a-global-powerhouse-with-rene-modery",
+          "publishedOn": "2024-03-04T13:00:00.000Z",
+          "wordCount": 3294,
+          "title": "PowerDocu and the Art of Managing Multitenancy in a Global Powerhouse with Rene Modery",
+          "enclosure": {
+            "url": "https://www.buzzsprout.com/1796418/14528721-powerdocu-and-the-art-of-managing-multitenancy-in-a-global-powerhouse-with-rene-modery.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/tibco-businessworks-6-x-training-tibco-bw-6-x-course-tibco-bw-6-x-tutorial-mindmajix-youtube",
+          "author": "Jaya Sri",
+          "description": "TIBCO BusinessWorks 6.x Training | TIBCO BW 6.x Course | TIBCO BW 6.x Tutorial | MindMajix This MindMajix’s YouTube video on Tibco BW 6.x training provides in-depth knowledge on all […]",
+          "link": "https://365community.online/tibco-businessworks-6-x-training-tibco-bw-6-x-course-tibco-bw-6-x-tutorial-mindmajix-youtube",
+          "publishedOn": "2024-03-04T12:00:40.000Z",
+          "wordCount": 3487,
+          "title": "TIBCO BusinessWorks 6.x Training | TIBCO BW 6.x Course | TIBCO BW 6.x Tutorial | MindMajix – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1709586086_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-22-topic-10-part-2-youtube",
+          "author": "shabaz darr",
+          "description": "Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]",
+          "link": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-22-topic-10-part-2-youtube",
+          "publishedOn": "2024-03-04T10:00:26.000Z",
+          "wordCount": 3306,
+          "title": "AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Episode 22 – Topic 10: Part 2 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1709570768_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
         {
           "id": "https://365community.online/adobe-target-training-adobe-target-certification-course-demo-adobe-target-tutorial-mindmajix-youtube",
           "author": "Jaya Sri",
