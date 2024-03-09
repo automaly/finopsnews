@@ -777,6 +777,26 @@
       "siteUrl": "https://d365fotechexpert.blogspot.com/",
       "articles": [
         {
+          "id": "https://d365fotechexpert.blogspot.com/2024/03/how-to-customize-ssrs-report-in-d365-f.html",
+          "author": null,
+          "description": "Microsoft Dynamics 365 Finance and Operations (D365 F&O) provides robust reporting capabilities through SQL Server Reporting Services (SSRS) reports. SSRS reports in D365 F&O can be customized to meet specific business requirements, allowing organizations to tailor their reports to display relevant information. In this article, we’ll explore the process of customizing a D365 F&O SSRS report using the Sales Packing Slip report as an example.\n\n\nUnderstanding SSRS Reports in D365 F&O\nSSRS reports in D365 F&O are generated using a combination of data stored in temporary tables (tmp tables) and report designs created in Visual Studio. These reports play a crucial role in providing insights into various aspects of business operations, and customization allows organizations to adapt these reports…",
+          "link": "https://d365fotechexpert.blogspot.com/2024/03/how-to-customize-ssrs-report-in-d365-f.html",
+          "publishedOn": "2024-03-08T12:27:00.000Z",
+          "wordCount": 6307,
+          "title": "How to Customize a SSRS Report in D365 F&O",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_um2H6z2YVo67u0PjvD_Hc3_0la1xINg8vkGIOETDnlnWMc3o9D7lvd4_M3jWJTEc8iqSS6iEa-sOX5wTrkxig0OZHfRF43MScVkSUxapytL10Kth4-HfFnLgbzyY7vPUeh9cL1xxtJRJzEzNRjl9pf9W0blhygqa4=w1200-h630-p-k-no-nu"
+        },
+        {
+          "id": "https://d365fotechexpert.blogspot.com/2024/03/update-records-through-simple-batch.html",
+          "author": null,
+          "description": "Purpose:\nThe purpose of this document is to demonstrate how to how to update record in form  through X++ based on a business logic.\n\n\nEx: user wants to update particular field for old and newly created records based on code, here im using update process through simple batch process\nProduct:\nDynamics 365 for Finance and Operations.\nDevelopment approach:\nCustomization through CODE, we need update records , for this created controller and service classes\nDevelopment:\ncreated controller and service classes\n\n\ncode below\n\n\nAmountUpdateController  class\n\n\nPublic class AmountUpdateController extends SysOperationServiceController implements BatchRetryable\n{    public static SysOperationController construct(Args _args)\n    {\n        SysOperationController controller;\n        controller = new AmountU…",
+          "link": "https://d365fotechexpert.blogspot.com/2024/03/update-records-through-simple-batch.html",
+          "publishedOn": "2024-03-08T12:03:00.000Z",
+          "wordCount": 5722,
+          "title": "Update records through Simple batch process in X++ D365 FO",
+          "imageUrl": null
+        },
+        {
           "id": "https://d365fotechexpert.blogspot.com/2024/01/show-limited-records-in-grid-on-form-x.html",
           "author": null,
           "description": "Purpose:\nThe purpose of this document is to demonstrate how to show limited  records in a grid on a form  X++ based on a business logic.\nEx: i want to show only records which are matching my logic in vendor group form\nProduct:\nDynamics 365 for Finance and Operations.\nDevelopment approach:\nCustomization through CODE, we need to  show limited records in a grid on a form on executequery method to update values\nDevelopment:\nCreated a execute query method (form data source)and applied ranges\" in my case i want to show only vend group match with \"INT\"\n\n\n\n\n\n\nonce executequery method is completed, calling our code in for data source \"INIT\" method.\n\n\nCode:\n\n\n\n[ExtensionOf(formdatasourcestr(VendGroup, VendGroup))]\ninternal final class vendgroup_Extension\n{\n    /// <summary>\n    ///\n    /// </summary>\n    public void executeQuery()\n    {\n        next    executeQuery();\n        QueryBuildDataSource    qbd;\n        qbd = this.query().dataSourceTable(tableNum(VendGroup));\n        qbd.clearRanges();\n        qbd.addRange(fieldNum(VendGroup, VendGroup)).value(\"INT\");\n    }\n\n    public void init()\n    {\n        next init();\n        this.executeQuery();\n    }\n}\n\n\nBuild and test result",
@@ -1371,6 +1391,56 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=104833",
+          "author": "Andrew King, WebSan Solutions, Inc.",
+          "description": "Are you on the hunt for the perfect Dynamics 365 Business Central partner for your organization? Choosing the right partner can make all the difference in the success of your […]\nThe post 5 Signs You're About to Choose the Wrong Dynamics 365 Business Central Partner (and How to Fix It) appeared first on ERP Software Blog.\nBAM BOOM CLOUD RECEIVE THE MICROSOFT SMALL & MIDSIZE BUSINESS MANAGEMENT ADVANCED SPECIALIZATION.\nHave You Calculated the Cost of Not Switching ERP Systems?\nAn Active Partner Relationship: Increase ROI and Long-Term ERP Success - free eBook",
+          "link": "https://erpsoftwareblog.com/2024/03/5-signs-youre-about-to-choose-the-wrong-dynamics-365-business-central-partner-and-how-to-fix-it/",
+          "publishedOn": "2024-03-08T19:39:20.000Z",
+          "wordCount": 5312,
+          "title": "5 Signs You're About to Choose the Wrong Dynamics 365 Business Central Partner (and How to Fix It)",
+          "imageUrl": "https://www.websan.com/images/easyblog_articles/627/b2ap3_large_warning-signs-1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=104828",
+          "author": "MetaOption LLC",
+          "description": "In today’s data-driven world, businesses are drowning in information. But what if you could transform that data into actionable insights? Microsoft Power BI steps in as a game-changer, empowering you to harness […]\nThe post Unlock Your Data’s Potential: Top 5 Benefits of Microsoft Power BI Implementation appeared first on ERP Software Blog.\nHarnessing Business Intelligence: Power BI Integration in Business Central\nTop 5 Microsoft Power BI benefits you should know in 2023\nTop benefits of Power BI and Business Central Integration",
+          "link": "https://erpsoftwareblog.com/2024/03/unlock-your-datas-potential-top-5-benefits-of-microsoft-power-bi-implementation/",
+          "publishedOn": "2024-03-08T19:12:33.000Z",
+          "wordCount": 4933,
+          "title": "Unlock Your Data’s Potential: Top 5 Benefits of Microsoft Power BI Implementation",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-1-76.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=104823",
+          "author": "Open Door Technology",
+          "description": "A guide to help you optimize your rental equipment fleet and maximize your profits If you own or manage a rental equipment business, you know how challenging it can be […]\nThe post How to Right Size Your Rental Fleet appeared first on ERP Software Blog.\nERP Software Bundles Make it Easier to Adopt the Technology\nMaking the Most of Your Financial Management Software\nTop Features of Dynamics GP that will Convince You to Upgrade From QuickBooks",
+          "link": "https://erpsoftwareblog.com/2024/03/how-to-right-size-your-rental-fleet/",
+          "publishedOn": "2024-03-08T18:49:12.000Z",
+          "wordCount": 6423,
+          "title": "How to Right Size Your Rental Fleet",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ERP-Cover.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=104814",
+          "author": "x2x eCommerce",
+          "description": "Businesses achieve Enhanced Inventory Management with POS and ERP Integration. Stock count is one of the major areas that requires accurate projections. This blog discusses some points that how POS […]\nThe post Enhanced Inventory Management with POS and ERP Integration appeared first on ERP Software Blog.\nDynamics GP & POS (RMH) Integration by x2x-eCommerce\nIntegrate Dynamics GP with leading Storefront Platforms\nMappings in x2x Acumatica and RMH Integration",
+          "link": "https://erpsoftwareblog.com/2024/03/enhanced-inventory-management-with-pos-and-erp-integration/",
+          "publishedOn": "2024-03-08T17:26:56.000Z",
+          "wordCount": 5041,
+          "title": "Enhanced Inventory Management with POS and ERP Integration",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Add-a-subheading-49-300x169.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=104811",
+          "author": "MetaOption LLC",
+          "description": "In the ever-evolving landscape of business management software, the decision to transition from one system to another is often a strategic move aimed at improving efficiency, streamlining processes, and staying […]\nThe post Challenges Faced in Moving from Dynamics SL to Business Central appeared first on ERP Software Blog.\nTypes of data that can be migrated from Dynamics GP to Business Central\nNavigating the Transition: Dynamics SL to Business Central Migration Strategies\nWhich Business Central Deployment Option you should choose?",
+          "link": "https://erpsoftwareblog.com/2024/03/challenges-faced-in-moving-from-dynamics-sl-to-business-central/",
+          "publishedOn": "2024-03-08T13:19:39.000Z",
+          "wordCount": 5405,
+          "title": "Challenges Faced in Moving from Dynamics SL to Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-124.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=104803",
           "author": "NAVtoBC",
           "description": "Businesses worldwide using Microsoft Dynamics NAV as their ERP are approaching a pivotal moment in their digital transformation journey. With Microsoft discontinuing the legacy NAV platform, the demand for cloud-based […]\nThe post The Cloud Migration Dilemma: Upgrade or Reimplement Your Dynamics NAV ERP to Business Central? appeared first on ERP Software Blog.\nOur Fool-Proof Guide to Migrating to Dynamics NAV\nIs cloud-based ERP giving the much-needed boost to the distribution sector?\nTop Cloud Benefits",
@@ -1679,6 +1749,16 @@
           "wordCount": 5142,
           "title": "How to Fix Common Invoice Discrepancies with Automation",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Discrepancies-1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=104847",
+          "author": "Dynamics eShop",
+          "description": "Patients and medical professionals alike require convenient access to a wide range of medical supplies. For medical supply businesses, this translates to a growing demand for robust online solutions. An […]\nThe post Streamline Your Medical Supply Business with an eCommerce Store and Dynamics 365 Business Central appeared first on ERP Software Blog.\nConnecting Your eMarketplace with Dynamics 365 Business Central\nAdvanced Budgeting, Reporting and Consolidations for Dynamics 365 Business Central\nMicrosoft Dynamics 365 Business Central 2021 Release Wave 1 Plan Has Arrived",
+          "link": "https://erpsoftwareblog.com/2024/02/medical-supply-ecommerce-d365-business-central/",
+          "publishedOn": "2024-02-28T21:24:34.000Z",
+          "wordCount": 5826,
+          "title": "Streamline Your Medical Supply Business with an eCommerce Store and Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Untitled-design-50-300x300.png"
         },
         {
           "id": "https://erpsoftwareblog.com/?p=104531",
@@ -1991,6 +2071,16 @@
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Quality-Inspector-2000.png"
         },
         {
+          "id": "https://erpsoftwareblog.com/?p=104841",
+          "author": "Dynamics eShop",
+          "description": "The world of eCommerce is a bustling marketplace, with countless platforms vying for your attention. While expanding your reach across platforms like Amazon, eBay, BigCommerce, Shopify, and Magento can be […]\nThe post Connecting Your eMarketplace with Dynamics 365 Business Central appeared first on ERP Software Blog.\nThe Important Business Function Your ERP System CAN'T Do\nGet More in the Cloud with Dynamics 365 Business Central\nWhat You Need to Know About the E-invoice Exchange Market Pilot",
+          "link": "https://erpsoftwareblog.com/2024/02/connecting-your-emarketplace-with-dynamics-365-business-central/",
+          "publishedOn": "2024-02-20T20:04:43.000Z",
+          "wordCount": 8215,
+          "title": "Connecting Your eMarketplace with Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Gemini_Generated_Image-300x300.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=104262",
           "author": "Cosmos Data Technologies",
           "description": "In the digital age, where data dictates decisions, the crucial role swift, accurate reporting plays in growth, efficiency, and success cannot be overstated. While Microsoft Dynamics 365 Business Central offers […]\nThe post Navigating Business Central Reporting Options appeared first on ERP Software Blog.\nSelf-Service Analytics: Exploring Your ERP Data for Maximum Insights\nProfessional Sports Team Financial Reporting with Dynamics GP\nAriett Showcases New Dashboards and BI Reporting at GP User Group Summit",
@@ -2159,6 +2249,16 @@
           "wordCount": 7591,
           "title": "Cloud Financial Reporting That Optimizes Dynamics and Azure Investments",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Download-COVER-Whitepaper-FYIsoft-Technology-Advantages-625x524.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=104815",
+          "author": "Dynamics eShop",
+          "description": "In today's competitive landscape, winning deals requires more than just exceptional salespeople. Success hinges on seamless collaboration, streamlined workflows, and empowering your team with the right tools. Enter the sales […]\nThe post How Sales Portals Transform Your Sales Game - Dynamics 365 Business Central appeared first on ERP Software Blog.\nThe Important Business Function Your ERP System CAN'T Do\nWhat You Need to Know About the E-invoice Exchange Market Pilot\nUnlocking Financial Agility: Demystifying Revenue and Expense Deferrals in Dynamic GP",
+          "link": "https://erpsoftwareblog.com/2024/02/sales-portal-dynamics-365-business-central/",
+          "publishedOn": "2024-02-14T16:33:17.000Z",
+          "wordCount": 5873,
+          "title": "How Sales Portals Transform Your Sales Game - Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Untitled-design-47.png"
         },
         {
           "id": "https://erpsoftwareblog.com/?p=103999",
@@ -5685,6 +5785,66 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/syncing-azure-devops-work-item-status-to-microsoft-dataverse-with-dataflows",
+          "author": "Richard Wilson",
+          "description": "In today’s fast-paced development environments, seamless integration between customer and development tracking systems can be crucial for maintaining transparency, efficiency, and alignment across teams. Our objective centers around a scenario […]",
+          "link": "https://365community.online/syncing-azure-devops-work-item-status-to-microsoft-dataverse-with-dataflows",
+          "publishedOn": "2024-03-08T20:48:00.000Z",
+          "wordCount": 3223,
+          "title": "Syncing Azure DevOps Work Item Status to Microsoft Dataverse with Dataflows",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1709932687_Syncing-Azure-DevOps-Work-Item-Status-to-Microsoft-Dataverse-with.png?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/2024-march-dc-chapter-meeting",
+          "author": "Kylie Kiser",
+          "description": "Great group of attendees for the 2024 March DC Chapter Meeting We are back with the 2024 March DC Chapter Meeting! This meeting featured 2 great presentations. Let’s jump right […]",
+          "link": "https://365community.online/2024-march-dc-chapter-meeting",
+          "publishedOn": "2024-03-08T16:20:00.000Z",
+          "wordCount": 3190,
+          "title": "2024 March DC Chapter Meeting",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1709923563_2024-March-DC-Chapter-Meeting.png?fit=1200%2C655&ssl=1"
+        },
+        {
+          "id": "https://365community.online/weekly-update-133-8th-march-2024-youtube",
+          "author": "Sarah Lean ???????",
+          "description": "Weekly Update #133 – 8th March 2024 Join me as I look at the latest Azure updates from the past week. Join me as I look at the latest Azure […]",
+          "link": "https://365community.online/weekly-update-133-8th-march-2024-youtube",
+          "publishedOn": "2024-03-08T09:02:23.000Z",
+          "wordCount": 3147,
+          "title": "Weekly Update #133 – 8th March 2024 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1709918556_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/mb-260-configure-incremental-refresh",
+          "author": "Malin Martnes",
+          "description": "You can configure the incremental refresh after you’ve transformed the data in Power Query, you can also do this by editing the source after you’ve finished. Maybe you’ve set it […]",
+          "link": "https://365community.online/mb-260-configure-incremental-refresh",
+          "publishedOn": "2024-03-08T08:00:00.000Z",
+          "wordCount": 3170,
+          "title": "MB-260: Configure incremental refresh",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/MB-260-Configure-incremental-refresh.png?fit=528%2C790&ssl=1"
+        },
+        {
+          "id": "https://365community.online/webinar-manage-duplicate-crm-data-with-fuzzy-matching-master-record-selection-and-more-with-deduped-new-release",
+          "author": "Inogic",
+          "description": "Data cleaning, a crucial process in data management, involves identifying and addressing inconsistencies, missing values, and duplicates within a dataset. According to a study by Dun & Bradstreet, up to […]",
+          "link": "https://365community.online/webinar-manage-duplicate-crm-data-with-fuzzy-matching-master-record-selection-and-more-with-deduped-new-release",
+          "publishedOn": "2024-03-08T07:20:21.000Z",
+          "wordCount": 3538,
+          "title": "Webinar: Manage Duplicate CRM Data with Fuzzy Matching, Master Record Selection, and More with DeDupeD New Release!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/DeDuped-Webinar-Blog-Banner.png?fit=936%2C531&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-use-mention-in-outlook-web-client-for-dataverse-records",
+          "author": "Arun Potti",
+          "description": "One of the most common scenarios that business has in day-to-day life is, sharing the information of Dataverse applications with your colleagues on an email. In general, you need to […]",
+          "link": "https://365community.online/how-to-use-mention-in-outlook-web-client-for-dataverse-records",
+          "publishedOn": "2024-03-08T06:02:03.000Z",
+          "wordCount": 3304,
+          "title": "How to use /mention in Outlook web client for Dataverse records?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/03/dataverse_1600x1600.png?fit=680%2C680&ssl=1"
+        },
+        {
           "id": "https://365community.online/synchronise-microsoft-shifts-with-outlook-calendars-in-power-automate-the-2024-way",
           "author": "Pieter Veenstra",
           "description": "I’ve been planning to rewrite my Synchronise Microsoft Shifts with Outlook Calendars in Power Automate post for quite a while. This post will give you the new and more efficient […]",
@@ -5703,6 +5863,16 @@
           "wordCount": 3209,
           "title": "D365PPUG Birmingham – April 2024 Event",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/01/D365PPUG-Birmingham-–-Jan-2024-Event.webp.jpeg?fit=600%2C338&ssl=1"
+        },
+        {
+          "id": "https://365community.online/rejoice-women-photographers-the-maplytics-way",
+          "author": "Inogic",
+          "description": "The post Rejoice Women Photographers the Maplytics Way! appeared first on Blog | Maplytics. Source link",
+          "link": "https://365community.online/rejoice-women-photographers-the-maplytics-way",
+          "publishedOn": "2024-03-07T11:25:41.000Z",
+          "wordCount": 3365,
+          "title": "Rejoice Women Photographers the Maplytics Way!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Maplytics-Banner-Images-2024-03-07T154539.011.png?fit=700%2C400&ssl=1"
         },
         {
           "id": "https://365community.online/does-this-still-work-youtube",
@@ -14592,6 +14762,36 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/03/06/unlock-efficiency-using-copilot-for-dynamics-365-project-operations/",
+          "author": "Pooja Fandan",
+          "description": "In today's fast-paced business landscape, efficient project planning and insightful execution are essential for success.\nThe post Ready to elevate your project management game? Unlock Efficiency and Insight using Copilot for project in Dynamics 365 Project Operations  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2024/03/06/unlock-efficiency-using-copilot-for-dynamics-365-project-operations/",
+          "publishedOn": "2024-03-06T15:56:49.000Z",
+          "wordCount": 3123,
+          "title": "Ready to elevate your project management game? Unlock Efficiency and Insight using Copilot for project in Dynamics 365 Project Operations",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/03/CLO17_casualOffice_001.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/03/04/ai-in-crm-and-erp-systems-2024-trends-innovations-and-best-practices/",
+          "author": "Efe Abugo",
+          "description": "The time has come to think about AI as something much more than a technological tool. It’s a strategic imperative for 2024 and beyond. In this new year, adopting CRM AI for marketing, sales, and service and ERP AI for finance, supply chain, and operations is crucial to competing and getting ahead. \nThe post AI in CRM and ERP systems: 2024 trends, innovations, and best practices appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/03/04/ai-in-crm-and-erp-systems-2024-trends-innovations-and-best-practices/",
+          "publishedOn": "2024-03-04T19:00:00.000Z",
+          "wordCount": 4171,
+          "title": "AI in CRM and ERP systems: 2024 trends, innovations, and best practices",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/03/MSFT_D365_FEB28_314928_Blog_Blogheader_240226_V01-SEO-image-.png"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/03/04/process-advisor-for-supply-chain-and-warehousing-who-should-use-it-why-and-for-what/",
+          "author": "Julian De Bri (Business Guest)",
+          "description": "Performance evaluation has been revolutionized by technology, extending its reach to the individual level. Consider health apps on your smartphone. They gather data breadcrumbs from your daily activities, providing analysis of your movement patterns. This isn’t a generic data compilation, but a near-accurate reflection of your physical activity during a specific period.\nIn the future, it’s conceivable that these apps might be equipped with an AI companion, or Copilot, to guide your next steps based on your past activities. It could suggest rest days or additional exercise to help you achieve your personal health goals.\nThis concept of performance evaluation based on collected data is the bedrock of process mining and process comparison. Our Copilot functionality adds a layer of assistance, enabling you to make informed decisions about your warehouse operations.\nIn this context, Copilot can help you optimize warehouse processes. It can identify bottlenecks in certain processes or compare different methods to achieve the same goal, empowering you to choose the most optimal method for your specific case.\nIn this blog, we’ll explore the essence of this feature, its intended audience, and how and why you should leverage it for your warehousing operations.\nThe post Process Advisor for Supply Chain and Warehousing. appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2024/03/04/process-advisor-for-supply-chain-and-warehousing-who-should-use-it-why-and-for-what/",
+          "publishedOn": "2024-03-04T15:12:55.000Z",
+          "wordCount": 6073,
+          "title": "Process Advisor for Supply Chain and Warehousing.",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2020/11/CLO20_Libby_005-1024x683.jpg"
+        },
+        {
           "id": "https://www.microsoft.com/en-us/microsoft-365/blog/2024/02/29/introducing-microsoft-copilot-for-finance-transform-finance-with-next-generation-ai-in-microsoft-365/",
           "author": "Emily He",
           "description": "We’re announcing the public preview of Microsoft Copilot for Finance, a game-changer for finance professionals and the newest role-based extension of Microsoft Copilot. Microsoft Copilot for Finance is a momentous leap forward, specifically crafted to revolutionize the daily grind of well-known financial processes.\nThe post Introducing Microsoft Copilot for Finance: Transform finance with next-generation AI in Microsoft 365 appeared first on Microsoft Dynamics 365 Blog.",
@@ -16366,6 +16566,16 @@
       "siteUrl": "https://paragchapre.com",
       "articles": [
         {
+          "id": "https://paragchapre.com/?p=12653",
+          "author": "paragchapre@gmail.com",
+          "description": "Explore the transformative capabilities of Virtual Entities in Dynamics 365 Finance and Operations and discover how to seamlessly integrate external data using Power Automate.\nThe post Enabling Virtual Entities in Dynamics 365 Finance and Operations Using Power Automate appeared first on Parag Chapre.",
+          "link": "https://paragchapre.com/enable-virtual-entities-dynamics-365-finance-operations-power-automate/",
+          "publishedOn": "2024-03-08T01:03:09.000Z",
+          "wordCount": 2333,
+          "title": "Enabling Virtual Entities in Dynamics 365 Finance and Operations Using Power Automate",
+          "imageUrl": "https://paragchapre.com/wp-content/uploads/2024/03/Virtual-Entities-.png"
+        },
+        {
           "id": "https://paragchapre.com/?p=12598",
           "author": "paragchapre@gmail.com",
           "description": "Discover how workflows in Dynamics 365 HR streamline the approval process for employee images, improving efficiency and compliance with organizational standards.\nThe post Streamlining Employee Image Approval with Workflows in Dynamics 365 Human Resources appeared first on Parag Chapre.",
@@ -17434,6 +17644,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "prompt-engineering-made-easier-with-ai-builder",
+          "author": null,
+          "description": "Today we are excited to launch a new set of prebuilt AI functions that can be easily added to a low-code solution without having to engineer a custom prompt. These prebuilt functions provide a great starting point to combine the power of LLMs and power of low-code, but they are just scratching the surface of what is possible.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/prompt-engineering-made-easier-with-ai-builder/",
+          "publishedOn": "2024-03-08T08:00:00.000Z",
+          "wordCount": 2709,
+          "title": "Prompt engineering made easier with AI Builder",
+          "imageUrl": "//powerappsblogmedia.azureedge.net/powerappsblog/2024/03/featured-image-3.1.png"
+        },
         {
           "id": "preferred-solution-is-now-generally-available",
           "author": null,
