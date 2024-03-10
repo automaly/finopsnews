@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-03-09T00:36:47.818Z</updated>
+    <updated>2024-03-10T00:41:00.523Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Full Stack Training | Full Stack Web Development Course | Full Stack Developer Training | MindMajix – YouTube]]></title>
+        <id>https://365community.online/full-stack-training-full-stack-web-development-course-full-stack-developer-training-mindmajix-youtube</id>
+        <link href="https://365community.online/full-stack-training-full-stack-web-development-course-full-stack-developer-training-mindmajix-youtube"/>
+        <updated>2024-03-09T14:30:17.000Z</updated>
+        <summary type="html"><![CDATA[Full Stack Training | Full Stack Web Development Course | Full Stack Developer Training | MindMajix This MindMajix’s YouTube video on Full Stack training you will learn the skills in […]]]></summary>
+        <author>
+            <name>Jaya Sri</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Syncing Azure DevOps Work Item Status to Microsoft Dataverse with Dataflows]]></title>
         <id>https://365community.online/syncing-azure-devops-work-item-status-to-microsoft-dataverse-with-dataflows</id>
@@ -141,6 +151,16 @@ Public class AmountUpdateController extends SysOperationServiceController implem
         controller = new AmountU…]]></summary>
         <author>
             <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Episode 24 – Topic 10: Part 4 – YouTube]]></title>
+        <id>https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-24-topic-10-part-4-youtube</id>
+        <link href="https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-24-topic-10-part-4-youtube"/>
+        <updated>2024-03-08T10:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
         </author>
     </entry>
     <entry>
