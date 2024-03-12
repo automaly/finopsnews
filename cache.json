@@ -1391,6 +1391,36 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=104893",
+          "author": "Mekorma",
+          "description": "Today, a successful Chief Financial Officer (CFO) must possess a versatile skill set that extends far beyond traditional financial expertise. Strategic decision-making, risk management, and effective stakeholder relations are now […]\nThe post Maximize Financial Performance: The Ultimate CFO Guide to AP Automation appeared first on ERP Software Blog.\n2 Demo Days - Microsoft Dynamics GP and 365 Business Central\nNavigating the Cloud Transition: Migrating AP from Microsoft Dynamics GP to D365 Business Central\nMicrosoft Dynamics GP or Microsoft Dynamics 365 Business Central: 5 Questions Before Migrating",
+          "link": "https://erpsoftwareblog.com/2024/03/maximize-financial-performance-the-ultimate-cfo-guide-to-ap-automation/",
+          "publishedOn": "2024-03-11T21:53:10.000Z",
+          "wordCount": 5016,
+          "title": "Maximize Financial Performance: The Ultimate CFO Guide to AP Automation",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/CFO-Guide-Blog-625x391.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=104887",
+          "author": "StockIQ Technologies",
+          "description": "Sales and Operations Planning (S&OP) is a critical process that bridges the gap between sales, production, and supply chain management. When executed effectively, S&OP can drive better business integration, improve […]\nThe post Driving Better Sales and Operations Planning (S&OP) appeared first on ERP Software Blog.\nHow S&OP Can Boost Your Business Performance\nRealizing the Full Potential of Dynamics GP Manufacturing\nDynaRent helps you manage aerial work platform equipment, projects, collaborations, resources and more",
+          "link": "https://erpsoftwareblog.com/2024/03/driving-better-sales-and-operations-planning-sop/",
+          "publishedOn": "2024-03-11T20:45:11.000Z",
+          "wordCount": 5099,
+          "title": "Driving Better Sales and Operations Planning (S&OP)",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=104768",
+          "author": "John Stevens",
+          "description": "Are you still sending invoices in the mail? Should you consider email instead? Invoicing your customers is an important task. You want to make sure they receive the invoice at […]\nThe post Sending Invoices via the Mail vs. Email appeared first on ERP Software Blog.\nNeed for an eCommerce Store for Retailers\nRegister Now for JourneyTEAM’s 2021 Business Technology Summit\nThe Important Business Function Your ERP System CAN'T Do",
+          "link": "https://erpsoftwareblog.com/2024/03/sending-invoices-via-the-mail-vs-email/",
+          "publishedOn": "2024-03-11T20:39:15.000Z",
+          "wordCount": 5460,
+          "title": "Sending Invoices via the Mail vs. Email",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=104833",
           "author": "Andrew King, WebSan Solutions, Inc.",
           "description": "Are you on the hunt for the perfect Dynamics 365 Business Central partner for your organization? Choosing the right partner can make all the difference in the success of your […]\nThe post 5 Signs You're About to Choose the Wrong Dynamics 365 Business Central Partner (and How to Fix It) appeared first on ERP Software Blog.\nBAM BOOM CLOUD RECEIVE THE MICROSOFT SMALL & MIDSIZE BUSINESS MANAGEMENT ADVANCED SPECIALIZATION.\nHave You Calculated the Cost of Not Switching ERP Systems?\nAn Active Partner Relationship: Increase ROI and Long-Term ERP Success - free eBook",
@@ -5785,6 +5815,56 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/the-operationoptions-property-is-not-allowed-on-the-trigger-when-the-workflow-contains-actions-of-type-openapiconnection-power-automate",
+          "author": "Nishant Rana",
+          "description": "Recently while trying to save one of our cloud flows having a “When a HTTP request is received” trigger, we got the below error message after adding the “List Rows” […]",
+          "link": "https://365community.online/the-operationoptions-property-is-not-allowed-on-the-trigger-when-the-workflow-contains-actions-of-type-openapiconnection-power-automate",
+          "publishedOn": "2024-03-11T18:40:00.000Z",
+          "wordCount": 3332,
+          "title": "The ‘operationOptions’ property is not allowed on the trigger when the workflow contains actions of type ‘OpenApiConnection- Power Automate",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/The-‘operationOptions-property-is-not-allowed-on-the-trigger-when.jpeg?fit=1200%2C799&ssl=1"
+        },
+        {
+          "id": "https://365community.online/dataflow-timeouts-in-power-apps",
+          "author": "Pieter Veenstra",
+          "description": "Last week one of my clients had an issue with timeouts in their dataflows in Power Apps. It had worked for a while, but then suddenly the dataflow was experiencing […]",
+          "link": "https://365community.online/dataflow-timeouts-in-power-apps",
+          "publishedOn": "2024-03-11T15:57:41.000Z",
+          "wordCount": 3207,
+          "title": "Dataflow timeouts in Power Apps",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-25-topic-11-part-1-youtube",
+          "author": "shabaz darr",
+          "description": "Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]",
+          "link": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-25-topic-11-part-1-youtube",
+          "publishedOn": "2024-03-11T10:00:01.000Z",
+          "wordCount": 3305,
+          "title": "AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Episode 25 – Topic 11: Part 1 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1710186828_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/protect-confidential-information-implement-data-masking-strategies-dynamics-365-crm",
+          "author": "Inogic",
+          "description": "Masking in Dynamics 365 CRM is essential for safeguarding sensitive personal details from unauthorized access and malicious attacks. By obscuring confidential fields such as Passport numbers users can prevent data […]",
+          "link": "https://365community.online/protect-confidential-information-implement-data-masking-strategies-dynamics-365-crm",
+          "publishedOn": "2024-03-11T09:09:21.000Z",
+          "wordCount": 3514,
+          "title": "Protect Confidential Information: Implement Data Masking Strategies Dynamics 365 CRM",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Implement-Data-Masking-Strategies-Dynamics-365-CRM-1.png?fit=1200%2C581&ssl=1"
+        },
+        {
+          "id": "https://365community.online/arun-pottis-youtube-channel-started",
+          "author": "Arun Potti",
+          "description": "Hello everyone, started my Arun Potti – YouTube Channel today and request you all to have a look at this Introduction video. Please Subscribe my YouTube channel and Like, Share […]",
+          "link": "https://365community.online/arun-pottis-youtube-channel-started",
+          "publishedOn": "2024-03-11T02:09:38.000Z",
+          "wordCount": 3181,
+          "title": "Arun Potti’s YouTube Channel Started!!!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/ap.png?fit=1200%2C675&ssl=1"
+        },
+        {
           "id": "https://365community.online/microservices-architecture-training-microservices-architecture-certification-course-mindmajix-youtube",
           "author": "Jaya Sri",
           "description": "Microservices Architecture Training | Microservices Architecture Certification Course | MindMajix This MindMajix’s YouTube video on Microservices Architecture training allows you to understand better Microservices architecture, Spring Boot, RESTful services and […]",
@@ -5793,6 +5873,16 @@
           "wordCount": 3233,
           "title": "Microservices Architecture Training | Microservices Architecture Certification Course | MindMajix – YouTube",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1710111603_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/soapui-training-soapui-api-testing-certification-course-soapui-training-for-beginners-mindmajix-youtube",
+          "author": "Jaya Sri",
+          "description": "SoapUI Training | SoapUI API Testing Certification Course | SoapUI Training For Beginners |MindMajix This MindMajix YouTube video on SoapUI training you will expertise in SOAP (5.7.0) Web Services functional […]",
+          "link": "https://365community.online/soapui-training-soapui-api-testing-certification-course-soapui-training-for-beginners-mindmajix-youtube",
+          "publishedOn": "2024-03-10T12:30:06.000Z",
+          "wordCount": 3266,
+          "title": "SoapUI Training | SoapUI API Testing Certification Course | SoapUI Training For Beginners |MindMajix – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1710126883_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         },
         {
           "id": "https://365community.online/responsible-ai-in-the-d365-and-power-platform-youtube",

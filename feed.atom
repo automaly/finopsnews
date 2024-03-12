@@ -2,16 +2,118 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-03-11T00:39:30.672Z</updated>
+    <updated>2024-03-12T00:37:35.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maximize Financial Performance: The Ultimate CFO Guide to AP Automation]]></title>
+        <id>https://erpsoftwareblog.com/?p=104893</id>
+        <link href="https://erpsoftwareblog.com/2024/03/maximize-financial-performance-the-ultimate-cfo-guide-to-ap-automation/"/>
+        <updated>2024-03-11T21:53:10.000Z</updated>
+        <summary type="html"><![CDATA[Today, a successful Chief Financial Officer (CFO) must possess a versatile skill set that extends far beyond traditional financial expertise. Strategic decision-making, risk management, and effective stakeholder relations are now […]
+The post Maximize Financial Performance: The Ultimate CFO Guide to AP Automation appeared first on ERP Software Blog.
+2 Demo Days - Microsoft Dynamics GP and 365 Business Central
+Navigating the Cloud Transition: Migrating AP from Microsoft Dynamics GP to D365 Business Central
+Microsoft Dynamics GP or Microsoft Dynamics 365 Business Central: 5 Questions Before Migrating]]></summary>
+        <author>
+            <name>Mekorma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Driving Better Sales and Operations Planning (S&OP)]]></title>
+        <id>https://erpsoftwareblog.com/?p=104887</id>
+        <link href="https://erpsoftwareblog.com/2024/03/driving-better-sales-and-operations-planning-sop/"/>
+        <updated>2024-03-11T20:45:11.000Z</updated>
+        <summary type="html"><![CDATA[Sales and Operations Planning (S&OP) is a critical process that bridges the gap between sales, production, and supply chain management. When executed effectively, S&OP can drive better business integration, improve […]
+The post Driving Better Sales and Operations Planning (S&OP) appeared first on ERP Software Blog.
+How S&OP Can Boost Your Business Performance
+Realizing the Full Potential of Dynamics GP Manufacturing
+DynaRent helps you manage aerial work platform equipment, projects, collaborations, resources and more]]></summary>
+        <author>
+            <name>StockIQ Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sending Invoices via the Mail vs. Email]]></title>
+        <id>https://erpsoftwareblog.com/?p=104768</id>
+        <link href="https://erpsoftwareblog.com/2024/03/sending-invoices-via-the-mail-vs-email/"/>
+        <updated>2024-03-11T20:39:15.000Z</updated>
+        <summary type="html"><![CDATA[Are you still sending invoices in the mail? Should you consider email instead? Invoicing your customers is an important task. You want to make sure they receive the invoice at […]
+The post Sending Invoices via the Mail vs. Email appeared first on ERP Software Blog.
+Need for an eCommerce Store for Retailers
+Register Now for JourneyTEAM’s 2021 Business Technology Summit
+The Important Business Function Your ERP System CAN'T Do]]></summary>
+        <author>
+            <name>John Stevens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The ‘operationOptions’ property is not allowed on the trigger when the workflow contains actions of type ‘OpenApiConnection- Power Automate]]></title>
+        <id>https://365community.online/the-operationoptions-property-is-not-allowed-on-the-trigger-when-the-workflow-contains-actions-of-type-openapiconnection-power-automate</id>
+        <link href="https://365community.online/the-operationoptions-property-is-not-allowed-on-the-trigger-when-the-workflow-contains-actions-of-type-openapiconnection-power-automate"/>
+        <updated>2024-03-11T18:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently while trying to save one of our cloud flows having a “When a HTTP request is received” trigger, we got the below error message after adding the “List Rows” […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dataflow timeouts in Power Apps]]></title>
+        <id>https://365community.online/dataflow-timeouts-in-power-apps</id>
+        <link href="https://365community.online/dataflow-timeouts-in-power-apps"/>
+        <updated>2024-03-11T15:57:41.000Z</updated>
+        <summary type="html"><![CDATA[Last week one of my clients had an issue with timeouts in their dataflows in Power Apps. It had worked for a while, but then suddenly the dataflow was experiencing […]]]></summary>
+        <author>
+            <name>Pieter Veenstra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Episode 25 – Topic 11: Part 1 – YouTube]]></title>
+        <id>https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-25-topic-11-part-1-youtube</id>
+        <link href="https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-25-topic-11-part-1-youtube"/>
+        <updated>2024-03-11T10:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Protect Confidential Information: Implement Data Masking Strategies Dynamics 365 CRM]]></title>
+        <id>https://365community.online/protect-confidential-information-implement-data-masking-strategies-dynamics-365-crm</id>
+        <link href="https://365community.online/protect-confidential-information-implement-data-masking-strategies-dynamics-365-crm"/>
+        <updated>2024-03-11T09:09:21.000Z</updated>
+        <summary type="html"><![CDATA[Masking in Dynamics 365 CRM is essential for safeguarding sensitive personal details from unauthorized access and malicious attacks. By obscuring confidential fields such as Passport numbers users can prevent data […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arun Potti’s YouTube Channel Started!!!]]></title>
+        <id>https://365community.online/arun-pottis-youtube-channel-started</id>
+        <link href="https://365community.online/arun-pottis-youtube-channel-started"/>
+        <updated>2024-03-11T02:09:38.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone, started my Arun Potti – YouTube Channel today and request you all to have a look at this Introduction video. Please Subscribe my YouTube channel and Like, Share […]]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microservices Architecture Training | Microservices Architecture Certification Course | MindMajix – YouTube]]></title>
         <id>https://365community.online/microservices-architecture-training-microservices-architecture-certification-course-mindmajix-youtube</id>
         <link href="https://365community.online/microservices-architecture-training-microservices-architecture-certification-course-mindmajix-youtube"/>
         <updated>2024-03-10T13:30:07.000Z</updated>
         <summary type="html"><![CDATA[Microservices Architecture Training | Microservices Architecture Certification Course | MindMajix This MindMajix’s YouTube video on Microservices Architecture training allows you to understand better Microservices architecture, Spring Boot, RESTful services and […]]]></summary>
+        <author>
+            <name>Jaya Sri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SoapUI Training | SoapUI API Testing Certification Course | SoapUI Training For Beginners |MindMajix – YouTube]]></title>
+        <id>https://365community.online/soapui-training-soapui-api-testing-certification-course-soapui-training-for-beginners-mindmajix-youtube</id>
+        <link href="https://365community.online/soapui-training-soapui-api-testing-certification-course-soapui-training-for-beginners-mindmajix-youtube"/>
+        <updated>2024-03-10T12:30:06.000Z</updated>
+        <summary type="html"><![CDATA[SoapUI Training | SoapUI API Testing Certification Course | SoapUI Training For Beginners |MindMajix This MindMajix YouTube video on SoapUI training you will expertise in SOAP (5.7.0) Web Services functional […]]]></summary>
         <author>
             <name>Jaya Sri</name>
         </author>
