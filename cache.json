@@ -1391,6 +1391,56 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=104935",
+          "author": "NAVtoBC",
+          "description": "Business Central Licensing Explained: Choosing Between Essentials and Premium Imagine the possibility of enhancing your business's efficiency, boosting productivity, and securing technical scalability for the foreseeable future. Staying current is […]\nThe post Business Central Licensing Explained: Choosing Between Essentials and Premium appeared first on ERP Software Blog.\nLearn How To Save Time By Using The \"Cancel\" Option to Reverse A Posted Sales Invoice\n6 Best Practices to Planning Successful ERP Implementation\nCan distributors free themselves from the hassles of mismatched data across various systems?",
+          "link": "https://erpsoftwareblog.com/2024/03/business-central-licensing-explained/",
+          "publishedOn": "2024-03-12T19:54:46.000Z",
+          "wordCount": 5791,
+          "title": "Business Central Licensing Explained: Choosing Between Essentials and Premium",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/NavtoBc-Blog-Header.webp"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=104927",
+          "author": "GP Support North",
+          "description": "Brought to you by GP Support North’s trusted partner, Binary Stream. Multi-Entity Manager for Dynamics GP (MEM) is designed to simplify the complexities of managing subsidiary companies\nThe post Simplifying Your Multi-Entity Management with Dynamics GP appeared first on ERP Software Blog.\nUpdated forecast for the Dynamics GP 18.6 (GP 2024) release from Microsoft\nEnhancing Efficiency and Security with an Up-to-Date Dynamics GP in 2024\nDynamics GP Year-End Closing Procedures",
+          "link": "https://erpsoftwareblog.com/2024/03/simplifying-your-multi-entity-management-with-dynamics-gp/",
+          "publishedOn": "2024-03-12T19:14:05.000Z",
+          "wordCount": 5648,
+          "title": "Simplifying Your Multi-Entity Management with Dynamics GP",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/MEM-Banner.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=104918",
+          "author": "Insight Works",
+          "description": "Join our March 2024 webinar and explore seamless shipping in Business Central. Discover valuable insights on comparing rates, monitoring packages, and streamlining operations. Customize shipping profiles and efficiently manage shipping labels. This webinar is highly recommended for those looking to enhance their shipping efficiency.\nThe post European Webinar: Navigating Seamless Shipping with Dynamics 365 Business Central appeared first on ERP Software Blog.\nSignature Capture in Business Central: A Comprehensive Guide with Warehouse Insight\nEnhanced Planning Pack for Dynamics 365 Business Central\nEnhanced Document Storage in Dynamics 365 Business Central",
+          "link": "https://erpsoftwareblog.com/2024/03/business-central-webinar-navigating-seamless-shipping/",
+          "publishedOn": "2024-03-12T17:27:08.000Z",
+          "wordCount": 4931,
+          "title": "European Webinar: Navigating Seamless Shipping with Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamic-Ship-250.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=104081",
+          "author": "Binary Stream",
+          "description": "Binary Stream Software is proud to collaborate with Progressus, a dynamic project management solution, to introduce the new Progressus Project Multicompany solution. This innovative partnership aims to empower businesses with […]\nThe post Binary Stream and Progressus join forces to revolutionize multi-company management appeared first on ERP Software Blog.\nBinary Stream and Domain 6 partner to expand the reach of Property Lease Management\nDemystify GP/CRM Integration\nConnect the Dots Between Your AP Automation System and Binary Stream MEM",
+          "link": "https://erpsoftwareblog.com/2024/03/binary-stream-and-progressus-join-forces-to-revolutionize-multi-company-management/",
+          "publishedOn": "2024-03-12T12:31:14.000Z",
+          "wordCount": 4998,
+          "title": "Binary Stream and Progressus join forces to revolutionize multi-company management",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Header-for-partnership-press-release.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=104884",
+          "author": "x2x eCommerce",
+          "description": "Sales transaction synchronization between an ERP and POS system plays a vital role in flawless operations and accurate data management for businesses. Point of Sale (POS) integration with an Enterprise […]\nThe post How POS and ERP Integration impact Sales synchronization appeared first on ERP Software Blog.\nOn-Demand Webinar: Maximize Power BI's Reporting Options\nA Comprehensive Guide on How to Use the Warehouse Item Journal\nStreamlining Retail Operations: LS Retail Integration with Business Central",
+          "link": "https://erpsoftwareblog.com/2024/03/how-pos-and-erp-integration-impact-sales-synchronization/",
+          "publishedOn": "2024-03-12T11:04:21.000Z",
+          "wordCount": 5156,
+          "title": "How POS and ERP Integration impact Sales synchronization",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Add-a-subheading-50-300x169.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=104893",
           "author": "Mekorma",
           "description": "Today, a successful Chief Financial Officer (CFO) must possess a versatile skill set that extends far beyond traditional financial expertise. Strategic decision-making, risk management, and effective stakeholder relations are now […]\nThe post Maximize Financial Performance: The Ultimate CFO Guide to AP Automation appeared first on ERP Software Blog.\n2 Demo Days - Microsoft Dynamics GP and 365 Business Central\nNavigating the Cloud Transition: Migrating AP from Microsoft Dynamics GP to D365 Business Central\nMicrosoft Dynamics GP or Microsoft Dynamics 365 Business Central: 5 Questions Before Migrating",
@@ -5815,6 +5865,46 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/fixed-the-input-is-not-a-valid-base-64-string-as-it-contains-a-non-base-64-character-more-than-two-padding-characters-or-an-illegal-character-among-the-padding-characters-exception-in-plug",
+          "author": "Nishant Rana",
+          "description": "Recently for one of our plugins, that moves attachments to the Azure Blob Storage, we got the below exception. BlobFileName: WFU000069107_Inside Install – CFC__2024_03_03_12_24_05_179_temp.jpgCaught Exception: The input is not a […]",
+          "link": "https://365community.online/fixed-the-input-is-not-a-valid-base-64-string-as-it-contains-a-non-base-64-character-more-than-two-padding-characters-or-an-illegal-character-among-the-padding-characters-exception-in-plug",
+          "publishedOn": "2024-03-12T18:40:00.000Z",
+          "wordCount": 3409,
+          "title": "Fixed – The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters exception in Plugin (Dataverse / Dynamics 365)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Fixed-–-The-input-is-not-a-valid-Base-64-string.jpeg?fit=1200%2C799&ssl=1"
+        },
+        {
+          "id": "https://365community.online/power-automate-teamed-with-azure-openai-services-to-track-conversations-using-keywords",
+          "author": "Inogic",
+          "description": "Sarah, a bright-eyed sales associate at Peck Packaging, felt a familiar pang of frustration. A potential client, Miss Atkins, had mentioned budget concerns in their last email, but the details […]",
+          "link": "https://365community.online/power-automate-teamed-with-azure-openai-services-to-track-conversations-using-keywords",
+          "publishedOn": "2024-03-12T08:45:53.000Z",
+          "wordCount": 3522,
+          "title": "Power Automate teamed with Azure OpenAI Services to track conversations using Keywords!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Copilot-Keyword-Tracker.jpg?fit=700%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/find-dynamics-365-date-in-outlook-using-mentions-youtube",
+          "author": "Dian Taylor",
+          "description": "Find Dynamics 365 Date in Outlook using mentions In this video, I’m going to show you a feature that just because generally available, which makes this process much easier. It […]",
+          "link": "https://365community.online/find-dynamics-365-date-in-outlook-using-mentions-youtube",
+          "publishedOn": "2024-03-12T08:03:00.000Z",
+          "wordCount": 3272,
+          "title": "Find Dynamics 365 Date in Outlook using mentions – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1710275590_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-create-a-left-aligned-responsive-gallery",
+          "author": "harditbhatia",
+          "description": "There are several ways in which a gallery can be made responsive. Learn how to build a left aligned responsive gallery! The post How to create a left aligned responsive […]",
+          "link": "https://365community.online/how-to-create-a-left-aligned-responsive-gallery",
+          "publishedOn": "2024-03-12T03:21:53.000Z",
+          "wordCount": 3187,
+          "title": "How to create a left aligned responsive gallery",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/How-to-create-a-left-aligned-responsive-gallery.png?fit=1200%2C739&ssl=1"
+        },
+        {
           "id": "https://365community.online/the-operationoptions-property-is-not-allowed-on-the-trigger-when-the-workflow-contains-actions-of-type-openapiconnection-power-automate",
           "author": "Nishant Rana",
           "description": "Recently while trying to save one of our cloud flows having a “When a HTTP request is received” trigger, we got the below error message after adding the “List Rows” […]",
@@ -5833,6 +5923,16 @@
           "wordCount": 3207,
           "title": "Dataflow timeouts in Power Apps",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/curso-completo-power-apps-criando-nosso-primeiro-componente-de-cabecalho-youtube",
+          "author": "Saulo Soares Oliveira",
+          "description": "Nesse curso vamos aprender os conceitos e vamos criar um projeto do zero utilizando Power Apps e SharePoint. ♐ Adquira meu curso na Udemy e aprenda SharePoint, Power Apps e […]",
+          "link": "https://365community.online/curso-completo-power-apps-criando-nosso-primeiro-componente-de-cabecalho-youtube",
+          "publishedOn": "2024-03-11T11:28:37.000Z",
+          "wordCount": 3217,
+          "title": "Curso completo Power Apps – Criando nosso primeiro componente de cabeçalho – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1710205014_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         },
         {
           "id": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-25-topic-11-part-1-youtube",
@@ -14912,6 +15012,16 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/03/11/microsoft-is-a-leader-in-the-forrester-wave-customer-service-solutions-q1-2024/",
+          "author": "Jeff Comstock",
+          "description": "Most organizations find it’s no longer good enough to just measure successful service engagements solely on whether a customer issue is resolved. Instead, they aim to deliver personalized, fast service experiences at every touchpoint through all engagement channels.\nThe post Microsoft is a Leader in The Forrester Wave™: Customer Service Solutions, Q1 2024  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/03/11/microsoft-is-a-leader-in-the-forrester-wave-customer-service-solutions-q1-2024/",
+          "publishedOn": "2024-03-11T15:00:00.000Z",
+          "wordCount": 3563,
+          "title": "Microsoft is a Leader in The Forrester Wave™: Customer Service Solutions, Q1 2024",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/03/MSFT_Dynamics365_MAR07_322722_Blog_BlogHeader_240306_V1-1_1200.png"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/03/06/unlock-efficiency-using-copilot-for-dynamics-365-project-operations/",
           "author": "Pooja Fandan",
           "description": "In today's fast-paced business landscape, efficient project planning and insightful execution are essential for success.\nThe post Ready to elevate your project management game? Unlock Efficiency and Insight using Copilot for project in Dynamics 365 Project Operations  appeared first on Microsoft Dynamics 365 Blog.",
@@ -17794,6 +17904,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "investing-in-your-success",
+          "author": null,
+          "description": "You want to accelerate Power Platform adoption to create a more efficient, agile, and responsive enterprise — but, we all know, enterprise-level change is hard. Good news – Microsoft has your back and you don’t have to do it alone. Microsoft is committed to helping your business succeed and is ready to invest in your […]",
+          "link": "https://powerapps.microsoft.com/en-us/blog/investing-in-your-success/",
+          "publishedOn": "2024-03-12T08:00:00.000Z",
+          "wordCount": 2176,
+          "title": "Investing in Your Success",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "prompt-engineering-made-easier-with-ai-builder",
           "author": null,

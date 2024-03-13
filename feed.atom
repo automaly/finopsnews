@@ -2,10 +2,130 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-03-12T00:37:35.449Z</updated>
+    <updated>2024-03-13T00:38:28.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Business Central Licensing Explained: Choosing Between Essentials and Premium]]></title>
+        <id>https://erpsoftwareblog.com/?p=104935</id>
+        <link href="https://erpsoftwareblog.com/2024/03/business-central-licensing-explained/"/>
+        <updated>2024-03-12T19:54:46.000Z</updated>
+        <summary type="html"><![CDATA[Business Central Licensing Explained: Choosing Between Essentials and Premium Imagine the possibility of enhancing your business's efficiency, boosting productivity, and securing technical scalability for the foreseeable future. Staying current is […]
+The post Business Central Licensing Explained: Choosing Between Essentials and Premium appeared first on ERP Software Blog.
+Learn How To Save Time By Using The "Cancel" Option to Reverse A Posted Sales Invoice
+6 Best Practices to Planning Successful ERP Implementation
+Can distributors free themselves from the hassles of mismatched data across various systems?]]></summary>
+        <author>
+            <name>NAVtoBC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simplifying Your Multi-Entity Management with Dynamics GP]]></title>
+        <id>https://erpsoftwareblog.com/?p=104927</id>
+        <link href="https://erpsoftwareblog.com/2024/03/simplifying-your-multi-entity-management-with-dynamics-gp/"/>
+        <updated>2024-03-12T19:14:05.000Z</updated>
+        <summary type="html"><![CDATA[Brought to you by GP Support North’s trusted partner, Binary Stream. Multi-Entity Manager for Dynamics GP (MEM) is designed to simplify the complexities of managing subsidiary companies
+The post Simplifying Your Multi-Entity Management with Dynamics GP appeared first on ERP Software Blog.
+Updated forecast for the Dynamics GP 18.6 (GP 2024) release from Microsoft
+Enhancing Efficiency and Security with an Up-to-Date Dynamics GP in 2024
+Dynamics GP Year-End Closing Procedures]]></summary>
+        <author>
+            <name>GP Support North</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixed – The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters exception in Plugin (Dataverse / Dynamics 365)]]></title>
+        <id>https://365community.online/fixed-the-input-is-not-a-valid-base-64-string-as-it-contains-a-non-base-64-character-more-than-two-padding-characters-or-an-illegal-character-among-the-padding-characters-exception-in-plug</id>
+        <link href="https://365community.online/fixed-the-input-is-not-a-valid-base-64-string-as-it-contains-a-non-base-64-character-more-than-two-padding-characters-or-an-illegal-character-among-the-padding-characters-exception-in-plug"/>
+        <updated>2024-03-12T18:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently for one of our plugins, that moves attachments to the Azure Blob Storage, we got the below exception. BlobFileName: WFU000069107_Inside Install – CFC__2024_03_03_12_24_05_179_temp.jpgCaught Exception: The input is not a […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[European Webinar: Navigating Seamless Shipping with Dynamics 365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=104918</id>
+        <link href="https://erpsoftwareblog.com/2024/03/business-central-webinar-navigating-seamless-shipping/"/>
+        <updated>2024-03-12T17:27:08.000Z</updated>
+        <summary type="html"><![CDATA[Join our March 2024 webinar and explore seamless shipping in Business Central. Discover valuable insights on comparing rates, monitoring packages, and streamlining operations. Customize shipping profiles and efficiently manage shipping labels. This webinar is highly recommended for those looking to enhance their shipping efficiency.
+The post European Webinar: Navigating Seamless Shipping with Dynamics 365 Business Central appeared first on ERP Software Blog.
+Signature Capture in Business Central: A Comprehensive Guide with Warehouse Insight
+Enhanced Planning Pack for Dynamics 365 Business Central
+Enhanced Document Storage in Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binary Stream and Progressus join forces to revolutionize multi-company management]]></title>
+        <id>https://erpsoftwareblog.com/?p=104081</id>
+        <link href="https://erpsoftwareblog.com/2024/03/binary-stream-and-progressus-join-forces-to-revolutionize-multi-company-management/"/>
+        <updated>2024-03-12T12:31:14.000Z</updated>
+        <summary type="html"><![CDATA[Binary Stream Software is proud to collaborate with Progressus, a dynamic project management solution, to introduce the new Progressus Project Multicompany solution. This innovative partnership aims to empower businesses with […]
+The post Binary Stream and Progressus join forces to revolutionize multi-company management appeared first on ERP Software Blog.
+Binary Stream and Domain 6 partner to expand the reach of Property Lease Management
+Demystify GP/CRM Integration
+Connect the Dots Between Your AP Automation System and Binary Stream MEM]]></summary>
+        <author>
+            <name>Binary Stream</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How POS and ERP Integration impact Sales synchronization]]></title>
+        <id>https://erpsoftwareblog.com/?p=104884</id>
+        <link href="https://erpsoftwareblog.com/2024/03/how-pos-and-erp-integration-impact-sales-synchronization/"/>
+        <updated>2024-03-12T11:04:21.000Z</updated>
+        <summary type="html"><![CDATA[Sales transaction synchronization between an ERP and POS system plays a vital role in flawless operations and accurate data management for businesses. Point of Sale (POS) integration with an Enterprise […]
+The post How POS and ERP Integration impact Sales synchronization appeared first on ERP Software Blog.
+On-Demand Webinar: Maximize Power BI's Reporting Options
+A Comprehensive Guide on How to Use the Warehouse Item Journal
+Streamlining Retail Operations: LS Retail Integration with Business Central]]></summary>
+        <author>
+            <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Automate teamed with Azure OpenAI Services to track conversations using Keywords!]]></title>
+        <id>https://365community.online/power-automate-teamed-with-azure-openai-services-to-track-conversations-using-keywords</id>
+        <link href="https://365community.online/power-automate-teamed-with-azure-openai-services-to-track-conversations-using-keywords"/>
+        <updated>2024-03-12T08:45:53.000Z</updated>
+        <summary type="html"><![CDATA[Sarah, a bright-eyed sales associate at Peck Packaging, felt a familiar pang of frustration. A potential client, Miss Atkins, had mentioned budget concerns in their last email, but the details […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Find Dynamics 365 Date in Outlook using mentions – YouTube]]></title>
+        <id>https://365community.online/find-dynamics-365-date-in-outlook-using-mentions-youtube</id>
+        <link href="https://365community.online/find-dynamics-365-date-in-outlook-using-mentions-youtube"/>
+        <updated>2024-03-12T08:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Find Dynamics 365 Date in Outlook using mentions In this video, I’m going to show you a feature that just because generally available, which makes this process much easier. It […]]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Investing in Your Success]]></title>
+        <id>investing-in-your-success</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/investing-in-your-success/"/>
+        <updated>2024-03-12T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You want to accelerate Power Platform adoption to create a more efficient, agile, and responsive enterprise — but, we all know, enterprise-level change is hard. Good news – Microsoft has your back and you don’t have to do it alone. Microsoft is committed to helping your business succeed and is ready to invest in your […]]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to create a left aligned responsive gallery]]></title>
+        <id>https://365community.online/how-to-create-a-left-aligned-responsive-gallery</id>
+        <link href="https://365community.online/how-to-create-a-left-aligned-responsive-gallery"/>
+        <updated>2024-03-12T03:21:53.000Z</updated>
+        <summary type="html"><![CDATA[There are several ways in which a gallery can be made responsive. Learn how to build a left aligned responsive gallery! The post How to create a left aligned responsive […]]]></summary>
+        <author>
+            <name>harditbhatia</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maximize Financial Performance: The Ultimate CFO Guide to AP Automation]]></title>
         <id>https://erpsoftwareblog.com/?p=104893</id>
@@ -66,6 +186,27 @@ The Important Business Function Your ERP System CAN'T Do]]></summary>
         <summary type="html"><![CDATA[Last week one of my clients had an issue with timeouts in their dataflows in Power Apps. It had worked for a while, but then suddenly the dataflow was experiencing […]]]></summary>
         <author>
             <name>Pieter Veenstra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft is a Leader in The Forrester Wave™: Customer Service Solutions, Q1 2024]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2024/03/11/microsoft-is-a-leader-in-the-forrester-wave-customer-service-solutions-q1-2024/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2024/03/11/microsoft-is-a-leader-in-the-forrester-wave-customer-service-solutions-q1-2024/"/>
+        <updated>2024-03-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most organizations find it’s no longer good enough to just measure successful service engagements solely on whether a customer issue is resolved. Instead, they aim to deliver personalized, fast service experiences at every touchpoint through all engagement channels.
+The post Microsoft is a Leader in The Forrester Wave™: Customer Service Solutions, Q1 2024  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Jeff Comstock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curso completo Power Apps – Criando nosso primeiro componente de cabeçalho – YouTube]]></title>
+        <id>https://365community.online/curso-completo-power-apps-criando-nosso-primeiro-componente-de-cabecalho-youtube</id>
+        <link href="https://365community.online/curso-completo-power-apps-criando-nosso-primeiro-componente-de-cabecalho-youtube"/>
+        <updated>2024-03-11T11:28:37.000Z</updated>
+        <summary type="html"><![CDATA[Nesse curso vamos aprender os conceitos e vamos criar um projeto do zero utilizando Power Apps e SharePoint. ♐ Adquira meu curso na Udemy e aprenda SharePoint, Power Apps e […]]]></summary>
+        <author>
+            <name>Saulo Soares Oliveira</name>
         </author>
     </entry>
     <entry>
