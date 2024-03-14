@@ -1391,6 +1391,46 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=104950",
+          "author": "Open Door Technology",
+          "description": "When done right, ERP projects can streamline processes, and greatly improve overall business performance. However, despite the potential benefits, many ERP projects fail to achieve their objectives and goals. By […]\nThe post Breaking Down ERP Implementation Failures: Causes and Cures appeared first on ERP Software Blog.\nL’importance de la phase d’analyse durant l’implantation de votre ERP Microsoft Dynamics\nHow To Prepare Your Business and ERP for an Economic Slowdown\n6 Best Practices to Planning Successful ERP Implementation",
+          "link": "https://erpsoftwareblog.com/2024/03/breaking-down-erp-implementation-failures-causes-and-cures/",
+          "publishedOn": "2024-03-13T16:49:35.000Z",
+          "wordCount": 5692,
+          "title": "Breaking Down ERP Implementation Failures: Causes and Cures",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ERP-2.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=104696",
+          "author": "Carsten Howitz",
+          "description": "Managing customer collections manually can introduce several challenges that may hinder efficiency and effectiveness. Here are some common challenges associated with manual processes in customer collections: Time-Consuming: Manual collection processes, […]\nThe post Benefits of Automatic Collection Efforts in Business Central appeared first on ERP Software Blog.\nRegister Now for JourneyTEAM’s 2021 Business Technology Summit\nLearn How To Save Time By Using The \"Cancel\" Option to Reverse A Posted Sales Invoice\nMicrosoft Dynamics 365 Business Central: The Future of Distribution Accounting",
+          "link": "https://erpsoftwareblog.com/2024/03/benefits-of-automatic-collection-efforts-in-business-central/",
+          "publishedOn": "2024-03-13T13:39:34.000Z",
+          "wordCount": 7617,
+          "title": "Benefits of Automatic Collection Efforts in Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=104940",
+          "author": "MetaOption LLC",
+          "description": "In today’s fast-paced and competitive business landscape, efficiency and productivity are paramount for success. Nowhere is this more evident than in the realm of warehouse management. With the exponential growth […]\nThe post Boosting Productivity: The Urgent Need for a Mobile WMS appeared first on ERP Software Blog.\nScalable Solutions: How Business Central Warehouse Management adapts to growing businesses\nOptimizing Warehouse Operations with MetaADCS for Dynamics NAV\nThe Importance of Barcoding in Warehouse Management Systems",
+          "link": "https://erpsoftwareblog.com/2024/03/boosting-productivity-the-urgent-need-for-a-mobile-wms/",
+          "publishedOn": "2024-03-13T13:29:56.000Z",
+          "wordCount": 5323,
+          "title": "Boosting Productivity: The Urgent Need for a Mobile WMS",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-2-38.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=104922",
+          "author": "Insight Works",
+          "description": "Insight Works incorporates seven new Microsoft Partners into their reseller program to enhance manufacturing and distribution solutions globally.\nThe post Seven New Microsoft Partners Join Insight Works Reseller Program appeared first on ERP Software Blog.\nERP Software Trends for 2011: Social Media Integration and Facebook-ization of ERP\nERP Software Proves To Be a Smart Investment\nMicrosoft Rolls Out Dynamics GP 2013R2: A Breakdown of What’s What",
+          "link": "https://erpsoftwareblog.com/2024/03/seven-new-microsoft-partners-join-insight-works-reseller-program/",
+          "publishedOn": "2024-03-13T10:11:35.000Z",
+          "wordCount": 5086,
+          "title": "Seven New Microsoft Partners Join Insight Works Reseller Program",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/02.Insight-Works-Authorized-Reseller.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=104935",
           "author": "NAVtoBC",
           "description": "Business Central Licensing Explained: Choosing Between Essentials and Premium Imagine the possibility of enhancing your business's efficiency, boosting productivity, and securing technical scalability for the foreseeable future. Staying current is […]\nThe post Business Central Licensing Explained: Choosing Between Essentials and Premium appeared first on ERP Software Blog.\nLearn How To Save Time By Using The \"Cancel\" Option to Reverse A Posted Sales Invoice\n6 Best Practices to Planning Successful ERP Implementation\nCan distributors free themselves from the hassles of mismatched data across various systems?",
@@ -5488,6 +5528,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=33900",
+          "author": "Tracey Santos",
+          "description": "Dynamics GP vs Dynamics 365 Business Central\nBoth Dynamics GP and Dynamics 365 Business Central are ERPs aimed at small and medium-sized businesses, and are well-suited for managing an organization’s core finances. But there are some key differences that business leaders should be aware of when it comes to licensing, hosting, upgrades/updates, functionality, and AI capabilities. I’ve been working with clients on...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/dynamics-gp-vs-dynamics-365/",
+          "publishedOn": "2024-03-13T11:13:00.000Z",
+          "wordCount": 3340,
+          "title": "Dynamics GP vs Dynamics 365 Business Central",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2022/09/GP-to-D365BC-Img.jpg"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=61553",
           "author": "The Encore Team",
           "description": "Overcoming Challenges in Your Dynamics 365 Business Central Implementation\nThe implementation of Dynamics 365 Business Central, whether transitioning from an existing enterprise resource planning (ERP) solution or implementing an ERP system for the first time, can be a daunting task. This article will help you understand common challenges in each step of the implementation process when working with a reputable partner. It provides valuable...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -5865,6 +5915,76 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/azure-security-best-practices",
+          "author": "Anitha Santosh",
+          "description": "The purpose of Azure security best practices is to ensure that Azure cloud environments are adequately protected against security threats and vulnerabilities. These practices help organizations implement robust security measures […]",
+          "link": "https://365community.online/azure-security-best-practices",
+          "publishedOn": "2024-03-13T21:21:26.000Z",
+          "wordCount": 3217,
+          "title": "Azure security best practices",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Azure-security-best-practices.png?fit=525%2C248&ssl=1"
+        },
+        {
+          "id": "https://365community.online/handle-multiple-nn-records-associate-and-disassociate-requests-with-javascript-and-power-pages-web-api",
+          "author": "michelcarlo",
+          "description": "In my previous posts Creating and removing N:N relationship between Dataverse records using Javascript and Power Pages Web API I showed how we can leverage the Power Pages Web API […]",
+          "link": "https://365community.online/handle-multiple-nn-records-associate-and-disassociate-requests-with-javascript-and-power-pages-web-api",
+          "publishedOn": "2024-03-13T18:38:00.000Z",
+          "wordCount": 3410,
+          "title": "Handle multiple N:N records associate and disassociate requests with JavaScript and Power Pages Web API",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/multipleassociate.png?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/release-of-d365fo-environment-comparison-utility",
+          "author": "Alex Meyer",
+          "description": "Building off the latest release of the D365FO Admin Toolkit, I am excited today to announce the first version of the D365FO Environment Comparison solution. This solution allows you to […]",
+          "link": "https://365community.online/release-of-d365fo-environment-comparison-utility",
+          "publishedOn": "2024-03-13T16:48:44.000Z",
+          "wordCount": 3212,
+          "title": "Release of D365FO Environment Comparison Utility",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Release-of-D365FO-Environment-Comparison-Utility.png?fit=208%2C292&ssl=1"
+        },
+        {
+          "id": "https://365community.online/from-sales-savvy-to-tech-enthusiast-nathan-roses-masterclass-in-power-platform-pivoting-and-au-youtube",
+          "author": "NZ365Guy",
+          "description": "From Sales Savvy to Tech Enthusiast: Nathan Rose’s Masterclass in Power Platform Pivoting and Au FULL SHOW NOTES https://podcast.nz365guy.com/534 Imagine trading the certainty of a well-trodden sales career for the […]",
+          "link": "https://365community.online/from-sales-savvy-to-tech-enthusiast-nathan-roses-masterclass-in-power-platform-pivoting-and-au-youtube",
+          "publishedOn": "2024-03-13T14:12:20.000Z",
+          "wordCount": 3786,
+          "title": "From Sales Savvy to Tech Enthusiast: Nathan Rose’s Masterclass in Power Platform Pivoting and Au – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1710366956_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-26-topic-11-part-2-youtube",
+          "author": "shabaz darr",
+          "description": "Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]",
+          "link": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-26-topic-11-part-2-youtube",
+          "publishedOn": "2024-03-13T10:00:43.000Z",
+          "wordCount": 3296,
+          "title": "AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Episode 26 – Topic 11: Part 2 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1710338222_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/dynamics-365-business-central-introducing-the-page-scripting-tool",
+          "author": "Stefano Demiliani",
+          "description": "If someone of you have ever worked with web applications development, probably you have earned about Playwright. Playwright is an open-source automation library for browser testing and web scraping developed […]",
+          "link": "https://365community.online/dynamics-365-business-central-introducing-the-page-scripting-tool",
+          "publishedOn": "2024-03-13T08:45:54.000Z",
+          "wordCount": 3248,
+          "title": "Dynamics 365 Business Central: introducing the Page Scripting tool",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Dynamics-365-Business-Central-introducing-the-Page-Scripting-tool.png?fit=758%2C688&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-get-formula-suggestions-from-ai-by-simply-providing-the-expression-in-dynamics-365-crm",
+          "author": "Inogic",
+          "description": "Dynamics 365 CRM has introduced a new datatype Formula to explore more on adding a Power Fx formula column into Dataverse. You can follow the blog recently added. In addition […]",
+          "link": "https://365community.online/how-to-get-formula-suggestions-from-ai-by-simply-providing-the-expression-in-dynamics-365-crm",
+          "publishedOn": "2024-03-13T07:03:16.000Z",
+          "wordCount": 3555,
+          "title": "How to get formula suggestions from AI by simply providing the expression in Dynamics 365 CRM",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/get-formula-suggestions-from-AI-in-D365-1.png?fit=1200%2C648&ssl=1"
+        },
+        {
           "id": "https://365community.online/fixed-the-input-is-not-a-valid-base-64-string-as-it-contains-a-non-base-64-character-more-than-two-padding-characters-or-an-illegal-character-among-the-padding-characters-exception-in-plug",
           "author": "Nishant Rana",
           "description": "Recently for one of our plugins, that moves attachments to the Azure Blob Storage, we got the below exception. BlobFileName: WFU000069107_Inside Install – CFC__2024_03_03_12_24_05_179_temp.jpgCaught Exception: The input is not a […]",
@@ -5873,6 +5993,26 @@
           "wordCount": 3409,
           "title": "Fixed – The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters exception in Plugin (Dataverse / Dynamics 365)",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Fixed-–-The-input-is-not-a-valid-Base-64-string.jpeg?fit=1200%2C799&ssl=1"
+        },
+        {
+          "id": "https://365community.online/servicenow-admin-training-servicenow-system-administration-certification-course-mindmajix-youtube",
+          "author": "Jaya Sri",
+          "description": "ServiceNow Admin Training | ServiceNow System Administration Certification Course | MindMajix This MindMajix’s YouTube video on ServiceNow Admin training you will learn the basics to advanced concepts in ServiceNow administration. […]",
+          "link": "https://365community.online/servicenow-admin-training-servicenow-system-administration-certification-course-mindmajix-youtube",
+          "publishedOn": "2024-03-12T12:00:07.000Z",
+          "wordCount": 3243,
+          "title": "ServiceNow Admin Training | ServiceNow System Administration Certification Course | MindMajix – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1710322990_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/simplify-scheduling-in-dynamics-365-crm-set-up-automated-recurring-appointments",
+          "author": "Inogic",
+          "description": "The post Simplify Scheduling in Dynamics 365 CRM: Set Up Automated Recurring Appointments appeared first on Blog | Maplytics. Source link",
+          "link": "https://365community.online/simplify-scheduling-in-dynamics-365-crm-set-up-automated-recurring-appointments",
+          "publishedOn": "2024-03-12T09:10:33.000Z",
+          "wordCount": 3386,
+          "title": "Simplify Scheduling in Dynamics 365 CRM: Set Up Automated Recurring Appointments",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Recursive-Auto-Scheduling-Final.jpg?fit=700%2C400&ssl=1"
         },
         {
           "id": "https://365community.online/power-automate-teamed-with-azure-openai-services-to-track-conversations-using-keywords",
@@ -13018,6 +13158,16 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=5758",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2024/03/13/hr-copilot-studio-application-part-5/",
+          "publishedOn": "2024-03-13T06:32:09.000Z",
+          "wordCount": 3332,
+          "title": "HR Copilot Studio Application – Part 5",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2024/01/part5englishtitle.jpg"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=5756",
           "author": "Ludwig Reinhard",
           "description": "Visit the post for more.",
@@ -13562,6 +13712,16 @@
       "siteUrl": "https://alexdmeyer.com/",
       "articles": [
         {
+          "id": "https://alexdmeyer.com/?p=3083",
+          "author": "Alex",
+          "description": "Building off the latest release of the D365FO Admin Toolkit, I am excited today to announce the first version of the D365FO Environment Comparison solution. This solution allows you to export data / configurations from a source environment and compare it to the data / configurations in a destination environment. It then exports an Excel […]\nThe post Release of D365FO Environment Comparison Utility appeared first on Alex Meyer.",
+          "link": "https://alexdmeyer.com/2024/03/13/release-of-d365fo-environment-comparison-utility/",
+          "publishedOn": "2024-03-13T16:48:44.000Z",
+          "wordCount": 4326,
+          "title": "Release of D365FO Environment Comparison Utility",
+          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2024/03/1.png"
+        },
+        {
           "id": "https://alexdmeyer.com/?p=3069",
           "author": "Alex",
           "description": "Excited to announce the v1.3 release of the D365FO Admin Toolkit! Version 1.3 Release D365FO Admin Toolkit v1.3 Deployable Package D365FO Admin Toolkit GitHub Note: The deployable package has been built against a CY24Q1: 10.0.38 version of D365FO, which is now GA. Navigation Updates I started to break out the different features into separate sub menus […]\nThe post New Release of D365FO Admin Toolkit v1.3 appeared first on Alex Meyer.",
@@ -13775,6 +13935,16 @@
       "feedUrl": "https://msdyn365fo.wordpress.com/feed/",
       "siteUrl": "https://msdyn365fo.wordpress.com",
       "articles": [
+        {
+          "id": "http://msdyn365fo.wordpress.com/?p=635",
+          "author": "Paul Heisterkamp",
+          "description": "Back in November 2023 Peter Villadsen announced that “The Visual Studio 2022 add-in is now available for Dynamics 365 for Financials and Operations.”. If you haven´t seen this yet please have a look: https://devblogs.microsoft.com/powerplatform/the-visual-studio-2022-add-in-is-now-available-for-dynamics-365-for-financials-and-operations/ This blog wants to add more visibility to the details of enabling Visual Studio 2022 for your Dynamics 365 for Financials … Continue reading How to enable Visual Studio 2022 for your MsDyn365FO development →",
+          "link": "https://msdyn365fo.wordpress.com/2024/03/13/how-to-enable-visual-studio-2022-for-your-msdyn365fo-development/",
+          "publishedOn": "2024-03-13T07:08:40.000Z",
+          "wordCount": 3731,
+          "title": "How to enable Visual Studio 2022 for your MsDyn365FO development",
+          "imageUrl": "https://msdyn365fo.files.wordpress.com/2024/03/enablevs2022formsdyn365-banner.png?w=1200"
+        },
         {
           "id": "http://msdyn365fo.wordpress.com/?p=625",
           "author": "Paul Heisterkamp",
@@ -14049,6 +14219,16 @@
       "feedUrl": "https://anithasantosh.wordpress.com/feed/",
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=3425",
+          "author": "AnithaEswaran",
+          "description": "The purpose of Azure security best practices is to ensure that Azure cloud environments are adequately protected against security threats and vulnerabilities. These practices help organizations implement robust security measures to safeguard their data, applications, and infrastructure hosted on the … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2024/03/13/azure-security-best-practices/",
+          "publishedOn": "2024-03-13T21:21:26.000Z",
+          "wordCount": 4338,
+          "title": "Azure security best practices",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2024/03/nl5.png"
+        },
         {
           "id": "http://anithasantosh.wordpress.com/?p=3420",
           "author": "AnithaEswaran",
@@ -16825,6 +17005,16 @@
       "feedUrl": "https://paragchapre.com/feed/",
       "siteUrl": "https://paragchapre.com",
       "articles": [
+        {
+          "id": "https://paragchapre.com/?p=12666",
+          "author": "paragchapre@gmail.com",
+          "description": "Unlock the potential of Dynamics 365 Human Resources (D365 HR) with the Power Platform to streamline course management effortlessly.\nThe post Streamlining Course Management in Dynamics 365 Human Resources with Power Platform appeared first on Parag Chapre.",
+          "link": "https://paragchapre.com/dynamics365-human-resources-course-management/",
+          "publishedOn": "2024-03-13T01:39:21.000Z",
+          "wordCount": 2416,
+          "title": "Streamlining Course Management in Dynamics 365 Human Resources with Power Platform",
+          "imageUrl": "https://paragchapre.com/wp-content/uploads/2024/03/Course-Management-.png"
+        },
         {
           "id": "https://paragchapre.com/?p=12653",
           "author": "paragchapre@gmail.com",

@@ -2,10 +2,201 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-03-13T00:38:28.764Z</updated>
+    <updated>2024-03-14T00:38:06.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Azure security best practices]]></title>
+        <id>https://365community.online/azure-security-best-practices</id>
+        <link href="https://365community.online/azure-security-best-practices"/>
+        <updated>2024-03-13T21:21:26.000Z</updated>
+        <summary type="html"><![CDATA[The purpose of Azure security best practices is to ensure that Azure cloud environments are adequately protected against security threats and vulnerabilities. These practices help organizations implement robust security measures […]]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure security best practices]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=3425</id>
+        <link href="https://anithasantosh.wordpress.com/2024/03/13/azure-security-best-practices/"/>
+        <updated>2024-03-13T21:21:26.000Z</updated>
+        <summary type="html"><![CDATA[The purpose of Azure security best practices is to ensure that Azure cloud environments are adequately protected against security threats and vulnerabilities. These practices help organizations implement robust security measures to safeguard their data, applications, and infrastructure hosted on the … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Handle multiple N:N records associate and disassociate requests with JavaScript and Power Pages Web API]]></title>
+        <id>https://365community.online/handle-multiple-nn-records-associate-and-disassociate-requests-with-javascript-and-power-pages-web-api</id>
+        <link href="https://365community.online/handle-multiple-nn-records-associate-and-disassociate-requests-with-javascript-and-power-pages-web-api"/>
+        <updated>2024-03-13T18:38:00.000Z</updated>
+        <summary type="html"><![CDATA[In my previous posts Creating and removing N:N relationship between Dataverse records using Javascript and Power Pages Web API I showed how we can leverage the Power Pages Web API […]]]></summary>
+        <author>
+            <name>michelcarlo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking Down ERP Implementation Failures: Causes and Cures]]></title>
+        <id>https://erpsoftwareblog.com/?p=104950</id>
+        <link href="https://erpsoftwareblog.com/2024/03/breaking-down-erp-implementation-failures-causes-and-cures/"/>
+        <updated>2024-03-13T16:49:35.000Z</updated>
+        <summary type="html"><![CDATA[When done right, ERP projects can streamline processes, and greatly improve overall business performance. However, despite the potential benefits, many ERP projects fail to achieve their objectives and goals. By […]
+The post Breaking Down ERP Implementation Failures: Causes and Cures appeared first on ERP Software Blog.
+L’importance de la phase d’analyse durant l’implantation de votre ERP Microsoft Dynamics
+How To Prepare Your Business and ERP for an Economic Slowdown
+6 Best Practices to Planning Successful ERP Implementation]]></summary>
+        <author>
+            <name>Open Door Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release of D365FO Environment Comparison Utility]]></title>
+        <id>https://365community.online/release-of-d365fo-environment-comparison-utility</id>
+        <link href="https://365community.online/release-of-d365fo-environment-comparison-utility"/>
+        <updated>2024-03-13T16:48:44.000Z</updated>
+        <summary type="html"><![CDATA[Building off the latest release of the D365FO Admin Toolkit, I am excited today to announce the first version of the D365FO Environment Comparison solution. This solution allows you to […]]]></summary>
+        <author>
+            <name>Alex Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release of D365FO Environment Comparison Utility]]></title>
+        <id>https://alexdmeyer.com/?p=3083</id>
+        <link href="https://alexdmeyer.com/2024/03/13/release-of-d365fo-environment-comparison-utility/"/>
+        <updated>2024-03-13T16:48:44.000Z</updated>
+        <summary type="html"><![CDATA[Building off the latest release of the D365FO Admin Toolkit, I am excited today to announce the first version of the D365FO Environment Comparison solution. This solution allows you to export data / configurations from a source environment and compare it to the data / configurations in a destination environment. It then exports an Excel […]
+The post Release of D365FO Environment Comparison Utility appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Sales Savvy to Tech Enthusiast: Nathan Rose’s Masterclass in Power Platform Pivoting and Au – YouTube]]></title>
+        <id>https://365community.online/from-sales-savvy-to-tech-enthusiast-nathan-roses-masterclass-in-power-platform-pivoting-and-au-youtube</id>
+        <link href="https://365community.online/from-sales-savvy-to-tech-enthusiast-nathan-roses-masterclass-in-power-platform-pivoting-and-au-youtube"/>
+        <updated>2024-03-13T14:12:20.000Z</updated>
+        <summary type="html"><![CDATA[From Sales Savvy to Tech Enthusiast: Nathan Rose’s Masterclass in Power Platform Pivoting and Au FULL SHOW NOTES https://podcast.nz365guy.com/534 Imagine trading the certainty of a well-trodden sales career for the […]]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Benefits of Automatic Collection Efforts in Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=104696</id>
+        <link href="https://erpsoftwareblog.com/2024/03/benefits-of-automatic-collection-efforts-in-business-central/"/>
+        <updated>2024-03-13T13:39:34.000Z</updated>
+        <summary type="html"><![CDATA[Managing customer collections manually can introduce several challenges that may hinder efficiency and effectiveness. Here are some common challenges associated with manual processes in customer collections: Time-Consuming: Manual collection processes, […]
+The post Benefits of Automatic Collection Efforts in Business Central appeared first on ERP Software Blog.
+Register Now for JourneyTEAM’s 2021 Business Technology Summit
+Learn How To Save Time By Using The "Cancel" Option to Reverse A Posted Sales Invoice
+Microsoft Dynamics 365 Business Central: The Future of Distribution Accounting]]></summary>
+        <author>
+            <name>Carsten Howitz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boosting Productivity: The Urgent Need for a Mobile WMS]]></title>
+        <id>https://erpsoftwareblog.com/?p=104940</id>
+        <link href="https://erpsoftwareblog.com/2024/03/boosting-productivity-the-urgent-need-for-a-mobile-wms/"/>
+        <updated>2024-03-13T13:29:56.000Z</updated>
+        <summary type="html"><![CDATA[In today’s fast-paced and competitive business landscape, efficiency and productivity are paramount for success. Nowhere is this more evident than in the realm of warehouse management. With the exponential growth […]
+The post Boosting Productivity: The Urgent Need for a Mobile WMS appeared first on ERP Software Blog.
+Scalable Solutions: How Business Central Warehouse Management adapts to growing businesses
+Optimizing Warehouse Operations with MetaADCS for Dynamics NAV
+The Importance of Barcoding in Warehouse Management Systems]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics GP vs Dynamics 365 Business Central]]></title>
+        <id>https://www.encorebusiness.com/?p=33900</id>
+        <link href="https://www.encorebusiness.com/blog/dynamics-gp-vs-dynamics-365/"/>
+        <updated>2024-03-13T11:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics GP vs Dynamics 365 Business Central
+Both Dynamics GP and Dynamics 365 Business Central are ERPs aimed at small and medium-sized businesses, and are well-suited for managing an organization’s core finances. But there are some key differences that business leaders should be aware of when it comes to licensing, hosting, upgrades/updates, functionality, and AI capabilities. I’ve been working with clients on...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Tracey Santos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seven New Microsoft Partners Join Insight Works Reseller Program]]></title>
+        <id>https://erpsoftwareblog.com/?p=104922</id>
+        <link href="https://erpsoftwareblog.com/2024/03/seven-new-microsoft-partners-join-insight-works-reseller-program/"/>
+        <updated>2024-03-13T10:11:35.000Z</updated>
+        <summary type="html"><![CDATA[Insight Works incorporates seven new Microsoft Partners into their reseller program to enhance manufacturing and distribution solutions globally.
+The post Seven New Microsoft Partners Join Insight Works Reseller Program appeared first on ERP Software Blog.
+ERP Software Trends for 2011: Social Media Integration and Facebook-ization of ERP
+ERP Software Proves To Be a Smart Investment
+Microsoft Rolls Out Dynamics GP 2013R2: A Breakdown of What’s What]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Episode 26 – Topic 11: Part 2 – YouTube]]></title>
+        <id>https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-26-topic-11-part-2-youtube</id>
+        <link href="https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-26-topic-11-part-2-youtube"/>
+        <updated>2024-03-13T10:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: introducing the Page Scripting tool]]></title>
+        <id>https://365community.online/dynamics-365-business-central-introducing-the-page-scripting-tool</id>
+        <link href="https://365community.online/dynamics-365-business-central-introducing-the-page-scripting-tool"/>
+        <updated>2024-03-13T08:45:54.000Z</updated>
+        <summary type="html"><![CDATA[If someone of you have ever worked with web applications development, probably you have earned about Playwright. Playwright is an open-source automation library for browser testing and web scraping developed […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to enable Visual Studio 2022 for your MsDyn365FO development]]></title>
+        <id>http://msdyn365fo.wordpress.com/?p=635</id>
+        <link href="https://msdyn365fo.wordpress.com/2024/03/13/how-to-enable-visual-studio-2022-for-your-msdyn365fo-development/"/>
+        <updated>2024-03-13T07:08:40.000Z</updated>
+        <summary type="html"><![CDATA[Back in November 2023 Peter Villadsen announced that “The Visual Studio 2022 add-in is now available for Dynamics 365 for Financials and Operations.”. If you haven´t seen this yet please have a look: https://devblogs.microsoft.com/powerplatform/the-visual-studio-2022-add-in-is-now-available-for-dynamics-365-for-financials-and-operations/ This blog wants to add more visibility to the details of enabling Visual Studio 2022 for your Dynamics 365 for Financials … Continue reading How to enable Visual Studio 2022 for your MsDyn365FO development →]]></summary>
+        <author>
+            <name>Paul Heisterkamp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to get formula suggestions from AI by simply providing the expression in Dynamics 365 CRM]]></title>
+        <id>https://365community.online/how-to-get-formula-suggestions-from-ai-by-simply-providing-the-expression-in-dynamics-365-crm</id>
+        <link href="https://365community.online/how-to-get-formula-suggestions-from-ai-by-simply-providing-the-expression-in-dynamics-365-crm"/>
+        <updated>2024-03-13T07:03:16.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics 365 CRM has introduced a new datatype Formula to explore more on adding a Power Fx formula column into Dataverse. You can follow the blog recently added. In addition […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HR Copilot Studio Application – Part 5]]></title>
+        <id>http://dynamicsax-fico.com/?p=5758</id>
+        <link href="https://dynamicsax-fico.com/2024/03/13/hr-copilot-studio-application-part-5/"/>
+        <updated>2024-03-13T06:32:09.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamlining Course Management in Dynamics 365 Human Resources with Power Platform]]></title>
+        <id>https://paragchapre.com/?p=12666</id>
+        <link href="https://paragchapre.com/dynamics365-human-resources-course-management/"/>
+        <updated>2024-03-13T01:39:21.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the potential of Dynamics 365 Human Resources (D365 HR) with the Power Platform to streamline course management effortlessly.
+The post Streamlining Course Management in Dynamics 365 Human Resources with Power Platform appeared first on Parag Chapre.]]></summary>
+        <author>
+            <name>paragchapre@gmail.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Business Central Licensing Explained: Choosing Between Essentials and Premium]]></title>
         <id>https://erpsoftwareblog.com/?p=104935</id>
@@ -73,6 +264,16 @@ Connect the Dots Between Your AP Automation System and Binary Stream MEM]]></sum
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ServiceNow Admin Training | ServiceNow System Administration Certification Course | MindMajix – YouTube]]></title>
+        <id>https://365community.online/servicenow-admin-training-servicenow-system-administration-certification-course-mindmajix-youtube</id>
+        <link href="https://365community.online/servicenow-admin-training-servicenow-system-administration-certification-course-mindmajix-youtube"/>
+        <updated>2024-03-12T12:00:07.000Z</updated>
+        <summary type="html"><![CDATA[ServiceNow Admin Training | ServiceNow System Administration Certification Course | MindMajix This MindMajix’s YouTube video on ServiceNow Admin training you will learn the basics to advanced concepts in ServiceNow administration. […]]]></summary>
+        <author>
+            <name>Jaya Sri</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How POS and ERP Integration impact Sales synchronization]]></title>
         <id>https://erpsoftwareblog.com/?p=104884</id>
         <link href="https://erpsoftwareblog.com/2024/03/how-pos-and-erp-integration-impact-sales-synchronization/"/>
@@ -84,6 +285,16 @@ A Comprehensive Guide on How to Use the Warehouse Item Journal
 Streamlining Retail Operations: LS Retail Integration with Business Central]]></summary>
         <author>
             <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simplify Scheduling in Dynamics 365 CRM: Set Up Automated Recurring Appointments]]></title>
+        <id>https://365community.online/simplify-scheduling-in-dynamics-365-crm-set-up-automated-recurring-appointments</id>
+        <link href="https://365community.online/simplify-scheduling-in-dynamics-365-crm-set-up-automated-recurring-appointments"/>
+        <updated>2024-03-12T09:10:33.000Z</updated>
+        <summary type="html"><![CDATA[The post Simplify Scheduling in Dynamics 365 CRM: Set Up Automated Recurring Appointments appeared first on Blog | Maplytics. Source link]]></summary>
+        <author>
+            <name>Inogic</name>
         </author>
     </entry>
     <entry>
