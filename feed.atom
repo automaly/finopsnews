@@ -2,10 +2,149 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-03-14T00:38:06.917Z</updated>
+    <updated>2024-03-15T00:38:25.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Update a Hyperlink Column in SharePoint with Power Automate]]></title>
+        <id>https://365community.online/update-a-hyperlink-column-in-sharepoint-with-power-automate</id>
+        <link href="https://365community.online/update-a-hyperlink-column-in-sharepoint-with-power-automate"/>
+        <updated>2024-03-14T20:14:32.000Z</updated>
+        <summary type="html"><![CDATA[Today, I was asked about how to create a lookup to a document or item in a SharePoint form. Sometimes a slightly different solution, using a Hyperlink field can do […]]]></summary>
+        <author>
+            <name>Pieter Veenstra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring Multiple Printing Options in MetaShip for Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=104986</id>
+        <link href="https://erpsoftwareblog.com/2024/03/exploring-multiple-printing-options-in-metaship-for-business-central/"/>
+        <updated>2024-03-14T17:15:39.000Z</updated>
+        <summary type="html"><![CDATA[In today’s fast-paced business environment, efficiency is key. Especially when it comes to packaging and shipping, streamlined processes can significantly impact the bottom line. That’s where MetaShip comes into play […]
+The post Exploring Multiple Printing Options in MetaShip for Business Central appeared first on ERP Software Blog.
+Scalable Solutions: How Business Central Warehouse Management adapts to growing businesses
+Streamlining Your Shipping Process: Multi-Carrier Shipping with MetaShip
+Exploring the Warehouse Structure in MetaWMS for Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[429 Errors reported by the trigger in your flow in Power Automate]]></title>
+        <id>https://365community.online/429-errors-reported-by-the-trigger-in-your-flow-in-power-automate</id>
+        <link href="https://365community.online/429-errors-reported-by-the-trigger-in-your-flow-in-power-automate"/>
+        <updated>2024-03-14T16:03:08.000Z</updated>
+        <summary type="html"><![CDATA[This morning I was asked about 429 Errors in flows, But rather than 429 errors in actions, this time it was about 429 errors in triggers of a flow. 429 […]]]></summary>
+        <author>
+            <name>Pieter Veenstra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Role of Microsoft Dynamics 365 in Digital Transformation]]></title>
+        <id>https://erpsoftwareblog.com/?p=104990</id>
+        <link href="https://erpsoftwareblog.com/2024/03/the-role-of-microsoft-dynamics-365-in-digital-transformation/"/>
+        <updated>2024-03-14T16:02:56.000Z</updated>
+        <summary type="html"><![CDATA[Digital transformation entails a fundamental reimagining of how organizations integrate their departments, data, and processes to drive heightened productivity. Companies must proactively adopt digital transformation to gain an edge over […]
+The post The Role of Microsoft Dynamics 365 in Digital Transformation appeared first on ERP Software Blog.
+Top 5 Reasons Why Small Businesses Choose Dynamics 365 Business Central
+Key Features of To-Increase’s PLM-ERP Integration for Dynamics 365 ERP
+The Best Way to Track Time in Microsoft Dynamics 365]]></summary>
+        <author>
+            <name>Calsoft Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Key Factors for ERP Implementation]]></title>
+        <id>https://erpsoftwareblog.com/?p=103419</id>
+        <link href="https://erpsoftwareblog.com/2024/03/10-key-factors-erp-implementation/"/>
+        <updated>2024-03-14T11:31:20.000Z</updated>
+        <summary type="html"><![CDATA[Effective ERP implementation is crucial for any organization aiming to improve efficiency and operations. Success depends on careful planning and execution, avoiding costly failures. Here, we outline 10 key factors […]
+The post 10 Key Factors for ERP Implementation appeared first on ERP Software Blog.
+We value your input! Please participate in our state of Business Central (NAV) and Manufacturing Survey.
+How to add multiple sales reps in Business Central
+Free Import Export PowerTool Released for Business Central]]></summary>
+        <author>
+            <name>EFOQUS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Encore’s 2024 On-Premise to Cloud ERP Assessment?]]></title>
+        <id>https://www.encorebusiness.com/?p=61666</id>
+        <link href="https://www.encorebusiness.com/blog/on-premise-to-cloud-erp-assessment/"/>
+        <updated>2024-03-14T11:13:18.000Z</updated>
+        <summary type="html"><![CDATA[What Is Encore’s 2024 On-Premise to Cloud ERP Assessment? 
+As an Account Manager, I’m always excited to meet with my clients and provide them with the latest important information about their Dynamics products. Currently, I have the opportunity to discuss our on-premise to cloud assessment. This assessment is a way for us at Encore to help our on-premise Dynamics ERP users map their pathway...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Romy Andrews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extend a generated Word Template from Dataverse]]></title>
+        <id>https://365community.online/extend-a-generated-word-template-from-dataverse</id>
+        <link href="https://365community.online/extend-a-generated-word-template-from-dataverse"/>
+        <updated>2024-03-14T10:08:30.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone, Today, I had an interesting challenge from one of my client. Here is the use case : < blockquote> “We want to keep using the Word template provided […]]]></summary>
+        <author>
+            <name>Clement Olivier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing inline actions]]></title>
+        <id>introducing-inline-actions</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/introducing-inline-actions/"/>
+        <updated>2024-03-14T09:57:38.000Z</updated>
+        <summary type="html"><![CDATA[Speed up your canvas app creation using new inline actions.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigating Businesses through Changing Climate within Dynamics 365]]></title>
+        <id>https://365community.online/navigating-businesses-through-changing-climate-within-dynamics-365</id>
+        <link href="https://365community.online/navigating-businesses-through-changing-climate-within-dynamics-365"/>
+        <updated>2024-03-14T08:58:11.000Z</updated>
+        <summary type="html"><![CDATA[The post Navigating Businesses through Changing Climate within Dynamics 365 appeared first on Blog | Maplytics. Source link]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Tips for a Successful ERP Upgrade]]></title>
+        <id>https://erpsoftwareblog.com/?p=104982</id>
+        <link href="https://erpsoftwareblog.com/2024/03/5-tips-for-a-successful-erp-upgrade-2/"/>
+        <updated>2024-03-14T05:53:04.000Z</updated>
+        <summary type="html"><![CDATA[ERP systems have come a long way; from being just good-to-have systems, they have evolved to becoming must-haves, helping organizations uphold business performance and efficiency. While ERP implementation might seem […]
+The post 5 Tips for a Successful ERP Upgrade appeared first on ERP Software Blog.
+4 Steps to Secure Your Data Using EMS
+Webinar: How intuition & integration drive revenue & cost analysis with DynaRent in Dynamics 365 for Operations
+Why Canada is the Best Place to Start Your Business]]></summary>
+        <author>
+            <name>Synoptek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Browser Profiles?]]></title>
+        <id>https://365community.online/how-to-create-browser-profiles</id>
+        <link href="https://365community.online/how-to-create-browser-profiles"/>
+        <updated>2024-03-14T05:46:15.000Z</updated>
+        <summary type="html"><![CDATA[Source link]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Power Fx in desktop flows: Empowering Makers with low-code capabilities]]></title>
+        <id>introducing-power-fx-in-desktop-flows-empowering-makers-with-low-code-capabilities</id>
+        <link href="https://powerautomate.microsoft.com/en-nz/blog/introducing-power-fx-in-desktop-flows-empowering-makers-with-low-code-capabilities/"/>
+        <updated>2024-03-14T01:50:08.000Z</updated>
+        <summary type="html"><![CDATA[Power Automate for desktop’s March release includes major updates for Power Fx enabled desktop flows (preview). IntelliSense capabilities, a revamped variable picker and a dedicated function picker assist makers in creating complex functions with minimal effort.]]></summary>
+        <author>
+            <name>powerautomate.microsoft.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Azure security best practices]]></title>
         <id>https://365community.online/azure-security-best-practices</id>
@@ -24,6 +163,26 @@
         <summary type="html"><![CDATA[The purpose of Azure security best practices is to ensure that Azure cloud environments are adequately protected against security threats and vulnerabilities. These practices help organizations implement robust security measures to safeguard their data, applications, and infrastructure hosted on the … Continue reading →]]></summary>
         <author>
             <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to create a responsive pop-up using layout containers]]></title>
+        <id>https://365community.online/how-to-create-a-responsive-pop-up-using-layout-containers</id>
+        <link href="https://365community.online/how-to-create-a-responsive-pop-up-using-layout-containers"/>
+        <updated>2024-03-13T20:45:04.000Z</updated>
+        <summary type="html"><![CDATA[There are several elements in an app that can be made responsive. Learn how to make a pop-up responsive using layout containers! The post How to create a responsive pop-up […]]]></summary>
+        <author>
+            <name>harditbhatia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to create a responsive pop-up using traditional containers]]></title>
+        <id>https://365community.online/how-to-create-a-responsive-pop-up-using-traditional-containers</id>
+        <link href="https://365community.online/how-to-create-a-responsive-pop-up-using-traditional-containers"/>
+        <updated>2024-03-13T20:04:25.000Z</updated>
+        <summary type="html"><![CDATA[There are several elements in an app that can be made responsive. Learn how to make a pop-up responsive using traditional containers! The post How to create a responsive pop-up […]]]></summary>
+        <author>
+            <name>harditbhatia</name>
         </author>
     </entry>
     <entry>
