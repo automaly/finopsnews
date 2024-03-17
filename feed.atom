@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-03-16T00:36:50.693Z</updated>
+    <updated>2024-03-17T00:40:49.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Copilot for F&O is here in Preview]]></title>
+        <id>1689 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/article/copilot-fo-here-preview"/>
+        <updated>2024-03-16T21:31:58.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 03/16/24.
+
+
+Last modified: 
+
+03/16/24
+
+
+
+
+
+
+
+
+
+
+
+
+      
+Tags: 
+AI      
+Copilot      
+
+Copilot is here for F&O. Let's check it out.
+I setup Copilot for F&O just to see what it can do. Below is a set of interactions. I thought I'd start with a simple question and ask how to switch legal entities that I'm transaction in. I was using Contoso sample data and by default my user was in DAT. I wanted to have it tell me how to get to USMF or any other legal entity. I thought this would be fairly easy but I wasn't ready for the journey I was about to take. Let's get start.
+>> how do I switch legal entities?
+Response:
+Go to Organization administration > Organizations > Legal entities 1.
+AI-generated content may be incorrect
+
+Maybe in its source training "switch" isn't …]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to fix ESG reporting? (Part 1)]]></title>
+        <id>http://dynamicsax-fico.com/?p=5574</id>
+        <link href="https://dynamicsax-fico.com/2024/03/16/how-to-fix-esg-reporting-part-1/"/>
+        <updated>2024-03-16T16:43:27.000Z</updated>
+        <summary type="html"><![CDATA[Special thanks to Nataliia Sukhanova, Ewa Watkins and Chloe Zhang for their reviews, comments, feedback and suggestions for improvement.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Standard Cost [Fixed receipt price] Microsoft Dynamics 365 Finance and Operations: Part-8]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2830</id>
+        <link href="https://exploredynamics365.home.blog/2024/03/16/standard-cost-fixed-receipt-price-microsoft-dynamics-365-finance-and-operations-part-8/"/>
+        <updated>2024-03-16T11:39:33.000Z</updated>
+        <summary type="html"><![CDATA[Do you know that initial Dynamics AX didn’t have “Standard cost” valuation method? Then how did we configure standard cost without this valuation method? Also, do we have that configuration available now with us in D365 F&O? Welcome to part 8 of our exploration into Inventory Valuation within Microsoft Dynamics 365 Finance and Operations. In […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Standard Cost [Fixed receipt price] Microsoft Dynamics 365 Finance and Operations: Part-8]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2830</id>
+        <link href="https://exploredynamics365.home.blog/2024/03/16/standard-cost-fixed-receipt-price-microsoft-dynamics-365-finance-and-operations-part-8/"/>
+        <updated>2024-03-16T11:39:33.000Z</updated>
+        <summary type="html"><![CDATA[Do you know that initial Dynamics AX didn’t have “Standard cost” valuation method? Then how did we configure standard cost without this valuation method? Also, do we have that configuration available now with us in D365 F&O? Welcome to part 8 of our exploration into Inventory Valuation within Microsoft Dynamics 365 Finance and Operations. In […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live from Redmond, WA – YouTube]]></title>
+        <id>https://365community.online/live-from-redmond-wa-youtube</id>
+        <link href="https://365community.online/live-from-redmond-wa-youtube"/>
+        <updated>2024-03-15T18:06:29.000Z</updated>
+        <summary type="html"><![CDATA[We are live from Microsoft Headquarters to remind you that CPPS 24 takes place tomorrow and Zero To Hero is going live next week. source]]></summary>
+        <author>
+            <name>Victor Dantas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dynamics Business Central vs Acumatica - Which is the Best ERP Fit for Your SMB Business?]]></title>
         <id>https://erpsoftwareblog.com/?p=103027</id>
@@ -83,6 +163,16 @@ L’importance de la phase d’analyse durant l’implantation de votre ERP Micr
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Episode 27 – Topic 11: Part 3 – YouTube]]></title>
+        <id>https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-27-topic-11-part-3-youtube</id>
+        <link href="https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-27-topic-11-part-3-youtube"/>
+        <updated>2024-03-15T10:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[March 2024 update of Power Automate for desktop]]></title>
         <id>march-2024-update-of-power-automate-for-desktop</id>
         <link href="https://powerautomate.microsoft.com/en-nz/blog/march-2024-update-of-power-automate-for-desktop/"/>
@@ -90,6 +180,16 @@ L’importance de la phase d’analyse durant l’implantation de votre ERP Micr
         <summary type="html"><![CDATA[Power Automate for desktop comes with new additions in 2024 March’s release, including new functionalities for Power Fx enabled desktop flows, a new Excel action, and more.]]></summary>
         <author>
             <name>powerautomate.microsoft.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekly Update #134 – 15th March 2024 – YouTube]]></title>
+        <id>https://365community.online/weekly-update-134-15th-march-2024-youtube</id>
+        <link href="https://365community.online/weekly-update-134-15th-march-2024-youtube"/>
+        <updated>2024-03-15T07:25:03.000Z</updated>
+        <summary type="html"><![CDATA[Weekly Update #134 – 15th March 2024 Join me as I look at the latest Azure updates from the past week. Join me as I look at the latest Azure […]]]></summary>
+        <author>
+            <name>Sarah Lean ???????</name>
         </author>
     </entry>
     <entry>
@@ -26513,25 +26613,6 @@ I used Global::strFmtByLanguage method as a basis for my method to replace the c
 The post D365 Electronic Reporting: JOIN records in pairs appeared first on ER-Consult.]]></summary>
         <author>
             <name>Eugen Glasow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lookup, JumpRef, Modified for a form data source field through CoC]]></title>
-        <id>https://alexvoy.blogspot.com/2022/03/lookup-jumpref-modified-for-form-data.html</id>
-        <link href="https://alexvoy.blogspot.com/2022/03/lookup-jumpref-modified-for-form-data.html"/>
-        <updated>2022-03-17T13:18:00.003Z</updated>
-        <summary type="html"><![CDATA[As Ievgen Miroshnikov explained in his old article https://community.dynamics.com/365/financeandoperations/b/ievgensaxblog/posts/d365foe-how-to-override-form-data-source-field-lookup-method, it is much better to override methods directly on a data source field than on its linked form controls.
-I just want to re-iterate it and place here code snippets.
-
-
-
-User can add new control using form personalization and this control won’t support overridden logic. It could be critical if you are restricting field lookup values or adding validations.
-One form could have several controls that refers to one data source field so you have to duplicate your code.
-Number of delegates are limited as well.
-
-Lookup, JumpRef, and Modified methods for a custom field on CustInvoiceTable data source of CustFreeInv…]]></summary>
-        <author>
-            <name>Adventures in Axapta world</name>
         </author>
     </entry>
 </feed>

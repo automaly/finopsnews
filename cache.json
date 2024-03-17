@@ -6005,6 +6005,16 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/live-from-redmond-wa-youtube",
+          "author": "Victor Dantas",
+          "description": "We are live from Microsoft Headquarters to remind you that CPPS 24 takes place tomorrow and Zero To Hero is going live next week. source",
+          "link": "https://365community.online/live-from-redmond-wa-youtube",
+          "publishedOn": "2024-03-15T18:06:29.000Z",
+          "wordCount": 3120,
+          "title": "Live from Redmond, WA – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1710590798_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
           "id": "https://365community.online/devops-training-devops-engineer-training-course-online-devops-tutorial-mindmajix-youtube",
           "author": "Jaya Sri",
           "description": "DevOps Training | DevOps Engineer Training Course Online | DevOps Tutorial | MindMajix This MindMajix’s YouTube video on DevOps training will help you master and build your DevOps skills with […]",
@@ -6013,6 +6023,26 @@
           "wordCount": 3456,
           "title": "DevOps Training | DevOps Engineer Training Course Online | DevOps Tutorial | MindMajix – YouTube",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1710524277_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-27-topic-11-part-3-youtube",
+          "author": "shabaz darr",
+          "description": "Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]",
+          "link": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-27-topic-11-part-3-youtube",
+          "publishedOn": "2024-03-15T10:00:27.000Z",
+          "wordCount": 3314,
+          "title": "AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Episode 27 – Topic 11: Part 3 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1710572064_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/weekly-update-134-15th-march-2024-youtube",
+          "author": "Sarah Lean ???????",
+          "description": "Weekly Update #134 – 15th March 2024 Join me as I look at the latest Azure updates from the past week. Join me as I look at the latest Azure […]",
+          "link": "https://365community.online/weekly-update-134-15th-march-2024-youtube",
+          "publishedOn": "2024-03-15T07:25:03.000Z",
+          "wordCount": 3148,
+          "title": "Weekly Update #134 – 15th March 2024 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1710607505_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         },
         {
           "id": "https://365community.online/secure-your-dynamics-365-attachments-in-the-cloud-easy-sharepoint-crm-integration-guide",
@@ -13358,6 +13388,16 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=5574",
+          "author": "Ludwig Reinhard",
+          "description": "Special thanks to Nataliia Sukhanova, Ewa Watkins and Chloe Zhang for their reviews, comments, feedback and suggestions for improvement.",
+          "link": "https://dynamicsax-fico.com/2024/03/16/how-to-fix-esg-reporting-part-1/",
+          "publishedOn": "2024-03-16T16:43:27.000Z",
+          "wordCount": 3356,
+          "title": "How to fix ESG reporting? (Part 1)",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/12/english.jpg"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=5758",
           "author": "Ludwig Reinhard",
           "description": "Visit the post for more.",
@@ -14814,6 +14854,16 @@
       "siteUrl": "https://www.atomicax.com/frontpage",
       "articles": [
         {
+          "id": "1689 at https://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 03/16/24.\n\n\nLast modified: \n\n03/16/24\n\n\n\n\n\n\n\n\n\n\n\n\n      \nTags: \nAI      \nCopilot      \n\nCopilot is here for F&O. Let's check it out.\nI setup Copilot for F&O just to see what it can do. Below is a set of interactions. I thought I'd start with a simple question and ask how to switch legal entities that I'm transaction in. I was using Contoso sample data and by default my user was in DAT. I wanted to have it tell me how to get to USMF or any other legal entity. I thought this would be fairly easy but I wasn't ready for the journey I was about to take. Let's get start.\n>> how do I switch legal entities?\nResponse:\nGo to Organization administration > Organizations > Legal entities 1.\nAI-generated content may be incorrect\n\nMaybe in its source training \"switch\" isn't …",
+          "link": "https://www.atomicax.com/article/copilot-fo-here-preview",
+          "publishedOn": "2024-03-16T21:31:58.000Z",
+          "wordCount": 3479,
+          "title": "Copilot for F&O is here in Preview",
+          "imageUrl": null
+        },
+        {
           "id": "1688 at https://www.atomicax.com",
           "author": "Nathan Clouse",
           "description": "Submitted by Nathan Clouse on 02/25/24.\n\n\nLast modified: \n\n02/25/24\n\n\n\n\n\n\n\n\n\n\n\n\nUsing Git in PackagesLocalDirectory - VS 2022 Edition\n\nThis article is an update of this post to show how to use Git in PackagesLocalDirectory when using Visual Studio 2022.\nOpen VS 2022. Open the Git Changes Tab then click on Clone Repository\n\nClick on Azure DevOps\n\nSelect your repo from the available projects, review settings and click \"Clone\". Note location to be used for later.\n\nClick Clone.\nNext, close Visual Studio and install Git from https://git-scm.com/download/win accepting the defaults if you're uncertain what the installer is asking you.\nNext, Open PowerShell as an admin to run the following commands. Update the paths to what is appropriate for your scenario first.\n#Update for your VM / environment\n…",
@@ -16146,6 +16196,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2830",
+          "author": "Saurabh Bharti",
+          "description": "Do you know that initial Dynamics AX didn’t have “Standard cost” valuation method? Then how did we configure standard cost without this valuation method? Also, do we have that configuration available now with us in D365 F&O? Welcome to part 8 of our exploration into Inventory Valuation within Microsoft Dynamics 365 Finance and Operations. In […]",
+          "link": "https://exploredynamics365.home.blog/2024/03/16/standard-cost-fixed-receipt-price-microsoft-dynamics-365-finance-and-operations-part-8/",
+          "publishedOn": "2024-03-16T11:39:33.000Z",
+          "wordCount": 3146,
+          "title": "Standard Cost [Fixed receipt price] Microsoft Dynamics 365 Finance and Operations: Part-8",
+          "imageUrl": "http://img.youtube.com/vi/jzUPT3E6xxk/0.jpg"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2827",
           "author": "Saurabh Bharti",
           "description": "Welcome to the next video on “Learning Path to Become Functional consultant” series. After you gather and documented your requirements, next step for functional consultants is to perform the Fit Gap analysis before going for the sign-off from stakeholders. Fit gap analysis is a crucial step in ERP implementation where the existing business processes and […]",
@@ -16382,6 +16442,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2830",
+          "author": "Saurabh Bharti",
+          "description": "Do you know that initial Dynamics AX didn’t have “Standard cost” valuation method? Then how did we configure standard cost without this valuation method? Also, do we have that configuration available now with us in D365 F&O? Welcome to part 8 of our exploration into Inventory Valuation within Microsoft Dynamics 365 Finance and Operations. In […]",
+          "link": "https://exploredynamics365.home.blog/2024/03/16/standard-cost-fixed-receipt-price-microsoft-dynamics-365-finance-and-operations-part-8/",
+          "publishedOn": "2024-03-16T11:39:33.000Z",
+          "wordCount": 3146,
+          "title": "Standard Cost [Fixed receipt price] Microsoft Dynamics 365 Finance and Operations: Part-8",
+          "imageUrl": "http://img.youtube.com/vi/jzUPT3E6xxk/0.jpg"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2827",
           "author": "Saurabh Bharti",
@@ -16905,16 +16975,6 @@
           "wordCount": 2383,
           "title": "How to change currency symbol in a given number format",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfNgB3iDqgMfRDMmj0yR2Vn75gObUgBCH8Al74v7coqyEMACyHn1KQ3Hw1sLwaFvyqbiff5FOqUnbhymnRTYnvd4FsJpgb0Ru4uwkFiWF8wbaYM_Qd3FrWTo4IrtXX6-7i3N9uHjvvmKak41UfghYduF8LoPB-rsSlCOQmw82atBznYTpdsqXaKY5/w1200-h630-p-k-no-nu/ssrs2.jpg"
-        },
-        {
-          "id": "https://alexvoy.blogspot.com/2022/03/lookup-jumpref-modified-for-form-data.html",
-          "author": null,
-          "description": "As Ievgen Miroshnikov explained in his old article https://community.dynamics.com/365/financeandoperations/b/ievgensaxblog/posts/d365foe-how-to-override-form-data-source-field-lookup-method, it is much better to override methods directly on a data source field than on its linked form controls.\nI just want to re-iterate it and place here code snippets.\n\n\n\nUser can add new control using form personalization and this control won’t support overridden logic. It could be critical if you are restricting field lookup values or adding validations.\nOne form could have several controls that refers to one data source field so you have to duplicate your code.\nNumber of delegates are limited as well.\n\nLookup, JumpRef, and Modified methods for a custom field on CustInvoiceTable data source of CustFreeInv…",
-          "link": "https://alexvoy.blogspot.com/2022/03/lookup-jumpref-modified-for-form-data.html",
-          "publishedOn": "2022-03-17T13:18:00.003Z",
-          "wordCount": 2224,
-          "title": "Lookup, JumpRef, Modified for a form data source field through CoC",
-          "imageUrl": null
         }
       ]
     },
