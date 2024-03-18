@@ -2,10 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-03-17T00:40:49.445Z</updated>
+    <updated>2024-03-18T00:39:09.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MVP Summit 2024]]></title>
+        <id>https://dev.goshoom.net/?p=9972</id>
+        <link href="https://dev.goshoom.net/2024/03/mvp-summit-2024/"/>
+        <updated>2024-03-17T13:47:19.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft MVP Summit is an annual conference in Redmond (USA), where Microsoft Most Valuable Professionals (MVPs) meet to share experience, learn about new features coming to Microsoft products and to give feedback to Microsoft on what works well and where attention is needed. I just came back from this year’s one and want to share ...
+Continue reading ‘MVP Summit 2024’ »]]></summary>
+        <author>
+            <name>Martin Dráb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add Power Apps to Dynamics 365 Human Resources.]]></title>
+        <id>https://365community.online/add-power-apps-to-dynamics-365-human-resources</id>
+        <link href="https://365community.online/add-power-apps-to-dynamics-365-human-resources"/>
+        <updated>2024-03-17T13:24:12.000Z</updated>
+        <summary type="html"><![CDATA[I love this feature, and chances are that you have already seen it. However, let me share one of my favorite Dynamics 365 Human Resources tips. There are cases where […]]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does Specifying Columns in Select Statements Matter?]]></title>
+        <id>https://365community.online/does-specifying-columns-in-select-statements-matter</id>
+        <link href="https://365community.online/does-specifying-columns-in-select-statements-matter"/>
+        <updated>2024-03-17T03:44:04.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 03/16/24. Last modified:  03/17/24 Tags:  performance Lets find out if specifying columns in our SELECT statements has any performance impact. The Setup In order to […]]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does Specifying Columns in Select Statements Matter?]]></title>
+        <id>1690 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/article/does-specifying-columns-select-statements-matter"/>
+        <updated>2024-03-17T03:44:04.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 03/16/24.
+
+
+Last modified: 
+
+03/17/24
+
+
+
+
+
+
+
+
+
+
+
+
+      
+Tags: 
+performance      
+
+Lets find out if specifying columns in our SELECT statements has any performance impact.
+The Setup
+In order to test if specifying column names in a select matter, we'll have to select several records from the same table where we have not selected that specific record before our test. We want to measure true performance including SQL overhead plus binding to a common buffer. If caching is present, we'll not be capturing the "true" performance. Caching may help overall performance but we can specifically rely on it to say our code is "fine" from a performance perspective as some data may get cached and other data may not. Caching is a variable we want to exclude as much as possibl…]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot for F&O is here in Preview]]></title>
+        <id>https://365community.online/copilot-for-fo-is-here-in-preview</id>
+        <link href="https://365community.online/copilot-for-fo-is-here-in-preview"/>
+        <updated>2024-03-16T21:31:58.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 03/16/24. Last modified:  03/16/24 Tags:  AI Copilot Copilot is here for F&O. Let’s check it out. I setup Copilot for F&O just to see what […]]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Copilot for F&O is here in Preview]]></title>
         <id>1689 at https://www.atomicax.com</id>

@@ -6005,6 +6005,36 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/add-power-apps-to-dynamics-365-human-resources",
+          "author": "Ana Inés Urrutia",
+          "description": "I love this feature, and chances are that you have already seen it. However, let me share one of my favorite Dynamics 365 Human Resources tips. There are cases where […]",
+          "link": "https://365community.online/add-power-apps-to-dynamics-365-human-resources",
+          "publishedOn": "2024-03-17T13:24:12.000Z",
+          "wordCount": 3236,
+          "title": "Add Power Apps to Dynamics 365 Human Resources.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Add-Power-Apps-to-Dynamics-365-Human-Resources.png?fit=1000%2C563&ssl=1"
+        },
+        {
+          "id": "https://365community.online/does-specifying-columns-in-select-statements-matter",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 03/16/24. Last modified:  03/17/24 Tags:  performance Lets find out if specifying columns in our SELECT statements has any performance impact. The Setup In order to […]",
+          "link": "https://365community.online/does-specifying-columns-in-select-statements-matter",
+          "publishedOn": "2024-03-17T03:44:04.000Z",
+          "wordCount": 3239,
+          "title": "Does Specifying Columns in Select Statements Matter?",
+          "imageUrl": "https://365community.online/wp-content/uploads/2024/03/Does-Specifying-Columns-in-Select-Statements-Matter.jpg"
+        },
+        {
+          "id": "https://365community.online/copilot-for-fo-is-here-in-preview",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 03/16/24. Last modified:  03/16/24 Tags:  AI Copilot Copilot is here for F&O. Let’s check it out. I setup Copilot for F&O just to see what […]",
+          "link": "https://365community.online/copilot-for-fo-is-here-in-preview",
+          "publishedOn": "2024-03-16T21:31:58.000Z",
+          "wordCount": 3240,
+          "title": "Copilot for F&O is here in Preview",
+          "imageUrl": "https://365community.online/wp-content/uploads/2024/03/Copilot-for-FampO-is-here-in-Preview.png"
+        },
+        {
           "id": "https://365community.online/live-from-redmond-wa-youtube",
           "author": "Victor Dantas",
           "description": "We are live from Microsoft Headquarters to remind you that CPPS 24 takes place tomorrow and Zero To Hero is going live next week. source",
@@ -14854,6 +14884,16 @@
       "siteUrl": "https://www.atomicax.com/frontpage",
       "articles": [
         {
+          "id": "1690 at https://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 03/16/24.\n\n\nLast modified: \n\n03/17/24\n\n\n\n\n\n\n\n\n\n\n\n\n      \nTags: \nperformance      \n\nLets find out if specifying columns in our SELECT statements has any performance impact.\nThe Setup\nIn order to test if specifying column names in a select matter, we'll have to select several records from the same table where we have not selected that specific record before our test. We want to measure true performance including SQL overhead plus binding to a common buffer. If caching is present, we'll not be capturing the \"true\" performance. Caching may help overall performance but we can specifically rely on it to say our code is \"fine\" from a performance perspective as some data may get cached and other data may not. Caching is a variable we want to exclude as much as possibl…",
+          "link": "https://www.atomicax.com/article/does-specifying-columns-select-statements-matter",
+          "publishedOn": "2024-03-17T03:44:04.000Z",
+          "wordCount": 1487,
+          "title": "Does Specifying Columns in Select Statements Matter?",
+          "imageUrl": null
+        },
+        {
           "id": "1689 at https://www.atomicax.com",
           "author": "Nathan Clouse",
           "description": "Submitted by Nathan Clouse on 03/16/24.\n\n\nLast modified: \n\n03/16/24\n\n\n\n\n\n\n\n\n\n\n\n\n      \nTags: \nAI      \nCopilot      \n\nCopilot is here for F&O. Let's check it out.\nI setup Copilot for F&O just to see what it can do. Below is a set of interactions. I thought I'd start with a simple question and ask how to switch legal entities that I'm transaction in. I was using Contoso sample data and by default my user was in DAT. I wanted to have it tell me how to get to USMF or any other legal entity. I thought this would be fairly easy but I wasn't ready for the journey I was about to take. Let's get start.\n>> how do I switch legal entities?\nResponse:\nGo to Organization administration > Organizations > Legal entities 1.\nAI-generated content may be incorrect\n\nMaybe in its source training \"switch\" isn't …",
@@ -16038,6 +16078,16 @@
       "feedUrl": "https://dev.goshoom.net/feed/",
       "siteUrl": "https://dev.goshoom.net",
       "articles": [
+        {
+          "id": "https://dev.goshoom.net/?p=9972",
+          "author": "Martin Dráb",
+          "description": "Microsoft MVP Summit is an annual conference in Redmond (USA), where Microsoft Most Valuable Professionals (MVPs) meet to share experience, learn about new features coming to Microsoft products and to give feedback to Microsoft on what works well and where attention is needed. I just came back from this year’s one and want to share ...\nContinue reading ‘MVP Summit 2024’ »",
+          "link": "https://dev.goshoom.net/2024/03/mvp-summit-2024/",
+          "publishedOn": "2024-03-17T13:47:19.000Z",
+          "wordCount": 1371,
+          "title": "MVP Summit 2024",
+          "imageUrl": null
+        },
         {
           "id": "https://dev.goshoom.net/?p=9969",
           "author": "Martin Dráb",
