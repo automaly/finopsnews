@@ -2,10 +2,162 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-03-18T00:39:09.933Z</updated>
+    <updated>2024-03-19T00:38:02.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Compare Five BI and Reporting Tools for Dynamics 365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=105042</id>
+        <link href="https://erpsoftwareblog.com/2024/03/compare-five-bi-and-reporting-tools-for-dynamics-365-business-central/"/>
+        <updated>2024-03-19T00:35:27.000Z</updated>
+        <summary type="html"><![CDATA[Although Dynamics 365 Business Central offers solid reporting capabilities, add-on software is often necessary to expand its BI/Reporting functionality to meet specific business requirements. The built-in features, while comprehensive, may […]
+The post Compare Five BI and Reporting Tools for Dynamics 365 Business Central appeared first on ERP Software Blog.
+Get More in the Cloud with Dynamics 365 Business Central
+Five Tools Microsoft Dynamics 365 BC/NAV Users Need to See in the October Financial Tools Showcase
+Demos of 5 Top Financial Tools for Dynamics 365 Business Central/NAV in the MSDW March Showcase]]></summary>
+        <author>
+            <name>ERP Software Blog Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2 ways to duplicate SharePoint Lists to support your Power Apps]]></title>
+        <id>https://365community.online/2-ways-to-duplicate-sharepoint-lists-to-support-your-power-apps</id>
+        <link href="https://365community.online/2-ways-to-duplicate-sharepoint-lists-to-support-your-power-apps"/>
+        <updated>2024-03-18T11:48:12.000Z</updated>
+        <summary type="html"><![CDATA[Recently I’ve been asked quite a few times to duplicate SharePoint lists as part of creating a Development, Test and production environment in Power Apps. PnP PowerShell Whatever you want […]]]></summary>
+        <author>
+            <name>Pieter Veenstra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curso completo Power Apps – Conceitos avançados sobre componentes e o evento AppStart – YouTube]]></title>
+        <id>https://365community.online/curso-completo-power-apps-conceitos-avancados-sobre-componentes-e-o-evento-appstart-youtube</id>
+        <link href="https://365community.online/curso-completo-power-apps-conceitos-avancados-sobre-componentes-e-o-evento-appstart-youtube"/>
+        <updated>2024-03-18T10:56:25.000Z</updated>
+        <summary type="html"><![CDATA[Nesse curso vamos aprender os conceitos e vamos criar um projeto do zero utilizando Power Apps e SharePoint. ♐ Adquira meu curso na Udemy e aprenda SharePoint, Power Apps e […]]]></summary>
+        <author>
+            <name>Saulo Soares Oliveira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best ERP Systems Of 2024: A Comprehensive Review]]></title>
+        <id>https://erpsoftwareblog.com/?p=105019</id>
+        <link href="https://erpsoftwareblog.com/2024/03/best-erp-systems-of-2024-a-comprehensive-review/"/>
+        <updated>2024-03-18T10:48:40.000Z</updated>
+        <summary type="html"><![CDATA[In the dynamic tapestry of the corporate world, where every decision counts and every process shapes the trajectory of success, Enterprise Resource Planning (ERP) systems stand as the architects of […]
+The post Best ERP Systems Of 2024: A Comprehensive Review appeared first on ERP Software Blog.
+What's Missing in Traditional ERP Inventory Systems for Semiconductor Manufacturers?
+How Much Does a Microsoft Dynamics GP Implementation Cost?
+Harnessing the Power of AI: 6 Strategies for Asset Management Firms]]></summary>
+        <author>
+            <name>DynaTech Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Features You Didn't Know Existed in Product Configurators for Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=104963</id>
+        <link href="https://erpsoftwareblog.com/2024/03/product-configurator-top-10-features-for-business-central/"/>
+        <updated>2024-03-18T10:11:42.000Z</updated>
+        <summary type="html"><![CDATA[With features like easy conditional logic, visual configurations, and automated production updates, the Product Configurator app closes gaps with seamless creation and management of custom products in Business Central.
+The post Top 10 Features You Didn't Know Existed in Product Configurators for Business Central appeared first on ERP Software Blog.
+Microsoft Dynamics GP, NAV and SL Field Service with Smartphones and Tablets
+The Importance of Sales and Device Training for the New Field Service Technician
+PIM: Creating an Effective Product Workflow]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Button to send Email based on Templates in Dynamics 365 CE]]></title>
+        <id>https://365community.online/button-to-send-email-based-on-templates-in-dynamics-365-ce</id>
+        <link href="https://365community.online/button-to-send-email-based-on-templates-in-dynamics-365-ce"/>
+        <updated>2024-03-18T10:09:09.000Z</updated>
+        <summary type="html"><![CDATA[Great blog below by Vidit to demonstrate how you can use ribbon buttons in Dynamics 365 Sales to send emails based on Templates. Continue Reading priyeshwagh777’s Article on their blog […]]]></summary>
+        <author>
+            <name>Priyesh Wagh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Debug Canvas Apps with the Monitor Tool: Tutorial – YouTube]]></title>
+        <id>https://365community.online/how-to-debug-canvas-apps-with-the-monitor-tool-tutorial-youtube</id>
+        <link href="https://365community.online/how-to-debug-canvas-apps-with-the-monitor-tool-tutorial-youtube"/>
+        <updated>2024-03-18T09:21:59.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to our tutorial video where we’ll guide you through the process of debugging a canvas app using the Monitor Tool! 🛠️ Whether you’re a beginner or an experienced developer, […]]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simplifying Dynamics 365 Record Creation with Pre-populated Fields Using Xrm.Navigation.navigateTo]]></title>
+        <id>https://365community.online/simplifying-dynamics-365-record-creation-with-pre-populated-fields-using-xrm-navigation-navigateto</id>
+        <link href="https://365community.online/simplifying-dynamics-365-record-creation-with-pre-populated-fields-using-xrm-navigation-navigateto"/>
+        <updated>2024-03-18T08:42:23.000Z</updated>
+        <summary type="html"><![CDATA[I recently came across a unique client need that they wanted to streamline the process of creating new email records in Dynamics 365 by having certain fields pre-populated based on […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 2nd edition of “Mastering Dynamics 365 Business Central” is here…]]></title>
+        <id>https://365community.online/the-2nd-edition-of-mastering-dynamics-365-business-central-is-here</id>
+        <link href="https://365community.online/the-2nd-edition-of-mastering-dynamics-365-business-central-is-here"/>
+        <updated>2024-03-18T08:02:25.000Z</updated>
+        <summary type="html"><![CDATA[More than one year of work, many updates and reviews, lots of energies spent. But now I’m proud to announce that the second edition of our best seller “Mastering Dynamics […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pipelines for All Public Preview: Easily set up pipelines in Power Platform]]></title>
+        <id>pipelines-for-all-public-preview-easily-set-up-pipelines-in-power-platform</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/pipelines-for-all-public-preview-easily-set-up-pipelines-in-power-platform/"/>
+        <updated>2024-03-18T08:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wanted to use pipelines to deploy your solutions across environments, but found it too complicated or time-consuming to set up? Do you wish you could follow ALM best practices more easily and efficiently but don’t have an active admin who is able to dedicate the time to set it all up? If so, you’re in luck! We are excited to announce Pipelines for All: a streamlined pipelines setup process that could have you deploying from scratch in less than a minute.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Launch Native Apps from Canvas Apps: Step-by-Step Tutorial Using Launch Function – YouTube]]></title>
+        <id>https://365community.online/how-to-launch-native-apps-from-canvas-apps-step-by-step-tutorial-using-launch-function-youtube</id>
+        <link href="https://365community.online/how-to-launch-native-apps-from-canvas-apps-step-by-step-tutorial-using-launch-function-youtube"/>
+        <updated>2024-03-18T07:18:48.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to our comprehensive tutorial video where we’ll demonstrate how to open a native app from a canvas app using the launch function! 📲 #powerapps #microsoftpowerapps #canvasapp #powerplatformwork #powerplatform source]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Pages custom domain and RRset conflict error]]></title>
+        <id>https://365community.online/power-pages-custom-domain-and-rrset-conflict-error</id>
+        <link href="https://365community.online/power-pages-custom-domain-and-rrset-conflict-error"/>
+        <updated>2024-03-18T06:49:53.000Z</updated>
+        <summary type="html"><![CDATA[When you create a Power Pages site, it will be available under the “powerappsportals.com” domain. If you want it to be part of your actual Internet real estate, you may […]]]></summary>
+        <author>
+            <name>Andrew Grischenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use Monitor to debug Model-driven apps remotely | Power Platform]]></title>
+        <id>https://365community.online/use-monitor-to-debug-model-driven-apps-remotely-power-platform</id>
+        <link href="https://365community.online/use-monitor-to-debug-model-driven-apps-remotely-power-platform"/>
+        <updated>2024-03-18T03:01:26.000Z</updated>
+        <summary type="html"><![CDATA[Monitor is one feature that comes in super handy when end-users complain about an issue which is difficult to ask end users to send across logs from the browser. And […]]]></summary>
+        <author>
+            <name>Priyesh Wagh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to optimize fetching multiple columns of a record]]></title>
+        <id>https://365community.online/how-to-optimize-fetching-multiple-columns-of-a-record</id>
+        <link href="https://365community.online/how-to-optimize-fetching-multiple-columns-of-a-record"/>
+        <updated>2024-03-18T02:54:10.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to optimize fetching of multiple columns using Lookup! Should you fetch each column separately or can you fetch all at once? The post How to optimize fetching multiple […]]]></summary>
+        <author>
+            <name>harditbhatia</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MVP Summit 2024]]></title>
         <id>https://dev.goshoom.net/?p=9972</id>
@@ -253,6 +405,16 @@ L’importance de la phase d’analyse durant l’implantation de votre ERP Micr
         <link href="https://powerautomate.microsoft.com/en-nz/blog/march-2024-update-of-power-automate-for-desktop/"/>
         <updated>2024-03-15T08:18:00.000Z</updated>
         <summary type="html"><![CDATA[Power Automate for desktop comes with new additions in 2024 March’s release, including new functionalities for Power Fx enabled desktop flows, a new Excel action, and more.]]></summary>
+        <author>
+            <name>powerautomate.microsoft.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simplifying license management for admins with user license auto-claim for Power Automate]]></title>
+        <id>simplifying-license-management-for-admins-with-user-license-auto-claim-for-power-automate</id>
+        <link href="https://powerautomate.microsoft.com/en-nz/blog/simplifying-license-management-for-admins-with-user-license-auto-claim-for-power-automate/"/>
+        <updated>2024-03-15T08:01:00.000Z</updated>
+        <summary type="html"><![CDATA[General availability of auto-claim for Power Automate licenses, a feature that simplifies license management for admins and enhances the user experience.]]></summary>
         <author>
             <name>powerautomate.microsoft.com</name>
         </author>

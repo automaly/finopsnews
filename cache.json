@@ -1391,6 +1391,36 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=105042",
+          "author": "ERP Software Blog Writer",
+          "description": "Although Dynamics 365 Business Central offers solid reporting capabilities, add-on software is often necessary to expand its BI/Reporting functionality to meet specific business requirements. The built-in features, while comprehensive, may […]\nThe post Compare Five BI and Reporting Tools for Dynamics 365 Business Central appeared first on ERP Software Blog.\nGet More in the Cloud with Dynamics 365 Business Central\nFive Tools Microsoft Dynamics 365 BC/NAV Users Need to See in the October Financial Tools Showcase\nDemos of 5 Top Financial Tools for Dynamics 365 Business Central/NAV in the MSDW March Showcase",
+          "link": "https://erpsoftwareblog.com/2024/03/compare-five-bi-and-reporting-tools-for-dynamics-365-business-central/",
+          "publishedOn": "2024-03-19T00:35:27.000Z",
+          "wordCount": 8465,
+          "title": "Compare Five BI and Reporting Tools for Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2024-03-06-BI-Reporting-Showcase-Banners-NAV_1600-x-900.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105019",
+          "author": "DynaTech Systems",
+          "description": "In the dynamic tapestry of the corporate world, where every decision counts and every process shapes the trajectory of success, Enterprise Resource Planning (ERP) systems stand as the architects of […]\nThe post Best ERP Systems Of 2024: A Comprehensive Review appeared first on ERP Software Blog.\nWhat's Missing in Traditional ERP Inventory Systems for Semiconductor Manufacturers?\nHow Much Does a Microsoft Dynamics GP Implementation Cost?\nHarnessing the Power of AI: 6 Strategies for Asset Management Firms",
+          "link": "https://erpsoftwareblog.com/2024/03/best-erp-systems-of-2024-a-comprehensive-review/",
+          "publishedOn": "2024-03-18T10:48:40.000Z",
+          "wordCount": 7218,
+          "title": "Best ERP Systems Of 2024: A Comprehensive Review",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Best-ERP-Systems-Of-2024-A-Comprehensive-Review-01-1-scaled.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=104963",
+          "author": "Insight Works",
+          "description": "With features like easy conditional logic, visual configurations, and automated production updates, the Product Configurator app closes gaps with seamless creation and management of custom products in Business Central.\nThe post Top 10 Features You Didn't Know Existed in Product Configurators for Business Central appeared first on ERP Software Blog.\nMicrosoft Dynamics GP, NAV and SL Field Service with Smartphones and Tablets\nThe Importance of Sales and Device Training for the New Field Service Technician\nPIM: Creating an Effective Product Workflow",
+          "link": "https://erpsoftwareblog.com/2024/03/product-configurator-top-10-features-for-business-central/",
+          "publishedOn": "2024-03-18T10:11:42.000Z",
+          "wordCount": 5380,
+          "title": "Top 10 Features You Didn't Know Existed in Product Configurators for Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Product-Configurator-250-1.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=103027",
           "author": "CAL Business Solutions, Inc.",
           "description": "When it comes to choosing an ERP solution for your small or medium-sized business, it's crucial to make an informed decision. To stay ahead in today’s competitive business environment, you […]\nThe post Dynamics Business Central vs Acumatica - Which is the Best ERP Fit for Your SMB Business? appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve\nGet More in the Cloud with Dynamics 365 Business Central\nTaking Microsoft Dynamics GP to the Cloud",
@@ -6004,6 +6034,106 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/2-ways-to-duplicate-sharepoint-lists-to-support-your-power-apps",
+          "author": "Pieter Veenstra",
+          "description": "Recently I’ve been asked quite a few times to duplicate SharePoint lists as part of creating a Development, Test and production environment in Power Apps. PnP PowerShell Whatever you want […]",
+          "link": "https://365community.online/2-ways-to-duplicate-sharepoint-lists-to-support-your-power-apps",
+          "publishedOn": "2024-03-18T11:48:12.000Z",
+          "wordCount": 3232,
+          "title": "2 ways to duplicate SharePoint Lists to support your Power Apps",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/curso-completo-power-apps-conceitos-avancados-sobre-componentes-e-o-evento-appstart-youtube",
+          "author": "Saulo Soares Oliveira",
+          "description": "Nesse curso vamos aprender os conceitos e vamos criar um projeto do zero utilizando Power Apps e SharePoint. ♐ Adquira meu curso na Udemy e aprenda SharePoint, Power Apps e […]",
+          "link": "https://365community.online/curso-completo-power-apps-conceitos-avancados-sobre-componentes-e-o-evento-appstart-youtube",
+          "publishedOn": "2024-03-18T10:56:25.000Z",
+          "wordCount": 3224,
+          "title": "Curso completo Power Apps – Conceitos avançados sobre componentes e o evento AppStart – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1710764815_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/button-to-send-email-based-on-templates-in-dynamics-365-ce",
+          "author": "Priyesh Wagh",
+          "description": "Great blog below by Vidit to demonstrate how you can use ribbon buttons in Dynamics 365 Sales to send emails based on Templates. Continue Reading priyeshwagh777’s Article on their blog […]",
+          "link": "https://365community.online/button-to-send-email-based-on-templates-in-dynamics-365-ce",
+          "publishedOn": "2024-03-18T10:09:09.000Z",
+          "wordCount": 3191,
+          "title": "Button to send Email based on Templates in Dynamics 365 CE",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Power-Platform-Pipelines-Blog-Series.jpg?fit=200%2C200&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-debug-canvas-apps-with-the-monitor-tool-tutorial-youtube",
+          "author": "Manish chauhan",
+          "description": "Welcome to our tutorial video where we’ll guide you through the process of debugging a canvas app using the Monitor Tool! 🛠️ Whether you’re a beginner or an experienced developer, […]",
+          "link": "https://365community.online/how-to-debug-canvas-apps-with-the-monitor-tool-tutorial-youtube",
+          "publishedOn": "2024-03-18T09:21:59.000Z",
+          "wordCount": 3191,
+          "title": "How to Debug Canvas Apps with the Monitor Tool: Tutorial – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1710763428_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/simplifying-dynamics-365-record-creation-with-pre-populated-fields-using-xrm-navigation-navigateto",
+          "author": "Inogic",
+          "description": "I recently came across a unique client need that they wanted to streamline the process of creating new email records in Dynamics 365 by having certain fields pre-populated based on […]",
+          "link": "https://365community.online/simplifying-dynamics-365-record-creation-with-pre-populated-fields-using-xrm-navigation-navigateto",
+          "publishedOn": "2024-03-18T08:42:23.000Z",
+          "wordCount": 3527,
+          "title": "Simplifying Dynamics 365 Record Creation with Pre-populated Fields Using Xrm.Navigation.navigateTo",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Simplifying-Dynamics-365-Record-Creation-1-e1710751166426.png?fit=1200%2C549&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-2nd-edition-of-mastering-dynamics-365-business-central-is-here",
+          "author": "Stefano Demiliani",
+          "description": "More than one year of work, many updates and reviews, lots of energies spent. But now I’m proud to announce that the second edition of our best seller “Mastering Dynamics […]",
+          "link": "https://365community.online/the-2nd-edition-of-mastering-dynamics-365-business-central-is-here",
+          "publishedOn": "2024-03-18T08:02:25.000Z",
+          "wordCount": 3278,
+          "title": "The 2nd edition of “Mastering Dynamics 365 Business Central” is here…",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/The-2nd-edition-of-Mastering-Dynamics-365-Business-Central-is.png?fit=1200%2C681&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-launch-native-apps-from-canvas-apps-step-by-step-tutorial-using-launch-function-youtube",
+          "author": "Manish chauhan",
+          "description": "Welcome to our comprehensive tutorial video where we’ll demonstrate how to open a native app from a canvas app using the launch function! 📲 #powerapps #microsoftpowerapps #canvasapp #powerplatformwork #powerplatform source",
+          "link": "https://365community.online/how-to-launch-native-apps-from-canvas-apps-step-by-step-tutorial-using-launch-function-youtube",
+          "publishedOn": "2024-03-18T07:18:48.000Z",
+          "wordCount": 3177,
+          "title": "How to Launch Native Apps from Canvas Apps: Step-by-Step Tutorial Using Launch Function – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1710748268_hqdefault.jpg?fit=480%2C360&ssl=1"
+        },
+        {
+          "id": "https://365community.online/power-pages-custom-domain-and-rrset-conflict-error",
+          "author": "Andrew Grischenko",
+          "description": "When you create a Power Pages site, it will be available under the “powerappsportals.com” domain. If you want it to be part of your actual Internet real estate, you may […]",
+          "link": "https://365community.online/power-pages-custom-domain-and-rrset-conflict-error",
+          "publishedOn": "2024-03-18T06:49:53.000Z",
+          "wordCount": 3217,
+          "title": "Power Pages custom domain and RRset conflict error",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Power-Pages-custom-domain-and-RRset-conflict-error.png?fit=1200%2C919&ssl=1"
+        },
+        {
+          "id": "https://365community.online/use-monitor-to-debug-model-driven-apps-remotely-power-platform",
+          "author": "Priyesh Wagh",
+          "description": "Monitor is one feature that comes in super handy when end-users complain about an issue which is difficult to ask end users to send across logs from the browser. And […]",
+          "link": "https://365community.online/use-monitor-to-debug-model-driven-apps-remotely-power-platform",
+          "publishedOn": "2024-03-18T03:01:26.000Z",
+          "wordCount": 3252,
+          "title": "Use Monitor to debug Model-driven apps remotely | Power Platform",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Use-Monitor-to-debug-Model-driven-apps-remotely-Power-Platform.png?fit=1199%2C768&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-optimize-fetching-multiple-columns-of-a-record",
+          "author": "harditbhatia",
+          "description": "Learn how to optimize fetching of multiple columns using Lookup! Should you fetch each column separately or can you fetch all at once? The post How to optimize fetching multiple […]",
+          "link": "https://365community.online/how-to-optimize-fetching-multiple-columns-of-a-record",
+          "publishedOn": "2024-03-18T02:54:10.000Z",
+          "wordCount": 3205,
+          "title": "How to optimize fetching multiple columns of a record",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
         {
           "id": "https://365community.online/add-power-apps-to-dynamics-365-human-resources",
           "author": "Ana Inés Urrutia",
@@ -18415,6 +18545,16 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "pipelines-for-all-public-preview-easily-set-up-pipelines-in-power-platform",
+          "author": null,
+          "description": "Have you ever wanted to use pipelines to deploy your solutions across environments, but found it too complicated or time-consuming to set up? Do you wish you could follow ALM best practices more easily and efficiently but don’t have an active admin who is able to dedicate the time to set it all up? If so, you’re in luck! We are excited to announce Pipelines for All: a streamlined pipelines setup process that could have you deploying from scratch in less than a minute.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/pipelines-for-all-public-preview-easily-set-up-pipelines-in-power-platform/",
+          "publishedOn": "2024-03-18T08:00:01.000Z",
+          "wordCount": 1972,
+          "title": "Pipelines for All Public Preview: Easily set up pipelines in Power Platform",
+          "imageUrl": "//powerappsblogmedia.azureedge.net/powerappsblog/2024/03/Create-Pipeline-featured.png"
+        },
+        {
           "id": "introducing-inline-actions",
           "author": null,
           "description": "Speed up your canvas app creation using new inline actions.",
@@ -19067,6 +19207,16 @@
           "publishedOn": "2024-03-15T08:18:00.000Z",
           "wordCount": 2639,
           "title": "March 2024 update of Power Automate for desktop",
+          "imageUrl": null
+        },
+        {
+          "id": "simplifying-license-management-for-admins-with-user-license-auto-claim-for-power-automate",
+          "author": null,
+          "description": "General availability of auto-claim for Power Automate licenses, a feature that simplifies license management for admins and enhances the user experience.",
+          "link": "https://powerautomate.microsoft.com/en-nz/blog/simplifying-license-management-for-admins-with-user-license-auto-claim-for-power-automate/",
+          "publishedOn": "2024-03-15T08:01:00.000Z",
+          "wordCount": 2698,
+          "title": "Simplifying license management for admins with user license auto-claim for Power Automate",
           "imageUrl": null
         },
         {
