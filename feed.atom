@@ -2,10 +2,150 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-03-20T00:37:47.023Z</updated>
+    <updated>2024-03-21T00:39:38.841Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Data migration in Project Management and accounting module in D365 Finance and Supply chain]]></title>
+        <id>http://elearnd365.com/?p=849</id>
+        <link href="https://elearnd365.com/2024/03/20/data-migration-in-project-management-and-accounting-module-in-d365-finance-and-supply-chain/"/>
+        <updated>2024-03-20T21:41:11.000Z</updated>
+        <summary type="html"><![CDATA[In this blog post I will outline the process for data migration in project management and accounting module in D365 FO. With most of the D365 apps connected now through power platform integration and with the introduction of project operations, now days in implementations you must be using project management and accounting module. Mapping customer […]]]></summary>
+        <author>
+            <name>Sukrut Parab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welsh Azure User Group March 2024 Meet Up!]]></title>
+        <id>https://365community.online/welsh-azure-user-group-march-2024-meet-up</id>
+        <link href="https://365community.online/welsh-azure-user-group-march-2024-meet-up"/>
+        <updated>2024-03-20T21:15:11.000Z</updated>
+        <summary type="html"><![CDATA[It was the day of our Welsh Azure User Group #WAUG March 2024 meet up and we had yet another two amazing speakers join us. We were joined by Rolf […]]]></summary>
+        <author>
+            <name>John Lunn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FetchXML improve for us to achieve more]]></title>
+        <id>https://365community.online/fetchxml-improve-for-us-to-achieve-more</id>
+        <link href="https://365community.online/fetchxml-improve-for-us-to-achieve-more"/>
+        <updated>2024-03-20T21:00:16.000Z</updated>
+        <summary type="html"><![CDATA[I got a challenge from my colleague at CRMK: I need to set owners on accounts with a team with the same name as the account. Mia @ CRMK Is […]]]></summary>
+        <author>
+            <name>Jonas Rapp ᴹᴠᴾ ??</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Options for Documenting Your Power Apps: Comments, Code, and Controls]]></title>
+        <id>https://365community.online/options-for-documenting-your-power-apps-comments-code-and-controls</id>
+        <link href="https://365community.online/options-for-documenting-your-power-apps-comments-code-and-controls"/>
+        <updated>2024-03-20T20:03:04.000Z</updated>
+        <summary type="html"><![CDATA[Within Power Apps there are various ways to document your app. In this post I’m looking at comments in Power Apps Options to documenting your code in Power Apps As […]]]></summary>
+        <author>
+            <name>Pieter Veenstra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Help! My configured read-only role requires an operations or activity license]]></title>
+        <id>https://dynamicspedia.com/?p=19020</id>
+        <link href="https://dynamicspedia.com/2024/03/help-my-configured-read-only-role-requires-an-operations-or-activity-license/"/>
+        <updated>2024-03-20T13:32:35.000Z</updated>
+        <summary type="html"><![CDATA[Security in Dynamics 365 Finance and Operations (F&O) is not easy. When you want to define custom roles, this also has a licensing impact. Sometimes, you expect a particular license for your role, but the application states something different. In this post, I will provide a scenario where the license expectation is a Team members […]
+The post Help! My configured read-only role requires an operations or activity license appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Streamline Your Reporting Process With Business Central Extensions and Apps]]></title>
+        <id>https://erpsoftwareblog.com/?p=105095</id>
+        <link href="https://erpsoftwareblog.com/2024/03/streamline-reporting-with-business-central-extensions-and-apps/"/>
+        <updated>2024-03-20T12:52:33.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Dynamics 365 Business Central stands out as a versatile ERP solution, renowned for its customizability through extensions and apps. These enhancements allow businesses to tailor the cloud platform to […]
+The post How to Streamline Your Reporting Process With Business Central Extensions and Apps appeared first on ERP Software Blog.
+Revolutionizing Production Scheduling: Unveiling MxAPS 4.7 for Business Central
+10 New Microsoft Partners Join Insight Works in September
+Enhance Shipping Functions in Business Central]]></summary>
+        <author>
+            <name>Cosmos Data Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central's Next Generation: Boost Efficiency with Product Configurator v3.9]]></title>
+        <id>https://erpsoftwareblog.com/?p=104971</id>
+        <link href="https://erpsoftwareblog.com/2024/03/business-central-product-configuration-and-boms-creation/"/>
+        <updated>2024-03-20T10:02:21.000Z</updated>
+        <summary type="html"><![CDATA[Discover the power of Product Configurator, a versatile and easy-to-use app for Dynamics 365 Business Central, designed to simplify the creation of production BOMs and routings, enhance quote and order generation, and boost productivity across your organization.
+The post Business Central's Next Generation: Boost Efficiency with Product Configurator v3.9 appeared first on ERP Software Blog.
+Customize Your Microsoft Dynamics AX…?? Learn from Travel Industry
+Warehouse Insight Now Available for Dynamics 365 Business Central
+Getting More Out of GP During the Pandemic and Beyond]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configuring Mailbox in Microsoft Dynamics 365 CE: Step-by-Step Guide – YouTube]]></title>
+        <id>https://365community.online/configuring-mailbox-in-microsoft-dynamics-365-ce-step-by-step-guide-youtube</id>
+        <link href="https://365community.online/configuring-mailbox-in-microsoft-dynamics-365-ce-step-by-step-guide-youtube"/>
+        <updated>2024-03-20T09:23:22.000Z</updated>
+        <summary type="html"><![CDATA[Discover the seamless integration of email communication with Microsoft Dynamics 365 CE by configuring your mailbox with our comprehensive tutorial! #dynamics365community #microsoftcrm source]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Episode 30 – Topic 12: Part 3 – YouTube]]></title>
+        <id>https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-30-topic-12-part-3-youtube</id>
+        <link href="https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-30-topic-12-part-3-youtube"/>
+        <updated>2024-03-20T09:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #26]]></title>
+        <id>http://dynamicsax-fico.com/?p=5710</id>
+        <link href="https://dynamicsax-fico.com/2024/03/20/microsoft-bizapps-deutschland-podcast-26/"/>
+        <updated>2024-03-20T07:07:06.000Z</updated>
+        <summary type="html"><![CDATA[[German language podcast] Willkommen zu unserem ersten Podcast im Jahr 2024. Heute sprechen wir mit John Hartholt, dem IT-Leiter von …
+Continue reading →]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resolved – ‘InvokerConnectionOverrideFailed’ Error When a Power App Custom Page call a Power Automate Flow]]></title>
+        <id>https://365community.online/resolved-invokerconnectionoverridefailed-error-when-a-power-app-custom-page-call-a-power-automate-flow</id>
+        <link href="https://365community.online/resolved-invokerconnectionoverridefailed-error-when-a-power-app-custom-page-call-a-power-automate-flow"/>
+        <updated>2024-03-20T04:52:24.000Z</updated>
+        <summary type="html"><![CDATA[Got the below error while I was working on a Power Automate flow, this flow will be called from a Power Apps Custom page. InvokerConnectionOverrideFailed. Failed to parse invoker connections […]]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixed- The XRM workflow table row could not be found error (Power Automate)]]></title>
+        <id>https://365community.online/fixed-the-xrm-workflow-table-row-could-not-be-found-error-power-automate</id>
+        <link href="https://365community.online/fixed-the-xrm-workflow-table-row-could-not-be-found-error-power-automate"/>
+        <updated>2024-03-20T04:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently while trying to open one of our cloud flows we got the below error. Error: The XRM workflow table row could not be found. Inside the Power Automate maker […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Pages and AI (Copilots) – Lesson 1 – YouTube]]></title>
+        <id>https://365community.online/power-pages-and-ai-copilots-lesson-1-youtube</id>
+        <link href="https://365community.online/power-pages-and-ai-copilots-lesson-1-youtube"/>
+        <updated>2024-03-19T21:02:20.000Z</updated>
+        <summary type="html"><![CDATA[Power Pages & Copilots Zero To Hero introduction (Victor Dantas) source]]></summary>
+        <author>
+            <name>Victor Dantas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The SmartBOL Customer Journey - Shipping Documentation, Signing, Digitization and Automation Solution]]></title>
         <id>https://erpsoftwareblog.com/?p=105083</id>

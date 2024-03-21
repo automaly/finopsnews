@@ -1391,6 +1391,26 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=105095",
+          "author": "Cosmos Data Technologies",
+          "description": "Microsoft Dynamics 365 Business Central stands out as a versatile ERP solution, renowned for its customizability through extensions and apps. These enhancements allow businesses to tailor the cloud platform to […]\nThe post How to Streamline Your Reporting Process With Business Central Extensions and Apps appeared first on ERP Software Blog.\nRevolutionizing Production Scheduling: Unveiling MxAPS 4.7 for Business Central\n10 New Microsoft Partners Join Insight Works in September\nEnhance Shipping Functions in Business Central",
+          "link": "https://erpsoftwareblog.com/2024/03/streamline-reporting-with-business-central-extensions-and-apps/",
+          "publishedOn": "2024-03-20T12:52:33.000Z",
+          "wordCount": 5561,
+          "title": "How to Streamline Your Reporting Process With Business Central Extensions and Apps",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Cosmos-Reporting-BC-Extension-Header.webp"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=104971",
+          "author": "Insight Works",
+          "description": "Discover the power of Product Configurator, a versatile and easy-to-use app for Dynamics 365 Business Central, designed to simplify the creation of production BOMs and routings, enhance quote and order generation, and boost productivity across your organization.\nThe post Business Central's Next Generation: Boost Efficiency with Product Configurator v3.9 appeared first on ERP Software Blog.\nCustomize Your Microsoft Dynamics AX…?? Learn from Travel Industry\nWarehouse Insight Now Available for Dynamics 365 Business Central\nGetting More Out of GP During the Pandemic and Beyond",
+          "link": "https://erpsoftwareblog.com/2024/03/business-central-product-configuration-and-boms-creation/",
+          "publishedOn": "2024-03-20T10:02:21.000Z",
+          "wordCount": 7779,
+          "title": "Business Central's Next Generation: Boost Efficiency with Product Configurator v3.9",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Product-Configurator-250-1.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=105083",
           "author": "SmartBOL",
           "description": "SmartBOL® is designed to adapt to your unique requirements and processes while easily integrating with your MS Dynamics 365 WMS solutions. It adapts to your current processes and ensures a […]\nThe post The SmartBOL Customer Journey - Shipping Documentation, Signing, Digitization and Automation Solution appeared first on ERP Software Blog.\nSaaS, hosted or the cloud? Choosing the best solution for your rental company\nHow to monitor your open tasks easily in DynaRent\nRevolutionize Your Manufacturing Business with Integrated ERP/CRM",
@@ -6114,6 +6134,86 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/welsh-azure-user-group-march-2024-meet-up",
+          "author": "John Lunn",
+          "description": "It was the day of our Welsh Azure User Group #WAUG March 2024 meet up and we had yet another two amazing speakers join us. We were joined by Rolf […]",
+          "link": "https://365community.online/welsh-azure-user-group-march-2024-meet-up",
+          "publishedOn": "2024-03-20T21:15:11.000Z",
+          "wordCount": 3244,
+          "title": "Welsh Azure User Group March 2024 Meet Up!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Welsh-Azure-User-Group-March-2024-Meet-Up.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/fetchxml-improve-for-us-to-achieve-more",
+          "author": "Jonas Rapp ᴹᴠᴾ ??",
+          "description": "I got a challenge from my colleague at CRMK: I need to set owners on accounts with a team with the same name as the account. Mia @ CRMK Is […]",
+          "link": "https://365community.online/fetchxml-improve-for-us-to-achieve-more",
+          "publishedOn": "2024-03-20T21:00:16.000Z",
+          "wordCount": 3222,
+          "title": "FetchXML improve for us to achieve more",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/FetchXML-improve-for-us-to-achieve-more.png?fit=1200%2C761&ssl=1"
+        },
+        {
+          "id": "https://365community.online/options-for-documenting-your-power-apps-comments-code-and-controls",
+          "author": "Pieter Veenstra",
+          "description": "Within Power Apps there are various ways to document your app. In this post I’m looking at comments in Power Apps Options to documenting your code in Power Apps As […]",
+          "link": "https://365community.online/options-for-documenting-your-power-apps-comments-code-and-controls",
+          "publishedOn": "2024-03-20T20:03:04.000Z",
+          "wordCount": 3229,
+          "title": "Options for Documenting Your Power Apps: Comments, Code, and Controls",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/configuring-mailbox-in-microsoft-dynamics-365-ce-step-by-step-guide-youtube",
+          "author": "Manish chauhan",
+          "description": "Discover the seamless integration of email communication with Microsoft Dynamics 365 CE by configuring your mailbox with our comprehensive tutorial! #dynamics365community #microsoftcrm source",
+          "link": "https://365community.online/configuring-mailbox-in-microsoft-dynamics-365-ce-step-by-step-guide-youtube",
+          "publishedOn": "2024-03-20T09:23:22.000Z",
+          "wordCount": 3155,
+          "title": "Configuring Mailbox in Microsoft Dynamics 365 CE: Step-by-Step Guide – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1710934798_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-30-topic-12-part-3-youtube",
+          "author": "shabaz darr",
+          "description": "Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]",
+          "link": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-30-topic-12-part-3-youtube",
+          "publishedOn": "2024-03-20T09:00:27.000Z",
+          "wordCount": 3335,
+          "title": "AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Episode 30 – Topic 12: Part 3 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1710964167_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/resolved-invokerconnectionoverridefailed-error-when-a-power-app-custom-page-call-a-power-automate-flow",
+          "author": "Arun Potti",
+          "description": "Got the below error while I was working on a Power Automate flow, this flow will be called from a Power Apps Custom page. InvokerConnectionOverrideFailed. Failed to parse invoker connections […]",
+          "link": "https://365community.online/resolved-invokerconnectionoverridefailed-error-when-a-power-app-custom-page-call-a-power-automate-flow",
+          "publishedOn": "2024-03-20T04:52:24.000Z",
+          "wordCount": 3296,
+          "title": "Resolved – ‘InvokerConnectionOverrideFailed’ Error When a Power App Custom Page call a Power Automate Flow",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/image-29.png?fit=1200%2C283&ssl=1"
+        },
+        {
+          "id": "https://365community.online/fixed-the-xrm-workflow-table-row-could-not-be-found-error-power-automate",
+          "author": "Nishant Rana",
+          "description": "Recently while trying to open one of our cloud flows we got the below error. Error: The XRM workflow table row could not be found. Inside the Power Automate maker […]",
+          "link": "https://365community.online/fixed-the-xrm-workflow-table-row-could-not-be-found-error-power-automate",
+          "publishedOn": "2024-03-20T04:40:00.000Z",
+          "wordCount": 3316,
+          "title": "Fixed- The XRM workflow table row could not be found error (Power Automate)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Fixed-The-XRM-workflow-table-row-could-not-be-found.jpeg?fit=1200%2C799&ssl=1"
+        },
+        {
+          "id": "https://365community.online/power-pages-and-ai-copilots-lesson-1-youtube",
+          "author": "Victor Dantas",
+          "description": "Power Pages & Copilots Zero To Hero introduction (Victor Dantas) source",
+          "link": "https://365community.online/power-pages-and-ai-copilots-lesson-1-youtube",
+          "publishedOn": "2024-03-19T21:02:20.000Z",
+          "wordCount": 3130,
+          "title": "Power Pages and AI (Copilots) – Lesson 1 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1710904116_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
         {
           "id": "https://365community.online/dynamics-365-crm-and-sms-integration-for-smarter-sales-marketing-and-customer-service-processes",
           "author": "Inogic",
@@ -13728,6 +13828,21 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=5710",
+          "author": "Ludwig Reinhard",
+          "description": "[German language podcast] Willkommen zu unserem ersten Podcast im Jahr 2024. Heute sprechen wir mit John Hartholt, dem IT-Leiter von …\nContinue reading →",
+          "link": "https://dynamicsax-fico.com/2024/03/20/microsoft-bizapps-deutschland-podcast-26/",
+          "publishedOn": "2024-03-20T07:07:06.000Z",
+          "wordCount": 3442,
+          "title": "Microsoft BizApps Deutschland Podcast #26",
+          "enclosure": {
+            "url": "https://dynamicsaxfico.files.wordpress.com/2024/01/2024-01-15_johnhartholdbremen_v2.mp3",
+            "length": "36135790",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2024/01/collagev1.jpg"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=5574",
           "author": "Ludwig Reinhard",
           "description": "Special thanks to Nataliia Sukhanova, Ewa Watkins and Chloe Zhang for their reviews, comments, feedback and suggestions for improvement.",
@@ -13974,6 +14089,16 @@
       "feedUrl": "https://dynamicspedia.com/feed/",
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
+        {
+          "id": "https://dynamicspedia.com/?p=19020",
+          "author": "André Arnaud de Calavon",
+          "description": "Security in Dynamics 365 Finance and Operations (F&O) is not easy. When you want to define custom roles, this also has a licensing impact. Sometimes, you expect a particular license for your role, but the application states something different. In this post, I will provide a scenario where the license expectation is a Team members […]\nThe post Help! My configured read-only role requires an operations or activity license appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2024/03/help-my-configured-read-only-role-requires-an-operations-or-activity-license/",
+          "publishedOn": "2024-03-20T13:32:35.000Z",
+          "wordCount": 4287,
+          "title": "Help! My configured read-only role requires an operations or activity license",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2024/03/ReadOnlyIncorrect.jpg"
+        },
         {
           "id": "https://dynamicspedia.com/?p=19000",
           "author": "André Arnaud de Calavon",
@@ -18273,6 +18398,16 @@
       "feedUrl": "https://elearnd365.com/feed/",
       "siteUrl": "https://elearnd365.com",
       "articles": [
+        {
+          "id": "http://elearnd365.com/?p=849",
+          "author": "Sukrut Parab",
+          "description": "In this blog post I will outline the process for data migration in project management and accounting module in D365 FO. With most of the D365 apps connected now through power platform integration and with the introduction of project operations, now days in implementations you must be using project management and accounting module. Mapping customer […]",
+          "link": "https://elearnd365.com/2024/03/20/data-migration-in-project-management-and-accounting-module-in-d365-finance-and-supply-chain/",
+          "publishedOn": "2024-03-20T21:41:11.000Z",
+          "wordCount": 4174,
+          "title": "Data migration in Project Management and accounting module in D365 Finance and Supply chain",
+          "imageUrl": "https://elearnd365.files.wordpress.com/2024/03/data-migration.jpg?w=1200"
+        },
         {
           "id": "http://elearnd365.com/?p=812",
           "author": "Sukrut Parab",
