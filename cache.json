@@ -1391,6 +1391,56 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=105210",
+          "author": "x2x eCommerce",
+          "description": "Collection Management in x2x Dynamics GP-Shopify Integration streamlines inventory and sales processes, ensuring consistency across platforms. Collections are an integral part of eCommerce stores for smooth navigation and better user […]\nThe post Collection Management in x2x Dynamics GP-Shopify Integration appeared first on ERP Software Blog.\nConfigure Shipping Methods & Rates in Shopify & Synchronize them to Dynamics GP through Integration\nSetting up the Integration Solution: Dynamics GP & Shopify\nManaging Product Information in GP and Shopify Integration",
+          "link": "https://erpsoftwareblog.com/2024/03/collection-management-in-x2x-dynamics-gp-shopify-integration/",
+          "publishedOn": "2024-03-22T23:06:31.000Z",
+          "wordCount": 5048,
+          "title": "Collection Management in x2x Dynamics GP-Shopify Integration",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Add-a-subheading-53-300x169.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105211",
+          "author": "NAVtoBC",
+          "description": "If your organization is running Microsoft Dynamics NAV, you likely know that Microsoft has retired the platform. There will no longer be update releases or new functionality for NAV in […]\nThe post How to Get a Fixed-Price Dynamics NAV to Dynamics 365 Business Central Upgrade Quote appeared first on ERP Software Blog.\nFour Reasons to Upgrade Your Dynamics ERP Solution\nSelecting the Right ERP: Cloud or On-premises?\n10 Phases Included in a Dynamics GP Implementation Project Plan",
+          "link": "https://erpsoftwareblog.com/2024/03/get-fixed-price-dynamics-nav-to-dynamics-365-business-central-upgrade-quote/",
+          "publishedOn": "2024-03-22T17:49:42.000Z",
+          "wordCount": 7055,
+          "title": "How to Get a Fixed-Price Dynamics NAV to Dynamics 365 Business Central Upgrade Quote",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/NavtoBc-Blog-Header-LinkedIn.png"
+        },
+        {
+          "id": "https://www.erpsoftwareblog.com/?p=100277",
+          "author": "Fidesic AP",
+          "description": "Beginning December 1, 2023, Bill.com has ended support for direct sync with Microsoft Dynamics GP (Great Plains).The company says it made the decision based on Microsoft’s current Dynamics GP roadmap. […]\nThe post What Happened to My Bill(.com) Integration for Dynamics GP (Great Plains) appeared first on ERP Software Blog.\nACH Payments in GP & Bringing Great Plains into the Future\nThe Struggle to Hire an Accounts Payable Clerk\nHow to Create a Great Plains Accounts Payable Aging Report and Why",
+          "link": "https://erpsoftwareblog.com/2024/03/bill-com-to-end-sync-support-for-dynamics-gp-dec-2023/",
+          "publishedOn": "2024-03-22T15:35:28.000Z",
+          "wordCount": 5082,
+          "title": "What Happened to My Bill(.com) Integration for Dynamics GP (Great Plains)",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/billl-ap-support-for-microsoft-dynamics-gp-great-plains-sync-endingerpswb.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105202",
+          "author": "ERP Software Blog Writer",
+          "description": "Directions NA had an astonishing 425 session submissions this year. The good news is that this is an amazing testimony to the wealth of knowledge within our Microsoft Dynamics channel […]\nThe post Inside Look at How Sessions Were Selected for Directions NA 2024 Plus Full Session List appeared first on ERP Software Blog.\nGet More in the Cloud with Dynamics 365 Business Central\nFive Tools Microsoft Dynamics 365 BC/NAV Users Need to See in the October Financial Tools Showcase\nDemos of 5 Top Financial Tools for Dynamics 365 Business Central/NAV in the MSDW March Showcase",
+          "link": "https://erpsoftwareblog.com/2024/03/inside-look-at-how-sessions-were-selected-for-directions-na-2024-plus-full-session-list/",
+          "publishedOn": "2024-03-22T15:23:50.000Z",
+          "wordCount": 7248,
+          "title": "Inside Look at How Sessions Were Selected for Directions NA 2024 Plus Full Session List",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ad-registration-1200x600-1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105163",
+          "author": "Insight Works",
+          "description": "Insight Works' Barcode Generator PowerTool app now supports GS1-128 barcodes, boosting Dynamics 365 Business Central's supply chain and compliance capabilities.\nThe post Dynamics 365 Business Central Now Supports GS1-128 Barcodes via an Insight Works App appeared first on ERP Software Blog.\nWarehouse Insight Now Available for Dynamics 365 Business Central\nQuote Generation with Product Configurator for Business Central\nFree Business Central Apps to Fill the Gaps",
+          "link": "https://erpsoftwareblog.com/2024/03/dynamics-365-business-central-now-supports-gs1-128-barcodes-via-an-insight-works-app/",
+          "publishedOn": "2024-03-22T11:01:45.000Z",
+          "wordCount": 5170,
+          "title": "Dynamics 365 Business Central Now Supports GS1-128 Barcodes via an Insight Works App",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/GS1-128-Barcode.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=105191",
           "author": "Korcomptenz Inc",
           "description": "All businesses continuously pursue streamlined operations and heightened efficiency. One potent synergy that has surfaced is the fusion of SAP HANA and Microsoft Power Platform. This fusion enables businesses to […]\nThe post Key Techniques for Seamless Integration of SAP HANA and Microsoft Power Platform appeared first on ERP Software Blog.\n17 Most Commonly Overlooked Set-Up and On-Going Use Issues in Microsoft Dynamics GP\nNobody Wants to Experience an ACA Audit\nDo All Manufacturers Need the Extended Pack in Dynamics GP?",
@@ -5808,6 +5858,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=61755",
+          "author": "Don McNulty",
+          "description": "Changes in Charts, Vendors, Customers & Items in Dynamics GP (Video)\nDid you know that Dynamics GP offers the ability to change and merge accounts, items, vendors, and customers to clean up your data for more efficient use? We will show how this is done as well as tips on large scale changes. ﻿﻿﻿﻿﻿﻿ Transcript below: – [Katie] Hello, everyone. Thank you for joining us today...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/changes-in-charts-vendors-customers-items-in-dynamics-gp/",
+          "publishedOn": "2024-03-22T13:51:28.000Z",
+          "wordCount": 6358,
+          "title": "Changes in Charts, Vendors, Customers & Items in Dynamics GP (Video)",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Dynamics-GP-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=61726",
           "author": "LMS365",
           "description": "How to Boost Employee Learning with LMS365 Freemium \nThe world of work is changing rapidly, and so are the skills and competencies that employees need to succeed. To keep up with the pace of innovation and stay ahead of the competition, organizations need to invest in continuous learning and development for their workforce. But how can they do that effectively and efficiently, without...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -6234,6 +6294,76 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/business-central-2024-release-wave1-launch-event-april-4-10",
+          "author": "Roberto Stefanetti",
+          "description": "Business Central 2024 release wave1 Launch Event – April 4-10   What to expect Dynamics 365 Business Central 2024 release wave 1 will go live on April 2 Enjoy game-changing […]",
+          "link": "https://365community.online/business-central-2024-release-wave1-launch-event-april-4-10",
+          "publishedOn": "2024-03-22T10:22:30.000Z",
+          "wordCount": 3260,
+          "title": "Business Central 2024 release wave1 Launch Event – April 4-10",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/enhanced-way-of-handling-attachments-of-emails",
+          "author": "Inogic",
+          "description": "Introduction: Microsoft has introduced a noteworthy addition to the Wave 2 release, enhancing the attachment experience within emails. This feature empowers agents, allowing them to work with attachments more efficiently, […]",
+          "link": "https://365community.online/enhanced-way-of-handling-attachments-of-emails",
+          "publishedOn": "2024-03-22T09:18:00.000Z",
+          "wordCount": 3495,
+          "title": "Enhanced way of Handling Attachments of Emails",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/image001.png?fit=1200%2C548&ssl=1"
+        },
+        {
+          "id": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-32-topic-14-part-1-youtube",
+          "author": "shabaz darr",
+          "description": "Welcome to a brand new series which is all around the AZ 140 – Configuring and Operating Microsoft Azure Virtual Desktop Exam Study Guide. This series goes through all the […]",
+          "link": "https://365community.online/az-140-configuring-and-operating-microsoft-azure-virtual-desktop-episode-32-topic-14-part-1-youtube",
+          "publishedOn": "2024-03-22T09:00:35.000Z",
+          "wordCount": 3297,
+          "title": "AZ 140: Configuring and Operating Microsoft Azure Virtual Desktop – Episode 32 – Topic 14: Part 1 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1711123030_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/power-pages-and-ai-copilots-lesson-2-youtube",
+          "author": "Victor Dantas",
+          "description": "Power Pages & Copilots Zero To Hero introduction to the “ProPilot” concept. source",
+          "link": "https://365community.online/power-pages-and-ai-copilots-lesson-2-youtube",
+          "publishedOn": "2024-03-22T04:30:02.000Z",
+          "wordCount": 3133,
+          "title": "Power Pages and AI (Copilots) – Lesson 2 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1711139966_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/arunpotti-coms-10th-year-anniversary",
+          "author": "Arun Potti",
+          "description": "Dear Readers, Followers, and Dynamics CRM Enthusiasts, I am delighted and honored to announce the momentous occasion of the 10th anniversary of ArunPotti.com. It’s with immense joy and gratitude that […]",
+          "link": "https://365community.online/arunpotti-coms-10th-year-anniversary",
+          "publishedOn": "2024-03-21T23:25:44.000Z",
+          "wordCount": 3259,
+          "title": "ArunPotti.com’s 10th Year Anniversary!!!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/image-97.png?fit=711%2C467&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-optimize-fetching-the-same-value-again-and-again",
+          "author": "harditbhatia",
+          "description": "Do you fetch the same record multiple times in an app? Do you really need to? Is there a better way to do it? Learn how! The post How to […]",
+          "link": "https://365community.online/how-to-optimize-fetching-the-same-value-again-and-again",
+          "publishedOn": "2024-03-21T16:43:38.000Z",
+          "wordCount": 3211,
+          "title": "How to optimize fetching the same value again and again",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/How-to-optimize-fetching-the-same-value-again-and-again.jpg?fit=1200%2C900&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-increase-performance-by-trashing-extra-screens-and-controls",
+          "author": "harditbhatia",
+          "description": "Screens and controls are the building blocks of an app. As their count increases, performance suffers. Learn how to minimize them! The post How to increase performance by trashing extra […]",
+          "link": "https://365community.online/how-to-increase-performance-by-trashing-extra-screens-and-controls",
+          "publishedOn": "2024-03-21T15:06:55.000Z",
+          "wordCount": 3201,
+          "title": "How to increase performance by trashing extra screens and controls",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/How-to-increase-performance-by-trashing-extra-screens-and-controls.jpg?fit=1200%2C900&ssl=1"
+        },
         {
           "id": "https://365community.online/acciones-basadas-en-la-fecha-solicitada-para-planning-optimization",
           "author": "Juan Bravo Vargas",
@@ -17980,6 +18110,16 @@
       "feedUrl": "https://paragchapre.com/feed/",
       "siteUrl": "https://paragchapre.com",
       "articles": [
+        {
+          "id": "https://paragchapre.com/?p=12817",
+          "author": "paragchapre@gmail.com",
+          "description": "Explore the revolutionary approach to course management with Dynamics 365 Human Resources, leveraging the power of OpenAI and X++ programming. Discover how this innovative integration enhances learning experiences, streamlines administration, and empowers organizations to optimize their training initiatives.\nThe post Revolutionizing Course Management: Harnessing OpenAI and X++ in Dynamics 365 Human Resources appeared first on Parag Chapre.",
+          "link": "https://paragchapre.com/course-management-dynamics-365-hr/",
+          "publishedOn": "2024-03-22T03:19:02.000Z",
+          "wordCount": 2455,
+          "title": "Revolutionizing Course Management: Harnessing OpenAI and X++ in Dynamics 365 Human Resources",
+          "imageUrl": "https://paragchapre.com/wp-content/uploads/2024/03/Revolutionizing-Course-Management.png"
+        },
         {
           "id": "https://paragchapre.com/?p=12666",
           "author": "paragchapre@gmail.com",
