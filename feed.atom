@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-03-23T00:37:05.154Z</updated>
+    <updated>2024-03-24T00:42:49.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Little useless-useful R functions – Reverse Hello World]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=9964</id>
+        <link href="https://tomaztsql.wordpress.com/2024/03/23/little-useless-useful-r-functions-reverse-hello-world/"/>
+        <updated>2024-03-23T17:26:09.000Z</updated>
+        <summary type="html"><![CDATA[You know the feeling after long vacation and finally sitting in front of your favourite UI and even forgot how to write simplest “hello world” or “foo bar” function? Well, we got you covered! The reverse Hello world function is…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webinar: Take Control of Alerts & Notifications in Your Dynamics 365 CRM with Alerts4Dynamics!]]></title>
+        <id>https://365community.online/webinar-take-control-of-alerts-notifications-in-your-dynamics-365-crm-with-alerts4dynamics</id>
+        <link href="https://365community.online/webinar-take-control-of-alerts-notifications-in-your-dynamics-365-crm-with-alerts4dynamics"/>
+        <updated>2024-03-23T11:41:04.000Z</updated>
+        <summary type="html"><![CDATA[You’re in the midst of a busy day, juggling multiple tasks in Dynamics 365 CRM. A new lead comes but it gets buried in all the emails. Or you missed […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Collection Management in x2x Dynamics GP-Shopify Integration]]></title>
         <id>https://erpsoftwareblog.com/?p=105210</id>
@@ -21,6 +42,16 @@ Managing Product Information in GP and Shopify Integration]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AI Prompts with AI Builder]]></title>
+        <id>https://365community.online/ai-prompts-with-ai-builder</id>
+        <link href="https://365community.online/ai-prompts-with-ai-builder"/>
+        <updated>2024-03-22T21:24:23.000Z</updated>
+        <summary type="html"><![CDATA[Yesterday I was hosting a webinar with Microsoft team about AI and HR. While demoing a great model-driven app one of my colleagues created (Denisa ), I made a beginner’s […]]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Get a Fixed-Price Dynamics NAV to Dynamics 365 Business Central Upgrade Quote]]></title>
         <id>https://erpsoftwareblog.com/?p=105211</id>
         <link href="https://erpsoftwareblog.com/2024/03/get-fixed-price-dynamics-nav-to-dynamics-365-business-central-upgrade-quote/"/>
@@ -32,6 +63,46 @@ Selecting the Right ERP: Cloud or On-premises?
 10 Phases Included in a Dynamics GP Implementation Project Plan]]></summary>
         <author>
             <name>NAVtoBC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL Server: how-to check info about Indexes, Locks & Deadlocks]]></title>
+        <id>https://365community.online/sql-server-how-to-check-info-about-indexes-locks-deadlocks</id>
+        <link href="https://365community.online/sql-server-how-to-check-info-about-indexes-locks-deadlocks"/>
+        <updated>2024-03-22T16:25:36.000Z</updated>
+        <summary type="html"><![CDATA[SQL Server: how-to check info about Indexes, Locks & Deadlocks In this short post, I attach some examples on how to recover some information relating to SQL Server indexes, locks […]]]></summary>
+        <author>
+            <name>Roberto Stefanetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hej från Jonas – YouTube]]></title>
+        <id>https://365community.online/hej-fran-jonas-youtube</id>
+        <link href="https://365community.online/hej-fran-jonas-youtube"/>
+        <updated>2024-03-22T16:20:07.000Z</updated>
+        <summary type="html"><![CDATA[En inbjudan till Scottish Summit från Jonas source]]></summary>
+        <author>
+            <name>Scottish Summit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will McLendon Wants to Chat – YouTube]]></title>
+        <id>https://365community.online/will-mclendon-wants-to-chat-youtube</id>
+        <link href="https://365community.online/will-mclendon-wants-to-chat-youtube"/>
+        <updated>2024-03-22T16:15:41.000Z</updated>
+        <summary type="html"><![CDATA[Who will you see at Scottish Summit 2024? source]]></summary>
+        <author>
+            <name>Scottish Summit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[En besked fra Vivian – YouTube]]></title>
+        <id>https://365community.online/en-besked-fra-vivian-youtube</id>
+        <link href="https://365community.online/en-besked-fra-vivian-youtube"/>
+        <updated>2024-03-22T16:11:55.000Z</updated>
+        <summary type="html"><![CDATA[En invitation til Scottish Summit fra Vivian source]]></summary>
+        <author>
+            <name>Scottish Summit</name>
         </author>
     </entry>
     <entry>
@@ -97,6 +168,16 @@ Free Business Central Apps to Fill the Gaps]]></summary>
         <summary type="html"><![CDATA[Business Central 2024 release wave1 Launch Event – April 4-10   What to expect Dynamics 365 Business Central 2024 release wave 1 will go live on April 2 Enjoy game-changing […]]]></summary>
         <author>
             <name>Roberto Stefanetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turbocharge Sales Efficiency with maps integrated within Dynamics 365]]></title>
+        <id>https://365community.online/turbocharge-sales-efficiency-with-maps-integrated-within-dynamics-365</id>
+        <link href="https://365community.online/turbocharge-sales-efficiency-with-maps-integrated-within-dynamics-365"/>
+        <updated>2024-03-22T10:17:06.000Z</updated>
+        <summary type="html"><![CDATA[The post Turbocharge Sales Efficiency with maps integrated within Dynamics 365 appeared first on Blog | Maplytics. Source link]]></summary>
+        <author>
+            <name>Inogic</name>
         </author>
     </entry>
     <entry>
