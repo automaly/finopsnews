@@ -6305,6 +6305,36 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/d365-fo-10-0-39-revised-release-notes",
+          "author": "Anitha Santosh",
+          "description": "Due to certain impediments, the release of version 10.0.39 has been postponed, and it is now slated to be released in April alongside a fresh array of features. General availability […]",
+          "link": "https://365community.online/d365-fo-10-0-39-revised-release-notes",
+          "publishedOn": "2024-03-24T21:23:00.000Z",
+          "wordCount": 3235,
+          "title": "D365 FO 10.0.39 revised release notes",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-make-a-power-apps-screen-accessible",
+          "author": "harditbhatia",
+          "description": "Do you know which is the most frequently used control in Power Apps? The screen control! Learn a few simple steps to make it accessible! The post How to make […]",
+          "link": "https://365community.online/how-to-make-a-power-apps-screen-accessible",
+          "publishedOn": "2024-03-24T08:14:27.000Z",
+          "wordCount": 3202,
+          "title": "How to make a Power Apps screen accessible?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/How-to-make-a-Power-Apps-screen-accessible.jpg?fit=1200%2C800&ssl=1"
+        },
+        {
+          "id": "https://365community.online/what-is-accessibility-and-why-is-it-important-in-power-apps",
+          "author": "harditbhatia",
+          "description": "What is accessibility? Is it important? Is it relevant to Power Apps? Here’s an introduction to accessibility in general and in Power Apps! The post What is accessibility and why […]",
+          "link": "https://365community.online/what-is-accessibility-and-why-is-it-important-in-power-apps",
+          "publishedOn": "2024-03-24T06:45:38.000Z",
+          "wordCount": 3213,
+          "title": "What is accessibility and why is it important in Power Apps",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/What-is-accessibility-and-why-is-it-important-in-Power.jpg?fit=1200%2C802&ssl=1"
+        },
+        {
           "id": "https://365community.online/webinar-take-control-of-alerts-notifications-in-your-dynamics-365-crm-with-alerts4dynamics",
           "author": "Inogic",
           "description": "You’re in the midst of a busy day, juggling multiple tasks in Dynamics 365 CRM. A new lead comes but it gets buried in all the emails. Or you missed […]",
@@ -15344,6 +15374,26 @@
       "feedUrl": "https://anithasantosh.wordpress.com/feed/",
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=3432",
+          "author": "AnithaEswaran",
+          "description": "Microsoft is dedicated to providing consistent service updates. These updates are typically made accessible for self-deployment prior to Microsoft implementing automatic updates. The timing of self-update package release compared to production autoupdates may vary. Please refer to my earlier post … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2024/03/24/d365fo-service-updates/",
+          "publishedOn": "2024-03-24T21:56:13.000Z",
+          "wordCount": 4530,
+          "title": "D365FO Service updates",
+          "imageUrl": "https://anithasantosh.wordpress.com/wp-content/uploads/2024/03/image.png"
+        },
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=3430",
+          "author": "AnithaEswaran",
+          "description": "Due to certain impediments, the release of version 10.0.39 has been postponed, and it is now slated to be released in April alongside a fresh array of features.",
+          "link": "https://anithasantosh.wordpress.com/2024/03/24/d365-fo-10-0-39-revised-release-notes/",
+          "publishedOn": "2024-03-24T21:23:00.000Z",
+          "wordCount": 4296,
+          "title": "D365 FO 10.0.39 revised release notes",
+          "imageUrl": "https://anithasantosh.wordpress.com/wp-content/uploads/2023/06/community_5f00_badge_5f00_logo_2d00_01.png?w=143"
+        },
         {
           "id": "http://anithasantosh.wordpress.com/?p=3425",
           "author": "AnithaEswaran",

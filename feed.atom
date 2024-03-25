@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-03-24T00:42:49.603Z</updated>
+    <updated>2024-03-25T00:39:45.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[D365FO Service updates]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=3432</id>
+        <link href="https://anithasantosh.wordpress.com/2024/03/24/d365fo-service-updates/"/>
+        <updated>2024-03-24T21:56:13.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft is dedicated to providing consistent service updates. These updates are typically made accessible for self-deployment prior to Microsoft implementing automatic updates. The timing of self-update package release compared to production autoupdates may vary. Please refer to my earlier post … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 FO 10.0.39 revised release notes]]></title>
+        <id>https://365community.online/d365-fo-10-0-39-revised-release-notes</id>
+        <link href="https://365community.online/d365-fo-10-0-39-revised-release-notes"/>
+        <updated>2024-03-24T21:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Due to certain impediments, the release of version 10.0.39 has been postponed, and it is now slated to be released in April alongside a fresh array of features. General availability […]]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 FO 10.0.39 revised release notes]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=3430</id>
+        <link href="https://anithasantosh.wordpress.com/2024/03/24/d365-fo-10-0-39-revised-release-notes/"/>
+        <updated>2024-03-24T21:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Due to certain impediments, the release of version 10.0.39 has been postponed, and it is now slated to be released in April alongside a fresh array of features.]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to make a Power Apps screen accessible?]]></title>
+        <id>https://365community.online/how-to-make-a-power-apps-screen-accessible</id>
+        <link href="https://365community.online/how-to-make-a-power-apps-screen-accessible"/>
+        <updated>2024-03-24T08:14:27.000Z</updated>
+        <summary type="html"><![CDATA[Do you know which is the most frequently used control in Power Apps? The screen control! Learn a few simple steps to make it accessible! The post How to make […]]]></summary>
+        <author>
+            <name>harditbhatia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is accessibility and why is it important in Power Apps]]></title>
+        <id>https://365community.online/what-is-accessibility-and-why-is-it-important-in-power-apps</id>
+        <link href="https://365community.online/what-is-accessibility-and-why-is-it-important-in-power-apps"/>
+        <updated>2024-03-24T06:45:38.000Z</updated>
+        <summary type="html"><![CDATA[What is accessibility? Is it important? Is it relevant to Power Apps? Here’s an introduction to accessibility in general and in Power Apps! The post What is accessibility and why […]]]></summary>
+        <author>
+            <name>harditbhatia</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Little useless-useful R functions – Reverse Hello World]]></title>
         <id>http://tomaztsql.wordpress.com/?p=9964</id>
