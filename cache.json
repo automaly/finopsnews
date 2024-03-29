@@ -1401,6 +1401,86 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=105386",
+          "author": "Jason Ochipa, Tensoft Inc.",
+          "description": "You can set up default forms or reports in Microsoft Dynamics 365 Business Central. Search for Report Selection in Business Central. You’ll see the various functional areas where you can […]\nThe post How to Set Default Reports in Microsoft Dynamics 365 Business Central appeared first on ERP Software Blog.\nHow to Customize Report Layouts in Business Central\nOData Reporting in Microsoft Dynamics 365 Business Central\nRecurring Reports in Microsoft Dynamics 365 Business Central",
+          "link": "https://erpsoftwareblog.com/2024/03/how-to-set-default-reports-in-microsoft-dynamics-365-business-central/",
+          "publishedOn": "2024-03-28T23:12:56.000Z",
+          "wordCount": 7640,
+          "title": "How to Set Default Reports in Microsoft Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Report-Selection-Sales.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105342",
+          "author": "360 Visibility",
+          "description": "Ever feel like you're on a quest to find the ultimate solution for a software transition? Well, we’ve got it: the Business Impact Assessment (BIA). The strategic tool is designed […]\nThe post Navigating Software Transitions with a Business Impact Assessment appeared first on ERP Software Blog.\nLeasing Company Realizes a 93% Increase in Efficiency with Recurring Contract Billing, a Third Party Add On for Microsoft Dynamics GP\nReporting Fail?  Keys to Avoiding Weak Executive Dashboards\nBPM Partners Survey Shows a New Era of Competition in Corporate Planning as deFacto Joins Elite Group",
+          "link": "https://erpsoftwareblog.com/2024/03/business-impact-assessment/",
+          "publishedOn": "2024-03-28T18:46:04.000Z",
+          "wordCount": 5362,
+          "title": "Navigating Software Transitions with a Business Impact Assessment",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Screenshot-2024-03-28-142951-1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105357",
+          "author": "Sabre Limited",
+          "description": "The cost of Dynamics 365 for manufacturing can seem elusive. You need to pay a one-time implementation fee, monthly support to your consultants or support partner, license fees, add-ons etc. […]\nThe post Dynamics 365 Cost for Manufacturing Companies (Part 3/3) appeared first on ERP Software Blog.\n6 Myths About Digital Solutions\nOrder Fulfillment Worksheet v1.3: Enhancing Efficiency in Warehouse Operations\nEuropean Webinar: Navigating Seamless Shipping with Dynamics 365 Business Central",
+          "link": "https://erpsoftwareblog.com/2024/03/dynamics-365-cost-for-manufacturing-companies-part-3/",
+          "publishedOn": "2024-03-28T18:44:37.000Z",
+          "wordCount": 5421,
+          "title": "Dynamics 365 Cost for Manufacturing Companies (Part 3/3)",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Inventory-Reports-Mail-Image.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105356",
+          "author": "Sabre Limited",
+          "description": "If you haven’t already read Part 1 of uncovering the cost of Dynamics 365 Business Central for manufacturing I suggest you do that. In the first part we figured out […]\nThe post Dynamics 365 Cost for Manufacturing Companies (Part 2/3) appeared first on ERP Software Blog.\n6 Myths About Digital Solutions\nNow Available Globally: Order Ship Express for Business Central\nMaximizing Efficiency: The Impact of Cloud-Based ERP on Manufacturing Operations",
+          "link": "https://erpsoftwareblog.com/2024/03/dynamics-365-cost-for-manufacturing-companies-part-2/",
+          "publishedOn": "2024-03-28T18:44:35.000Z",
+          "wordCount": 7857,
+          "title": "Dynamics 365 Cost for Manufacturing Companies (Part 2/3)",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/enterprise-resource-management-erp-software-system-business-resources-plan-2.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105353",
+          "author": "Sabre Limited",
+          "description": "If you’re a manufacturer exploring the cost of Dynamics 365 Business Central, it’s important to understand the full spectrum of costs involved. You will have a one time implementation fee […]\nThe post Dynamics 365 Cost for Manufacturing Companies (Part 1/3) appeared first on ERP Software Blog.\nMicrosoft Dynamics Business Central Manufacturer Smooths Out Rocky Processes\n3 Ways Mobile Field Service Software Helps Organizations Achieve Operational Excellence\nWhat industry newbies can learn from “The State of Dynamics 365 Business Central and Manufacturing Report”",
+          "link": "https://erpsoftwareblog.com/2024/03/dynamics-365-cost-for-manufacturing-companies-part-1/",
+          "publishedOn": "2024-03-28T18:44:17.000Z",
+          "wordCount": 5754,
+          "title": "Dynamics 365 Cost for Manufacturing Companies (Part 1/3)",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/manager-supervisor-industrial-worker-uniform-walking-large-metal-factory-hall-talking-about-increasing-production.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105233",
+          "author": "ERP Software Blog Writer",
+          "description": "Who are you looking forward to meeting at Directions NA? In addition to the 145 sessions delivering technical insights, a main highlight of Directions NA is the chance to talk […]\nThe post Directions NA 2024 Sponsors appeared first on ERP Software Blog.\nBest ERP Software, or Beyond ERP?\n25 ERP Software Blog Members Honored as 2013 VAR Stars\nCreate SmartList from Favorites Using SmartList Designer",
+          "link": "https://erpsoftwareblog.com/2024/03/directions-na-2024-sponsors/",
+          "publishedOn": "2024-03-28T16:52:00.000Z",
+          "wordCount": 5242,
+          "title": "Directions NA 2024 Sponsors",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Directions-North-America-Logo-for-White-Background.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105319",
+          "author": "Avalara",
+          "description": "Whether you’re a small brick-and-mortar retailer, a midsize manufacturer, or a global enterprise company, you’ll probably be affected by a tax law change in 2024 because tax changes happen to […]\nThe post Tax law changes you need to know for 2024 appeared first on ERP Software Blog.\nHow QuickBooks Users Can Achieve Success with Microsoft Dynamics GP?\nGPS has exciting new possibilities to offer to the rental industry\nCan your business spend less on sales tax compliance?",
+          "link": "https://erpsoftwareblog.com/2024/03/tax-law-changes-you-need-to-know-for-2024/",
+          "publishedOn": "2024-03-28T14:40:19.000Z",
+          "wordCount": 6150,
+          "title": "Tax law changes you need to know for 2024",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Blog-ATC-2024-Hero.avacustomrendition.2100.0.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105316",
+          "author": "Dynamics Square UK",
+          "description": "Integrating ERP solutions with your e-commerce platform is a strategic necessity for any online retail operation. It aligns backend operations—like inventory management, order processing, and customer relationship management—with your online […]\nThe post How to Seamlessly Integrate ERP Solutions With Your Online Store appeared first on ERP Software Blog.\nWe Are Going to Convergence Europe 2015, @Booth 81\nSolving Wholesale E-Commerce Challenges: Century Martial Arts [Case Study]\nHow to build a better B2B eCommerce customer experience",
+          "link": "https://erpsoftwareblog.com/2024/03/integrate-erp-solutions-with-online-store/",
+          "publishedOn": "2024-03-28T09:57:17.000Z",
+          "wordCount": 7005,
+          "title": "How to Seamlessly Integrate ERP Solutions With Your Online Store",
+          "imageUrl": "https://cdn.shopify.com/app-store/listing_images/63093a57eda927d44c8428783c689009/desktop_screenshot/CPyf2ungpPYCEAE=.png?height=900&width=1600"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=105283",
           "author": "iCepts Technology Group, Inc.",
           "description": "Microsoft Dynamics 365 Business Central is an all-in-one business management solution that’s easy to use and adapt, helping you connect your business and make smarter decisions.  Built on extensive business functionality, this […]\nThe post 10 Ways Microsoft Business Central is a Great ERP System for Employees appeared first on ERP Software Blog.\nEZ Start Business Central Implementation Plans\nThe worst mistake a Dynamics 365 Business Central / NAV customer can make\nMRP In Microsoft Business Central",
@@ -6455,6 +6535,46 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/fixed-web-resource-method-does-not-exist-onload-error-in-work-order-work-order-service-task-and-other-forms-in-dynamics-365-field-service",
+          "author": "Nishant Rana",
+          "description": "Recently we started getting the below error on the form load of the Work Order Service Task record, that also only in specific environments, and there was no changes made […]",
+          "link": "https://365community.online/fixed-web-resource-method-does-not-exist-onload-error-in-work-order-work-order-service-task-and-other-forms-in-dynamics-365-field-service",
+          "publishedOn": "2024-03-28T17:09:20.000Z",
+          "wordCount": 3335,
+          "title": "Fixed – Web resource method does not exist: OnLoad error in Work Order, Work Order Service task, and other forms in Dynamics 365 Field Service",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Fixed-–-Web-resource-method-does-not-exist-OnLoad-error.jpeg?fit=1082%2C822&ssl=1"
+        },
+        {
+          "id": "https://365community.online/copilot-building-an-accessible-future",
+          "author": "Mike Hartley",
+          "description": "Unless you’ve been living under a rock, you will have heard talk of Microsoft Copilots. These are the generative AI driven assistants and aids that are appearing in about all […]",
+          "link": "https://365community.online/copilot-building-an-accessible-future",
+          "publishedOn": "2024-03-28T11:59:12.000Z",
+          "wordCount": 3195,
+          "title": "Copilot. Building an Accessible Future",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Copilot-Building-an-Accessible-Future.png?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/a-guide-to-integrating-google-re-captcha-in-power-pages",
+          "author": "Inogic",
+          "description": "As we know, Google’s re-CAPTCHA service incorporates various mechanisms, including advanced risk analysis and adaptive challenges, to differentiate between legitimate users and potential bots or malicious actors. By analysing user […]",
+          "link": "https://365community.online/a-guide-to-integrating-google-re-captcha-in-power-pages",
+          "publishedOn": "2024-03-28T09:30:55.000Z",
+          "wordCount": 3494,
+          "title": "A Guide to Integrating Google re-Captcha in Power Pages",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Integrate-Google-re-Captcha-in-Power-Pages-1.png?fit=1200%2C654&ssl=1"
+        },
+        {
+          "id": "https://365community.online/rec-locktable-good-practice-or-bad-practice",
+          "author": "Waldo",
+          "description": "Sometimes, “best practices” turn into “bad practices”.  And recently, with one of the best new features of Business Central that just fell in our laps (most users probably won’t realize), […]",
+          "link": "https://365community.online/rec-locktable-good-practice-or-bad-practice",
+          "publishedOn": "2024-03-28T07:00:00.000Z",
+          "wordCount": 3216,
+          "title": "Rec.LockTable – Good Practice?  Or Bad Practice?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/RecLockTable-–-Good-Practice-Or-Bad-Practice.gif?fit=300%2C299&ssl=1"
+        },
+        {
           "id": "https://365community.online/refreshed-look-of-solution-dependencies-in-dataverse-solutions",
           "author": "Arun Potti",
           "description": "Microsoft has announced the refreshed look of solution dependencies for solution objects. This new page is well organized, easy to understand and can see some important actions to identify the […]",
@@ -6465,6 +6585,16 @@
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/dataverse.png?fit=1199%2C405&ssl=1"
         },
         {
+          "id": "https://365community.online/the-architect-of-change-craig-white-unpacks-the-power-of-low-code-innovation-youtube",
+          "author": "NZ365Guy",
+          "description": "The Architect of Change Craig White Unpacks the Power of Low-Code Innovation Craig White, an ecosystem architect at ANS Group, shares his journey into the tech industry and his passion […]",
+          "link": "https://365community.online/the-architect-of-change-craig-white-unpacks-the-power-of-low-code-innovation-youtube",
+          "publishedOn": "2024-03-27T14:14:59.000Z",
+          "wordCount": 4184,
+          "title": "The Architect of Change Craig White Unpacks the Power of Low-Code Innovation – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1711656975_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
           "id": "https://365community.online/beyondtrust-training-beyondtrust-privilege-access-management-pam-course-mindmajix-youtube",
           "author": "Jaya Sri",
           "description": "BeyondTrust Training | BeyondTrust Privilege Access Management (PAM) Course | MindMajix This MindMajix’s video on BeyondTrust training will allow you to report, monitor, and configure your BeyondTrust environments. This MindMajix’s […]",
@@ -6473,6 +6603,16 @@
           "wordCount": 3444,
           "title": "BeyondTrust Training | BeyondTrust Privilege Access Management (PAM) Course | MindMajix – YouTube",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1711541568_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/maplytics-your-gps-to-sustainable-business-success-within-dynamics-365-crm",
+          "author": "Inogic",
+          "description": "The post Maplytics: Your GPS to Sustainable Business Success within Dynamics 365 CRM appeared first on Blog | Maplytics. Source link",
+          "link": "https://365community.online/maplytics-your-gps-to-sustainable-business-success-within-dynamics-365-crm",
+          "publishedOn": "2024-03-27T11:57:23.000Z",
+          "wordCount": 3381,
+          "title": "Maplytics: Your GPS to Sustainable Business Success within Dynamics 365 CRM",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Maplytics-Banner-Images-2024-03-27T172545.782.png?fit=700%2C400&ssl=1"
         },
         {
           "id": "https://365community.online/dilyana-radulova-youtube",
@@ -16807,6 +16947,36 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/03/27/forrester-tei-study-shows-315-roi-when-modernizing-customer-service-with-microsoft-dynamics-365-customer-service/",
+          "author": "Angela Chang",
+          "description": "We are pleased to share the results of a March 2024 Forrester Consulting Total Economic Impact (TEI) Study commissioned by Microsoft. Forrester calculates Dynamics 365 Customer Service delivered benefits of $14.70 million over three years to a composite organization. \nThe post Forrester TEI study shows 315% ROI when modernizing customer service with Microsoft Dynamics 365 Customer Service appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/03/27/forrester-tei-study-shows-315-roi-when-modernizing-customer-service-with-microsoft-dynamics-365-customer-service/",
+          "publishedOn": "2024-03-27T15:00:00.000Z",
+          "wordCount": 3768,
+          "title": "Forrester TEI study shows 315% ROI when modernizing customer service with Microsoft Dynamics 365 Customer Service",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/03/MSFT_Dynamics365_MAR22_327416_Blog_BlogHeader_240322_V2-1-social.png"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/03/25/introducing-the-new-work-order-experience-in-dynamics-365-field-service/",
+          "author": "Luis Masieri",
+          "description": "The new work order experience in Dynamics 365 Field Service, introduced in the 2023 release wave 2, offers a refreshed user interface that revolutionizes work order creation, management, and scheduling.  \nThe post Introducing the new Work Order Experience in Dynamics 365 Field Service appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2024/03/25/introducing-the-new-work-order-experience-in-dynamics-365-field-service/",
+          "publishedOn": "2024-03-25T15:55:53.000Z",
+          "wordCount": 3721,
+          "title": "Introducing the new Work Order Experience in Dynamics 365 Field Service",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/03/New-work-order-Form.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/03/25/explore-the-next-wave-of-ai-innovation-at-the-microsoft-business-applications-launch-event/",
+          "author": "Keith Barnett",
+          "description": "Join Microsoft product leaders and engineers on April 10, 2024 for an in-depth look at the latest AI features and capabilities in Dynamics 365 and Microsoft Power Platform. \nThe post Explore the next wave of AI innovation at the Microsoft Business Applications Launch Event appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/03/25/explore-the-next-wave-of-ai-innovation-at-the-microsoft-business-applications-launch-event/",
+          "publishedOn": "2024-03-25T15:00:00.000Z",
+          "wordCount": 3212,
+          "title": "Explore the next wave of AI innovation at the Microsoft Business Applications Launch Event",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/03/FY24_BALE_1920x1080_Light_1200.jpg"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/03/19/announcing-end-of-life-for-dynamics-365-project-service-automation/",
           "author": "Rupa Mantravadi",
           "description": "Today, we are announcing the deprecation of Dynamics 365 Project Service Automation or PSA 3.x.  \nThe post Announcing End of Life for Dynamics 365 Project Service Automation  appeared first on Microsoft Dynamics 365 Blog.",
@@ -19769,6 +19939,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "modern-refreshed-look-and-feel-for-model-driven-apps-on-by-default",
+          "author": null,
+          "description": "Modern, refreshed look and feel for model-driven apps on by default",
+          "link": "https://powerapps.microsoft.com/en-us/blog/modern-refreshed-look-and-feel-for-model-driven-apps-on-by-default/",
+          "publishedOn": "2024-03-28T01:00:00.000Z",
+          "wordCount": 1951,
+          "title": "Modern, refreshed look and feel for model-driven apps on by default",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "working-with-solution-dependencies-for-components-made-easier",
           "author": null,

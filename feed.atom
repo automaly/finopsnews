@@ -2,10 +2,172 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-03-28T00:38:23.108Z</updated>
+    <updated>2024-03-29T00:38:15.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Set Default Reports in Microsoft Dynamics 365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=105386</id>
+        <link href="https://erpsoftwareblog.com/2024/03/how-to-set-default-reports-in-microsoft-dynamics-365-business-central/"/>
+        <updated>2024-03-28T23:12:56.000Z</updated>
+        <summary type="html"><![CDATA[You can set up default forms or reports in Microsoft Dynamics 365 Business Central. Search for Report Selection in Business Central. You’ll see the various functional areas where you can […]
+The post How to Set Default Reports in Microsoft Dynamics 365 Business Central appeared first on ERP Software Blog.
+How to Customize Report Layouts in Business Central
+OData Reporting in Microsoft Dynamics 365 Business Central
+Recurring Reports in Microsoft Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Jason Ochipa, Tensoft Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigating Software Transitions with a Business Impact Assessment]]></title>
+        <id>https://erpsoftwareblog.com/?p=105342</id>
+        <link href="https://erpsoftwareblog.com/2024/03/business-impact-assessment/"/>
+        <updated>2024-03-28T18:46:04.000Z</updated>
+        <summary type="html"><![CDATA[Ever feel like you're on a quest to find the ultimate solution for a software transition? Well, we’ve got it: the Business Impact Assessment (BIA). The strategic tool is designed […]
+The post Navigating Software Transitions with a Business Impact Assessment appeared first on ERP Software Blog.
+Leasing Company Realizes a 93% Increase in Efficiency with Recurring Contract Billing, a Third Party Add On for Microsoft Dynamics GP
+Reporting Fail?  Keys to Avoiding Weak Executive Dashboards
+BPM Partners Survey Shows a New Era of Competition in Corporate Planning as deFacto Joins Elite Group]]></summary>
+        <author>
+            <name>360 Visibility</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Cost for Manufacturing Companies (Part 3/3)]]></title>
+        <id>https://erpsoftwareblog.com/?p=105357</id>
+        <link href="https://erpsoftwareblog.com/2024/03/dynamics-365-cost-for-manufacturing-companies-part-3/"/>
+        <updated>2024-03-28T18:44:37.000Z</updated>
+        <summary type="html"><![CDATA[The cost of Dynamics 365 for manufacturing can seem elusive. You need to pay a one-time implementation fee, monthly support to your consultants or support partner, license fees, add-ons etc. […]
+The post Dynamics 365 Cost for Manufacturing Companies (Part 3/3) appeared first on ERP Software Blog.
+6 Myths About Digital Solutions
+Order Fulfillment Worksheet v1.3: Enhancing Efficiency in Warehouse Operations
+European Webinar: Navigating Seamless Shipping with Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Sabre Limited</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Cost for Manufacturing Companies (Part 2/3)]]></title>
+        <id>https://erpsoftwareblog.com/?p=105356</id>
+        <link href="https://erpsoftwareblog.com/2024/03/dynamics-365-cost-for-manufacturing-companies-part-2/"/>
+        <updated>2024-03-28T18:44:35.000Z</updated>
+        <summary type="html"><![CDATA[If you haven’t already read Part 1 of uncovering the cost of Dynamics 365 Business Central for manufacturing I suggest you do that. In the first part we figured out […]
+The post Dynamics 365 Cost for Manufacturing Companies (Part 2/3) appeared first on ERP Software Blog.
+6 Myths About Digital Solutions
+Now Available Globally: Order Ship Express for Business Central
+Maximizing Efficiency: The Impact of Cloud-Based ERP on Manufacturing Operations]]></summary>
+        <author>
+            <name>Sabre Limited</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Cost for Manufacturing Companies (Part 1/3)]]></title>
+        <id>https://erpsoftwareblog.com/?p=105353</id>
+        <link href="https://erpsoftwareblog.com/2024/03/dynamics-365-cost-for-manufacturing-companies-part-1/"/>
+        <updated>2024-03-28T18:44:17.000Z</updated>
+        <summary type="html"><![CDATA[If you’re a manufacturer exploring the cost of Dynamics 365 Business Central, it’s important to understand the full spectrum of costs involved. You will have a one time implementation fee […]
+The post Dynamics 365 Cost for Manufacturing Companies (Part 1/3) appeared first on ERP Software Blog.
+Microsoft Dynamics Business Central Manufacturer Smooths Out Rocky Processes
+3 Ways Mobile Field Service Software Helps Organizations Achieve Operational Excellence
+What industry newbies can learn from “The State of Dynamics 365 Business Central and Manufacturing Report”]]></summary>
+        <author>
+            <name>Sabre Limited</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixed – Web resource method does not exist: OnLoad error in Work Order, Work Order Service task, and other forms in Dynamics 365 Field Service]]></title>
+        <id>https://365community.online/fixed-web-resource-method-does-not-exist-onload-error-in-work-order-work-order-service-task-and-other-forms-in-dynamics-365-field-service</id>
+        <link href="https://365community.online/fixed-web-resource-method-does-not-exist-onload-error-in-work-order-work-order-service-task-and-other-forms-in-dynamics-365-field-service"/>
+        <updated>2024-03-28T17:09:20.000Z</updated>
+        <summary type="html"><![CDATA[Recently we started getting the below error on the form load of the Work Order Service Task record, that also only in specific environments, and there was no changes made […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Directions NA 2024 Sponsors]]></title>
+        <id>https://erpsoftwareblog.com/?p=105233</id>
+        <link href="https://erpsoftwareblog.com/2024/03/directions-na-2024-sponsors/"/>
+        <updated>2024-03-28T16:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Who are you looking forward to meeting at Directions NA? In addition to the 145 sessions delivering technical insights, a main highlight of Directions NA is the chance to talk […]
+The post Directions NA 2024 Sponsors appeared first on ERP Software Blog.
+Best ERP Software, or Beyond ERP?
+25 ERP Software Blog Members Honored as 2013 VAR Stars
+Create SmartList from Favorites Using SmartList Designer]]></summary>
+        <author>
+            <name>ERP Software Blog Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tax law changes you need to know for 2024]]></title>
+        <id>https://erpsoftwareblog.com/?p=105319</id>
+        <link href="https://erpsoftwareblog.com/2024/03/tax-law-changes-you-need-to-know-for-2024/"/>
+        <updated>2024-03-28T14:40:19.000Z</updated>
+        <summary type="html"><![CDATA[Whether you’re a small brick-and-mortar retailer, a midsize manufacturer, or a global enterprise company, you’ll probably be affected by a tax law change in 2024 because tax changes happen to […]
+The post Tax law changes you need to know for 2024 appeared first on ERP Software Blog.
+How QuickBooks Users Can Achieve Success with Microsoft Dynamics GP?
+GPS has exciting new possibilities to offer to the rental industry
+Can your business spend less on sales tax compliance?]]></summary>
+        <author>
+            <name>Avalara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot. Building an Accessible Future]]></title>
+        <id>https://365community.online/copilot-building-an-accessible-future</id>
+        <link href="https://365community.online/copilot-building-an-accessible-future"/>
+        <updated>2024-03-28T11:59:12.000Z</updated>
+        <summary type="html"><![CDATA[Unless you’ve been living under a rock, you will have heard talk of Microsoft Copilots. These are the generative AI driven assistants and aids that are appearing in about all […]]]></summary>
+        <author>
+            <name>Mike Hartley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Seamlessly Integrate ERP Solutions With Your Online Store]]></title>
+        <id>https://erpsoftwareblog.com/?p=105316</id>
+        <link href="https://erpsoftwareblog.com/2024/03/integrate-erp-solutions-with-online-store/"/>
+        <updated>2024-03-28T09:57:17.000Z</updated>
+        <summary type="html"><![CDATA[Integrating ERP solutions with your e-commerce platform is a strategic necessity for any online retail operation. It aligns backend operations—like inventory management, order processing, and customer relationship management—with your online […]
+The post How to Seamlessly Integrate ERP Solutions With Your Online Store appeared first on ERP Software Blog.
+We Are Going to Convergence Europe 2015, @Booth 81
+Solving Wholesale E-Commerce Challenges: Century Martial Arts [Case Study]
+How to build a better B2B eCommerce customer experience]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide to Integrating Google re-Captcha in Power Pages]]></title>
+        <id>https://365community.online/a-guide-to-integrating-google-re-captcha-in-power-pages</id>
+        <link href="https://365community.online/a-guide-to-integrating-google-re-captcha-in-power-pages"/>
+        <updated>2024-03-28T09:30:55.000Z</updated>
+        <summary type="html"><![CDATA[As we know, Google’s re-CAPTCHA service incorporates various mechanisms, including advanced risk analysis and adaptive challenges, to differentiate between legitimate users and potential bots or malicious actors. By analysing user […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rec.LockTable – Good Practice?  Or Bad Practice?]]></title>
+        <id>https://365community.online/rec-locktable-good-practice-or-bad-practice</id>
+        <link href="https://365community.online/rec-locktable-good-practice-or-bad-practice"/>
+        <updated>2024-03-28T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes, “best practices” turn into “bad practices”.  And recently, with one of the best new features of Business Central that just fell in our laps (most users probably won’t realize), […]]]></summary>
+        <author>
+            <name>Waldo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern, refreshed look and feel for model-driven apps on by default]]></title>
+        <id>modern-refreshed-look-and-feel-for-model-driven-apps-on-by-default</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/modern-refreshed-look-and-feel-for-model-driven-apps-on-by-default/"/>
+        <updated>2024-03-28T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Modern, refreshed look and feel for model-driven apps on by default]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Refreshed look of solution dependencies in Dataverse Solutions]]></title>
         <id>https://365community.online/refreshed-look-of-solution-dependencies-in-dataverse-solutions</id>
@@ -31,6 +193,17 @@ MRP In Microsoft Business Central]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Forrester TEI study shows 315% ROI when modernizing customer service with Microsoft Dynamics 365 Customer Service]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2024/03/27/forrester-tei-study-shows-315-roi-when-modernizing-customer-service-with-microsoft-dynamics-365-customer-service/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2024/03/27/forrester-tei-study-shows-315-roi-when-modernizing-customer-service-with-microsoft-dynamics-365-customer-service/"/>
+        <updated>2024-03-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are pleased to share the results of a March 2024 Forrester Consulting Total Economic Impact (TEI) Study commissioned by Microsoft. Forrester calculates Dynamics 365 Customer Service delivered benefits of $14.70 million over three years to a composite organization. 
+The post Forrester TEI study shows 315% ROI when modernizing customer service with Microsoft Dynamics 365 Customer Service appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Angela Chang</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The 8 Amazing Reasons to Utilize a Cloud ERP]]></title>
         <id>https://erpsoftwareblog.com/?p=105294</id>
         <link href="https://erpsoftwareblog.com/2024/03/the-8-amazing-reasons-to-utilize-a-new-cloud-erp-system/"/>
@@ -42,6 +215,16 @@ ERP Software Proves To Be a Smart Investment
 The 5 Most Often Overlooked Costs of ERP]]></summary>
         <author>
             <name>Express Info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Architect of Change Craig White Unpacks the Power of Low-Code Innovation – YouTube]]></title>
+        <id>https://365community.online/the-architect-of-change-craig-white-unpacks-the-power-of-low-code-innovation-youtube</id>
+        <link href="https://365community.online/the-architect-of-change-craig-white-unpacks-the-power-of-low-code-innovation-youtube"/>
+        <updated>2024-03-27T14:14:59.000Z</updated>
+        <summary type="html"><![CDATA[The Architect of Change Craig White Unpacks the Power of Low-Code Innovation Craig White, an ecosystem architect at ANS Group, shares his journey into the tech industry and his passion […]]]></summary>
+        <author>
+            <name>NZ365Guy</name>
         </author>
     </entry>
     <entry>
@@ -66,6 +249,16 @@ Dynamics GP Sales Order Processing Lookups: Shorten From 12 Steps Down to 1]]></
         <summary type="html"><![CDATA[BeyondTrust Training | BeyondTrust Privilege Access Management (PAM) Course | MindMajix This MindMajix’s video on BeyondTrust training will allow you to report, monitor, and configure your BeyondTrust environments. This MindMajix’s […]]]></summary>
         <author>
             <name>Jaya Sri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maplytics: Your GPS to Sustainable Business Success within Dynamics 365 CRM]]></title>
+        <id>https://365community.online/maplytics-your-gps-to-sustainable-business-success-within-dynamics-365-crm</id>
+        <link href="https://365community.online/maplytics-your-gps-to-sustainable-business-success-within-dynamics-365-crm"/>
+        <updated>2024-03-27T11:57:23.000Z</updated>
+        <summary type="html"><![CDATA[The post Maplytics: Your GPS to Sustainable Business Success within Dynamics 365 CRM appeared first on Blog | Maplytics. Source link]]></summary>
+        <author>
+            <name>Inogic</name>
         </author>
     </entry>
     <entry>
@@ -359,6 +552,28 @@ Know how to effectively integrate blockchain into your business]]></summary>
         <summary type="html"><![CDATA[Microsoft Defender for Business – A Stripe OLT Security Essentials Webinar Imagine elevating your business’s cyber security from basic to unbeatable in just one hour. That’s what our exclusive webinar […]]]></summary>
         <author>
             <name>Orla Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing the new Work Order Experience in Dynamics 365 Field Service]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2024/03/25/introducing-the-new-work-order-experience-in-dynamics-365-field-service/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2024/03/25/introducing-the-new-work-order-experience-in-dynamics-365-field-service/"/>
+        <updated>2024-03-25T15:55:53.000Z</updated>
+        <summary type="html"><![CDATA[The new work order experience in Dynamics 365 Field Service, introduced in the 2023 release wave 2, offers a refreshed user interface that revolutionizes work order creation, management, and scheduling.  
+The post Introducing the new Work Order Experience in Dynamics 365 Field Service appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Luis Masieri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explore the next wave of AI innovation at the Microsoft Business Applications Launch Event]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/bdm/2024/03/25/explore-the-next-wave-of-ai-innovation-at-the-microsoft-business-applications-launch-event/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/bdm/2024/03/25/explore-the-next-wave-of-ai-innovation-at-the-microsoft-business-applications-launch-event/"/>
+        <updated>2024-03-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Join Microsoft product leaders and engineers on April 10, 2024 for an in-depth look at the latest AI features and capabilities in Dynamics 365 and Microsoft Power Platform. 
+The post Explore the next wave of AI innovation at the Microsoft Business Applications Launch Event appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Keith Barnett</name>
         </author>
     </entry>
     <entry>
