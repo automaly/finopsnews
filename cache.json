@@ -1401,6 +1401,16 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=105435",
+          "author": "Written by Steve Simon, PDG Consultants, Inc., www.prettydarngood.com.",
+          "description": "Using ChatGPT we created a chatbot for our website (prettydarngood.com). Visitors can learn anything about customizing Microsoft Dynamics 365 Business Central, just ask the chatbot to look up the answer […]\nThe post AI Chatbot for Business Central Customization appeared first on ERP Software Blog.\nStrategies to Improve Warehouse Management Productivity- MetaWMS\n6 Signs your business needs Warehouse Management Solution (WMS)\nHow you can secure your data with Document Management System (DMS)",
+          "link": "https://erpsoftwareblog.com/2024/03/ai-chatbot-for-business-central-customization/",
+          "publishedOn": "2024-03-31T05:36:16.000Z",
+          "wordCount": 6351,
+          "title": "AI Chatbot for Business Central Customization",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/chat3.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=105427",
           "author": "Data Courage",
           "description": "TL;DR This post highlights the integration of AI in Dynamics 365 Business Central through Data Courage's applications, transforming finance, customer engagement, and inventory management with advanced analytics, reporting, and, more […]\nThe post AI in Business Central: Beyond Traditional Reporting appeared first on ERP Software Blog.\nCopilot and Dynamics 365 ERP: A Match Made for Efficiency\nDynamics Copilot: How Six AI Experts Save Hours Every Day\nHeads Up: Successful Forecasting and Demand Planning with AGR",
@@ -6604,6 +6614,46 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/unlocking-snowflake-data-integration-in-power-platform-out-of-the-box-snowflake-connector-part-3",
+          "author": "Mohamed Ashiq Faleel",
+          "description": "In both Part 1 and Part 2 of this blog series, we explored integration techniques using the Snowflake REST API through a custom connector. There is a Snowflake connector in […]",
+          "link": "https://365community.online/unlocking-snowflake-data-integration-in-power-platform-out-of-the-box-snowflake-connector-part-3",
+          "publishedOn": "2024-03-31T21:59:10.000Z",
+          "wordCount": 3316,
+          "title": "Unlocking Snowflake Data Integration in Power Platform: Out of the box Snowflake connector – Part 3",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Unlocking-Snowflake-Data-Integration-in-Power-Platform-Out-of-the.png?fit=945%2C854&ssl=1"
+        },
+        {
+          "id": "https://365community.online/unlocking-snowflake-data-integration-in-power-platform-using-custom-connector-with-snowflake-rest-api-part-1",
+          "author": "Mohamed Ashiq Faleel",
+          "description": "In today’s data-driven world, businesses rely on integration between their data sources and analysis platforms to derive insights and make informed decisions. One such powerful combination is leveraging Snowflake, a […]",
+          "link": "https://365community.online/unlocking-snowflake-data-integration-in-power-platform-using-custom-connector-with-snowflake-rest-api-part-1",
+          "publishedOn": "2024-03-31T15:13:45.000Z",
+          "wordCount": 3310,
+          "title": "Unlocking Snowflake Data Integration in Power Platform: Using Custom Connector with Snowflake REST API – Part 1",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/Unlocking-Snowflake-Data-Integration-in-Power-Platform-Using-Custom-Connector.png?fit=1131%2C448&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-choose-between-the-different-types-of-power-apps",
+          "author": "harditbhatia",
+          "description": "There are so many app types in the Power Platform. How do you go about picking the right one? What are the pros & cons of each? The post How […]",
+          "link": "https://365community.online/how-to-choose-between-the-different-types-of-power-apps",
+          "publishedOn": "2024-03-30T23:17:30.000Z",
+          "wordCount": 3214,
+          "title": "How to choose between the different types of Power Apps",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/How-to-choose-between-the-different-types-of-Power-Apps.jpg?fit=1200%2C800&ssl=1"
+        },
+        {
+          "id": "https://365community.online/planes-trains-automobiles",
+          "author": "Jen Kuntz",
+          "description": "I'm home from a 3-week business trip, and I thought I'd share some of the travels as I legitimately had a \"Planes, Trains, and Automobiles\" experience, although not as chaotic […]",
+          "link": "https://365community.online/planes-trains-automobiles",
+          "publishedOn": "2024-03-30T20:34:49.000Z",
+          "wordCount": 3258,
+          "title": "Planes, Trains & Automobiles!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1711845767_Planes-Trains-amp-Automobiles.jpeg?fit=1200%2C1084&ssl=1"
+        },
         {
           "id": "https://365community.online/mastering-the-art-of-client-engagement-with-maps-integrated-within-dynamics-365-crm",
           "author": "Inogic",
@@ -17056,6 +17106,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/03/29/maximize-efficiency-with-forecasting-in-dynamics-365-customer-service/",
+          "author": "Gopal Yuvaraj",
+          "description": "Microsoft Dynamics 365 Customer Service brings a powerful forecasting feature that empowers businesses to predict and manage their service volumes and agent demands effectively.\nThe post Maximize efficiency with forecasting in Dynamics 365 Customer Service appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2024/03/29/maximize-efficiency-with-forecasting-in-dynamics-365-customer-service/",
+          "publishedOn": "2024-03-29T17:00:00.000Z",
+          "wordCount": 3427,
+          "title": "Maximize efficiency with forecasting in Dynamics 365 Customer Service",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2019/10/customer-service.png"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/03/27/forrester-tei-study-shows-315-roi-when-modernizing-customer-service-with-microsoft-dynamics-365-customer-service/",
           "author": "Angela Chang",

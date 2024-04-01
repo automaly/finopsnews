@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-03-31T00:42:49.458Z</updated>
+    <updated>2024-04-01T00:42:35.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unlocking Snowflake Data Integration in Power Platform: Out of the box Snowflake connector – Part 3]]></title>
+        <id>https://365community.online/unlocking-snowflake-data-integration-in-power-platform-out-of-the-box-snowflake-connector-part-3</id>
+        <link href="https://365community.online/unlocking-snowflake-data-integration-in-power-platform-out-of-the-box-snowflake-connector-part-3"/>
+        <updated>2024-03-31T21:59:10.000Z</updated>
+        <summary type="html"><![CDATA[In both Part 1 and Part 2 of this blog series, we explored integration techniques using the Snowflake REST API through a custom connector. There is a Snowflake connector in […]]]></summary>
+        <author>
+            <name>Mohamed Ashiq Faleel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlocking Snowflake Data Integration in Power Platform: Using Custom Connector with Snowflake REST API – Part 1]]></title>
+        <id>https://365community.online/unlocking-snowflake-data-integration-in-power-platform-using-custom-connector-with-snowflake-rest-api-part-1</id>
+        <link href="https://365community.online/unlocking-snowflake-data-integration-in-power-platform-using-custom-connector-with-snowflake-rest-api-part-1"/>
+        <updated>2024-03-31T15:13:45.000Z</updated>
+        <summary type="html"><![CDATA[In today’s data-driven world, businesses rely on integration between their data sources and analysis platforms to derive insights and make informed decisions. One such powerful combination is leveraging Snowflake, a […]]]></summary>
+        <author>
+            <name>Mohamed Ashiq Faleel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Chatbot for Business Central Customization]]></title>
+        <id>https://erpsoftwareblog.com/?p=105435</id>
+        <link href="https://erpsoftwareblog.com/2024/03/ai-chatbot-for-business-central-customization/"/>
+        <updated>2024-03-31T05:36:16.000Z</updated>
+        <summary type="html"><![CDATA[Using ChatGPT we created a chatbot for our website (prettydarngood.com). Visitors can learn anything about customizing Microsoft Dynamics 365 Business Central, just ask the chatbot to look up the answer […]
+The post AI Chatbot for Business Central Customization appeared first on ERP Software Blog.
+Strategies to Improve Warehouse Management Productivity- MetaWMS
+6 Signs your business needs Warehouse Management Solution (WMS)
+How you can secure your data with Document Management System (DMS)]]></summary>
+        <author>
+            <name>Written by Steve Simon, PDG Consultants, Inc., www.prettydarngood.com.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to choose between the different types of Power Apps]]></title>
+        <id>https://365community.online/how-to-choose-between-the-different-types-of-power-apps</id>
+        <link href="https://365community.online/how-to-choose-between-the-different-types-of-power-apps"/>
+        <updated>2024-03-30T23:17:30.000Z</updated>
+        <summary type="html"><![CDATA[There are so many app types in the Power Platform. How do you go about picking the right one? What are the pros & cons of each? The post How […]]]></summary>
+        <author>
+            <name>harditbhatia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Planes, Trains & Automobiles!]]></title>
+        <id>https://365community.online/planes-trains-automobiles</id>
+        <link href="https://365community.online/planes-trains-automobiles"/>
+        <updated>2024-03-30T20:34:49.000Z</updated>
+        <summary type="html"><![CDATA[I'm home from a 3-week business trip, and I thought I'd share some of the travels as I legitimately had a "Planes, Trains, and Automobiles" experience, although not as chaotic […]]]></summary>
+        <author>
+            <name>Jen Kuntz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI in Business Central: Beyond Traditional Reporting]]></title>
         <id>https://erpsoftwareblog.com/?p=105427</id>
@@ -46,6 +100,17 @@ Offering Project-Driven Rentals? Here’s What You Need to Know!
 Join Us At Dynamic Communities Summit - Booth 800]]></summary>
         <author>
             <name>Axtension</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maximize efficiency with forecasting in Dynamics 365 Customer Service]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2024/03/29/maximize-efficiency-with-forecasting-in-dynamics-365-customer-service/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2024/03/29/maximize-efficiency-with-forecasting-in-dynamics-365-customer-service/"/>
+        <updated>2024-03-29T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Dynamics 365 Customer Service brings a powerful forecasting feature that empowers businesses to predict and manage their service volumes and agent demands effectively.
+The post Maximize efficiency with forecasting in Dynamics 365 Customer Service appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Gopal Yuvaraj</name>
         </author>
     </entry>
     <entry>
