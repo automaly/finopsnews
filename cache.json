@@ -1401,6 +1401,36 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=105483",
+          "author": "SmartBOL",
+          "description": "SmartBOL and Microsoft Dynamics 365 together documents (VICS BOL, master BOL, packing slip, etc.) using Dynamics shipment records uploaded automatically or keyed manually.\nThe post MS D365 and SmartBOL can Digitize all Shipping Documentation appeared first on ERP Software Blog.\nTop 5 Dynamics ERP ISV’s to Visit at Convergence 2013\nBrilliant Idea #11 Automotive Supplier Stays On Top of Shipments with Real Time Alerts in Microsoft Dynamics GP\nIs it Time for Your Microsoft Cloud ERP Migration?",
+          "link": "https://erpsoftwareblog.com/2024/04/ms-d365-can-digitize-all-shipping-documentation/",
+          "publishedOn": "2024-04-01T22:06:29.000Z",
+          "wordCount": 4724,
+          "title": "MS D365 and SmartBOL can Digitize all Shipping Documentation",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105465",
+          "author": "Insight Works",
+          "description": "Enhance warehouse efficiency with License Plating in Business Central. This method revolutionizes inventory tracking, making the management of mixed items simple and accurate. Experience streamlined processes and improved inventory control. Discover how this integration can elevate your operational capabilities for better, real-time management insights.\nThe post Harnessing the Power of License Plating in Dynamics 365 Business Central appeared first on ERP Software Blog.\nFive Factors when Determining Your ERP Software Return on Investment\nHow Automotive Suppliers Can Address Scrap Accounting Requirements\nWhy Automating Your Upgrade Process in NAV 2015 is Easier Than You Think",
+          "link": "https://erpsoftwareblog.com/2024/04/harnessing-the-power-of-license-plating-in-dynamics-365-business-central/",
+          "publishedOn": "2024-04-01T19:36:17.000Z",
+          "wordCount": 5693,
+          "title": "Harnessing the Power of License Plating in Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/License-Plating-250.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105459",
+          "author": "Open Door Technology",
+          "description": "Recent Gartner research shows 91% of IT executives reported that ‘technical debt’ derived from legacy systems contributed to their company’s inability to execute business strategies.  Along with a myriad of other statistics around […]\nThe post 12 Reasons to Replace Your Legacy Equipment Rental Management System appeared first on ERP Software Blog.\nCreate A New Item In Dynamics 365 Business Central\nMicrosoft Dynamics ERP for Distribution/Manufacturing Industry\nHow To Prepare Your Business and ERP for an Economic Slowdown",
+          "link": "https://erpsoftwareblog.com/2024/04/12-reasons-to-replace-your-legacy-equipment-rental-management-system/",
+          "publishedOn": "2024-04-01T19:17:13.000Z",
+          "wordCount": 6151,
+          "title": "12 Reasons to Replace Your Legacy Equipment Rental Management System",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/LEGACY.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=105435",
           "author": "Written by Steve Simon, PDG Consultants, Inc., www.prettydarngood.com.",
           "description": "Using ChatGPT we created a chatbot for our website (prettydarngood.com). Visitors can learn anything about customizing Microsoft Dynamics 365 Business Central, just ask the chatbot to look up the answer […]\nThe post AI Chatbot for Business Central Customization appeared first on ERP Software Blog.\nStrategies to Improve Warehouse Management Productivity- MetaWMS\n6 Signs your business needs Warehouse Management Solution (WMS)\nHow you can secure your data with Document Management System (DMS)",
@@ -6168,6 +6198,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=61862",
+          "author": "Raymond Wong",
+          "description": "Tips & Tricks for AP Checks and EFT ACH Transactions in Dynamics 365 Business Central (Video)\nIn this recorded webinar, we begin with a basic overview of AP checks and EFT/ACH transactions in Dynamics 365 Business Central, and then we provide some valuable tips and tricks on how to best manage these functions. We’ll also demonstrate how to address common problems and error messages within the system. ﻿﻿﻿﻿﻿﻿﻿ Transcript below: –...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/tips-tricks-for-ap-checks-and-eft-ach-transactions-in-d365-business-central/",
+          "publishedOn": "2024-04-01T14:09:53.000Z",
+          "wordCount": 5170,
+          "title": "Tips & Tricks for AP Checks and EFT ACH Transactions in Dynamics 365 Business Central (Video)",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/12/D365BC-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=61342",
           "author": "Abhishek Jain",
           "description": "How to Process AP Checks in Dynamics 365 Business Central\nIn this article, I will cover how to process AP checks in Dynamics 365 Business Central, including check printing and voiding. Table of Contents How to Process AP Checks How to Void AP Checks Set Up for AP Checks How to Process AP Checks Step 1: Select Bank Payment Type Begin by navigating to the...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -6615,6 +6655,26 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/curso-completo-power-apps-criando-tela-de-pesquisa-com-componente-de-galeria-youtube",
+          "author": "Saulo Soares Oliveira",
+          "description": "Nesse curso vamos aprender os conceitos e vamos criar um projeto do zero utilizando Power Apps e SharePoint. ♐ Adquira meu curso na Udemy e aprenda SharePoint, Power Apps e […]",
+          "link": "https://365community.online/curso-completo-power-apps-criando-tela-de-pesquisa-com-componente-de-galeria-youtube",
+          "publishedOn": "2024-04-01T11:50:57.000Z",
+          "wordCount": 3230,
+          "title": "Curso completo Power Apps – Criando tela de pesquisa com componente de galeria – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1711995376_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/preferred-solution-in-dataverse-power-platform-admin-center",
+          "author": "Priyesh Wagh",
+          "description": "By default, everything goes inside a Default Solution if you are aware of the classic way of doing Customization in Dynamics 365 CRM. And this causes components to be lost […]",
+          "link": "https://365community.online/preferred-solution-in-dataverse-power-platform-admin-center",
+          "publishedOn": "2024-04-01T11:03:41.000Z",
+          "wordCount": 3257,
+          "title": "Preferred Solution in Dataverse | Power Platform Admin Center",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Preferred-Solution-in-Dataverse-Power-Platform-Admin-Center.png?fit=1198%2C668&ssl=1"
+        },
+        {
           "id": "https://365community.online/unlocking-snowflake-data-integration-in-power-platform-out-of-the-box-snowflake-connector-part-3",
           "author": "Mohamed Ashiq Faleel",
           "description": "In both Part 1 and Part 2 of this blog series, we explored integration techniques using the Snowflake REST API through a custom connector. There is a Snowflake connector in […]",
@@ -6623,6 +6683,26 @@
           "wordCount": 3316,
           "title": "Unlocking Snowflake Data Integration in Power Platform: Out of the box Snowflake connector – Part 3",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Unlocking-Snowflake-Data-Integration-in-Power-Platform-Out-of-the.png?fit=945%2C854&ssl=1"
+        },
+        {
+          "id": "https://365community.online/unlocking-snowflake-data-integration-in-power-platform-manipulating-snowflake-rest-api-response-in-custom-connector-part-2",
+          "author": "Mohamed Ashiq Faleel",
+          "description": "In Part 1 of the blog series, we covered the setup and configuration necessary for Snowflake integration using the Snowflake REST API with a custom connector. The API response isn’t […]",
+          "link": "https://365community.online/unlocking-snowflake-data-integration-in-power-platform-manipulating-snowflake-rest-api-response-in-custom-connector-part-2",
+          "publishedOn": "2024-03-31T21:38:26.000Z",
+          "wordCount": 3327,
+          "title": "Unlocking Snowflake Data Integration in Power Platform: Manipulating Snowflake REST API response in Custom Connector – Part 2",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Unlocking-Snowflake-Data-Integration-in-Power-Platform-Manipulating-Snowflake-REST.png?fit=945%2C667&ssl=1"
+        },
+        {
+          "id": "https://365community.online/unlocking-azure-stacks-secrets-part-1-youtube",
+          "author": "shabaz darr",
+          "description": "Welcome to part 1 of our series on unlocking the secrets of Azure Stack! In this video, we’ll introduce you to the world of Azure Stack and what it can […]",
+          "link": "https://365community.online/unlocking-azure-stacks-secrets-part-1-youtube",
+          "publishedOn": "2024-03-31T20:15:00.000Z",
+          "wordCount": 3200,
+          "title": "Unlocking Azure Stack’s Secrets – Part 1 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1711961739_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         },
         {
           "id": "https://365community.online/unlocking-snowflake-data-integration-in-power-platform-using-custom-connector-with-snowflake-rest-api-part-1",
@@ -6653,6 +6733,16 @@
           "wordCount": 3258,
           "title": "Planes, Trains & Automobiles!",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/03/1711845767_Planes-Trains-amp-Automobiles.jpeg?fit=1200%2C1084&ssl=1"
+        },
+        {
+          "id": "https://365community.online/anaplan-training-anaplan-model-builder-course-anaplan-level-1-certification-training-mindmajix-youtube",
+          "author": "Jaya Sri",
+          "description": "Anaplan Training | Anaplan Model Builder Course | Anaplan Level 1 Certification Training | MindMajix This MindMajix’s video on Anaplan training enables you to master this SaaS platform with the […]",
+          "link": "https://365community.online/anaplan-training-anaplan-model-builder-course-anaplan-level-1-certification-training-mindmajix-youtube",
+          "publishedOn": "2024-03-30T12:00:02.000Z",
+          "wordCount": 3464,
+          "title": "Anaplan Training | Anaplan Model Builder Course | Anaplan Level 1 Certification Training | MindMajix – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1711945978_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         },
         {
           "id": "https://365community.online/mastering-the-art-of-client-engagement-with-maps-integrated-within-dynamics-365-crm",
@@ -14948,6 +15038,16 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=5616",
+          "author": "Ludwig Reinhard",
+          "description": "Special thanks to Nataliia Sukhanova, Ewa Watkins and Chloe Zhang for their reviews, comments, feedback and suggestions for improvement.",
+          "link": "https://dynamicsax-fico.com/2024/04/01/how-to-fix-esg-reporting-part-4/",
+          "publishedOn": "2024-04-01T06:05:45.000Z",
+          "wordCount": 3356,
+          "title": "How to fix ESG reporting? (Part 4)",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2023/12/titleenglish.jpg"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=5610",
           "author": "Ludwig Reinhard",
           "description": "Special thanks to Nataliia Sukhanova, Ewa Watkins and Chloe Zhang for their reviews, comments, feedback and suggestions for improvement.",
@@ -17921,6 +18021,36 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2839",
+          "author": "Saurabh Bharti",
+          "description": "Welcome to the next part in the Inventory Valuation Series within Microsoft Dynamics 365 Finance and Operations. After exploring multiple valuation methods, it’s now time to delve into a critical report: the Inventory Value Report. This report serves as a powerful tool for generating comprehensive inventory reports based on quantity and value. Additionally, it offers […]",
+          "link": "https://exploredynamics365.home.blog/2024/04/01/inventory-value-report-in-microsoft-dynamics-365-finance-and-operations-part-9/",
+          "publishedOn": "2024-04-01T11:09:43.000Z",
+          "wordCount": 3170,
+          "title": "Inventory value report in Microsoft Dynamics 365 Finance and Operations: Part-9",
+          "imageUrl": "http://img.youtube.com/vi/0aZ6-EAmZow/0.jpg"
+        },
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2836",
+          "author": "Saurabh Bharti",
+          "description": "Microsoft’s ongoing commitment to continuous improvement is evident in its relentless release of new features aimed at reducing manual tasks for end-users in Microsoft Dynamics 365 Finance and Operations. A prime example of this is the vendor recurring invoice feature, which streamlines invoice management processes. With this functionality, users can create templates for vendor invoices […]",
+          "link": "https://exploredynamics365.home.blog/2024/04/01/new-feature-vendor-recurring-invoices-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2024-04-01T11:08:13.000Z",
+          "wordCount": 3195,
+          "title": "[New Feature] Vendor recurring invoices in Microsoft Dynamics 365 Finance and Operations",
+          "imageUrl": "http://img.youtube.com/vi/E2QdmBn8Us4/0.jpg"
+        },
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2833",
+          "author": "Saurabh Bharti",
+          "description": "While AI and Copilot are hot topics of conversation, I thought to delve into the various offerings from Microsoft and share my findings with you all. This new series will concentrate on exploring the features released by Microsoft in Copilot and AI, which can aid us in designing better solution for our customers. Microsoft recently […]",
+          "link": "https://exploredynamics365.home.blog/2024/04/01/introduction-to-copilot-for-finance-dcai001/",
+          "publishedOn": "2024-04-01T11:05:44.000Z",
+          "wordCount": 3227,
+          "title": "Introduction to Copilot for Finance: DCAI001",
+          "imageUrl": "http://img.youtube.com/vi/GILncnsn4Nk/0.jpg"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2830",
           "author": "Saurabh Bharti",
           "description": "Do you know that initial Dynamics AX didn’t have “Standard cost” valuation method? Then how did we configure standard cost without this valuation method? Also, do we have that configuration available now with us in D365 F&O? Welcome to part 8 of our exploration into Inventory Valuation within Microsoft Dynamics 365 Finance and Operations. In […]",
@@ -18167,6 +18297,36 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2839",
+          "author": "Saurabh Bharti",
+          "description": "Welcome to the next part in the Inventory Valuation Series within Microsoft Dynamics 365 Finance and Operations. After exploring multiple valuation methods, it’s now time to delve into a critical report: the Inventory Value Report. This report serves as a powerful tool for generating comprehensive inventory reports based on quantity and value. Additionally, it offers […]",
+          "link": "https://exploredynamics365.home.blog/2024/04/01/inventory-value-report-in-microsoft-dynamics-365-finance-and-operations-part-9/",
+          "publishedOn": "2024-04-01T11:09:43.000Z",
+          "wordCount": 3170,
+          "title": "Inventory value report in Microsoft Dynamics 365 Finance and Operations: Part-9",
+          "imageUrl": "http://img.youtube.com/vi/0aZ6-EAmZow/0.jpg"
+        },
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2836",
+          "author": "Saurabh Bharti",
+          "description": "Microsoft’s ongoing commitment to continuous improvement is evident in its relentless release of new features aimed at reducing manual tasks for end-users in Microsoft Dynamics 365 Finance and Operations. A prime example of this is the vendor recurring invoice feature, which streamlines invoice management processes. With this functionality, users can create templates for vendor invoices […]",
+          "link": "https://exploredynamics365.home.blog/2024/04/01/new-feature-vendor-recurring-invoices-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2024-04-01T11:08:13.000Z",
+          "wordCount": 3195,
+          "title": "[New Feature] Vendor recurring invoices in Microsoft Dynamics 365 Finance and Operations",
+          "imageUrl": "http://img.youtube.com/vi/E2QdmBn8Us4/0.jpg"
+        },
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2833",
+          "author": "Saurabh Bharti",
+          "description": "While AI and Copilot are hot topics of conversation, I thought to delve into the various offerings from Microsoft and share my findings with you all. This new series will concentrate on exploring the features released by Microsoft in Copilot and AI, which can aid us in designing better solution for our customers. Microsoft recently […]",
+          "link": "https://exploredynamics365.home.blog/2024/04/01/introduction-to-copilot-for-finance-dcai001/",
+          "publishedOn": "2024-04-01T11:05:44.000Z",
+          "wordCount": 3227,
+          "title": "Introduction to Copilot for Finance: DCAI001",
+          "imageUrl": "http://img.youtube.com/vi/GILncnsn4Nk/0.jpg"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2830",
           "author": "Saurabh Bharti",
@@ -20109,6 +20269,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "whats-new-power-apps-march-2024-feature-update",
+          "author": null,
+          "description": "Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. This month we’ve got a great set of updates for Makers, Admins, and users across Power Apps, Dataverse and Copilot.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-march-2024-feature-update/",
+          "publishedOn": "2024-04-01T10:20:55.000Z",
+          "wordCount": 3562,
+          "title": "What’s new: Power Apps March 2024 Feature Update",
+          "imageUrl": "//powerappsblogmedia.azureedge.net/powerappsblog/2024/04/GAOffline.png"
+        },
         {
           "id": "modern-refreshed-look-and-feel-for-model-driven-apps-on-by-default",
           "author": null,
