@@ -1401,6 +1401,66 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=105512",
+          "author": "x2x eCommerce",
+          "description": "eCommerce Order Processing Automation using ERP Integration streamlines operations, reduces errors and enhances efficiency. Follow the steps to achieve the automation. Evaluate Your Current Processes: Understanding existing sales order processing […]\nThe post eCommerce Order Processing Automation using ERP Integration appeared first on ERP Software Blog.\nTypes of ERP and eCommerce Integration\nERP and eCommerce Integration Impact on Customer Service\nSignificance of Dynamics GP & Shopify Integration",
+          "link": "https://erpsoftwareblog.com/2024/04/ecommerce-order-processing-automation-using-erp-integration/",
+          "publishedOn": "2024-04-02T17:00:21.000Z",
+          "wordCount": 5145,
+          "title": "eCommerce Order Processing Automation using ERP Integration",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Add-a-subheading-56-300x169.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105497",
+          "author": "John Stevens",
+          "description": "The choice of a VAR (value added reseller) to assist with your software implementation is just as important as the choice of software itself. With an ERP implementation, the cost […]\nThe post Things to Consider when Choosing a Software Reseller appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve\n5 Reasons Why Outsourcing Your ERP Needs is the Best Choice\nBoost your rental system implementation with great employee attitudes",
+          "link": "https://erpsoftwareblog.com/2024/04/things-to-consider-when-choosing-a-software-reseller/",
+          "publishedOn": "2024-04-02T13:27:18.000Z",
+          "wordCount": 5446,
+          "title": "Things to Consider when Choosing a Software Reseller",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105257",
+          "author": "Binary Stream",
+          "description": "Binary Stream is thrilled to announce its fourth consecutive win as one of Canada's Top Small and Medium Employers. This award reaffirms the company's commitment to fostering an inclusive and […]\nThe post Binary Stream’s fourth consecutive win as one of Canada's Top Small and Medium Employers appeared first on ERP Software Blog.\nBinary Stream - Did You Know - Weekly Tips - Multi-Entity Management\nThe Solution for Care Facilities on Dynamics GP - WEBINAR\nBinary Stream and ETG Consulting join forces to expand Dynamics 365 Finance footprint",
+          "link": "https://erpsoftwareblog.com/2024/04/binary-streams-fourth-consecutive-win-as-one-of-canadas-top-small-and-medium-employers/",
+          "publishedOn": "2024-04-02T12:00:21.000Z",
+          "wordCount": 4980,
+          "title": "Binary Stream’s fourth consecutive win as one of Canada's Top Small and Medium Employers",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105447",
+          "author": "Insight Works",
+          "description": "Unveiling the Future of Manufacturing and Distribution: Insight Works to Lead ISV Sessions at Directions NA.\nThe post Insight Works Sponsors Directions NA 2024 for 10th Consecutive Year appeared first on ERP Software Blog.\nTop 10 reasons to Attend Convergence 2013\nWhat Top Management Needs to Know about ERP\nTips for Improving ERP User Adoption",
+          "link": "https://erpsoftwareblog.com/2024/04/insight-works-sponsors-directions-na-2024-for-10th-consecutive-year/",
+          "publishedOn": "2024-04-02T09:09:39.000Z",
+          "wordCount": 5227,
+          "title": "Insight Works Sponsors Directions NA 2024 for 10th Consecutive Year",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/NA-2024.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105501",
+          "author": "Dynavision",
+          "description": "Don’t let Business Central limit your pricing & discounts strategy, use the Dynavision Advanced Pricing & Discounts app to extend pricing & discounts functionality in Business Central. This webinar is aimed […]\nThe post Webinar: take full control of pricing & discounts in Business Central appeared first on ERP Software Blog.\nHow to Track Customer, Vendor, and Item Data Directly in Your General Ledger with D365 BC Auto-Create Dimensions\n10 Time Saving Business Central Keyboard Shortcuts You Need Today\n3 Reasons to Utilize Advanced CRM for D365 Business Central",
+          "link": "https://erpsoftwareblog.com/2024/04/webinar-take-full-control-of-pricing-discounts-in-bc/",
+          "publishedOn": "2024-04-02T08:40:22.000Z",
+          "wordCount": 5084,
+          "title": "Webinar: take full control of pricing & discounts in Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynavision_webinar-advanced-pricing-discounts.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105494",
+          "author": "Carsten Howitz",
+          "description": "Considering looking into PMP?  Skeptical of certifications?  Well, let me share with you my recent experience with PMP. I have always been very skeptical about certifications in general knowledge areas.  […]\nThe post Considering Looking into PMP appeared first on ERP Software Blog.\nProject Management: Manage your project with Business Central\nHow much time does a Business Central implementation take?\nImplementing Quality Management in IT Projects",
+          "link": "https://erpsoftwareblog.com/2024/04/considering-looking-into-pmp/",
+          "publishedOn": "2024-04-02T01:18:38.000Z",
+          "wordCount": 5173,
+          "title": "Considering Looking into PMP",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=105483",
           "author": "SmartBOL",
           "description": "SmartBOL and Microsoft Dynamics 365 together documents (VICS BOL, master BOL, packing slip, etc.) using Dynamics shipment records uploaded automatically or keyed manually.\nThe post MS D365 and SmartBOL can Digitize all Shipping Documentation appeared first on ERP Software Blog.\nTop 5 Dynamics ERP ISV’s to Visit at Convergence 2013\nBrilliant Idea #11 Automotive Supplier Stays On Top of Shipments with Real Time Alerts in Microsoft Dynamics GP\nIs it Time for Your Microsoft Cloud ERP Migration?",
@@ -6654,6 +6714,86 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/update-svg-icon-to-custom-entity-in-sitemap-model-driven-apps",
+          "author": "Priyesh Wagh",
+          "description": "So, if you are used to updating Icons to entities in the classic UI, here’s what you need to do in order to update the SVG image of a Custom […]",
+          "link": "https://365community.online/update-svg-icon-to-custom-entity-in-sitemap-model-driven-apps",
+          "publishedOn": "2024-04-02T17:03:08.000Z",
+          "wordCount": 3276,
+          "title": "Update SVG Icon to Custom Entity in Sitemap | Model Driven Apps",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Update-SVG-Icon-to-Custom-Entity-in-Sitemap-Model.png?fit=769%2C813&ssl=1"
+        },
+        {
+          "id": "https://365community.online/handling-companys-carbon-footprint-with-business-central-and-azure",
+          "author": "Stefano Demiliani",
+          "description": "Corporate environmental responsibility has become a cornerstone of modern business strategy. Companies are under increasing pressure to demonstrate their commitment to sustainability, not only to meet regulatory requirements but also […]",
+          "link": "https://365community.online/handling-companys-carbon-footprint-with-business-central-and-azure",
+          "publishedOn": "2024-04-02T08:57:18.000Z",
+          "wordCount": 3253,
+          "title": "Handling company’s carbon footprint with Business Central and Azure",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Handling-companys-carbon-footprint-with-Business-Central-and-Azure.png?fit=1198%2C445&ssl=1"
+        },
+        {
+          "id": "https://365community.online/get-document-recommendations-from-sharepoint-preview-from-copilot-for-sales",
+          "author": "Dian Taylor",
+          "description": "Last Friday I noticed that a highly anticipated feature in Dynamics 365 Sales is now in preview! This feature is part of the 2024 release wave 1. With this feature […]",
+          "link": "https://365community.online/get-document-recommendations-from-sharepoint-preview-from-copilot-for-sales",
+          "publishedOn": "2024-04-02T08:03:00.000Z",
+          "wordCount": 3265,
+          "title": "Get document recommendations from SharePoint (preview) from Copilot for Sales",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/get-document-recommendations-from-sharepoint-preview-in-dynamics-365-sales-youtube",
+          "author": "Dian Taylor",
+          "description": "Get document recommendations from SharePoint (preview) in Dynamics 365 Sales Did you know that a new preview feature is out that allows sellers to use Copilot for Sales to surface […]",
+          "link": "https://365community.online/get-document-recommendations-from-sharepoint-preview-in-dynamics-365-sales-youtube",
+          "publishedOn": "2024-04-02T08:02:00.000Z",
+          "wordCount": 3229,
+          "title": "Get document recommendations from SharePoint (preview) in Dynamics 365 Sales – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1712063726_hqdefault.jpg?fit=480%2C360&ssl=1"
+        },
+        {
+          "id": "https://365community.online/removing-email-addresses-from-suppression-in-d365-marketing",
+          "author": "Megan V. Walker",
+          "description": "In a previous post, I reviewed the ability to manage consent from Contact and Lead records in Customer Insights – Journeys (D365 Marketing). As of the time of writing this […]",
+          "link": "https://365community.online/removing-email-addresses-from-suppression-in-d365-marketing",
+          "publishedOn": "2024-04-02T07:20:00.000Z",
+          "wordCount": 3222,
+          "title": "Removing Email Addresses From Suppression In D365 Marketing",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Removing-Email-Addresses-From-Suppression-In-D365-Marketing.jpg?fit=1200%2C792&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-create-microsoft-365-e3-trial-for-30-days",
+          "author": "Arun Potti",
+          "description": "Please Like, Share and Subscribe to my YouTube channel and also click on the bell icon to get the updates. Below are my earlier articles that you can have a look. Refreshed look of solution […]",
+          "link": "https://365community.online/how-to-create-microsoft-365-e3-trial-for-30-days",
+          "publishedOn": "2024-04-02T05:01:26.000Z",
+          "wordCount": 3269,
+          "title": "How to create Microsoft 365 E3 Trial for 30 days?",
+          "imageUrl": "https://i0.wp.com/arunpotti.com/wp-content/uploads/2023/03/microsoft-1.png?resize=500%2C114&ssl=1"
+        },
+        {
+          "id": "https://365community.online/geofencing-unit-mile-with-id-cannot-be-removed-dynamics-365-field-service",
+          "author": "Nishant Rana",
+          "description": "While trying to delete the Unit records related to the “Distance Units of Measure for Resource and Asset Location Management” unit group, we will get the below error Geofencing unit […]",
+          "link": "https://365community.online/geofencing-unit-mile-with-id-cannot-be-removed-dynamics-365-field-service",
+          "publishedOn": "2024-04-02T04:40:00.000Z",
+          "wordCount": 3313,
+          "title": "Geofencing unit ‘Mile’ with id: ” cannot be removed – Dynamics 365 Field Service",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Geofencing-unit-‘Mile-with-id-cannot-be-removed-–.jpeg?fit=1200%2C799&ssl=1"
+        },
+        {
+          "id": "https://365community.online/countdown-to-our-next-class-follow-us-on-instagram-link-in-the-description-youtube",
+          "author": "Victor Dantas",
+          "description": "https://www.instagram.com/fromzerotoheroacademy?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw== source",
+          "link": "https://365community.online/countdown-to-our-next-class-follow-us-on-instagram-link-in-the-description-youtube",
+          "publishedOn": "2024-04-01T18:13:16.000Z",
+          "wordCount": 3154,
+          "title": "Countdown to our next class, follow us on Instagram, link in the description. – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1712051676_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
         {
           "id": "https://365community.online/curso-completo-power-apps-criando-tela-de-pesquisa-com-componente-de-galeria-youtube",
           "author": "Saulo Soares Oliveira",
@@ -18850,16 +18990,6 @@
           "wordCount": 2169,
           "title": "How to resolve reference with a form control value",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7pIYZvfHE2uFI_BBDvD79xA_ARzKmu5nD0j6FyjViMMaYisniPSncg-sn3Z1j7t80FW5-T9pCoEbjiOSwg_nUGJWALyAUJcO2FsMnm0ekDtnrxGXN7tFY9_08EJAZdhhMkkJ7G7nfGgaYB7T2Sey6NNusawOQsZMmN-HbqJkWlbASoRxlAoOgh0VL/w1200-h630-p-k-no-nu/resolve1.jpg"
-        },
-        {
-          "id": "https://alexvoy.blogspot.com/2022/04/how-to-change-currency-symbol-in-given.html",
-          "author": null,
-          "description": "Say, we need to print a Vendor payment advice in the vendor's language, whic is es (Spanish) in the example below. Once the report parameter AX_RenderingCulture is set to 'es', all related number formatting will be applied to amounts cells. \nHowever, the payment may be made in different currencies; thus its currency symbol $ must be used instead of Euro.\n\n\n\n\nBasically, such parameters, like currency symbol etc, can be changed through System.Globalization.CultureInfo class created for the rendering culture. I did not find a way how to achieve it for a particular textbox in SSRS design. So, I formatted the amount directly in X++.\n\n\nI used Global::strFmtByLanguage method as a basis for my method to replace the culture number format currency symbol to a given one. There are a few other interes…",
-          "link": "https://alexvoy.blogspot.com/2022/04/how-to-change-currency-symbol-in-given.html",
-          "publishedOn": "2022-04-03T20:25:00.006Z",
-          "wordCount": 2383,
-          "title": "How to change currency symbol in a given number format",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfNgB3iDqgMfRDMmj0yR2Vn75gObUgBCH8Al74v7coqyEMACyHn1KQ3Hw1sLwaFvyqbiff5FOqUnbhymnRTYnvd4FsJpgb0Ru4uwkFiWF8wbaYM_Qd3FrWTo4IrtXX6-7i3N9uHjvvmKak41UfghYduF8LoPB-rsSlCOQmw82atBznYTpdsqXaKY5/w1200-h630-p-k-no-nu/ssrs2.jpg"
         }
       ]
     },
@@ -20269,6 +20399,26 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "power-platform-admins-can-now-assign-licenses-via-intelligent-recommendations-now-in-public-preview",
+          "author": null,
+          "description": "Intelligent recommendations will provide an admin with user recommendations in their organization who would benefit from having a Power Apps premium license.  This feature is now available Power Platform Admin Center and will allow Power Platform admins the ability to assign licenses, both directly and via security groups!",
+          "link": "https://powerapps.microsoft.com/en-us/blog/power-platform-admins-can-now-assign-licenses-via-intelligent-recommendations-now-in-public-preview/",
+          "publishedOn": "2024-04-02T10:00:33.000Z",
+          "wordCount": 1829,
+          "title": "Power Platform admins can now assign licenses via Intelligent Recommendations – now in public preview!",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
+          "id": "microsoft-copilot-and-power-apps-transforming-how-people-engage-with-apps",
+          "author": null,
+          "description": "App Copilot features boosting end-user app productivity",
+          "link": "https://powerapps.microsoft.com/en-us/blog/microsoft-copilot-and-power-apps-transforming-how-people-engage-with-apps/",
+          "publishedOn": "2024-04-02T09:00:12.000Z",
+          "wordCount": 2027,
+          "title": "Microsoft Copilot and Power Apps transforming how people engage with apps",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "whats-new-power-apps-march-2024-feature-update",
           "author": null,
