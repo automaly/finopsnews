@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-04-07T00:42:58.329Z</updated>
+    <updated>2024-04-08T00:40:07.975Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Virtual entity in Data Management – 10.0.39]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=3445</id>
+        <link href="https://anithasantosh.wordpress.com/2024/04/07/virtual-entity-in-data-management-10-0-39/"/>
+        <updated>2024-04-07T21:16:12.000Z</updated>
+        <summary type="html"><![CDATA[This new tile ‘Virtual Entity’ in 10.0.39 sparked my interest, prompting me to delve deeper into its functionalities. This lists all the virtual entities and their sync status. There is also an option to create/see the user flow in Power … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Download SharePoint library files in Power Pages with JavaScript and Cloud flows – Improved code using jQuery & option to open PDF file in a new tab]]></title>
         <id>https://365community.online/download-sharepoint-library-files-in-power-pages-with-javascript-and-cloud-flows-improved-code-using-jquery-option-to-open-pdf-file-in-a-new-tab</id>
@@ -134,6 +144,26 @@ Recording and Reconciling Shopify Payments in Dynamics GP for accurate Financial
         <link href="https://365community.online/een-uitnodiging-van-rex-youtube"/>
         <updated>2024-04-05T10:14:23.000Z</updated>
         <summary type="html"><![CDATA[Ik zal persoonlijk terug zijn op Scottish Summit 2024. Zie ik je daar? source]]></summary>
+        <author>
+            <name>Scottish Summit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sari is going to Scottish Summit 2024 – YouTube]]></title>
+        <id>https://365community.online/sari-is-going-to-scottish-summit-2024-youtube</id>
+        <link href="https://365community.online/sari-is-going-to-scottish-summit-2024-youtube"/>
+        <updated>2024-04-05T10:11:55.000Z</updated>
+        <summary type="html"><![CDATA[Sari tulee olemaan Scottish Summit Aberdeen? source]]></summary>
+        <author>
+            <name>Scottish Summit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Areti Iles – Join me at Scottish Summit – YouTube]]></title>
+        <id>https://365community.online/areti-iles-join-me-at-scottish-summit-youtube</id>
+        <link href="https://365community.online/areti-iles-join-me-at-scottish-summit-youtube"/>
+        <updated>2024-04-05T10:08:11.000Z</updated>
+        <summary type="html"><![CDATA[Ελάτε μαζί μου στο Scottish Summit 2024 στο Αμπερντίν source]]></summary>
         <author>
             <name>Scottish Summit</name>
         </author>
@@ -29659,15 +29689,6 @@ the whole project, which you can get by this URL https://github.com/wojzeh/tmxP
 
 I hid some not relevant code; so that you can get the gist.
 Data contract mgcSalesBySegmentContract: we keep the user selection of companies as …]]></summary>
-        <author>
-            <name>Adventures in Axapta world</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AX World Elephants :)]]></title>
-        <id>https://alexvoy.blogspot.com/2022/04/ax-world-elephants.html</id>
-        <link href="https://alexvoy.blogspot.com/2022/04/ax-world-elephants.html"/>
-        <updated>2022-04-08T15:30:00.004Z</updated>
         <author>
             <name>Adventures in Axapta world</name>
         </author>
