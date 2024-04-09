@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-04-08T00:40:07.975Z</updated>
+    <updated>2024-04-09T00:38:46.447Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Can You Get Microsoft Dynamics GP To Do More?]]></title>
+        <id>https://erpsoftwareblog.com/?p=105609</id>
+        <link href="https://erpsoftwareblog.com/2024/04/can-you-get-microsoft-dynamics-gp-to-do-more/"/>
+        <updated>2024-04-08T23:39:36.000Z</updated>
+        <summary type="html"><![CDATA[Picture this: a serene breakfast at a luxurious resort in California. An informal chat with a finance director changes his entire view of Microsoft Dynamics GP. This story goes beyond […]
+The post Can You Get Microsoft Dynamics GP To Do More? appeared first on ERP Software Blog.
+Consolidating Financial, Payroll, and Human Resource Systems into ONE...Yes, It’s Possible!
+Inventory Lot Tracking: The Key to Feed Safety
+Pourquoi devrais-je utiliser un module de comptabilité par projet avec Microsoft Dynamics GP?]]></summary>
+        <author>
+            <name>DLD Business Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interest rates are high – How do I afford more rental equipment for my business?]]></title>
+        <id>https://erpsoftwareblog.com/?p=105668</id>
+        <link href="https://erpsoftwareblog.com/2024/04/interest-rates-are-high-how-do-i-afford-more-rental-equipment-for-my-business/"/>
+        <updated>2024-04-08T16:34:40.000Z</updated>
+        <summary type="html"><![CDATA[Two years ago, interest rates were so low equipment rental companies could finance significant amounts of new equipment. While that made life simpler than the high interest cost environment […]
+The post Interest rates are high – How do I afford more rental equipment for my business? appeared first on ERP Software Blog.
+Switch to the Cloud and Reduce your Costs
+Businesses Achieved 153% ROI with Avalara for Managing Tax Compliance According to New Total Economic Impact Study
+Implementation process at a rental company - How to prepare employees?]]></summary>
+        <author>
+            <name>Open Door Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SmartBOL Benefits for FTL and LTL Freight Shippers]]></title>
+        <id>https://erpsoftwareblog.com/?p=105662</id>
+        <link href="https://erpsoftwareblog.com/2024/04/smartbol-benefits-for-ftl-and-ltl-freight-shippers/"/>
+        <updated>2024-04-08T12:28:00.000Z</updated>
+        <summary type="html"><![CDATA[SmartBOL system delivers the following benefits:  Streamlined driver check-in/document signing processes.  Reduced printing costs – eliminated shipper’s copies, and reduced driver copies by offering electronic document download.  Automated after-pickup WMS […]
+The post SmartBOL Benefits for FTL and LTL Freight Shippers appeared first on ERP Software Blog.
+ERP Software Trends for 2011: Social Media Integration and Facebook-ization of ERP
+ERP Software Proves To Be a Smart Investment
+Microsoft Rolls Out Dynamics GP 2013R2: A Breakdown of What’s What]]></summary>
+        <author>
+            <name>SmartBOL</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product demo: Advanced Item & Price Import]]></title>
+        <id>https://erpsoftwareblog.com/?p=105658</id>
+        <link href="https://erpsoftwareblog.com/2024/04/product-demo-advanced-item-price-import/"/>
+        <updated>2024-04-08T11:56:32.000Z</updated>
+        <summary type="html"><![CDATA[Discover the Dynavision Advanced Item & Price import app, focused on wholesalers & distributors who are struggling to keep their article information and prices up to date. In the demovideo […]
+The post Product demo: Advanced Item & Price Import appeared first on ERP Software Blog.
+Get More in the Cloud with Dynamics 365 Business Central
+Addressing Sales Tax Compliance with Microsoft Dynamics GP
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>Dynavision</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What an ERP Health Check Involves]]></title>
+        <id>https://erpsoftwareblog.com/?p=103415</id>
+        <link href="https://erpsoftwareblog.com/2024/04/what-an-erp-health-check-involves/"/>
+        <updated>2024-04-08T11:00:08.000Z</updated>
+        <summary type="html"><![CDATA[In the world of business technology, waiting for a system failure is not an option. Just like regular health check-ups are vital for personal well-being, proactive maintenance of your ERP […]
+The post What an ERP Health Check Involves appeared first on ERP Software Blog.
+Build a Tighter End-to-End Sales and Accounting Process with Dynamics 365 CRM and Business Central
+Manage and Track Documents with a Paperless Solution: MetaDocs
+We value your input! Please participate in our state of Business Central (NAV) and Manufacturing Survey.]]></summary>
+        <author>
+            <name>EFOQUS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Virtual entity in Data Management – 10.0.39]]></title>
         <id>http://anithasantosh.wordpress.com/?p=3445</id>
@@ -29674,23 +29744,6 @@ Read]]></summary>
         <summary type="html"><![CDATA[In the mobile first cloud first era, B2B and B2C businesses of all sizes are continuously introducing innovative subscription based products and service offerings and are finding new ways to generate recurring revenue to stay relevant in the business. The end goal is get customers subscribed to their services, keep innovating at scale to retain … Continue reading Does your organization have the right business technology to thrive in the subscription economy? See how Dynamics 365 Finance can help.]]></summary>
         <author>
             <name>Sandeep Chaudhury</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiple company selection in an SSRS report (LedgerLegalEntityLookup)]]></title>
-        <id>https://alexvoy.blogspot.com/2022/04/multiple-company-selection-in-ssrs.html</id>
-        <link href="https://alexvoy.blogspot.com/2022/04/multiple-company-selection-in-ssrs.html"/>
-        <updated>2022-04-10T01:22:00.008Z</updated>
-        <summary type="html"><![CDATA[If you need to provide an SSRS report with a multiple company selection, you can opt for a cross-company query. In this case, such an option will be maintained by the system automatically. (You can try this [SrsReportQuery(queryStr(LogisticsEntityLocationUnion))])
-But what if you need to do that without the former? In this case you'll need to use LedgerLegalEntityLookup class as follows. Say we deal with some mgcSalesBySegment report, which is meant to return some data for a given selection of legal entities.
-the whole project, which you can get by this URL https://github.com/wojzeh/tmxProjectSalesPerSegment. Ping me, if you have any questions.
-
-
-
-I hid some not relevant code; so that you can get the gist.
-Data contract mgcSalesBySegmentContract: we keep the user selection of companies as …]]></summary>
-        <author>
-            <name>Adventures in Axapta world</name>
         </author>
     </entry>
 </feed>
