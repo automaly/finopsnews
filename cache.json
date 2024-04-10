@@ -1401,6 +1401,26 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=105703",
+          "author": "Insight Works",
+          "description": "Insight Works incorporates 10 new Microsoft Partners into their reseller program to enhance manufacturing and distribution solutions globally.\nThe post 10 New Microsoft Partners Join Insight Works’ Reseller Program appeared first on ERP Software Blog.\nUpcoming Webcast: \"Structuring Software Sales Transactions for Optimal Revenue Recognition\"\nDynamics GP 2013’s New Licensing Structure Offers Additional Modules and Users at No Extra Charge\nKey Steps for Selecting the Right ERP Software",
+          "link": "https://erpsoftwareblog.com/2024/04/10-new-microsoft-partners-join-insight-works-reseller-program/",
+          "publishedOn": "2024-04-09T20:27:56.000Z",
+          "wordCount": 5126,
+          "title": "10 New Microsoft Partners Join Insight Works’ Reseller Program",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/02.Insight-Works-Authorized-Reseller.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105665",
+          "author": "x2x eCommerce",
+          "description": "Mobile ERP solutions for retail are increasingly in demand and popular because of real-time and quick access to critical business data. This ability facilitates on-the-go decision-making, tracking, and updating of […]\nThe post Mobile ERP Solutions for Retail appeared first on ERP Software Blog.\nEvolving Role of ERP in Remote Work Environments\nMicrosoft Dynamics Offers Users A Real ERP (Enterprise Resource Planning)/Accounting Solution Integration Experience\nMobile ERP with Dynamics NAV's Tablet App",
+          "link": "https://erpsoftwareblog.com/2024/04/mobile-erp-solutions-for-retail/",
+          "publishedOn": "2024-04-09T16:36:28.000Z",
+          "wordCount": 5050,
+          "title": "Mobile ERP Solutions for Retail",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Add-a-subheading-58-300x169.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=105609",
           "author": "DLD Business Solutions, Inc.",
           "description": "Picture this: a serene breakfast at a luxurious resort in California. An informal chat with a finance director changes his entire view of Microsoft Dynamics GP. This story goes beyond […]\nThe post Can You Get Microsoft Dynamics GP To Do More? appeared first on ERP Software Blog.\nConsolidating Financial, Payroll, and Human Resource Systems into ONE...Yes, It’s Possible!\nInventory Lot Tracking: The Key to Feed Safety\nPourquoi devrais-je utiliser un module de comptabilité par projet avec Microsoft Dynamics GP?",
@@ -6934,6 +6954,106 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/store-ai-created-case-summary-data",
+          "author": "Neil Parkhurst",
+          "description": "I have recently been working on a requirement to store case summary data. In this post I will explain how I created an approach to store a “snapshot” of an […]",
+          "link": "https://365community.online/store-ai-created-case-summary-data",
+          "publishedOn": "2024-04-09T13:20:07.000Z",
+          "wordCount": 3218,
+          "title": "Store AI Created Case Summary Data",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Store-AI-Created-Case-Summary-Data.jpg?fit=1200%2C799&ssl=1"
+        },
+        {
+          "id": "https://365community.online/mb-260-identify-capabilities-and-limitations-for-scheduled-refreshes",
+          "author": "Malin Martnes",
+          "description": "In previous posts, we’ve gone through incremental updates for our data, data which is updated when there’s a change to them. Now let’s look at scheduled refreshes. Scheduled refreshes automatically […]",
+          "link": "https://365community.online/mb-260-identify-capabilities-and-limitations-for-scheduled-refreshes",
+          "publishedOn": "2024-04-09T11:32:52.000Z",
+          "wordCount": 3234,
+          "title": "MB-260 Identify capabilities and limitations for scheduled refreshes",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/MB-260-Identify-capabilities-and-limitations-for-scheduled-refreshes.jpg?fit=1200%2C923&ssl=1"
+        },
+        {
+          "id": "https://365community.online/utilize-the-power-of-prebuilt-business-card-reader-model-in-microsoft-power-automate",
+          "author": "Inogic",
+          "description": "AI Builder in Microsoft Power Automate makes tasks easier for everyone. It lets you use prebuilt AI models to understand forms, recognize things in pictures, sort out text, make guesses, […]",
+          "link": "https://365community.online/utilize-the-power-of-prebuilt-business-card-reader-model-in-microsoft-power-automate",
+          "publishedOn": "2024-04-09T07:29:01.000Z",
+          "wordCount": 3535,
+          "title": "Utilize the Power of Prebuilt Business Card Reader Model in Microsoft Power Automate",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Business-Card-Reader-Model-in-Microsoft-Power-Automate-1.png?fit=1200%2C581&ssl=1"
+        },
+        {
+          "id": "https://365community.online/associate-emails-to-multiple-records-preview",
+          "author": "Dian Taylor",
+          "description": "As you might or might not know, today we only have the ability to relate activities to ONE row (or record) in Dynamics 365 CX by setting the ‘regarding’ field […]",
+          "link": "https://365community.online/associate-emails-to-multiple-records-preview",
+          "publishedOn": "2024-04-09T07:24:00.000Z",
+          "wordCount": 3252,
+          "title": "Associate emails to multiple records (preview)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/associate-emails-to-multiple-records-in-dynamics-365-youtube",
+          "author": "Dian Taylor",
+          "description": "Associate emails to multiple records in Dynamics 365 We have been asking Microsoft for a while to allow sellers to associate emails to multiple records in Dynamics 365, and this […]",
+          "link": "https://365community.online/associate-emails-to-multiple-records-in-dynamics-365-youtube",
+          "publishedOn": "2024-04-09T07:22:00.000Z",
+          "wordCount": 3239,
+          "title": "Associate emails to multiple records in Dynamics 365 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1712677100_hqdefault.jpg?fit=480%2C360&ssl=1"
+        },
+        {
+          "id": "https://365community.online/auto-responder-emails-for-gated-content-via-realtime-forms",
+          "author": "Megan V. Walker",
+          "description": "Triggers in the Marketing App (Customer Insights – Journeys) are pretty awesome. They can be used to create what can be a very manually arduous task and turn it in […]",
+          "link": "https://365community.online/auto-responder-emails-for-gated-content-via-realtime-forms",
+          "publishedOn": "2024-04-09T07:20:00.000Z",
+          "wordCount": 3243,
+          "title": "Auto Responder Emails For Gated Content Via Realtime Forms",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Auto-Responder-Emails-For-Gated-Content-Via-Realtime-Forms.jpg?fit=1200%2C798&ssl=1"
+        },
+        {
+          "id": "https://365community.online/al-debugging-in-business-central",
+          "author": "Saurav Dhyani",
+          "description": "Regards,Saurav Dhyani https://bit.ly/SubscribeSauravYouTube Continue Reading Saurav Dhyani’s Article on their blog AL Debugging in Business Central. msdyn365bc, #al, #debugging Blog Syndicated with Saurav Dhyani’s Permission",
+          "link": "https://365community.online/al-debugging-in-business-central",
+          "publishedOn": "2024-04-09T05:30:00.000Z",
+          "wordCount": 3122,
+          "title": "AL Debugging in Business Central.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/AL-Debugging-in-Business-Central.jpeg?fit=480%2C360&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-attachment-features-for-email-dataverse-dynamics-365",
+          "author": "Nishant Rana",
+          "description": "We can see a few new features added to attachments for email activity as part of 2024 Release Wave 1. Get all the details here Hope it helps.. Continue Reading […]",
+          "link": "https://365community.online/new-attachment-features-for-email-dataverse-dynamics-365",
+          "publishedOn": "2024-04-08T22:30:00.000Z",
+          "wordCount": 3267,
+          "title": "New Attachment features for Email – Dataverse / Dynamics 365",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/New-Attachment-features-for-Email-–-Dataverse-Dynamics-365.jpeg?fit=1200%2C799&ssl=1"
+        },
+        {
+          "id": "https://365community.online/securepay-in-power-pages",
+          "author": "Andrew Grischenko",
+          "description": "This post explains how to integrate with SecurePay (Asutarlia’s payment gateway) in a Power Pages site. It’s based on the similar architecture pattern explained in the post Power Pages Paypal […]",
+          "link": "https://365community.online/securepay-in-power-pages",
+          "publishedOn": "2024-04-08T21:47:26.000Z",
+          "wordCount": 3196,
+          "title": "SecurePay in Power Pages",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/SecurePay-in-Power-Pages.png?fit=815%2C536&ssl=1"
+        },
+        {
+          "id": "https://365community.online/countdown-to-our-next-class-follow-us-on-instagram-link-in-the-description-youtube-2",
+          "author": "Victor Dantas",
+          "description": "https://www.instagram.com/fromzerotoheroacademy?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw== source",
+          "link": "https://365community.online/countdown-to-our-next-class-follow-us-on-instagram-link-in-the-description-youtube-2",
+          "publishedOn": "2024-04-08T17:20:51.000Z",
+          "wordCount": 3148,
+          "title": "Countdown to our next class, follow us on Instagram, link in the description. – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1712664727_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
         {
           "id": "https://365community.online/download-sharepoint-library-files-in-power-pages-with-javascript-and-cloud-flows-improved-code-using-jquery-option-to-open-pdf-file-in-a-new-tab",
           "author": "michelcarlo",
@@ -17162,6 +17282,16 @@
       "siteUrl": "https://dynamics365musings.com/",
       "articles": [
         {
+          "id": "https://dynamics365musings.com/?p=3525",
+          "author": "peter.ramer",
+          "description": "In addition to learning how to develop in Microsoft Dynamics 365 for Finance and Supply Chain, it is important to become very good at solving problems. In this D365 debug tutorial, learn how to find the code causing an error message to show using Find Labels. Sometimes when using D365, a user performs an action... Continue Reading →\nThe post D365 Debug Tutorial #1 appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/d365-debug-tutorial-1/?utm_source=rss&utm_medium=rss&utm_campaign=d365-debug-tutorial-1",
+          "publishedOn": "2024-04-08T14:15:28.000Z",
+          "wordCount": 4364,
+          "title": "D365 Debug Tutorial #1",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2024/04/D365-Debug-Tutorial-1.png"
+        },
+        {
           "id": "https://dynamics365musings.com/?p=3487",
           "author": "peter.ramer",
           "description": "Often times you need to send data from an external system into Microsoft Dynamics 365 for Finance and Supply Chain. Options include using the data migration framework, data entities, and custom services. When using custom services, learn how to generate classes from data that is sent in. Specifically, when the data is in JSON or... Continue Reading →\nThe post Generate Classes From Data In D365 appeared first on Dynamics 365 Musings.",
@@ -17926,6 +18056,36 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/04/08/optimize-service-delivery-with-improved-booking-capabilities-in-dynamics-365-field-service/",
+          "author": "Valerie Horvath",
+          "description": "Dynamics 365 Field Service has introduced two new capabilities in Dynamics 365 Field Service to make this easier. Complete Work Order by Status, allows field service organizations to use a booking status to indicate if further work is required to complete a work order.  Complete Booking While Preserving End-Time, ensures that when a booking is marked as completed by someone other than the assigned resource, the end-time value will no longer automatically update to the current timestamp.\nThe post Optimize Service Delivery with improved booking capabilities in Dynamics 365 Field Service appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2024/04/08/optimize-service-delivery-with-improved-booking-capabilities-in-dynamics-365-field-service/",
+          "publishedOn": "2024-04-08T18:05:37.000Z",
+          "wordCount": 3469,
+          "title": "Optimize Service Delivery with improved booking capabilities in Dynamics 365 Field Service",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/03/CLO22_TechOffice_058-1024x683.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/04/08/new-microsoft-dynamics-365-and-microsoft-copilot-innovation-for-supply-chain-sales-and-service-join-the-2024-release-wave-1/",
+          "author": "Bryan Goode",
+          "description": "Sellers, service agents, and supply chain professionals share a common goal: delivering quality goods and services to customers on time, every time. Today, we’re announcing new experiences for Microsoft Dynamics 365 that help professionals across business functions to collaboratively solve challenges, streamline workflows, and focus on what matters most—key factors for transformative customer experiences.\nThe post New Microsoft Dynamics 365 and Microsoft Copilot innovations for supply chain, sales, and service join the 2024 release wave 1 appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/04/08/new-microsoft-dynamics-365-and-microsoft-copilot-innovation-for-supply-chain-sales-and-service-join-the-2024-release-wave-1/",
+          "publishedOn": "2024-04-08T17:00:00.000Z",
+          "wordCount": 3963,
+          "title": "New Microsoft Dynamics 365 and Microsoft Copilot innovations for supply chain, sales, and service join the 2024 release wave 1",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/04/MSFT_Dynamics365_APR03_330313_Blog_BlogHeader_240402_V1_1200.png"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/04/08/elevating-customer-returns-receiving-experience-with-dynamics-365-scm-warehouse-management/",
+          "author": "Roger Sa and Julian De Bri (Business Guest)",
+          "description": "In the relentless pursuit of customer-centric excellence, optimizing our return process emerges as a pivotal strategy for both customer satisfaction and operational prowess. This blog exploration delves into Dynamics 365 SCM Warehouse Management’s transformative role in enhancing customer return receiving process, showcasing a strategic framework that promises elevated customer experience and operational efficiencies.\nThe post Elevating Customer Returns receiving experience with Dynamics 365 SCM Warehouse Management  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2024/04/08/elevating-customer-returns-receiving-experience-with-dynamics-365-scm-warehouse-management/",
+          "publishedOn": "2024-04-08T13:32:33.000Z",
+          "wordCount": 3339,
+          "title": "Elevating Customer Returns receiving experience with Dynamics 365 SCM Warehouse Management",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2021/05/CLO17_waterworks_012.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/04/04/building-digital-trust-in-microsoft-copilot-for-dynamics-365-and-power-platform/",
           "author": "Donald Kossman",
@@ -20989,6 +21149,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "march-2024-updates-for-modernization-and-theming-in-power-apps",
+          "author": null,
+          "description": "March update to modern controls in canvas apps, including a new control, table enhancements and updates to authoring in Power Apps.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/march-2024-updates-for-modernization-and-theming-in-power-apps/",
+          "publishedOn": "2024-04-08T14:51:00.000Z",
+          "wordCount": 2047,
+          "title": "March 2024 updates for modernization and theming in Power Apps",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "easier-than-ever-experience-to-import-data-from-sharepoint-list",
           "author": null,
