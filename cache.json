@@ -1401,6 +1401,46 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=105734",
+          "author": "Sabre Limited",
+          "description": "A Management Information System (MIS) or Enterprise Resource Planning (ERP) system is an integral solution for maximizing your print business. Whether you’re a commercial printer, wide format printer, label manufacturer, […]\nThe post What is a Print ERP for Manufacturing? appeared first on ERP Software Blog.\nLocal Supermarket Chain “Caught” on Video Offers Microsoft Dynamics GP Testimonial\nAlaskan Fishery Catches Success with Microsoft Dynamics GP\nDynamics GP 2016 R2 Set to Release December 1",
+          "link": "https://erpsoftwareblog.com/2024/04/what-is-a-print-erp-for-manufacturing/",
+          "publishedOn": "2024-04-10T21:57:05.000Z",
+          "wordCount": 5281,
+          "title": "What is a Print ERP for Manufacturing?",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/What-is-a-Print-ERP-for-Manufacturing-1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105724",
+          "author": "Open Door Technology",
+          "description": "In the dynamic landscape of equipment rental businesses that power industries such as construction, events management, and industrial operations, businesses face a multitude of challenges that demand strategic solutions for […]\nThe post Challenges and Opportunities in the Equipment Rental Industry in 2024 appeared first on ERP Software Blog.\nTo upgrade or not to upgrade: the case for moving from NAV to Dynamics 365 Business Central\nHow To Prepare Your Business and ERP for an Economic Slowdown\nHow to Upgrade Dynamics NAV to Business Central in 2023?",
+          "link": "https://erpsoftwareblog.com/2024/04/challenges-and-opportunities-in-the-equipment-rental-industry-in-2024/",
+          "publishedOn": "2024-04-10T16:56:25.000Z",
+          "wordCount": 6259,
+          "title": "Challenges and Opportunities in the Equipment Rental Industry in 2024",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ERP-2-1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105674",
+          "author": "Avalara",
+          "description": "Why your sales tax software needs an ROI study In today’s business environment, efficiency is key, especially as it relates to tax compliance management. Returns, filing, and keeping up with […]\nThe post Why your tax compliance solution needs an ROI study appeared first on ERP Software Blog.\nBusinesses Achieved 153% ROI with Avalara for Managing Tax Compliance According to New Total Economic Impact Study\nCan your business spend less on sales tax compliance?\nUsing integrated automation tools in Dynamics 365 to ease pain points",
+          "link": "https://erpsoftwareblog.com/2024/04/why-your-tax-compliance-solution-needs-an-roi-study/",
+          "publishedOn": "2024-04-10T14:23:53.000Z",
+          "wordCount": 5615,
+          "title": "Why your tax compliance solution needs an ROI study",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105715",
+          "author": "Dynamics Square UK",
+          "description": "Wealth management is going towards a sudden shift from traditional to modern ways of doing business. The days of static portfolios and one-size-fits-all methodologies are no longer applicable due to […]\nThe post How Dynamics 365 Empowers Wealth Management Firms in the Digital Age? appeared first on ERP Software Blog.\nGoing Paperless Made Easy with Document Management Software!\nPitfall #4 - AP Automation for Dynamics\nBinary Stream - Did You Know - Weekly Tips - Multi-Entity Management",
+          "link": "https://erpsoftwareblog.com/2024/04/how-dynamics-365-empowers-wealth-management/",
+          "publishedOn": "2024-04-10T11:01:14.000Z",
+          "wordCount": 5425,
+          "title": "How Dynamics 365 Empowers Wealth Management Firms in the Digital Age?",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/wealth.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=105703",
           "author": "Insight Works",
           "description": "Insight Works incorporates 10 new Microsoft Partners into their reseller program to enhance manufacturing and distribution solutions globally.\nThe post 10 New Microsoft Partners Join Insight Works’ Reseller Program appeared first on ERP Software Blog.\nUpcoming Webcast: \"Structuring Software Sales Transactions for Optimal Revenue Recognition\"\nDynamics GP 2013’s New Licensing Structure Offers Additional Modules and Users at No Extra Charge\nKey Steps for Selecting the Right ERP Software",
@@ -6488,6 +6528,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=56257",
+          "author": "Angela Nice",
+          "description": "The New Way to Do Bank Reconciliation in Dynamics 365 Business Central\nThe new bank reconciliation behavior in Dynamics 365 Business Central, released in 2023, changed how accounting teams reconcile their bank account statements. However, there can be some challenges when dealing with uncleared transactions, certain error messages, or handling the details of bank integration. I’ve helped several companies resolve issues like these. In this article, I’ll...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/bank-reconciliation-business-central/",
+          "publishedOn": "2024-04-10T11:13:41.000Z",
+          "wordCount": 2486,
+          "title": "The New Way to Do Bank Reconciliation in Dynamics 365 Business Central",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/D365BC-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=47996",
           "author": "Don McNulty",
           "description": "Dynamics GP SOP Orphaned Transactions and Allocated Items\nDynamics GP sales order processing (SOP) allows users to enter quotes, orders, invoices, returns, and backorders. These documents can fulfill and allocate product, reserving the items from other documents using the on-hand inventory. It operates most times with little intervention from support, however, it does sometimes leave orphaned records in the database that the firm...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -6954,6 +7004,96 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/dynamics-365-business-central-and-shopify-connection-access-key-rotation",
+          "author": "Stefano Demiliani",
+          "description": "If you’re currently using Dynamics 365 Business Central connected with Shopify, there’s an important announcement that you should be aware of and that I want to emphasize. As part of […]",
+          "link": "https://365community.online/dynamics-365-business-central-and-shopify-connection-access-key-rotation",
+          "publishedOn": "2024-04-10T19:39:02.000Z",
+          "wordCount": 3268,
+          "title": "Dynamics 365 Business Central and Shopify connection: access key rotation.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Dynamics-365-Business-Central-and-Shopify-connection-access-key-rotation.png?fit=900%2C428&ssl=1"
+        },
+        {
+          "id": "https://365community.online/webinar-supercharge-field-sales-team-with-maps-integrated-within-dynamics-365-crm",
+          "author": "Inogic",
+          "description": "Knowledge is power, and sharing that knowledge unlocks boundless possibilities! At Maplytics, exploration, visualization, and innovation are in our DNA. We’re constantly pushing the boundaries and building exciting new features […]",
+          "link": "https://365community.online/webinar-supercharge-field-sales-team-with-maps-integrated-within-dynamics-365-crm",
+          "publishedOn": "2024-04-10T10:18:44.000Z",
+          "wordCount": 3530,
+          "title": "Webinar: Supercharge Field Sales Team with Maps integrated within Dynamics 365 CRM",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Maplytics-Webinar-Blog.png?fit=936%2C531&ssl=1"
+        },
+        {
+          "id": "https://365community.online/webinar-whats-new-in-dynamics-365-business-central-version-2024-wave-1-youtube",
+          "author": "Ieva Kukeviciene",
+          "description": "As the new Dynamics 365 Business Central version was released, Simplanova organized a webinar with Microsoft MVP for Business Applications Stefano Demiliani. The webinar presented detailed information about what’s new […]",
+          "link": "https://365community.online/webinar-whats-new-in-dynamics-365-business-central-version-2024-wave-1-youtube",
+          "publishedOn": "2024-04-10T09:53:06.000Z",
+          "wordCount": 3222,
+          "title": "Webinar: What’s new in Dynamics 365 Business Central version 2024 Wave 1 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1712761425_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/environment-grouping",
+          "author": "thecrmninja",
+          "description": "One of the main ‘complaints’ that Power Platform administrators have is around how policies are applied to environments. Within Azure, it’s possible to set up security policies and apply them […]",
+          "link": "https://365community.online/environment-grouping",
+          "publishedOn": "2024-04-10T09:33:01.000Z",
+          "wordCount": 3211,
+          "title": "Environment Grouping",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Environment-Grouping.jpg?fit=1200%2C800&ssl=1"
+        },
+        {
+          "id": "https://365community.online/azure-functions-net-7-support-is-ending-and-you-should-upgrade-to-net-8",
+          "author": "Stefano Demiliani",
+          "description": "On 14 May 2024, support for .NET 7 in Azure Functions will end. Your Function apps that are currently using .NET 7 will continue to run, but security updates will no […]",
+          "link": "https://365community.online/azure-functions-net-7-support-is-ending-and-you-should-upgrade-to-net-8",
+          "publishedOn": "2024-04-10T08:00:56.000Z",
+          "wordCount": 3298,
+          "title": "Azure Functions: .NET 7 support is ending and you should upgrade to .NET 8.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Azure-Functions-NET-7-support-is-ending-and-you-should.png?fit=999%2C469&ssl=1"
+        },
+        {
+          "id": "https://365community.online/allow-debugging-in-business-central",
+          "author": "Saurav Dhyani",
+          "description": "Regards,Saurav Dhyani https://bit.ly/SubscribeSauravYouTube Continue Reading Saurav Dhyani’s Article on their blog Allow Debugging in Business Central. allowdebugging, #msdyn365bc, #businesscentral Blog Syndicated with Saurav Dhyani’s Permission",
+          "link": "https://365community.online/allow-debugging-in-business-central",
+          "publishedOn": "2024-04-10T05:30:00.000Z",
+          "wordCount": 3122,
+          "title": "Allow Debugging in Business Central.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Allow-Debugging-in-Business-Central.jpeg?fit=480%2C360&ssl=1"
+        },
+        {
+          "id": "https://365community.online/enhance-your-power-pages-prodev-productivity-using-copilots-lesson-1-youtube",
+          "author": "Victor Dantas",
+          "description": "Enhance your Power Pages ProDev productivity using Copilots (Tino Rabe) Instagram zero to hero academy – / fromzerotoh. . Instagram thevictordantas – / thevictorda. . twitter thevictordantas – https://x.com/thevictordantas?s=20 source",
+          "link": "https://365community.online/enhance-your-power-pages-prodev-productivity-using-copilots-lesson-1-youtube",
+          "publishedOn": "2024-04-10T04:30:18.000Z",
+          "wordCount": 3168,
+          "title": "Enhance your Power Pages ProDev productivity using Copilots – Lesson 1 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1712741479_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/associate-activities-email-with-multiple-related-records-dataverse-dynamics-365",
+          "author": "Nishant Rana",
+          "description": "This new feature allows associating an activity record with multiple related records or related parties. For E.g. we might want to associate an email with multiple cases, or with case […]",
+          "link": "https://365community.online/associate-activities-email-with-multiple-related-records-dataverse-dynamics-365",
+          "publishedOn": "2024-04-09T22:30:00.000Z",
+          "wordCount": 3297,
+          "title": "Associate activities (Email) with multiple related records – Dataverse / Dynamics 365",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Associate-activities-Email-with-multiple-related-records-–-Dataverse.jpeg?fit=800%2C1199&ssl=1"
+        },
+        {
+          "id": "https://365community.online/master-azure-stack-hci-core-technology-part-2-youtube",
+          "author": "shabaz darr",
+          "description": "In this video, we introduce part 2 of the core technology behind Azure Stack HCI. Learn about the benefits of this hybrid cloud solution and how it can help your […]",
+          "link": "https://365community.online/master-azure-stack-hci-core-technology-part-2-youtube",
+          "publishedOn": "2024-04-09T20:15:01.000Z",
+          "wordCount": 3190,
+          "title": "Master Azure Stack HCI Core Technology – Part 2 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1712723894_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
         {
           "id": "https://365community.online/store-ai-created-case-summary-data",
           "author": "Neil Parkhurst",
@@ -21150,6 +21290,16 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "power-fx-no-more-columns-names-in-text-strings",
+          "author": null,
+          "description": "We are making a small syntax change to how column names are specified in AddColumns, DropColumns, ShowColumns, RenameColumns, Search, GroupBy, Ungroup, and DataSourceInfo functions.  Today they need to be wrapped in double quotes as a text string, but tomorrow they will not.  We will automatically update the syntax in existing apps to reflect the new syntax.  The change makes these functions consistent with other uses of column names, easier to use by no longer requiring logical names, and consistent with other Power Fx 1.0 hosts such as Copilot Studio, Power Automate Desktop, and Cards that have been using this new syntax for the last year.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/power-fx-no-more-columns-names-in-text-strings/",
+          "publishedOn": "2024-04-10T01:00:20.000Z",
+          "wordCount": 2154,
+          "title": "Power Fx: Column names escape double quotes",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
           "id": "march-2024-updates-for-modernization-and-theming-in-power-apps",
           "author": null,
           "description": "March update to modern controls in canvas apps, including a new control, table enhancements and updates to authoring in Power Apps.",
@@ -21924,6 +22074,16 @@
       "feedUrl": "https://powerautomate.microsoft.com/en-nz/blog/feed/",
       "siteUrl": "https://powerautomate.microsoft.com/en-nz/blog/",
       "articles": [
+        {
+          "id": "hyperautomation-unleashing-enterprise-efficiency-with-microsoft-power-automate",
+          "author": null,
+          "description": "The enterprise journey toward operational excellence is ongoing, and the adoption of hyperautomation has become a pivotal milestone. Microsoft Power Platform stands at the forefront of this movement, offering a suite of tools that transform the way businesses approach digital transformation at scale – and Microsoft Power Automate is a key accelerator.",
+          "link": "https://powerautomate.microsoft.com/en-nz/blog/hyperautomation-unleashing-enterprise-efficiency-with-microsoft-power-automate/",
+          "publishedOn": "2024-04-10T10:17:21.000Z",
+          "wordCount": 2970,
+          "title": "Hyperautomation: Unleashing enterprise efficiency with Microsoft Power Automate",
+          "imageUrl": null
+        },
         {
           "id": "enhanced-governance-control-for-desktop-flow-logs",
           "author": null,
