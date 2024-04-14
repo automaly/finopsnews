@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-04-13T00:33:01.837Z</updated>
+    <updated>2024-04-14T00:45:46.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5 Benefits of In-App Notifications for Microsoft Dynamics 365 CRM users]]></title>
+        <id>https://365community.online/5-benefits-of-in-app-notifications-for-microsoft-dynamics-365-crm-users</id>
+        <link href="https://365community.online/5-benefits-of-in-app-notifications-for-microsoft-dynamics-365-crm-users"/>
+        <updated>2024-04-13T10:19:37.000Z</updated>
+        <summary type="html"><![CDATA[For a successful sales process, you need to stay up-to-date with crucial sales information like deal closures, opportunities won, incoming leads, etc. Wish you never missed important updates in Microsoft […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Pages and Cloud Flows – Validate user against Dataverse records based on Contact ID]]></title>
+        <id>https://365community.online/power-pages-and-cloud-flows-validate-user-against-dataverse-records-based-on-contact-id</id>
+        <link href="https://365community.online/power-pages-and-cloud-flows-validate-user-against-dataverse-records-based-on-contact-id"/>
+        <updated>2024-04-13T09:26:00.000Z</updated>
+        <summary type="html"><![CDATA[When we use the Cloud Flows integration in Power Pages, we can use Web Roles to restrict what users can call the Flow or not. But sometimes only this is […]]]></summary>
+        <author>
+            <name>michelcarlo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering RDLC Reports for Exporting Multiple Excel Sheets in Business Central!]]></title>
+        <id>https://365community.online/mastering-rdlc-reports-for-exporting-multiple-excel-sheets-in-business-central</id>
+        <link href="https://365community.online/mastering-rdlc-reports-for-exporting-multiple-excel-sheets-in-business-central"/>
+        <updated>2024-04-13T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Regards,Saurav Dhyani https://bit.ly/SubscribeSauravYouTube Continue Reading Saurav Dhyani’s Article on their blog Mastering RDLC Reports for Exporting Multiple Excel Sheets in Business Central! reports, #excelsheet, #exporting, #masteringRDLC Blog Syndicated with […]]]></summary>
+        <author>
+            <name>Saurav Dhyani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Power Apps | Modern Themes | Preview feature]]></title>
+        <id>https://365community.online/microsoft-power-apps-modern-themes-preview-feature</id>
+        <link href="https://365community.online/microsoft-power-apps-modern-themes-preview-feature"/>
+        <updated>2024-04-13T03:11:10.000Z</updated>
+        <summary type="html"><![CDATA[Watch the below video to understand about the Microsoft Power Apps Modern Themes Preview feature. Below are my earlier articles that you can have a look. How to Download and […]]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FYIsoft Financial Reporting Solution for Microsoft Dynamics 365 BC:  A Success Story]]></title>
         <id>https://erpsoftwareblog.com/?p=105538</id>
@@ -104,6 +144,16 @@ Business Central: Digital Transformation in the Manufacturing Industry]]></summa
         <summary type="html"><![CDATA[Introducción ¿Qué son los enjambres y cómo mejoran la atención al cliente? Descubre cómo la funcionalidad de enjambres de D365 Customer Service te permite crear equipos dinámicos de agentes para […]]]></summary>
         <author>
             <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curso completo Power Apps – Implementado um filtro para nossa pesquisa com e sem collections – YouTube]]></title>
+        <id>https://365community.online/curso-completo-power-apps-implementado-um-filtro-para-nossa-pesquisa-com-e-sem-collections-youtube</id>
+        <link href="https://365community.online/curso-completo-power-apps-implementado-um-filtro-para-nossa-pesquisa-com-e-sem-collections-youtube"/>
+        <updated>2024-04-12T10:48:19.000Z</updated>
+        <summary type="html"><![CDATA[Nesse curso vamos aprender os conceitos e vamos criar um projeto do zero utilizando Power Apps e SharePoint. ♐ Adquira meu curso na Udemy e aprenda SharePoint, Power Apps e […]]]></summary>
+        <author>
+            <name>Saulo Soares Oliveira</name>
         </author>
     </entry>
     <entry>

@@ -7095,6 +7095,46 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/5-benefits-of-in-app-notifications-for-microsoft-dynamics-365-crm-users",
+          "author": "Inogic",
+          "description": "For a successful sales process, you need to stay up-to-date with crucial sales information like deal closures, opportunities won, incoming leads, etc. Wish you never missed important updates in Microsoft […]",
+          "link": "https://365community.online/5-benefits-of-in-app-notifications-for-microsoft-dynamics-365-crm-users",
+          "publishedOn": "2024-04-13T10:19:37.000Z",
+          "wordCount": 3529,
+          "title": "5 Benefits of In-App Notifications for Microsoft Dynamics 365 CRM users",
+          "imageUrl": "https://www.inogic.com/blog/wp-content/uploads/2024/04/A4D-Blog-Banner.png"
+        },
+        {
+          "id": "https://365community.online/power-pages-and-cloud-flows-validate-user-against-dataverse-records-based-on-contact-id",
+          "author": "michelcarlo",
+          "description": "When we use the Cloud Flows integration in Power Pages, we can use Web Roles to restrict what users can call the Flow or not. But sometimes only this is […]",
+          "link": "https://365community.online/power-pages-and-cloud-flows-validate-user-against-dataverse-records-based-on-contact-id",
+          "publishedOn": "2024-04-13T09:26:00.000Z",
+          "wordCount": 3438,
+          "title": "Power Pages and Cloud Flows – Validate user against Dataverse records based on Contact ID",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/dvcontact.png?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/mastering-rdlc-reports-for-exporting-multiple-excel-sheets-in-business-central",
+          "author": "Saurav Dhyani",
+          "description": "Regards,Saurav Dhyani https://bit.ly/SubscribeSauravYouTube Continue Reading Saurav Dhyani’s Article on their blog Mastering RDLC Reports for Exporting Multiple Excel Sheets in Business Central! reports, #excelsheet, #exporting, #masteringRDLC Blog Syndicated with […]",
+          "link": "https://365community.online/mastering-rdlc-reports-for-exporting-multiple-excel-sheets-in-business-central",
+          "publishedOn": "2024-04-13T05:30:00.000Z",
+          "wordCount": 3148,
+          "title": "Mastering RDLC Reports for Exporting Multiple Excel Sheets in Business Central!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Mastering-RDLC-Reports-for-Exporting-Multiple-Excel-Sheets-in-Business.jpeg?fit=480%2C360&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-power-apps-modern-themes-preview-feature",
+          "author": "Arun Potti",
+          "description": "Watch the below video to understand about the Microsoft Power Apps Modern Themes Preview feature. Below are my earlier articles that you can have a look. How to Download and […]",
+          "link": "https://365community.online/microsoft-power-apps-modern-themes-preview-feature",
+          "publishedOn": "2024-04-13T03:11:10.000Z",
+          "wordCount": 3265,
+          "title": "Microsoft Power Apps | Modern Themes | Preview feature",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/power-apps-logo.jpg?fit=900%2C900&ssl=1"
+        },
+        {
           "id": "https://365community.online/dynamics-365-customer-services-enjambres-youtube",
           "author": "jarmesto",
           "description": "Dynamics 365 Customer Services Enjambres ¿Qué son los enjambres y cómo mejoran la atención al cliente? Descubre cómo la funcionalidad de enjambres de D365 Customer Service te permite crear equipos […]",
@@ -7123,6 +7163,16 @@
           "wordCount": 3174,
           "title": "Enjambres en Dynamics 365 Customer Service",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1712927200_Enjambres-en-Dynamics-365-Customer-Service.png?fit=1200%2C685&ssl=1"
+        },
+        {
+          "id": "https://365community.online/curso-completo-power-apps-implementado-um-filtro-para-nossa-pesquisa-com-e-sem-collections-youtube",
+          "author": "Saulo Soares Oliveira",
+          "description": "Nesse curso vamos aprender os conceitos e vamos criar um projeto do zero utilizando Power Apps e SharePoint. ♐ Adquira meu curso na Udemy e aprenda SharePoint, Power Apps e […]",
+          "link": "https://365community.online/curso-completo-power-apps-implementado-um-filtro-para-nossa-pesquisa-com-e-sem-collections-youtube",
+          "publishedOn": "2024-04-12T10:48:19.000Z",
+          "wordCount": 3237,
+          "title": "Curso completo Power Apps – Implementado um filtro para nossa pesquisa com e sem collections – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1712982391_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         },
         {
           "id": "https://365community.online/how-to-revert-the-managed-solutions-version-in-case-of-an-erroneous-upgrade-using-cli-in-dynamics-365",
