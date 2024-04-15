@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-04-14T00:45:46.611Z</updated>
+    <updated>2024-04-15T03:08:26.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[No More Dynamics 365 For Phones & Tablets From April 2024]]></title>
+        <id>https://365community.online/no-more-dynamics-365-for-phones-tablets-from-april-2024</id>
+        <link href="https://365community.online/no-more-dynamics-365-for-phones-tablets-from-april-2024"/>
+        <updated>2024-04-14T10:03:04.000Z</updated>
+        <summary type="html"><![CDATA[There is SO much information in the Power Platform it’s hard to keep up with everything. Sometimes Microsoft makes announcements that we miss, and just happen to find later. This […]]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do We Need to Rethink How We Build Power Platform and Dynamics 365 Apps? – YouTube]]></title>
+        <id>https://365community.online/do-we-need-to-rethink-how-we-build-power-platform-and-dynamics-365-apps-youtube</id>
+        <link href="https://365community.online/do-we-need-to-rethink-how-we-build-power-platform-and-dynamics-365-apps-youtube"/>
+        <updated>2024-04-14T09:15:20.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of Amazing Apps, host Neil Benson explores the importance of rethinking our approach to building business applications. Join us as we delve into the benefits of questioning […]]]></summary>
+        <author>
+            <name>Neil Benson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do We Need to Rethink How We Build Power Platform and Dynamics 365 Apps?]]></title>
+        <id>https://365community.online/do-we-need-to-rethink-how-we-build-power-platform-and-dynamics-365-apps</id>
+        <link href="https://365community.online/do-we-need-to-rethink-how-we-build-power-platform-and-dynamics-365-apps"/>
+        <updated>2024-04-14T08:54:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of Amazing Apps, host Neil Benson explores the importance of rethinking our approach to building business applications. Join us as we delve into the benefits of questioning […]]]></summary>
+        <author>
+            <name>Neil Benson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do We Need to Rethink How We Build Power Platform and Dynamics 365 Apps? – YouTube]]></title>
+        <id>https://365community.online/do-we-need-to-rethink-how-we-build-power-platform-and-dynamics-365-apps-youtube-2</id>
+        <link href="https://365community.online/do-we-need-to-rethink-how-we-build-power-platform-and-dynamics-365-apps-youtube-2"/>
+        <updated>2024-04-14T08:35:36.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of Amazing Apps, host Neil Benson explores the importance of rethinking our approach to building business applications. Join us as we delve into the benefits of questioning […]]]></summary>
+        <author>
+            <name>Neil Benson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Setup Multi-Factor Authentication for your Microsoft Power Apps environment?]]></title>
+        <id>https://365community.online/how-to-setup-multi-factor-authentication-for-your-microsoft-power-apps-environment</id>
+        <link href="https://365community.online/how-to-setup-multi-factor-authentication-for-your-microsoft-power-apps-environment"/>
+        <updated>2024-04-14T06:17:45.000Z</updated>
+        <summary type="html"><![CDATA[When you create Power Apps 30 days trial environment, for the first 14 days, the system will show us a prompt to configure MFA on your account and you can […]]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#msdyn365bc – Share error details to get help from another user.]]></title>
+        <id>https://365community.online/msdyn365bc-share-error-details-to-get-help-from-another-user</id>
+        <link href="https://365community.online/msdyn365bc-share-error-details-to-get-help-from-another-user"/>
+        <updated>2024-04-14T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Regards,Saurav Dhyani https://bit.ly/SubscribeSauravYouTube Continue Reading Saurav Dhyani’s Article on their blog #msdyn365bc – Share error details to get help from another user. msdyn365bc, #share, #errordetails, #help Blog Syndicated with […]]]></summary>
+        <author>
+            <name>Saurav Dhyani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #27]]></title>
+        <id>http://dynamicsax-fico.com/?p=5724</id>
+        <link href="https://dynamicsax-fico.com/2024/04/14/microsoft-bizapps-deutschland-podcast-27/"/>
+        <updated>2024-04-14T05:14:15.000Z</updated>
+        <summary type="html"><![CDATA[[German language podcast] In unserem neuesten Microsoft BizApps Deutschland Podcast sprechen wir mit Lea Michel und Lennart Wörmer von unserem …
+Continue reading →]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 Benefits of In-App Notifications for Microsoft Dynamics 365 CRM users]]></title>
         <id>https://365community.online/5-benefits-of-in-app-notifications-for-microsoft-dynamics-365-crm-users</id>
@@ -444,6 +515,17 @@ Can your business spend less on sales tax compliance?
 Using integrated automation tools in Dynamics 365 to ease pain points]]></summary>
         <author>
             <name>Avalara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docentric AX 3.4.8 Released]]></title>
+        <id>https://ax.docentric.com/?p=28406</id>
+        <link href="https://ax.docentric.com/docentric-ax-3-4-8-released/"/>
+        <updated>2024-04-10T13:29:23.000Z</updated>
+        <summary type="html"><![CDATA[We are happy to announce 📢 Docentric version 3.4.8 is out 🚀 With the cool new features you asked for, most of them being part of Free Edition ❤. In this release, we've continued to improve 🔥Print management utilities, our flagship feature released in 3.4.7. […]
+The post Docentric AX 3.4.8 Released appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Irena Vujcic Pavlovic</name>
         </author>
     </entry>
     <entry>
