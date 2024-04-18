@@ -777,6 +777,16 @@
       "siteUrl": "https://d365fotechexpert.blogspot.com/",
       "articles": [
         {
+          "id": "https://d365fotechexpert.blogspot.com/2024/04/how-to-create-filter-on-display-method.html",
+          "author": null,
+          "description": "Form fields that are based on display methods are not filterable, but in some cases, the client wants those fields filterable. There are two ways to make display fields filterable we will explain on this blog only the best way to do it (use best practice).\n\n\nIn our case Invoice Date field field into project expense journal form, invoice date is comes from projinvoicejour which is not part of our form. for this created view with ProjCostTrans and created method like below to get invoice date.\n\n\npublic class ProjCostTrans extends common\n{\n    private static str expensetransInvoicedate()\n    {\n        str expressionExp = strFmt(\n\n               @\"SELECT TOP 1 PROJINVOICEJOURlocexp.INVOICEDATE\n\n                FROM %1 AS ProjProposalCostLoc\n\n                JOIN %2 AS PROJINVOICEJOURlocexp\n\n                    ON PROJINVOICEJOURlocexp.ProposalId = ProjProposalCostLoc.ProposalId\n\n                     WHERE ProjProposalCostLoc.TransId = %3\",\n            (new SysDictTable(tableNum(ProjProposalCost))).name(DbBackend::Sql),\n            (new SysDictTable(tableNum(PROJINVOICEJOUR))).name(DbBackend::Sql),\n             SysComputedColumn::returnField(tableStr(NAVProjCostTrans), identifierStr(ProjCostTrans), \n            fieldStr(ProjCostTrans, TransId)));\n\n\n        return expressionExp;\n    }\n\n}\n\n\nonce method is completed, add view as data source in expense journal form and drag invoice date filed into grid.",
+          "link": "https://d365fotechexpert.blogspot.com/2024/04/how-to-create-filter-on-display-method.html",
+          "publishedOn": "2024-04-17T04:24:00.000Z",
+          "wordCount": 5659,
+          "title": "How to create a filter on display method using view – D365 F&O",
+          "imageUrl": null
+        },
+        {
           "id": "https://d365fotechexpert.blogspot.com/2024/03/how-to-customize-ssrs-report-in-d365-f.html",
           "author": null,
           "description": "Microsoft Dynamics 365 Finance and Operations (D365 F&O) provides robust reporting capabilities through SQL Server Reporting Services (SSRS) reports. SSRS reports in D365 F&O can be customized to meet specific business requirements, allowing organizations to tailor their reports to display relevant information. In this article, we’ll explore the process of customizing a D365 F&O SSRS report using the Sales Packing Slip report as an example.\n\n\nUnderstanding SSRS Reports in D365 F&O\nSSRS reports in D365 F&O are generated using a combination of data stored in temporary tables (tmp tables) and report designs created in Visual Studio. These reports play a crucial role in providing insights into various aspects of business operations, and customization allows organizations to adapt these reports…",
@@ -1400,6 +1410,106 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=105689",
+          "author": "Vicinity Software",
+          "description": "The importance of food safety cannot be overstated. Nearly half a million people die each year from foodborne illnesses, many of them preventable. Industry leaders are striving to ensure that […]\nThe post Food Safety Supply Chain Innovations with VicinityFood and Dynamics 365 BC appeared first on ERP Software Blog.\nVicinity Software with Dynamics 365 Business Central Helps Food Manufacturers Find Sweet Success\nStrategic Mindset for a Successful ERP implementation\nVicinityFood, An ERP Solution For Lot Traceability for Food Safety and Increased Compliance",
+          "link": "https://erpsoftwareblog.com/2024/04/food-safety-supply-chain-innovations-with-vicinityfood-and-dynamics-365-bc/",
+          "publishedOn": "2024-04-17T19:56:16.000Z",
+          "wordCount": 5290,
+          "title": "Food Safety Supply Chain Innovations with VicinityFood and Dynamics 365 BC",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2024-04-Food-Safety-Supply-Chain-Innovations-with-VicinityFood-and-Dynamics-365-BC_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105909",
+          "author": "MetaOption LLC",
+          "description": "In today’s fast-paced e-commerce world, efficiency and accuracy are king in the warehouse. Traditional, paper-based systems just can’t keep up with the demands of modern inventory management. This is where […]\nThe post Why Your Warehouse Needs a Mobile Warehouse Management Solution (WMS) in 2024 appeared first on ERP Software Blog.\nBoosting Productivity: The Urgent Need for a Mobile WMS\nEverything you need to know about Warehouse Order Picking Methods\nScalable Solutions: How Business Central Warehouse Management adapts to growing businesses",
+          "link": "https://erpsoftwareblog.com/2024/04/why-your-warehouse-needs-a-mobile-warehouse-management-solution-wms-in-2024/",
+          "publishedOn": "2024-04-17T19:31:38.000Z",
+          "wordCount": 5145,
+          "title": "Why Your Warehouse Needs a Mobile Warehouse Management Solution (WMS) in 2024",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-1-80.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105908",
+          "author": "StockIQ Technologies",
+          "description": "At StockIQ, we’re not just providing inventory management solutions; we’re about embarking on a journey with our customers, celebrating their triumphs, and tackling challenges together. It’s a partnership where success […]\nThe post Navigating the Inventory Seas: A StockIQ Success Story appeared first on ERP Software Blog.\nHow Effective Supply Chain Forecasting and Planning Can Drive Transformational Change\nThe Two Sides of Inventory Management\nInventory Management, Is It the People, Process or Tools?",
+          "link": "https://erpsoftwareblog.com/2024/04/navigating-the-inventory-seas-a-stockiq-success-story/",
+          "publishedOn": "2024-04-17T19:30:13.000Z",
+          "wordCount": 5225,
+          "title": "Navigating the Inventory Seas: A StockIQ Success Story",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105313",
+          "author": "Innovia Consulting",
+          "description": "Team Member licenses are designed to give users with limited permissions access to the tools they need to perform their job tasks within Microsoft Dynamics 365 Business Central (BC). They are […]\nThe post Team Member Licenses for Business Central Save Money appeared first on ERP Software Blog.\nMicrosoft Power BI: Custom Bar Colors Helps you Show Your ERP Data Better\nMitigate Unplanned Downtime with Advanced Scheduling Solutions for Job Shops\nWhat XaaS Can Do For Your Business",
+          "link": "https://erpsoftwareblog.com/2024/04/team-member-licenses-for-business-central-save-money/",
+          "publishedOn": "2024-04-17T19:20:45.000Z",
+          "wordCount": 5417,
+          "title": "Team Member Licenses for Business Central Save Money",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2024-03-Team-Member-Licenses-for-Business-Central-Save-Money_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105905",
+          "author": "MetaOption LLC",
+          "description": "In today’s competitive business landscape, streamlining workflows and maximizing efficiency are crucial for success. One powerful tool that can significantly enhance your business operations is a vendor portal. What is a […]\nThe post Streamline Your Operations and Boost Efficiency with a Vendor Portal appeared first on ERP Software Blog.\nBest Practices for Implementing a Vendor Portal in Microsoft Dynamics NAV\nHow Vendor Portal Enhances RFQ Management in Business Central\nManaging Work Orders and Production Scheduling with Business Central",
+          "link": "https://erpsoftwareblog.com/2024/04/streamline-your-operations-and-boost-efficiency-with-a-vendor-portal/",
+          "publishedOn": "2024-04-17T18:06:46.000Z",
+          "wordCount": 5121,
+          "title": "Streamline Your Operations and Boost Efficiency with a Vendor Portal",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-129.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105896",
+          "author": "StockIQ Technologies",
+          "description": "In today’s fast-paced business landscape, efficient supply chain management is crucial for success. StockIQ stands out as a game-changer, offering seamless integrations with various ERP systems. Let’s dive into how StockIQ can revolutionize […]\nThe post Unlocking Seamless ERP Integrations with StockIQ appeared first on ERP Software Blog.\n“Readers Digest” Version of the LEAN Enterprise\nBaker’s Dozen of WMS (Warehouse Management System) Acronyms Defined\nGain Efficiency in Microsoft Dynamics GP Lot Tracking with WithoutWire™ WMS – demo",
+          "link": "https://erpsoftwareblog.com/2024/04/unlocking-seamless-erp-integrations-with-stockiq/",
+          "publishedOn": "2024-04-17T14:21:21.000Z",
+          "wordCount": 5050,
+          "title": "Unlocking Seamless ERP Integrations with StockIQ",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105842",
+          "author": "iCepts Technology Group, Inc.",
+          "description": "What Are Inventory Turns and What are the Benefits of Improved Inventory Turns?  Inventory management is a critical aspect of any distribution business. Efficiently managing inventory can significantly impact a […]\nThe post Benefits of Improved Inventory Turns appeared first on ERP Software Blog.\nHow AP Invoice Automation Drives Cost Savings for Dynamics GP Customers\nAccessibility Options in Microsoft Dynamics NAV\nHow to Extend Excel with Reporting Parameters",
+          "link": "https://erpsoftwareblog.com/2024/04/benefits-of-improved-inventory-turns/",
+          "publishedOn": "2024-04-17T14:17:52.000Z",
+          "wordCount": 5341,
+          "title": "Benefits of Improved Inventory Turns",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105880",
+          "author": "Dynamics Square USA",
+          "description": "Wondering how integrating Power Automate with Business Central can be beneficial to your business? Let’s find out the answer to this question. Regardless of the industry, if you want to […]\nThe post Power Automate with Business Central: Features and Benefits appeared first on ERP Software Blog.\nThe Benefits and Limitations to Using Parse JSON  |  Power Automate and Dynamics 365 Business Central\nHow to Upgrade Dynamics NAV to Business Central in 2023?\nRemanufacturing: Tracking Cores with Dynamics 365BC and 365REMAN",
+          "link": "https://erpsoftwareblog.com/2024/04/power-automate-with-business-central/",
+          "publishedOn": "2024-04-17T12:22:10.000Z",
+          "wordCount": 5838,
+          "title": "Power Automate with Business Central: Features and Benefits",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Power-Automate-with-Business-Central.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105884",
+          "author": "EthoTech",
+          "description": "Can Your Commission Payment Plan Get Past the Final Four? Find Out. Handling variable compensation payments is a critical function for most businesses, but even all-star accounting teams need a […]\nThe post Use This Playbook to Create a Commission Payment Plan That Wins Every Time appeared first on ERP Software Blog.\nCalculate Complex Commissions in Dynamics GP?  Yes, With Ethotech Commissions!\nCase Study: HACCP Compliance with Dynamics GP\nManaging Mandatory Sick Leave with Microsoft Dynamics® GP",
+          "link": "https://erpsoftwareblog.com/2024/04/use-this-playbook-to-create-a-commission-payment-plan-that-wins-every-time/",
+          "publishedOn": "2024-04-17T11:40:11.000Z",
+          "wordCount": 5643,
+          "title": "Use This Playbook to Create a Commission Payment Plan That Wins Every Time",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Commission-Payment-Plan.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105808",
+          "author": "Insight Works",
+          "description": "In the face of rising shipping costs following FedEx and UPS's rate increases, Insight Works introduces Order Ship Express for Dynamics 365 Business Central users, a strategic tool featuring innovative rate-shopping capabilities to ensure cost-effective shipping solutions for SMBs.\nThe post Dynamics 365 Business Central Users Gain Edge with Order Ship Express’s Rate-Shopping Feature appeared first on ERP Software Blog.\nAchieving ROI with a Best-of-Breed Warehouse Management Solution (WMS)\nWarehouse Insight Now Available for Dynamics 365 Business Central\nGetting More Out of GP During the Pandemic and Beyond",
+          "link": "https://erpsoftwareblog.com/2024/04/order-ship-express-rate-shopping-feature-for-business-central/",
+          "publishedOn": "2024-04-17T11:11:56.000Z",
+          "wordCount": 5327,
+          "title": "Dynamics 365 Business Central Users Gain Edge with Order Ship Express’s Rate-Shopping Feature",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Order-Ship-Express-2000.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=105854",
           "author": "StockIQ Technologies",
@@ -7234,6 +7344,106 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/power-pages-ai-lesson-9-replay-1-youtube",
+          "author": "Victor Dantas",
+          "description": "Power Pages & AI – Lesson 9 – REPLAY 1 source",
+          "link": "https://365community.online/power-pages-ai-lesson-9-replay-1-youtube",
+          "publishedOn": "2024-04-17T17:12:07.000Z",
+          "wordCount": 3152,
+          "title": "Power Pages & AI – Lesson 9 – REPLAY 1 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1713384295_maxresdefault_live.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-lumberyard-revolution-how-lmc-leverages-maps-within-dynamics-365-to-deliver-forest-products-faster",
+          "author": "Inogic",
+          "description": "The post The Lumberyard Revolution: How LMC Leverages Maps within Dynamics 365 to Deliver Forest Products Faster! appeared first on Blog | Maplytics. Source link",
+          "link": "https://365community.online/the-lumberyard-revolution-how-lmc-leverages-maps-within-dynamics-365-to-deliver-forest-products-faster",
+          "publishedOn": "2024-04-17T10:15:06.000Z",
+          "wordCount": 3407,
+          "title": "The Lumberyard Revolution: How LMC Leverages Maps within Dynamics 365 to Deliver Forest Products Faster!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Maplytics-Banner-Images-2024-04-17T153347.264.png?fit=700%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/enhancing-sales-efficiency-by-improving-relevance-of-copilot-summary-and-recent-changes",
+          "author": "Inogic",
+          "description": "We are all familiar with the Sales Copilot and its time-saving features. In the previous blog, we have seen how copilot helps to boost sales efficiency in Microsoft Dynamics 365 […]",
+          "link": "https://365community.online/enhancing-sales-efficiency-by-improving-relevance-of-copilot-summary-and-recent-changes",
+          "publishedOn": "2024-04-17T10:07:24.000Z",
+          "wordCount": 3553,
+          "title": "Enhancing Sales Efficiency by Improving Relevance of Copilot Summary and Recent Changes",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Improving-Relevance-of-Copilot-Summary-1.png?fit=1200%2C644&ssl=1"
+        },
+        {
+          "id": "https://365community.online/splitting-a-table-on-a-microsoft-dynamics-365-business-central-word-template",
+          "author": "Ian Grieve",
+          "description": "This technically isn’t a Microsoft Dynamics 365 Business Central issue, but I encountered it when working on a Word template from Business Central. The same action will work for any […]",
+          "link": "https://365community.online/splitting-a-table-on-a-microsoft-dynamics-365-business-central-word-template",
+          "publishedOn": "2024-04-17T10:00:00.000Z",
+          "wordCount": 3261,
+          "title": "Splitting a Table on a Microsoft Dynamics 365 Business Central Word Template",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Splitting-a-Table-on-a-Microsoft-Dynamics-365-Business-Central.png?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/%f0%9f%9a%80new-video-copilot-en-aplicaciones-de-negocio-experiencia-unificada",
+          "author": "jarmesto",
+          "description": "Nuevo Video en mi canal de YouTube. Con la llegada de copilot a distintas aplicaciones de negocio , el foco esta puesto principalmente en querer usarlo como chat, es decir […]",
+          "link": "https://365community.online/%f0%9f%9a%80new-video-copilot-en-aplicaciones-de-negocio-experiencia-unificada",
+          "publishedOn": "2024-04-17T07:00:00.000Z",
+          "wordCount": 3262,
+          "title": "🚀New Video:  Copilot en aplicaciones de negocio, experiencia unificada.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1713351532_New-Video-Copilot-en-aplicaciones-de-negocio-experiencia-unificada.png?fit=1200%2C685&ssl=1"
+        },
+        {
+          "id": "https://365community.online/streamlining-finances-utilizing-deferral-codes-in-purchase-and-sales-journals",
+          "author": "Saurav Dhyani",
+          "description": "Regards,Saurav Dhyani https://bit.ly/SubscribeSauravYouTube Continue Reading Saurav Dhyani’s Article on their blog Streamlining Finances: Utilizing Deferral Codes in Purchase and Sales Journals. msdyn365bc, #deferral, #BC24, #BusinessCenral Blog Syndicated with Saurav […]",
+          "link": "https://365community.online/streamlining-finances-utilizing-deferral-codes-in-purchase-and-sales-journals",
+          "publishedOn": "2024-04-17T05:30:00.000Z",
+          "wordCount": 3159,
+          "title": "Streamlining Finances: Utilizing Deferral Codes in Purchase and Sales Journals.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Streamlining-Finances-Utilizing-Deferral-Codes-in-Purchase-and-Sales-Journals.jpeg?fit=480%2C360&ssl=1"
+        },
+        {
+          "id": "https://365community.online/unleashing-the-magic-of-github-copilot-for-javascript-jquery-in-power-pages-with-oliver-rodrigues-youtube",
+          "author": "Victor Dantas",
+          "description": "Whether you’re a wizard at coding or just starting your magical journey, this session is your ticket to mastering JavaScript and jQuery in the context of Power Pages. Get ready […]",
+          "link": "https://365community.online/unleashing-the-magic-of-github-copilot-for-javascript-jquery-in-power-pages-with-oliver-rodrigues-youtube",
+          "publishedOn": "2024-04-17T04:30:14.000Z",
+          "wordCount": 3225,
+          "title": "Unleashing the Magic of GitHub Copilot for JavaScript & jQuery in Power Pages with Oliver Rodrigues – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1713369581_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/what-will-happen-on-changing-the-password-of-the-user-account-used-as-the-owner-of-cloud-flow-and-for-connection-power-automate",
+          "author": "Nishant Rana",
+          "description": "Recently we had to change the password of the user account being used as an owner of the cloud flows as well as the used for connection/connection reference. So we […]",
+          "link": "https://365community.online/what-will-happen-on-changing-the-password-of-the-user-account-used-as-the-owner-of-cloud-flow-and-for-connection-power-automate",
+          "publishedOn": "2024-04-16T22:30:00.000Z",
+          "wordCount": 3337,
+          "title": "What will happen on changing the password of the user account used as the Owner of Cloud Flow and for Connection – Power Automate",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/What-will-happen-on-changing-the-password-of-the-user.jpeg?fit=1200%2C799&ssl=1"
+        },
+        {
+          "id": "https://365community.online/essential-steps-for-deploying-azure-stack-hci-part-1-youtube",
+          "author": "shabaz darr",
+          "description": "Looking to deploy Azure Stack HCI? In this video, we cover the essential steps for planning and deploying Azure Stack HCI. Stay tuned for Part 2 for more in-depth instructions. […]",
+          "link": "https://365community.online/essential-steps-for-deploying-azure-stack-hci-part-1-youtube",
+          "publishedOn": "2024-04-16T20:15:02.000Z",
+          "wordCount": 3165,
+          "title": "Essential Steps for Deploying Azure Stack HCI – Part 1 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1713367961_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/copilot-en-aplicaciones-de-negocio-aun-piensas-que-no-esta-cambiando-nada-youtube",
+          "author": "jarmesto",
+          "description": "Copilot en Aplicaciones de Negocio – ¿Aun piensas que no esta cambiando nada? ¡Descubre cómo Copilot está revolucionando las aplicaciones de negocio! 🚀 En este video titulado “Copilot en Aplicaciones […]",
+          "link": "https://365community.online/copilot-en-aplicaciones-de-negocio-aun-piensas-que-no-esta-cambiando-nada-youtube",
+          "publishedOn": "2024-04-16T16:00:27.000Z",
+          "wordCount": 3315,
+          "title": "Copilot en Aplicaciones de Negocio – ¿Aun piensas que no esta cambiando nada? – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1713305816_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
         {
           "id": "https://365community.online/using-focused-view-in-dynamics-365",
           "author": "Nishant Rana",
@@ -18684,6 +18894,16 @@
       "feedUrl": "https://daxonline.org/rss.xml",
       "siteUrl": "http://daxonline.org/",
       "articles": [
+        {
+          "id": "1947",
+          "author": "Vasyl Kovalenko",
+          "description": "- change date which is used in price agreement calculation\n- trigger SalesLines update from SalesTable form header updates (price agreement) using Never/Always/Prompt sales ledger settings.\nSettings:\nSales Ledger Parameters > Update > Update OrderLines form\n\n\nChange date which is used in price agreement calculation\nThe method, which is used to get the date is SalesTable.getFinalDiscPriceDate()\nIf you need just need to extend standard dropdown and add additional value to:\n\n\nThen delegates on SalesTable and SalesLine can be used:\nSalesTable.finalPriceDateDelegate()\nSalesLine.retrievePriceDateDelegate()\n\n/// <summary>\n/// Event handler for SalesLine\n/// </summary>\ninternal final class VKSalesLineEventHandler\n{\n    /// <summary>\n    /// PriceDateDelegate for sales line.\n    /// </summary>\n    …",
+          "link": "http://daxonline.org/1947-trigger-salesline-update-from-salestable-form-header-updates-price-agreement.html",
+          "publishedOn": "2024-04-17T11:46:51.000Z",
+          "wordCount": 1090,
+          "title": "Trigger SalesLine update from SalesTable form header updates (price agreement)",
+          "imageUrl": null
+        },
         {
           "id": "1945",
           "author": "Vasyl Kovalenko",
