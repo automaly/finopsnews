@@ -2,10 +2,136 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-04-18T00:38:43.115Z</updated>
+    <updated>2024-04-19T00:39:11.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Optimizing Payment Accuracy: The Role of AP Automation in Mitigating Errors]]></title>
+        <id>https://erpsoftwareblog.com/?p=105939</id>
+        <link href="https://erpsoftwareblog.com/2024/04/optimizing-payment-accuracy-the-role-of-ap-automation-in-mitigating-errors/"/>
+        <updated>2024-04-18T20:53:36.000Z</updated>
+        <summary type="html"><![CDATA[Errors in Accounts Payable can be costly! The AP department needs to ensure that accurate payments are being made each time, and manual data entry systems can result in paying […]
+The post Optimizing Payment Accuracy: The Role of AP Automation in Mitigating Errors appeared first on ERP Software Blog.
+Top Reasons To Automate Accounts Payable
+Top 10 Myths Surrounding AP Automation
+Filing Away Inefficiency: The ROI of Electronic Invoicing]]></summary>
+        <author>
+            <name>MetaViewer from Metafile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maximizing Marketing Potential with Dynamics 365: A Comprehensive Guide]]></title>
+        <id>https://erpsoftwareblog.com/?p=105934</id>
+        <link href="https://erpsoftwareblog.com/2024/04/maximizing-marketing-potential-with-dynamics-365/"/>
+        <updated>2024-04-18T19:54:05.000Z</updated>
+        <summary type="html"><![CDATA[In today’s dynamic business landscape, effective marketing isn’t just about reaching out to potential customers; it’s about engaging them in meaningful ways, nurturing relationships, and ultimately driving conversions. To achieve […]
+The post Maximizing Marketing Potential with Dynamics 365: A Comprehensive Guide appeared first on ERP Software Blog.
+Tech Insider Update Reviews Latest Enhancements to Microsoft Technology Stack
+Register Now for JourneyTEAM’s 2021 Business Technology Summit
+Easily Manage Data with Business Central Virtual Tables]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boosting Warehouse Efficiency: Unveiling the Benefits of MetaWMS]]></title>
+        <id>https://erpsoftwareblog.com/?p=105930</id>
+        <link href="https://erpsoftwareblog.com/2024/04/boosting-warehouse-efficiency-unveiling-the-benefits-of-metawms/"/>
+        <updated>2024-04-18T14:35:00.000Z</updated>
+        <summary type="html"><![CDATA[In the fast-paced world of logistics and supply chain management, staying ahead of the curve is paramount. Businesses are constantly seeking innovative solutions to optimize their warehouse operations, reduce costs, […]
+The post Boosting Warehouse Efficiency: Unveiling the Benefits of MetaWMS appeared first on ERP Software Blog.
+Why Your Warehouse Needs a Mobile Warehouse Management Solution (WMS) in 2024
+How a WMS manage the cold chain for food safety and quality
+Scalable Solutions: How Business Central Warehouse Management adapts to growing businesses]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safety Stock Management for Dynamics 365 BC From Netstock Part 2]]></title>
+        <id>https://erpsoftwareblog.com/?p=105709</id>
+        <link href="https://erpsoftwareblog.com/2024/04/safety-stock-management-for-dynamics-365-bc-from-netstock-part-2/"/>
+        <updated>2024-04-18T12:14:03.000Z</updated>
+        <summary type="html"><![CDATA[Safety stock is the extra product businesses keep on hand to avoid running out of vital inventory at critical times. The additional stock is used as a buffer to mitigate […]
+The post Safety Stock Management for Dynamics 365 BC From Netstock Part 2 appeared first on ERP Software Blog.
+Dynamics 365: Is Satya Nadella's Promise of "One Microsoft" Finally Here?
+Insight Works Announces Release of Shop Floor Insight Add-On for Dynamics 365 Business Central Cloud
+5 best practices to enable compliance with ASC 606 and IFRS 15]]></summary>
+        <author>
+            <name>Netstock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Refresh Dynamics 365 CRM Subgrid from Embedded Canvas App]]></title>
+        <id>https://365community.online/refresh-dynamics-365-crm-subgrid-from-embedded-canvas-app</id>
+        <link href="https://365community.online/refresh-dynamics-365-crm-subgrid-from-embedded-canvas-app"/>
+        <updated>2024-04-18T10:49:58.000Z</updated>
+        <summary type="html"><![CDATA[In Microsoft Dynamics 365, the ability to embed Canvas Apps brings the power of Canvas Apps to their model-driven forms. Recently, we got a requirement to create a record of the […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Administration), how do I… Share a Saved List View]]></title>
+        <id>https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-share-a-saved-list-view</id>
+        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-share-a-saved-list-view"/>
+        <updated>2024-04-18T10:00:52.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transforming digital processes with AI: A Power Automate Process Mining Case Study at Microsoft Customer and Partner Solutions (MCAPS)]]></title>
+        <id>transforming-digital-processes-with-ai-a-power-automate-process-mining-case-study-at-microsoft-customer-and-partner-solutions-mcaps</id>
+        <link href="https://powerautomate.microsoft.com/en-nz/blog/transforming-digital-processes-with-ai-a-power-automate-process-mining-case-study-at-microsoft-customer-and-partner-solutions-mcaps/"/>
+        <updated>2024-04-18T08:46:04.000Z</updated>
+        <summary type="html"><![CDATA[How can businesses streamline their processes and optimize their performance with process mining? Microsoft Customer and Partner Solutions organization has been using Power Automate Process Mining with Copilot to analyze, improve, and monitor their sales processes. The results have been impressive for their marketing demand generation process. Read on to learn how they did it, and how you can benefit from Power Automate Process Mining too.]]></summary>
+        <author>
+            <name>powerautomate.microsoft.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simplanova Karjeros akseleratorius – YouTube]]></title>
+        <id>https://365community.online/simplanova-karjeros-akseleratorius-youtube</id>
+        <link href="https://365community.online/simplanova-karjeros-akseleratorius-youtube"/>
+        <updated>2024-04-18T07:11:22.000Z</updated>
+        <summary type="html"><![CDATA[„Simplanovos“ karjeros akseleratorius yra įdarbinimo programos dalis, skirta studentams, besidomintiems technologijomis, inovacijomis ir norintiems pradėti karjerą bei įgyti realios darbo patirties dar studijų metu. Programos dalyviai per 1 mėnesį įgyja […]]]></summary>
+        <author>
+            <name>Justina Žiūraitė</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welsh Azure User Group April 2024 Meet Up!]]></title>
+        <id>https://365community.online/welsh-azure-user-group-april-2024-meet-up</id>
+        <link href="https://365community.online/welsh-azure-user-group-april-2024-meet-up"/>
+        <updated>2024-04-18T06:06:03.000Z</updated>
+        <summary type="html"><![CDATA[It was the day of our Welsh Azure User Group #WAUG April 2024 meet up and we had yet another two amazing speakers join us. We were joined by Jake […]]]></summary>
+        <author>
+            <name>John Lunn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚀New Video:  Colaboración en Dynamics 365 , empezando con los enjambres.]]></title>
+        <id>https://365community.online/%f0%9f%9a%80new-video-colaboracion-en-dynamics-365-empezando-con-los-enjambres</id>
+        <link href="https://365community.online/%f0%9f%9a%80new-video-colaboracion-en-dynamics-365-empezando-con-los-enjambres"/>
+        <updated>2024-04-18T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nuevo Video en mi canal de YouTube. Recientemente he publicado sobre lo interesante que me parece la colaboración en Dynamics 365 Customer Service. En concreto sobre la funcionalidad llamada enjambres […]]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central 2024 Release Wave 1 – Archiving Projects for Enhanced Efficiency]]></title>
+        <id>https://365community.online/business-central-2024-release-wave-1-archiving-projects-for-enhanced-efficiency</id>
+        <link href="https://365community.online/business-central-2024-release-wave-1-archiving-projects-for-enhanced-efficiency"/>
+        <updated>2024-04-18T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Regards,Saurav Dhyani https://bit.ly/SubscribeSauravYouTube Continue Reading Saurav Dhyani’s Article on their blog Business Central 2024 Release Wave 1 – Archiving Projects for Enhanced Efficiency msdyn365bc, #whatsnew, #projects, #job, #businesscentral24, #bc24 […]]]></summary>
+        <author>
+            <name>Saurav Dhyani</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Food Safety Supply Chain Innovations with VicinityFood and Dynamics 365 BC]]></title>
         <id>https://erpsoftwareblog.com/?p=105689</id>
@@ -31290,17 +31416,6 @@ Having rules in place surrounding how Blocking rules are run is a massive improv
         <summary type="html"><![CDATA[The blog post describes a sample approach how to implement XML based integration by importing purchase orders from Azure File Share in D365FO using X++]]></summary>
         <author>
             <name>Gatsby RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Insertar Power Apps en Dynamics 365 Finance and Operations]]></title>
-        <id>https://jatomas.com/?p=1887</id>
-        <link href="https://jatomas.com/2022/04/20/insertar-power-apps-dynamics-365-finance-operations/"/>
-        <updated>2022-04-20T11:19:38.000Z</updated>
-        <summary type="html"><![CDATA[Gracias a la Power Platform, se han multiplicado las opciones que tenemos para extender Dynamics 365 Finance and Operations sin necesidad de escribir código. En artículos anteriores vimos como podíamos aprovechar los flujos de Power Automate para ello, y en esta ocasión, nos vamos a centrar en las distintas formas que tenemos para insertar aplicaciones… 
-Read]]></summary>
-        <author>
-            <name>ja.tomas</name>
         </author>
     </entry>
 </feed>

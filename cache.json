@@ -1411,6 +1411,46 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=105939",
+          "author": "MetaViewer from Metafile",
+          "description": "Errors in Accounts Payable can be costly! The AP department needs to ensure that accurate payments are being made each time, and manual data entry systems can result in paying […]\nThe post Optimizing Payment Accuracy: The Role of AP Automation in Mitigating Errors appeared first on ERP Software Blog.\nTop Reasons To Automate Accounts Payable\nTop 10 Myths Surrounding AP Automation\nFiling Away Inefficiency: The ROI of Electronic Invoicing",
+          "link": "https://erpsoftwareblog.com/2024/04/optimizing-payment-accuracy-the-role-of-ap-automation-in-mitigating-errors/",
+          "publishedOn": "2024-04-18T20:53:36.000Z",
+          "wordCount": 5053,
+          "title": "Optimizing Payment Accuracy: The Role of AP Automation in Mitigating Errors",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/A8x604cx71x1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105934",
+          "author": "MetaOption LLC",
+          "description": "In today’s dynamic business landscape, effective marketing isn’t just about reaching out to potential customers; it’s about engaging them in meaningful ways, nurturing relationships, and ultimately driving conversions. To achieve […]\nThe post Maximizing Marketing Potential with Dynamics 365: A Comprehensive Guide appeared first on ERP Software Blog.\nTech Insider Update Reviews Latest Enhancements to Microsoft Technology Stack\nRegister Now for JourneyTEAM’s 2021 Business Technology Summit\nEasily Manage Data with Business Central Virtual Tables",
+          "link": "https://erpsoftwareblog.com/2024/04/maximizing-marketing-potential-with-dynamics-365/",
+          "publishedOn": "2024-04-18T19:54:05.000Z",
+          "wordCount": 5332,
+          "title": "Maximizing Marketing Potential with Dynamics 365: A Comprehensive Guide",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-1-81.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105930",
+          "author": "MetaOption LLC",
+          "description": "In the fast-paced world of logistics and supply chain management, staying ahead of the curve is paramount. Businesses are constantly seeking innovative solutions to optimize their warehouse operations, reduce costs, […]\nThe post Boosting Warehouse Efficiency: Unveiling the Benefits of MetaWMS appeared first on ERP Software Blog.\nWhy Your Warehouse Needs a Mobile Warehouse Management Solution (WMS) in 2024\nHow a WMS manage the cold chain for food safety and quality\nScalable Solutions: How Business Central Warehouse Management adapts to growing businesses",
+          "link": "https://erpsoftwareblog.com/2024/04/boosting-warehouse-efficiency-unveiling-the-benefits-of-metawms/",
+          "publishedOn": "2024-04-18T14:35:00.000Z",
+          "wordCount": 5177,
+          "title": "Boosting Warehouse Efficiency: Unveiling the Benefits of MetaWMS",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-130.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105709",
+          "author": "Netstock",
+          "description": "Safety stock is the extra product businesses keep on hand to avoid running out of vital inventory at critical times. The additional stock is used as a buffer to mitigate […]\nThe post Safety Stock Management for Dynamics 365 BC From Netstock Part 2 appeared first on ERP Software Blog.\nDynamics 365: Is Satya Nadella's Promise of \"One Microsoft\" Finally Here?\nInsight Works Announces Release of Shop Floor Insight Add-On for Dynamics 365 Business Central Cloud\n5 best practices to enable compliance with ASC 606 and IFRS 15",
+          "link": "https://erpsoftwareblog.com/2024/04/safety-stock-management-for-dynamics-365-bc-from-netstock-part-2/",
+          "publishedOn": "2024-04-18T12:14:03.000Z",
+          "wordCount": 5646,
+          "title": "Safety Stock Management for Dynamics 365 BC From Netstock Part 2",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2024-04-Safety-Stock-Management-Add-On-for-Dynamics-365-BC-From-Netstock-Part-2_1200-x-628.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=105689",
           "author": "Vicinity Software",
           "description": "The importance of food safety cannot be overstated. Nearly half a million people die each year from foodborne illnesses, many of them preventable. Industry leaders are striving to ensure that […]\nThe post Food Safety Supply Chain Innovations with VicinityFood and Dynamics 365 BC appeared first on ERP Software Blog.\nVicinity Software with Dynamics 365 Business Central Helps Food Manufacturers Find Sweet Success\nStrategic Mindset for a Successful ERP implementation\nVicinityFood, An ERP Solution For Lot Traceability for Food Safety and Increased Compliance",
@@ -7344,6 +7384,66 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/refresh-dynamics-365-crm-subgrid-from-embedded-canvas-app",
+          "author": "Inogic",
+          "description": "In Microsoft Dynamics 365, the ability to embed Canvas Apps brings the power of Canvas Apps to their model-driven forms. Recently, we got a requirement to create a record of the […]",
+          "link": "https://365community.online/refresh-dynamics-365-crm-subgrid-from-embedded-canvas-app",
+          "publishedOn": "2024-04-18T10:49:58.000Z",
+          "wordCount": 3534,
+          "title": "Refresh Dynamics 365 CRM Subgrid from Embedded Canvas App",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Refresh-Dynamics-365-CRM-Subgrid-from-Embedded-Canvas-App-1.png?fit=1200%2C520&ssl=1"
+        },
+        {
+          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-share-a-saved-list-view",
+          "author": "Ian Grieve",
+          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]",
+          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-share-a-saved-list-view",
+          "publishedOn": "2024-04-18T10:00:52.000Z",
+          "wordCount": 3282,
+          "title": "In Microsoft Dynamics 365 Business Central (Administration), how do I… Share a Saved List View",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/In-Microsoft-Dynamics-365-Business-Central-Administration-how-do-I….png?fit=1200%2C273&ssl=1"
+        },
+        {
+          "id": "https://365community.online/simplanova-karjeros-akseleratorius-youtube",
+          "author": "Justina Žiūraitė",
+          "description": "„Simplanovos“ karjeros akseleratorius yra įdarbinimo programos dalis, skirta studentams, besidomintiems technologijomis, inovacijomis ir norintiems pradėti karjerą bei įgyti realios darbo patirties dar studijų metu. Programos dalyviai per 1 mėnesį įgyja […]",
+          "link": "https://365community.online/simplanova-karjeros-akseleratorius-youtube",
+          "publishedOn": "2024-04-18T07:11:22.000Z",
+          "wordCount": 3192,
+          "title": "Simplanova Karjeros akseleratorius – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1713428710_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/welsh-azure-user-group-april-2024-meet-up",
+          "author": "John Lunn",
+          "description": "It was the day of our Welsh Azure User Group #WAUG April 2024 meet up and we had yet another two amazing speakers join us. We were joined by Jake […]",
+          "link": "https://365community.online/welsh-azure-user-group-april-2024-meet-up",
+          "publishedOn": "2024-04-18T06:06:03.000Z",
+          "wordCount": 3235,
+          "title": "Welsh Azure User Group April 2024 Meet Up!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Welsh-Azure-User-Group-April-2024-Meet-Up.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/%f0%9f%9a%80new-video-colaboracion-en-dynamics-365-empezando-con-los-enjambres",
+          "author": "jarmesto",
+          "description": "Nuevo Video en mi canal de YouTube. Recientemente he publicado sobre lo interesante que me parece la colaboración en Dynamics 365 Customer Service. En concreto sobre la funcionalidad llamada enjambres […]",
+          "link": "https://365community.online/%f0%9f%9a%80new-video-colaboracion-en-dynamics-365-empezando-con-los-enjambres",
+          "publishedOn": "2024-04-18T06:00:00.000Z",
+          "wordCount": 3246,
+          "title": "🚀New Video:  Colaboración en Dynamics 365 , empezando con los enjambres.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1713351532_New-Video-Copilot-en-aplicaciones-de-negocio-experiencia-unificada.png?fit=1200%2C685&ssl=1"
+        },
+        {
+          "id": "https://365community.online/business-central-2024-release-wave-1-archiving-projects-for-enhanced-efficiency",
+          "author": "Saurav Dhyani",
+          "description": "Regards,Saurav Dhyani https://bit.ly/SubscribeSauravYouTube Continue Reading Saurav Dhyani’s Article on their blog Business Central 2024 Release Wave 1 – Archiving Projects for Enhanced Efficiency msdyn365bc, #whatsnew, #projects, #job, #businesscentral24, #bc24 […]",
+          "link": "https://365community.online/business-central-2024-release-wave-1-archiving-projects-for-enhanced-efficiency",
+          "publishedOn": "2024-04-18T05:30:00.000Z",
+          "wordCount": 3170,
+          "title": "Business Central 2024 Release Wave 1 – Archiving Projects for Enhanced Efficiency",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Business-Central-2024-Release-Wave-1-Archiving-Projects-for.jpeg?fit=480%2C360&ssl=1"
+        },
         {
           "id": "https://365community.online/power-pages-ai-lesson-9-replay-1-youtube",
           "author": "Victor Dantas",
@@ -20895,16 +20995,6 @@
           "wordCount": 3572,
           "title": "Consumir Entidades de Dynamics 365 F&O desde C#",
           "imageUrl": "https://i0.wp.com/jatomas.com/wp-content/uploads/2022/12/consumir-entidades-de-Dynamics-365-FO-desde-C.png"
-        },
-        {
-          "id": "https://jatomas.com/?p=1887",
-          "author": "ja.tomas",
-          "description": "Gracias a la Power Platform, se han multiplicado las opciones que tenemos para extender Dynamics 365 Finance and Operations sin necesidad de escribir código. En artículos anteriores vimos como podíamos aprovechar los flujos de Power Automate para ello, y en esta ocasión, nos vamos a centrar en las distintas formas que tenemos para insertar aplicaciones… \nRead",
-          "link": "https://jatomas.com/2022/04/20/insertar-power-apps-dynamics-365-finance-operations/",
-          "publishedOn": "2022-04-20T11:19:38.000Z",
-          "wordCount": 2442,
-          "title": "Insertar Power Apps en Dynamics 365 Finance and Operations",
-          "imageUrl": "https://i0.wp.com/jatomas.com/wp-content/uploads/2022/04/insertar-Power-apps-dynamics-365-finance-operations-jatomas.png"
         }
       ]
     },
@@ -23079,6 +23169,16 @@
       "feedUrl": "https://powerautomate.microsoft.com/en-nz/blog/feed/",
       "siteUrl": "https://powerautomate.microsoft.com/en-nz/blog/",
       "articles": [
+        {
+          "id": "transforming-digital-processes-with-ai-a-power-automate-process-mining-case-study-at-microsoft-customer-and-partner-solutions-mcaps",
+          "author": null,
+          "description": "How can businesses streamline their processes and optimize their performance with process mining? Microsoft Customer and Partner Solutions organization has been using Power Automate Process Mining with Copilot to analyze, improve, and monitor their sales processes. The results have been impressive for their marketing demand generation process. Read on to learn how they did it, and how you can benefit from Power Automate Process Mining too.",
+          "link": "https://powerautomate.microsoft.com/en-nz/blog/transforming-digital-processes-with-ai-a-power-automate-process-mining-case-study-at-microsoft-customer-and-partner-solutions-mcaps/",
+          "publishedOn": "2024-04-18T08:46:04.000Z",
+          "wordCount": 2941,
+          "title": "Transforming digital processes with AI: A Power Automate Process Mining Case Study at Microsoft Customer and Partner Solutions (MCAPS)",
+          "imageUrl": null
+        },
         {
           "id": "hyperautomation-unleashing-enterprise-efficiency-with-microsoft-power-automate",
           "author": null,
