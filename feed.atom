@@ -2,10 +2,152 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-04-23T00:39:27.218Z</updated>
+    <updated>2024-04-24T00:39:21.566Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Essential Steps for Deploying Azure Stack HCI – Part 4 – YouTube]]></title>
+        <id>https://365community.online/essential-steps-for-deploying-azure-stack-hci-part-4-youtube</id>
+        <link href="https://365community.online/essential-steps-for-deploying-azure-stack-hci-part-4-youtube"/>
+        <updated>2024-04-23T20:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Looking to deploy Azure Stack HCI? In this video, we cover the essential steps for planning and deploying Azure Stack HCI. This is the 4th and final episode in this […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Myth Busters! Debunking Popular Myths About ERP Selection and Implementation]]></title>
+        <id>https://www.erpsoftwareblog.com/?p=20145</id>
+        <link href="https://erpsoftwareblog.com/2024/04/myth-busters-debunking-popular-myths-erp-selection-implementation/"/>
+        <updated>2024-04-23T17:16:15.000Z</updated>
+        <summary type="html"><![CDATA[It is important to realize that during ERP selection and implementation a person should not always believe everything they hear. Here are some common myths, which I will attempt to […]
+The post Myth Busters! Debunking Popular Myths About ERP Selection and Implementation appeared first on ERP Software Blog.
+DynaRent Task Guide Experience  – how to optimize the user experience
+How to easily monitor rentals within your rental department
+How DynaRent PowerApps for Dynamics 365 provides the right tools for your service engineers]]></summary>
+        <author>
+            <name>Bob Scarborough, Tensoft Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automate Creating Customer Voice Survey Invitations using Canvas Power Apps]]></title>
+        <id>https://365community.online/automate-creating-customer-voice-survey-invitations-using-canvas-power-apps</id>
+        <link href="https://365community.online/automate-creating-customer-voice-survey-invitations-using-canvas-power-apps"/>
+        <updated>2024-04-23T12:33:43.000Z</updated>
+        <summary type="html"><![CDATA[In our previous blog, we explored the potential of automating the survey invitation process using Power Automate Flow. We concluded that this approach, coupled with personalized variables in the Customer […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central eCommerce Connectors]]></title>
+        <id>https://erpsoftwareblog.com/?p=105996</id>
+        <link href="https://erpsoftwareblog.com/2024/04/business-central-ecommerce-connectors/"/>
+        <updated>2024-04-23T12:27:30.000Z</updated>
+        <summary type="html"><![CDATA[Business Central eCommerce Connectors enables seamless integration between the ERP and eCommerce platforms. These connectors allow Product synchronization, inventory/stock levels management, order management, and customer data synchronization between Business […]
+The post Business Central eCommerce Connectors appeared first on ERP Software Blog.
+ERP with eCommerce Integration – Mistakes People Make
+Setting up the Integration Solution: Dynamics GP & Shopify
+Best Practices for a successful ERP & eCommerce Integration]]></summary>
+        <author>
+            <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[End the Era of Disconnected Systems]]></title>
+        <id>https://erpsoftwareblog.com/?p=106000</id>
+        <link href="https://erpsoftwareblog.com/2024/04/end-the-era-of-disconnected-systems/"/>
+        <updated>2024-04-23T12:24:12.000Z</updated>
+        <summary type="html"><![CDATA[Are you tired of managing multiple systems and struggling to keep everything connected? Are you constantly switching between different platforms, wasting your valuable time and resources?   2024 is the year […]
+The post End the Era of Disconnected Systems appeared first on ERP Software Blog.
+ERP Software Compliance for Regulatory Standards such as SOX, FDA, and ISO using Microsoft Dynamics NAV
+Slow, Frustrating, and Inaccurate: What your ERP Software Shouldn’t Be
+Boost the Financial Health of Your Company With Microsoft Dynamics ERP]]></summary>
+        <author>
+            <name>Boyer &amp;#38; Associates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Innovación en la Gestión de Almacenes con Dynamics 365]]></title>
+        <id>https://365community.online/innovacion-en-la-gestion-de-almacenes-con-dynamics-365</id>
+        <link href="https://365community.online/innovacion-en-la-gestion-de-almacenes-con-dynamics-365"/>
+        <updated>2024-04-23T10:18:39.000Z</updated>
+        <summary type="html"><![CDATA[En la era actual, donde la eficiencia y la personalización son claves para el éxito operativo, Dynamics 365 Supply Chain Management está transformando la experiencia laboral de los trabajadores de […]]]></summary>
+        <author>
+            <name>Juan Bravo Vargas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omnichannel for Customer Service – Test Speaker / Microphone]]></title>
+        <id>https://365community.online/omnichannel-for-customer-service-test-speaker-microphone</id>
+        <link href="https://365community.online/omnichannel-for-customer-service-test-speaker-microphone"/>
+        <updated>2024-04-23T10:17:08.000Z</updated>
+        <summary type="html"><![CDATA[Agents using Microsoft’s Omnichannel for Customer for voice calls can now test their speaker / microphone. I explain how in this post. Until recently agents could select the devices to […]]]></summary>
+        <author>
+            <name>Neil Parkhurst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Administration), how do I… Delete a Company]]></title>
+        <id>https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-delete-a-company</id>
+        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-delete-a-company"/>
+        <updated>2024-04-23T10:00:42.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omnichannel for Customer Service – Call Quality Surveys]]></title>
+        <id>https://365community.online/omnichannel-for-customer-service-call-quality-surveys</id>
+        <link href="https://365community.online/omnichannel-for-customer-service-call-quality-surveys"/>
+        <updated>2024-04-23T08:41:02.000Z</updated>
+        <summary type="html"><![CDATA[We have a new feature in Omnichannel for Customer Service, the ability to collect feedback from agents on call quality. In this post I will explain this new feature. Monitoring […]]]></summary>
+        <author>
+            <name>Neil Parkhurst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improved email attachment experience in D365 Customer Service]]></title>
+        <id>https://365community.online/improved-email-attachment-experience-in-d365-customer-service</id>
+        <link href="https://365community.online/improved-email-attachment-experience-in-d365-customer-service"/>
+        <updated>2024-04-23T07:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Here is another set of features that kind of snuck into Dynamics 365 Customer Service without anyone noticing! At least I didn’t notice until I opened an email message in […]]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improved email attachment experience in D365 Customer Service – YouTube]]></title>
+        <id>https://365community.online/improved-email-attachment-experience-in-d365-customer-service-youtube</id>
+        <link href="https://365community.online/improved-email-attachment-experience-in-d365-customer-service-youtube"/>
+        <updated>2024-04-23T07:56:01.000Z</updated>
+        <summary type="html"><![CDATA[Improved email attachment experience in D365 Customer Service Microsoft has improved the email attachment experience in Dynamics 365 Customer Service! In this video I will tell you all about it, […]]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Send Unique Event Registration Response Emails For Each Event Using No Code]]></title>
+        <id>https://365community.online/send-unique-event-registration-response-emails-for-each-event-using-no-code</id>
+        <link href="https://365community.online/send-unique-event-registration-response-emails-for-each-event-using-no-code"/>
+        <updated>2024-04-23T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Back in June 2022, I wrote a blog showing how you could create a custom trigger, and build a couple of flows in Power Automate to generate one journey for […]]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Upgrade from NAV 2016 to Business Central 14 C/AL.]]></title>
+        <id>https://365community.online/data-upgrade-from-nav-2016-to-business-central-14-c-al</id>
+        <link href="https://365community.online/data-upgrade-from-nav-2016-to-business-central-14-c-al"/>
+        <updated>2024-04-23T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Regards,Saurav Dhyani https://bit.ly/SubscribeSauravYouTube Continue Reading Saurav Dhyani’s Article on their blog Data Upgrade from NAV 2016 to Business Central 14 C/AL. dataupgrade, #nav2016, #datamigration, #businesscentral14 Blog Syndicated with Saurav […]]]></summary>
+        <author>
+            <name>Saurav Dhyani</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Versioning and Drafts for Solution-based Cloud Flows – Power Automate]]></title>
         <id>https://365community.online/versioning-and-drafts-for-solution-based-cloud-flows-power-automate</id>
@@ -14,6 +156,17 @@
         <summary type="html"><![CDATA[We now have the version support for Cloud Flows in Power Automate. This feature is only available in the new editor. Let us start by creating a simple flow, the […]]]></summary>
         <author>
             <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing configurable Copilot summaries in Field Service]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2024/04/22/announcing-configurable-copilot-summaries-in-field-service/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2024/04/22/announcing-configurable-copilot-summaries-in-field-service/"/>
+        <updated>2024-04-22T20:20:45.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce that summary configuration for work order recap with Copilot in Dynamics 365 Field Service is now available for public preview. It builds on the work order recap feature released last year, which provides an AI-generated summary of the Work Order for service managers and technicians.
+The post Announcing configurable Copilot summaries in Field Service appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Joseph Shum</name>
         </author>
     </entry>
     <entry>

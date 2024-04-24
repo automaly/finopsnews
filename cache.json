@@ -1411,6 +1411,36 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://www.erpsoftwareblog.com/?p=20145",
+          "author": "Bob Scarborough, Tensoft Inc.",
+          "description": "It is important to realize that during ERP selection and implementation a person should not always believe everything they hear. Here are some common myths, which I will attempt to […]\nThe post Myth Busters! Debunking Popular Myths About ERP Selection and Implementation appeared first on ERP Software Blog.\nDynaRent Task Guide Experience  – how to optimize the user experience\nHow to easily monitor rentals within your rental department\nHow DynaRent PowerApps for Dynamics 365 provides the right tools for your service engineers",
+          "link": "https://erpsoftwareblog.com/2024/04/myth-busters-debunking-popular-myths-erp-selection-implementation/",
+          "publishedOn": "2024-04-23T17:16:15.000Z",
+          "wordCount": 5384,
+          "title": "Myth Busters! Debunking Popular Myths About ERP Selection and Implementation",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=105996",
+          "author": "x2x eCommerce",
+          "description": "Business Central eCommerce Connectors enables seamless integration between the ERP and eCommerce platforms. These connectors allow Product synchronization, inventory/stock levels management, order management, and customer data synchronization between Business […]\nThe post Business Central eCommerce Connectors appeared first on ERP Software Blog.\nERP with eCommerce Integration – Mistakes People Make\nSetting up the Integration Solution: Dynamics GP & Shopify\nBest Practices for a successful ERP & eCommerce Integration",
+          "link": "https://erpsoftwareblog.com/2024/04/business-central-ecommerce-connectors/",
+          "publishedOn": "2024-04-23T12:27:30.000Z",
+          "wordCount": 5111,
+          "title": "Business Central eCommerce Connectors",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Modern-Promotion-Business-Agency-Blog-Banner-18-300x169.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106000",
+          "author": "Boyer &#38; Associates",
+          "description": "Are you tired of managing multiple systems and struggling to keep everything connected? Are you constantly switching between different platforms, wasting your valuable time and resources?   2024 is the year […]\nThe post End the Era of Disconnected Systems appeared first on ERP Software Blog.\nERP Software Compliance for Regulatory Standards such as SOX, FDA, and ISO using Microsoft Dynamics NAV\nSlow, Frustrating, and Inaccurate: What your ERP Software Shouldn’t Be\nBoost the Financial Health of Your Company With Microsoft Dynamics ERP",
+          "link": "https://erpsoftwareblog.com/2024/04/end-the-era-of-disconnected-systems/",
+          "publishedOn": "2024-04-23T12:24:12.000Z",
+          "wordCount": 5922,
+          "title": "End the Era of Disconnected Systems",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/DIsconnected-Systems.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=105988",
           "author": "MetaOption LLC",
           "description": "In the dynamic world of construction management, the ability to adapt and evolve with the latest technological advancements is crucial for staying ahead of the curve. As businesses seek more […]\nThe post Upgrading Construction Management: Dynamics GP to Business Central appeared first on ERP Software Blog.\nEnhancing Construction Management with Dynamics 365 Business Central\nDynamics 365 Business Central: The Ultimate Tool for Construction Project Managers\nOptimizing Resource Allocation in Construction Using Business Central",
@@ -7464,6 +7494,106 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/essential-steps-for-deploying-azure-stack-hci-part-4-youtube",
+          "author": "shabaz darr",
+          "description": "Looking to deploy Azure Stack HCI? In this video, we cover the essential steps for planning and deploying Azure Stack HCI. This is the 4th and final episode in this […]",
+          "link": "https://365community.online/essential-steps-for-deploying-azure-stack-hci-part-4-youtube",
+          "publishedOn": "2024-04-23T20:15:00.000Z",
+          "wordCount": 3169,
+          "title": "Essential Steps for Deploying Azure Stack HCI – Part 4 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1713913703_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/automate-creating-customer-voice-survey-invitations-using-canvas-power-apps",
+          "author": "Inogic",
+          "description": "In our previous blog, we explored the potential of automating the survey invitation process using Power Automate Flow. We concluded that this approach, coupled with personalized variables in the Customer […]",
+          "link": "https://365community.online/automate-creating-customer-voice-survey-invitations-using-canvas-power-apps",
+          "publishedOn": "2024-04-23T12:33:43.000Z",
+          "wordCount": 3513,
+          "title": "Automate Creating Customer Voice Survey Invitations using Canvas Power Apps",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Automate-Creating-Customer-Voice-Survey-Invitations-1.png?fit=490%2C803&ssl=1"
+        },
+        {
+          "id": "https://365community.online/innovacion-en-la-gestion-de-almacenes-con-dynamics-365",
+          "author": "Juan Bravo Vargas",
+          "description": "En la era actual, donde la eficiencia y la personalización son claves para el éxito operativo, Dynamics 365 Supply Chain Management está transformando la experiencia laboral de los trabajadores de […]",
+          "link": "https://365community.online/innovacion-en-la-gestion-de-almacenes-con-dynamics-365",
+          "publishedOn": "2024-04-23T10:18:39.000Z",
+          "wordCount": 3250,
+          "title": "Innovación en la Gestión de Almacenes con Dynamics 365",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/omnichannel-for-customer-service-test-speaker-microphone",
+          "author": "Neil Parkhurst",
+          "description": "Agents using Microsoft’s Omnichannel for Customer for voice calls can now test their speaker / microphone. I explain how in this post. Until recently agents could select the devices to […]",
+          "link": "https://365community.online/omnichannel-for-customer-service-test-speaker-microphone",
+          "publishedOn": "2024-04-23T10:17:08.000Z",
+          "wordCount": 3217,
+          "title": "Omnichannel for Customer Service – Test Speaker / Microphone",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Omnichannel-for-Customer-Service-–-Test-Speaker-Microphone.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-delete-a-company",
+          "author": "Ian Grieve",
+          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]",
+          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-delete-a-company",
+          "publishedOn": "2024-04-23T10:00:42.000Z",
+          "wordCount": 3264,
+          "title": "In Microsoft Dynamics 365 Business Central (Administration), how do I… Delete a Company",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1713874198_In-Microsoft-Dynamics-365-Business-Central-Administration-how-do-I….png?fit=1200%2C303&ssl=1"
+        },
+        {
+          "id": "https://365community.online/omnichannel-for-customer-service-call-quality-surveys",
+          "author": "Neil Parkhurst",
+          "description": "We have a new feature in Omnichannel for Customer Service, the ability to collect feedback from agents on call quality. In this post I will explain this new feature. Monitoring […]",
+          "link": "https://365community.online/omnichannel-for-customer-service-call-quality-surveys",
+          "publishedOn": "2024-04-23T08:41:02.000Z",
+          "wordCount": 3220,
+          "title": "Omnichannel for Customer Service – Call Quality Surveys",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Omnichannel-for-Customer-Service-–-Call-Quality-Surveys.jpg?fit=1200%2C799&ssl=1"
+        },
+        {
+          "id": "https://365community.online/improved-email-attachment-experience-in-d365-customer-service",
+          "author": "Dian Taylor",
+          "description": "Here is another set of features that kind of snuck into Dynamics 365 Customer Service without anyone noticing! At least I didn’t notice until I opened an email message in […]",
+          "link": "https://365community.online/improved-email-attachment-experience-in-d365-customer-service",
+          "publishedOn": "2024-04-23T07:57:00.000Z",
+          "wordCount": 3245,
+          "title": "Improved email attachment experience in D365 Customer Service",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/improved-email-attachment-experience-in-d365-customer-service-youtube",
+          "author": "Dian Taylor",
+          "description": "Improved email attachment experience in D365 Customer Service Microsoft has improved the email attachment experience in Dynamics 365 Customer Service! In this video I will tell you all about it, […]",
+          "link": "https://365community.online/improved-email-attachment-experience-in-d365-customer-service-youtube",
+          "publishedOn": "2024-04-23T07:56:01.000Z",
+          "wordCount": 3221,
+          "title": "Improved email attachment experience in D365 Customer Service – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1713912455_hqdefault.jpg?fit=480%2C360&ssl=1"
+        },
+        {
+          "id": "https://365community.online/send-unique-event-registration-response-emails-for-each-event-using-no-code",
+          "author": "Megan V. Walker",
+          "description": "Back in June 2022, I wrote a blog showing how you could create a custom trigger, and build a couple of flows in Power Automate to generate one journey for […]",
+          "link": "https://365community.online/send-unique-event-registration-response-emails-for-each-event-using-no-code",
+          "publishedOn": "2024-04-23T07:30:00.000Z",
+          "wordCount": 3254,
+          "title": "Send Unique Event Registration Response Emails For Each Event Using No Code",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Send-Unique-Event-Registration-Response-Emails-For-Each-Event-Using.jpg?fit=1200%2C848&ssl=1"
+        },
+        {
+          "id": "https://365community.online/data-upgrade-from-nav-2016-to-business-central-14-c-al",
+          "author": "Saurav Dhyani",
+          "description": "Regards,Saurav Dhyani https://bit.ly/SubscribeSauravYouTube Continue Reading Saurav Dhyani’s Article on their blog Data Upgrade from NAV 2016 to Business Central 14 C/AL. dataupgrade, #nav2016, #datamigration, #businesscentral14 Blog Syndicated with Saurav […]",
+          "link": "https://365community.online/data-upgrade-from-nav-2016-to-business-central-14-c-al",
+          "publishedOn": "2024-04-23T05:30:00.000Z",
+          "wordCount": 3158,
+          "title": "Data Upgrade from NAV 2016 to Business Central 14 C/AL.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Data-Upgrade-from-NAV-2016-to-Business-Central-14-CAL.jpeg?fit=480%2C360&ssl=1"
+        },
         {
           "id": "https://365community.online/versioning-and-drafts-for-solution-based-cloud-flows-power-automate",
           "author": "Nishant Rana",
@@ -19521,6 +19651,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/04/22/announcing-configurable-copilot-summaries-in-field-service/",
+          "author": "Joseph Shum",
+          "description": "We are excited to announce that summary configuration for work order recap with Copilot in Dynamics 365 Field Service is now available for public preview. It builds on the work order recap feature released last year, which provides an AI-generated summary of the Work Order for service managers and technicians.\nThe post Announcing configurable Copilot summaries in Field Service appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2024/04/22/announcing-configurable-copilot-summaries-in-field-service/",
+          "publishedOn": "2024-04-22T20:20:45.000Z",
+          "wordCount": 3028,
+          "title": "Announcing configurable Copilot summaries in Field Service",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/04/MSFT_D365_APR11_330649_Blog_BlogHeader_240411_V1_1260.png"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/04/18/2024-release-wave-1-transforming-experiences-with-microsoft-copilot-and-dynamics-365/",
           "author": "Lori Lamkin",
