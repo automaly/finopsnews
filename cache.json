@@ -1411,6 +1411,36 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=106108",
+          "author": "TrinSoft, LLC",
+          "description": "With Power BI, you can create rich, interactive data visualizations that can easily be embedded into applications for sharing and collaboration. We’ll walk you through how to quickly embed interactive […]\nThe post Supercharge Your Power BI: Sharing and Publishing Best Practices appeared first on ERP Software Blog.\nBusiness Development and Construction Management Systems Work Better Together\nField Service vs. DynaRent Mobile: Mobile Apps on Dynamics 365 for Rental Operations\nTo-Increase Launches a Plug-And-Play Analytics Solution for Rental Businesses",
+          "link": "https://erpsoftwareblog.com/2024/04/supercharge-your-power-bi-sharing-and-publishing-best-practices/",
+          "publishedOn": "2024-04-25T17:52:18.000Z",
+          "wordCount": 5084,
+          "title": "Supercharge Your Power BI: Sharing and Publishing Best Practices",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Power-BI-May-2024-Webinar.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106091",
+          "author": "Dynavision",
+          "description": "Addressing key challenges One of the key challenges faced by Succeed IT's clients was the time-consuming task of maintaining accurate pricing and item information within Microsoft Dynamics 365 Business Central […]\nThe post Case: How to effortlessly import supplier Excel files in BC without manipulation appeared first on ERP Software Blog.\nCustomize Your Microsoft Dynamics AX…?? Learn from Travel Industry\nHow DynaRent industry-specific Microsoft Dynamics PowerApps help your business thrive\nReduce invoice cycle times with Rental PowerApps: mobile registration & direct processing",
+          "link": "https://erpsoftwareblog.com/2024/04/case-how-to-effortlessly-import-supplier-excel-files-in-bc-without-manipulation/",
+          "publishedOn": "2024-04-25T13:00:22.000Z",
+          "wordCount": 5514,
+          "title": "Case: How to effortlessly import supplier Excel files in BC without manipulation",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynavision-partner-case-succeedit.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106094",
+          "author": "MetaOption LLC",
+          "description": "In the dynamic world of construction management, where timelines are tight and coordination is paramount, the ability to access critical project data anytime, anywhere, from any device is not just […]\nThe post Transform Construction with MetaConstructX's Mobile Working Access Efficiency appeared first on ERP Software Blog.\nEnhancing Construction Management with Dynamics 365 Business Central\nOptimizing Resource Allocation in Construction Using Business Central\nMaximizing Efficiency: Exploring the Construction Features of Business Central",
+          "link": "https://erpsoftwareblog.com/2024/04/transform-construction-with-metaconstructxs-mobile-working-access/",
+          "publishedOn": "2024-04-25T11:41:28.000Z",
+          "wordCount": 5416,
+          "title": "Transform Construction with MetaConstructX's Mobile Working Access Efficiency",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-132.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=105750",
           "author": "Western Computer",
           "description": "As your business grows, your ERP system may reveal some growing pains. Perhaps it's unable to keep up with your changing needs or technological advances. New features and functionality are […]\nThe post Benefits of Microsoft Dynamics 365 BC for Cloud ERP appeared first on ERP Software Blog.\nShould Your Organization Consider Cloud Migration?\nAdvantages of Cloud ERP For Manufacturing Companies \nIs Dynamics 365 Business Central or Finance & Supply Chain Right for My Business?",
@@ -7555,6 +7585,36 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-restore-a-deleted-environment",
+          "author": "Ian Grieve",
+          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]",
+          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-restore-a-deleted-environment",
+          "publishedOn": "2024-04-25T10:00:19.000Z",
+          "wordCount": 3276,
+          "title": "In Microsoft Dynamics 365 Business Central (Administration), how do I… Restore a Deleted Environment",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1714053404_In-Microsoft-Dynamics-365-Business-Central-Administration-how-do-I….png?fit=1200%2C258&ssl=1"
+        },
+        {
+          "id": "https://365community.online/understanding-key-phrase-extraction-in-power-automate-for-text-analysis",
+          "author": "Inogic",
+          "description": "The key phrase extraction model identifies the main topics in a text document. For example, if you have a sentence like “The movie was entertaining and the acting was impressive!”, […]",
+          "link": "https://365community.online/understanding-key-phrase-extraction-in-power-automate-for-text-analysis",
+          "publishedOn": "2024-04-25T09:34:49.000Z",
+          "wordCount": 3530,
+          "title": "Understanding Key Phrase Extraction in Power Automate for Text Analysis",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Key-Phrase-Extraction-in-Power-Automate-for-Text-Analysis-1.png?fit=1200%2C544&ssl=1"
+        },
+        {
+          "id": "https://365community.online/send-unique-event-registration-response-with-qr-code-using-no-code",
+          "author": "Megan V. Walker",
+          "description": "I’ve written about using the out of the box Marketing Event Registration Created trigger to create emails that can be used in one Journey and still make sure the information […]",
+          "link": "https://365community.online/send-unique-event-registration-response-with-qr-code-using-no-code",
+          "publishedOn": "2024-04-25T07:30:00.000Z",
+          "wordCount": 3257,
+          "title": "Send Unique Event Registration Response With QR Code Using No Code",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Send-Unique-Event-Registration-Response-With-QR-Code-Using-No.jpg?fit=1200%2C683&ssl=1"
+        },
+        {
           "id": "https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-delete-an-environment",
           "author": "Ian Grieve",
           "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]",
@@ -7583,6 +7643,16 @@
           "wordCount": 3277,
           "title": "Dynamics 365 Business Central: Edit in Excel and Long Running SQL queries",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1713965787_Dynamics-365-Business-Central-Edit-in-Excel-and-Long-Running.png?fit=1200%2C428&ssl=1"
+        },
+        {
+          "id": "https://365community.online/maplytics-becomes-the-first-geolocation-solution-to-earn-the-prestigious-solution-partner-with-certified-software-designation-on-microsoft-appsource",
+          "author": "Inogic",
+          "description": "The post Maplytics becomes the first Geolocation solution to earn the Prestigious ‘Solution Partner with Certified Software’ Designation on Microsoft AppSource appeared first on Blog | Maplytics. Source link",
+          "link": "https://365community.online/maplytics-becomes-the-first-geolocation-solution-to-earn-the-prestigious-solution-partner-with-certified-software-designation-on-microsoft-appsource",
+          "publishedOn": "2024-04-24T08:50:43.000Z",
+          "wordCount": 3424,
+          "title": "Maplytics becomes the first Geolocation solution to earn the Prestigious ‘Solution Partner with Certified Software’ Designation on Microsoft AppSource",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Maplytics-Banner-Images-2024-04-23T150705.855-1024x585.png?fit=1024%2C585&ssl=1"
         },
         {
           "id": "https://365community.online/%f0%9f%9a%80new-video-chat-copilot-se-cumplen-las-expectativas-en-business-central%f0%9f%aa%82",
@@ -19802,6 +19872,16 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/04/23/streamlining-shipment-processes-with-automatic-re-allocation-of-non-allocated-shipment-lines/",
+          "author": "Julian De Bri (Business Guest) and Mirza Abdic",
+          "description": "The introduction of the Automatic re-waving of shipment lines failed to be allocated is solving issue where failed lines needed to be handled manually in the “Maintain shipments” form. This feature empowers warehouse managers to schedule checks for incomplete shipments to be re-waved and completed. In the past, this would have been a manual task for a warehouse manager to manage, actively going through a list of incomplete shipment lines and manually reprocessing them for the shipments to be completed. This process was time-consuming every time an exception happened, and lines did not manage to allocate inventory.  \nThe post Streamlining Shipment Processes with Automatic re-allocation of non-allocated shipment lines.    appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2024/04/23/streamlining-shipment-processes-with-automatic-re-allocation-of-non-allocated-shipment-lines/",
+          "publishedOn": "2024-04-23T07:58:50.000Z",
+          "wordCount": 3744,
+          "title": "Streamlining Shipment Processes with Automatic re-allocation of non-allocated shipment lines.",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/01/CLO17_warehouse_001.jpg"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/04/22/announcing-configurable-copilot-summaries-in-field-service/",
           "author": "Joseph Shum",
           "description": "We are excited to announce that summary configuration for work order recap with Copilot in Dynamics 365 Field Service is now available for public preview. It builds on the work order recap feature released last year, which provides an AI-generated summary of the Work Order for service managers and technicians.\nThe post Announcing configurable Copilot summaries in Field Service appeared first on Microsoft Dynamics 365 Blog.",
@@ -23084,6 +23164,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "microsoft-power-apps-named-a-no-code-low-code-market-leader-by-omdia",
+          "author": null,
+          "description": "We’re excited to announce that Microsoft has been named a Leader in the Omdia Universe: No-Code, Low-Code Solutions 2023-2024. Power Apps is in a leading position thanks to its technological capabilities, market reach, and momentum.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/microsoft-power-apps-named-a-no-code-low-code-market-leader-by-omdia/",
+          "publishedOn": "2024-04-25T12:09:16.000Z",
+          "wordCount": 2285,
+          "title": "Microsoft Power Apps named a No-Code/Low-Code Market Leader by Omdia",
+          "imageUrl": "//powerappsblogmedia.azureedge.net/powerappsblog/2024/04/4.23-FI.jpg"
+        },
         {
           "id": "introducing-public-preview-of-the-sap-odata-connector",
           "author": null,

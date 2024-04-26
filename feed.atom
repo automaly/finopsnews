@@ -2,10 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-04-25T00:42:27.852Z</updated>
+    <updated>2024-04-26T00:39:29.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Supercharge Your Power BI: Sharing and Publishing Best Practices]]></title>
+        <id>https://erpsoftwareblog.com/?p=106108</id>
+        <link href="https://erpsoftwareblog.com/2024/04/supercharge-your-power-bi-sharing-and-publishing-best-practices/"/>
+        <updated>2024-04-25T17:52:18.000Z</updated>
+        <summary type="html"><![CDATA[With Power BI, you can create rich, interactive data visualizations that can easily be embedded into applications for sharing and collaboration. We’ll walk you through how to quickly embed interactive […]
+The post Supercharge Your Power BI: Sharing and Publishing Best Practices appeared first on ERP Software Blog.
+Business Development and Construction Management Systems Work Better Together
+Field Service vs. DynaRent Mobile: Mobile Apps on Dynamics 365 for Rental Operations
+To-Increase Launches a Plug-And-Play Analytics Solution for Rental Businesses]]></summary>
+        <author>
+            <name>TrinSoft, LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Case: How to effortlessly import supplier Excel files in BC without manipulation]]></title>
+        <id>https://erpsoftwareblog.com/?p=106091</id>
+        <link href="https://erpsoftwareblog.com/2024/04/case-how-to-effortlessly-import-supplier-excel-files-in-bc-without-manipulation/"/>
+        <updated>2024-04-25T13:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Addressing key challenges One of the key challenges faced by Succeed IT's clients was the time-consuming task of maintaining accurate pricing and item information within Microsoft Dynamics 365 Business Central […]
+The post Case: How to effortlessly import supplier Excel files in BC without manipulation appeared first on ERP Software Blog.
+Customize Your Microsoft Dynamics AX…?? Learn from Travel Industry
+How DynaRent industry-specific Microsoft Dynamics PowerApps help your business thrive
+Reduce invoice cycle times with Rental PowerApps: mobile registration & direct processing]]></summary>
+        <author>
+            <name>Dynavision</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Power Apps named a No-Code/Low-Code Market Leader by Omdia]]></title>
+        <id>microsoft-power-apps-named-a-no-code-low-code-market-leader-by-omdia</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/microsoft-power-apps-named-a-no-code-low-code-market-leader-by-omdia/"/>
+        <updated>2024-04-25T12:09:16.000Z</updated>
+        <summary type="html"><![CDATA[We’re excited to announce that Microsoft has been named a Leader in the Omdia Universe: No-Code, Low-Code Solutions 2023-2024. Power Apps is in a leading position thanks to its technological capabilities, market reach, and momentum.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transform Construction with MetaConstructX's Mobile Working Access Efficiency]]></title>
+        <id>https://erpsoftwareblog.com/?p=106094</id>
+        <link href="https://erpsoftwareblog.com/2024/04/transform-construction-with-metaconstructxs-mobile-working-access/"/>
+        <updated>2024-04-25T11:41:28.000Z</updated>
+        <summary type="html"><![CDATA[In the dynamic world of construction management, where timelines are tight and coordination is paramount, the ability to access critical project data anytime, anywhere, from any device is not just […]
+The post Transform Construction with MetaConstructX's Mobile Working Access Efficiency appeared first on ERP Software Blog.
+Enhancing Construction Management with Dynamics 365 Business Central
+Optimizing Resource Allocation in Construction Using Business Central
+Maximizing Efficiency: Exploring the Construction Features of Business Central]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Administration), how do I… Restore a Deleted Environment]]></title>
+        <id>https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-restore-a-deleted-environment</id>
+        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-restore-a-deleted-environment"/>
+        <updated>2024-04-25T10:00:19.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Key Phrase Extraction in Power Automate for Text Analysis]]></title>
+        <id>https://365community.online/understanding-key-phrase-extraction-in-power-automate-for-text-analysis</id>
+        <link href="https://365community.online/understanding-key-phrase-extraction-in-power-automate-for-text-analysis"/>
+        <updated>2024-04-25T09:34:49.000Z</updated>
+        <summary type="html"><![CDATA[The key phrase extraction model identifies the main topics in a text document. For example, if you have a sentence like “The movie was entertaining and the acting was impressive!”, […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Send Unique Event Registration Response With QR Code Using No Code]]></title>
+        <id>https://365community.online/send-unique-event-registration-response-with-qr-code-using-no-code</id>
+        <link href="https://365community.online/send-unique-event-registration-response-with-qr-code-using-no-code"/>
+        <updated>2024-04-25T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[I’ve written about using the out of the box Marketing Event Registration Created trigger to create emails that can be used in one Journey and still make sure the information […]]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Benefits of Microsoft Dynamics 365 BC for Cloud ERP]]></title>
         <id>https://erpsoftwareblog.com/?p=105750</id>
@@ -117,6 +199,16 @@ Electronic Payments, Processors, and Gateways - What you need to know]]></summar
         <summary type="html"><![CDATA[Dynamics 365 Business Central has (from a long time) a nice feature for the end user called Edit in Excel. With the Edit in Excel action, you can make changes to Business […]]]></summary>
         <author>
             <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maplytics becomes the first Geolocation solution to earn the Prestigious ‘Solution Partner with Certified Software’ Designation on Microsoft AppSource]]></title>
+        <id>https://365community.online/maplytics-becomes-the-first-geolocation-solution-to-earn-the-prestigious-solution-partner-with-certified-software-designation-on-microsoft-appsource</id>
+        <link href="https://365community.online/maplytics-becomes-the-first-geolocation-solution-to-earn-the-prestigious-solution-partner-with-certified-software-designation-on-microsoft-appsource"/>
+        <updated>2024-04-24T08:50:43.000Z</updated>
+        <summary type="html"><![CDATA[The post Maplytics becomes the first Geolocation solution to earn the Prestigious ‘Solution Partner with Certified Software’ Designation on Microsoft AppSource appeared first on Blog | Maplytics. Source link]]></summary>
+        <author>
+            <name>Inogic</name>
         </author>
     </entry>
     <entry>
@@ -279,6 +371,17 @@ Boost the Financial Health of Your Company With Microsoft Dynamics ERP]]></summa
         <summary type="html"><![CDATA[We have a new feature in Omnichannel for Customer Service, the ability to collect feedback from agents on call quality. In this post I will explain this new feature. Monitoring […]]]></summary>
         <author>
             <name>Neil Parkhurst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamlining Shipment Processes with Automatic re-allocation of non-allocated shipment lines.]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2024/04/23/streamlining-shipment-processes-with-automatic-re-allocation-of-non-allocated-shipment-lines/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2024/04/23/streamlining-shipment-processes-with-automatic-re-allocation-of-non-allocated-shipment-lines/"/>
+        <updated>2024-04-23T07:58:50.000Z</updated>
+        <summary type="html"><![CDATA[The introduction of the Automatic re-waving of shipment lines failed to be allocated is solving issue where failed lines needed to be handled manually in the “Maintain shipments” form. This feature empowers warehouse managers to schedule checks for incomplete shipments to be re-waved and completed. In the past, this would have been a manual task for a warehouse manager to manage, actively going through a list of incomplete shipment lines and manually reprocessing them for the shipments to be completed. This process was time-consuming every time an exception happened, and lines did not manage to allocate inventory.  
+The post Streamlining Shipment Processes with Automatic re-allocation of non-allocated shipment lines.    appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Julian De Bri (Business Guest) and Mirza Abdic</name>
         </author>
     </entry>
     <entry>
