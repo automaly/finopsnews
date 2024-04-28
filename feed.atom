@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-04-27T00:39:32.649Z</updated>
+    <updated>2024-04-28T00:43:10.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Power Pages: convert standard to enhanced data model]]></title>
+        <id>https://365community.online/power-pages-convert-standard-to-enhanced-data-model</id>
+        <link href="https://365community.online/power-pages-convert-standard-to-enhanced-data-model"/>
+        <updated>2024-04-27T20:47:04.000Z</updated>
+        <summary type="html"><![CDATA[The enhanced data model has now been GA for a while and I know for all my new projects, we are using by default the enhanced data model. However, there […]]]></summary>
+        <author>
+            <name>Nick Doelman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Apps – Work with JSON]]></title>
+        <id>https://365community.online/power-apps-work-with-json</id>
+        <link href="https://365community.online/power-apps-work-with-json"/>
+        <updated>2024-04-27T15:22:24.000Z</updated>
+        <summary type="html"><![CDATA[In this article, let’s see how we can work with JSON format in our Canvas App. What JSON is? JavaScript Object Notation (JSON) is a lightweight format for exchanging data. […]]]></summary>
+        <author>
+            <name>Angelo Gulisano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secret weapon for HR! Dynamics 365, Copilot Studio & ServiceNow Hack!]]></title>
+        <id>https://365community.online/secret-weapon-for-hr-dynamics-365-copilot-studio-servicenow-hack</id>
+        <link href="https://365community.online/secret-weapon-for-hr-dynamics-365-copilot-studio-servicenow-hack"/>
+        <updated>2024-04-27T09:25:21.000Z</updated>
+        <summary type="html"><![CDATA[This video shows a smart self-service solution for Microsoft Dynamics 365 HR, featuring a super-powered AI chatbot built with the dream team of Microsoft solutions: Dynamics 365 HR: Your central […]]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #28]]></title>
+        <id>http://dynamicsax-fico.com/?p=5795</id>
+        <link href="https://dynamicsax-fico.com/2024/04/27/microsoft-bizapps-deutschland-podcast-28/"/>
+        <updated>2024-04-27T05:47:55.000Z</updated>
+        <summary type="html"><![CDATA[[German language podcast] In dieser Episode des Microsoft BizApps Deutschland Podcasts haben wir einen besonderen Gast, Lutz Jannausch, Head of …
+Continue reading →]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is Upgrading NAV Giving You a Headache? Business Central Might Be the Cure]]></title>
         <id>https://erpsoftwareblog.com/?p=106215</id>
@@ -88,6 +129,16 @@ See The Top Auto-Create Dimensions Tool for Microsoft Dynamics 365 Business Cent
 Join Us At Dynamic Communities Summit - Booth 800]]></summary>
         <author>
             <name>FYIsoft, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Pages Plus Spring Webinar – Last Call / Zero To Hero News – YouTube]]></title>
+        <id>https://365community.online/power-pages-plus-spring-webinar-last-call-zero-to-hero-news-youtube</id>
+        <link href="https://365community.online/power-pages-plus-spring-webinar-last-call-zero-to-hero-news-youtube"/>
+        <updated>2024-04-26T14:37:02.000Z</updated>
+        <summary type="html"><![CDATA[Friends, We’ve got some exciting news from Power Pages Plus! Introducing our latest release: the Customer Xperience template. This new addition is designed to amp up external user engagement with […]]]></summary>
+        <author>
+            <name>Victor Dantas</name>
         </author>
     </entry>
     <entry>
@@ -177,6 +228,16 @@ How Industry 4.0 and the Pandemic are Transforming ERP in Manufacturing]]></summ
         <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]]]></summary>
         <author>
             <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekly Update #138 – 26th April 2024 – YouTube]]></title>
+        <id>https://365community.online/weekly-update-138-26th-april-2024-youtube</id>
+        <link href="https://365community.online/weekly-update-138-26th-april-2024-youtube"/>
+        <updated>2024-04-26T07:39:17.000Z</updated>
+        <summary type="html"><![CDATA[Weekly Update #138 – 26th April 2024 Join me as I look at the latest Azure updates from the past week. Join me as I look at the latest Azure […]]]></summary>
+        <author>
+            <name>Sarah Lean ???????</name>
         </author>
     </entry>
     <entry>
@@ -28068,6 +28129,16 @@ The post Dynamics 365 SCM: Do not reserve in Inbound appeared first on ER-Consul
 The post Production order should not get Released on material shortage appeared first on ER-Consult.]]></summary>
         <author>
             <name>Eugen Glasow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upgrading Logic App Consumption to Logic App Standard: A Strategic Guide]]></title>
+        <id>http://azureintegrations.com/?p=1393</id>
+        <link href="https://azureintegrations.com/2023/03/27/upgrading-logic-app-consumption-to-logic-app-standard-a-strategic-guide/"/>
+        <updated>2023-03-27T17:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Migrate to Logic App Standard Microsoft Azure Logic Apps offer a platform, for creating, automating and managing workflows without the need for coding. The introduction of the Logic App Standard provides users with an alternative to the Logic App Consumption model. While this shift comes with advantages it necessitates planning and consideration. In this blogContinue reading "Upgrading Logic App Consumption to Logic App Standard: A Strategic Guide"]]></summary>
+        <author>
+            <name>Poojith Jain</name>
         </author>
     </entry>
     <entry>

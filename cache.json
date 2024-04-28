@@ -1164,6 +1164,16 @@
           "imageUrl": "https://poojithjain.files.wordpress.com/2023/11/d365fo-exportto-datalake-csv-parquet-onelake.png"
         },
         {
+          "id": "http://azureintegrations.com/?p=1393",
+          "author": "Poojith Jain",
+          "description": "Migrate to Logic App Standard Microsoft Azure Logic Apps offer a platform, for creating, automating and managing workflows without the need for coding. The introduction of the Logic App Standard provides users with an alternative to the Logic App Consumption model. While this shift comes with advantages it necessitates planning and consideration. In this blogContinue reading \"Upgrading Logic App Consumption to Logic App Standard: A Strategic Guide\"",
+          "link": "https://azureintegrations.com/2023/03/27/upgrading-logic-app-consumption-to-logic-app-standard-a-strategic-guide/",
+          "publishedOn": "2023-03-27T17:04:00.000Z",
+          "wordCount": 4154,
+          "title": "Upgrading Logic App Consumption to Logic App Standard: A Strategic Guide",
+          "imageUrl": "https://poojithjain.files.wordpress.com/2024/04/image.png"
+        },
+        {
           "id": "http://azureintegrations.com/?p=1251",
           "author": "Poojith Jain",
           "description": "To ensure the consistent availability, reliability, and performance of the D365FO service protecting against extraordinary usage, Microsoft will be introducing user-based service protection API limits.",
@@ -7675,6 +7685,46 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/power-pages-convert-standard-to-enhanced-data-model",
+          "author": "Nick Doelman",
+          "description": "The enhanced data model has now been GA for a while and I know for all my new projects, we are using by default the enhanced data model. However, there […]",
+          "link": "https://365community.online/power-pages-convert-standard-to-enhanced-data-model",
+          "publishedOn": "2024-04-27T20:47:04.000Z",
+          "wordCount": 3247,
+          "title": "Power Pages: convert standard to enhanced data model",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Power-Pages-convert-standard-to-enhanced-data-model.png?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/power-apps-work-with-json",
+          "author": "Angelo Gulisano",
+          "description": "In this article, let’s see how we can work with JSON format in our Canvas App. What JSON is? JavaScript Object Notation (JSON) is a lightweight format for exchanging data. […]",
+          "link": "https://365community.online/power-apps-work-with-json",
+          "publishedOn": "2024-04-27T15:22:24.000Z",
+          "wordCount": 3226,
+          "title": "Power Apps – Work with JSON",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/Power-Apps-–-ChatGPT-Integration.png?fit=1080%2C566&ssl=1"
+        },
+        {
+          "id": "https://365community.online/secret-weapon-for-hr-dynamics-365-copilot-studio-servicenow-hack",
+          "author": "Ana Inés Urrutia",
+          "description": "This video shows a smart self-service solution for Microsoft Dynamics 365 HR, featuring a super-powered AI chatbot built with the dream team of Microsoft solutions: Dynamics 365 HR: Your central […]",
+          "link": "https://365community.online/secret-weapon-for-hr-dynamics-365-copilot-studio-servicenow-hack",
+          "publishedOn": "2024-04-27T09:25:21.000Z",
+          "wordCount": 3253,
+          "title": "Secret weapon for HR! Dynamics 365, Copilot Studio & ServiceNow Hack!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Secret-weapon-for-HR-Dynamics-365-Copilot-Studio-038-ServiceNow.png?fit=1000%2C563&ssl=1"
+        },
+        {
+          "id": "https://365community.online/power-pages-plus-spring-webinar-last-call-zero-to-hero-news-youtube",
+          "author": "Victor Dantas",
+          "description": "Friends, We’ve got some exciting news from Power Pages Plus! Introducing our latest release: the Customer Xperience template. This new addition is designed to amp up external user engagement with […]",
+          "link": "https://365community.online/power-pages-plus-spring-webinar-last-call-zero-to-hero-news-youtube",
+          "publishedOn": "2024-04-26T14:37:02.000Z",
+          "wordCount": 3231,
+          "title": "Power Pages Plus Spring Webinar – Last Call / Zero To Hero News – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1714225988_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
           "id": "https://365community.online/using-the-deny-permission-from-the-aot-in-d365fo",
           "author": "Alex Meyer",
           "description": "The Deny permission in D365FO is a powerful piece of functionality that I’ve written about before. But if you want to utilize this feature from the AOT, there are some […]",
@@ -7723,6 +7773,16 @@
           "wordCount": 3294,
           "title": "In Microsoft Dynamics 365 Business Central (Administration), how do I… Restore an Environment to a Point in Time",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1714126366_In-Microsoft-Dynamics-365-Business-Central-Administration-how-do-I….png?fit=1200%2C315&ssl=1"
+        },
+        {
+          "id": "https://365community.online/weekly-update-138-26th-april-2024-youtube",
+          "author": "Sarah Lean ???????",
+          "description": "Weekly Update #138 – 26th April 2024 Join me as I look at the latest Azure updates from the past week. Join me as I look at the latest Azure […]",
+          "link": "https://365community.online/weekly-update-138-26th-april-2024-youtube",
+          "publishedOn": "2024-04-26T07:39:17.000Z",
+          "wordCount": 3156,
+          "title": "Weekly Update #138 – 26th April 2024 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1714195893_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         },
         {
           "id": "https://365community.online/combine-location-intelligence-with-artificial-intelligence-within-dynamics-365-crm",
@@ -17757,6 +17817,21 @@
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
+        {
+          "id": "http://dynamicsax-fico.com/?p=5795",
+          "author": "Ludwig Reinhard",
+          "description": "[German language podcast] In dieser Episode des Microsoft BizApps Deutschland Podcasts haben wir einen besonderen Gast, Lutz Jannausch, Head of …\nContinue reading →",
+          "link": "https://dynamicsax-fico.com/2024/04/27/microsoft-bizapps-deutschland-podcast-28/",
+          "publishedOn": "2024-04-27T05:47:55.000Z",
+          "wordCount": 3493,
+          "title": "Microsoft BizApps Deutschland Podcast #28",
+          "enclosure": {
+            "url": "https://dynamicsaxfico.files.wordpress.com/2024/04/2024-02-02_lutzv2.mp3",
+            "length": "24469304",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2024/02/collagev1.png"
+        },
         {
           "id": "http://dynamicsax-fico.com/?p=5975",
           "author": "Ludwig Reinhard",
