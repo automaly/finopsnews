@@ -1154,6 +1154,16 @@
       "siteUrl": "https://azureintegrations.com",
       "articles": [
         {
+          "id": "http://azureintegrations.com/?p=1424",
+          "author": "Poojith Jain",
+          "description": "In the development of distributed systems and cloud-based applications, extensive logging is crucial in monitoring, troubleshooting, and ensuring system reliability. When it comes to Azure integration components, effective logging becomes even more critical due to the distributed nature of the applications and the multitude of services involved. In this blog, I would like to discussContinue reading \"Advanced Logging and Monitoring for Azure Integration Components using OpenAI\"",
+          "link": "https://azureintegrations.com/2024/04/20/advanced-logging-and-monitoring-for-azure-integration-components-using-openai/",
+          "publishedOn": "2024-04-20T08:00:00.000Z",
+          "wordCount": 4572,
+          "title": "Advanced Logging and Monitoring for Azure Integration Components using OpenAI",
+          "imageUrl": "https://poojithjain.files.wordpress.com/2024/04/image-1.png"
+        },
+        {
           "id": "http://azureintegrations.com/?p=1336",
           "author": "Poojith Jain",
           "description": "Microsoft Introduced Azure Synapse Link for Dataverse to export data from D365 finance and operations apps into Azure Synapse Analytics or Azure Data Lake Storage Gen2",
@@ -7685,6 +7695,26 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/copilot-for-sales-new-feature-tarjetas-adaptativas-youtube",
+          "author": "jarmesto",
+          "description": "Copilot For Sales New Feature – Tarjetas Adaptativas 🚀 Compartir tarjetas adaptativas con datos de CRM en tiempo real nunca fue tan fácil. Con Copilot for Sales, todo está a […]",
+          "link": "https://365community.online/copilot-for-sales-new-feature-tarjetas-adaptativas-youtube",
+          "publishedOn": "2024-04-28T06:45:01.000Z",
+          "wordCount": 3227,
+          "title": "Copilot For Sales New Feature – Tarjetas Adaptativas – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1714312505_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/extend-your-customer-outreach-with-whatsapp-marketing-within-dynamics-365-customer-insights",
+          "author": "Inogic",
+          "description": "The Power of WhatsApp Marketing for Brands: A Game Changer Today, brands constantly bombard customers with emails, calls, and social media ads. It can be hard to stand out from […]",
+          "link": "https://365community.online/extend-your-customer-outreach-with-whatsapp-marketing-within-dynamics-365-customer-insights",
+          "publishedOn": "2024-04-28T06:02:16.000Z",
+          "wordCount": 3532,
+          "title": "Extend your customer outreach with WhatsApp marketing within Dynamics 365 Customer Insights",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/WhatsApp-Integration-for-Dynamics-365-Customer-Insights-YoutTube-1.png?fit=1200%2C675&ssl=1"
+        },
+        {
           "id": "https://365community.online/power-pages-convert-standard-to-enhanced-data-model",
           "author": "Nick Doelman",
           "description": "The enhanced data model has now been GA for a while and I know for all my new projects, we are using by default the enhanced data model. However, there […]",
@@ -7705,6 +7735,26 @@
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2023/10/Power-Apps-–-ChatGPT-Integration.png?fit=1080%2C566&ssl=1"
         },
         {
+          "id": "https://365community.online/constructor-in-c-c-basics-for-beginners-youtube",
+          "author": "Sourav Raj",
+          "description": "Constructor in C# | C# Basics for beginners Constructors play a crucial role in object-oriented programming, and in this C# tutorial, we unravel their mysteries. Whether you’re just starting with […]",
+          "link": "https://365community.online/constructor-in-c-c-basics-for-beginners-youtube",
+          "publishedOn": "2024-04-27T13:44:56.000Z",
+          "wordCount": 3461,
+          "title": "Constructor in C# | C# Basics for beginners – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1714269122_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/classes-and-objects-in-c-c-basics-for-beginners-youtube",
+          "author": "Sourav Raj",
+          "description": "Classes and Objects in C#| C# Basics for beginners Embark on your journey into C# programming with this beginner-friendly tutorial on classes and objects. Classes and objects form the foundation […]",
+          "link": "https://365community.online/classes-and-objects-in-c-c-basics-for-beginners-youtube",
+          "publishedOn": "2024-04-27T13:44:06.000Z",
+          "wordCount": 3493,
+          "title": "Classes and Objects in C#| C# Basics for beginners – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1714284100_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
           "id": "https://365community.online/secret-weapon-for-hr-dynamics-365-copilot-studio-servicenow-hack",
           "author": "Ana Inés Urrutia",
           "description": "This video shows a smart self-service solution for Microsoft Dynamics 365 HR, featuring a super-powered AI chatbot built with the dream team of Microsoft solutions: Dynamics 365 HR: Your central […]",
@@ -7713,6 +7763,16 @@
           "wordCount": 3253,
           "title": "Secret weapon for HR! Dynamics 365, Copilot Studio & ServiceNow Hack!",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Secret-weapon-for-HR-Dynamics-365-Copilot-Studio-038-ServiceNow.png?fit=1000%2C563&ssl=1"
+        },
+        {
+          "id": "https://365community.online/a-roadmap-to-become-advanced-full-stack-net-core-developer-youtube",
+          "author": "Sourav Raj",
+          "description": "A Roadmap to Become Advanced Full-Stack .NET Core Developer source",
+          "link": "https://365community.online/a-roadmap-to-become-advanced-full-stack-net-core-developer-youtube",
+          "publishedOn": "2024-04-27T05:39:19.000Z",
+          "wordCount": 3139,
+          "title": "A Roadmap to Become  Advanced Full-Stack .NET Core Developer – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1714298913_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         },
         {
           "id": "https://365community.online/power-pages-plus-spring-webinar-last-call-zero-to-hero-news-youtube",

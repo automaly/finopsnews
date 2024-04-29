@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-04-28T00:43:10.674Z</updated>
+    <updated>2024-04-29T00:41:49.514Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Copilot For Sales New Feature – Tarjetas Adaptativas – YouTube]]></title>
+        <id>https://365community.online/copilot-for-sales-new-feature-tarjetas-adaptativas-youtube</id>
+        <link href="https://365community.online/copilot-for-sales-new-feature-tarjetas-adaptativas-youtube"/>
+        <updated>2024-04-28T06:45:01.000Z</updated>
+        <summary type="html"><![CDATA[Copilot For Sales New Feature – Tarjetas Adaptativas 🚀 Compartir tarjetas adaptativas con datos de CRM en tiempo real nunca fue tan fácil. Con Copilot for Sales, todo está a […]]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extend your customer outreach with WhatsApp marketing within Dynamics 365 Customer Insights]]></title>
+        <id>https://365community.online/extend-your-customer-outreach-with-whatsapp-marketing-within-dynamics-365-customer-insights</id>
+        <link href="https://365community.online/extend-your-customer-outreach-with-whatsapp-marketing-within-dynamics-365-customer-insights"/>
+        <updated>2024-04-28T06:02:16.000Z</updated>
+        <summary type="html"><![CDATA[The Power of WhatsApp Marketing for Brands: A Game Changer Today, brands constantly bombard customers with emails, calls, and social media ads. It can be hard to stand out from […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Power Pages: convert standard to enhanced data model]]></title>
         <id>https://365community.online/power-pages-convert-standard-to-enhanced-data-model</id>
@@ -27,6 +47,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Constructor in C# | C# Basics for beginners – YouTube]]></title>
+        <id>https://365community.online/constructor-in-c-c-basics-for-beginners-youtube</id>
+        <link href="https://365community.online/constructor-in-c-c-basics-for-beginners-youtube"/>
+        <updated>2024-04-27T13:44:56.000Z</updated>
+        <summary type="html"><![CDATA[Constructor in C# | C# Basics for beginners Constructors play a crucial role in object-oriented programming, and in this C# tutorial, we unravel their mysteries. Whether you’re just starting with […]]]></summary>
+        <author>
+            <name>Sourav Raj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Classes and Objects in C#| C# Basics for beginners – YouTube]]></title>
+        <id>https://365community.online/classes-and-objects-in-c-c-basics-for-beginners-youtube</id>
+        <link href="https://365community.online/classes-and-objects-in-c-c-basics-for-beginners-youtube"/>
+        <updated>2024-04-27T13:44:06.000Z</updated>
+        <summary type="html"><![CDATA[Classes and Objects in C#| C# Basics for beginners Embark on your journey into C# programming with this beginner-friendly tutorial on classes and objects. Classes and objects form the foundation […]]]></summary>
+        <author>
+            <name>Sourav Raj</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Secret weapon for HR! Dynamics 365, Copilot Studio & ServiceNow Hack!]]></title>
         <id>https://365community.online/secret-weapon-for-hr-dynamics-365-copilot-studio-servicenow-hack</id>
         <link href="https://365community.online/secret-weapon-for-hr-dynamics-365-copilot-studio-servicenow-hack"/>
@@ -45,6 +85,16 @@
 Continue reading →]]></summary>
         <author>
             <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Roadmap to Become  Advanced Full-Stack .NET Core Developer – YouTube]]></title>
+        <id>https://365community.online/a-roadmap-to-become-advanced-full-stack-net-core-developer-youtube</id>
+        <link href="https://365community.online/a-roadmap-to-become-advanced-full-stack-net-core-developer-youtube"/>
+        <updated>2024-04-27T05:39:19.000Z</updated>
+        <summary type="html"><![CDATA[A Roadmap to Become Advanced Full-Stack .NET Core Developer source]]></summary>
+        <author>
+            <name>Sourav Raj</name>
         </author>
     </entry>
     <entry>
@@ -955,6 +1005,16 @@ Next-Gen Solutions: Exploring the Benefits of Business Central Over Dynamics NAV
         <summary type="html"><![CDATA[What is “Linting” in JavaScript? source]]></summary>
         <author>
             <name>Sourav Raj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced Logging and Monitoring for Azure Integration Components using OpenAI]]></title>
+        <id>http://azureintegrations.com/?p=1424</id>
+        <link href="https://azureintegrations.com/2024/04/20/advanced-logging-and-monitoring-for-azure-integration-components-using-openai/"/>
+        <updated>2024-04-20T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the development of distributed systems and cloud-based applications, extensive logging is crucial in monitoring, troubleshooting, and ensuring system reliability. When it comes to Azure integration components, effective logging becomes even more critical due to the distributed nature of the applications and the multitude of services involved. In this blog, I would like to discussContinue reading "Advanced Logging and Monitoring for Azure Integration Components using OpenAI"]]></summary>
+        <author>
+            <name>Poojith Jain</name>
         </author>
     </entry>
     <entry>
