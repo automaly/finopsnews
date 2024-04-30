@@ -2,10 +2,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-04-29T00:41:49.514Z</updated>
+    <updated>2024-04-30T00:38:46.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Preview of D365FO SCM 10.0.40]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=3455</id>
+        <link href="https://anithasantosh.wordpress.com/2024/04/29/preview-of-d365fo-scm-10-0-40/"/>
+        <updated>2024-04-29T20:07:13.000Z</updated>
+        <summary type="html"><![CDATA[Preview of release: April 2024 General availability of release (self-update): June 2024 General availability of release (auto-update): July 2024 Features included in the release : Copilot and AI innovation : (Enabled by default) Inventory and logistics: Manufacturing and asset management: … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embracing the Future with Microsoft Copilot AI]]></title>
+        <id>https://erpsoftwareblog.com/?p=106255</id>
+        <link href="https://erpsoftwareblog.com/2024/04/embracing-the-future-with-copilot-ai-for-business-erp-software-blog/"/>
+        <updated>2024-04-29T16:35:17.000Z</updated>
+        <summary type="html"><![CDATA[The integration of artificial intelligence (AI) is reshaping how we work, innovate, and connect. According to recent surveys, a staggering 90% of professionals recognize the potential of automation and AI-powered […]
+The post Embracing the Future with Microsoft Copilot AI appeared first on ERP Software Blog.
+Brilliant Idea #11 Automotive Supplier Stays On Top of Shipments with Real Time Alerts in Microsoft Dynamics GP
+Microsoft Dynamics AX 2012 for Public Sector Organizations Effectively Manages Public Finances
+Is Your “Cloud ERP” Really Cloud Based?]]></summary>
+        <author>
+            <name>360 Visibility</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taming the DCAA Beast: How Microsoft Dynamics 365 Finance Can Simplify Compliance]]></title>
+        <id>https://erpsoftwareblog.com/?p=106254</id>
+        <link href="https://erpsoftwareblog.com/2024/04/how-microsoft-dynamics-365-finance-can-simplify-compliance/"/>
+        <updated>2024-04-29T16:14:25.000Z</updated>
+        <summary type="html"><![CDATA[For government contractors, navigating the Defense Contract Audit Agency (DCAA) audit process can feel like wrangling a ferocious beast. DCAA compliance demands meticulous record-keeping, accurate cost segregation, and robust reporting […]
+The post Taming the DCAA Beast: How Microsoft Dynamics 365 Finance Can Simplify Compliance appeared first on ERP Software Blog.
+Leveraging MetaPro for DCAA Compliance in Federal Government Contracting
+Offering Project-Driven Rentals? Here’s What You Need to Know!
+A Step-by-Step Guide: How to Calculate Job Costing in Business Central]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Clone and Configure a D365FO Project From GitHub]]></title>
+        <id>https://alexdmeyer.com/?p=3143</id>
+        <link href="https://alexdmeyer.com/2024/04/29/how-to-clone-and-configure-a-d365fo-project-from-github/"/>
+        <updated>2024-04-29T15:08:42.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this year I released the initial version of the D365FO Admin Toolkit as an open source project on GitHub. One piece of (extremely fair) feedback I got was that I did not explain the process on how to clone the source code of that project to a local machine if you wanted to extend […]
+The post How to Clone and Configure a D365FO Project From GitHub appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing new Copilot features for Power Fx]]></title>
+        <id>introducing-the-new-copilot-features-for-power-fx</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/introducing-the-new-copilot-features-for-power-fx/"/>
+        <updated>2024-04-29T11:14:22.000Z</updated>
+        <summary type="html"><![CDATA[Discover how Copilot, a feature in Power Apps, can help you create and understand formulas in Power Fx, improving productivity, enhancing collaboration, and reducing errors when building apps.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Configure the Connector to use Power BI with Microsoft Dynamics 365?]]></title>
+        <id>https://erpsoftwareblog.com/?p=106249</id>
+        <link href="https://erpsoftwareblog.com/2024/04/how-to-configure-the-connector-to-use-power-bi-with-microsoft-dynamics-365/"/>
+        <updated>2024-04-29T07:47:57.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Dynamics 365 is a popular cloud-based CRM and ERP system that helps businesses manage their sales, marketing, customer service, and operations. Power BI is a powerful data visualization and […]
+The post How to Configure the Connector to use Power BI with Microsoft Dynamics 365? appeared first on ERP Software Blog.
+Top 9 advantages of the PowerBI integration in Dynamics 365
+Revolutionize Your Manufacturing Business with Integrated ERP/CRM
+Introducing deFacto POWER Planning]]></summary>
+        <author>
+            <name>DAX Software Solutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transform Your Supply Chain with Demand-driven Material Requirement Planning]]></title>
+        <id>https://erpsoftwareblog.com/?p=106245</id>
+        <link href="https://erpsoftwareblog.com/2024/04/transform-your-supply-chain-with-demand-driven-material-requirement-planning/"/>
+        <updated>2024-04-29T06:17:21.000Z</updated>
+        <summary type="html"><![CDATA[Material requirement planning (MRP) is a critical aspect of manufacturing, allowing organizations to determine the materials and components required to manufacture a product. However, today’s highly volatile supply chains render […]
+The post Transform Your Supply Chain with Demand-driven Material Requirement Planning appeared first on ERP Software Blog.
+Why Microsoft Dynamics 365?
+Top equipment-driven rental trend: Get online to expand presence and profits
+Transition Your Team to Work Remotely with Microsoft 365 ERP]]></summary>
+        <author>
+            <name>Synoptek</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Copilot For Sales New Feature – Tarjetas Adaptativas – YouTube]]></title>
         <id>https://365community.online/copilot-for-sales-new-feature-tarjetas-adaptativas-youtube</id>

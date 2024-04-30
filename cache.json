@@ -1149,7 +1149,7 @@
       ]
     },
     {
-      "title": "Azure Integration services for Dynamics 365",
+      "title": "Azure Integration services",
       "feedUrl": "https://azureintegrations.com/feed/",
       "siteUrl": "https://azureintegrations.com",
       "articles": [
@@ -1430,6 +1430,46 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=106255",
+          "author": "360 Visibility",
+          "description": "The integration of artificial intelligence (AI) is reshaping how we work, innovate, and connect. According to recent surveys, a staggering 90% of professionals recognize the potential of automation and AI-powered […]\nThe post Embracing the Future with Microsoft Copilot AI appeared first on ERP Software Blog.\nBrilliant Idea #11 Automotive Supplier Stays On Top of Shipments with Real Time Alerts in Microsoft Dynamics GP\nMicrosoft Dynamics AX 2012 for Public Sector Organizations Effectively Manages Public Finances\nIs Your “Cloud ERP” Really Cloud Based?",
+          "link": "https://erpsoftwareblog.com/2024/04/embracing-the-future-with-copilot-ai-for-business-erp-software-blog/",
+          "publishedOn": "2024-04-29T16:35:17.000Z",
+          "wordCount": 5241,
+          "title": "Embracing the Future with Microsoft Copilot AI",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/copilot-365-teams-bg-960x720-1-625x469.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106254",
+          "author": "MetaOption LLC",
+          "description": "For government contractors, navigating the Defense Contract Audit Agency (DCAA) audit process can feel like wrangling a ferocious beast. DCAA compliance demands meticulous record-keeping, accurate cost segregation, and robust reporting […]\nThe post Taming the DCAA Beast: How Microsoft Dynamics 365 Finance Can Simplify Compliance appeared first on ERP Software Blog.\nLeveraging MetaPro for DCAA Compliance in Federal Government Contracting\nOffering Project-Driven Rentals? Here’s What You Need to Know!\nA Step-by-Step Guide: How to Calculate Job Costing in Business Central",
+          "link": "https://erpsoftwareblog.com/2024/04/how-microsoft-dynamics-365-finance-can-simplify-compliance/",
+          "publishedOn": "2024-04-29T16:14:25.000Z",
+          "wordCount": 5217,
+          "title": "Taming the DCAA Beast: How Microsoft Dynamics 365 Finance Can Simplify Compliance",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-2-41.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106249",
+          "author": "DAX Software Solutions",
+          "description": "Microsoft Dynamics 365 is a popular cloud-based CRM and ERP system that helps businesses manage their sales, marketing, customer service, and operations. Power BI is a powerful data visualization and […]\nThe post How to Configure the Connector to use Power BI with Microsoft Dynamics 365? appeared first on ERP Software Blog.\nTop 9 advantages of the PowerBI integration in Dynamics 365\nRevolutionize Your Manufacturing Business with Integrated ERP/CRM\nIntroducing deFacto POWER Planning",
+          "link": "https://erpsoftwareblog.com/2024/04/how-to-configure-the-connector-to-use-power-bi-with-microsoft-dynamics-365/",
+          "publishedOn": "2024-04-29T07:47:57.000Z",
+          "wordCount": 6478,
+          "title": "How to Configure the Connector to use Power BI with Microsoft Dynamics 365?",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106245",
+          "author": "Synoptek",
+          "description": "Material requirement planning (MRP) is a critical aspect of manufacturing, allowing organizations to determine the materials and components required to manufacture a product. However, today’s highly volatile supply chains render […]\nThe post Transform Your Supply Chain with Demand-driven Material Requirement Planning appeared first on ERP Software Blog.\nWhy Microsoft Dynamics 365?\nTop equipment-driven rental trend: Get online to expand presence and profits\nTransition Your Team to Work Remotely with Microsoft 365 ERP",
+          "link": "https://erpsoftwareblog.com/2024/04/transform-your-supply-chain-with-demand-driven-material-requirement-planning/",
+          "publishedOn": "2024-04-29T06:17:21.000Z",
+          "wordCount": 5641,
+          "title": "Transform Your Supply Chain with Demand-driven Material Requirement Planning",
+          "imageUrl": "https://synoptekmark.b-cdn.net/wp-content/uploads/2024/04/evaluating-critical-components-of-ddmrp.webp"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=106215",
           "author": "MetaOption LLC",
@@ -18567,6 +18607,16 @@
       "siteUrl": "https://alexdmeyer.com/",
       "articles": [
         {
+          "id": "https://alexdmeyer.com/?p=3143",
+          "author": "Alex",
+          "description": "Earlier this year I released the initial version of the D365FO Admin Toolkit as an open source project on GitHub. One piece of (extremely fair) feedback I got was that I did not explain the process on how to clone the source code of that project to a local machine if you wanted to extend […]\nThe post How to Clone and Configure a D365FO Project From GitHub appeared first on Alex Meyer.",
+          "link": "https://alexdmeyer.com/2024/04/29/how-to-clone-and-configure-a-d365fo-project-from-github/",
+          "publishedOn": "2024-04-29T15:08:42.000Z",
+          "wordCount": 5112,
+          "title": "How to Clone and Configure a D365FO Project From GitHub",
+          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2024/04/git_thumbnail1.jpg"
+        },
+        {
           "id": "https://alexdmeyer.com/?p=3138",
           "author": "Alex",
           "description": "The Deny permission in D365FO is a powerful piece of functionality that I’ve written about before. But if you want to utilize this feature from the AOT, there are some things to know about and keep in mind to ensure you are correctly configuring this access. In the AOT If you are setting up object […]\nThe post Using the Deny Permission from the AOT in D365FO appeared first on Alex Meyer.",
@@ -19114,6 +19164,16 @@
       "feedUrl": "https://anithasantosh.wordpress.com/feed/",
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=3455",
+          "author": "AnithaEswaran",
+          "description": "Preview of release: April 2024 General availability of release (self-update): June 2024 General availability of release (auto-update): July 2024 Features included in the release : Copilot and AI innovation : (Enabled by default) Inventory and logistics: Manufacturing and asset management: … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2024/04/29/preview-of-d365fo-scm-10-0-40/",
+          "publishedOn": "2024-04-29T20:07:13.000Z",
+          "wordCount": 4455,
+          "title": "Preview of D365FO SCM 10.0.40",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2023/06/community_5f00_badge_5f00_logo_2d00_01.png?w=143"
+        },
         {
           "id": "http://anithasantosh.wordpress.com/?p=3451",
           "author": "AnithaEswaran",
@@ -23499,6 +23559,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "introducing-the-new-copilot-features-for-power-fx",
+          "author": null,
+          "description": "Discover how Copilot, a feature in Power Apps, can help you create and understand formulas in Power Fx, improving productivity, enhancing collaboration, and reducing errors when building apps.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/introducing-the-new-copilot-features-for-power-fx/",
+          "publishedOn": "2024-04-29T11:14:22.000Z",
+          "wordCount": 2282,
+          "title": "Introducing new Copilot features for Power Fx",
+          "imageUrl": "//powerappsblogmedia.azureedge.net/powerappsblog/2024/04/Explain-This-Formula-04262024.gif"
+        },
         {
           "id": "microsoft-power-apps-named-a-no-code-low-code-market-leader-by-omdia",
           "author": null,
