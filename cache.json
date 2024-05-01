@@ -1431,6 +1431,46 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=105774",
+          "author": "Axtension",
+          "description": "Dynamics 365 ERP offers excellent functionality for managing shipping and logistics, catering to the essential needs of many businesses. However, companies with more complex requirements often find that the basic […]\nThe post How to Improve Shipping and Logistics in Dynamics 365 ERP appeared first on ERP Software Blog.\nTime to Upgrade Your TMS or Maybe Move to a New Provider ?\nDynamics 365 Partner Provides a Detailed Analysis of Your Current Transportation Management System\nComparing Customized Dynamics 365 TMS Solutions with Off-the-Shelf Transportation Management Solutions",
+          "link": "https://erpsoftwareblog.com/2024/04/how-to-improve-shipping-and-logistics-in-dynamics-365-erp/",
+          "publishedOn": "2024-04-30T20:35:04.000Z",
+          "wordCount": 5452,
+          "title": "How to Improve Shipping and Logistics in Dynamics 365 ERP",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2024-04-How-to-Improve-Shipping-and-Logistics-in-Dynamics-365-ERP_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106310",
+          "author": "MetaOption LLC",
+          "description": "In today’s global market, compliance with packaging regulations is paramount for businesses operating in the warehouse and distribution sector. The intricate web of laws and regulations governing sales packaging can […]\nThe post Packaging Regulations: How MetaWMS Boosts Warehouse Efficiency appeared first on ERP Software Blog.\nExploring the Warehouse Structure in MetaWMS for Dynamics 365 Business Central\nBoosting Warehouse Efficiency: Unveiling the Benefits of MetaWMS\nHow a WMS manage the cold chain for food safety and quality",
+          "link": "https://erpsoftwareblog.com/2024/04/packaging-regulations-how-metawms-boosts-warehouse-efficiency/",
+          "publishedOn": "2024-04-30T18:04:00.000Z",
+          "wordCount": 5291,
+          "title": "Packaging Regulations: How MetaWMS Boosts Warehouse Efficiency",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-133.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106303",
+          "author": "Dynamics Square UK",
+          "description": "Business Central for Manufacturing is a perfect solution for businesses with process manufacturing as its core functionality. It can manage different processes, streamline complex operations, and automate various tasks to […]\nThe post Streamlining the Process: How Dynamics 365 Business Central Empowers Process Manufacturing appeared first on ERP Software Blog.\nThe Top Three Questions to Ask Before Selecting a Dynamics GP Manufacturing Partner\nNot All ERP is One-Size-Fits-All\nB2B vs. B2C eCommerce: What's the difference and why does it matter?",
+          "link": "https://erpsoftwareblog.com/2024/04/how-dynamics-365-business-central-empowers-process-manufacturing/",
+          "publishedOn": "2024-04-30T14:52:53.000Z",
+          "wordCount": 5954,
+          "title": "Streamlining the Process: How Dynamics 365 Business Central Empowers Process Manufacturing",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/process-man-625x352.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106252",
+          "author": "x2x eCommerce",
+          "description": "ROI Analysis of ERP and eCommerce Integration involves evaluating the financial benefits and costs associated with the integration. Identify Key Objectives: Identify the primary objectives of integrating an ERP system […]\nThe post ROI Analysis of ERP and eCommerce Integration appeared first on ERP Software Blog.\nSignificance of Dynamics GP & Shopify Integration\nHow to Get More Bang for Your Buck When Integrating Magento and Microsoft Dynamics GP\nDynamics GP & POS (RMH) Integration by x2x-eCommerce",
+          "link": "https://erpsoftwareblog.com/2024/04/roi-analysis-of-erp-and-ecommerce-integration/",
+          "publishedOn": "2024-04-30T12:20:57.000Z",
+          "wordCount": 5224,
+          "title": "ROI Analysis of ERP and eCommerce Integration",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Modern-Promotion-Business-Agency-Blog-Banner-20-300x169.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=106255",
           "author": "360 Visibility",
           "description": "The integration of artificial intelligence (AI) is reshaping how we work, innovate, and connect. According to recent surveys, a staggering 90% of professionals recognize the potential of automation and AI-powered […]\nThe post Embracing the Future with Microsoft Copilot AI appeared first on ERP Software Blog.\nBrilliant Idea #11 Automotive Supplier Stays On Top of Shipments with Real Time Alerts in Microsoft Dynamics GP\nMicrosoft Dynamics AX 2012 for Public Sector Organizations Effectively Manages Public Finances\nIs Your “Cloud ERP” Really Cloud Based?",
@@ -7734,6 +7774,106 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/use-geolocation-settings-for-location-tracking-and-auditing-dynamics-365-field-service",
+          "author": "Nishant Rana",
+          "description": "We can track the different locations Field Service technicians have traveled or where they are at a given time inside Dynamics 365 Field Service. Field Service Technicians can enable location […]",
+          "link": "https://365community.online/use-geolocation-settings-for-location-tracking-and-auditing-dynamics-365-field-service",
+          "publishedOn": "2024-04-30T22:30:00.000Z",
+          "wordCount": 3306,
+          "title": "Use Geolocation Settings for Location Tracking and Auditing – Dynamics 365 Field Service",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/Use-Geolocation-Settings-for-Location-Tracking-and-Auditing-–-Dynamics.jpeg?fit=1200%2C797&ssl=1"
+        },
+        {
+          "id": "https://365community.online/code-coverage-updates-in-vs-code-with-al-test-runner",
+          "author": "James Pearson",
+          "description": "Intro For a while now AL Test Runner has been able to download the code coverage details after running your tests, output a summary of the objects that were hit […]",
+          "link": "https://365community.online/code-coverage-updates-in-vs-code-with-al-test-runner",
+          "publishedOn": "2024-04-30T16:32:45.000Z",
+          "wordCount": 3268,
+          "title": "Code Coverage Updates in VS Code with AL Test Runner",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Code-Coverage-Updates-in-VS-Code-with-AL-Test-Runner.png?fit=308%2C243&ssl=1"
+        },
+        {
+          "id": "https://365community.online/%f0%9f%93%b0new-video-copilot-for-sales-new-feature-tarjetas-adaptativas%e2%9c%a8",
+          "author": "jarmesto",
+          "description": "Nuevo Video en mi canal de YouTube. Esta nueva funcionalidad viene para ayudar en la comunicación en equipos de ventas . Os enseño como poder usarlas con corto video. Os […]",
+          "link": "https://365community.online/%f0%9f%93%b0new-video-copilot-for-sales-new-feature-tarjetas-adaptativas%e2%9c%a8",
+          "publishedOn": "2024-04-30T14:23:04.000Z",
+          "wordCount": 3265,
+          "title": "📰New Video:  Copilot For Sales New Feature – Tarjetas Adaptativas✨",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/New-Video-Copilot-For-Sales-New-Feature-–-Tarjetas-Adaptativas.png?fit=1200%2C686&ssl=1"
+        },
+        {
+          "id": "https://365community.online/bound-for-aberdeen-youtube",
+          "author": "Scottish Summit",
+          "description": "In this first episode of our Scottish Summit 2024 we talk to event founder Mark Christie and speaker, Thomas Sandsor about pyrotechnics, doplegangers, volunteering and and the impact Scottish Summit […]",
+          "link": "https://365community.online/bound-for-aberdeen-youtube",
+          "publishedOn": "2024-04-30T13:40:13.000Z",
+          "wordCount": 3118,
+          "title": "Bound for Aberdeen – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1714511879_maxresdefault_live.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-restore-a-deleted-company",
+          "author": "Ian Grieve",
+          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]",
+          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-restore-a-deleted-company",
+          "publishedOn": "2024-04-30T10:00:33.000Z",
+          "wordCount": 3282,
+          "title": "In Microsoft Dynamics 365 Business Central (Administration), how do I… Restore a Deleted Company",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/maplytics-earns-the-first-ever-certified-software-badge-for-dynamics-365-crm-maps-integration",
+          "author": "Inogic",
+          "description": "Excitement fills the air at Team Maplytics HQ! They’ve achieved another significant milestone – Maplytics is not only one of the first software applications but also the very first geolocation […]",
+          "link": "https://365community.online/maplytics-earns-the-first-ever-certified-software-badge-for-dynamics-365-crm-maps-integration",
+          "publishedOn": "2024-04-30T09:49:59.000Z",
+          "wordCount": 3516,
+          "title": "Maplytics earns the First-Ever ‘Certified Software’ Badge for Dynamics 365 CRM Maps Integration!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Maplytics-Certificate.png?fit=1200%2C686&ssl=1"
+        },
+        {
+          "id": "https://365community.online/omnichannel-for-customer-service-resizable-communication-panel",
+          "author": "Neil Parkhurst",
+          "description": "Within the customer service workspace app of Microsoft’s Dynamics 365 Omnichannel for Customer Service we have a communication panel. When agents are chatting with customers the conversation displays in this […]",
+          "link": "https://365community.online/omnichannel-for-customer-service-resizable-communication-panel",
+          "publishedOn": "2024-04-30T09:28:37.000Z",
+          "wordCount": 3242,
+          "title": "Omnichannel for Customer Service – Resizable Communication Panel",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Omnichannel-for-Customer-Service-–-Resizable-Communication-Panel.jpg?fit=1200%2C799&ssl=1"
+        },
+        {
+          "id": "https://365community.online/omnichannel-for-customer-service-enhanced-outbound-dialer-april-2024",
+          "author": "Neil Parkhurst",
+          "description": "The April 2024 wave for Dynamics 365 has included some additional features in the outbound dialer of Omnichannel for Customer Service. In this post I will explain how to enable […]",
+          "link": "https://365community.online/omnichannel-for-customer-service-enhanced-outbound-dialer-april-2024",
+          "publishedOn": "2024-04-30T08:44:56.000Z",
+          "wordCount": 3243,
+          "title": "Omnichannel for Customer Service – Enhanced Outbound Dialer (April 2024)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/Omnichannel-for-Customer-Service-–-Enhanced-Outbound-Dialer-April-2024.jpg?fit=1200%2C799&ssl=1"
+        },
+        {
+          "id": "https://365community.online/configure-if-booking-status-completes-a-work-order",
+          "author": "Dian Taylor",
+          "description": "If your organization is using Dynamics 365 Field Service, then you might have come across a scenario where a field technician doesn’t need to fully complete a work order, but […]",
+          "link": "https://365community.online/configure-if-booking-status-completes-a-work-order",
+          "publishedOn": "2024-04-30T08:34:00.000Z",
+          "wordCount": 3247,
+          "title": "Configure if Booking Status completes a work order",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/d365-field-service-configure-if-booking-status-completes-a-work-order-youtube",
+          "author": "Dian Taylor",
+          "description": "D365 Field Service: Configure if Booking Status completes a work order If your organization is using Dynamics 365 Field Service, then you might have come across a scenario where a […]",
+          "link": "https://365community.online/d365-field-service-configure-if-booking-status-completes-a-work-order-youtube",
+          "publishedOn": "2024-04-30T08:32:00.000Z",
+          "wordCount": 3396,
+          "title": "D365 Field Service: Configure if Booking Status completes a work order – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/1714510898_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
         {
           "id": "https://365community.online/copilot-for-sales-new-feature-tarjetas-adaptativas-youtube",
           "author": "jarmesto",
@@ -18454,6 +18594,16 @@
       "siteUrl": "https://fernitudela.dev",
       "articles": [
         {
+          "id": "http://fernitudela.dev/?p=1425",
+          "author": "Fernando Tudela Desantes",
+          "description": "More and more D365F&O developers are transitioning to git as their source control, given the more flexibility that it offers compared to TVSC. Sometimes the conflicts in PRs can make the dev team to spend much time pulling from the target branch, checking out the origin branch, and merging, all in Visual Studio, in terms to repro the conflict and use the VS merge tool. Not anymore!! (At least not always) since there's an extension provided by Microsoft in Azure DevOps to be able to merge the conflicts within it. … More Resolve your GIT pull request conflicts within Azure DevOps",
+          "link": "https://fernitudela.dev/2024/04/30/resolve-your-git-pull-request-conflicts-within-azure-devops/",
+          "publishedOn": "2024-04-30T11:23:33.000Z",
+          "wordCount": 3668,
+          "title": "Resolve your GIT pull request conflicts within Azure DevOps",
+          "imageUrl": "https://fernitudela.files.wordpress.com/2024/04/featured-image-1.png"
+        },
+        {
           "id": "http://fernitudela.dev/?p=1385",
           "author": "Fernando Tudela Desantes",
           "description": "You can't access, from Power Automate, to the information of different Excel files where no tables are created... or can you? In this post we are going to analyze the problem and see how we can troubleshoot the limitation for all our implementations. … More Consume / Read plain Excel (without table) from Power Automate",
@@ -21281,6 +21431,26 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=2875",
+          "author": "Saurabh Bharti",
+          "description": "If you’re considering transitioning into a Microsoft Dynamics 365 Finance or SCM functional consultant role but aren’t sure where to begin, then this video is designed specifically for you. In this next part of our series on the Three-Step Learning Path for Functional Consultants, we’ll discuss Where to Learn the topics you’ve chosen in Step […]",
+          "link": "https://exploredynamics365.home.blog/2024/04/30/where-to-learn-learning-path-to-become-functional-consultant-fcl-005/",
+          "publishedOn": "2024-04-30T13:33:37.000Z",
+          "wordCount": 3356,
+          "title": "Where to Learn: Learning Path to Become Functional Consultant: FCL-005",
+          "imageUrl": "http://img.youtube.com/vi/eN5XZTrE-TQ/0.jpg"
+        },
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2872",
+          "author": "Saurabh Bharti",
+          "description": "Welcome to the next video on “Learning Path to Become Functional consultant” series. It’s been a while since I’ve posted a video in this series, but I’m back with one that’s critical for any functional consultant. If you’re aspiring to become a functional consultant, this is a video you don’t want to miss. Once you’ve […]",
+          "link": "https://exploredynamics365.home.blog/2024/04/30/fddfunctional-design-document-learning-path-to-become-functional-consultantfc-007/",
+          "publishedOn": "2024-04-30T13:31:27.000Z",
+          "wordCount": 3360,
+          "title": "[FDD]Functional Design Document: Learning Path to Become Functional Consultant:FC-007",
+          "imageUrl": "http://img.youtube.com/vi/Q829zlJLTjo/0.jpg"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=2869",
           "author": "Saurabh Bharti",
           "description": "Confused about Copilot in Microsoft Dynamics 365 finance and Copilot for Finance? Yes, both are different !!! In this video, I’ll be explaining the use case utilizing both features. Welcome to the next video focusing on Copilot and AI capabilities within Microsoft Dynamics 365 Finance and Operations. In this session, we’ll delve into Copilot support […]",
@@ -21597,6 +21767,26 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2875",
+          "author": "Saurabh Bharti",
+          "description": "If you’re considering transitioning into a Microsoft Dynamics 365 Finance or SCM functional consultant role but aren’t sure where to begin, then this video is designed specifically for you. In this next part of our series on the Three-Step Learning Path for Functional Consultants, we’ll discuss Where to Learn the topics you’ve chosen in Step […]",
+          "link": "https://exploredynamics365.home.blog/2024/04/30/where-to-learn-learning-path-to-become-functional-consultant-fcl-005/",
+          "publishedOn": "2024-04-30T13:33:37.000Z",
+          "wordCount": 3356,
+          "title": "Where to Learn: Learning Path to Become Functional Consultant: FCL-005",
+          "imageUrl": "http://img.youtube.com/vi/eN5XZTrE-TQ/0.jpg"
+        },
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2872",
+          "author": "Saurabh Bharti",
+          "description": "Welcome to the next video on “Learning Path to Become Functional consultant” series. It’s been a while since I’ve posted a video in this series, but I’m back with one that’s critical for any functional consultant. If you’re aspiring to become a functional consultant, this is a video you don’t want to miss. Once you’ve […]",
+          "link": "https://exploredynamics365.home.blog/2024/04/30/fddfunctional-design-document-learning-path-to-become-functional-consultantfc-007/",
+          "publishedOn": "2024-04-30T13:31:27.000Z",
+          "wordCount": 3360,
+          "title": "[FDD]Functional Design Document: Learning Path to Become Functional Consultant:FC-007",
+          "imageUrl": "http://img.youtube.com/vi/Q829zlJLTjo/0.jpg"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2869",
           "author": "Saurabh Bharti",
@@ -23560,6 +23750,26 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "pipelines-for-all-are-now-generally-available-ga",
+          "author": null,
+          "description": "If you haven’t already heard, Power Platform is advancing in the mission to democratize healthy ALM by removing a significant barrier to entry: manual setup. We are excited to announce that the feature set included in Pipelines for All is now Generally Available, and we’ve made some upgrades, such as adding a stage and reusing pipelines across dev environments, to make personal pipelines even more useful across a variety of use cases.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/pipelines-for-all-are-now-generally-available-ga/",
+          "publishedOn": "2024-04-30T08:00:58.000Z",
+          "wordCount": 2045,
+          "title": "Pipelines for All are now Generally Available (GA)",
+          "imageUrl": "//powerappsblogmedia.azureedge.net/powerappsblog/2024/04/Screenshot-2024-04-29-171315.png"
+        },
+        {
+          "id": "next-level-connectivity-security-dataverse-plug-ins-embrace-virtual-networks",
+          "author": null,
+          "description": "Virtual network support, now generally available for Dataverse plug-ins within Power Platform, enhances security for outbound connections to private network resources. Leveraging Azure Subnet Delegation, customers can delegate subnets to Power Platform, ensuring egress traffic management aligns with network policies.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/next-level-connectivity-security-dataverse-plug-ins-embrace-virtual-networks/",
+          "publishedOn": "2024-04-30T04:08:15.000Z",
+          "wordCount": 2189,
+          "title": "Next-Level Connectivity Security: Dataverse Plug-ins Embrace Virtual Networks!",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
           "id": "introducing-the-new-copilot-features-for-power-fx",
           "author": null,
           "description": "Discover how Copilot, a feature in Power Apps, can help you create and understand formulas in Power Fx, improving productivity, enhancing collaboration, and reducing errors when building apps.",
@@ -24404,6 +24614,16 @@
       "feedUrl": "https://powerautomate.microsoft.com/en-nz/blog/feed/",
       "siteUrl": "https://powerautomate.microsoft.com/en-nz/blog/",
       "articles": [
+        {
+          "id": "announcing-general-availability-of-customer-managed-keys-for-new-environments-in-power-automate",
+          "author": null,
+          "description": "Following the successful launch of the Public Preview of Customer Managed encryption keys for Power Automate, we are excited to announce general availability for this capability. With this capability, customers can bring their own encryption keys to secure their Power Automate data at rest.",
+          "link": "https://powerautomate.microsoft.com/en-nz/blog/announcing-general-availability-of-customer-managed-keys-for-new-environments-in-power-automate/",
+          "publishedOn": "2024-04-30T07:47:56.000Z",
+          "wordCount": 2731,
+          "title": "Announcing General Availability of Customer Managed Keys for new environments in Power Automate",
+          "imageUrl": null
+        },
         {
           "id": "transforming-digital-processes-with-ai-a-power-automate-process-mining-case-study-at-microsoft-customer-and-partner-solutions-mcaps",
           "author": null,

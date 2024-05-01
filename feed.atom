@@ -2,10 +2,246 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-04-30T00:38:46.979Z</updated>
+    <updated>2024-05-01T00:42:52.054Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Use Geolocation Settings for Location Tracking and Auditing – Dynamics 365 Field Service]]></title>
+        <id>https://365community.online/use-geolocation-settings-for-location-tracking-and-auditing-dynamics-365-field-service</id>
+        <link href="https://365community.online/use-geolocation-settings-for-location-tracking-and-auditing-dynamics-365-field-service"/>
+        <updated>2024-04-30T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[We can track the different locations Field Service technicians have traveled or where they are at a given time inside Dynamics 365 Field Service. Field Service Technicians can enable location […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Improve Shipping and Logistics in Dynamics 365 ERP]]></title>
+        <id>https://erpsoftwareblog.com/?p=105774</id>
+        <link href="https://erpsoftwareblog.com/2024/04/how-to-improve-shipping-and-logistics-in-dynamics-365-erp/"/>
+        <updated>2024-04-30T20:35:04.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics 365 ERP offers excellent functionality for managing shipping and logistics, catering to the essential needs of many businesses. However, companies with more complex requirements often find that the basic […]
+The post How to Improve Shipping and Logistics in Dynamics 365 ERP appeared first on ERP Software Blog.
+Time to Upgrade Your TMS or Maybe Move to a New Provider ?
+Dynamics 365 Partner Provides a Detailed Analysis of Your Current Transportation Management System
+Comparing Customized Dynamics 365 TMS Solutions with Off-the-Shelf Transportation Management Solutions]]></summary>
+        <author>
+            <name>Axtension</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Packaging Regulations: How MetaWMS Boosts Warehouse Efficiency]]></title>
+        <id>https://erpsoftwareblog.com/?p=106310</id>
+        <link href="https://erpsoftwareblog.com/2024/04/packaging-regulations-how-metawms-boosts-warehouse-efficiency/"/>
+        <updated>2024-04-30T18:04:00.000Z</updated>
+        <summary type="html"><![CDATA[In today’s global market, compliance with packaging regulations is paramount for businesses operating in the warehouse and distribution sector. The intricate web of laws and regulations governing sales packaging can […]
+The post Packaging Regulations: How MetaWMS Boosts Warehouse Efficiency appeared first on ERP Software Blog.
+Exploring the Warehouse Structure in MetaWMS for Dynamics 365 Business Central
+Boosting Warehouse Efficiency: Unveiling the Benefits of MetaWMS
+How a WMS manage the cold chain for food safety and quality]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code Coverage Updates in VS Code with AL Test Runner]]></title>
+        <id>https://365community.online/code-coverage-updates-in-vs-code-with-al-test-runner</id>
+        <link href="https://365community.online/code-coverage-updates-in-vs-code-with-al-test-runner"/>
+        <updated>2024-04-30T16:32:45.000Z</updated>
+        <summary type="html"><![CDATA[Intro For a while now AL Test Runner has been able to download the code coverage details after running your tests, output a summary of the objects that were hit […]]]></summary>
+        <author>
+            <name>James Pearson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamlining the Process: How Dynamics 365 Business Central Empowers Process Manufacturing]]></title>
+        <id>https://erpsoftwareblog.com/?p=106303</id>
+        <link href="https://erpsoftwareblog.com/2024/04/how-dynamics-365-business-central-empowers-process-manufacturing/"/>
+        <updated>2024-04-30T14:52:53.000Z</updated>
+        <summary type="html"><![CDATA[Business Central for Manufacturing is a perfect solution for businesses with process manufacturing as its core functionality. It can manage different processes, streamline complex operations, and automate various tasks to […]
+The post Streamlining the Process: How Dynamics 365 Business Central Empowers Process Manufacturing appeared first on ERP Software Blog.
+The Top Three Questions to Ask Before Selecting a Dynamics GP Manufacturing Partner
+Not All ERP is One-Size-Fits-All
+B2B vs. B2C eCommerce: What's the difference and why does it matter?]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📰New Video:  Copilot For Sales New Feature – Tarjetas Adaptativas✨]]></title>
+        <id>https://365community.online/%f0%9f%93%b0new-video-copilot-for-sales-new-feature-tarjetas-adaptativas%e2%9c%a8</id>
+        <link href="https://365community.online/%f0%9f%93%b0new-video-copilot-for-sales-new-feature-tarjetas-adaptativas%e2%9c%a8"/>
+        <updated>2024-04-30T14:23:04.000Z</updated>
+        <summary type="html"><![CDATA[Nuevo Video en mi canal de YouTube. Esta nueva funcionalidad viene para ayudar en la comunicación en equipos de ventas . Os enseño como poder usarlas con corto video. Os […]]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bound for Aberdeen – YouTube]]></title>
+        <id>https://365community.online/bound-for-aberdeen-youtube</id>
+        <link href="https://365community.online/bound-for-aberdeen-youtube"/>
+        <updated>2024-04-30T13:40:13.000Z</updated>
+        <summary type="html"><![CDATA[In this first episode of our Scottish Summit 2024 we talk to event founder Mark Christie and speaker, Thomas Sandsor about pyrotechnics, doplegangers, volunteering and and the impact Scottish Summit […]]]></summary>
+        <author>
+            <name>Scottish Summit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where to Learn: Learning Path to Become Functional Consultant: FCL-005]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2875</id>
+        <link href="https://exploredynamics365.home.blog/2024/04/30/where-to-learn-learning-path-to-become-functional-consultant-fcl-005/"/>
+        <updated>2024-04-30T13:33:37.000Z</updated>
+        <summary type="html"><![CDATA[If you’re considering transitioning into a Microsoft Dynamics 365 Finance or SCM functional consultant role but aren’t sure where to begin, then this video is designed specifically for you. In this next part of our series on the Three-Step Learning Path for Functional Consultants, we’ll discuss Where to Learn the topics you’ve chosen in Step […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where to Learn: Learning Path to Become Functional Consultant: FCL-005]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2875</id>
+        <link href="https://exploredynamics365.home.blog/2024/04/30/where-to-learn-learning-path-to-become-functional-consultant-fcl-005/"/>
+        <updated>2024-04-30T13:33:37.000Z</updated>
+        <summary type="html"><![CDATA[If you’re considering transitioning into a Microsoft Dynamics 365 Finance or SCM functional consultant role but aren’t sure where to begin, then this video is designed specifically for you. In this next part of our series on the Three-Step Learning Path for Functional Consultants, we’ll discuss Where to Learn the topics you’ve chosen in Step […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[FDD]Functional Design Document: Learning Path to Become Functional Consultant:FC-007]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2872</id>
+        <link href="https://exploredynamics365.home.blog/2024/04/30/fddfunctional-design-document-learning-path-to-become-functional-consultantfc-007/"/>
+        <updated>2024-04-30T13:31:27.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the next video on “Learning Path to Become Functional consultant” series. It’s been a while since I’ve posted a video in this series, but I’m back with one that’s critical for any functional consultant. If you’re aspiring to become a functional consultant, this is a video you don’t want to miss. Once you’ve […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[FDD]Functional Design Document: Learning Path to Become Functional Consultant:FC-007]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2872</id>
+        <link href="https://exploredynamics365.home.blog/2024/04/30/fddfunctional-design-document-learning-path-to-become-functional-consultantfc-007/"/>
+        <updated>2024-04-30T13:31:27.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the next video on “Learning Path to Become Functional consultant” series. It’s been a while since I’ve posted a video in this series, but I’m back with one that’s critical for any functional consultant. If you’re aspiring to become a functional consultant, this is a video you don’t want to miss. Once you’ve […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROI Analysis of ERP and eCommerce Integration]]></title>
+        <id>https://erpsoftwareblog.com/?p=106252</id>
+        <link href="https://erpsoftwareblog.com/2024/04/roi-analysis-of-erp-and-ecommerce-integration/"/>
+        <updated>2024-04-30T12:20:57.000Z</updated>
+        <summary type="html"><![CDATA[ROI Analysis of ERP and eCommerce Integration involves evaluating the financial benefits and costs associated with the integration. Identify Key Objectives: Identify the primary objectives of integrating an ERP system […]
+The post ROI Analysis of ERP and eCommerce Integration appeared first on ERP Software Blog.
+Significance of Dynamics GP & Shopify Integration
+How to Get More Bang for Your Buck When Integrating Magento and Microsoft Dynamics GP
+Dynamics GP & POS (RMH) Integration by x2x-eCommerce]]></summary>
+        <author>
+            <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resolve your GIT pull request conflicts within Azure DevOps]]></title>
+        <id>http://fernitudela.dev/?p=1425</id>
+        <link href="https://fernitudela.dev/2024/04/30/resolve-your-git-pull-request-conflicts-within-azure-devops/"/>
+        <updated>2024-04-30T11:23:33.000Z</updated>
+        <summary type="html"><![CDATA[More and more D365F&O developers are transitioning to git as their source control, given the more flexibility that it offers compared to TVSC. Sometimes the conflicts in PRs can make the dev team to spend much time pulling from the target branch, checking out the origin branch, and merging, all in Visual Studio, in terms to repro the conflict and use the VS merge tool. Not anymore!! (At least not always) since there's an extension provided by Microsoft in Azure DevOps to be able to merge the conflicts within it. … More Resolve your GIT pull request conflicts within Azure DevOps]]></summary>
+        <author>
+            <name>Fernando Tudela Desantes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Administration), how do I… Restore a Deleted Company]]></title>
+        <id>https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-restore-a-deleted-company</id>
+        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-restore-a-deleted-company"/>
+        <updated>2024-04-30T10:00:33.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maplytics earns the First-Ever ‘Certified Software’ Badge for Dynamics 365 CRM Maps Integration!]]></title>
+        <id>https://365community.online/maplytics-earns-the-first-ever-certified-software-badge-for-dynamics-365-crm-maps-integration</id>
+        <link href="https://365community.online/maplytics-earns-the-first-ever-certified-software-badge-for-dynamics-365-crm-maps-integration"/>
+        <updated>2024-04-30T09:49:59.000Z</updated>
+        <summary type="html"><![CDATA[Excitement fills the air at Team Maplytics HQ! They’ve achieved another significant milestone – Maplytics is not only one of the first software applications but also the very first geolocation […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omnichannel for Customer Service – Resizable Communication Panel]]></title>
+        <id>https://365community.online/omnichannel-for-customer-service-resizable-communication-panel</id>
+        <link href="https://365community.online/omnichannel-for-customer-service-resizable-communication-panel"/>
+        <updated>2024-04-30T09:28:37.000Z</updated>
+        <summary type="html"><![CDATA[Within the customer service workspace app of Microsoft’s Dynamics 365 Omnichannel for Customer Service we have a communication panel. When agents are chatting with customers the conversation displays in this […]]]></summary>
+        <author>
+            <name>Neil Parkhurst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omnichannel for Customer Service – Enhanced Outbound Dialer (April 2024)]]></title>
+        <id>https://365community.online/omnichannel-for-customer-service-enhanced-outbound-dialer-april-2024</id>
+        <link href="https://365community.online/omnichannel-for-customer-service-enhanced-outbound-dialer-april-2024"/>
+        <updated>2024-04-30T08:44:56.000Z</updated>
+        <summary type="html"><![CDATA[The April 2024 wave for Dynamics 365 has included some additional features in the outbound dialer of Omnichannel for Customer Service. In this post I will explain how to enable […]]]></summary>
+        <author>
+            <name>Neil Parkhurst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configure if Booking Status completes a work order]]></title>
+        <id>https://365community.online/configure-if-booking-status-completes-a-work-order</id>
+        <link href="https://365community.online/configure-if-booking-status-completes-a-work-order"/>
+        <updated>2024-04-30T08:34:00.000Z</updated>
+        <summary type="html"><![CDATA[If your organization is using Dynamics 365 Field Service, then you might have come across a scenario where a field technician doesn’t need to fully complete a work order, but […]]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 Field Service: Configure if Booking Status completes a work order – YouTube]]></title>
+        <id>https://365community.online/d365-field-service-configure-if-booking-status-completes-a-work-order-youtube</id>
+        <link href="https://365community.online/d365-field-service-configure-if-booking-status-completes-a-work-order-youtube"/>
+        <updated>2024-04-30T08:32:00.000Z</updated>
+        <summary type="html"><![CDATA[D365 Field Service: Configure if Booking Status completes a work order If your organization is using Dynamics 365 Field Service, then you might have come across a scenario where a […]]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pipelines for All are now Generally Available (GA)]]></title>
+        <id>pipelines-for-all-are-now-generally-available-ga</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/pipelines-for-all-are-now-generally-available-ga/"/>
+        <updated>2024-04-30T08:00:58.000Z</updated>
+        <summary type="html"><![CDATA[If you haven’t already heard, Power Platform is advancing in the mission to democratize healthy ALM by removing a significant barrier to entry: manual setup. We are excited to announce that the feature set included in Pipelines for All is now Generally Available, and we’ve made some upgrades, such as adding a stage and reusing pipelines across dev environments, to make personal pipelines even more useful across a variety of use cases.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing General Availability of Customer Managed Keys for new environments in Power Automate]]></title>
+        <id>announcing-general-availability-of-customer-managed-keys-for-new-environments-in-power-automate</id>
+        <link href="https://powerautomate.microsoft.com/en-nz/blog/announcing-general-availability-of-customer-managed-keys-for-new-environments-in-power-automate/"/>
+        <updated>2024-04-30T07:47:56.000Z</updated>
+        <summary type="html"><![CDATA[Following the successful launch of the Public Preview of Customer Managed encryption keys for Power Automate, we are excited to announce general availability for this capability. With this capability, customers can bring their own encryption keys to secure their Power Automate data at rest.]]></summary>
+        <author>
+            <name>powerautomate.microsoft.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next-Level Connectivity Security: Dataverse Plug-ins Embrace Virtual Networks!]]></title>
+        <id>next-level-connectivity-security-dataverse-plug-ins-embrace-virtual-networks</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/next-level-connectivity-security-dataverse-plug-ins-embrace-virtual-networks/"/>
+        <updated>2024-04-30T04:08:15.000Z</updated>
+        <summary type="html"><![CDATA[Virtual network support, now generally available for Dataverse plug-ins within Power Platform, enhances security for outbound connections to private network resources. Leveraging Azure Subnet Delegation, customers can delegate subnets to Power Platform, ensuring egress traffic management aligns with network policies.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Preview of D365FO SCM 10.0.40]]></title>
         <id>http://anithasantosh.wordpress.com/?p=3455</id>
