@@ -1431,6 +1431,66 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=106383",
+          "author": "Dynamics Square UK",
+          "description": "D365 Business Central provides functionality to streamline everyday business processes for small to medium-sized businesses, particularly in sectors like wholesale and professional services. But it doesn't stop there. The platform […]\nThe post Dynamics 365 Business Central Functionality appeared first on ERP Software Blog.\nManufacturing Capabilities of Dynamics 365 Business Central\nMicrosoft Dynamics 365 Business Central Pricing\nManage your inventory by forecasting inventory levels in Dyn365BC",
+          "link": "https://erpsoftwareblog.com/2024/05/dynamics-365-business-central-functionality/",
+          "publishedOn": "2024-05-02T20:34:04.000Z",
+          "wordCount": 5728,
+          "title": "Dynamics 365 Business Central Functionality",
+          "imageUrl": "https://www.captivix.com/wp-content/uploads/2021/09/Microsoft-BC.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106367",
+          "author": "StockIQ Technologies",
+          "description": "In today’s fast-paced business landscape, accurate demand planning is crucial for optimizing inventory, managing costs, and meeting customer expectations. Unfortunately, many organizations still rely heavily on manual processes and Excel […]\nThe post Real-Time Demand Planning: Eliminating Excel Spreadsheets appeared first on ERP Software Blog.\nThe Dos and Don’ts of Supply Chain Planning\nIntegrated Planning with deFacto Power Planning - Webinar\n8 Favorite StockIQ Supply Chain Planning Improvements & Features for 2021",
+          "link": "https://erpsoftwareblog.com/2024/05/real-time-demand-planning-eliminating-excel-spreadsheets/",
+          "publishedOn": "2024-05-02T19:04:45.000Z",
+          "wordCount": 5149,
+          "title": "Real-Time Demand Planning: Eliminating Excel Spreadsheets",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106350",
+          "author": "Insight Works",
+          "description": "TechWorks 2024: Join us in Toronto on September 25-26 for a leading conference on Dynamics 365 Business Central, enhancing tech skills.\nThe post TechWorks 2024: Unleashing the Power of Dynamics 365 Business Central appeared first on ERP Software Blog.\nHow Much Does Microsoft Office 365 Cost and Will It Work With Microsoft Dynamics GP?\n“It’s an App-world after all”\nMicrosoft Dynamics NAV for Oilfield Services",
+          "link": "https://erpsoftwareblog.com/2024/05/techworks-2024-unleashing-the-power-of-dynamics-365-business-central/",
+          "publishedOn": "2024-05-02T16:46:51.000Z",
+          "wordCount": 5079,
+          "title": "TechWorks 2024: Unleashing the Power of Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/TechWorks2024-black-bkg-500x500-1.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106365",
+          "author": "StockIQ Technologies",
+          "description": "Supply chain planning is a critical aspect of any business that deals with the production and distribution of goods. It involves a series of strategic decisions and actions that ensure […]\nThe post The Dos and Don’ts of Supply Chain Planning appeared first on ERP Software Blog.\n8 Favorite StockIQ Supply Chain Planning Improvements & Features for 2021\n7 Check List Questions When Moving Inventory from One Warehouse to Another\nReal-Time Demand Planning: Eliminating Excel Spreadsheets",
+          "link": "https://erpsoftwareblog.com/2024/05/the-dos-and-donts-of-supply-chain-planning/",
+          "publishedOn": "2024-05-02T14:25:59.000Z",
+          "wordCount": 5247,
+          "title": "The Dos and Don’ts of Supply Chain Planning",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106263",
+          "author": "Cosmos Data Technologies",
+          "description": "Not long ago, businesses were bogged down by the high costs and complexities of managing on-premise IT infrastructures. Today, cloud computing has dramatically altered this landscape. Powered by leading cloud […]\nThe post The Future of Reporting: Understanding Cloud Reporting for Business Central appeared first on ERP Software Blog.\nHow Important Is Your Hosting Provider when Working with Magento Platform?\nOn-premise vs Cloud-based - 10 Considerations\nNavigate delivery excellence using DynaRent’s TomTom Webfleet integration",
+          "link": "https://erpsoftwareblog.com/2024/05/understanding-cloud-reporting-for-business-central/",
+          "publishedOn": "2024-05-02T13:03:55.000Z",
+          "wordCount": 5470,
+          "title": "The Future of Reporting: Understanding Cloud Reporting for Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Cosmos_Cloud-Reporting-Header-1000x500_WebP-11.webp"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106087",
+          "author": "Western Computer",
+          "description": "As a Microsoft Dynamics GP user, you might be considering transitioning to cloud-based Dynamics 365 Business Central. The decision can be complex, so you’ll want to proceed with knowledge. Our […]\nThe post Dynamics GP to Dynamics 365 Business Central - Is It Time to Switch? appeared first on ERP Software Blog.\nIs Your “Cloud ERP” Really Cloud Based?\nAvastone Technologies to Merge with Heartland Business Systems\nAlaskan Fishery Catches Success with Microsoft Dynamics GP",
+          "link": "https://erpsoftwareblog.com/2024/05/dynamics-gp-to-dynamics-365-business-central-is-it-time-to-switch/",
+          "publishedOn": "2024-05-02T11:30:36.000Z",
+          "wordCount": 5565,
+          "title": "Dynamics GP to Dynamics 365 Business Central - Is It Time to Switch?",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/iStock-1297151834.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=106345",
           "author": "MetaOption LLC",
           "description": "In today’s fast-paced business landscape, streamlined shipping processes are crucial for maintaining a competitive edge. As e-commerce continues to soar and customer expectations for swift and accurate deliveries rise, businesses […]\nThe post Revolutionize Your Shipping Experience with MetaShip for Business Central appeared first on ERP Software Blog.\nUnlocking Order Fulfillment Excellence: Managing Backorders in Business Central\nExploring the Warehouse Structure in MetaWMS for Dynamics 365 Business Central\nEmbrace Seamless Transition: Cloud Migration with Business Central",
@@ -7824,6 +7884,76 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-allow-lines-with-amounts-of-zero-on-recurring-general-journals",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-allow-lines-with-amounts-of-zero-on-recurring-general-journals",
+          "publishedOn": "2024-05-02T14:00:00.000Z",
+          "wordCount": 3322,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Allow Lines with Amounts of Zero on Recurring General Journals",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/exploring-list-view-in-the-new-mobile-experience-for-microsoft-dynamics-365-field-service",
+          "author": "Inogic",
+          "description": "The field service mobile app can be viewed with a completely new enhanced fresh look, This new mobile user experience (UX) feature allows technicians to use all the information they […]",
+          "link": "https://365community.online/exploring-list-view-in-the-new-mobile-experience-for-microsoft-dynamics-365-field-service",
+          "publishedOn": "2024-05-02T11:25:33.000Z",
+          "wordCount": 3539,
+          "title": "Exploring list view in the new mobile experience for Microsoft Dynamics 365 Field Service",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/Microsoft-Dynamics-365-Field-Service-1.png?fit=971%2C777&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-specify-dimensions-on-posted-entries-applications-with-realized-gains-or-losses",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-specify-dimensions-on-posted-entries-applications-with-realized-gains-or-losses",
+          "publishedOn": "2024-05-02T10:00:24.000Z",
+          "wordCount": 3326,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Specify Dimensions on Posted Entries Applications With Realized Gains or Losses",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/tri-state-locking-in-database-how-to-use-in-al",
+          "author": "Roberto Stefanetti",
+          "description": "TRI-STATE LOCKING IN DATABASE: HOW-TO USE IN AL The tri-state locking feature is aimed at enhancing the performance and concurrency of database transactions. By enabling this feature, AL-based read operations […]",
+          "link": "https://365community.online/tri-state-locking-in-database-how-to-use-in-al",
+          "publishedOn": "2024-05-02T08:06:01.000Z",
+          "wordCount": 3250,
+          "title": "TRI-STATE LOCKING IN DATABASE: HOW-TO USE IN AL",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/checking-contact-attributes-or-contact-point-consent-records-in-realtime-marketing",
+          "author": "Megan V. Walker",
+          "description": "If you aren’t already aware, it’s good to understand the difference between how consent is handled in Outbound Marketing vs. Realtime Marketing specifically for Contacts. Outbound looks at three different […]",
+          "link": "https://365community.online/checking-contact-attributes-or-contact-point-consent-records-in-realtime-marketing",
+          "publishedOn": "2024-05-02T07:30:00.000Z",
+          "wordCount": 3236,
+          "title": "Checking Contact Attributes Or Contact Point Consent Records In Realtime Marketing",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/Checking-Contact-Attributes-Or-Contact-Point-Consent-Records-In-Realtime.jpg?fit=1200%2C859&ssl=1"
+        },
+        {
+          "id": "https://365community.online/ai-in-fully-locked-dynamics-365-business-central-environment-yes-you-can",
+          "author": "Stefano Demiliani",
+          "description": "AI features in Dynamics 365 Business Central are growing always more on each release wave and lots of new interesting features are planned for the next waves too. AI features […]",
+          "link": "https://365community.online/ai-in-fully-locked-dynamics-365-business-central-environment-yes-you-can",
+          "publishedOn": "2024-05-02T06:59:36.000Z",
+          "wordCount": 3280,
+          "title": "AI in fully locked Dynamics 365 Business Central environment? Yes, you can!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/AI-in-fully-locked-Dynamics-365-Business-Central-environment-Yes.png?fit=922%2C360&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-know-the-server-version-of-the-model-driven-app",
+          "author": "Arun Potti",
+          "description": "Follow the below steps to know about the Server Version of your Model-driven app. Step 1: Open the required Model-driven App. Step 2: Click on Settings. Step 3: Click on […]",
+          "link": "https://365community.online/how-to-know-the-server-version-of-the-model-driven-app",
+          "publishedOn": "2024-05-02T04:29:54.000Z",
+          "wordCount": 3267,
+          "title": "How to know the Server Version of the Model-driven App?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/power-apps-logo.jpg?fit=900%2C900&ssl=1"
+        },
         {
           "id": "https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-understand-the-approaches-to-configuring-a-new-company",
           "author": "Ian Grieve",
@@ -23889,6 +24019,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "whats-new-power-apps-april-2024-feature-update",
+          "author": null,
+          "description": "Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. This month we’ve got a great set of updates for Makers, Admins, and users across Power Apps, Dataverse and Copilot.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/whats-new-power-apps-april-2024-feature-update/",
+          "publishedOn": "2024-05-01T17:08:20.000Z",
+          "wordCount": 3144,
+          "title": "What’s new: Power Apps April 2024 Feature Update",
+          "imageUrl": "//powerappsblogmedia.azureedge.net/powerappsblog/2024/05/SP2App.gif"
+        },
         {
           "id": "announcing-general-availability-of-customer-managed-keys-for-power-apps",
           "author": null,
