@@ -758,16 +758,6 @@
           "wordCount": 1068,
           "title": "D365FO upgrade. Transfer attachments from AX2012",
           "imageUrl": "https://denistrunin.com/static/6aaa310ed24d524c0439df7f41e13d00/37155/logo.png"
-        },
-        {
-          "id": "https://denistrunin.com/xpptools-integfilesharexmlpurch/",
-          "author": null,
-          "description": "The blog post describes a sample approach how to implement XML based integration by importing purchase orders from Azure File Share in D365FO using X++",
-          "link": "https://denistrunin.com/xpptools-integfilesharexmlpurch/",
-          "publishedOn": "2022-05-04T22:12:04.000Z",
-          "wordCount": 2147,
-          "title": "XppInteg - Import purchase orders from XML files into D365FO",
-          "imageUrl": "https://denistrunin.com/static/83b5ef603855164bd637f97af9c5ddda/66882/logo.png"
         }
       ]
     },
@@ -1149,7 +1139,7 @@
       ]
     },
     {
-      "title": "Azure Integration services",
+      "title": "Azure Integration services for Dynamics 365",
       "feedUrl": "https://azureintegrations.com/feed/",
       "siteUrl": "https://azureintegrations.com",
       "articles": [
@@ -1430,6 +1420,86 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=106428",
+          "author": "ArcherPoint",
+          "description": "This video explores key year-end measures for a business operations team employing Microsoft Dynamics 365 Business Central. Making sure that work centers are set up with the correct scheduled capacity […]\nThe post How to Use Operations Calendars in Dynamics 365 Business Central appeared first on ERP Software Blog.\nShare Holiday Cheer with the Spotify Playlist from Insight Works\nManufacturers: Select between Business Central Premium and Essential Licensing\nCase study: From often late to 80% on-time deliveries",
+          "link": "https://erpsoftwareblog.com/2024/05/how-to-use-operations-calendars-in-dynamics-365-business-central/",
+          "publishedOn": "2024-05-03T21:16:56.000Z",
+          "wordCount": 4913,
+          "title": "How to Use Operations Calendars in Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/year-end-bc-operational-calendars-300x164.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106422",
+          "author": "MetaViewer from Metafile",
+          "description": "MetaViewer, a solution for automating accounts payable (AP), stands as a crucial tool for preventing fraud within enterprises. Implementing a secure system, instituting best practices for control, and upholding transparency […]\nThe post Best Practices for Utilizing AP Automation to Minimize Fraud appeared first on ERP Software Blog.\nModernize Your Legacy Systems\nOptimizing Payment Accuracy: The Role of AP Automation in Mitigating Errors\nThe Accounts Payable Automation Landscape",
+          "link": "https://erpsoftwareblog.com/2024/05/best-practices-for-utilizing-ap-automation-to-minimize-fraud/",
+          "publishedOn": "2024-05-03T19:37:13.000Z",
+          "wordCount": 5148,
+          "title": "Best Practices for Utilizing AP Automation to Minimize Fraud",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/A8x605ex71x1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106421",
+          "author": "MetaOption LLC",
+          "description": "Drowning in emails and struggling to manage attachments? You’re not alone. In today’s digital age, staying on top of documents is a constant battle. But what if there was a […]\nThe post Streamline Your Workflow with MetaDocs: Drag & Drop Documents from Outlook appeared first on ERP Software Blog.\nMastering Quality Control: A Deep Dive into Dynamics 365 Business Central\nHow you can secure your data with Document Management System (DMS)\nReduce production costs and boost efficiency with Dyn365BC",
+          "link": "https://erpsoftwareblog.com/2024/05/streamline-your-workflow-with-metadocs-drag-drop-documents-from-outlook/",
+          "publishedOn": "2024-05-03T19:33:56.000Z",
+          "wordCount": 5186,
+          "title": "Streamline Your Workflow with MetaDocs: Drag & Drop Documents from Outlook",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-2-43.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106395",
+          "author": "MetaOption LLC",
+          "description": "In the dynamic landscape of modern business, where efficiency is paramount and every operation counts, the optimization of warehouse management stands out as a crucial factor in staying competitive. Amidst […]\nThe post License Plating: Transforming Warehouse Efficiency in Business Central appeared first on ERP Software Blog.\nEverything you need to know about Warehouse Order Picking Methods\nScalable Solutions: How Business Central Warehouse Management adapts to growing businesses\nBoost Warehouse Efficiency with Barcoding in MetaADCS for Dynamics NAV",
+          "link": "https://erpsoftwareblog.com/2024/05/license-plating-transforming-warehouse-efficiency-in-business-central/",
+          "publishedOn": "2024-05-03T15:10:26.000Z",
+          "wordCount": 5323,
+          "title": "License Plating: Transforming Warehouse Efficiency in Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-1-85.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106391",
+          "author": "MetaOption LLC",
+          "description": "In today’s competitive manufacturing landscape, efficiency is king. Businesses need to optimize every step of the production process to deliver high-quality goods on time and within budget. This is where […]\nThe post From Chaos to Control: How Business Central Transforms Production Scheduling appeared first on ERP Software Blog.\nWhat is Cloud ERP and What are the Benefits?\nTop 5 ways Microsoft Dynamics 365 Business Central helps Manufacturers\nRole of Cloud ERP Solution for Small Businesses in 2023",
+          "link": "https://erpsoftwareblog.com/2024/05/how-business-central-transforms-production-scheduling/",
+          "publishedOn": "2024-05-03T13:56:07.000Z",
+          "wordCount": 5016,
+          "title": "From Chaos to Control: How Business Central Transforms Production Scheduling",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-134.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106325",
+          "author": "x2x eCommerce",
+          "description": "Customization and Scalability in ERP and eCommerce Integration are critical areas to consider while implementing an Integration solution. They ensure future growth and flexibility to adapt to changing needs. Understanding […]\nThe post Customization and Scalability in ERP and eCommerce Integration appeared first on ERP Software Blog.\nEssential accounts payable software features for efficient financial management\nCargas Energy Support Team’s Words of Wisdom: Customized Software versus a Standardized Version\nTake Advantage of Microsoft Dynamics 365 Business Central’s Intuitive, User-Friendly Platform",
+          "link": "https://erpsoftwareblog.com/2024/05/customization-and-scalability-in-erp-and-ecommerce-integration/",
+          "publishedOn": "2024-05-03T13:04:43.000Z",
+          "wordCount": 5181,
+          "title": "Customization and Scalability in ERP and eCommerce Integration",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Modern-Promotion-Business-Agency-Blog-Banner-21-300x169.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106268",
+          "author": "Insight Works",
+          "description": "As Microsoft Dynamics 365 Business Central rolls out its 2024 Wave 1 enhancements, Insight Works is pleased to announce that the latest release of MxAPS is fully compatible with these updates, bringing enhanced features and capabilities to automated production scheduling.\nThe post Next-Level Production: Explore Automated Scheduling in Business Central Wave 1 appeared first on ERP Software Blog.\nImportance of ERP Software in Manufacturing Industries\n10 New Microsoft Partners Join Insight Works in September\nEnhance Shipping Functions in Business Central",
+          "link": "https://erpsoftwareblog.com/2024/05/business-central-wave-1-automated-production-scheduling/",
+          "publishedOn": "2024-05-03T11:05:04.000Z",
+          "wordCount": 5231,
+          "title": "Next-Level Production: Explore Automated Scheduling in Business Central Wave 1",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/MxAPS-250.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106385",
+          "author": "Synoptek",
+          "description": "When it comes to ERP, Microsoft offers a range of new-age platforms that cater to the different needs of different organizations. Dynamics Great Plains (GP) and Dynamics 365 Business Central […]\nThe post Battle of the ERPs: Dynamics GP vs. Dynamics 365 Business Central appeared first on ERP Software Blog.\nIn the Cloud with Dynamics 365 \nWhy Agile Businesses Choose Dynamics 365 for Operations\nIncreased ERP Efficiency with Microsoft Teams Calling – One Source for all Communication",
+          "link": "https://erpsoftwareblog.com/2024/05/battle-of-the-erps-dynamics-gp-vs-dynamics-365-business-central/",
+          "publishedOn": "2024-05-03T06:55:42.000Z",
+          "wordCount": 5577,
+          "title": "Battle of the ERPs: Dynamics GP vs. Dynamics 365 Business Central",
+          "imageUrl": "https://synoptek.com/wp-content/uploads/2024/05/battle-of-the-erps-dynamics-gp-vs-dynamics-365-business-central.webp"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=106383",
           "author": "Dynamics Square UK",
@@ -7884,6 +7954,76 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-see-improved-usability-for-warehouse-and-inventory",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-see-improved-usability-for-warehouse-and-inventory",
+          "publishedOn": "2024-05-03T14:00:26.000Z",
+          "wordCount": 3312,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: See Improved Usability for Warehouse and Inventory",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/1714754096_New-Functionality-In-Microsoft-Dynamics-365-Business-Central-2024-Wave.png?fit=780%2C440&ssl=1"
+        },
+        {
+          "id": "https://365community.online/webinar-connect-mailchimp-with-dynamics-365-crm-to-improve-marketing-and-sales-collaboration",
+          "author": "Inogic",
+          "description": "Syncing Mailchimp data with Dynamics 365 CRM is crucial because it breaks down information silos between your marketing and sales teams. This unified view allows sales reps to see which […]",
+          "link": "https://365community.online/webinar-connect-mailchimp-with-dynamics-365-crm-to-improve-marketing-and-sales-collaboration",
+          "publishedOn": "2024-05-03T11:49:18.000Z",
+          "wordCount": 3527,
+          "title": "Webinar: Connect Mailchimp with Dynamics 365 CRM to improve Marketing and Sales Collaboration!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/M4D-Webinar-BlogSide-Banner-1.png?fit=936%2C531&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-automate-the-reminders-process-in-collections",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-automate-the-reminders-process-in-collections",
+          "publishedOn": "2024-05-03T10:00:00.000Z",
+          "wordCount": 3308,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Automate the Reminders Process in Collections",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/New-Functionality-In-Microsoft-Dynamics-365-Business-Central-2024-Wave.png?fit=562%2C440&ssl=1"
+        },
+        {
+          "id": "https://365community.online/simplanova-karjeros-akseleratorius-apmokama-vasaros-praktika-youtube",
+          "author": "Ieva Kukeviciene",
+          "description": "„Simplanovos“ karjeros akseleratorius yra įdarbinimo programos dalis, skirta studentams, besidomintiems technologijomis, inovacijomis ir norintiems pradėti karjerą bei įgyti realios darbo patirties dar studijų metu. Programos dalyviai per 1 mėnesį įgyja […]",
+          "link": "https://365community.online/simplanova-karjeros-akseleratorius-apmokama-vasaros-praktika-youtube",
+          "publishedOn": "2024-05-03T05:35:39.000Z",
+          "wordCount": 3208,
+          "title": "Simplanova karjeros akseleratorius – apmokama vasaros praktika – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/1714726163_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/power-pages-chatbot-and-multi-language-sites-lesson-14-youtube",
+          "author": "Victor Dantas",
+          "description": "Power Pages chatbot and multi-language Sites – (Sheryl Netley) Instagram zero to hero academy – / fromzerotoh. . Instagram thevictordantas – / thevictorda. . twitter thevictordantas – https://x.com/thevictordantas?s=20 source",
+          "link": "https://365community.online/power-pages-chatbot-and-multi-language-sites-lesson-14-youtube",
+          "publishedOn": "2024-05-03T04:30:19.000Z",
+          "wordCount": 3158,
+          "title": "Power Pages chatbot and multi-language Sites – Lesson 14 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/1714736996_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-override-the-model-driven-app-header-colors",
+          "author": "Arun Potti",
+          "description": "Makers now have the ability to customize the Power Platform app header colors beyond the default settings, in the modern, refreshed look that’s been enabled in the app. Note: This […]",
+          "link": "https://365community.online/how-to-override-the-model-driven-app-header-colors",
+          "publishedOn": "2024-05-03T02:30:00.000Z",
+          "wordCount": 3270,
+          "title": "How to Override the Model-driven app header colors?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/power-apps-logo.jpg?fit=900%2C900&ssl=1"
+        },
+        {
+          "id": "https://365community.online/unveiling-secrets-avd-integration-with-azure-stack-hci-part-1-youtube",
+          "author": "shabaz darr",
+          "description": "In Part 1 of this series, we’ll uncover the secrets of integrating AVD with Azure Stack HCI. Stay tuned for step-by-step guidance on this powerful integration! source",
+          "link": "https://365community.online/unveiling-secrets-avd-integration-with-azure-stack-hci-part-1-youtube",
+          "publishedOn": "2024-05-02T19:00:03.000Z",
+          "wordCount": 3160,
+          "title": "Unveiling Secrets: AVD Integration with Azure Stack HCI – Part 1 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/1714707747_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
         {
           "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-allow-lines-with-amounts-of-zero-on-recurring-general-journals",
           "author": "Ian Grieve",
@@ -20667,6 +20807,46 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/05/02/enabling-fast-flexible-cost-effective-service-with-microsoft-copilot-in-dynamics-365-field-service/",
+          "author": "Safiyyah O’Quinn",
+          "description": "Fast, efficient service, it’s what everybody wants. And today’s field service organizations are answering the call by adopting next-generation AI technologies that can help them be more flexible and responsive to customers while also driving revenue, reducing overtime, and ensuring more predictable arrival and completion times.\nThe post Enabling fast, flexible, cost-effective service with Microsoft Copilot in Dynamics 365 Field Service appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/05/02/enabling-fast-flexible-cost-effective-service-with-microsoft-copilot-in-dynamics-365-field-service/",
+          "publishedOn": "2024-05-02T15:00:00.000Z",
+          "wordCount": 3878,
+          "title": "Enabling fast, flexible, cost-effective service with Microsoft Copilot in Dynamics 365 Field Service",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/05/MSFT_D365_APR29_336463_Blog_Blogheader_240502_V02_1200.png"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/05/02/maximizing-efficiency-operating-an-external-shared-warehouse-with-warehouse-management-only-mode/",
+          "author": "Per Lykke Lynnerup and Denis Conway",
+          "description": "This blog post is a follow-up to the Leverage Warehouse management only mode to optimize your business blog post. Warehouse management only mode was presented as a transformative tool for enhancing warehouse operations without the need for extensive system overhauls. Warehouse management only mode improves efficiency, and flexibility within existing infrastructure. The preview release of Warehouse management only mode was explored to discover its potential in revolutionizing warehouse management practices.\nIn this blog post you will learn about how a wholesaler used the Warehouse management only mode feature in Microsoft Dynamics 365 Supply Chain Management to handle shared warehouse operations for multiple sales subsidiaries.\nThe post Maximizing Efficiency: Operating an External Shared Warehouse with Warehouse Management Only Mode appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2024/05/02/maximizing-efficiency-operating-an-external-shared-warehouse-with-warehouse-management-only-mode/",
+          "publishedOn": "2024-05-02T14:00:18.000Z",
+          "wordCount": 3315,
+          "title": "Maximizing Efficiency: Operating an External Shared Warehouse with Warehouse Management Only Mode",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/05/WArehouse-BLOG.png"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/04/30/introducing-tracked-components-for-dynamics-365-supply-chain-management-manufacturing-dynamics/",
+          "author": "Johan Hoffman and Denis Conway",
+          "description": "We're thrilled to unveil the public preview of our latest feature, Tracked Components, as part of our manufacturing capabilities in Dynamics 365 Supply Chain Management. This feature, released in version 10.0.40 on April 26 2024, streamlines the process of registering batch and serial numbers for components used in manufacturing processes, seamlessly matching them to the batch and serial numbers for the finished products being produced.\nEnhanced track and trace capabilities in manufacturing offer a compelling value proposition. They provide real-time visibility into the supply chain, ensuring quality control, regulatory compliance, risk mitigation, enhanced productivity, and improved customer satisfaction. These systems empower manufacturers to optimize operations, reduce errors, and base decisions on data, ultimately leading to increased efficiency and superior products.\nThe post Introducing Tracked components for Dynamics 365 Supply Chain Management appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2024/04/30/introducing-tracked-components-for-dynamics-365-supply-chain-management-manufacturing-dynamics/",
+          "publishedOn": "2024-04-30T15:04:01.000Z",
+          "wordCount": 3489,
+          "title": "Introducing Tracked components for Dynamics 365 Supply Chain Management",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/04/Blog-Tracked.png"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/04/30/try-the-agent-call-quality-survey-in-dynamics-365-customer-service/",
+          "author": "Roman Nikiforov",
+          "description": "Try the agent call quality survey in Dynamics 365 Customer Service to swiftly identify and respond to any issues impacting the agent experience.\nThe post Try the agent call quality survey in Dynamics 365 Customer Service appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2024/04/30/try-the-agent-call-quality-survey-in-dynamics-365-customer-service/",
+          "publishedOn": "2024-04-30T15:03:58.000Z",
+          "wordCount": 3116,
+          "title": "Try the agent call quality survey in Dynamics 365 Customer Service",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2022/05/CLO22_TechOffice_061-scaled1.jpg"
+        },
+        {
           "id": "https://www.microsoft.com/en-us/industry/blog/industrial-metaverse/2024/04/22/early-adopters-of-microsoft-copilot-in-dynamics-365-guides-recognize-the-potential-for-productivity-gains/",
           "author": "Lili Cheng",
           "description": "The integration of Microsoft Copilot into Dynamic 365 Guides brings generative AI to this mixed reality solution. Copilot for Dynamics 365 Guides transforms frontline operations, putting AI in the flow of work, giving skilled and knowledge workers access to relevant information where and when they need it.\nThe post Early adopters of Microsoft Copilot in Dynamics 365 Guides recognize the potential for productivity gains appeared first on Microsoft Dynamics 365 Blog.",
@@ -22774,6 +22954,16 @@
           "imageUrl": "https://ax.docentric.com/wp-content/uploads/2023/09/02-05-Prepare-and-Print-PSA-Managed-Invoice.jpg"
         },
         {
+          "id": "https://ax.docentric.com/?p=27998",
+          "author": "Sanja Kolundzija",
+          "description": "If you are using Docentric Free Edition, we bet you don't know all the features! Docentric Free Edition webinar was held in November 2023 by Sanja Kolundžija, our Technical Lady. The video can help you uncover hidden gems and put your D365FO reporting on steroids. […]\nThe post What Else Docentric Free Edition Can Do for Reporting in Your D365FO Projects appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/what-else-docentric-free-edition-can-do-for-reporting-in-your-d365fo-projects/",
+          "publishedOn": "2023-11-08T07:49:24.000Z",
+          "wordCount": 11518,
+          "title": "What Else Docentric Free Edition Can Do for Reporting in Your D365FO Projects",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/01/Free-Version-Webinar_November-2023.png"
+        },
+        {
           "id": "https://ax.docentric.com/?p=27667",
           "author": "Vilko Jenko",
           "description": "As D365FO Reporting and Print management experts, we’ve frequently been asked - where is, for goodness’ sake, the Close button (which became the Back button in the meantime 😀) on the Print management setup form. We also saw the feature request on Dynamics 365 Application […]\nThe post Add the Back (Close) and Save Buttons to Print Management Setup appeared first on Docentric AX.",
@@ -22910,6 +23100,16 @@
       "feedUrl": "https://paragchapre.com/feed/",
       "siteUrl": "https://paragchapre.com",
       "articles": [
+        {
+          "id": "https://paragchapre.com/?p=13029",
+          "author": "paragchapre@gmail.com",
+          "description": "Unlock the power of Model-Driven Apps with this developer's guide. Learn to enforce logic and ensure data consistency by restricting field edits using business rules.\nThe post Restricting Field Edits in Model-Driven Apps: A Guide for Developers appeared first on Parag Chapre.",
+          "link": "https://paragchapre.com/restricting-field-edits-in-model-driven-apps-a-guide-for-developers/",
+          "publishedOn": "2024-05-03T02:02:59.000Z",
+          "wordCount": 2190,
+          "title": "Restricting Field Edits in Model-Driven Apps: A Guide for Developers",
+          "imageUrl": "https://paragchapre.com/wp-content/uploads/2024/05/Restricting-Field-Edits-in-Model-Driven-Apps-A-Guide-for-Developers.png"
+        },
         {
           "id": "https://paragchapre.com/?p=12973",
           "author": "paragchapre@gmail.com",
