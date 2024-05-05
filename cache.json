@@ -7955,6 +7955,16 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/microsoft-power-app-environments-retention-period",
+          "author": "Arun Potti",
+          "description": "The following are the retention periods for various environment types within the Microsoft Power Platform, indicating that you can back up your environments for the last X number of days […]",
+          "link": "https://365community.online/microsoft-power-app-environments-retention-period",
+          "publishedOn": "2024-05-04T00:30:00.000Z",
+          "wordCount": 3260,
+          "title": "Microsoft Power App Environments Retention Period",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/image-67.png?fit=1068%2C297&ssl=1"
+        },
+        {
           "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-see-improved-usability-for-warehouse-and-inventory",
           "author": "Ian Grieve",
           "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]",
@@ -20807,6 +20817,16 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/05/03/extend-copilot-capabilities-with-plugins/",
+          "author": "Srinivasan Palani",
+          "description": "Introducing prompt plugins, enabling agents to securely access Dataverse data such as customers, products, and cases, through Copilot.\nThe post Extend Copilot capabilities with plugins    appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2024/05/03/extend-copilot-capabilities-with-plugins/",
+          "publishedOn": "2024-05-03T17:00:00.000Z",
+          "wordCount": 3013,
+          "title": "Extend Copilot capabilities with plugins",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/05/cranium-2099130_1280.png"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/05/02/enabling-fast-flexible-cost-effective-service-with-microsoft-copilot-in-dynamics-365-field-service/",
           "author": "Safiyyah O’Quinn",
           "description": "Fast, efficient service, it’s what everybody wants. And today’s field service organizations are answering the call by adopting next-generation AI technologies that can help them be more flexible and responsive to customers while also driving revenue, reducing overtime, and ensuring more predictable arrival and completion times.\nThe post Enabling fast, flexible, cost-effective service with Microsoft Copilot in Dynamics 365 Field Service appeared first on Microsoft Dynamics 365 Blog.",
@@ -24982,16 +25002,6 @@
           "wordCount": 2002,
           "title": "Human Resources Data Management - Workers Without Employment",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi68DiPoFEPLrdSs3KioH34Y7Du-fKaNvXpnMejoOaCAGBpr2efai2ARrCD4JE3qX4oBBJFFXwecACbKzzgHP3k_J6NVfYvD70ZvL_shT7odOneTlfxAi61VAuN7ZRovD85iKyYqWu_ekOWm35dPL9SAqNI9jJuTTgtArRk8u-yUYhwV_rn6E6kvXXa/w1200-h630-p-k-no-nu/2022-05-13_15-52-07.png"
-        },
-        {
-          "id": "https://www.d365fandom.com/2022/05/credit-management-blocking-rules.html",
-          "author": null,
-          "description": "Something happened while I wasn't looking and now we have a clearer sequencing of Credit management Blocking rules. This has been a much-needed change, and I am happy to report on it!\nSequencing of Blocking Rules\n\n\nIn the past, Blocking rules in Credit management have all run, regardless of what happened on another Blocking rule. \nThis could cause frustration if a company wanted to stop processing once specific criteria had been met. \nAs of version 10.0.21, you may have noticed some new options within the Blocking rules form. \nWhen setting up Blocking rules, there is a new column within all Blocking rules labeled \"Release sales order.\" This can only be enabled on an Exclusion rule type.\n\n\nWhat this \"Release sales order\" toggle does, is it allows for an Exclusion rule to bypass all other Blocking rules and process the Sales order if it meets the Exclusion criteria. \nTypically, Blocking rules get processed before Exclusion rules, and an Exclusion rule on the same level as the Blocking rule will not exclude that Blocking rule. This is the exception to that rule. \n\n\nNew Sequence of Blocking Rules\n\n\nExclusion rule with Release Sales order checked\nBlocking rules (Run in Table, Group, then All sequence)\nExclusion rules (Run in Table, Group, then All sequence)\n\n\nHaving rules in place surrounding how Blocking rules are run is a massive improvement. Here is the link to the documentation within Microsoft Docs: Credit holds for sales orders - Finance | Dynamics 365 | Microsoft Docs",
-          "link": "https://www.d365fandom.com/2022/05/credit-management-blocking-rules.html",
-          "publishedOn": "2022-05-05T17:01:00.001Z",
-          "wordCount": 2009,
-          "title": "Credit Management Blocking Rules Sequencing",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVQN7vbRuPiMvFCr_xELKvPL18YKb0O4OOfFixeFBAoylOuDXUT1HYW8Z_OyyfN9K9qgDGS66kotAm6qk5iYDwtnl7qfUe7PfLSiIEtI58nOxs3h-9nwCIsj4ixIR4O4GKr0jiXV9aXVNgpulAv4WKI2-lvR6J2ynj5LDiuc_a9e80uWZ_F-P4PKiT/w1200-h630-p-k-no-nu/test%20png.png"
         }
       ]
     },

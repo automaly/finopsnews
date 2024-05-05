@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-05-04T00:39:20.801Z</updated>
+    <updated>2024-05-05T00:42:59.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Power App Environments Retention Period]]></title>
+        <id>https://365community.online/microsoft-power-app-environments-retention-period</id>
+        <link href="https://365community.online/microsoft-power-app-environments-retention-period"/>
+        <updated>2024-05-04T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The following are the retention periods for various environment types within the Microsoft Power Platform, indicating that you can back up your environments for the last X number of days […]]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Operations Calendars in Dynamics 365 Business Central]]></title>
         <id>https://erpsoftwareblog.com/?p=106428</id>
@@ -46,6 +56,17 @@ How you can secure your data with Document Management System (DMS)
 Reduce production costs and boost efficiency with Dyn365BC]]></summary>
         <author>
             <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extend Copilot capabilities with plugins]]></title>
+        <id>https://cloudblogs.microsoft.com/dynamics365/it/2024/05/03/extend-copilot-capabilities-with-plugins/</id>
+        <link href="https://cloudblogs.microsoft.com/dynamics365/it/2024/05/03/extend-copilot-capabilities-with-plugins/"/>
+        <updated>2024-05-03T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introducing prompt plugins, enabling agents to securely access Dataverse data such as customers, products, and cases, through Copilot.
+The post Extend Copilot capabilities with plugins    appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Srinivasan Palani</name>
         </author>
     </entry>
     <entry>
@@ -33578,38 +33599,6 @@ Technical details
 During the Ax2012-D365FO database upgrade process, among other standard classes ('scr…]]></summary>
         <author>
             <name>Adventures in Axapta world</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Credit Management Blocking Rules Sequencing]]></title>
-        <id>https://www.d365fandom.com/2022/05/credit-management-blocking-rules.html</id>
-        <link href="https://www.d365fandom.com/2022/05/credit-management-blocking-rules.html"/>
-        <updated>2022-05-05T17:01:00.001Z</updated>
-        <summary type="html"><![CDATA[Something happened while I wasn't looking and now we have a clearer sequencing of Credit management Blocking rules. This has been a much-needed change, and I am happy to report on it!
-Sequencing of Blocking Rules
-
-
-In the past, Blocking rules in Credit management have all run, regardless of what happened on another Blocking rule. 
-This could cause frustration if a company wanted to stop processing once specific criteria had been met. 
-As of version 10.0.21, you may have noticed some new options within the Blocking rules form. 
-When setting up Blocking rules, there is a new column within all Blocking rules labeled "Release sales order." This can only be enabled on an Exclusion rule type.
-
-
-What this "Release sales order" toggle does, is it allows for an Exclusion rule to bypass all other Blocking rules and process the Sales order if it meets the Exclusion criteria. 
-Typically, Blocking rules get processed before Exclusion rules, and an Exclusion rule on the same level as the Blocking rule will not exclude that Blocking rule. This is the exception to that rule. 
-
-
-New Sequence of Blocking Rules
-
-
-Exclusion rule with Release Sales order checked
-Blocking rules (Run in Table, Group, then All sequence)
-Exclusion rules (Run in Table, Group, then All sequence)
-
-
-Having rules in place surrounding how Blocking rules are run is a massive improvement. Here is the link to the documentation within Microsoft Docs: Credit holds for sales orders - Finance | Dynamics 365 | Microsoft Docs]]></summary>
-        <author>
-            <name>D365FandO(m)</name>
         </author>
     </entry>
 </feed>
