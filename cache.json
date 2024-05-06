@@ -1139,7 +1139,7 @@
       ]
     },
     {
-      "title": "Azure Integration services for Dynamics 365",
+      "title": "Azure Integration services",
       "feedUrl": "https://azureintegrations.com/feed/",
       "siteUrl": "https://azureintegrations.com",
       "articles": [
@@ -7954,6 +7954,16 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/%f0%9f%91%a8%f0%9f%92%bb-youtube",
+          "author": "Sourav Raj",
+          "description": "👨‍💻 source",
+          "link": "https://365community.online/%f0%9f%91%a8%f0%9f%92%bb-youtube",
+          "publishedOn": "2024-05-05T11:20:21.000Z",
+          "wordCount": 3096,
+          "title": "👨‍💻 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/1714933910_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
         {
           "id": "https://365community.online/microsoft-power-app-environments-retention-period",
           "author": "Arun Potti",

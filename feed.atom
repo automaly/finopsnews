@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-05-05T00:42:59.793Z</updated>
+    <updated>2024-05-06T00:41:18.258Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[👨‍💻 – YouTube]]></title>
+        <id>https://365community.online/%f0%9f%91%a8%f0%9f%92%bb-youtube</id>
+        <link href="https://365community.online/%f0%9f%91%a8%f0%9f%92%bb-youtube"/>
+        <updated>2024-05-05T11:20:21.000Z</updated>
+        <summary type="html"><![CDATA[👨‍💻 source]]></summary>
+        <author>
+            <name>Sourav Raj</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Power App Environments Retention Period]]></title>
         <id>https://365community.online/microsoft-power-app-environments-retention-period</id>
