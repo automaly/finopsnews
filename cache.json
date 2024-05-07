@@ -1421,6 +1421,36 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=106460",
+          "author": "Dynamics Square UK",
+          "description": "Microsoft Dynamics 365 Human Resources (HR) is a powerful and efficient solution capable of managing different human resource processes without any hassle. Being a cloud-based solution, it offers numerous modern […]\nThe post Boost Employee Engagement & Retention: How Dynamics 365 HR Empowers SMBs appeared first on ERP Software Blog.\nDiscover how to gain a competitive advantage through servitization\nBreaking Down Data Silos Through Digital Transformation\nConsidering Migrating to the Cloud? Here Are Three Questions to Ask in 2020.",
+          "link": "https://erpsoftwareblog.com/2024/05/boost-employee-engagement-retention-how-dynamics-365-hr-empowers-smbs/",
+          "publishedOn": "2024-05-06T11:19:52.000Z",
+          "wordCount": 6188,
+          "title": "Boost Employee Engagement & Retention: How Dynamics 365 HR Empowers SMBs",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/hr-d.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106359",
+          "author": "DynaTech Systems",
+          "description": "Efficiency and accuracy are critical in the world of accounts payable. Dealing with numerous invoices from different places can be quite a challenge. But here's where Microsoft Dynamics 365 Finance […]\nThe post Microsoft Dynamics Invoice Capture – Key Functionalities And Benefits appeared first on ERP Software Blog.\nOffering Project-Driven Rentals? Here’s What You Need to Know!\n7 Supply Chain Disruptions Solved by PLM-ERP Integration for Manufacturers\nPLM-ERP Integration: 10 Mistakes to Watch Out For!",
+          "link": "https://erpsoftwareblog.com/2024/05/microsoft-dynamics-invoice-capture-key-functionalities-and-benefits/",
+          "publishedOn": "2024-05-06T10:25:05.000Z",
+          "wordCount": 6379,
+          "title": "Microsoft Dynamics Invoice Capture – Key Functionalities And Benefits",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Microsoft-Dynamics-Invoice-Capture-–-Key-Functionalities-And-Benefits-01-1-scaled.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106275",
+          "author": "Insight Works",
+          "description": "Precision in production scheduling is paramount in modern manufacturing. Dynamics 365 Business Central provides a solid foundation, but specialized tools from Insight Works, like MxAPS, enhance capabilities significantly for peak efficiency.\nThe post Top 10 Ways Production Scheduling in Business Central Transforms Manufacturing appeared first on ERP Software Blog.\nImportance of ERP Software in Manufacturing Industries\n10 New Microsoft Partners Join Insight Works in September\nEnhance Shipping Functions in Business Central",
+          "link": "https://erpsoftwareblog.com/2024/05/top-10-ways-production-scheduling-in-business-central-transforms-manufacturing/",
+          "publishedOn": "2024-05-06T10:07:10.000Z",
+          "wordCount": 5481,
+          "title": "Top 10 Ways Production Scheduling in Business Central Transforms Manufacturing",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/MxAPS-250.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=106428",
           "author": "ArcherPoint",
           "description": "This video explores key year-end measures for a business operations team employing Microsoft Dynamics 365 Business Central. Making sure that work centers are set up with the correct scheduled capacity […]\nThe post How to Use Operations Calendars in Dynamics 365 Business Central appeared first on ERP Software Blog.\nShare Holiday Cheer with the Spotify Playlist from Insight Works\nManufacturers: Select between Business Central Premium and Essential Licensing\nCase study: From often late to 80% on-time deliveries",
@@ -7954,6 +7984,86 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/fixed-the-latitude-or-longitude-for-the-user-record-associated-with-this-resource-is-invalid-dynamics-365-field-service-dataverse",
+          "author": "Nishant Rana",
+          "description": "While trying to set the Start Location / End location to the Resource Address for Bookable Resource, we might get the below error Exception Message: The latitude or longitude for […]",
+          "link": "https://365community.online/fixed-the-latitude-or-longitude-for-the-user-record-associated-with-this-resource-is-invalid-dynamics-365-field-service-dataverse",
+          "publishedOn": "2024-05-06T22:30:00.000Z",
+          "wordCount": 3359,
+          "title": "Fixed – The latitude or longitude for the User record associated with this resource is invalid – Dynamics 365  Field Service /Dataverse",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/Fixed-–-The-latitude-or-longitude-for-the-User-record.jpeg?fit=1200%2C900&ssl=1"
+        },
+        {
+          "id": "https://365community.online/dynamics-365-business-central-this-is-a-nice-al-addition",
+          "author": "Stefano Demiliani",
+          "description": "If someone is familiar with C#, probably knows that the this keyword is used to refer to the current instance of the class. It is used to access members from the […]",
+          "link": "https://365community.online/dynamics-365-business-central-this-is-a-nice-al-addition",
+          "publishedOn": "2024-05-06T20:18:55.000Z",
+          "wordCount": 3278,
+          "title": "Dynamics 365 Business Central: “this” is a nice AL addition.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/Dynamics-365-Business-Central-this-is-a-nice-AL-addition.png?fit=723%2C1200&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-use-a-new-role-center-for-collection-management",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-use-a-new-role-center-for-collection-management",
+          "publishedOn": "2024-05-06T14:00:04.000Z",
+          "wordCount": 3313,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Use a New Role Center for Collection Management",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/improve-team-communication-within-power-pages-design-studio-by-adding-comments-on-the-web-pages",
+          "author": "Inogic",
+          "description": "In today’s blog, we will be talking about the Power Pages in-build feature Adding comments to Pages or specific elements in Design Studio. This feature gained our attention while we […]",
+          "link": "https://365community.online/improve-team-communication-within-power-pages-design-studio-by-adding-comments-on-the-web-pages",
+          "publishedOn": "2024-05-06T12:47:43.000Z",
+          "wordCount": 3552,
+          "title": "Improve Team Communication within Power Pages Design Studio by Adding Comments on the Web Pages",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/Power-Pages-Design-Studio-1.png?fit=1200%2C460&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-ensure-accurate-inventory-valuation-by-controlling-cost-adjustment",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-ensure-accurate-inventory-valuation-by-controlling-cost-adjustment",
+          "publishedOn": "2024-05-06T10:00:05.000Z",
+          "wordCount": 3311,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Ensure Accurate Inventory Valuation by Controlling Cost Adjustment",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/1714994763_New-Functionality-In-Microsoft-Dynamics-365-Business-Central-2024-Wave.png?fit=780%2C440&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-dynamics-business-central-cumulative-update-summary-for-may-2024",
+          "author": "Saurav Dhyani",
+          "description": "Hi Readers, A New Month and a new set of cumulative updates. Microsoft Have Released Cumulative Update for May 2024 for Business Central 23& 22. Please find below the details […]",
+          "link": "https://365community.online/microsoft-dynamics-business-central-cumulative-update-summary-for-may-2024",
+          "publishedOn": "2024-05-06T09:43:00.000Z",
+          "wordCount": 3206,
+          "title": "Microsoft Dynamics Business Central Cumulative Update Summary for May 2024.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/1714995745_Microsoft-Dynamics-Business-Central-Cumulative-Update-Summary-for-May-2024.jpg?fit=473%2C248&ssl=1"
+        },
+        {
+          "id": "https://365community.online/delete-and-restore-records-preview-feature-in-microsoft-dataverse",
+          "author": "Arun Potti",
+          "description": "In the routine operations of Microsoft Dataverse, records or transactions are frequently deleted, whether manually or automatically, intentionally or inadvertently, through system processes, individual selections, multiple selections, or bulk deletions. […]",
+          "link": "https://365community.online/delete-and-restore-records-preview-feature-in-microsoft-dataverse",
+          "publishedOn": "2024-05-06T08:56:13.000Z",
+          "wordCount": 3251,
+          "title": "Delete and Restore records (Preview) feature in Microsoft Dataverse",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/dataverse_1600x1600.png?fit=680%2C680&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-successfully-integrate-avd-with-azure-stack-hci-part-2-youtube",
+          "author": "shabaz darr",
+          "description": "Learn how to successfully integrate AVD with Azure Stack HCI in Part 2 of this tutorial series. Follow along for step-by-step instructions on how to seamlessly connect these two powerful […]",
+          "link": "https://365community.online/how-to-successfully-integrate-avd-with-azure-stack-hci-part-2-youtube",
+          "publishedOn": "2024-05-05T19:00:30.000Z",
+          "wordCount": 3171,
+          "title": "How to successfully integrate AVD with Azure Stack HCI – Part 2 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/1714962358_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
         {
           "id": "https://365community.online/%f0%9f%91%a8%f0%9f%92%bb-youtube",
           "author": "Sourav Raj",
@@ -18458,6 +18568,16 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=6098",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2024/05/06/power-automateprocess-mining-hacks-2/",
+          "publishedOn": "2024-05-06T04:49:30.000Z",
+          "wordCount": 3391,
+          "title": "Power AutomateProcess Mining Hacks (2)",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2024/04/english-2.png"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=6086",
           "author": "Ludwig Reinhard",
           "description": "Visit the post for more.",
@@ -23131,6 +23251,16 @@
       "siteUrl": "https://paragchapre.com",
       "articles": [
         {
+          "id": "https://paragchapre.com/?p=13036",
+          "author": "paragchapre@gmail.com",
+          "description": "Discover the latest innovations in Dynamics 365 Finance & Operations: From enhanced data integration to streamlined service updates.\nThe post Exciting Changes in Dynamics 365 Finance and Operations: A Comprehensive Overview appeared first on Parag Chapre.",
+          "link": "https://paragchapre.com/exciting-changes-in-dynamics-365-finance-and-operations-a-comprehensive-overview/",
+          "publishedOn": "2024-05-06T02:00:21.000Z",
+          "wordCount": 2553,
+          "title": "Exciting Changes in Dynamics 365 Finance and Operations: A Comprehensive Overview",
+          "imageUrl": "https://paragchapre.com/wp-content/uploads/2024/05/Exciting-Changes-in-Dynamics-365-Finance-Operations-1.png"
+        },
+        {
           "id": "https://paragchapre.com/?p=13029",
           "author": "paragchapre@gmail.com",
           "description": "Unlock the power of Model-Driven Apps with this developer's guide. Learn to enforce logic and ensure data consistency by restricting field edits using business rules.\nThe post Restricting Field Edits in Model-Driven Apps: A Guide for Developers appeared first on Parag Chapre.",
@@ -25124,6 +25254,16 @@
       "feedUrl": "https://powerautomate.microsoft.com/en-nz/blog/feed/",
       "siteUrl": "https://powerautomate.microsoft.com/en-nz/blog/",
       "articles": [
+        {
+          "id": "microsoft-named-a-leader-in-the-2024-gartner-magic-quadrant-for-process-mining-platforms",
+          "author": null,
+          "description": "We are thrilled to announce that Microsoft has been recognized as a Leader in the 2024 Gartner® Magic Quadrant™ for Process Mining Platforms, an evaluation of 18 process mining vendors.",
+          "link": "https://powerautomate.microsoft.com/en-nz/blog/microsoft-named-a-leader-in-the-2024-gartner-magic-quadrant-for-process-mining-platforms/",
+          "publishedOn": "2024-05-06T08:00:58.000Z",
+          "wordCount": 2670,
+          "title": "Microsoft named a Leader in the 2024 Gartner® Magic Quadrant™ for Process Mining Platforms",
+          "imageUrl": null
+        },
         {
           "id": "announcing-general-availability-of-customer-managed-keys-for-new-environments-in-power-automate",
           "author": null,
