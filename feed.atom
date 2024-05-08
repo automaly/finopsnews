@@ -2,10 +2,226 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-05-07T00:40:00.605Z</updated>
+    <updated>2024-05-08T00:33:41.831Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Use Filter Array action to remove values from an array variable – Power Automate]]></title>
+        <id>https://365community.online/use-filter-array-action-to-remove-values-from-an-array-variable-power-automate</id>
+        <link href="https://365community.online/use-filter-array-action-to-remove-values-from-an-array-variable-power-automate"/>
+        <updated>2024-05-07T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Suppose we have below array variable – varTestVariable having a list of GUIDs in it. And we have another array variable varWorkOrderGuidToBeRemoved which has the list of GUIDs we want […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webinar: Get Fast Excel-Based Reporting for Microsoft Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=106495</id>
+        <link href="https://erpsoftwareblog.com/2024/05/webinar-get-fast-excel-based-reporting-for-microsoft-business-central/"/>
+        <updated>2024-05-07T20:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Webinar: Discover Lightning-Fast Reporting and Analytics for Microsoft Business Central. Unlock the Power of Cosmos! Join us for a webinar on May 15, 2024, at 2:00 PM EDT. You are […]
+The post Webinar: Get Fast Excel-Based Reporting for Microsoft Business Central appeared first on ERP Software Blog.
+See The Top Auto-Create Dimensions Tool for Microsoft Dynamics 365 Business Central for Powerful Reporting
+Join Us At Dynamic Communities Summit - Booth 800
+WebSan Solutions Inc. Invites You to Our Third Annual Interactive Virtual Half-Day Conference: Dynamics Virtual Launchpad!]]></summary>
+        <author>
+            <name>iCepts Technology Group, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI in Supply Chain Management for Microsoft D365: Increasing Efficiency for Wholesale Distributors]]></title>
+        <id>https://erpsoftwareblog.com/?p=105127</id>
+        <link href="https://erpsoftwareblog.com/2024/05/ai-in-supply-chain-management-revolutionizing-efficiency/"/>
+        <updated>2024-05-07T17:45:10.000Z</updated>
+        <summary type="html"><![CDATA[In today's fast-paced business environment, supply chain management plays a crucial role in the success of any organization. Supply chain management is all about co-ordination, planning and making informed decisions […]
+The post AI in Supply Chain Management for Microsoft D365: Increasing Efficiency for Wholesale Distributors appeared first on ERP Software Blog.
+How DynaRent for Dynamics 365 can increase your business efficiency
+Heads Up: Successful Forecasting and Demand Planning with AGR
+WebSan Solutions Inc. Invites You to Our Third Annual Interactive Virtual Half-Day Conference: Dynamics Virtual Launchpad!]]></summary>
+        <author>
+            <name>Vyas Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Release of D365FO Admin Toolkit v1.4]]></title>
+        <id>https://365community.online/new-release-of-d365fo-admin-toolkit-v1-4</id>
+        <link href="https://365community.online/new-release-of-d365fo-admin-toolkit-v1-4"/>
+        <updated>2024-05-07T14:46:41.000Z</updated>
+        <summary type="html"><![CDATA[I’m excited to announce the v1.4 release of the D365FO Admin Toolkit! Version 1.4 Release D365FO Admin Toolkit v1.4 Deployable Package D365FO Admin Toolkit GitHub Note: This release has been […]]]></summary>
+        <author>
+            <name>Alex Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Release of D365FO Admin Toolkit v1.4]]></title>
+        <id>https://alexdmeyer.com/?p=3177</id>
+        <link href="https://alexdmeyer.com/2024/05/07/new-release-of-d365fo-admin-toolkit-v1-4/"/>
+        <updated>2024-05-07T14:46:41.000Z</updated>
+        <summary type="html"><![CDATA[I’m excited to announce the v1.4 release of the D365FO Admin Toolkit! Version 1.4 Release D365FO Admin Toolkit v1.4 Deployable Package D365FO Admin Toolkit GitHub Note: This release has been built against a 10.0.39 version of D365FO, which is the current GA release.   Let’s look at the new features and functionality and bug fixes […]
+The post New Release of D365FO Admin Toolkit v1.4 appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Improvement of Czech Localization Reports]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-improvement-of-czech-localization-reports</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-improvement-of-czech-localization-reports"/>
+        <updated>2024-05-07T14:00:04.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud-based Architecture changes the dynamics of ERP]]></title>
+        <id>https://erpsoftwareblog.com/?p=106456</id>
+        <link href="https://erpsoftwareblog.com/2024/05/cloud-based-architecture-changes-the-dynamics-of-erp/"/>
+        <updated>2024-05-07T13:17:04.000Z</updated>
+        <summary type="html"><![CDATA[Cloud-based Architecture changes the dynamics of ERP and has a transformative impact on business operations. It reshapes the way of processing tasks and performing operations in several ways due to […]
+The post Cloud-based Architecture changes the dynamics of ERP appeared first on ERP Software Blog.
+Microsoft Azure has Disaster Recovery Strategies to Protect Your Business
+On-premise vs Cloud-based - 10 Considerations
+Choosing the Right ERP System for Your eCommerce Business]]></summary>
+        <author>
+            <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Invalid users in Dynamics 365 F&O – 10.0.39 update]]></title>
+        <id>https://dynamicspedia.com/?p=19054</id>
+        <link href="https://dynamicspedia.com/2024/05/invalid-users-in-dynamics-365-fo-10-0-39-update/"/>
+        <updated>2024-05-07T12:25:22.000Z</updated>
+        <summary type="html"><![CDATA[Starting in Microsoft Dynamics 365 F&O version 10.0.39, Microsoft enforced security guidelines for external users. Effectively, Microsoft disabled the cross-tenant access in Dynamics 365 F&O. This means that external users from a different tenant, can’t log in to Dynamics 365 unless they are created as a guest user in your own client. In this post, […]
+The post Invalid users in Dynamics 365 F&O – 10.0.39 update appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamline Trade Desk Operations: Counter Sales v3.0 for Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=106284</id>
+        <link href="https://erpsoftwareblog.com/2024/05/streamline-trade-desk-operations-counter-sales-v3-0-for-business-central/"/>
+        <updated>2024-05-07T11:02:48.000Z</updated>
+        <summary type="html"><![CDATA[Insight Works unveils Counter Sales v3.0, a significant upgrade to their trade desk app, integrating advanced payment solutions and operational efficiencies into Dynamics 365 Business Central.
+The post Streamline Trade Desk Operations: Counter Sales v3.0 for Business Central appeared first on ERP Software Blog.
+10 New Microsoft Partners Join Insight Works in September
+Enhance Shipping Functions in Business Central
+Graphical Scheduler v1.8: Elevating Production Scheduling]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is WhatsApp Business API – 2024 Guide to Integrate with Microsoft Dynamics 365 CRM!]]></title>
+        <id>https://365community.online/what-is-whatsapp-business-api-2024-guide-to-integrate-with-microsoft-dynamics-365-crm</id>
+        <link href="https://365community.online/what-is-whatsapp-business-api-2024-guide-to-integrate-with-microsoft-dynamics-365-crm"/>
+        <updated>2024-05-07T10:39:17.000Z</updated>
+        <summary type="html"><![CDATA[Introduction Hey there! WhatsApp Business API is a fascinating topic to discuss and we all know that, that’s why we have created an ‘only essential’ walkthrough that you need to […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central and AI: How Machine Learning is Transforming Your Business]]></title>
+        <id>https://erpsoftwareblog.com/?p=106473</id>
+        <link href="https://erpsoftwareblog.com/2024/05/business-central-and-ai-how-machine-learning-is-transforming-your-business/"/>
+        <updated>2024-05-07T10:17:41.000Z</updated>
+        <summary type="html"><![CDATA[The business landscape is evolving faster than ever. In this dynamic environment, staying ahead of the curve requires embracing innovative solutions. Business Central empowers small and medium-sized businesses (SMBs) with a comprehensive […]
+The post Business Central and AI: How Machine Learning is Transforming Your Business appeared first on ERP Software Blog.
+Is Upgrading NAV Giving You a Headache? Business Central Might Be the Cure
+Transitioning from Microsoft GP to Business Central in Wholesale and Distribution
+How to Setup Deferral Revenue and Expenses in Business Central?]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Process Czech Bank Statements, Payment Orders More Productively]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-process-czech-bank-statements-payment-orders-more-productively</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-process-czech-bank-statements-payment-orders-more-productively"/>
+        <updated>2024-05-07T10:00:10.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use Copilot in D365 Customer Service to generate knowledge articles from cases]]></title>
+        <id>https://365community.online/use-copilot-in-d365-customer-service-to-generate-knowledge-articles-from-cases</id>
+        <link href="https://365community.online/use-copilot-in-d365-customer-service-to-generate-knowledge-articles-from-cases"/>
+        <updated>2024-05-07T08:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft is adding more and more functionality to Copilot and I am loving it! It’s almost like every time I log into one of the Dynamics 365 apps, there are […]]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use Copilot in D365 Customer Service to generate knowledge articles from cases (preview) – YouTube]]></title>
+        <id>https://365community.online/use-copilot-in-d365-customer-service-to-generate-knowledge-articles-from-cases-preview-youtube</id>
+        <link href="https://365community.online/use-copilot-in-d365-customer-service-to-generate-knowledge-articles-from-cases-preview-youtube"/>
+        <updated>2024-05-07T08:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Use Copilot in D365 Customer Service to generate knowledge articles from cases (preview) In this video I discussing a feature that you can test right now, because it is currently […]]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing General Availability of Block unmanaged customizations]]></title>
+        <id>announcing-general-availability-of-block-unmanaged-customizations</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-block-unmanaged-customizations/"/>
+        <updated>2024-05-07T08:00:51.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce General Availability of Block unmanaged customizations. This is an environment setting that allows Power Platform system administrators to block direct development in production environment by preventing unmanaged customizations. By blocking any unmanaged customizations and import of unmanaged solutions, admin can ensure that any changes to the environment, specifically the test and production environments, are only going through approved application lifecycle management (ALM) processes that have reliability, safety, and auditing.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using The Pipeline View To Manage Your Opportunities]]></title>
+        <id>https://365community.online/using-the-pipeline-view-to-manage-your-opportunities</id>
+        <link href="https://365community.online/using-the-pipeline-view-to-manage-your-opportunities"/>
+        <updated>2024-05-07T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve only read my content for the past few years, you might be forgiven for thinking that the ‘only thing’ I work on is Marketing (Customer Insights – Journeys). […]]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central for Project Management: Keeping Your Team on Track]]></title>
+        <id>https://erpsoftwareblog.com/?p=106469</id>
+        <link href="https://erpsoftwareblog.com/2024/05/business-central-for-project-management-keeping-your-team-on-track/"/>
+        <updated>2024-05-07T07:08:28.000Z</updated>
+        <summary type="html"><![CDATA[Juggling multiple projects, resource allocation, and budget control – project management can feel like a constant tightrope walk. But what if there was a way to streamline the process, boost efficiency, […]
+The post Business Central for Project Management: Keeping Your Team on Track appeared first on ERP Software Blog.
+Empowering Professional Services with Microsoft Dynamics 365 Business Central
+Transitioning from Dynamics SL to Business Central: Streamlining Your Business Operations
+Customization Magic: Unleash the Potential of Business Central with MetaPro]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upgrading Your Customized C/AL Application to Business Central 23 – Part 1]]></title>
+        <id>https://365community.online/upgrading-your-customized-c-al-application-to-business-central-23-part-1</id>
+        <link href="https://365community.online/upgrading-your-customized-c-al-application-to-business-central-23-part-1"/>
+        <updated>2024-05-07T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi Readers, In this and next 2 articles we will discuss about how to upgrade Customized Dynamics NAV C/AL to AL Extension. This is part 1 of the video. Regards,Saurav […]]]></summary>
+        <author>
+            <name>Saurav Dhyani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Enable 2024 Release Wave 1 Updates in the Microsoft Dynamics 365 CE Environment?]]></title>
+        <id>https://365community.online/how-to-enable-2024-release-wave-1-updates-in-the-microsoft-dynamics-365-ce-environment</id>
+        <link href="https://365community.online/how-to-enable-2024-release-wave-1-updates-in-the-microsoft-dynamics-365-ce-environment"/>
+        <updated>2024-05-07T02:45:28.000Z</updated>
+        <summary type="html"><![CDATA[Follow the below steps to Enable 2024 Release Wavel 1 Updates in the Microsoft Dynamics 365 CE Environment. Recommendation: Click on the below link and create a Microsoft Edge or Google […]]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fixed – The latitude or longitude for the User record associated with this resource is invalid – Dynamics 365  Field Service /Dataverse]]></title>
         <id>https://365community.online/fixed-the-latitude-or-longitude-for-the-user-record-associated-with-this-resource-is-invalid-dynamics-365-field-service-dataverse</id>
@@ -33746,22 +33962,6 @@ Depending on your setup, the data within the Employment V2 data entity can be as
 Once the Employment V2 data entity is imported, the Worker records will become active in the Human resources > Workers > Workers view in the Dynamics 365 Human Resources module.]]></summary>
         <author>
             <name>D365FandO(m)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to move AX2012 attachment files to SharePoint while upgrading database to D365FO]]></title>
-        <id>https://alexvoy.blogspot.com/2022/05/how-to-move-ax2012-attachment-files-to.html</id>
-        <link href="https://alexvoy.blogspot.com/2022/05/how-to-move-ax2012-attachment-files-to.html"/>
-        <updated>2022-05-08T21:35:00.005Z</updated>
-        <summary type="html"><![CDATA[Problem
-When it comes to upgrading attachments from AX2012 to D365FO, only URLs, notes, and files saved in the former's database may be transferred to the Azure Blob Storage (on-cloud). 
-Therefore, all files from attachments in AX2012 should be moved to the database first in order to be successfully migrated to D365FO.
-What if there are millions of them? Technically speaking it might be a good option to save them on SharePoint (on-cloud); however, unfortunately, such attachments links will be deleted, too.
-You can find more detail on Document management in D365FO in https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/fin-ops/organization-administration/configure-document-management
-Technical details
-During the Ax2012-D365FO database upgrade process, among other standard classes ('scr…]]></summary>
-        <author>
-            <name>Adventures in Axapta world</name>
         </author>
     </entry>
 </feed>
