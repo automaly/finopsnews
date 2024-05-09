@@ -1421,6 +1421,16 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=106286",
+          "author": "Insight Works",
+          "description": "Insight Works partners with Banyan Technology to deliver unprecedented access to a broader range of FTL and LTL carriers in Mexico, simplifying nearshoring for Dynamic Ship users. \nThe post Business Central’s Dynamic Ship Boosts Cross-Border and Intra-Mexico Shipping Capabilities appeared first on ERP Software Blog.\n10 New Microsoft Partners Join Insight Works in September\nEnhance Shipping Functions in Business Central\nGraphical Scheduler v1.8: Elevating Production Scheduling",
+          "link": "https://erpsoftwareblog.com/2024/05/business-centrals-dynamic-ship-boosts-cross-border-and-intra-mexico-shipping-capabilities/",
+          "publishedOn": "2024-05-08T11:35:44.000Z",
+          "wordCount": 5473,
+          "title": "Business Central’s Dynamic Ship Boosts Cross-Border and Intra-Mexico Shipping Capabilities",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamic-Ship-250.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=106495",
           "author": "iCepts Technology Group, Inc.",
           "description": "Webinar: Discover Lightning-Fast Reporting and Analytics for Microsoft Business Central. Unlock the Power of Cosmos! Join us for a webinar on May 15, 2024, at 2:00 PM EDT. You are […]\nThe post Webinar: Get Fast Excel-Based Reporting for Microsoft Business Central appeared first on ERP Software Blog.\nSee The Top Auto-Create Dimensions Tool for Microsoft Dynamics 365 Business Central for Powerful Reporting\nJoin Us At Dynamic Communities Summit - Booth 800\nWebSan Solutions Inc. Invites You to Our Third Annual Interactive Virtual Half-Day Conference: Dynamics Virtual Launchpad!",
@@ -7538,6 +7548,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=62015",
+          "author": "Joann Bash",
+          "description": "Purchase Order Returns in Dynamics GP\nProcessing a purchase order return in Dynamics GP may seem difficult if you aren’t familiar with the process. One challenge is that the options you can choose depend on the status of your purchase order. To help you better understand your options in purchase order returns, I will give an overview of each document type...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/purchase-order-returns-in-dynamics-gp/",
+          "publishedOn": "2024-05-08T12:46:29.000Z",
+          "wordCount": 3034,
+          "title": "Purchase Order Returns in Dynamics GP",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Dynamics-GP-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=61881",
           "author": "Malone Yang",
           "description": "Shopify Integration with Dynamics 365 Business Central\nDynamics 365 Business Central offers a seamless integration with Shopify. The Business Central Shopify connector is free and readily available through the Shopify app store to help merchants reduce their data integration efforts and streamline their business processes. Shopify is an online e-commerce and marketing platform considered a leading e-commerce (B2C/B2B) platform. Many Shopify users...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -8044,6 +8064,106 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/revisiting-custom-connectors-by-carina-m-claesson",
+          "author": "Olena Grischenko",
+          "description": "In my Power Platform dev life I use custom connectors a lot. One of the latest use cases is limiting a standard Microsoft Entra ID connector to meet the least […]",
+          "link": "https://365community.online/revisiting-custom-connectors-by-carina-m-claesson",
+          "publishedOn": "2024-05-08T20:19:38.000Z",
+          "wordCount": 3257,
+          "title": "Revisiting Custom Connectors by Carina M. Claesson",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/08/My-BCTechDays-2022.jpg?fit=200%2C200&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-alm-story-for-custom-connectors",
+          "author": "Carina Claesson",
+          "description": "This post is a part of a series of posts about custom connectors. In this post we will look at ALM for custom connectors. That story starts with the concept […]",
+          "link": "https://365community.online/the-alm-story-for-custom-connectors",
+          "publishedOn": "2024-05-08T20:02:05.000Z",
+          "wordCount": 3243,
+          "title": "The ALM story for Custom Connectors",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/The-ALM-story-for-Custom-Connectors.jpg?fit=1200%2C800&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-improved-updates-of-ares-data-in-the-czech-version",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-improved-updates-of-ares-data-in-the-czech-version",
+          "publishedOn": "2024-05-08T14:00:12.000Z",
+          "wordCount": 3321,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Improved Updates of ARES Data in the Czech Version",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/power-fx-formula-columns-in-microsoft-power-apps",
+          "author": "Arun Potti",
+          "description": "Please like and share your valuable feedback on this article and follow my blog to get my articles to your Inbox. Below are my earlier articles that you can have a look. […]",
+          "link": "https://365community.online/power-fx-formula-columns-in-microsoft-power-apps",
+          "publishedOn": "2024-05-08T11:48:28.000Z",
+          "wordCount": 3262,
+          "title": "Power Fx Formula Columns in Microsoft Power Apps",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/power-apps-logo.jpg?fit=900%2C900&ssl=1"
+        },
+        {
+          "id": "https://365community.online/curso-completo-power-apps-implementado-a-edicao-do-projeto-youtube",
+          "author": "Saulo Soares Oliveira",
+          "description": "Nesse curso vamos aprender os conceitos e vamos criar um projeto do zero utilizando Power Apps e SharePoint. ♐ Adquira meu curso na Udemy e aprenda SharePoint, Power Apps e […]",
+          "link": "https://365community.online/curso-completo-power-apps-implementado-a-edicao-do-projeto-youtube",
+          "publishedOn": "2024-05-08T10:48:25.000Z",
+          "wordCount": 3216,
+          "title": "Curso completo Power Apps – Implementado a edição do projeto – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/1715183315_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/simplify-managing-multi-environment-power-platform-with-environment-groups",
+          "author": "Inogic",
+          "description": "Managing a Power platform with multiple Dynamic 365 Environments can be difficult, especially for large enterprise organizations with a large number of environments. This is where “Environments Group” comes into […]",
+          "link": "https://365community.online/simplify-managing-multi-environment-power-platform-with-environment-groups",
+          "publishedOn": "2024-05-08T10:18:36.000Z",
+          "wordCount": 3519,
+          "title": "Simplify managing multi-environment Power Platform with Environment Groups",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/Simplify-managing-multi-environment-Power-Platform-with-Environment-Groups.png?fit=700%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-report-explorer-has-additional-outputs-in-the-czech-version",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-report-explorer-has-additional-outputs-in-the-czech-version",
+          "publishedOn": "2024-05-08T10:00:36.000Z",
+          "wordCount": 3320,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Report Explorer has Additional Outputs in the Czech Version",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/moving-documents-from-one-file-column-to-another-using-power-automate",
+          "author": "Megan V. Walker",
+          "description": "I’m working on a project that has a requirement to move a file from a file column (field) on one table (entity) to a file column of the same name […]",
+          "link": "https://365community.online/moving-documents-from-one-file-column-to-another-using-power-automate",
+          "publishedOn": "2024-05-08T07:30:00.000Z",
+          "wordCount": 3240,
+          "title": "Moving Documents From One File Column To Another Using Power Automate",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/Moving-Documents-From-One-File-Column-To-Another-Using-Power.jpg?fit=1200%2C900&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-create-microsoft-teams-private-channels-using-power-automate-and-the-send-a-microsoft-graph-http-request-action",
+          "author": "michelcarlo",
+          "description": "Using the standard Power Automate actions for Microsoft Teams we can only create a standard channel, but by using Microsoft Graph with the new ‘Send a Microsoft Graph HTTP request’ action it’s […]",
+          "link": "https://365community.online/how-to-create-microsoft-teams-private-channels-using-power-automate-and-the-send-a-microsoft-graph-http-request-action",
+          "publishedOn": "2024-05-08T07:20:06.000Z",
+          "wordCount": 3432,
+          "title": "How to create Microsoft Teams private channels using Power Automate and the ‘Send a Microsoft Graph HTTP request’ action",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/teamsprivcover.png?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/failed-upgrading-your-customized-c-al-application-to-business-central-23-part-2",
+          "author": "Saurav Dhyani",
+          "description": "Hi Readers, In this and next 1 article we will discuss about how to upgrade Customized Dynamics NAV C/AL to AL Extension. This is part 2 of the video. Regards,Saurav […]",
+          "link": "https://365community.online/failed-upgrading-your-customized-c-al-application-to-business-central-23-part-2",
+          "publishedOn": "2024-05-08T05:30:00.000Z",
+          "wordCount": 3213,
+          "title": "Failed – Upgrading Your Customized C/AL Application to Business Central 23 – Part 2.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/Failed-Upgrading-Your-Customized-CAL-Application-to-Business-Central.jpeg?fit=480%2C360&ssl=1"
+        },
         {
           "id": "https://365community.online/use-filter-array-action-to-remove-values-from-an-array-variable-power-automate",
           "author": "Nishant Rana",
@@ -18728,6 +18848,16 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=6116",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2024/05/08/power-automateprocess-mining-hacks-3/",
+          "publishedOn": "2024-05-08T16:07:05.000Z",
+          "wordCount": 3337,
+          "title": "Power AutomateProcess Mining Hacks (3)",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2024/04/english-3.png"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=6098",
           "author": "Ludwig Reinhard",
           "description": "Visit the post for more.",
@@ -24549,6 +24679,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
+        {
+          "id": "announcing-general-availability-of-power-apps-maker-welcome-content",
+          "author": null,
+          "description": "We are pleased to announces the General Availability of the Power Apps maker welcome content feature, which allows Power Platform admins to customize the welcome message that makers see when they sign in to the maker portal. The feature can be used to provide makers with important information, resources, and updates on Power Platform.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-power-apps-maker-welcome-content/",
+          "publishedOn": "2024-05-08T15:17:01.000Z",
+          "wordCount": 1944,
+          "title": "Announcing General Availability of Power Apps maker welcome content",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
         {
           "id": "announcing-general-availability-of-block-unmanaged-customizations",
           "author": null,

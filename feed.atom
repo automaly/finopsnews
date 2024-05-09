@@ -2,10 +2,157 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-05-08T00:33:41.831Z</updated>
+    <updated>2024-05-09T00:40:20.071Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Revisiting Custom Connectors by Carina M. Claesson]]></title>
+        <id>https://365community.online/revisiting-custom-connectors-by-carina-m-claesson</id>
+        <link href="https://365community.online/revisiting-custom-connectors-by-carina-m-claesson"/>
+        <updated>2024-05-08T20:19:38.000Z</updated>
+        <summary type="html"><![CDATA[In my Power Platform dev life I use custom connectors a lot. One of the latest use cases is limiting a standard Microsoft Entra ID connector to meet the least […]]]></summary>
+        <author>
+            <name>Olena Grischenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The ALM story for Custom Connectors]]></title>
+        <id>https://365community.online/the-alm-story-for-custom-connectors</id>
+        <link href="https://365community.online/the-alm-story-for-custom-connectors"/>
+        <updated>2024-05-08T20:02:05.000Z</updated>
+        <summary type="html"><![CDATA[This post is a part of a series of posts about custom connectors. In this post we will look at ALM for custom connectors. That story starts with the concept […]]]></summary>
+        <author>
+            <name>Carina Claesson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power AutomateProcess Mining Hacks (3)]]></title>
+        <id>http://dynamicsax-fico.com/?p=6116</id>
+        <link href="https://dynamicsax-fico.com/2024/05/08/power-automateprocess-mining-hacks-3/"/>
+        <updated>2024-05-08T16:07:05.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing General Availability of Power Apps maker welcome content]]></title>
+        <id>announcing-general-availability-of-power-apps-maker-welcome-content</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-power-apps-maker-welcome-content/"/>
+        <updated>2024-05-08T15:17:01.000Z</updated>
+        <summary type="html"><![CDATA[We are pleased to announces the General Availability of the Power Apps maker welcome content feature, which allows Power Platform admins to customize the welcome message that makers see when they sign in to the maker portal. The feature can be used to provide makers with important information, resources, and updates on Power Platform.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Improved Updates of ARES Data in the Czech Version]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-improved-updates-of-ares-data-in-the-czech-version</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-improved-updates-of-ares-data-in-the-czech-version"/>
+        <updated>2024-05-08T14:00:12.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Purchase Order Returns in Dynamics GP]]></title>
+        <id>https://www.encorebusiness.com/?p=62015</id>
+        <link href="https://www.encorebusiness.com/blog/purchase-order-returns-in-dynamics-gp/"/>
+        <updated>2024-05-08T12:46:29.000Z</updated>
+        <summary type="html"><![CDATA[Purchase Order Returns in Dynamics GP
+Processing a purchase order return in Dynamics GP may seem difficult if you aren’t familiar with the process. One challenge is that the options you can choose depend on the status of your purchase order. To help you better understand your options in purchase order returns, I will give an overview of each document type...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Joann Bash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Fx Formula Columns in Microsoft Power Apps]]></title>
+        <id>https://365community.online/power-fx-formula-columns-in-microsoft-power-apps</id>
+        <link href="https://365community.online/power-fx-formula-columns-in-microsoft-power-apps"/>
+        <updated>2024-05-08T11:48:28.000Z</updated>
+        <summary type="html"><![CDATA[Please like and share your valuable feedback on this article and follow my blog to get my articles to your Inbox. Below are my earlier articles that you can have a look. […]]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central’s Dynamic Ship Boosts Cross-Border and Intra-Mexico Shipping Capabilities]]></title>
+        <id>https://erpsoftwareblog.com/?p=106286</id>
+        <link href="https://erpsoftwareblog.com/2024/05/business-centrals-dynamic-ship-boosts-cross-border-and-intra-mexico-shipping-capabilities/"/>
+        <updated>2024-05-08T11:35:44.000Z</updated>
+        <summary type="html"><![CDATA[Insight Works partners with Banyan Technology to deliver unprecedented access to a broader range of FTL and LTL carriers in Mexico, simplifying nearshoring for Dynamic Ship users. 
+The post Business Central’s Dynamic Ship Boosts Cross-Border and Intra-Mexico Shipping Capabilities appeared first on ERP Software Blog.
+10 New Microsoft Partners Join Insight Works in September
+Enhance Shipping Functions in Business Central
+Graphical Scheduler v1.8: Elevating Production Scheduling]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curso completo Power Apps – Implementado a edição do projeto – YouTube]]></title>
+        <id>https://365community.online/curso-completo-power-apps-implementado-a-edicao-do-projeto-youtube</id>
+        <link href="https://365community.online/curso-completo-power-apps-implementado-a-edicao-do-projeto-youtube"/>
+        <updated>2024-05-08T10:48:25.000Z</updated>
+        <summary type="html"><![CDATA[Nesse curso vamos aprender os conceitos e vamos criar um projeto do zero utilizando Power Apps e SharePoint. ♐ Adquira meu curso na Udemy e aprenda SharePoint, Power Apps e […]]]></summary>
+        <author>
+            <name>Saulo Soares Oliveira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simplify managing multi-environment Power Platform with Environment Groups]]></title>
+        <id>https://365community.online/simplify-managing-multi-environment-power-platform-with-environment-groups</id>
+        <link href="https://365community.online/simplify-managing-multi-environment-power-platform-with-environment-groups"/>
+        <updated>2024-05-08T10:18:36.000Z</updated>
+        <summary type="html"><![CDATA[Managing a Power platform with multiple Dynamic 365 Environments can be difficult, especially for large enterprise organizations with a large number of environments. This is where “Environments Group” comes into […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Report Explorer has Additional Outputs in the Czech Version]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-report-explorer-has-additional-outputs-in-the-czech-version</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-report-explorer-has-additional-outputs-in-the-czech-version"/>
+        <updated>2024-05-08T10:00:36.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moving Documents From One File Column To Another Using Power Automate]]></title>
+        <id>https://365community.online/moving-documents-from-one-file-column-to-another-using-power-automate</id>
+        <link href="https://365community.online/moving-documents-from-one-file-column-to-another-using-power-automate"/>
+        <updated>2024-05-08T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[I’m working on a project that has a requirement to move a file from a file column (field) on one table (entity) to a file column of the same name […]]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to create Microsoft Teams private channels using Power Automate and the ‘Send a Microsoft Graph HTTP request’ action]]></title>
+        <id>https://365community.online/how-to-create-microsoft-teams-private-channels-using-power-automate-and-the-send-a-microsoft-graph-http-request-action</id>
+        <link href="https://365community.online/how-to-create-microsoft-teams-private-channels-using-power-automate-and-the-send-a-microsoft-graph-http-request-action"/>
+        <updated>2024-05-08T07:20:06.000Z</updated>
+        <summary type="html"><![CDATA[Using the standard Power Automate actions for Microsoft Teams we can only create a standard channel, but by using Microsoft Graph with the new ‘Send a Microsoft Graph HTTP request’ action it’s […]]]></summary>
+        <author>
+            <name>michelcarlo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Failed – Upgrading Your Customized C/AL Application to Business Central 23 – Part 2.]]></title>
+        <id>https://365community.online/failed-upgrading-your-customized-c-al-application-to-business-central-23-part-2</id>
+        <link href="https://365community.online/failed-upgrading-your-customized-c-al-application-to-business-central-23-part-2"/>
+        <updated>2024-05-08T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi Readers, In this and next 1 article we will discuss about how to upgrade Customized Dynamics NAV C/AL to AL Extension. This is part 2 of the video. Regards,Saurav […]]]></summary>
+        <author>
+            <name>Saurav Dhyani</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Use Filter Array action to remove values from an array variable – Power Automate]]></title>
         <id>https://365community.online/use-filter-array-action-to-remove-values-from-an-array-variable-power-automate</id>
