@@ -1421,6 +1421,56 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=106562",
+          "author": "Open Door Technology",
+          "description": "In today's digitally driven world, data security is vital for businesses of all sizes. With the increasing reliance on technology and the proliferation of cyber threats, safeguarding sensitive information has […]\nThe post Protecting Your Business: Exploring the Importance of Data Security Features in Business Central appeared first on ERP Software Blog.\nCloud-based Architecture changes the dynamics of ERP\nManufacturing & Distribution Add-Ons for Business Central\nMicrosoft Dynamics GP ou Microsoft Dynamics 365 Business Central : quelle solution choisir pour votre organisation ?",
+          "link": "https://erpsoftwareblog.com/2024/05/protecting-your-business-exploring-the-importance-of-data-security-features-in-business-central/",
+          "publishedOn": "2024-05-09T19:41:56.000Z",
+          "wordCount": 5813,
+          "title": "Protecting Your Business: Exploring the Importance of Data Security Features in Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Data-Security-Blog-Creative-300x169.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106566",
+          "author": "DynamicPoint",
+          "description": "Using a Microsoft Office 365 subscription, in conjunction with Azure, you can now process accounts payable invoices received in a company’s shared AP email inbox. This includes OCR functionality to […]\nThe post Automate Invoice Data Extraction Using Azure AI appeared first on ERP Software Blog.\nAP Automation Benefits Every Company Size\nBank Foreign Currency Revaluation Process in Dynamics 365 Finance\nAP Automation: Inside or Outside the ERP? Weighing the pros and cons",
+          "link": "https://erpsoftwareblog.com/2024/05/automate-invoice-data-extraction-using-azure-ai/",
+          "publishedOn": "2024-05-09T19:18:40.000Z",
+          "wordCount": 4814,
+          "title": "Automate Invoice Data Extraction Using Azure AI",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/DP-514-1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106560",
+          "author": "StockIQ Technologies",
+          "description": "In the fast-paced world of business, staying ahead of supply chain complexities is a must. Dynamics 365 Finance offers robust capabilities for managing financials and operations, but when it comes […]\nThe post Enhancing Dynamics 365 Finance with a Supply Chain Planning Solution appeared first on ERP Software Blog.\nManage Rental Equipment Maintenance in DynaRent for Dynamics 365\nHow Do I Ensure Data Quality During PLM-ERP Integration for D365 ERP?\nKey Features of To-Increase’s PLM-ERP Integration for Dynamics 365 ERP",
+          "link": "https://erpsoftwareblog.com/2024/05/enhancing-dynamics-365-finance-with-a-supply-chain-planning-solution/",
+          "publishedOn": "2024-05-09T18:46:17.000Z",
+          "wordCount": 5298,
+          "title": "Enhancing Dynamics 365 Finance with a Supply Chain Planning Solution",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106546",
+          "author": "Test Author",
+          "description": "Government contracts offer a wealth of opportunity, but the bidding process can be notoriously complex and time-consuming. Missing deadlines or submitting incomplete proposals can mean losing out on valuable contracts. […]\nThe post Win More Bids: Streamline Government Contracts Proposals with Business Central appeared first on ERP Software Blog.\nEmbrace Seamless Transition: Cloud Migration with Business Central\nA Comprehensive Guide on How to Use the Warehouse Item Journal\nEmpowering Professional Services with Microsoft Dynamics 365 Business Central",
+          "link": "https://erpsoftwareblog.com/2024/05/streamline-government-contracts-proposals-with-business-central/",
+          "publishedOn": "2024-05-09T14:44:13.000Z",
+          "wordCount": 5136,
+          "title": "Win More Bids: Streamline Government Contracts Proposals with Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-2-44.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106292",
+          "author": "Insight Works",
+          "description": "The latest release of the Counter Sales app, Counter Sales v3.0, transforms trade desk operations with enhanced features for seamless integration and efficient service in high-performance sales environments.\nThe post Counter Sales v3.0: Elevating POS Operations for Trade Desks and Retail Counters appeared first on ERP Software Blog.\n6 Must-Ask Questions When Interviewing ERP Implementation Firms\nWhat's New in Microsoft Dynamics NAV 2015: User Experience Enhancements\nThe Internet of Things is revolutionizing fleet management. This is how",
+          "link": "https://erpsoftwareblog.com/2024/05/counter-sales-v3-0-elevating-pos-operations-for-trade-desks-and-retail-counters/",
+          "publishedOn": "2024-05-09T12:02:34.000Z",
+          "wordCount": 5305,
+          "title": "Counter Sales v3.0: Elevating POS Operations for Trade Desks and Retail Counters",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Counter-Sales-250-1.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=106286",
           "author": "Insight Works",
           "description": "Insight Works partners with Banyan Technology to deliver unprecedented access to a broader range of FTL and LTL carriers in Mexico, simplifying nearshoring for Dynamic Ship users. \nThe post Business Central’s Dynamic Ship Boosts Cross-Border and Intra-Mexico Shipping Capabilities appeared first on ERP Software Blog.\n10 New Microsoft Partners Join Insight Works in September\nEnhance Shipping Functions in Business Central\nGraphical Scheduler v1.8: Elevating Production Scheduling",
@@ -8064,6 +8114,86 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-print-qr-codes-on-sales-invoices-in-the-czech-version",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-print-qr-codes-on-sales-invoices-in-the-czech-version",
+          "publishedOn": "2024-05-09T14:00:47.000Z",
+          "wordCount": 3334,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Print QR Codes on Sales Invoices in the Czech Version",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/form-validation-using-react-react-form-validation-tutorial-youtube",
+          "author": "Sourav Raj",
+          "description": "Form validation using React| React Form Validation Tutorial Form validation is a critical aspect of web development, ensuring that the data submitted by users meets the necessary criteria before being […]",
+          "link": "https://365community.online/form-validation-using-react-react-form-validation-tutorial-youtube",
+          "publishedOn": "2024-05-09T12:37:02.000Z",
+          "wordCount": 3433,
+          "title": "Form validation using React| React Form Validation Tutorial – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/1715267623_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-allow-more-extendability-of-advance-payments-in-the-czech-version",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-allow-more-extendability-of-advance-payments-in-the-czech-version",
+          "publishedOn": "2024-05-09T10:00:00.000Z",
+          "wordCount": 3330,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Allow More Extendability of Advance Payments in the Czech Version",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-create-a-new-user-in-dynamics-365-sales",
+          "author": "Pete Murray",
+          "description": "These are the steps to set up a new user in Dynamics 365 Make sure they have a user account in Microsoft 365 Assign a Dynamics licence to them Assign […]",
+          "link": "https://365community.online/how-to-create-a-new-user-in-dynamics-365-sales",
+          "publishedOn": "2024-05-09T09:07:21.000Z",
+          "wordCount": 3235,
+          "title": "How to Create a New User in Dynamics 365 Sales",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/How-to-Create-a-New-User-in-Dynamics-365-Sales.png?fit=477%2C269&ssl=1"
+        },
+        {
+          "id": "https://365community.online/custom-fonts-on-sharepoint-how-to-add-apply-and-automate",
+          "author": "Marcin Siewnicki",
+          "description": "Do you want to change fonts on your SharePoint sites? You can do it using a new Brand center! Microsoft’s released the feature 2 weeks ago as a preview and […]",
+          "link": "https://365community.online/custom-fonts-on-sharepoint-how-to-add-apply-and-automate",
+          "publishedOn": "2024-05-09T08:47:13.000Z",
+          "wordCount": 3259,
+          "title": "Custom fonts on SharePoint – how to add, apply, and automate",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/default-dashboard-issue-in-d365fo-10-0-39",
+          "author": "Anitha Santosh",
+          "description": "We upgraded to 10.0.39 and found the home page of D365FO was throwing error ‘Menu item with default dashboard could not be opened’. Initially we assumed it might be due […]",
+          "link": "https://365community.online/default-dashboard-issue-in-d365fo-10-0-39",
+          "publishedOn": "2024-05-09T06:48:29.000Z",
+          "wordCount": 3241,
+          "title": "Default dashboard issue in D365FO 10.0.39",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/Default-dashboard-issue-in-D365FO-10039.png?fit=1200%2C301&ssl=1"
+        },
+        {
+          "id": "https://365community.online/data-binding-in-angular-data-binding-explained-youtube",
+          "author": "Sourav Raj",
+          "description": "Data Binding in Angular | Data Binding Explained Data binding is the backbone of dynamic web applications, and in this video, we break down the intricacies of data binding in […]",
+          "link": "https://365community.online/data-binding-in-angular-data-binding-explained-youtube",
+          "publishedOn": "2024-05-09T06:02:34.000Z",
+          "wordCount": 3357,
+          "title": "Data Binding in Angular | Data Binding Explained – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/1715282679_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/upgrading-your-customized-c-al-application-to-business-central-23-part-2",
+          "author": "Saurav Dhyani",
+          "description": "Hi Readers, This is the final video in process of upgrading from Business Central 14 (C/AL) with customization to Business Central 23.  Let me know if you have any questions. […]",
+          "link": "https://365community.online/upgrading-your-customized-c-al-application-to-business-central-23-part-2",
+          "publishedOn": "2024-05-09T05:30:00.000Z",
+          "wordCount": 3209,
+          "title": "Upgrading Your Customized C/AL Application to Business Central 23 – Part 2.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/1715244229_Upgrading-Your-Customized-CAL-Application-to-Business-Central-23.jpeg?fit=480%2C360&ssl=1"
+        },
         {
           "id": "https://365community.online/revisiting-custom-connectors-by-carina-m-claesson",
           "author": "Olena Grischenko",
@@ -20154,6 +20284,16 @@
       "feedUrl": "https://anithasantosh.wordpress.com/feed/",
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=3463",
+          "author": "AnithaEswaran",
+          "description": "We upgraded to 10.0.39 and found the home page of D365FO was throwing error ‘Menu item with default dashboard could not be opened’. Initially we assumed it might be due to some issue in the custom models.. We found a … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2024/05/09/default-dashboard-issue-in-d365fo-10-0-39/",
+          "publishedOn": "2024-05-09T06:48:29.000Z",
+          "wordCount": 3938,
+          "title": "Default dashboard issue in D365FO 10.0.39",
+          "imageUrl": "https://anithasantosh.files.wordpress.com/2024/05/image.png"
+        },
         {
           "id": "http://anithasantosh.wordpress.com/?p=3455",
           "author": "AnithaEswaran",
