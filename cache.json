@@ -1139,7 +1139,7 @@
       ]
     },
     {
-      "title": "Azure Integration services",
+      "title": "Azure Integration services for Dynamics 365",
       "feedUrl": "https://azureintegrations.com/feed/",
       "siteUrl": "https://azureintegrations.com",
       "articles": [
@@ -1420,6 +1420,26 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=106622",
+          "author": "Axtension",
+          "description": "Microsoft Dynamics 365 is a powerful tool for businesses seeking to enhance operational efficiency and increase profit margins. However, integrating the right solutions can significantly boost this platform’s capabilities. Axtension® […]\nThe post Increase Efficiency, Protect Profits, and Optimize Processes in Dynamics 365 appeared first on ERP Software Blog.\nAI in Supply Chain Management for Microsoft D365: Increasing Efficiency for Wholesale Distributors\nThe Top Three Questions to Ask Before Selecting a Dynamics GP Manufacturing Partner\nChance to Win a Mobile Device when you Attend Business Central Webinar",
+          "link": "https://erpsoftwareblog.com/2024/05/increase-efficiency-protect-profits-and-optimize-processes-in-dynamics-365/",
+          "publishedOn": "2024-05-11T18:03:15.000Z",
+          "wordCount": 5301,
+          "title": "Increase Efficiency, Protect Profits, and Optimize Processes in Dynamics 365",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2024-05-Increase-Efficiency-Protect-Profits-and-Optimize-Processes-in-Dynamics-365_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106607",
+          "author": "Anya Ciecierski, ERP Software Blog",
+          "description": "Directions NA made my marketing heart so happy. This was the 19th year the event was held in person (it was virtual in 2020), with a peak attendance of a […]\nThe post Why All Marketers in the Microsoft Dynamics Channel Must Attend Directions NA appeared first on ERP Software Blog.\nThe Intelligent Edge and Dynamics GP.  Don't believe some of the tweets!\nBudget Your ERP Implementation with the New ERP Software Blog Quick Quote Tool\nJoin JourneyTEAM's Tech Insider Update Webinar on 8/6",
+          "link": "https://erpsoftwareblog.com/2024/05/why-all-marketers-in-the-microsoft-dynamics-channel-must-attend-directions-na/",
+          "publishedOn": "2024-05-11T15:33:21.000Z",
+          "wordCount": 7754,
+          "title": "Why All Marketers in the Microsoft Dynamics Channel Must Attend Directions NA",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Marketers-at-Directions-NA-2.jpeg"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=106552",
           "author": "x2x eCommerce",
@@ -8145,6 +8165,26 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/how-to-get-the-current-azure-devops-iteration-name-for-a-project-using-power-automate",
+          "author": "michelcarlo",
+          "description": "I was doing some investigation on how I could automate some standard messages we send for my team related to some sprint tasks using Power Automate, and one simple requirement […]",
+          "link": "https://365community.online/how-to-get-the-current-azure-devops-iteration-name-for-a-project-using-power-automate",
+          "publishedOn": "2024-05-11T09:59:26.000Z",
+          "wordCount": 3414,
+          "title": "How to get the current Azure Devops iteration name for a project using Power Automate",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/devopsflow.png?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/harnessing-the-power-of-chatgpt-api-a-step-by-step-guide",
+          "author": "Saurav Dhyani",
+          "description": "Hi Readers, Chat GPT is part of everyone’s line. In this series of 4 videos, we will try to analyze How we can utilize power of Chat GPT with Business […]",
+          "link": "https://365community.online/harnessing-the-power-of-chatgpt-api-a-step-by-step-guide",
+          "publishedOn": "2024-05-11T05:30:00.000Z",
+          "wordCount": 3217,
+          "title": "Harnessing the Power of ChatGPT API: A Step-by-Step Guide.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/Harnessing-the-Power-of-ChatGPT-API-A-Step-by-Step-Guide.jpeg?fit=480%2C360&ssl=1"
+        },
+        {
           "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-use-cookies-in-http-calls-from-business-central",
           "author": "Ian Grieve",
           "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]",
@@ -8173,6 +8213,16 @@
           "wordCount": 3156,
           "title": "Weekly Update #139 – 10th May 2024 – YouTube",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/1715377763_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/content-authoring-in-power-pages-lesson-16-youtube",
+          "author": "Victor Dantas",
+          "description": "Content Authoring in Power Pages – (Nicholas Hayduk) Instagram zero to hero academy – / fromzerotoh. . Instagram thevictordantas – / thevictorda. . twitter thevictordantas – https://x.com/thevictordantas?s=20 source",
+          "link": "https://365community.online/content-authoring-in-power-pages-lesson-16-youtube",
+          "publishedOn": "2024-05-10T04:30:19.000Z",
+          "wordCount": 3149,
+          "title": "Content Authoring in Power Pages – Lesson 16 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/1715393981_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         },
         {
           "id": "https://365community.online/heidelberg-materials-lays-a-foundation-for-success-with-maps-integrated-within-dynamics-365-crm",
