@@ -8165,6 +8165,16 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/maximizing-efficiency-with-global-variables-in-postman-api-testing",
+          "author": "Rehan Khan",
+          "description": "Introduction Postman is a powerful tool for testing APIs, enabling developers to streamline their testing workflows and improve productivity. In my recent implementation, where I have dealt with multiple OAUTH […]",
+          "link": "https://365community.online/maximizing-efficiency-with-global-variables-in-postman-api-testing",
+          "publishedOn": "2024-05-12T15:48:48.000Z",
+          "wordCount": 3246,
+          "title": "Maximizing Efficiency with Global Variables in Postman API testing",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/Maximizing-Efficiency-with-Global-Variables-in-Postman-API-testing.png?fit=1200%2C675&ssl=1"
+        },
+        {
           "id": "https://365community.online/how-to-get-the-current-azure-devops-iteration-name-for-a-project-using-power-automate",
           "author": "michelcarlo",
           "description": "I was doing some investigation on how I could automate some standard messages we send for my team related to some sprint tasks using Power Automate, and one simple requirement […]",
@@ -8173,6 +8183,16 @@
           "wordCount": 3414,
           "title": "How to get the current Azure Devops iteration name for a project using Power Automate",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/devopsflow.png?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/react-components-reactjs-tutorial-youtube",
+          "author": "Sourav Raj",
+          "description": "React components| ReactJS TutorIal n this ReactJS tutorial, learn all about React components! React components are the building blocks of React applications, enabling you to create reusable and modular user […]",
+          "link": "https://365community.online/react-components-reactjs-tutorial-youtube",
+          "publishedOn": "2024-05-11T06:19:22.000Z",
+          "wordCount": 3374,
+          "title": "React components| ReactJS TutorIal – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/1715485742_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         },
         {
           "id": "https://365community.online/harnessing-the-power-of-chatgpt-api-a-step-by-step-guide",
@@ -25767,16 +25787,6 @@
           "wordCount": 2452,
           "title": "NSF Payments - The What, Why, and How of NSF in D365 Finance",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjri_lW9oC4R8zioiqLmT_uY1L3z_cFjmOAntdQFLfybt33-iEC6m72OXWA7eSomCcUPJG-UEGp4swpSBYkB8Y6tRIgwixtlWbkbPnPZR356na_M5d0w_9m_BYYobanWx_polNKcq90cHjk25TtJqdgmL3Hin0_tP4grSEuN3hmj7wIBxGoDjYwdFph/w1200-h630-p-k-no-nu/2022-05-17_13-14-08.png"
-        },
-        {
-          "id": "https://www.d365fandom.com/2022/05/workers-without-employment.html",
-          "author": null,
-          "description": "When importing Workers into Dynamics 365 Human Resources (now in D365FO), you populate the Worker data entity with as much information as possible. Then, start the import using Data management and after the import is complete, you check Human resources > Workers > Workers, and there are no records to be found. The import says it was successful, so where did the worker records go?\nIf you look around, you will find them in the Workers without employment filtered view (Human resources > Workers > Workers without employment.) \n\n\n\n\n\nGreat, the records made it into the system, but I don't want to touch each record and add employment dates. How do we use the Data management functionality to add \"employment\" to these worker records?\n\n\nEmployment V2 Data Entity\n\n\nA data entity called Employment V2 allows you to update the Workers' employment through Data management instead of old-fashioned manual entry. The mapping for the Employment V2 Data entity looks like this:\n\n\n\n\nThe fields within the mapping of the Employment V2 data entity include: \n\n\nCalendarID\nDimensionDisplayValue\nEmploymentEndDate\nEmploymentStartDate\nLegalEntityID\nPersonnelNumber\nRegulatoryEstablishmentID\nWorkerType\n\n\n\nDepending on your setup, the data within the Employment V2 data entity can be as simple as this screenshot. \n\n\n\nOnce the Employment V2 data entity is imported, the Worker records will become active in the Human resources > Workers > Workers view in the Dynamics 365 Human Resources module.",
-          "link": "https://www.d365fandom.com/2022/05/workers-without-employment.html",
-          "publishedOn": "2022-05-13T20:27:00.000Z",
-          "wordCount": 2002,
-          "title": "Human Resources Data Management - Workers Without Employment",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi68DiPoFEPLrdSs3KioH34Y7Du-fKaNvXpnMejoOaCAGBpr2efai2ARrCD4JE3qX4oBBJFFXwecACbKzzgHP3k_J6NVfYvD70ZvL_shT7odOneTlfxAi61VAuN7ZRovD85iKyYqWu_ekOWm35dPL9SAqNI9jJuTTgtArRk8u-yUYhwV_rn6E6kvXXa/w1200-h630-p-k-no-nu/2022-05-13_15-52-07.png"
         }
       ]
     },

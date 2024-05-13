@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-05-12T00:44:03.856Z</updated>
+    <updated>2024-05-13T00:41:48.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maximizing Efficiency with Global Variables in Postman API testing]]></title>
+        <id>https://365community.online/maximizing-efficiency-with-global-variables-in-postman-api-testing</id>
+        <link href="https://365community.online/maximizing-efficiency-with-global-variables-in-postman-api-testing"/>
+        <updated>2024-05-12T15:48:48.000Z</updated>
+        <summary type="html"><![CDATA[Introduction Postman is a powerful tool for testing APIs, enabling developers to streamline their testing workflows and improve productivity. In my recent implementation, where I have dealt with multiple OAUTH […]]]></summary>
+        <author>
+            <name>Rehan Khan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Increase Efficiency, Protect Profits, and Optimize Processes in Dynamics 365]]></title>
         <id>https://erpsoftwareblog.com/?p=106622</id>
@@ -42,6 +52,16 @@ Join JourneyTEAM's Tech Insider Update Webinar on 8/6]]></summary>
         <summary type="html"><![CDATA[I was doing some investigation on how I could automate some standard messages we send for my team related to some sprint tasks using Power Automate, and one simple requirement […]]]></summary>
         <author>
             <name>michelcarlo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React components| ReactJS TutorIal – YouTube]]></title>
+        <id>https://365community.online/react-components-reactjs-tutorial-youtube</id>
+        <link href="https://365community.online/react-components-reactjs-tutorial-youtube"/>
+        <updated>2024-05-11T06:19:22.000Z</updated>
+        <summary type="html"><![CDATA[React components| ReactJS TutorIal n this ReactJS tutorial, learn all about React components! React components are the building blocks of React applications, enabling you to create reusable and modular user […]]]></summary>
+        <author>
+            <name>Sourav Raj</name>
         </author>
     </entry>
     <entry>
@@ -34412,52 +34432,6 @@ Accounts receivable > Setup > Charges setup > Customer charge groups. This is wh
 
 
 Cre…]]></summary>
-        <author>
-            <name>D365FandO(m)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Human Resources Data Management - Workers Without Employment]]></title>
-        <id>https://www.d365fandom.com/2022/05/workers-without-employment.html</id>
-        <link href="https://www.d365fandom.com/2022/05/workers-without-employment.html"/>
-        <updated>2022-05-13T20:27:00.000Z</updated>
-        <summary type="html"><![CDATA[When importing Workers into Dynamics 365 Human Resources (now in D365FO), you populate the Worker data entity with as much information as possible. Then, start the import using Data management and after the import is complete, you check Human resources > Workers > Workers, and there are no records to be found. The import says it was successful, so where did the worker records go?
-If you look around, you will find them in the Workers without employment filtered view (Human resources > Workers > Workers without employment.) 
-
-
-
-
-
-Great, the records made it into the system, but I don't want to touch each record and add employment dates. How do we use the Data management functionality to add "employment" to these worker records?
-
-
-Employment V2 Data Entity
-
-
-A data entity called Employment V2 allows you to update the Workers' employment through Data management instead of old-fashioned manual entry. The mapping for the Employment V2 Data entity looks like this:
-
-
-
-
-The fields within the mapping of the Employment V2 data entity include: 
-
-
-CalendarID
-DimensionDisplayValue
-EmploymentEndDate
-EmploymentStartDate
-LegalEntityID
-PersonnelNumber
-RegulatoryEstablishmentID
-WorkerType
-
-
-
-Depending on your setup, the data within the Employment V2 data entity can be as simple as this screenshot. 
-
-
-
-Once the Employment V2 data entity is imported, the Worker records will become active in the Human resources > Workers > Workers view in the Dynamics 365 Human Resources module.]]></summary>
         <author>
             <name>D365FandO(m)</name>
         </author>
