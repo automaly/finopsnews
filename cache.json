@@ -1139,7 +1139,7 @@
       ]
     },
     {
-      "title": "Azure Integration services for Dynamics 365",
+      "title": "Azure Integration services",
       "feedUrl": "https://azureintegrations.com/feed/",
       "siteUrl": "https://azureintegrations.com",
       "articles": [
@@ -1420,6 +1420,91 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=106691",
+          "author": "Mekorma",
+          "description": "Overcoming the Hurdles of Manual Payment Processes A prominent operator of senior living facilities in the US found itself grappling with the inefficiencies of manual check processing. Spanning over 100 […]\nThe post Revolutionizing Microsoft Dynamics Accounts Payable in Senior Living Management appeared first on ERP Software Blog.\nThe Important Business Function Your ERP System CAN'T Do\nHow Digital Marketing Creates Attraction for eCommerce Sellers?\n24/7 Self Service Access | Customers & Vendors Update Their Microsoft Dynamics Record",
+          "link": "https://erpsoftwareblog.com/2024/05/revolutionizing-microsoft-dynamics-accounts-payable-in-senior-living-management/",
+          "publishedOn": "2024-05-13T21:30:47.000Z",
+          "wordCount": 5354,
+          "title": "Revolutionizing Microsoft Dynamics Accounts Payable in Senior Living Management",
+          "enclosure": {
+            "url": "https://erpsoftwareblog.com/wp-content/uploads/source.mp4",
+            "length": "17013082",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Senior-living.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106556",
+          "author": "Alta Vista Technology",
+          "description": "Benefits come with updating from Dynamics' legacy on-premises ERP to Microsoft's modern, full-function, cloud-based solution. Dynamics 365 Business Central is a great idea when the time is right. Is this […]\nThe post Microsoft Dynamics 365 Business Central: Is It Time to Upgrade? appeared first on ERP Software Blog.\nImplementing Microsoft Business Central Tips\nConnect your Company with Microsoft Business Central\nHow to Use Dynamics Business Central and the Microsoft 365 Stack",
+          "link": "https://erpsoftwareblog.com/2024/05/microsoft-dynamics-365-business-central-is-it-time-to-upgrade/",
+          "publishedOn": "2024-05-13T18:43:01.000Z",
+          "wordCount": 5532,
+          "title": "Microsoft Dynamics 365 Business Central: Is It Time to Upgrade?",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2024-05-Microsoft-Dynamics-365-Business-Central-Is-It-Time-to-Upgrade_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106677",
+          "author": "EthoTech",
+          "description": "Struggling with Dynamics GP Variable Compensation? Here's Why. Microsoft Dynamics GP is a great ERP, but it does not have great built-in capabilities for calculating commissions, royalties, and rebates. The largest issue […]\nThe post 19 Limitations in Microsoft Dynamics GP Variable Compensation Capabilities appeared first on ERP Software Blog.\nThe Evolution of Scheduling for Process Manufacturers\nAnother Upgrade Already? A Guide on Which Dynamics GP Upgrade is Right for You\nTrack Capital Projects for Microsoft Dynamics GP with Ariett Contract Management",
+          "link": "https://erpsoftwareblog.com/2024/05/19-limitations-in-microsoft-dynamics-gp-variable-compensation-capabilities/",
+          "publishedOn": "2024-05-13T14:02:12.000Z",
+          "wordCount": 5807,
+          "title": "19 Limitations in Microsoft Dynamics GP Variable Compensation Capabilities",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-Variable-Compensation.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106668",
+          "author": "DynaTech Systems",
+          "description": "Today, the symbiotic relationship between Enterprise Resource Planning (ERP) systems and e-commerce platforms stands out as a cornerstone of modern business operations.   According to Statista, global e-commerce sales are […]\nThe post Unveiling the Synergy of ERP Integration and E-commerce: Maximizing Business Potential appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Call Center Sales Functionality - A Complete Game Changer for Your Enterprise\nThe Top 6 Benefits of B2B E-Commerce Done Right\nMicrosoft Dynamics 365 Commerce | Overview and Insights",
+          "link": "https://erpsoftwareblog.com/2024/05/unveiling-the-synergy-of-erp-integration-and-e-commerce-maximizing-business-potential/",
+          "publishedOn": "2024-05-13T12:12:20.000Z",
+          "wordCount": 5986,
+          "title": "Unveiling the Synergy of ERP Integration and E-commerce: Maximizing Business Potential",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Unveiling-the-Synergy-of-ERP-Integration-and-E-commerce-Maximizing-Business-Potential-01-scaled.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106671",
+          "author": "MetaOption LLC",
+          "description": "In today’s manufacturing business landscape, competition is fierce. Manufacturers are constantly pressured to reduce costs, improve efficiency, and meet ever-changing customer demands. This is where a robust Enterprise Resource Planning (ERP) […]\nThe post Grow Your Manufacturing Business with Dynamics 365 Business Central appeared first on ERP Software Blog.\nRole of Cloud ERP Solution for Small Businesses in 2023\nManufacturers: Select between Business Central Premium and Essential Licensing\nHow to Upgrade Dynamics NAV to Business Central in 2023?",
+          "link": "https://erpsoftwareblog.com/2024/05/grow-your-manufacturing-business-with-dynamics-365-business-central/",
+          "publishedOn": "2024-05-13T11:22:40.000Z",
+          "wordCount": 5100,
+          "title": "Grow Your Manufacturing Business with Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-136.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106321",
+          "author": "Insight Works",
+          "description": "Insight Works to showcase end-to-end barcoding solutions for Dynamics 365 Business Central at DynamicsMinds 2024 in Portorož, Slovenia, from May 27-29, 2024.\nThe post Insight Works Announces Sponsorship of DynamicsMinds 2024 Conference appeared first on ERP Software Blog.\nDo All Manufacturers Need the Extended Pack in Dynamics GP?\n4 Things To Do After GPUG Summit 2016\n5 Tips for Designing Dynamics GP Integrations",
+          "link": "https://erpsoftwareblog.com/2024/05/insight-works-announces-sponsorship-of-dynamicsminds-2024-conference/",
+          "publishedOn": "2024-05-13T10:20:12.000Z",
+          "wordCount": 5163,
+          "title": "Insight Works Announces Sponsorship of DynamicsMinds 2024 Conference",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/DynamicsMinds-logotype-color1000x1000.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106478",
+          "author": "SmartBOL",
+          "description": "Are you looking for a one-stop-shop to find, purchase, and manage SmartBOL? Look no further than the Microsoft commercial marketplace, a cloud-based marketplace that offers a streamlined procurement process for […]\nThe post SmartBOL Cloud for Business Central is now live in the Microsoft Commercial Marketplace appeared first on ERP Software Blog.\nTop 5 Microsoft Dynamics 365 Business Central Features\nCase study: From often late to 80% on-time deliveries\nHow to Start Digital Transformation with Microsoft Solutions & Infrastructure with ONE Partner",
+          "link": "https://erpsoftwareblog.com/2024/05/smartbol-cloud-for-business-central-is-now-live-in-the-microsoft-commercial-marketplace/",
+          "publishedOn": "2024-05-13T10:16:38.000Z",
+          "wordCount": 4835,
+          "title": "SmartBOL Cloud for Business Central is now live in the Microsoft Commercial Marketplace",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106665",
+          "author": "DAX Software Solutions",
+          "description": "Technology has become an indispensable tool for businesses, particularly in the eCommerce industry. As online shopping continues to soar in popularity, companies are constantly seeking powerful solutions to streamline their […]\nThe post Microsoft Dynamics 365 for eCommerce Businesses: A Complete Guide appeared first on ERP Software Blog.\nSolving Wholesale E-Commerce Challenges: Century Martial Arts [Case Study]\nHow to build a better B2B eCommerce customer experience\nAre You Ready to Embrace the Omnichannel Revolution?",
+          "link": "https://erpsoftwareblog.com/2024/05/microsoft-dynamics-365-for-ecommerce-businesses-a-complete-guide/",
+          "publishedOn": "2024-05-13T07:41:09.000Z",
+          "wordCount": 6077,
+          "title": "Microsoft Dynamics 365 for eCommerce Businesses: A Complete Guide",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=106622",
           "author": "Axtension",
@@ -8164,6 +8249,86 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/2024-may-dc-chapter-meeting",
+          "author": "Kylie Kiser",
+          "description": "Class was in session at the 2024 May DC Chapter Meeting! Let’s quickly recap the 2024 May DC Chapter Meeting! Approvals Kit Are you working with Power Automate approvals? You […]",
+          "link": "https://365community.online/2024-may-dc-chapter-meeting",
+          "publishedOn": "2024-05-13T15:03:00.000Z",
+          "wordCount": 3195,
+          "title": "2024 May DC Chapter Meeting",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/1715621532_2024-May-DC-Chapter-Meeting.png?fit=1023%2C575&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-analyze-telemetry-events-across-browser-and-server-for-a-session-or-user",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-analyze-telemetry-events-across-browser-and-server-for-a-session-or-user",
+          "publishedOn": "2024-05-13T14:00:00.000Z",
+          "wordCount": 3331,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Analyze Telemetry Events Across Browser and Server for a Session or User",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/dynamics-365-business-central-clarifications-on-changing-the-identity-of-an-app",
+          "author": "Stefano Demiliani",
+          "description": "When talking with some partners trying to approach the AppSource marketplace during the last week, I’ve discovered that for many the extension’s identity rules are not clear. Lots of them […]",
+          "link": "https://365community.online/dynamics-365-business-central-clarifications-on-changing-the-identity-of-an-app",
+          "publishedOn": "2024-05-13T13:56:47.000Z",
+          "wordCount": 3281,
+          "title": "Dynamics 365 Business Central: clarifications on changing the identity of an app.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/Dynamics-365-Business-Central-clarifications-on-changing-the-identity-of.png?fit=1200%2C244&ssl=1"
+        },
+        {
+          "id": "https://365community.online/maximize-dynamics-365-crm-data-quality-with-new-features-of-inogics-de-duplicate-app",
+          "author": "Inogic",
+          "description": "Duplicate records in Dynamics 365 CRM can lead to problems like data inconsistency, confusion among users, poor customer experience, and inaccurate reporting and analytics. Therefore, organizations must implement robust deduplication […]",
+          "link": "https://365community.online/maximize-dynamics-365-crm-data-quality-with-new-features-of-inogics-de-duplicate-app",
+          "publishedOn": "2024-05-13T11:42:51.000Z",
+          "wordCount": 3529,
+          "title": "Maximize Dynamics 365 CRM Data Quality with New Features of Inogic’s de-duplicate App!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/Inogic-Impactful.-Intelligent.-Innovative-3.png?fit=1200%2C686&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-define-tooltips-on-table-fields",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-define-tooltips-on-table-fields",
+          "publishedOn": "2024-05-13T10:00:54.000Z",
+          "wordCount": 3305,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Define Tooltips on Table Fields",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/a-guide-to-location-intelligence-for-c-suite-leaders-in-microsoft-dynamics-365",
+          "author": "Inogic",
+          "description": "In today’s dynamic business environment, data-driven decision-making is no longer a luxury, it’s a necessity. For C-suite executives, navigating complex challenges and formulating winning strategies requires a comprehensive understanding of […]",
+          "link": "https://365community.online/a-guide-to-location-intelligence-for-c-suite-leaders-in-microsoft-dynamics-365",
+          "publishedOn": "2024-05-13T09:48:49.000Z",
+          "wordCount": 3458,
+          "title": "A Guide to Location Intelligence for C-Suite Leaders in Microsoft Dynamics 365",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/Inogic-Impactful.-Intelligent.-Innovative-4.png?fit=1200%2C686&ssl=1"
+        },
+        {
+          "id": "https://365community.online/hey-chatgpt-talk-to-me-business-central-integration-unleashed",
+          "author": "Saurav Dhyani",
+          "description": "Hi Readers, Chat GPT is part of everyone’s line. In this series of 4 videos, we will try to analyze How we can utilize power of Chat GPT with Business […]",
+          "link": "https://365community.online/hey-chatgpt-talk-to-me-business-central-integration-unleashed",
+          "publishedOn": "2024-05-13T05:30:00.000Z",
+          "wordCount": 3214,
+          "title": "Hey ChatGPT, Talk to Me! Business Central Integration Unleashed.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/Hey-ChatGPT-Talk-to-Me-Business-Central-Integration-Unleashed.jpeg?fit=480%2C360&ssl=1"
+        },
+        {
+          "id": "https://365community.online/sc-100-design-solutions-that-align-with-security-best-practices-youtube",
+          "author": "shabaz darr",
+          "description": "In this video, we’ll cover the basics of Zero Trust and best practice frameworks for designing secure solutions. Learn how to align your designs with security priorities! Episode Breakdown: 00:00 […]",
+          "link": "https://365community.online/sc-100-design-solutions-that-align-with-security-best-practices-youtube",
+          "publishedOn": "2024-05-12T19:00:04.000Z",
+          "wordCount": 3188,
+          "title": "SC-100 Design solutions that align with security best practices – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/1715598817_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
         {
           "id": "https://365community.online/maximizing-efficiency-with-global-variables-in-postman-api-testing",
           "author": "Rehan Khan",
@@ -19148,6 +19313,16 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=6171",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2024/05/13/adjust-other-d365-copilots-in-copilot-studio/",
+          "publishedOn": "2024-05-13T04:13:45.000Z",
+          "wordCount": 3338,
+          "title": "Adjust other D365 copilots in Copilot Studio",
+          "imageUrl": "https://dynamicsaxfico.files.wordpress.com/2024/05/english.png"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=5823",
           "author": "Ludwig Reinhard",
           "description": "[German Language Podcast] In diesem Podcast sprechen wir mit Christian Schmidt von der Cosmo Consult in Berlin. Christian berichtet uns …\nContinue reading →",
@@ -21581,6 +21756,26 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/05/13/empower-agents-to-draft-case-based-knowledge-articles-with-copilot/",
+          "author": "Mohit Shukla",
+          "description": "Agents can use Copilot to generate a knowledge draft based on case data including case descriptions, email exchanges, summaries, and agent notes.\nThe post Empower agents to draft case-based knowledge articles with Copilot appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2024/05/13/empower-agents-to-draft-case-based-knowledge-articles-with-copilot/",
+          "publishedOn": "2024-05-13T16:00:00.000Z",
+          "wordCount": 2955,
+          "title": "Empower agents to draft case-based knowledge articles with Copilot",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2014/07/7245.knowledgemanagement.jpg"
+        },
+        {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/05/13/work-smarter-with-microsoft-copilot-in-dynamics-365-business-central/",
+          "author": "Mike Morton",
+          "description": "In the quickly changing world of AI, Microsoft Dynamics 365 Business Central is leading the way with innovations that have equipped more than 30,000 small and medium-sized businesses to succeed. Powered by next-generation AI, Microsoft Copilot in Dynamics 365 Business Central introduces new ways to streamline workflows, boost productivity, and unlock creativity.\nThe post Work smarter with Microsoft Copilot in Dynamics 365 Business Central appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/bdm/2024/05/13/work-smarter-with-microsoft-copilot-in-dynamics-365-business-central/",
+          "publishedOn": "2024-05-13T15:00:00.000Z",
+          "wordCount": 3780,
+          "title": "Work smarter with Microsoft Copilot in Dynamics 365 Business Central",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/05/MSFT_D365_MAY11_340191_Blog_BlogHeader_240511_V1_1200.png"
+        },
         {
           "id": "https://blogs.microsoft.com/blog/2024/05/08/microsoft-and-linkedin-release-the-2024-work-trend-index-on-the-state-of-ai-at-work/",
           "author": "Jared Spataro",
