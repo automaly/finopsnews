@@ -2,10 +2,186 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-05-14T00:40:41.212Z</updated>
+    <updated>2024-05-15T00:40:33.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Turn on failed or You need a Microsoft Dynamics 365 license to continue error while trying to Activate a Workflow – Dynamics 365 / Dataverse]]></title>
+        <id>https://365community.online/turn-on-failed-or-you-need-a-microsoft-dynamics-365-license-to-continue-error-while-trying-to-activate-a-workflow-dynamics-365-dataverse</id>
+        <link href="https://365community.online/turn-on-failed-or-you-need-a-microsoft-dynamics-365-license-to-continue-error-while-trying-to-activate-a-workflow-dynamics-365-dataverse"/>
+        <updated>2024-05-14T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently while trying to Activate a Workflow we got the below error – Turn on failed. The user with SystemUserId=f02934fa-483e-eb11-bf70-000d3a795b83 in OrganizationContext=37c5705b-a88f-4f40-b654-7bab4d5c1f95 is not licensed. Please contact your system administrator […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Level Up Your Reporting: Unleash the Power of Excel Report Layouts in Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=106711</id>
+        <link href="https://erpsoftwareblog.com/2024/05/power-of-excel-report-layouts-in-business-central/"/>
+        <updated>2024-05-14T17:57:39.000Z</updated>
+        <summary type="html"><![CDATA[Are you tired of static, one-dimensional Microsoft Dynamics 365 Business Central reports? Do you crave a way to transform data into visually engaging and interactive reports? Well, fret no more! Excel […]
+The post Level Up Your Reporting: Unleash the Power of Excel Report Layouts in Business Central appeared first on ERP Software Blog.
+Harnessing Business Intelligence: Power BI Integration in Business Central
+Get Valuable Business Insights with Power BI Integration in Business Central
+Next-Gen Solutions: Exploring the Benefits of Business Central Over Dynamics NAV]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NAV to Dynamics 365 Business Central technical upgrade guide]]></title>
+        <id>https://erpsoftwareblog.com/?p=106696</id>
+        <link href="https://erpsoftwareblog.com/2024/05/nav-to-dynamics-365-business-central-technical-upgrade/"/>
+        <updated>2024-05-14T14:57:47.000Z</updated>
+        <summary type="html"><![CDATA[A technical upgrade from NAV to Dynamics 365 Business Central is a critical process for businesses seeking modernized, cloud-based solutions for their ERP systems. The upgrade pathway varies depending on […]
+The post NAV to Dynamics 365 Business Central technical upgrade guide appeared first on ERP Software Blog.
+Dynamics NAV to Business Central Migration: Top 7 Benefits
+Microsoft Dynamics ERP for Distribution/Manufacturing Industry
+Case Study: Embracing ClickLearn as a corporate Dynamics 365 training platform]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 Petty cash review]]></title>
+        <id>https://erconsult.eu/?p=8196</id>
+        <link href="https://erconsult.eu/blog/d365-petty-cash-review/"/>
+        <updated>2024-05-14T14:48:27.000Z</updated>
+        <summary type="html"><![CDATA[Today, I revisit a project of my youth: the Petty Cash addon for D365FO. Born in 2002 and finally released globally in version 10.0.40, its utility seems limited in Western Europe, where separate bank accounts suffice. However, in Eastern Europe and industries like construction, it still holds relevance.
+The post D365 Petty cash review appeared first on ER-Consult.]]></summary>
+        <author>
+            <name>Eugen Glasow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamline Your Shipping with MetaShip's Business Central Integration]]></title>
+        <id>https://erpsoftwareblog.com/?p=106697</id>
+        <link href="https://erpsoftwareblog.com/2024/05/streamline-your-shipping-with-metaships-business-central-integration/"/>
+        <updated>2024-05-14T14:46:51.000Z</updated>
+        <summary type="html"><![CDATA[In today’s competitive e-commerce landscape, efficient shipping operations are no longer a luxury, they’re a necessity. Customers expect fast, affordable delivery, and businesses need to find ways to fulfill those […]
+The post Streamline Your Shipping with MetaShip's Business Central Integration appeared first on ERP Software Blog.
+Scalable Solutions: How Business Central Warehouse Management adapts to growing businesses
+Revolutionize Your Shipping Experience with MetaShip for Business Central
+Reducing Warehouse Disruptions with Cycle Counting: Strategies for Success]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Experience the New Embedded AppSource Marketplace Page]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-experience-the-new-embedded-appsource-marketplace-page</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-experience-the-new-embedded-appsource-marketplace-page"/>
+        <updated>2024-05-14T14:00:39.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Infuse any AI solution with your enterprise data, prompts and plugins]]></title>
+        <id>infuse-any-ai-solution-with-your-enterprise-data-prompts-and-plugins</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/infuse-any-ai-solution-with-your-enterprise-data-prompts-and-plugins/"/>
+        <updated>2024-05-14T13:42:36.000Z</updated>
+        <summary type="html"><![CDATA[AI models are improving rapidly, and customers need effective tools to integrate AI into their business solutions that provide precise, reliable and consistent information, and are easy to deploy. Today we are happy to announce our latest improvements to help makers integrate AI into their low-code apps and solutions. Now available as Public Preview in Microsoft Copilot Studio, data grounding with Dataverse tables allows makers to create powerful AI prompts that are grounded with their enterprise data while enforcing real time enterprise security. Additionally, we are excited to announce that low-code plugins now support five new AI Power Fx functions, and share  how Capgemini New Zealand, a global leader in consulting, technology services and digital transformation, is leveraging these new capabilities to create value for their clients and solve business problems faster than ever before.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dataverse REST Builder and the Hidden Gems]]></title>
+        <id>https://365community.online/dataverse-rest-builder-and-the-hidden-gems</id>
+        <link href="https://365community.online/dataverse-rest-builder-and-the-hidden-gems"/>
+        <updated>2024-05-14T12:02:17.000Z</updated>
+        <summary type="html"><![CDATA[Written by wilmeralcivar88@gmail.com The Dataverse REST Builder, a crucial tool in XRMToolbox, enables creating and executing requests against the Dataverse Web API endpoint, invaluable for consultants who need to call […]]]></summary>
+        <author>
+            <name>Wilmer Alcivar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s New in 2024 Release Wave 1 for Dynamics 365]]></title>
+        <id>https://www.encorebusiness.com/?p=62119</id>
+        <link href="https://www.encorebusiness.com/blog/whats-new-in-2024-release-wave-1-for-dynamics-365/"/>
+        <updated>2024-05-14T11:13:24.000Z</updated>
+        <summary type="html"><![CDATA[What’s New in 2024 Release Wave 1 for Dynamics 365
+Dynamics 365’s 2024 release wave 1 has many new features and other changes for Dynamics 365 Business Central, Dynamics 365 Finance & Operations, and the CRM applications (like Dynamics 365 Sales). For each product, some of the improvements have to do with Copilot AI functionality, while others have to do with adding automations, improved tracking,...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>The Encore Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlock the Potential of Microsoft Dynamics 365 at Directions Asia 2024]]></title>
+        <id>https://365community.online/unlock-the-potential-of-microsoft-dynamics-365-at-directions-asia-2024</id>
+        <link href="https://365community.online/unlock-the-potential-of-microsoft-dynamics-365-at-directions-asia-2024"/>
+        <updated>2024-05-14T10:16:46.000Z</updated>
+        <summary type="html"><![CDATA[Are you ready for Directions Asia 2024? Directions Asia 2024 poised to be a significant conference for those in the SMB market, focusing on the latest advancements in ERP, CRM, […]]]></summary>
+        <author>
+            <name>Amol Salvi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Send Push Notifications using Power Automate – YouTube]]></title>
+        <id>https://365community.online/send-push-notifications-using-power-automate-youtube</id>
+        <link href="https://365community.online/send-push-notifications-using-power-automate-youtube"/>
+        <updated>2024-05-14T10:15:50.000Z</updated>
+        <summary type="html"><![CDATA[Send Push Notifications using Power Automate source]]></summary>
+        <author>
+            <name>Deepesh Somani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simplify ‘Multilingual Support’ using Dataverse and AI-Translate in Canvas Apps]]></title>
+        <id>https://365community.online/simplify-multilingual-support-using-dataverse-and-ai-translate-in-canvas-apps</id>
+        <link href="https://365community.online/simplify-multilingual-support-using-dataverse-and-ai-translate-in-canvas-apps"/>
+        <updated>2024-05-14T10:11:25.000Z</updated>
+        <summary type="html"><![CDATA[As I work on an enterprise canvas app designed for multiple geographies, translation becomes a crucial aspect due to its support for multiple languages. Initially, I followed the method outlined […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Use Premium License to Sign In to Environment with Essentials Licenses]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-use-premium-license-to-sign-in-to-environment-with-essentials-licenses</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-use-premium-license-to-sign-in-to-environment-with-essentials-licenses"/>
+        <updated>2024-05-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create ASP.NET Core MVC Application| ASP.NET CORE – YouTube]]></title>
+        <id>https://365community.online/how-to-create-asp-net-core-mvc-application-asp-net-core-youtube</id>
+        <link href="https://365community.online/how-to-create-asp-net-core-mvc-application-asp-net-core-youtube"/>
+        <updated>2024-05-14T08:00:33.000Z</updated>
+        <summary type="html"><![CDATA[How to Create ASP.NET Core MVC Application| ASP.NET CORE Welcome to our YouTube channel dedicated to mastering ASP.NET Core MVC! Whether you’re a beginner looking to learn the fundamentals or […]]]></summary>
+        <author>
+            <name>Sourav Raj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Inline Conditions In Email Subjects -Customer Insights Journeys]]></title>
+        <id>https://365community.online/using-inline-conditions-in-email-subjects-customer-insights-journeys</id>
+        <link href="https://365community.online/using-inline-conditions-in-email-subjects-customer-insights-journeys"/>
+        <updated>2024-05-14T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[There are so many options in Realtime Marketing emails for creating conditional and personalised content. Most of it is pretty easy to add, and a few clicks of buttons and […]]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlocking Efficiency: Using ChatGPT’s New Model with Business Central]]></title>
+        <id>https://365community.online/unlocking-efficiency-using-chatgpts-new-model-with-business-central</id>
+        <link href="https://365community.online/unlocking-efficiency-using-chatgpts-new-model-with-business-central"/>
+        <updated>2024-05-14T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi Readers, Chat GPT is part of everyone’s line. In this series of 4 videos, we will try to analyze How we can utilize power of Chat GPT with Business […]]]></summary>
+        <author>
+            <name>Saurav Dhyani</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Revolutionizing Microsoft Dynamics Accounts Payable in Senior Living Management]]></title>
         <id>https://erpsoftwareblog.com/?p=106691</id>
