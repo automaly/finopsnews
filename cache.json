@@ -1421,6 +1421,56 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=106772",
+          "author": "Andrew King, WebSan Solutions, Inc.",
+          "description": "As a manager, you implemented Dynamics 365 Business Central to streamline operations and empower your team. But lately, a nagging question lingers: Is Business Central working for everyone? Low adoption […]\nThe post Boost Business Central User Satisfaction: The Free App That Breaks the Silence appeared first on ERP Software Blog.\nOvercoming Time Tracking Challenges with TiM and Dynamics 365\nField Monitoring in D365 Business Central Provides Alerts and Enhanced Change Log Tracking\nBenefits of Email Automation in Business Central",
+          "link": "https://erpsoftwareblog.com/2024/05/boost-business-central-user-satisfaction-the-free-app-that-breaks-the-silence/",
+          "publishedOn": "2024-05-15T19:16:41.000Z",
+          "wordCount": 5163,
+          "title": "Boost Business Central User Satisfaction: The Free App That Breaks the Silence",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Blog-Banner-Title-625x167.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=103468",
+          "author": "CAL Business Solutions, Inc.",
+          "description": "If you want to stay ahead of the competition in today’s dynamic business world, you need to have software solutions that work well together. Microsoft Dynamics 365 Business Central is […]\nThe post The Power of Integration: Boosting Your Business appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve\nGet More in the Cloud with Dynamics 365 Business Central\nDynamics Business Central vs Acumatica - Which is the Best ERP Fit for Your SMB Business?",
+          "link": "https://erpsoftwareblog.com/2024/05/the-power-of-integration-boosting-your-business/",
+          "publishedOn": "2024-05-15T17:42:03.000Z",
+          "wordCount": 5359,
+          "title": "The Power of Integration: Boosting Your Business",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/The-Power-of-Integration-Boosting-Your-Business.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106602",
+          "author": "Western Computer",
+          "description": "Founded in 1996, Heathrow Scientific has been at the forefront of manufacturing innovative laboratory equipment. Their products are essential in various sectors, including life sciences, clinical applications, and academic research. […]\nThe post Dynamics 365 Business Central for Manufacturing  Decreases Order Processing Time and Improves Production appeared first on ERP Software Blog.\nStrategic Mindset for a Successful ERP implementation\nDiesel Firm Fuels Its Business Capabilities with Microsoft Dynamics 365 Business Central\nWhy a Broadcasting Company Is On Cloud-Nine with Microsoft Dynamics 365 Business Central",
+          "link": "https://erpsoftwareblog.com/2024/05/dynamics-365-business-central-for-manufacturing-decreases-order-processing-time-and-improves-production/",
+          "publishedOn": "2024-05-15T17:40:57.000Z",
+          "wordCount": 5479,
+          "title": "Dynamics 365 Business Central for Manufacturing  Decreases Order Processing Time and Improves Production",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2024-05-ERP-Dynamics-365-Business-Central-for-Manufacturing-Decreases-Order-Processing-Time-and-Improves-Production_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106207",
+          "author": "Express Info",
+          "description": "When considering a new or updated ERP (Enterprise Resource Planning), selecting both the system and the implementation partner (also referred to as a Value-Added Reseller or VAR) is critical and […]\nThe post The VAR is as Important as the ERP appeared first on ERP Software Blog.\nSolutions Not Systems — Why Buyers Need to Put Business Challenges before Software Requirements\n4 reasons why leading rental firms are so successful\nInsight Works Welcomes Donovan and Associates Consulting Into the Burgeoning Partner Program Fold",
+          "link": "https://erpsoftwareblog.com/2024/05/the-var-is-as-important-as-the-erp/",
+          "publishedOn": "2024-05-15T17:16:27.000Z",
+          "wordCount": 5802,
+          "title": "The VAR is as Important as the ERP",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/9-VAR-questions.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106757",
+          "author": "GP Support North",
+          "description": "Microsoft Copilot for Dynamics GP, wow we thought Dynamics GP (Great Plains) would be left behind, but with synchronizing your data to the Vena FP&A cloud you can now use the Vena Copilot for AI powered analysis.\nThe post Using Microsoft AI with Dynamics GP (Great Plains) Data appeared first on ERP Software Blog.\nThe Role Change Management Plays within Your Dynamics GP Project\nWe love Dynamics GP - Stay on GP - Follow our new YouTube Channel\nHappy Holidays From GP Support North, Endeavour and PurelyCRM",
+          "link": "https://erpsoftwareblog.com/2024/05/microsoft-copilot-for-dynamics-gp-data/",
+          "publishedOn": "2024-05-15T14:01:23.000Z",
+          "wordCount": 5976,
+          "title": "Using Microsoft AI with Dynamics GP (Great Plains) Data",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Vena-Copilot-for-Dynamics-GP-AI.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=106711",
           "author": "MetaOption LLC",
           "description": "Are you tired of static, one-dimensional Microsoft Dynamics 365 Business Central reports? Do you crave a way to transform data into visually engaging and interactive reports? Well, fret no more! Excel […]\nThe post Level Up Your Reporting: Unleash the Power of Excel Report Layouts in Business Central appeared first on ERP Software Blog.\nHarnessing Business Intelligence: Power BI Integration in Business Central\nGet Valuable Business Insights with Power BI Integration in Business Central\nNext-Gen Solutions: Exploring the Benefits of Business Central Over Dynamics NAV",
@@ -8290,6 +8340,76 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-enhancements-to-the-user-experience",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-enhancements-to-the-user-experience",
+          "publishedOn": "2024-05-15T14:00:55.000Z",
+          "wordCount": 3301,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Enhancements to the User Experience",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/1715791342_New-Functionality-In-Microsoft-Dynamics-365-Business-Central-2024-Wave.png?fit=503%2C366&ssl=1"
+        },
+        {
+          "id": "https://365community.online/understanding-privilege-check-and-shared-access-in-dataverse-dynamics-365",
+          "author": "Nishant Rana",
+          "description": "Let us understand this with a simple example. We have the following 2 custom tables having a 1 – N relationship. Project (1-n) Artefact. The relationship behavior is Custom with […]",
+          "link": "https://365community.online/understanding-privilege-check-and-shared-access-in-dataverse-dynamics-365",
+          "publishedOn": "2024-05-15T13:48:25.000Z",
+          "wordCount": 3295,
+          "title": "Understanding Privilege Check and Shared Access in Dataverse / Dynamics 365",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/Understanding-Privilege-Check-and-Shared-Access-in-Dataverse-Dynamics.jpeg?fit=801%2C1199&ssl=1"
+        },
+        {
+          "id": "https://365community.online/effectively-manage-site-security-from-the-power-platform-admin-center",
+          "author": "Inogic",
+          "description": "Introductions: Security is crucial for any website, portal, or application. With the Power Platform Admin Center, you can manage websites within your tenant and access key information. This includes details […]",
+          "link": "https://365community.online/effectively-manage-site-security-from-the-power-platform-admin-center",
+          "publishedOn": "2024-05-15T11:41:26.000Z",
+          "wordCount": 3521,
+          "title": "Effectively manage site security from the Power Platform Admin Center",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/Power-Platform-Admin-Center-1.png?fit=1200%2C554&ssl=1"
+        },
+        {
+          "id": "https://365community.online/a-story-of-dental-traumatology-using-location-data-from-dynamics-365-for-optimal-dental-care",
+          "author": "Inogic",
+          "description": "Dental Traumatology Projects OÜ is on a mission to safeguard dental health, with a particular focus on preventing and mitigating dental trauma. Their dedication extends far beyond the dental chair. […]",
+          "link": "https://365community.online/a-story-of-dental-traumatology-using-location-data-from-dynamics-365-for-optimal-dental-care",
+          "publishedOn": "2024-05-15T10:39:12.000Z",
+          "wordCount": 3471,
+          "title": "A story of Dental Traumatology using Location data from Dynamics 365 for Optimal Dental Care!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/Inogic-Impactful.-Intelligent.-Innovative-6.png?fit=1200%2C686&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-boost-productivity-with-the-modern-action-bar",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-boost-productivity-with-the-modern-action-bar",
+          "publishedOn": "2024-05-15T10:00:17.000Z",
+          "wordCount": 3314,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Boost Productivity With the Modern Action Bar",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/1715775442_New-Functionality-In-Microsoft-Dynamics-365-Business-Central-2024-Wave.png?fit=780%2C417&ssl=1"
+        },
+        {
+          "id": "https://365community.online/effortless-email-body-writing-with-chatgpt-for-business-central",
+          "author": "Saurav Dhyani",
+          "description": "Hi Readers, Chat GPT is part of everyone’s line. In this series of 4 videos, we will try to analyze How we can utilize power of Chat GPT with Business […]",
+          "link": "https://365community.online/effortless-email-body-writing-with-chatgpt-for-business-central",
+          "publishedOn": "2024-05-15T05:30:00.000Z",
+          "wordCount": 3206,
+          "title": "Effortless Email Body Writing with ChatGPT for Business Central.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/Effortless-Email-Body-Writing-with-ChatGPT-for-Business-Central.jpeg?fit=480%2C360&ssl=1"
+        },
+        {
+          "id": "https://365community.online/environment-settings-behavior-preview-feature-in-model-driven-apps",
+          "author": "Arun Potti",
+          "description": "Microsoft has released a new preview feature to show all the Advanced Settings in a new Model-driven App – Power Platform Environment Settings. Note: This feature is available only in […]",
+          "link": "https://365community.online/environment-settings-behavior-preview-feature-in-model-driven-apps",
+          "publishedOn": "2024-05-15T03:59:29.000Z",
+          "wordCount": 3262,
+          "title": "Environment settings behavior (Preview) feature in Model-driven Apps",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/04/power-apps-logo.jpg?fit=900%2C900&ssl=1"
+        },
+        {
           "id": "https://365community.online/turn-on-failed-or-you-need-a-microsoft-dynamics-365-license-to-continue-error-while-trying-to-activate-a-workflow-dynamics-365-dataverse",
           "author": "Nishant Rana",
           "description": "Recently while trying to Activate a Workflow we got the below error – Turn on failed. The user with SystemUserId=f02934fa-483e-eb11-bf70-000d3a795b83 in OrganizationContext=37c5705b-a88f-4f40-b654-7bab4d5c1f95 is not licensed. Please contact your system administrator […]",
@@ -8298,6 +8418,16 @@
           "wordCount": 3339,
           "title": "Turn on failed or You need a Microsoft Dynamics 365 license to continue error while trying to Activate a Workflow – Dynamics 365 / Dataverse",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/Turn-on-failed-or-You-need-a-Microsoft-Dynamics-365.jpeg?fit=800%2C1199&ssl=1"
+        },
+        {
+          "id": "https://365community.online/expert-tips-for-sc-100-microsoft-cyber-security-exam-youtube",
+          "author": "shabaz darr",
+          "description": "Learn about Zero Trust RaMP initiatives and Zero Trust technology pillars in SC 100 Topic 1 Part 2. Discover how these strategies can enhance your cybersecurity efforts. Episode Breakdown – […]",
+          "link": "https://365community.online/expert-tips-for-sc-100-microsoft-cyber-security-exam-youtube",
+          "publishedOn": "2024-05-14T19:00:12.000Z",
+          "wordCount": 3182,
+          "title": "Expert Tips for SC-100 Microsoft Cyber Security Exam – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/1715785582_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         },
         {
           "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-experience-the-new-embedded-appsource-marketplace-page",
@@ -21897,6 +22027,16 @@
       "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
       "articles": [
         {
+          "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/05/14/improved-project-sales-tax-capabilities-now-available/",
+          "author": "ryansandness",
+          "description": "Dynamics 365 Project Operations has made significant improvements to consistently apply tax calculations and expanded support for scenarios including sales tax across the application. \nThe post Improved Project sales tax capabilities now available appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://cloudblogs.microsoft.com/dynamics365/it/2024/05/14/improved-project-sales-tax-capabilities-now-available/",
+          "publishedOn": "2024-05-14T14:19:47.000Z",
+          "wordCount": 3366,
+          "title": "Improved Project sales tax capabilities now available",
+          "imageUrl": "https://cloudblogs.microsoft.com/dynamics365/wp-content/uploads/sites/4/2024/05/CLO22_Retail_008-1024x683.jpg"
+        },
+        {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/05/13/empower-agents-to-draft-case-based-knowledge-articles-with-copilot/",
           "author": "Mohit Shukla",
           "description": "Agents can use Copilot to generate a knowledge draft based on case data including case descriptions, email exchanges, summaries, and agent notes.\nThe post Empower agents to draft case-based knowledge articles with Copilot appeared first on Microsoft Dynamics 365 Blog.",
@@ -26254,6 +26394,16 @@
       "feedUrl": "https://powerautomate.microsoft.com/en-nz/blog/feed/",
       "siteUrl": "https://powerautomate.microsoft.com/en-nz/blog/",
       "articles": [
+        {
+          "id": "embed-workflows-in-your-power-bi-reports-with-power-automate-visual-now-generally-available-2",
+          "author": null,
+          "description": "We are thrilled to announce that the Power Automate visual in Power BI has now reached General Availability (GA)! This is a significant milestone for Power Automate and Power BI users, as it enables them to streamline their workflow and gain valuable insights from their data in a more efficient way.",
+          "link": "https://powerautomate.microsoft.com/en-nz/blog/embed-workflows-in-your-power-bi-reports-with-power-automate-visual-now-generally-available-2/",
+          "publishedOn": "2024-05-14T13:50:00.000Z",
+          "wordCount": 2668,
+          "title": "Embed workflows in your Power BI Reports with Power Automate Visual, now Generally Available",
+          "imageUrl": null
+        },
         {
           "id": "microsoft-named-a-leader-in-the-2024-gartner-magic-quadrant-for-process-mining-platforms",
           "author": null,
