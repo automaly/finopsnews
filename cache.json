@@ -767,6 +767,16 @@
       "siteUrl": "https://d365fotechexpert.blogspot.com/",
       "articles": [
         {
+          "id": "https://d365fotechexpert.blogspot.com/2024/05/db-restore-error-kill-database.html",
+          "author": null,
+          "description": "Error message : Receive the following error while importing a bacpac to a Dev environment\n\n\nError SQL72014: Framework Microsoft SqlClient Data Provider: Msg 4630, Level 16, State 1, Line 1 The permission 'KILL DATABASE CONNECTION' is not supported in this version of SQL Server. Alternatively, use the server level 'ALTER ANY CONNECTION' permission.\nError SQL72045: Script execution error.  The executed script:\nGRANT KILL DATABASE CONNECTION TO [ms_db_configreader];\n\n\n\nSteps to resolve the issue:\nStep 1: \nRename the BACPAC file to .zip\nGo to the folder where you have saved your BACPAC file and rename the BACPAC file with a .zip extension\n\n\n\n\n\n\n\nPress \"Yes\" to convert the .bacpac file to zip file.\n\n\n\nStep 2 : Open zip file ,  \n\n\n\n\nStep 3: Copy the model.xml file into the different location\n\nSt…",
+          "link": "https://d365fotechexpert.blogspot.com/2024/05/db-restore-error-kill-database.html",
+          "publishedOn": "2024-05-16T11:29:00.000Z",
+          "wordCount": 5820,
+          "title": "DB Restore error \"KILL DATABASE CONNECTION' is not supported in this version of SQL Server\".",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhxwXVVx4-rGuPCGBn39x5PxrADjybOugd-AviSVQmRIgoXZ8RAXqRpMvHp-mOOfo_1yKg6tqWY1Ou6OOscUbKTT5BI--njL7tcYIJlS2kmPFAq-jz_1DijlNJAMQcjEj3qZYX29WGO6bEMGRxz3fI76HUZxGLR6cTWRN0zif0FU_QTFJbIbD8uYJQy5h_5=w1200-h630-p-k-no-nu"
+        },
+        {
           "id": "https://d365fotechexpert.blogspot.com/2024/04/how-to-create-filter-on-display-method.html",
           "author": null,
           "description": "Form fields that are based on display methods are not filterable, but in some cases, the client wants those fields filterable. There are two ways to make display fields filterable we will explain on this blog only the best way to do it (use best practice).\n\n\nIn our case Invoice Date field field into project expense journal form, invoice date is comes from projinvoicejour which is not part of our form. for this created view with ProjCostTrans and created method like below to get invoice date.\n\n\npublic class ProjCostTrans extends common\n{\n    private static str expensetransInvoicedate()\n    {\n        str expressionExp = strFmt(\n\n               @\"SELECT TOP 1 PROJINVOICEJOURlocexp.INVOICEDATE\n\n                FROM %1 AS ProjProposalCostLoc\n\n                JOIN %2 AS PROJINVOICEJOURlocexp\n\n                    ON PROJINVOICEJOURlocexp.ProposalId = ProjProposalCostLoc.ProposalId\n\n                     WHERE ProjProposalCostLoc.TransId = %3\",\n            (new SysDictTable(tableNum(ProjProposalCost))).name(DbBackend::Sql),\n            (new SysDictTable(tableNum(PROJINVOICEJOUR))).name(DbBackend::Sql),\n             SysComputedColumn::returnField(tableStr(NAVProjCostTrans), identifierStr(ProjCostTrans), \n            fieldStr(ProjCostTrans, TransId)));\n\n\n        return expressionExp;\n    }\n\n}\n\n\nonce method is completed, add view as data source in expense journal form and drag invoice date filed into grid.",
@@ -1420,6 +1430,96 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=106829",
+          "author": "MetaViewer from Metafile",
+          "description": "No matter if it’s a craft brewery, soft drink enterprise or beverage distributor, efficient supply chain logistics are crucial for top-notch performance. Whether it’s a plethora of suppliers, diverse geography, […]\nThe post Streamlining Supply Chain: The Role of AP Automation in Beverage Industry Logistics appeared first on ERP Software Blog.\n7 Steps to Proving the ROI of AP Automation\n4 Ways AP Automation Can Help Your Business Succeed Post-Pandemic\n5 Reasons Companies Are Automating Accounts Payable",
+          "link": "https://erpsoftwareblog.com/2024/05/streamlining-supply-chain-the-role-of-ap-automation-in-beverage-industry-logistics/",
+          "publishedOn": "2024-05-16T20:22:35.000Z",
+          "wordCount": 5204,
+          "title": "Streamlining Supply Chain: The Role of AP Automation in Beverage Industry Logistics",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/A8x6070x71x1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106819",
+          "author": "Turnkey Technologies, Inc.",
+          "description": "Microsoft has launched transformative upgrades in Dynamics 365 Finance's Release Wave 1, poised to reshape the business landscape in early 2024. These enhancements are more than mere updates; they're revolutionizing […]\nThe post Top 5 Highlights from Dynamics 365 Finance 2024 Release Wave 1 appeared first on ERP Software Blog.\nOvercome Tax Management Challenges by Leveraging Microsoft Dynamics 365 Automation\nJourneyTEAM's Tech Insider Update Webinar May 17th, 2022\nVyas Inside Sales & Counter Sales for D365: The key to provide acceleration to Wholesale Distributors",
+          "link": "https://erpsoftwareblog.com/2024/05/top-5-highlights-from-dynamics-365-finance-release-wave-1-2024/",
+          "publishedOn": "2024-05-16T19:44:23.000Z",
+          "wordCount": 5089,
+          "title": "Top 5 Highlights from Dynamics 365 Finance 2024 Release Wave 1",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106801",
+          "author": "TrinSoft, LLC",
+          "description": "We hope you had the opportunity to attend our recent Supercharge Your Power BI webinar featuring best practices for sharing and publishing reports. In case you didn't, you can catch […]\nThe post On-Demand Webinar: Supercharge Your Power BI appeared first on ERP Software Blog.\nBusiness Development and Construction Management Systems Work Better Together\nField Service vs. DynaRent Mobile: Mobile Apps on Dynamics 365 for Rental Operations\nTo-Increase Launches a Plug-And-Play Analytics Solution for Rental Businesses",
+          "link": "https://erpsoftwareblog.com/2024/05/on-demand-webinar-supercharge-your-power-bi/",
+          "publishedOn": "2024-05-16T17:31:59.000Z",
+          "wordCount": 5507,
+          "title": "On-Demand Webinar: Supercharge Your Power BI",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Power-BI-May-2024-Webinar.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106798",
+          "author": "MetaOption LLC",
+          "description": "In today’s fast-paced business environment, efficient document management is critical to maintaining productivity and organization. MetaDocs, a leading document management solution, offers a suite of features designed to streamline your […]\nThe post Streamline Your Workflow with MetaDocs’ Document Scanning Worksheet appeared first on ERP Software Blog.\nStreamline Your Workflow with MetaDocs: Drag & Drop Documents from Outlook\nHow you can secure your data with Document Management System (DMS)\nTop 5 reasons to move your business to the cloud in 2022",
+          "link": "https://erpsoftwareblog.com/2024/05/streamline-your-workflow-with-metadocs-document-scanning-worksheet/",
+          "publishedOn": "2024-05-16T16:59:34.000Z",
+          "wordCount": 5464,
+          "title": "Streamline Your Workflow with MetaDocs’ Document Scanning Worksheet",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-2-45.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106235",
+          "author": "Vicinity Software",
+          "description": "Dr. Praeger’s Sensible Foods, a leading provider of plant-based frozen food, has carved a niche in the plant-based frozen food industry by offering health-conscious products. The company has built a reputation […]\nThe post Dynamics GP for Food Producers with Vicinity Software appeared first on ERP Software Blog.\nMicrosoft Dynamics GP, NAV and SL Field Service with Smartphones and Tablets\nBusiness Process Automation for Your ERP System\nTime to Upgrade Your TMS or Maybe Move to a New Provider ?",
+          "link": "https://erpsoftwareblog.com/2024/05/dynamics-gp-for-food-producers-with-vicinity-software/",
+          "publishedOn": "2024-05-16T13:44:25.000Z",
+          "wordCount": 5582,
+          "title": "Dynamics GP for Food Producers with Vicinity Software",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2024-05-Food-Manufacturer-Experiences-Productivity-Gains-with-Vicinity-Software-and-Dynamics-GP_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106781",
+          "author": "Dynavision",
+          "description": "The Business Central ISV Podcast - Dynavision In this first edition of the Business Central ISV Podcast, Ingmar Boon (Microsoft) invited Dynavision to talk about to challenges and opportunities an […]\nThe post ISV Business Central Podcast - Challenges & opportunities in the Dynamics space appeared first on ERP Software Blog.\nTop 3 reasons WithoutWire™ (WoW) is Not Your Daddy’s Warehouse Management System (WMS)\nThe Important Business Function Your ERP System CAN'T Do\nCreate a Closed-Loop Analysis, Planning, and Reporting Process",
+          "link": "https://erpsoftwareblog.com/2024/05/isv-business-central-podcast-dynavision/",
+          "publishedOn": "2024-05-16T13:38:37.000Z",
+          "wordCount": 5006,
+          "title": "ISV Business Central Podcast - Challenges & opportunities in the Dynamics space",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynavision_BannerAbstract-Blue.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106704",
+          "author": "Cosmos Data Technologies",
+          "description": "Analysis mode in Microsoft Dynamics 365 Business Central is a standout feature among the platform’s ongoing updates, focused on breaking down data in a new way. Introduced in the spring […]\nThe post Uncovering Analysis Mode in Microsoft Dynamics 365 appeared first on ERP Software Blog.\nHOW DO QUICKBOOKS AND MICROSOFT DYNAMICS 365 BUSINESS CENTRAL COMPARE?\nLearn How To Save Time By Using The \"Cancel\" Option to Reverse A Posted Sales Invoice\n5 Ways Dynamics 365 Business Central Leads to Business Growth",
+          "link": "https://erpsoftwareblog.com/2024/05/microsoft-dynamics-365-analysis-mode/",
+          "publishedOn": "2024-05-16T12:38:44.000Z",
+          "wordCount": 6199,
+          "title": "Uncovering Analysis Mode in Microsoft Dynamics 365",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Cosmos-Blog-Header-BCanalyze.webp"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=103411",
+          "author": "EFOQUS",
+          "description": "With the end of mainstream support for Microsoft Dynamics NAV last year, it's crucial for businesses still using this ERP to transition to Microsoft Dynamics 365 Business Central online. This […]\nThe post Streamlined Migration to Dynamics 365 Business Central Online: Understanding Your Options appeared first on ERP Software Blog.\nDynamics GP to Dynamics 365 Business Central migration\nSteps involves in Dynamics GP to Business Central Migration\nSeamless Transition: Strategies for Successful Dynamics SL to Business Central Data Migration",
+          "link": "https://erpsoftwareblog.com/2024/05/dynamics-365-business-central-migration-options/",
+          "publishedOn": "2024-05-16T12:37:45.000Z",
+          "wordCount": 5309,
+          "title": "Streamlined Migration to Dynamics 365 Business Central Online: Understanding Your Options",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Business-Central-Migration-Options-625x426.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106721",
+          "author": "Insight Works",
+          "description": "The Enhanced Planning Pack for Business Central boosts efficiency by leveraging advanced algorithms and Microsoft's machine learning technology. This suite of apps enhances forecasting, automates inventory metrics, and optimizes vendor and production management, significantly improving operational effectiveness and decision-making capabilities.\nThe post Top 10 Reasons to Integrate the Enhanced Planning Pack for Business Central appeared first on ERP Software Blog.\n10 New Microsoft Partners Join Insight Works in September\nEnhance Shipping Functions in Business Central\nInsight Works Releases Warehouse Insight v2.11 for Dynamics 365",
+          "link": "https://erpsoftwareblog.com/2024/05/top-10-reasons-to-integrate-the-enhanced-planning-pack-for-business-central/",
+          "publishedOn": "2024-05-16T11:03:14.000Z",
+          "wordCount": 5283,
+          "title": "Top 10 Reasons to Integrate the Enhanced Planning Pack for Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Enhanced-Planning-Pack-2000.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=106772",
           "author": "Andrew King, WebSan Solutions, Inc.",
@@ -8339,6 +8439,96 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/tools-can-always-be-improved",
+          "author": "Jonas Rapp ᴹᴠᴾ ??",
+          "description": "While working on the next release, I realized I had to make this tool look better, nicer, and cleaner. I was working to add a few new features, so why […]",
+          "link": "https://365community.online/tools-can-always-be-improved",
+          "publishedOn": "2024-05-16T19:11:21.000Z",
+          "wordCount": 3240,
+          "title": "Tools can always be improved",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/Tools-can-always-be-improved.png?fit=968%2C706&ssl=1"
+        },
+        {
+          "id": "https://365community.online/java-exception-handling-youtube",
+          "author": "Sourav Raj",
+          "description": "Java Exception Handling Welcome to our in-depth tutorial on Java Exception Handling! Whether you’re a beginner or an experienced Java developer, understanding how to handle exceptions effectively is crucial for […]",
+          "link": "https://365community.online/java-exception-handling-youtube",
+          "publishedOn": "2024-05-16T14:38:34.000Z",
+          "wordCount": 3495,
+          "title": "Java Exception Handling – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/1715882766_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-view-two-action-properties-panes-simultaneously",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-view-two-action-properties-panes-simultaneously",
+          "publishedOn": "2024-05-16T14:00:26.000Z",
+          "wordCount": 3287,
+          "title": "New Functionality In Microsoft Power Automate 2024 Wave 1: View Two Action Properties Panes Simultaneously",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/component-lifecycle-hooks-in-angular-angular-tutorial-youtube",
+          "author": "Sourav Raj",
+          "description": "Component Lifecycle Hooks in Angular| Angular Tutorial In this insightful video, we delve into the world of Angular Component Lifecycle Hooks, exploring their significance and how they shape the behavior […]",
+          "link": "https://365community.online/component-lifecycle-hooks-in-angular-angular-tutorial-youtube",
+          "publishedOn": "2024-05-16T13:49:15.000Z",
+          "wordCount": 3459,
+          "title": "Component Lifecycle Hooks in Angular| Angular Tutorial – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/1715897843_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/webinar-%e2%98%81-elevate-document-management-with-new-sharepoint-security-sync-attach2dynamics-features",
+          "author": "Inogic",
+          "description": "Are you ready to take your Dynamics 365 CRM experience to new heights? Inogic’s upcoming webinar promises to revolutionize the way you manage documents and security within your CRM system. […]",
+          "link": "https://365community.online/webinar-%e2%98%81-elevate-document-management-with-new-sharepoint-security-sync-attach2dynamics-features",
+          "publishedOn": "2024-05-16T11:49:12.000Z",
+          "wordCount": 3517,
+          "title": "Webinar ☁ Elevate Document Management with New SharePoint Security Sync & Attach2Dynamics features!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/Blog-Banner.png?fit=1200%2C686&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-create-power-automate-flows-in-excel",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-create-power-automate-flows-in-excel",
+          "publishedOn": "2024-05-16T10:00:31.000Z",
+          "wordCount": 3294,
+          "title": "New Functionality In Microsoft Power Automate 2024 Wave 1: Create Power Automate Flows in Excel",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/wordpress-mobile-app-issue-username-password-isnt-associated-with-this-site",
+          "author": "Megan V. Walker",
+          "description": "Very off-brand with this post, but as usual, if this is something that I had an issue with and took me a while to figure out, I guess it could […]",
+          "link": "https://365community.online/wordpress-mobile-app-issue-username-password-isnt-associated-with-this-site",
+          "publishedOn": "2024-05-16T07:30:00.000Z",
+          "wordCount": 3257,
+          "title": "WordPress Mobile App Issue – Username Password Isn’t Associated With This Site",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/WordPress-Mobile-App-Issue-–-Username-Password-Isnt-Associated-With.jpg?fit=1200%2C800&ssl=1"
+        },
+        {
+          "id": "https://365community.online/data-replication-from-on-premises-to-bc-saas-same-version",
+          "author": "Saurav Dhyani",
+          "description": "Hi Readers, In this video we learned how to copy (replicate) data from Business Central on-prem to Business Central SaaS (Cloud). This video discusses about How to replicate data from […]",
+          "link": "https://365community.online/data-replication-from-on-premises-to-bc-saas-same-version",
+          "publishedOn": "2024-05-16T05:30:00.000Z",
+          "wordCount": 3193,
+          "title": "Data Replication from On-Premises to BC SaaS – Same Version!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/Data-Replication-from-On-Premises-to-BC-SaaS-Same-Version.jpeg?fit=480%2C360&ssl=1"
+        },
+        {
+          "id": "https://365community.online/fixed-dependency-calculation-there-was-an-error-calculating-dependencies-for-this-component-missing-component-id-guid-dataverse-dynamics-365",
+          "author": "Nishant Rana",
+          "description": "Recently while trying to create a new 1-n relationship between 2 newly created custom tables, we got the below error. “There was error calculation dependencies for this component” System.ServiceModel.FaultException`1[Microsoft.Xrm.Sdk.OrganizationServiceFault]: The […]",
+          "link": "https://365community.online/fixed-dependency-calculation-there-was-an-error-calculating-dependencies-for-this-component-missing-component-id-guid-dataverse-dynamics-365",
+          "publishedOn": "2024-05-16T05:16:15.000Z",
+          "wordCount": 3322,
+          "title": "Fixed – Dependency Calculation – There was an error calculating dependencies for this component. Missing component id {GUID} – Dataverse / Dynamics 365",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/Fixed-–-Dependency-Calculation-–-There-was-an-error-calculating.jpeg?fit=800%2C1199&ssl=1"
+        },
         {
           "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-enhancements-to-the-user-experience",
           "author": "Ian Grieve",
@@ -19583,6 +19773,21 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=5969",
+          "author": "Ludwig Reinhard",
+          "description": "[German language podcast] Heute sprechen wir mit Gabriella Kornberger, die als Customer Success Account Managerin bei Microsoft arbeitet und dabei …\nContinue reading →",
+          "link": "https://dynamicsax-fico.com/2024/05/16/microsoft-bizapps-deutschland-podcast-30/",
+          "publishedOn": "2024-05-16T11:54:48.000Z",
+          "wordCount": 3641,
+          "title": "Microsoft BizApps Deutschland Podcast #30",
+          "enclosure": {
+            "url": "https://dynamicsaxfico.files.wordpress.com/2024/03/2024-03-15_gabriella_v2.mp3",
+            "length": "26668769",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://dynamicsax-fico.com/wp-content/uploads/2024/03/neueslinkedinbild.png"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=6171",
           "author": "Ludwig Reinhard",
           "description": "Visit the post for more.",
@@ -24361,6 +24566,16 @@
       "siteUrl": "https://paragchapre.com",
       "articles": [
         {
+          "id": "https://paragchapre.com/?p=13139",
+          "author": "paragchapre@gmail.com",
+          "description": "Cancel all active Power Automate flow runs for a specific version to ensure workflow integrity and avoid complications from outdated configurations.\nThe post Power Automate New Feature: Cancel All Flow Runs for a Version of a Flow appeared first on Parag Chapre.",
+          "link": "https://paragchapre.com/power-automate-cancel-all-runs-version/",
+          "publishedOn": "2024-05-16T07:51:17.000Z",
+          "wordCount": 2240,
+          "title": "Power Automate New Feature: Cancel All Flow Runs for a Version of a Flow",
+          "imageUrl": "https://paragchapre.com/wp-content/uploads/2024/05/Cancel-All-Flow-Runs-for-a-Version-of-a-Flow.png"
+        },
+        {
           "id": "https://paragchapre.com/?p=13036",
           "author": "paragchapre@gmail.com",
           "description": "Discover the latest innovations in Dynamics 365 Finance & Operations: From enhanced data integration to streamlined service updates.\nThe post Exciting Changes in Dynamics 365 Finance and Operations: A Comprehensive Overview appeared first on Parag Chapre.",
@@ -25500,6 +25715,26 @@
       "siteUrl": "https://powerapps.microsoft.com/en-us/blog/",
       "articles": [
         {
+          "id": "announcing-power-platform-well-architected",
+          "author": null,
+          "description": "Announcing Power Platform Well-Architected, a comprehensive framework designed to help you maximize the value of your investments in modern application workloads with Power Platform.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-power-platform-well-architected/",
+          "publishedOn": "2024-05-16T12:25:43.000Z",
+          "wordCount": 2014,
+          "title": "Announcing Power Platform Well-Architected",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
+          "id": "announcing-general-availability-of-environment-groups-and-environment-routing",
+          "author": null,
+          "description": "Environment groups and rules help admins manage multiple environments more effectively by applying consistent policies and settings across them. Admins can group related environments by any criteria and apply six key capabilities of managed environments to all of them. These include setting sharing limits for canvas apps, using AI to generate app and solution summaries, and enforcing best practices with solution checker. This ensures that all environments in a group follow the same standards and reduces the need for manual configuration.\nEnvironment routing directs new makers to their personal developer environments instead of the default one. Personal developer environments are individual workspaces where makers can build apps and solutions using Microsoft Dataverse without interfering with others’ work. Admins don’t have to worry about makers working in the default environment by mistake. Personal developer environments also come with environment-level governance settings, such as sharing limits and solution checker, making it easier for makers and admins to work in Microsoft Power Platform.",
+          "link": "https://powerapps.microsoft.com/en-us/blog/announcing-general-availability-of-environment-groups-and-environment-routing/",
+          "publishedOn": "2024-05-16T01:00:11.000Z",
+          "wordCount": 2221,
+          "title": "Announcing General Availability of environment groups and environment routing",
+          "imageUrl": "https://powerapps.microsoft.com/pictures/shared/social/social-default-image.png"
+        },
+        {
           "id": "infuse-any-ai-solution-with-your-enterprise-data-prompts-and-plugins",
           "author": null,
           "description": "AI models are improving rapidly, and customers need effective tools to integrate AI into their business solutions that provide precise, reliable and consistent information, and are easy to deploy. Today we are happy to announce our latest improvements to help makers integrate AI into their low-code apps and solutions. Now available as Public Preview in Microsoft Copilot Studio, data grounding with Dataverse tables allows makers to create powerful AI prompts that are grounded with their enterprise data while enforcing real time enterprise security. Additionally, we are excited to announce that low-code plugins now support five new AI Power Fx functions, and share  how Capgemini New Zealand, a global leader in consulting, technology services and digital transformation, is leveraging these new capabilities to create value for their clients and solve business problems faster than ever before.",
@@ -26272,16 +26507,6 @@
           "wordCount": 2296,
           "title": "Mobile Workspaces are Being Deprecated",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDhnFMYkJOZrCA_d2hhcs8v_cUhwYpgJ9U2UhLp-pY70PRMACDbm9WqH2UiowC_YoRIj1xgR8YYlbaQKIPOr8svoZtdWkKfX0Eb5DjO2u16MTlT225grByvkednzv3xsPyODpprgYw7c0QoPhlkcNk2RDTZU8dbBZyi6YcGHz45mHAXY4J_Uegs3OR/w1200-h630-p-k-no-nu/2022-06-08_8-02-07.png"
-        },
-        {
-          "id": "https://www.d365fandom.com/2022/05/nsf-payments.html",
-          "author": null,
-          "description": "NSF, or Non-sufficient funds, are payments that have been received that are rejected by the bank as the account tied to the payment does not have sufficient funds to be paid out. These are often referred to as \"bounced checks.\" This blog will detail how to set up and utilize the NSF functionality in Dynamics 365 for Finance to reverse the payment and mark it as NSF.\n\n\n\n\n\n\nSetup - Bank Account\nCash and bank management > Bank accounts > Bank accounts. Open the Bank account where you receive customer payments.\n\n\n\nUpdating the bank account for NSF transactions\n\n\n\n\nSetup - NSF Fee\nAccounts receivable > Setup > Charges setup > Charges code.\n\n\n\n\nAdd a Charges code for NSF\n\n\n\n\nAccounts receivable > Setup > Charges setup > Customer charge groups. This is what gets defined on the bank account.\n\n\nCre…",
-          "link": "https://www.d365fandom.com/2022/05/nsf-payments.html",
-          "publishedOn": "2022-05-17T20:18:00.001Z",
-          "wordCount": 2452,
-          "title": "NSF Payments - The What, Why, and How of NSF in D365 Finance",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjri_lW9oC4R8zioiqLmT_uY1L3z_cFjmOAntdQFLfybt33-iEC6m72OXWA7eSomCcUPJG-UEGp4swpSBYkB8Y6tRIgwixtlWbkbPnPZR356na_M5d0w_9m_BYYobanWx_polNKcq90cHjk25TtJqdgmL3Hin0_tP4grSEuN3hmj7wIBxGoDjYwdFph/w1200-h630-p-k-no-nu/2022-05-17_13-14-08.png"
         }
       ]
     },
