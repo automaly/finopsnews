@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-05-18T00:40:37.015Z</updated>
+    <updated>2024-05-19T00:44:24.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Export Multiple Sheets in Excel from #msdyn365bc]]></title>
+        <id>https://365community.online/export-multiple-sheets-in-excel-from-msdyn365bc</id>
+        <link href="https://365community.online/export-multiple-sheets-in-excel-from-msdyn365bc"/>
+        <updated>2024-05-18T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi Readers, This video discusses how to export multiple excel sheets in excel. This is done via using Excel buffer in business central. The code segment works on on-prem and […]]]></summary>
+        <author>
+            <name>Saurav Dhyani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curso completo Power Apps e SharePoint – Ep. 10 – Criando as tarefas do nosso projeto – YouTube]]></title>
+        <id>https://365community.online/curso-completo-power-apps-e-sharepoint-ep-10-criando-as-tarefas-do-nosso-projeto-youtube</id>
+        <link href="https://365community.online/curso-completo-power-apps-e-sharepoint-ep-10-criando-as-tarefas-do-nosso-projeto-youtube"/>
+        <updated>2024-05-17T23:31:23.000Z</updated>
+        <summary type="html"><![CDATA[Nesse curso vamos aprender os conceitos e vamos criar um projeto do zero utilizando Power Apps e SharePoint. ♐ Adquira meu curso na Udemy e aprenda SharePoint, Power Apps e […]]]></summary>
+        <author>
+            <name>Saulo Soares Oliveira</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Insight Works Expands Global Reach with Seven New Microsoft Partners]]></title>
         <id>https://erpsoftwareblog.com/?p=106851</id>
@@ -128,6 +148,16 @@ Integrate Dynamics GP with leading Storefront Platforms]]></summary>
         <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
         <author>
             <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Manager’s Guide to Location Intelligence in Microsoft Dynamics 365 / Dataverse!]]></title>
+        <id>https://365community.online/a-managers-guide-to-location-intelligence-in-microsoft-dynamics-365-dataverse</id>
+        <link href="https://365community.online/a-managers-guide-to-location-intelligence-in-microsoft-dynamics-365-dataverse"/>
+        <updated>2024-05-17T06:41:22.000Z</updated>
+        <summary type="html"><![CDATA[The life of a manager is a constant balancing act. You juggle team performance, handle client needs, and strategize for the future, all while ensuring efficiency and maximizing results. But […]]]></summary>
+        <author>
+            <name>Inogic</name>
         </author>
     </entry>
     <entry>
