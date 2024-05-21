@@ -1149,7 +1149,7 @@
       ]
     },
     {
-      "title": "Azure Integration services for Dynamics 365",
+      "title": "Azure Integration services",
       "feedUrl": "https://azureintegrations.com/feed/",
       "siteUrl": "https://azureintegrations.com",
       "articles": [
@@ -1430,6 +1430,26 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=106896",
+          "author": "iCepts Technology Group, Inc.",
+          "description": "A Microsoft Business Central FREE WMS program is one of the many available business applications (Apps) through a network of technology partners and is listed on the Microsoft AppSource Marketplace.  […]\nThe post Microsoft Business Central FREE WMS appeared first on ERP Software Blog.\nVideo: Getting Started with Barcode Scanners in Business Central\nOptimize Microsoft Business Central Operations with the Enhanced Planning Pack\nHow Paperless Automation in the Cloud Boosts Business Processes",
+          "link": "https://erpsoftwareblog.com/2024/05/microsoft-business-central-free-wms/",
+          "publishedOn": "2024-05-20T18:50:36.000Z",
+          "wordCount": 5595,
+          "title": "Microsoft Business Central FREE WMS",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Free-WMS-625x417.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106719",
+          "author": "Insight Works",
+          "description": "Insight Works unveiled the Enhanced Planning Pack v3.4 for Microsoft Dynamics 365 Business Central, introducing advanced features that optimize production, routing analysis, forecasting, and ensuring full integration with the latest Business Central 24 update.\nThe post Insight Works Launches Enhanced Planning Pack v3.4 for Microsoft Dynamics 365 Business Central appeared first on ERP Software Blog.\nChoosing the right Inventory Management WMS Supply Chain Platform\n10 New Microsoft Partners Join Insight Works in September\nEnhance Shipping Functions in Business Central",
+          "link": "https://erpsoftwareblog.com/2024/05/insight-works-launches-enhanced-planning-pack-v3-4-for-microsoft-dynamics-365-business-central/",
+          "publishedOn": "2024-05-20T12:01:44.000Z",
+          "wordCount": 5123,
+          "title": "Insight Works Launches Enhanced Planning Pack v3.4 for Microsoft Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Enhanced-Planning-Pack-2000.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=106854",
           "author": "Written by Steve Simon, PDG Consultants, Inc., www.prettydarngood.com.",
@@ -8509,6 +8529,86 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-a-simplified-odata-editor-in-actions-like-get-items-and-get-files",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-a-simplified-odata-editor-in-actions-like-get-items-and-get-files",
+          "publishedOn": "2024-05-20T14:00:35.000Z",
+          "wordCount": 3339,
+          "title": "New Functionality In Microsoft Power Automate 2024 Wave 1: Use a Simplified OData Editor in Actions like Get Items and Get Files",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/integrating-chatbot-preview-control-in-canvas-app-youtube",
+          "author": "Deepesh Somani",
+          "description": "Integrating Chatbot Preview Control in Canvas App source",
+          "link": "https://365community.online/integrating-chatbot-preview-control-in-canvas-app-youtube",
+          "publishedOn": "2024-05-20T12:02:51.000Z",
+          "wordCount": 3120,
+          "title": "Integrating Chatbot Preview Control in Canvas App – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/1716218365_hqdefault.jpg?fit=480%2C360&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-copy-paste-for-container-actions-like-scope-condition-and-apply-to-each",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-copy-paste-for-container-actions-like-scope-condition-and-apply-to-each",
+          "publishedOn": "2024-05-20T10:00:49.000Z",
+          "wordCount": 3335,
+          "title": "New Functionality In Microsoft Power Automate 2024 Wave 1: Use Copy-Paste for Container Actions Like Scope, Condition, and Apply to Each",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/route-optimization-using-maps-with-dynamics-365-for-field-reps-save-time-fuel-and-probably-a-client",
+          "author": "Inogic",
+          "description": "Being punctual for a client meeting is one of the most crucial goals for sales and service field reps. It is a common business problem that field reps spend more […]",
+          "link": "https://365community.online/route-optimization-using-maps-with-dynamics-365-for-field-reps-save-time-fuel-and-probably-a-client",
+          "publishedOn": "2024-05-20T09:44:53.000Z",
+          "wordCount": 3566,
+          "title": "Route Optimization using maps with Dynamics 365 for Field Reps – Save Time, Fuel, and probably a client!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/8.png?fit=1200%2C686&ssl=1"
+        },
+        {
+          "id": "https://365community.online/from-chickens-and-rugby-to-aberdeen-youtube",
+          "author": "Scottish Summit",
+          "description": "his episode we are talking to @garyraife about rugby, chickens and his first time at #ScottishSummit. cottish Summit 2024 is happening on 18th and 19th October at Aberdeen P&J Live. […]",
+          "link": "https://365community.online/from-chickens-and-rugby-to-aberdeen-youtube",
+          "publishedOn": "2024-05-20T09:01:26.000Z",
+          "wordCount": 3135,
+          "title": "From chickens and rugby to Aberdeen – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/maxresdefault_live.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/model-driven-app-advanced-settings-new-look",
+          "author": "Thomas Sandsør",
+          "description": "We all knew it was a matter of time before the old UI would be replaced, and soon we are one major step closer to being rid of everything old […]",
+          "link": "https://365community.online/model-driven-app-advanced-settings-new-look",
+          "publishedOn": "2024-05-20T08:00:00.000Z",
+          "wordCount": 3257,
+          "title": "Model Driven App Advanced Settings – New look",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/Model-Driven-App-Advanced-Settings-–-New-look.gif?fit=632%2C338&ssl=1"
+        },
+        {
+          "id": "https://365community.online/attach-an-excel-file-in-msdyn365bc-email",
+          "author": "Saurav Dhyani",
+          "description": "Hi Readers, In the tutorial we discuss how to attach an excel file in Business Central E-mail. With this process if your scenario requires to add Excel file in email […]",
+          "link": "https://365community.online/attach-an-excel-file-in-msdyn365bc-email",
+          "publishedOn": "2024-05-20T05:30:00.000Z",
+          "wordCount": 3182,
+          "title": "Attach an Excel file in #msdyn365bc Email.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/Attach-an-Excel-file-in-msdyn365bc-Email.jpeg?fit=480%2C360&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-convert-a-personal-dashboard-to-a-system-dashboard",
+          "author": "Chad Althaus",
+          "description": "In any CRM implementation, it is not uncommon for team managers and experienced users to begin creating their own dashboards for their team. However, this kind of personal dashboard poses […]",
+          "link": "https://365community.online/how-to-convert-a-personal-dashboard-to-a-system-dashboard",
+          "publishedOn": "2024-05-20T01:45:00.000Z",
+          "wordCount": 3209,
+          "title": "How to Convert a Personal Dashboard to a System Dashboard",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/How-to-Convert-a-Personal-Dashboard-to-a-System-Dashboard.png?fit=981%2C507&ssl=1"
+        },
         {
           "id": "https://365community.online/new-and-retired-microsoft-dynamics-365-certifications",
           "author": "Arun Potti",
@@ -22429,8 +22529,38 @@
     {
       "title": "Microsoft Dynamics 365 Blog",
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
-      "siteUrl": "https://cloudblogs.microsoft.com/dynamics365/",
+      "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/05/20/transform-seller-productivity-with-copilot-in-dynamics-365-sales/",
+          "author": "Swapnil Agarwwal, Ashwini Kumar Dalai and Phani Goruganthu",
+          "description": "In today's fast-paced sales landscape, prioritizing core selling activities over low-value tasks is crucial. Copilot in Dynamics 365 Sales can help.\nThe post Transform seller effectiveness with Dynamics 365 Sales Copilot appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/05/20/transform-seller-productivity-with-copilot-in-dynamics-365-sales/",
+          "publishedOn": "2024-05-20T17:15:00.000Z",
+          "wordCount": 3310,
+          "title": "Transform seller effectiveness with Dynamics 365 Sales Copilot",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/04/CLO20_Jessie_016-scaled.jpg"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/05/20/copilot-in-d365-sales-boosts-efficiency-with-content-recommendations-and-qa/",
+          "author": "Revathi Sankar",
+          "description": "Sellers are often faced with situations where they need to sift through a lot of information to find the one piece they need. \nThe post Copilot in D365 Sales boosts efficiency with content recommendations and Q&A   appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/05/20/copilot-in-d365-sales-boosts-efficiency-with-content-recommendations-and-qa/",
+          "publishedOn": "2024-05-20T17:00:00.000Z",
+          "wordCount": 3112,
+          "title": "Copilot in D365 Sales boosts efficiency with content recommendations and Q&A",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/05/CLO22_Retail_036-1024x683.jpg"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/05/17/try-skill-based-agent-search-in-dynamics-365-customer-service/",
+          "author": "Pulkita Dua",
+          "description": "We're excited to announce skill-based agent search, designed to enhance agent collaboration and improve agent efficiency within Dynamics 365 Customer Service.\nThe post Try skill-based agent search in Dynamics 365 Customer Service appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/05/17/try-skill-based-agent-search-in-dynamics-365-customer-service/",
+          "publishedOn": "2024-05-17T16:37:32.000Z",
+          "wordCount": 2696,
+          "title": "Try skill-based agent search in Dynamics 365 Customer Service",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2016/07/249564_5F00_empower_2D00_customer_2D00_service_2D00_agents.jpg"
+        },
         {
           "id": "https://cloudblogs.microsoft.com/dynamics365/it/2024/05/14/improved-project-sales-tax-capabilities-now-available/",
           "author": "ryansandness",
