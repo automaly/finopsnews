@@ -2,10 +2,150 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-05-21T00:41:27.093Z</updated>
+    <updated>2024-05-22T00:41:07.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bypass execution of specific plugin (step) using BypassBusinessLogicExecutionStepIds parameter – Dynamics 365 / Dataverse]]></title>
+        <id>https://365community.online/bypass-execution-of-specific-plugin-step-using-bypassbusinesslogicexecutionstepids-parameter-dynamics-365-dataverse</id>
+        <link href="https://365community.online/bypass-execution-of-specific-plugin-step-using-bypassbusinesslogicexecutionstepids-parameter-dynamics-365-dataverse"/>
+        <updated>2024-05-21T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The BypassBusinessLogicExecutionStepIds optional parameter or request header value allows us to bypass a specific plugin step by passing its GUID, irrespective of whether it is synchronous or asynchronous, unlike the […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: monitoring field changes with telemetry is better…]]></title>
+        <id>https://365community.online/dynamics-365-business-central-monitoring-field-changes-with-telemetry-is-better</id>
+        <link href="https://365community.online/dynamics-365-business-central-monitoring-field-changes-with-telemetry-is-better"/>
+        <updated>2024-05-21T15:50:19.000Z</updated>
+        <summary type="html"><![CDATA[In a traditional Dynamics 365 Business Central project, expecially when the customer is a large company, it’s quite often requested to monitor the changes of some important or sensitive fields […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Cancel all Flow Runs for a Version of a Flow]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-cancel-all-flow-runs-for-a-version-of-a-flow</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-cancel-all-flow-runs-for-a-version-of-a-flow"/>
+        <updated>2024-05-21T14:00:08.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamlined Text and Document Categorization with Entity Extraction in Power Automate]]></title>
+        <id>https://365community.online/streamlined-text-and-document-categorization-with-entity-extraction-in-power-automate</id>
+        <link href="https://365community.online/streamlined-text-and-document-categorization-with-entity-extraction-in-power-automate"/>
+        <updated>2024-05-21T10:34:42.000Z</updated>
+        <summary type="html"><![CDATA[The tools of AI Builder help you find important information in text. They organize this info into categories that make sense for your business needs. There are two types: prebuilt […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Create a Flow on a File in Teams]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-create-a-flow-on-a-file-in-teams</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-create-a-flow-on-a-file-in-teams"/>
+        <updated>2024-05-21T10:00:13.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Apps is making it easier for developers to build with Microsoft Copilot and each other]]></title>
+        <id>power-apps-is-making-it-easier-for-developers-to-build-with-microsoft-copilot-and-each-other</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/power-apps-is-making-it-easier-for-developers-to-build-with-microsoft-copilot-and-each-other/"/>
+        <updated>2024-05-21T08:30:59.000Z</updated>
+        <summary type="html"><![CDATA[Power Apps is now used by more than 25 million users every month, with an increasing number of those apps delivered by dedicated teams of professionals. We’re investing in the end-to-end experience of these developer teams, bringing together Copilot and human collaborators to be able to deliver impactful and scalable apps faster than ever.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlock new levels of productivity with Microsoft Dataverse and Microsoft Copilot Studio]]></title>
+        <id>unlock-new-levels-of-productivity-with-microsoft-dataverse-and-microsoft-copilot-studio</id>
+        <link href="https://powerapps.microsoft.com/en-us/blog/unlock-new-levels-of-productivity-with-microsoft-dataverse-and-microsoft-copilot-studio/"/>
+        <updated>2024-05-21T08:30:54.000Z</updated>
+        <summary type="html"><![CDATA[Enhancing your AI business strategy with Microsoft Copilot Studio and Microsoft Dataverse enables organizations to simplify the complex data integration, third-party data extensibility, and security guardrails organizations must have in place to assist in the implementation and adoption of AI.]]></summary>
+        <author>
+            <name>Microsoft Power Apps - Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolutionize the way you work with automation and AI]]></title>
+        <id>revolutionize-the-way-you-work-with-automation-and-ai</id>
+        <link href="https://powerautomate.microsoft.com/en-nz/blog/revolutionize-the-way-you-work-with-automation-and-ai/"/>
+        <updated>2024-05-21T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Continue reading to learn about new ways to automate, from outcome-based AI flows that simplify complex processes, to multi-modal AI recording that makes UI automation more natural, accessible, and resilient.]]></summary>
+        <author>
+            <name>powerautomate.microsoft.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Super charge your Copilot with 6 new Copilot connector plugins along with 74 New Connectors releases and; 116 Connector Updates from Power Platform]]></title>
+        <id>super-charge-your-copilot-with-6-new-copilot-connector-plugins-along-with-74-new-connectors-releases-and-116-connector-updates-from-power-platform</id>
+        <link href="https://powerautomate.microsoft.com/en-nz/blog/super-charge-your-copilot-with-6-new-copilot-connector-plugins-along-with-74-new-connectors-releases-and-116-connector-updates-from-power-platform/"/>
+        <updated>2024-05-21T08:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Super charge your Copilot with 6 new connector-based Plugins along with 74 New Connectors releases and; 116 Connector Updates from Power Platform]]></summary>
+        <author>
+            <name>powerautomate.microsoft.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing Partner Center to certify and publish Power Platform Copilot connectors and plugins]]></title>
+        <id>announcing-partner-center-to-certify-and-publish-power-platform-copilot-connectors-and-plugins</id>
+        <link href="https://powerautomate.microsoft.com/en-nz/blog/announcing-partner-center-to-certify-and-publish-power-platform-copilot-connectors-and-plugins/"/>
+        <updated>2024-05-21T08:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Announcing Partner Center to certify and publish Power Platform Copilot connectors and plugins]]></summary>
+        <author>
+            <name>powerautomate.microsoft.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Predefined Placeholder Access In Customer Insights – Journeys]]></title>
+        <id>https://365community.online/predefined-placeholder-access-in-customer-insights-journeys</id>
+        <link href="https://365community.online/predefined-placeholder-access-in-customer-insights-journeys"/>
+        <updated>2024-05-21T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[One of the cool things you can use in Emails in Realtime Marketing (in the Customer Insights – Journeys) app is personalisation. Accessing data is pretty simple, and Microsoft have […]]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central – All About Companies?]]></title>
+        <id>https://365community.online/business-central-all-about-companies</id>
+        <link href="https://365community.online/business-central-all-about-companies"/>
+        <updated>2024-05-21T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi, Do you know everything about Companies with Business central? Give this a try and let us know in comments if you learned something new. Regards,Saurav Dhyanihttps://bit.ly/SubscribeSauravYouTube Continue Reading Saurav […]]]></summary>
+        <author>
+            <name>Saurav Dhyani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhancing User Experience with InstructionalText Property in Microsoft Dynamics 365 Business Central]]></title>
+        <id>https://365community.online/enhancing-user-experience-with-instructionaltext-property-in-microsoft-dynamics-365-business-central</id>
+        <link href="https://365community.online/enhancing-user-experience-with-instructionaltext-property-in-microsoft-dynamics-365-business-central"/>
+        <updated>2024-05-21T02:59:37.000Z</updated>
+        <summary type="html"><![CDATA[In today’s fast-paced business environment, clear and efficient communication within ERP systems is essential. Microsoft Dynamics 365 Business Central offers a plethora of features to enhance user experience, one of […]]]></summary>
+        <author>
+            <name>Amol Salvi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using BypassBusinessLogicExecution Parameter (Preview) to bypass Custom Sync and Async Logic (Plugin and Workflow) – Dataverse / Dynamics 365]]></title>
+        <id>https://365community.online/using-bypassbusinesslogicexecution-parameter-preview-to-bypass-custom-sync-and-async-logic-plugin-and-workflow-dataverse-dynamics-365</id>
+        <link href="https://365community.online/using-bypassbusinesslogicexecution-parameter-preview-to-bypass-custom-sync-and-async-logic-plugin-and-workflow-dataverse-dynamics-365"/>
+        <updated>2024-05-20T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Using the new BypassBusinessLogicExecution parameter we can bypass both sync as well as asynchronous custom logic (i.e. sync / async custom plugin and custom workflow registered), unlike the BypassCustomPluginExecution parameter […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Business Central FREE WMS]]></title>
         <id>https://erpsoftwareblog.com/?p=106896</id>
