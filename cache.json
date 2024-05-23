@@ -1149,7 +1149,7 @@
       ]
     },
     {
-      "title": "Azure Integration services for Dynamics 365",
+      "title": "Azure Integration services",
       "feedUrl": "https://azureintegrations.com/feed/",
       "siteUrl": "https://azureintegrations.com",
       "articles": [
@@ -1430,6 +1430,86 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=106980",
+          "author": "Calsoft Systems",
+          "description": "The cloud has changed the business landscape, particularly regarding cloud ERP software. Cloud ERP provides unmatched agility, crucial in today’s digital world. It allows businesses to quickly adapt to changing […]\nThe post Enhancing Workplace Agility with Cloud ERP Software appeared first on ERP Software Blog.\nHosted ERP System Benefits\n5 Reasons to Choose Microsoft Dynamics NAV for Distribution\nTop 10 Reasons to Consider Cloud Computing Technologies vs. Traditional On-Premise Deployment",
+          "link": "https://erpsoftwareblog.com/2024/05/enhancing-workplace-agility-with-cloud-erp-software/",
+          "publishedOn": "2024-05-22T19:24:13.000Z",
+          "wordCount": 4823,
+          "title": "Enhancing Workplace Agility with Cloud ERP Software",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106972",
+          "author": "StockIQ Technologies",
+          "description": "In the ever-evolving landscape of supply chain management, staying ahead of the curve is not just an advantage; it’s a necessity. At StockIQ, we’ve taken a proactive leap beyond our […]\nThe post Unlocking Customer Insights: The AI-Driven Approach to Enhancing Supply Chain Dynamics appeared first on ERP Software Blog.\n8 Favorite StockIQ Supply Chain Planning Improvements & Features for 2021\nFive Reasons to Work with StockIQ Technologies\nHow Effective Supply Chain Forecasting and Planning Can Drive Transformational Change",
+          "link": "https://erpsoftwareblog.com/2024/05/unlocking-customer-insights-the-ai-driven-approach-to-enhancing-supply-chain-dynamics/",
+          "publishedOn": "2024-05-22T18:51:45.000Z",
+          "wordCount": 4653,
+          "title": "Unlocking Customer Insights: The AI-Driven Approach to Enhancing Supply Chain Dynamics",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/AIdriven-300x143.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106963",
+          "author": "Dynamics Square USA",
+          "description": "In the past decade or so, customer needs and preferences have changed rapidly as they have shifted to digitalization. Businesses are also harnessing the power of new-age technologies to stay […]\nThe post Why Should You Consider Dynamics 365 Finance and Operations Implementation? appeared first on ERP Software Blog.\nPLM-ERP Integration for Dynamics 365: What's The To-Increase Implementation Process?\nPhysical Rental Quantity in DynaRent for D365: Analyzing Inventory in Real-Time\nAnywhere for Rental: Benefits of our Scanning Solution in Dynamics 365",
+          "link": "https://erpsoftwareblog.com/2024/05/dynamics-365-finance-and-operations-implementation/",
+          "publishedOn": "2024-05-22T10:09:50.000Z",
+          "wordCount": 5351,
+          "title": "Why Should You Consider Dynamics 365 Finance and Operations Implementation?",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/D365-FO.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106959",
+          "author": "i95Dev",
+          "description": "The automotive industry is undergoing a significant transformation on a global scale. The rise of electric vehicles is reshaping the industry, while the way auto parts and accessories are sold […]\nThe post Benefits of Automotive eCommerce Solutions: Accelerating Your Business Engine appeared first on ERP Software Blog.\nHow DynaRent industry-specific Microsoft Dynamics PowerApps help your business thrive\nHow mobility, IoT, and ERP can connect crane operators with back-office planning and management\nHow sustainability can make equipment maintenance profitable",
+          "link": "https://erpsoftwareblog.com/2024/05/benefits-of-automotive-ecommerce-solutions-accelerating-your-business-engine/",
+          "publishedOn": "2024-05-22T05:45:45.000Z",
+          "wordCount": 7985,
+          "title": "Benefits of Automotive eCommerce Solutions: Accelerating Your Business Engine",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106906",
+          "author": "x2x eCommerce",
+          "description": "Data-driven business landscapes drive organizations towards AI-powered ERP systems for streamlining operations, optimizing processes, and gaining a competitive edge. This article explores the potential of AI-driven ERP systems, their key […]\nThe post AI-Powered ERP Systems appeared first on ERP Software Blog.\nProfitez de la plateforme intuitive et conviviale de Microsoft Dynamics 365 Business Central\nProduct Recommendation Engine: Use AI in D365 to Recommend Products to Rental Customers\nTransforming Manufacturing Efficiency and Innovation: OpenAI's Breakthrough Contribution",
+          "link": "https://erpsoftwareblog.com/2024/05/ai-powered-erp-systems/",
+          "publishedOn": "2024-05-21T15:21:39.000Z",
+          "wordCount": 4784,
+          "title": "AI-Powered ERP Systems",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Modern-Promotion-Business-Agency-Blog-Banner-26-300x169.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106744",
+          "author": "EthoTech",
+          "description": "Are You Delaying Your Compensation Management Software Implementation? Prior to a new ERP implementation, your consultant will ask you whether you would prefer to roll out your ERP all at […]\nThe post The Worst Time to Implement Compensation Management Software appeared first on ERP Software Blog.\nGPS tracking of your equipment in DynaRent\nAsset value-added work orders in DynaRent\nHow to monitor your open tasks easily in DynaRent",
+          "link": "https://erpsoftwareblog.com/2024/05/when-to-implement-compensation-management-software/",
+          "publishedOn": "2024-05-21T14:33:13.000Z",
+          "wordCount": 5167,
+          "title": "The Worst Time to Implement Compensation Management Software",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Implement-Compensation-Management-Software.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106908",
+          "author": "Dynamics Square UK",
+          "description": "Microsoft Dynamics 365 for Commerce, earlier known as Dynamics 365 Retail, is the modern and cutting-edge solution for the growing commerce industries around the globe. It accepts the customer requirements, […]\nThe post 11 Things to know about Dynamics 365 for Commerce – The Powerful Weapon for Commerce Industry appeared first on ERP Software Blog.\nWhy Your B2B Business Needs to Invest in Ecommerce\nHow to help your sales team embrace a B2B eCommerce strategy\nYour guide to choosing the best eCommerce solution: breaking down the ROI",
+          "link": "https://erpsoftwareblog.com/2024/05/things-to-know-about-dynamics-365-for-commerce/",
+          "publishedOn": "2024-05-21T13:51:43.000Z",
+          "wordCount": 5551,
+          "title": "11 Things to know about Dynamics 365 for Commerce – The Powerful Weapon for Commerce Industry",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-365-for-Commerce.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=106782",
+          "author": "DynaTech Systems",
+          "description": "Updating from traditional solutions to next-gen, advanced ones is vital to get a competitive edge and meet the ever-evolving business needs. Take an example of mobile apps. When we receive […]\nThe post Migrating from Dynamics AX to Dynamics 365 Online: Best Practices and Considerations appeared first on ERP Software Blog.\nTime for change — Upgrade from Microsoft Dynamics AX to Dynamics 365\nDynamics AX to Dynamics 365 Online Migration\nBenefits of Migrating from AX to D365 F&SCM for PLM-ERP Integration",
+          "link": "https://erpsoftwareblog.com/2024/05/migrating-from-dynamics-ax-to-dynamics-365-online-best-practices-and-considerations/",
+          "publishedOn": "2024-05-21T12:02:29.000Z",
+          "wordCount": 5898,
+          "title": "Migrating from Dynamics AX to Dynamics 365 Online: Best Practices and Considerations",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Migrating-from-Dynamics-AX-to-Dynamics-365-Online-Best-Practices-and-Considerations-01-1-scaled.jpg"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=106896",
           "author": "iCepts Technology Group, Inc.",
@@ -7993,6 +8073,26 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=62224",
+          "author": "Don McNulty",
+          "description": "Setting up ACH and EFT in Dynamics GP (Video)\nThis recorded webinar will go through the basics of setting up ACH / EFT for accounts payable and accounts receivable in Dynamics GP. We’ll walk you through the settings and the default setups. ﻿﻿﻿﻿﻿﻿﻿﻿﻿ Transcript below: – [Katie] Hello, everyone. Thank you for joining us today for our “Dynamics GP Coffee Break | Setting up...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/setting-up-ach-and-eft-in-dynamics-gp/",
+          "publishedOn": "2024-05-22T19:22:09.000Z",
+          "wordCount": 5924,
+          "title": "Setting up ACH and EFT in Dynamics GP (Video)",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Dynamics-GP-Img.png"
+        },
+        {
+          "id": "https://www.encorebusiness.com/?p=14181",
+          "author": "Kelly McLaughlin",
+          "description": "How to Install and Use the Professional Services Tools Library (PSTL) in Dynamics GP\nThe Professional Services Tools Library (PSTL) is a great free Dynamics GP add-on that can help with tasks like changing Employee or Checkbook IDs, or validating posted document dates. I’ve helped many companies use PSTL to solve difficult problems that would otherwise require significant consultant hours and database risk. However, in my experience, most customers...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/gp-professional-services-tools-library-installation-explanation-functions/",
+          "publishedOn": "2024-05-21T11:13:14.000Z",
+          "wordCount": 3805,
+          "title": "How to Install and Use the Professional Services Tools Library (PSTL) in Dynamics GP",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Dynamics-GP-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=62119",
           "author": "The Encore Team",
           "description": "What’s New in 2024 Release Wave 1 for Dynamics 365\nDynamics 365’s 2024 release wave 1 has many new features and other changes for Dynamics 365 Business Central, Dynamics 365 Finance & Operations, and the CRM applications (like Dynamics 365 Sales). For each product, some of the improvements have to do with Copilot AI functionality, while others have to do with adding automations, improved tracking,...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -8530,6 +8630,66 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/welsh-azure-user-group-may-2024-meet-up",
+          "author": "John Lunn",
+          "description": "It was the day of our Welsh Azure User Group #WAUG May 2024 meet up and we had yet another two amazing speakers join us. We were joined by Rhydian […]",
+          "link": "https://365community.online/welsh-azure-user-group-may-2024-meet-up",
+          "publishedOn": "2024-05-22T19:52:07.000Z",
+          "wordCount": 3236,
+          "title": "Welsh Azure User Group May 2024 Meet Up!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/Welsh-Azure-User-Group-May-2024-Meet-Up.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-cloud-flows-are-automatically-defined-in-dataverse-solutions",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-cloud-flows-are-automatically-defined-in-dataverse-solutions",
+          "publishedOn": "2024-05-22T14:00:13.000Z",
+          "wordCount": 3301,
+          "title": "New Functionality In Microsoft Power Automate 2024 Wave 1: Cloud Flows are Automatically Defined in Dataverse Solutions",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-manage-unpublished-solution-aware-cloud-flows-using-admin-apis",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-manage-unpublished-solution-aware-cloud-flows-using-admin-apis",
+          "publishedOn": "2024-05-22T10:00:22.000Z",
+          "wordCount": 3304,
+          "title": "New Functionality In Microsoft Power Automate 2024 Wave 1: Manage Unpublished Solution-Aware Cloud Flows Using Admin APIs",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/finance-firm-tightens-document-security-with-automatic-dynamics-365-crm-sharepoint-permission-syncing",
+          "author": "Inogic",
+          "description": "Findango Finance, provides financial services to small and midsize firms having trouble getting money from regular banks in Spain. They offer services such as lines of credit, loans, and discounted […]",
+          "link": "https://365community.online/finance-firm-tightens-document-security-with-automatic-dynamics-365-crm-sharepoint-permission-syncing",
+          "publishedOn": "2024-05-22T09:51:05.000Z",
+          "wordCount": 3538,
+          "title": "Finance firm tightens document security with automatic Dynamics 365 CRM – SharePoint permission syncing!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/SharePoint-permission-syncing.png?fit=1200%2C686&ssl=1"
+        },
+        {
+          "id": "https://365community.online/days-of-knowledge-bctechdays-coming-up-soon",
+          "author": "Waldo",
+          "description": "I recently realized I forgot to share the amazing conferences happening right now: the “Days of Knowledge” series and BC TechDays. I’m a bit ashamed because it’s always such an […]",
+          "link": "https://365community.online/days-of-knowledge-bctechdays-coming-up-soon",
+          "publishedOn": "2024-05-22T06:44:02.000Z",
+          "wordCount": 3223,
+          "title": "Days of Knowledge & BCTechDays coming up soon!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/Days-of-Knowledge-amp-BCTechDays-coming-up-soon.jpg?fit=1200%2C933&ssl=1"
+        },
+        {
+          "id": "https://365community.online/local-development-with-power-pages-copilot-and-github-copilot-in-vs-code-lesson-19-youtube",
+          "author": "Victor Dantas",
+          "description": "Local development with Power Pages Copilot and Github Copilot in VS Code (Oleksandr Olashin) Instagram zero to hero academy – / fromzerotoh. . Instagram thevictordantas – / thevictorda. . twitter […]",
+          "link": "https://365community.online/local-development-with-power-pages-copilot-and-github-copilot-in-vs-code-lesson-19-youtube",
+          "publishedOn": "2024-05-22T04:30:07.000Z",
+          "wordCount": 3185,
+          "title": "Local development with Power Pages Copilot and Github Copilot in VS Code – Lesson 19 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/1716389046_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
           "id": "https://365community.online/bypass-execution-of-specific-plugin-step-using-bypassbusinesslogicexecutionstepids-parameter-dynamics-365-dataverse",
           "author": "Nishant Rana",
           "description": "The BypassBusinessLogicExecutionStepIds optional parameter or request header value allows us to bypass a specific plugin step by passing its GUID, irrespective of whether it is synchronous or asynchronous, unlike the […]",
@@ -8558,6 +8718,16 @@
           "wordCount": 3326,
           "title": "New Functionality In Microsoft Power Automate 2024 Wave 1: Cancel all Flow Runs for a Version of a Flow",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/from-chickens-and-rugby-to-aberdeen-youtube-2",
+          "author": "Scottish Summit",
+          "description": "This episode we are talking to @garyraife about rugby, chickens and his first time at #ScottishSummit. Scottish Summit 2024 is happening on 18th and 19th October at Aberdeen P&J Live. […]",
+          "link": "https://365community.online/from-chickens-and-rugby-to-aberdeen-youtube-2",
+          "publishedOn": "2024-05-21T13:09:50.000Z",
+          "wordCount": 3139,
+          "title": "From chickens and rugby to Aberdeen – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/1716371296_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         },
         {
           "id": "https://365community.online/streamlined-text-and-document-categorization-with-entity-extraction-in-power-automate",
