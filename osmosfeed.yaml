@@ -52,13 +52,13 @@ sources:
   - href: http://atomicax.com/rss.xml
   - href: https://kurthatlevik.com/feed/
   - href: https://dynvision365.com/feed/
-  - href: https://allaboutdynamic.com/feed/
+  # - href: https://allaboutdynamic.com/feed/
   - href: https://daxonline.org/rss.xml
   - href: https://cloudblogs.microsoft.com/dynamics365/feed/
   - href: https://dev.goshoom.net/feed/
   - href: https://exploredynamics365.home.blog/blog-feed/feed/
   - href: https://exploredynamics365.home.blog/feed/
-  - href: https://d365snippets.com/feeds/posts/default
+  # - href: https://d365snippets.com/feeds/posts/default
   - href: https://www.brewsterware.com/feed
   - href: https://alexvoy.blogspot.com/feeds/posts/default
   - href: https://shashidotnet.wordpress.com/feeds/posts/default
