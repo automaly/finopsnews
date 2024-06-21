@@ -1425,6 +1425,36 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=107953",
+          "author": "Insight Works",
+          "description": "Insight Works grows their reseller network by adding nine new Microsoft Partners, enhancing global manufacturing and distribution solutions.\nThe post Insight Works Welcomes Nine New Microsoft Partners to Strengthen Global Solutions appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2024/06/insight-works-welcomes-nine-new-microsoft-partners-to-strengthen-global-solutions/",
+          "publishedOn": "2024-06-20T22:21:15.000Z",
+          "wordCount": 3721,
+          "title": "Insight Works Welcomes Nine New Microsoft Partners to Strengthen Global Solutions",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/02.Insight-Works-Authorized-Reseller.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=107946",
+          "author": "ERP Software Blog Writer",
+          "description": "Congratulations to the 21 ERP Software Blog contributing members selected for Bob Scott’s Top 100 VAR 2024 list. Each year, Bob Scott, an industry expert in the mid-market financial software community, compiles […]\nThe post Congratulations to 21 ERP Software Blog Members Honored in Bob Scott’s Top 100 VAR 2024 List appeared first on ERP Software Blog.\n21 ERP Software Blog Contributors Honored on Top 100 VAR List for 2011\n25 ERP Software Blog Contributors Honored on Bob Scott’s Insights’ Top 100 VAR List for 2013\n25 ERP Software Blog Members Honored as 2013 VAR Stars",
+          "link": "https://erpsoftwareblog.com/2024/06/congratulations-to-21-erp-software-blog-members-honored-in-bob-scotts-top-100-var-2024-list/",
+          "publishedOn": "2024-06-20T14:28:12.000Z",
+          "wordCount": 3803,
+          "title": "Congratulations to 21 ERP Software Blog Members Honored in Bob Scott’s Top 100 VAR 2024 List",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/bob-scott-top-100-VAR-2024.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=107507",
+          "author": "Fidesic AP",
+          "description": "What is RoueWise? RouteWise by Fidesic is a visual workflow editor that makes it easy to setup and maintain invoice approval processes within your accounts payable department. RouteWise requires no […]\nThe post What is RouteWise? Accounts Payable Tools appeared first on ERP Software Blog.\nHow AP Invoice Automation Drives Cost Savings for Dynamics GP Customers\nJump-Start Your Accounts Payable in 2017 with Purchasing, Invoice and Payment Automation\nDoes It Make Sense To Automate Accounts Payable?",
+          "link": "https://erpsoftwareblog.com/2024/06/what-is-routewise-accounts-payable-tools/",
+          "publishedOn": "2024-06-20T12:07:09.000Z",
+          "wordCount": 3673,
+          "title": "What is RouteWise? Accounts Payable Tools",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/routewise-image-for-blog.webp"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=107916",
           "author": "Solution Systems, Inc.",
           "description": "In today's interconnected world, seamless communication is the backbone of efficient business operations. Business Central Copilot by directly integrating AI-powered chat capabilities within Microsoft Dynamics 365 Business Central (BC), is […]\nThe post Revolutionizing ERP with Business Central Copilot Chat appeared first on ERP Software Blog.\nTax law changes you need to know for 2024\nHow will Artificial Intelligence (AI) Impact ERP Software?\nWhy Artificial Intelligence is not as dangerous as you think",
@@ -9744,6 +9774,56 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/expense-reports-dates-tbd",
+          "author": "Sarang Kusare",
+          "description": "Expense Creation Date = Document Date in the GL Transaction Date (when the expenses occurred) = Project Date in the sub-ledger GL Posting Date will be equal to Transaction […]",
+          "link": "https://365community.online/expense-reports-dates-tbd",
+          "publishedOn": "2024-06-20T15:33:00.000Z",
+          "wordCount": 3214,
+          "title": "Expense Reports Dates (TBD)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/dynamics-365-business-central-linked-power-platform-environment",
+          "author": "Stefano Demiliani",
+          "description": "In the last days, a new Linked Power Platform Environment option is appeared in the Administration Center of your Dynamics 365 Business Central tenant: This new option introduces the ability […]",
+          "link": "https://365community.online/dynamics-365-business-central-linked-power-platform-environment",
+          "publishedOn": "2024-06-20T10:31:45.000Z",
+          "wordCount": 3191,
+          "title": "Dynamics 365 Business Central: linked Power Platform environment",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/1718891121_Dynamics-365-Business-Central-linked-Power-Platform-environment.png?fit=1200%2C800&ssl=1"
+        },
+        {
+          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-purchasing-how-do-i-assign-number-series-in-purchasing",
+          "author": "Ian Grieve",
+          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Purchasing), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]",
+          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-purchasing-how-do-i-assign-number-series-in-purchasing",
+          "publishedOn": "2024-06-20T10:00:56.000Z",
+          "wordCount": 3280,
+          "title": "In Microsoft Dynamics 365 Business Central (Purchasing), how do I… Assign Number Series in Purchasing",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/1718889766_In-Microsoft-Dynamics-365-Business-Central-Purchasing-how-do-I….png?fit=1172%2C534&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-in-spring-2024-map-routing-and-visualization-for-power-pages-portals",
+          "author": "Inogic",
+          "description": "“Morning Jo, what is the Tea this morning?”, Josh asked as he rushed into the office. “Well, Maplytics is now available in Power Pages Portals”, Jo exclaimed. “It lets you […]",
+          "link": "https://365community.online/new-in-spring-2024-map-routing-and-visualization-for-power-pages-portals",
+          "publishedOn": "2024-06-20T06:19:53.000Z",
+          "wordCount": 3528,
+          "title": "New in Spring 2024: Map Routing and Visualization for Power Pages Portals",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/Maplytics-June-2024-Release.png?fit=1200%2C686&ssl=1"
+        },
+        {
+          "id": "https://365community.online/applying-modern-themes-to-the-modern-refreshed-look-app-header-model-driven-app-dynamics-365",
+          "author": "Nishant Rana",
+          "description": "As we are aware the classic themes do not apply to the new modern refreshed look, however using the new modern themes at least for now we can modify the […]",
+          "link": "https://365community.online/applying-modern-themes-to-the-modern-refreshed-look-app-header-model-driven-app-dynamics-365",
+          "publishedOn": "2024-06-20T05:00:00.000Z",
+          "wordCount": 3305,
+          "title": "Applying Modern themes to the Modern Refreshed look (app header)– Model-driven App / Dynamics 365",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/Applying-Modern-themes-to-the-Modern-Refreshed-look-app-header–.jpg?fit=959%2C768&ssl=1"
+        },
+        {
           "id": "https://365community.online/welsh-azure-user-group-june-2024-meet-up",
           "author": "John Lunn",
           "description": "It was the day of our Welsh Azure User Group #WAUG June 2024 meet up and we had yet another two amazing speakers join us. We were joined by Harshavardhan […]",
@@ -9754,6 +9834,16 @@
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/Welsh-Azure-User-Group-June-2024-Meet-Up.jpg?fit=1200%2C675&ssl=1"
         },
         {
+          "id": "https://365community.online/welsh-azure-user-group-june-2024-event-youtube",
+          "author": "John Lunn",
+          "description": "Welsh Azure User Group – June 2024 Event It was the day of our Welsh Azure User Group #WAUG June 2024 meet up and we had yet another two amazing […]",
+          "link": "https://365community.online/welsh-azure-user-group-june-2024-event-youtube",
+          "publishedOn": "2024-06-19T19:41:53.000Z",
+          "wordCount": 3439,
+          "title": "Welsh Azure User Group  – June 2024 Event – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/1718900187_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
           "id": "https://365community.online/why-you-should-plan-to-migrate-from-gp",
           "author": "Ian Grieve",
           "description": "With the future of Microsoft Dynamics GP now being more limited than it was, with the announcement of the end of licence sales to new customers starting with perpetual licences […]",
@@ -9762,6 +9852,16 @@
           "wordCount": 3250,
           "title": "Why You Should Plan to Migrate from GP",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/challenge-your-skills-sc-100-microsoft-cybersecurity-exam-prep-youtube",
+          "author": "shabaz darr",
+          "description": "Get ready to challenge your cybersecurity skills with SC 100 Microsoft Exam Prep! Learn how to use Azure policy to address security and compliance with a helpful demo in this […]",
+          "link": "https://365community.online/challenge-your-skills-sc-100-microsoft-cybersecurity-exam-prep-youtube",
+          "publishedOn": "2024-06-19T11:00:37.000Z",
+          "wordCount": 3194,
+          "title": "Challenge Your Skills: SC 100 Microsoft Cybersecurity Exam Prep – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/1718869564_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         },
         {
           "id": "https://365community.online/in-microsoft-dynamics-365-business-central-purchasing-how-do-i-override-vat-on-a-purchase-invoice",
@@ -24034,6 +24134,36 @@
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
         {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/06/18/announcing-unlimited-application-installs-in-dynamics-365-customer-insights/",
+          "author": "Autumn Arbury",
+          "description": "We’re excited to announce unlimited application installs when starting with Dynamics 365 Customer Insights, an improvement to our license definition and installation management experience. As of June 30, 2024 we’ve removed application installation limits for Customer Insights–Journeys (real-time journeys only) and Customer Insights–Data. Previous application installations had restrictions of four per base license of the\nThe post Announcing unlimited application installs in Dynamics 365 Customer Insights appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/06/18/announcing-unlimited-application-installs-in-dynamics-365-customer-insights/",
+          "publishedOn": "2024-06-18T15:59:00.000Z",
+          "wordCount": 2991,
+          "title": "Announcing unlimited application installs in Dynamics 365 Customer Insights",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2023/10/CLO22_HybridWork_056_1200.jpg"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/06/18/ernst-young-reinvents-sales-globally-with-microsoft-dynamics-365/",
+          "author": "Bryan Goode",
+          "description": "For Ernst & Young Limited (EY), one of the “Big Four” of the largest accounting firms worldwide, their sales transformation journey started with Microsoft Dynamics 365 Sales. \nThe post Ernst & Young reinvents sales globally with Microsoft Dynamics 365 appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/06/18/ernst-young-reinvents-sales-globally-with-microsoft-dynamics-365/",
+          "publishedOn": "2024-06-18T15:00:00.000Z",
+          "wordCount": 3841,
+          "title": "Ernst & Young reinvents sales globally with Microsoft Dynamics 365",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/02/MSFT_D365_FEB22_320382_Blog_Blogheader_240223_V02_1200.png"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/06/17/dynamics-365-field-service-announces-new-crew-allocation-tool-enabling-morning-shuffle/",
+          "author": "Michael Kelleher",
+          "description": "Being able to efficiently and effectively manage your resources is key to Dynamics 365 Field Service. Today, we introduce a new Crew Allocation Tool to streamline the process of making single-day membership changes to all your crews. We’ve heard from users that it can be tedious to manually go into crew records, take a resource\nThe post Dynamics 365 Field Service announces the new Crew Allocation Tool, which enables the “Morning Shuffle”  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/06/17/dynamics-365-field-service-announces-new-crew-allocation-tool-enabling-morning-shuffle/",
+          "publishedOn": "2024-06-17T21:51:39.000Z",
+          "wordCount": 5249,
+          "title": "Dynamics 365 Field Service announces the new Crew Allocation Tool, which enables the “Morning Shuffle”",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2023/04/CLO22_TechOffice_026-1024x683.jpg"
+        },
+        {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/06/05/transition-from-unified-routing-diagnostics-to-azure-application-insights/",
           "author": "Prathmesh Todakar",
           "description": "As of May 9, 2024, we are phasing out unified routing diagnostics and integrating its capabilities into Azure Application Insights. \nThe post Transition from unified routing diagnostics to Azure Application Insights appeared first on Microsoft Dynamics 365 Blog.",
@@ -27585,16 +27715,6 @@
           "wordCount": 4053,
           "title": "Working with the Inventory Visibility Service for Dynamics 365 Supply Chain Management (part 2)",
           "imageUrl": "https://henrikmarxlarsen.files.wordpress.com/2022/06/warehouse-1-2.jpg?w=1200"
-        },
-        {
-          "id": "http://henrikmarxlarsen.wordpress.com/?p=2744",
-          "author": "Henrik Marx Larsen",
-          "description": "The Inventory Visibility service allows external applications to interact with inventory in Dynamics 365 Supply Chain Management in real-time. This two-part article explorer how this is done.",
-          "link": "https://henrikmarxlarsen.wordpress.com/2022/06/22/working-with-the-inventory-visibility-service-for-dynamics-365-supply-chain-management-part-1/",
-          "publishedOn": "2022-06-22T09:14:52.000Z",
-          "wordCount": 4463,
-          "title": "Working with the Inventory Visibility Service for Dynamics 365 Supply Chain Management (part 1)",
-          "imageUrl": "https://henrikmarxlarsen.files.wordpress.com/2022/06/warehouse-1-2.jpg?w=1200"
         }
       ]
     },
@@ -27636,6 +27756,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/through-the-looking-glass-power-apps-and-realwear/",
+          "author": "Arijit Basu",
+          "description": "Today we’re thrilled to announce the availability of Microsoft Power Apps public preview on RealWear devices and the RealWear Marketplace. The ability to build and deploy custom solutions for frontline professionals on RealWear devices is another step in our vision to empower every individual on the planet.\nThe post Through the looking glass: Power Apps and RealWear appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/through-the-looking-glass-power-apps-and-realwear/",
+          "publishedOn": "2024-06-19T15:00:00.000Z",
+          "wordCount": 3243,
+          "title": "Through the looking glass: Power Apps and RealWear",
+          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/06/Screenshot-2024-05-30-at-09.50.01.png"
+        },
         {
           "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/develop-a-tenant-environment-strategy-to-adopt-power-platform-at-scale/",
           "author": "Robert Standefer",
@@ -28617,9 +28747,9 @@
       ]
     },
     {
-      "title": "Microsoft Power Platform Blog",
+      "title": "Power Automate Archive - Microsoft Power Platform Blog",
       "feedUrl": "https://powerautomate.microsoft.com/en-nz/blog/feed/",
-      "siteUrl": "https://www.microsoft.com/en-us/power-platform/blog/",
+      "siteUrl": null,
       "articles": [
         {
           "id": "https://www.microsoft.com/en-us/power-platform/blog/2024/06/06/celebrating-a-year-of-innovation-announcing-the-microsoft-power-platform-templates-cookbook-challenge/",
@@ -28632,6 +28762,26 @@
           "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/06/PowerPlatform_Blog_Lifestyle_Icons-10_1200.png"
         },
         {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-automate/may-2024-update-of-power-automate-for-desktop/",
+          "author": "Yiannis Mavridis",
+          "description": "We are happy to announce that the May 2024 update of Power Automate for desktop (version 2.44) has been released! You can download the latest release here. Key features A new feature has been added, as described below. The Dataverse connector has now been introduced in preview The Microsoft Dataverse cloud connector is now available in\nThe post May 2024 update of Power Automate for desktop appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-automate/may-2024-update-of-power-automate-for-desktop/",
+          "publishedOn": "2024-06-04T15:00:00.000Z",
+          "wordCount": 2570,
+          "title": "May 2024 update of Power Automate for desktop",
+          "imageUrl": "https://powerautomateblogmedia.azureedge.net/powerautomateblog/2024/06/Dataverse-connector-actions.png"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-automate/generative-ai-prompts-to-automate-content-processing/",
+          "author": "Gwenael Bego",
+          "description": "We are excited to share the newest AI Builder features in Power Automate, giving citizen developers advanced tools to incorporate content processing skills that leverage Generative AI. Keep reading to find out more about how to craft Power Automate actions that will transform your business processes with the power of GPT-4, including the ability to\nThe post Generative AI Prompts to automate content processing appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-automate/generative-ai-prompts-to-automate-content-processing/",
+          "publishedOn": "2024-05-24T15:00:00.000Z",
+          "wordCount": 3198,
+          "title": "Generative AI Prompts to automate content processing",
+          "imageUrl": "https://powerautomateblogmedia.azureedge.net/powerautomateblog/2024/05/Custom-Prompt-DV-data-grounding.png"
+        },
+        {
           "id": "https://powerapps.microsoft.com/en-us/blog/unlock-new-levels-of-productivity-with-microsoft-dataverse-and-microsoft-copilot-studio/",
           "author": "Nirav Shah",
           "description": "Enhancing your AI business strategy with Microsoft Copilot Studio and Microsoft Dataverse enables organizations to simplify the complex data integration, third-party data extensibility, and security guardrails organizations must have in place to assist in the implementation and adoption of AI.\nThe post Unlock new levels of productivity with Microsoft Dataverse and Microsoft Copilot Studio appeared first on Microsoft Power Platform Blog.",
@@ -28640,6 +28790,36 @@
           "wordCount": 4464,
           "title": "Unlock new levels of productivity with Microsoft Dataverse and Microsoft Copilot Studio",
           "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/05/MSC24_1260.png"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-automate/super-charge-your-copilot-with-6-new-connector-based-plugins-along-with-74-new-connectors-releases-and-116-connector-updates-from-power-platform/",
+          "author": "Shefaali Patankar",
+          "description": "Super charge your Copilot with 4 new connector-based Plugins along with 74 New Connectors releases & 116 Connector Updates from Power Platform\nThe post Super charge your Copilot with 6 new connector-based Plugins along with 74 New Connectors releases and; 116 Connector Updates from Power Platform appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-automate/super-charge-your-copilot-with-6-new-connector-based-plugins-along-with-74-new-connectors-releases-and-116-connector-updates-from-power-platform/",
+          "publishedOn": "2024-05-21T16:30:00.000Z",
+          "wordCount": 6680,
+          "title": "Super charge your Copilot with 6 new connector-based Plugins along with 74 New Connectors releases and; 116 Connector Updates from Power Platform",
+          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/05/MSC24-India-remote-work-Getty-1281786783-rgb.jpg"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-automate/announcing-partner-center-to-certify-and-publish-power-platform-copilot-connectors-and-plugins/",
+          "author": "Shefaali Patankar",
+          "description": "Announcing Partner Center to certify Power Platform Copilot Connectors and Plugins\nThe post Announcing Partner Center to certify and publish Power Platform Copilot Connectors and Plugins appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-automate/announcing-partner-center-to-certify-and-publish-power-platform-copilot-connectors-and-plugins/",
+          "publishedOn": "2024-05-21T16:00:00.000Z",
+          "wordCount": 3394,
+          "title": "Announcing Partner Center to certify and publish Power Platform Copilot Connectors and Plugins",
+          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/05/blog.png"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-automate/revolutionize-the-way-you-work-with-automation-and-ai/",
+          "author": "Sangya Singh",
+          "description": "Continue reading to learn about new ways to automate, from outcome-based AI flows that simplify complex processes, to multi-modal AI recording that makes UI automation more natural, accessible, and resilient.\nThe post Revolutionize the way you work with automation and AI appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-automate/revolutionize-the-way-you-work-with-automation-and-ai/",
+          "publishedOn": "2024-05-21T15:30:00.000Z",
+          "wordCount": 3857,
+          "title": "Revolutionize the way you work with automation and AI",
+          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/05/small-office-1-1.png"
         },
         {
           "id": "https://www.microsoft.com/en-us/power-platform/blog/2024/05/21/new-ways-of-development-with-copilots-and-microsoft-power-platform/",
@@ -28682,6 +28862,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-automate/embed-workflows-in-your-power-bi-reports-with-power-automate-visual-now-generally-available-2/",
+          "author": "Ravon Lingard",
+          "description": "We are thrilled to announce that the Power Automate visual in Power BI has now reached General Availability (GA)! This is a significant milestone for Power Automate and Power BI users, as it enables them to streamline their workflow and gain valuable insights from their data in a more efficient way.\nThe post Embed workflows in your Power BI Reports with Power Automate Visual, now Generally Available appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-automate/embed-workflows-in-your-power-bi-reports-with-power-automate-visual-now-generally-available-2/",
+          "publishedOn": "2024-05-14T20:50:00.000Z",
+          "wordCount": 2821,
+          "title": "Embed workflows in your Power BI Reports with Power Automate Visual, now Generally Available",
+          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/05/Screenshot-2024-05-13-114602.png"
+        },
+        {
           "id": "embed-workflows-in-your-power-bi-reports-with-power-automate-visual-now-generally-available-2",
           "author": null,
           "description": "We are thrilled to announce that the Power Automate visual in Power BI has now reached General Availability (GA)! This is a significant milestone for Power Automate and Power BI users, as it enables them to streamline their workflow and gain valuable insights from their data in a more efficient way.",
@@ -28692,6 +28882,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-automate/microsoft-named-a-leader-in-the-2024-gartner-magic-quadrant-for-process-mining-platforms/",
+          "author": "Sangya Singh",
+          "description": "We are thrilled to announce that Microsoft has been recognized as a Leader in the 2024 Gartner® Magic Quadrant™ for Process Mining Platforms, an evaluation of 18 process mining vendors.\nThe post Microsoft named a Leader in the 2024 Gartner® Magic Quadrant™ for Process Mining Platforms appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-automate/microsoft-named-a-leader-in-the-2024-gartner-magic-quadrant-for-process-mining-platforms/",
+          "publishedOn": "2024-05-06T16:00:58.000Z",
+          "wordCount": 2833,
+          "title": "Microsoft named a Leader in the 2024 Gartner® Magic Quadrant™ for Process Mining Platforms",
+          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/04/4.30-MSC24-Canada-meeting-Getty-1187445656-rgb-1-.jpg"
+        },
+        {
           "id": "microsoft-named-a-leader-in-the-2024-gartner-magic-quadrant-for-process-mining-platforms",
           "author": null,
           "description": "We are thrilled to announce that Microsoft has been recognized as a Leader in the 2024 Gartner® Magic Quadrant™ for Process Mining Platforms, an evaluation of 18 process mining vendors.",
@@ -28700,6 +28900,26 @@
           "wordCount": 2670,
           "title": "Microsoft named a Leader in the 2024 Gartner® Magic Quadrant™ for Process Mining Platforms",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-automate/announcing-general-availability-of-customer-managed-keys-for-new-environments-in-power-automate/",
+          "author": "Sachin Mathur",
+          "description": "Following the successful launch of the Public Preview of Customer Managed encryption keys for Power Automate, we are excited to announce general availability for this capability. With this capability, customers can bring their own encryption keys to secure their Power Automate data at rest.\nThe post Announcing General Availability of Customer Managed Keys for new environments in Power Automate appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-automate/announcing-general-availability-of-customer-managed-keys-for-new-environments-in-power-automate/",
+          "publishedOn": "2024-04-30T15:47:56.000Z",
+          "wordCount": 2888,
+          "title": "Announcing General Availability of Customer Managed Keys for new environments in Power Automate",
+          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/06/cmk-add-environments-enterprise-policy-1.png"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-automate/april-2024-update-of-power-automate-for-desktop/",
+          "author": "Yiannis Mavridis",
+          "description": "Power Automate for desktop comes with new great additions in 2024 April’s release, including UI elements collections, Copilot for flow descriptions, multiple new actions in several modules, and more!\nThe post April 2024 update of Power Automate for desktop appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-automate/april-2024-update-of-power-automate-for-desktop/",
+          "publishedOn": "2024-04-30T15:17:00.000Z",
+          "wordCount": 3078,
+          "title": "April 2024 update of Power Automate for desktop",
+          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/04/UI-elements-collections.png"
         },
         {
           "id": "announcing-general-availability-of-customer-managed-keys-for-new-environments-in-power-automate",
@@ -28720,6 +28940,16 @@
           "wordCount": 2936,
           "title": "April 2024 update of Power Automate for desktop",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-automate/transforming-digital-processes-with-ai-a-power-automate-process-mining-case-study-at-microsoft-customer-and-partner-solutions-mcaps/",
+          "author": "Anjli Chaudhry",
+          "description": "How can businesses streamline their processes and optimize their performance with process mining? Microsoft Customer and Partner Solutions organization has been using Power Automate Process Mining with Copilot to analyze, improve, and monitor their sales processes. The results have been impressive for their marketing demand generation process. Read on to learn how they did it, and how you can benefit from Power Automate Process Mining too.\nThe post Transforming digital processes with AI: A Power Automate Process Mining Case Study at Microsoft Customer and Partner Solutions (MCAPS) appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-automate/transforming-digital-processes-with-ai-a-power-automate-process-mining-case-study-at-microsoft-customer-and-partner-solutions-mcaps/",
+          "publishedOn": "2024-04-18T16:46:04.000Z",
+          "wordCount": 3119,
+          "title": "Transforming digital processes with AI: A Power Automate Process Mining Case Study at Microsoft Customer and Partner Solutions (MCAPS)",
+          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/04/MCAPS-Demand-Gen.png"
         },
         {
           "id": "https://www.microsoft.com/en-us/power-platform/blog/2024/04/18/how-microsoft-power-platform-is-driving-real-world-impact-march-customer-success-stories/",
