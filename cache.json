@@ -1425,6 +1425,26 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=107974",
+          "author": "Ken Sebahar",
+          "description": "As a Microsoft partner focused on implementing and supporting Microsoft’s Dynamics 365 Business Central ERP solution, we have experienced first-hand the huge increase in organizations that have chosen to migrate […]\nThe post Building the Bridge for Business Central Integrations appeared first on ERP Software Blog.\nLearn How To Save Time By Using The \"Cancel\" Option to Reverse A Posted Sales Invoice\nCreate A New Item In Dynamics 365 Business Central\n3 ways to optimize your financial processes with Business Central",
+          "link": "https://erpsoftwareblog.com/2024/06/building-the-bridge-for-business-central-integrations/",
+          "publishedOn": "2024-06-21T15:02:38.000Z",
+          "wordCount": 4868,
+          "title": "Building the Bridge for Business Central Integrations",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/BC-Integrations-II.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=107963",
+          "author": "GP Support North",
+          "description": "Dynamics GP Productivity with Built-In Automated Workflows come with Dynamics GP (Great Plains), learn how to configure GP yourself to set these workflows up.  Also included are recommendations for an add-on to attach documents in GP AP workflow.\nThe post Boost Your Dynamics GP Productivity with Built-In Automated Workflows appeared first on ERP Software Blog.\nUpdated forecast for the Dynamics GP 18.6 (GP 2024) release from Microsoft\nEnhancing Efficiency and Security with an Up-to-Date Dynamics GP in 2024\nDynamics GP Support Inquiries or Horror Stories?",
+          "link": "https://erpsoftwareblog.com/2024/06/boost-your-dynamics-gp-productivity-with-built-in-automated-workflows/",
+          "publishedOn": "2024-06-21T14:01:20.000Z",
+          "wordCount": 4322,
+          "title": "Boost Your Dynamics GP Productivity with Built-In Automated Workflows",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/AP-Workflow2.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=107953",
           "author": "Insight Works",
           "description": "Insight Works grows their reseller network by adding nine new Microsoft Partners, enhancing global manufacturing and distribution solutions.\nThe post Insight Works Welcomes Nine New Microsoft Partners to Strengthen Global Solutions appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
@@ -9773,6 +9793,86 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/madic-dynamics-knowledge-hub-webinars-upgrading-to-business-central",
+          "author": "Ian Grieve",
+          "description": "In our most recent webinar here at MADIC dynamics, we took a look at Upgrading (to) Business Central. If you want to catch up on this webinar, you can do […]",
+          "link": "https://365community.online/madic-dynamics-knowledge-hub-webinars-upgrading-to-business-central",
+          "publishedOn": "2024-06-21T14:00:42.000Z",
+          "wordCount": 3246,
+          "title": "MADIC dynamics Knowledge Hub Webinars: Upgrading to Business Central",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/sorting-in-data-structure-dsa-tutorial-youtube",
+          "author": "Sourav Raj",
+          "description": "Sorting in Data Structure| DSA Tutorial In this video series, we dive deep into the core concepts and implementation details of various sorting algorithms, including bubble sort, insertion sort, selection […]",
+          "link": "https://365community.online/sorting-in-data-structure-dsa-tutorial-youtube",
+          "publishedOn": "2024-06-21T13:06:15.000Z",
+          "wordCount": 3413,
+          "title": "Sorting in Data Structure| DSA Tutorial – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/1719008689_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/create-brand-profiles-in-customer-insights-journeys-to-create-cohesive-brand-experiences",
+          "author": "Inogic",
+          "description": "In this blog, we will learn about one of the new features introduced by Microsoft in Dynamics 365 in 2024 Release Wave 1, i.e., the creation of Brand Profiles. Each […]",
+          "link": "https://365community.online/create-brand-profiles-in-customer-insights-journeys-to-create-cohesive-brand-experiences",
+          "publishedOn": "2024-06-21T12:10:07.000Z",
+          "wordCount": 3548,
+          "title": "Create Brand Profiles in Customer Insights – Journeys to Create Cohesive Brand Experiences",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/Create-Brand-Profiles-in-Dynamics-365-Customer-Insights.png?fit=1200%2C686&ssl=1"
+        },
+        {
+          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-sales-how-do-i-assign-number-series-in-sales",
+          "author": "Ian Grieve",
+          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Sales), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]",
+          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-sales-how-do-i-assign-number-series-in-sales",
+          "publishedOn": "2024-06-21T10:00:05.000Z",
+          "wordCount": 3275,
+          "title": "In Microsoft Dynamics 365 Business Central (Sales), how do I… Assign Number Series in Sales",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/In-Microsoft-Dynamics-365-Business-Central-Sales-how-do-I….png?fit=1176%2C792&ssl=1"
+        },
+        {
+          "id": "https://365community.online/business-central-migrate-sift-to-ncci-technology",
+          "author": "Roberto Stefanetti",
+          "description": "Business Central migrate SIFT to NCCI Technology Understand the Context: Migrating from SumIndexField Technology (SIFT) to Nonclustered Columnstore Indexes (NCCIs) SIFT keys are maintained when data is inserted, updated, or deleted in a […]",
+          "link": "https://365community.online/business-central-migrate-sift-to-ncci-technology",
+          "publishedOn": "2024-06-21T07:41:28.000Z",
+          "wordCount": 3232,
+          "title": "Business Central migrate SIFT to NCCI Technology",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-dynamics-365-sales-summer-vibes",
+          "author": "jarmesto",
+          "description": "Summer is filled with moments of relaxation, and what better time to review the latest updates for Microsoft Dynamics 365 Sales? The main goals outlined in the document are to […]",
+          "link": "https://365community.online/microsoft-dynamics-365-sales-summer-vibes",
+          "publishedOn": "2024-06-21T07:14:00.000Z",
+          "wordCount": 3216,
+          "title": "Microsoft Dynamics 365 Sales : Summer Vibes",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/1718958872_Microsoft-Dynamics-365-Sales-Summer-Vibes.jpeg?fit=1024%2C1024&ssl=1"
+        },
+        {
+          "id": "https://365community.online/cybersecurity-quiz-series-test-your-knowledge-with-mindmajix-part-10-10-youtube",
+          "author": "Jaya Sri",
+          "description": "“Are you ready to challenge your cybersecurity knowledge? Join MindMajix for an engaging and educational quiz series that covers essential concepts, trends, and threats in cybersecurity. Subscribe now and stay […]",
+          "link": "https://365community.online/cybersecurity-quiz-series-test-your-knowledge-with-mindmajix-part-10-10-youtube",
+          "publishedOn": "2024-06-21T04:30:14.000Z",
+          "wordCount": 3185,
+          "title": "Cybersecurity Quiz Series | Test Your Knowledge with MindMajix ! Part 10/10 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/1719009188_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/torne-se-um-citizen-developer-aula-4-youtube",
+          "author": "Victor Dantas",
+          "description": "Torne-se um Citizen Developer – Aula 4 source",
+          "link": "https://365community.online/torne-se-um-citizen-developer-aula-4-youtube",
+          "publishedOn": "2024-06-20T20:29:43.000Z",
+          "wordCount": 3129,
+          "title": "Torne-se um Citizen Developer – Aula 4 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/1718946588_maxresdefault_live.jpg?fit=1200%2C675&ssl=1"
+        },
         {
           "id": "https://365community.online/expense-reports-dates-tbd",
           "author": "Sarang Kusare",
@@ -26189,6 +26289,16 @@
       "siteUrl": "https://alexvoy.blogspot.com/",
       "articles": [
         {
+          "id": "https://alexvoy.blogspot.com/2024/06/importing-bacpac-file-to-development.html",
+          "author": null,
+          "description": "Just to memorize some steps to import a database from a bacpac file.\n\nDownload and run the DacFramework.msi installer for Windows\nPut the backup.bacpac file close to the SQL database, say, in the root folder on disk G:\nRun the bat file. \n\n\n\n\n@echo Importing a bacpac data to SQL database\nc:\ncd C:\\Program Files\\Microsoft SQL Server\\160\\DAC\\bin\nSqlPackage.exe /a:import /sf:G:\\backup.bacpac /tsn:localhost /tdn:AxDB_Restored /p:CommandTimeout=1200 /TargetTrustServerCertificate:True\npause\n\n\n\nTake note about the last option: without it importing fails with the following error.",
+          "link": "https://alexvoy.blogspot.com/2024/06/importing-bacpac-file-to-development.html",
+          "publishedOn": "2024-06-21T21:52:00.006Z",
+          "wordCount": 2080,
+          "title": "Importing a bacpac file to a development box SQL",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgnHTE5w3mYPJy55dR4u-7qGssIL32X6o6urKSvwPopvQCf38Or2xjqmB0DBtpSwP4RnTP26bvjlfLQUSuyggKvkyhD5a7kZSQ_pYuUexD5-iGmRS6iLqM00MWJJVKm-sMIaIbm_bNE9KFvZK96yfTS83k86ekG1tgsy1cblTJGi6GCO92PMpTnLBkj-Ag=w1200-h630-p-k-no-nu"
+        },
+        {
           "id": "https://alexvoy.blogspot.com/2024/02/project-intercompany-invoice-sales-tax.html",
           "author": null,
           "description": "While Microsoft working on this issue, let me show you how you can fix it in the current code running on 10.0.37 or lower.\nScenario\nWhen using the project intercompany customer invoice form in Project management and accounting module , you can create a customer invoice to bill to an intercompany customer. As the customer is intercompany, there is a legal entity (LE) associated with that customer. When posting the intercompany customer invoice, a pending vendor invoice is created in the customer’s LE with the same lines from the customer invoice.\n\n\nYou can see calculated Sales taxes via Sales tax button\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIssue\n\n\nIf you try to add more lines, it will be added with line number 1, and sales taxes won't be added with this newly added line. Note: If you delete any line here a…",
@@ -26450,6 +26560,16 @@
       "feedUrl": "https://ax.docentric.com/blog/feed/",
       "siteUrl": "https://ax.docentric.com/blog/",
       "articles": [
+        {
+          "id": "https://ax.docentric.com/?p=28680",
+          "author": "Miha Vuk",
+          "description": "In your daily operations you certainly want to avoid all errors and if they do occur, you want to be informed promptly and precisely and solve the errors as soon as possible. When working with periodic batch jobs with standard D365FO you often run into […]\nThe post Batch job alerts and export (large untruncated) batch job logs appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/batch-job-alerts-and-export-large-untruncated-batch-job-logs/",
+          "publishedOn": "2024-06-21T08:40:43.000Z",
+          "wordCount": 11944,
+          "title": "Batch job alerts and export (large untruncated) batch job logs",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/06/D365Blog_Batch_job_alerts_and_export_large_untruncated_batch-job-logs_main.png"
+        },
         {
           "id": "https://ax.docentric.com/?p=28406",
           "author": "Irena Vujcic Pavlovic",
