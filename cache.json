@@ -9794,6 +9794,16 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/copilot-studio-new-style-voice-bots",
+          "author": "Neil Parkhurst",
+          "description": "Microsoft have recently published updates to the voice channel which allow us to use the newer style Copilot BOTs in voice scenarios. In this post I will explore some of […]",
+          "link": "https://365community.online/copilot-studio-new-style-voice-bots",
+          "publishedOn": "2024-06-22T06:05:23.000Z",
+          "wordCount": 3216,
+          "title": "Copilot Studio – New Style Voice BOTs",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/Copilot-Studio-–-New-Style-Voice-BOTs.png?fit=1024%2C1024&ssl=1"
+        },
+        {
           "id": "https://365community.online/madic-dynamics-knowledge-hub-webinars-upgrading-to-business-central",
           "author": "Ian Grieve",
           "description": "In our most recent webinar here at MADIC dynamics, we took a look at Upgrading (to) Business Central. If you want to catch up on this webinar, you can do […]",
@@ -9822,6 +9832,26 @@
           "wordCount": 3548,
           "title": "Create Brand Profiles in Customer Insights – Journeys to Create Cohesive Brand Experiences",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/Create-Brand-Profiles-in-Dynamics-365-Customer-Insights.png?fit=1200%2C686&ssl=1"
+        },
+        {
+          "id": "https://365community.online/automate-scheduling-for-field-service-reps-with-competency-allocation-within-dynamics-365",
+          "author": "Inogic",
+          "description": "The world of field service revolves around efficiency. Every minute saved is a minute gained for more jobs completed, happier customers, and a healthier bottom line. But to truly be […]",
+          "link": "https://365community.online/automate-scheduling-for-field-service-reps-with-competency-allocation-within-dynamics-365",
+          "publishedOn": "2024-06-21T12:00:27.000Z",
+          "wordCount": 3468,
+          "title": "Automate scheduling for Field Service Reps with ‘Competency Allocation’ within Dynamics 365",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/Maplytics-Blog-8.png?fit=1200%2C686&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-dark-side-of-cyber-security-certification-youtube",
+          "author": "shabaz darr",
+          "description": "In this video, we explore the dark side of cyber security certification and discuss how to design cloud, hybrid, and multi-cloud access strategies for the SC-100 exam. Get ready to […]",
+          "link": "https://365community.online/the-dark-side-of-cyber-security-certification-youtube",
+          "publishedOn": "2024-06-21T11:23:44.000Z",
+          "wordCount": 3192,
+          "title": "The Dark Side of Cyber Security Certification – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/1719056205_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         },
         {
           "id": "https://365community.online/in-microsoft-dynamics-365-business-central-sales-how-do-i-assign-number-series-in-sales",
@@ -21827,6 +21857,16 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=6036",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2024/06/22/power-platform-adoption-an-alternative-aspect/",
+          "publishedOn": "2024-06-22T10:58:34.000Z",
+          "wordCount": 3433,
+          "title": "Power Platform Adoption – an alternative aspect",
+          "imageUrl": "https://dynamicsax-fico.com/wp-content/uploads/2024/04/english.png"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=5849",
           "author": "Ludwig Reinhard",
           "description": "Visit the post for more.",
@@ -27825,16 +27865,6 @@
           "wordCount": 4227,
           "title": "Order Events in Dynamics 365 Supply Chain Management",
           "imageUrl": "https://henrikmarxlarsen.files.wordpress.com/2022/09/header.jpg"
-        },
-        {
-          "id": "http://henrikmarxlarsen.wordpress.com/?p=2765",
-          "author": "Henrik Marx Larsen",
-          "description": "The Inventory Visibility service allows external applications to interact with inventory in Dynamics 365 Supply Chain Management in real-time. This two-part article explorer how this is done.",
-          "link": "https://henrikmarxlarsen.wordpress.com/2022/06/24/working-with-the-inventory-visibility-service-for-dynamics-365-supply-chain-management-part-2/",
-          "publishedOn": "2022-06-24T07:43:09.000Z",
-          "wordCount": 4053,
-          "title": "Working with the Inventory Visibility Service for Dynamics 365 Supply Chain Management (part 2)",
-          "imageUrl": "https://henrikmarxlarsen.files.wordpress.com/2022/06/warehouse-1-2.jpg?w=1200"
         }
       ]
     },
@@ -28867,9 +28897,9 @@
       ]
     },
     {
-      "title": "Power Automate Archive - Microsoft Power Platform Blog",
+      "title": "Microsoft Power Platform Blog",
       "feedUrl": "https://powerautomate.microsoft.com/en-nz/blog/feed/",
-      "siteUrl": null,
+      "siteUrl": "https://www.microsoft.com/en-us/power-platform/blog/",
       "articles": [
         {
           "id": "https://www.microsoft.com/en-us/power-platform/blog/2024/06/06/celebrating-a-year-of-innovation-announcing-the-microsoft-power-platform-templates-cookbook-challenge/",
