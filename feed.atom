@@ -2,10 +2,208 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-06-23T00:46:07.071Z</updated>
+    <updated>2024-06-25T00:42:32.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5 Tips for a Seamless Transition to Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=108012</id>
+        <link href="https://erpsoftwareblog.com/2024/06/5-tips-for-a-seamless-transition-to-business-central/"/>
+        <updated>2024-06-24T20:47:58.000Z</updated>
+        <summary type="html"><![CDATA[The migration to Microsoft Dynamics 365 Business Central can seem daunting, but we are here to help you make the switch as easy as possible. Here are 5 helpful tips […]
+The post 5 Tips for a Seamless Transition to Business Central appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+Everything you need to know about Warehouse Order Picking Methods
+Learn How To Save Time By Using The "Cancel" Option to Reverse A Posted Sales Invoice]]></summary>
+        <author>
+            <name>Turnkey Technologies, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Five Ways AP Automation Supports Rapid Growth and Scalability in Tech]]></title>
+        <id>https://erpsoftwareblog.com/?p=108007</id>
+        <link href="https://erpsoftwareblog.com/2024/06/five-ways-ap-automation-supports-rapid-growth-and-scalability-in-tech/"/>
+        <updated>2024-06-24T19:13:30.000Z</updated>
+        <summary type="html"><![CDATA[AP automation has become indispensable for technology organizations aiming to efficiently manage finances and expand operations. How do solutions like MetaViewer support growth in tech enterprises? Here are five key […]
+The post Five Ways AP Automation Supports Rapid Growth and Scalability in Tech appeared first on ERP Software Blog.
+Optimizing Payment Accuracy: The Role of AP Automation in Mitigating Errors
+Fixing the Invoice-to-Pay Problem
+Top Reasons To Automate Accounts Payable]]></summary>
+        <author>
+            <name>MetaViewer from Metafile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clean Start vs Upgrade: 2 Paths from Dynamics NAV to Dynamics 365 Business Central]]></title>
+        <id>https://www.encorebusiness.com/?p=62485</id>
+        <link href="https://www.encorebusiness.com/blog/clean-start-vs-upgrade-bc-nav/"/>
+        <updated>2024-06-24T19:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Clean Start vs Upgrade: 2 Paths from Dynamics NAV to Dynamics 365 Business Central
+If you are on Dynamics NAV and preparing to move to Dynamics 365 Business Central, it can be tough to know which of the two approaches you should take for this change. Clean Start: Also called a reimplementation, a clean start lets you optimize and update your business processes with fresh data and updated configurations,...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Tracy Gillis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Access Table Data From Every Web Form With Power Pages]]></title>
+        <id>https://www.encorebusiness.com/?p=62380</id>
+        <link href="https://www.encorebusiness.com/blog/access-table-data-from-every-web-form-with-power-pages/"/>
+        <updated>2024-06-24T15:11:54.000Z</updated>
+        <summary type="html"><![CDATA[Access Table Data From Every Web Form With Power Pages
+I recently ran into a situation with Power Pages where I needed a Dataverse/CE value accessible on several different Web Form Steps, but that value was not housed by a form control; it was for display information only. This is not possible all on its own, so some development must happen. I pondered my options...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Gary Harrison</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Release of D365FO Admin Toolkit v1.5]]></title>
+        <id>https://365community.online/new-release-of-d365fo-admin-toolkit-v1-5</id>
+        <link href="https://365community.online/new-release-of-d365fo-admin-toolkit-v1-5"/>
+        <updated>2024-06-24T14:29:37.000Z</updated>
+        <summary type="html"><![CDATA[It’s time for another release of the D365FO Admin Toolkit, we are now on version 1.5! Version 1.5 Release D365FO Admin Toolkit v1.5 Release D365FO Admin Toolkit GitHub Note: This […]]]></summary>
+        <author>
+            <name>Alex Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Release of D365FO Admin Toolkit v1.5]]></title>
+        <id>https://alexdmeyer.com/?p=3242</id>
+        <link href="https://alexdmeyer.com/2024/06/24/new-release-of-d365fo-admin-toolkit-v1-5/"/>
+        <updated>2024-06-24T14:29:37.000Z</updated>
+        <summary type="html"><![CDATA[It’s time for another release of the D365FO Admin Toolkit, we are now on version 1.5! Version 1.5 Release D365FO Admin Toolkit v1.5 Release D365FO Admin Toolkit GitHub Note: This release has been built against a 10.0.39 version of D365FO. Let’s look at the new features and functionality and bug fixes in this release! New […]
+The post New Release of D365FO Admin Toolkit v1.5 appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Innovative Access Control Strategies – YouTube]]></title>
+        <id>https://365community.online/innovative-access-control-strategies-youtube</id>
+        <link href="https://365community.online/innovative-access-control-strategies-youtube"/>
+        <updated>2024-06-24T14:20:36.000Z</updated>
+        <summary type="html"><![CDATA[Learn innovative access control strategies for securing AD DS and designing IAM solutions for the sc-100 exam in this comprehensive video guide. Episode Breakdown – 00:00 – Episode Intro 00:56 […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide to Using D365 Business Central for Growing Businesses]]></title>
+        <id>https://erpsoftwareblog.com/?p=108002</id>
+        <link href="https://erpsoftwareblog.com/2024/06/a-guide-to-using-d365-business-central-for-growing-businesses/"/>
+        <updated>2024-06-24T13:35:12.000Z</updated>
+        <summary type="html"><![CDATA[Scaling Made Simple: A Guide to Using D365 BC for Growing Businesses  Many businesses start lean and agile, leveraging solutions like Microsoft Dynamics 365 Business Central to manage core operations […]
+The post A Guide to Using D365 Business Central for Growing Businesses appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redirect AVD URL with a static web app]]></title>
+        <id>https://365community.online/redirect-avd-url-with-a-static-web-app</id>
+        <link href="https://365community.online/redirect-avd-url-with-a-static-web-app"/>
+        <updated>2024-06-24T12:16:04.000Z</updated>
+        <summary type="html"><![CDATA[When you read the title like this, you think "That could be pretty handy!". So that's why I put it in writing. I had this a recent customer, where I […]]]></summary>
+        <author>
+            <name>Jeroen Burgerhout</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[European Power Platform Conference (EPPC) 2024 Highlights: Announcements, Updates and Brussels!]]></title>
+        <id>https://365community.online/european-power-platform-conference-eppc-2024-highlights-announcements-updates-and-brussels</id>
+        <link href="https://365community.online/european-power-platform-conference-eppc-2024-highlights-announcements-updates-and-brussels"/>
+        <updated>2024-06-24T12:06:16.000Z</updated>
+        <summary type="html"><![CDATA[This time, let’s do things differently! We are thrilled to announce that we are back at one of the biggest yearly Power Platform events for the amazing Power Platform Community […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot en Business Central : Sugerencias de líneas venta.]]></title>
+        <id>https://365community.online/copilot-en-business-central-sugerencias-de-lineas-venta</id>
+        <link href="https://365community.online/copilot-en-business-central-sugerencias-de-lineas-venta"/>
+        <updated>2024-06-24T10:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Una de las nuevas características de Copilot en Business Central son la sugerencias de líneas de venta. Con ellas podemos obtener usando lenguaje natural propuestas de líneas venta rápidamente. Ahora […]]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Administration), how do I… Understand the Master Data Management]]></title>
+        <id>https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-understand-the-master-data-management</id>
+        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-understand-the-master-data-management"/>
+        <updated>2024-06-24T10:00:10.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 Benefits of Integrating a Vendor Portal with Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=107998</id>
+        <link href="https://erpsoftwareblog.com/2024/06/top-5-benefits-of-integrating-a-vendor-portal-with-business-central/"/>
+        <updated>2024-06-24T08:05:14.000Z</updated>
+        <summary type="html"><![CDATA[In today’s fast-paced business environment, efficiency and streamlined workflows are critical to maintaining a competitive edge. For organizations using Microsoft Dynamics 365 Business Central, integrating a vendor portal can be […]
+The post Top 5 Benefits of Integrating a Vendor Portal with Business Central appeared first on ERP Software Blog.
+How MetaDocs Can Help You Streamline Document Management in Business Central
+Dynamics GP vs. Dynamics 365 Business Central: Rethinking Your ERP in 2024
+Mastering Quality Control: A Deep Dive into Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Choose DAX for Dynamics 365 is a Success? All You Need to Know]]></title>
+        <id>https://erpsoftwareblog.com/?p=107993</id>
+        <link href="https://erpsoftwareblog.com/2024/06/why-choose-dax-for-dynamics-365-is-a-success-all-you-need-to-know/"/>
+        <updated>2024-06-24T07:19:44.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics 365, a suite of enterprise resource planning (ERP) and customer relationship management (CRM) applications, has emerged as a pivotal tool for organizations aiming to streamline their processes and enhance […]
+The post Why Choose DAX for Dynamics 365 is a Success? All You Need to Know appeared first on ERP Software Blog.
+Microsoft makes training options available for Dynamics GP easy and convenient.
+Google for the perfect Microsoft Dynamics GP (Great Plains) Partner for you!
+Hassle Free Upgrades with Dynamics GP Resellers!]]></summary>
+        <author>
+            <name>DAX Software Solutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use Recycle Bin to restore deleted records (Preview)– Dataverse / Dynamics 365]]></title>
+        <id>https://365community.online/use-recycle-bin-to-restore-deleted-records-preview-dataverse-dynamics-365</id>
+        <link href="https://365community.online/use-recycle-bin-to-restore-deleted-records-preview-dataverse-dynamics-365"/>
+        <updated>2024-06-24T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[To enable the feature, log in to Power Platform Admin Center https://admin.powerplatform.microsoft.com/environments Environment >> Settings >> Features and enable it We can specify 30 days as the maximum recovery time. […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigate Dynamics 365 F&O using Copilot]]></title>
+        <id>https://dynamicspedia.com/?p=19071</id>
+        <link href="https://dynamicspedia.com/2024/06/navigate-dynamics-365-fo-using-copilot/"/>
+        <updated>2024-06-23T15:12:37.000Z</updated>
+        <summary type="html"><![CDATA[This week, I presented about AI in Microsoft Dynamics 365 F&O together with Hylke Britstra at a Dutch Dynamics Community event. While preparing for the session, I created some demos to extend the Copilot sidecar and found some hints in the coding for using natural language to navigate the application. I will elaborate on the […]
+The post Navigate Dynamics 365 F&O using Copilot appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Studio – DTMF Only Mode in IVR]]></title>
+        <id>https://365community.online/copilot-studio-dtmf-only-mode-in-ivr</id>
+        <link href="https://365community.online/copilot-studio-dtmf-only-mode-in-ivr"/>
+        <updated>2024-06-23T05:26:20.000Z</updated>
+        <summary type="html"><![CDATA[Recently one of my LinkedIn contacts reached out with an excellent question about Microsoft’s Omnichannel for Customer Service and Copilot Studio BOTs …. “With a new style Copilot Studio voice […]]]></summary>
+        <author>
+            <name>Neil Parkhurst</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Power Platform Adoption – an alternative aspect]]></title>
         <id>http://dynamicsax-fico.com/?p=6036</id>
@@ -14,6 +212,16 @@
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If else statement in C Programming – YouTube]]></title>
+        <id>https://365community.online/if-else-statement-in-c-programming-youtube</id>
+        <link href="https://365community.online/if-else-statement-in-c-programming-youtube"/>
+        <updated>2024-06-22T10:55:31.000Z</updated>
+        <summary type="html"><![CDATA[If else statement in C Programming Welcome to our C Programming tutorial series! In this video, we dive deep into the essential if…else statement. If you’re just starting out or […]]]></summary>
+        <author>
+            <name>Sourav Raj</name>
         </author>
     </entry>
     <entry>
@@ -51,6 +259,20 @@ pause
 Take note about the last option: without it importing fails with the following error.]]></summary>
         <author>
             <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navision Support Solutions: What Are Your Best Options?]]></title>
+        <id>https://erpsoftwareblog.com/?p=107971</id>
+        <link href="https://erpsoftwareblog.com/2024/06/navision-support-solutions/"/>
+        <updated>2024-06-21T16:21:59.000Z</updated>
+        <summary type="html"><![CDATA[Navision has long been a cornerstone of ERP solutions, celebrated for its reliability in the business world. Since its inception in 1984 by a Danish software company, Navision has undergone […]
+The post Navision Support Solutions: What Are Your Best Options? appeared first on ERP Software Blog.
+Microsoft Navision ERP Explained
+Oh No! Do We Really Have To? Don’t Panic…Upgrading Microsoft Dynamics NAV (Navision) is Easier Than You Think
+What's New in Microsoft Dynamics NAV 2013]]></summary>
+        <author>
+            <name>NAVtoBC</name>
         </author>
     </entry>
     <entry>
@@ -204,6 +426,17 @@ With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summar
         <summary type="html"><![CDATA[Torne-se um Citizen Developer – Aula 4 source]]></summary>
         <author>
             <name>Victor Dantas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Work with complex data models in an ERD view assisted by Copilot]]></title>
+        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/work-with-complex-data-models-in-an-erd-view-assisted-by-copilot/</id>
+        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/work-with-complex-data-models-in-an-erd-view-assisted-by-copilot/"/>
+        <updated>2024-06-20T16:48:29.000Z</updated>
+        <summary type="html"><![CDATA[Introducing the new ERD-view data experience that streamlines the management of complex data models with Copilot assistance. 
+The post Work with complex data models in an ERD view assisted by Copilot appeared first on Microsoft Power Platform Blog.]]></summary>
+        <author>
+            <name>Travis Shu</name>
         </author>
     </entry>
     <entry>
@@ -2867,7 +3100,7 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         <updated>2024-05-21T08:30:00.000Z</updated>
         <summary type="html"><![CDATA[Continue reading to learn about new ways to automate, from outcome-based AI flows that simplify complex processes, to multi-modal AI recording that makes UI automation more natural, accessible, and resilient.]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -2877,7 +3110,7 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         <updated>2024-05-21T08:00:46.000Z</updated>
         <summary type="html"><![CDATA[Super charge your Copilot with 6 new connector-based Plugins along with 74 New Connectors releases and; 116 Connector Updates from Power Platform]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -2887,7 +3120,7 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         <updated>2024-05-21T08:00:14.000Z</updated>
         <summary type="html"><![CDATA[Announcing Partner Center to certify and publish Power Platform Copilot connectors and plugins]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -3895,7 +4128,7 @@ The post Improved Project sales tax capabilities now available appeared first on
         <updated>2024-05-14T13:50:00.000Z</updated>
         <summary type="html"><![CDATA[We are thrilled to announce that the Power Automate visual in Power BI has now reached General Availability (GA)! This is a significant milestone for Power Automate and Power BI users, as it enables them to streamline their workflow and gain valuable insights from their data in a more efficient way.]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -5122,7 +5355,7 @@ Enhance Shipping Functions in Business Central]]></summary>
         <updated>2024-05-06T08:00:58.000Z</updated>
         <summary type="html"><![CDATA[We are thrilled to announce that Microsoft has been recognized as a Leader in the 2024 Gartner® Magic Quadrant™ for Process Mining Platforms, an evaluation of 18 process mining vendors.]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -6053,7 +6286,7 @@ Dynamics GP & POS (RMH) Integration by x2x-eCommerce]]></summary>
         <updated>2024-04-30T07:47:56.000Z</updated>
         <summary type="html"><![CDATA[Following the successful launch of the Public Preview of Customer Managed encryption keys for Power Automate, we are excited to announce general availability for this capability. With this capability, customers can bring their own encryption keys to secure their Power Automate data at rest.]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -6063,7 +6296,7 @@ Dynamics GP & POS (RMH) Integration by x2x-eCommerce]]></summary>
         <updated>2024-04-30T07:17:00.000Z</updated>
         <summary type="html"><![CDATA[Power Automate for desktop comes with new great additions in 2024 April’s release, including UI elements collections, Copilot for flow descriptions, multiple new actions in several modules, and more!]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -7510,7 +7743,7 @@ Insight Works Announces Release of Shop Floor Insight Add-On for Dynamics 365 Bu
         <updated>2024-04-18T08:46:04.000Z</updated>
         <summary type="html"><![CDATA[How can businesses streamline their processes and optimize their performance with process mining? Microsoft Customer and Partner Solutions organization has been using Power Automate Process Mining with Copilot to analyze, improve, and monitor their sales processes. The results have been impressive for their marketing demand generation process. Read on to learn how they did it, and how you can benefit from Power Automate Process Mining too.]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -8856,7 +9089,7 @@ Binary Stream - Did You Know - Weekly Tips - Multi-Entity Management]]></summary
         <updated>2024-04-10T10:17:21.000Z</updated>
         <summary type="html"><![CDATA[The enterprise journey toward operational excellence is ongoing, and the adoption of hyperautomation has become a pivotal milestone. Microsoft Power Platform stands at the forefront of this movement, offering a suite of tools that transform the way businesses approach digital transformation at scale – and Microsoft Power Automate is a key accelerator.]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -9799,7 +10032,7 @@ Microsoft Dynamics 365 Business Central: The Future of Distribution Accounting]]
         <updated>2024-04-03T09:00:00.000Z</updated>
         <summary type="html"><![CDATA[Introducing a new data governance feature for desktop flows that allows administrators to control when desktop flow run action logs are captured or disable them completely]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -12561,7 +12794,7 @@ L’importance de la phase d’analyse durant l’implantation de votre ERP Micr
         <updated>2024-03-15T08:18:00.000Z</updated>
         <summary type="html"><![CDATA[Power Automate for desktop comes with new additions in 2024 March’s release, including new functionalities for Power Fx enabled desktop flows, a new Excel action, and more.]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -12571,7 +12804,7 @@ L’importance de la phase d’analyse durant l’implantation de votre ERP Micr
         <updated>2024-03-15T08:01:00.000Z</updated>
         <summary type="html"><![CDATA[General availability of auto-claim for Power Automate licenses, a feature that simplifies license management for admins and enhances the user experience.]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -12750,7 +12983,7 @@ Why Canada is the Best Place to Start Your Business]]></summary>
         <updated>2024-03-14T01:50:08.000Z</updated>
         <summary type="html"><![CDATA[Power Automate for desktop’s March release includes major updates for Power Fx enabled desktop flows (preview). IntelliSense capabilities, a revamped variable picker and a dedicated function picker assist makers in creating complex functions with minimal effort.]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -14092,7 +14325,7 @@ Free Business Central Apps to Fill the Gaps]]></summary>
         <updated>2024-03-05T10:50:00.000Z</updated>
         <summary type="html"><![CDATA[Microsoft Loop is a powerful productivity tool that enables collaborative work and flexible information organization. It provides teams with a shared workspace where they can create and collaborate on content such as notes, tasks, and files. Loop integrates seamlessly with Microsoft Power Automate, allowing users to automate repetitive tasks. By creating rules, you can trigger specific actions based on conditions, saving time and effort. For instance, you can set up a rule to send an email notification to your team whenever a new task is added to a project table in Loop. Overall, Loop enhances teamwork and streamlines communication by combining a shared workspace with automated workflows.]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -16840,7 +17073,7 @@ Unlocking Success with MetaPro: Revolutionizing Professional Services]]></summar
         <updated>2024-02-15T09:03:00.000Z</updated>
         <summary type="html"><![CDATA[Power Automate for desktop comes with new additions in 2024 February’s release, including the Picture-in-Picture run mode.]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -18365,7 +18598,7 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         <updated>2024-02-06T02:54:00.000Z</updated>
         <summary type="html"><![CDATA[We’re thrilled to share that AI Builder’s latest capabilities, which include automated custom invoice processing and the extraction of dates and numerical field types from documents, are officially available. These enhancements aim to streamline the configuration of bespoke AI models for automated data extraction from invoices and to enhance the precision of processing both structured and unstructured documents.]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -19531,7 +19764,7 @@ Benefits of ERP Integration with an eCommerce Platform]]></summary>
         <updated>2024-01-30T07:46:00.000Z</updated>
         <summary type="html"><![CDATA[Power Automate for desktop comes with new additions in 2023 January’s release, including AI-suggested actions, the support of blank values, single sign-on and multiple new actions including Word dedicated ones.]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -20713,7 +20946,7 @@ How Can Microsoft Dynamics enable better data access with powerful Financial Rep
         <updated>2024-01-22T15:04:00.000Z</updated>
         <summary type="html"><![CDATA[Discover three new Power Automate templates that help you focus on your critical tasks and save time.]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -21510,7 +21743,7 @@ Free Business Central Apps to Fill the Gaps]]></summary>
         <updated>2024-01-17T08:32:18.000Z</updated>
         <summary type="html"><![CDATA[This is a post about the general availability of Process Mining in GCC.]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -25462,7 +25695,7 @@ The post Dissecting the Warehouse Management app layout appeared first on ER-Con
         <updated>2023-12-19T09:17:35.000Z</updated>
         <summary type="html"><![CDATA[We are excited to announce that GPT Prompts with Prompt Builder, a new feature of AI Builder, is now generally available! GPT Prompts are powerful tools that enable you to add Generative AI capabilities to your automated workflows.]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -25492,7 +25725,7 @@ The post Dissecting the Warehouse Management app layout appeared first on ER-Con
         <updated>2023-12-19T07:08:00.000Z</updated>
         <summary type="html"><![CDATA[Power Automate for desktop comes with new additions in 2023 December’s release, including the support of input variables to a run URL and the introduction of Power Fx to desktop flows.]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -26521,7 +26754,7 @@ How Power BI help businesses to get more out of their data?]]></summary>
         <updated>2023-12-14T02:53:00.000Z</updated>
         <summary type="html"><![CDATA[Credential management is new feature that allows customers to create windows credentials using Azure Key vault secrets and use them in desktop flow connections.]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -27023,7 +27256,7 @@ Cloud-Based Rental ERP Software: The What, Why, and Benefits]]></summary>
         <updated>2023-12-11T08:00:05.000Z</updated>
         <summary type="html"><![CDATA[Streamline your organization’s approval processes with the Approvals Kit – a no-code, ready-made kit built on top of Power Platform components. With over 20 cloud flows and a Power Apps app, the Approvals Kit offers sophisticated approvals such as conditional branching, delegation, admin overrides, and more. And the best part? You can configure all of this without writing a single line of code. Try the Approvals Kit now and see how it can empower every person in your organization to ‘do more with less’ for your approval needs.]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -27033,7 +27266,7 @@ Cloud-Based Rental ERP Software: The What, Why, and Benefits]]></summary>
         <updated>2023-12-11T08:00:00.000Z</updated>
         <summary type="html"><![CDATA[Process Mining Copilot now available globally]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -29501,7 +29734,7 @@ Top 5 Takeaways from Microsoft Inspire 2023]]></summary>
         <updated>2023-11-17T04:35:00.000Z</updated>
         <summary type="html"><![CDATA[Power Automate for desktop comes with new additions in 2023 November’s release, including the introduction of Copilot for answering questions and generating scripts (in preview) and the availability of a new group of actions on SAP automation.]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -29634,7 +29867,7 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         <updated>2023-11-16T08:00:00.000Z</updated>
         <summary type="html"><![CDATA[ArcGIS, Meisterplan and Microsoft Translator among 60+ New Connectors, 50+ Connector Updates launched to get more value out of the box with Power Platform.]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -29808,7 +30041,7 @@ Contract:
         <updated>2023-11-15T08:00:11.000Z</updated>
         <summary type="html"><![CDATA[Today at Microsoft Ignite 2023, we’re sharing new ways you can automate and orchestrate business processes across your organization with Copilot in Microsoft Power Automate.]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -30028,7 +30261,7 @@ Supercharge Dynamics 365 Business Central for Supply Chain Excellence in Septemb
         <updated>2023-11-13T10:52:00.000Z</updated>
         <summary type="html"><![CDATA[Power Automate Cloud flows designer is being refreshed for the first time since initial launch of Microsoft Flow. Let’s go over what’s new and some tips and tricks in the new designer.]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -30114,7 +30347,7 @@ Take Control of Your ERP Data]]></summary>
         <updated>2023-11-10T08:00:44.000Z</updated>
         <summary type="html"><![CDATA[Nsure.com is a licensed digital insurance agency based in Florida, United States, that enables people to buy home and auto insurance on their smartphones, tablets, or computers. Recently, Nsure.com has been adopting and infusing Power Platform’s generative AI and copilot capabilities into some business processes to support sustainable growth of the business without increased operational costs. In this story, we’ll learn how Nsure’s business divisions have built automations with Power Platform and generative AI to increase efficiencies.]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -30696,7 +30929,7 @@ The post Back to the feature: Bulk editing in grids appeared first on Dynamicspe
         <updated>2023-10-31T06:25:04.000Z</updated>
         <summary type="html"><![CDATA[Now you can more easily manage automations by storing them automatically in Dataverse by default. Developers and admins can now easily migrate their non-solution cloud flows into Dataverse as well.]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -30852,7 +31085,7 @@ The post My Experience at Dynamics Communities North America Summit 2023 appeare
         <updated>2023-10-26T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[We’re excited to announce the public preview of a much-anticipated update to the Microsoft Dataverse connector in Power Automate. With the new ‘Environment’ parameter, you can use the Dataverse connector to seamlessly connect apps, data, and processes in different Power Platform environments.]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -31036,7 +31269,7 @@ The post D365FO Attachments Tips & Tricks: Why does DocuRef have two CompanyId f
         <updated>2023-10-25T07:13:00.000Z</updated>
         <summary type="html"><![CDATA[Work queues enable complex processes to be broken down into smaller parts, resulting in optimized performance and reduced risk of SLA breaches.]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -31090,7 +31323,7 @@ The post Managing Open-Ended Leave of Absence in Dynamics 365 HR appeared first 
         <updated>2023-10-24T04:48:00.000Z</updated>
         <summary type="html"><![CDATA[Power Automate for desktop comes with new additions in 2023 October’s release, including the introduction of four new cloud connectors, the simulation of some UI automation actions in the background, and the ability to edit the values of additional variable types during debugging.]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
@@ -31304,7 +31537,7 @@ The post Meet Us at Community Summit NA 2023 in Charlotte appeared first on Doce
         <updated>2023-10-12T12:04:09.000Z</updated>
         <summary type="html"><![CDATA[We are happy to announce that as part of the October 2023 release of the on-premises data gateway, we are adding support for NCo 3.1. This means that you can now use the latest version of the SAP Connector for Microsoft .NET to connect to your SAP systems from Power Automate, Power Apps, Power BI, and Azure Logic Apps.]]></summary>
         <author>
-            <name>Microsoft Power Platform Blog</name>
+            <name>Power Automate Archive - Microsoft Power Platform Blog</name>
         </author>
     </entry>
     <entry>
