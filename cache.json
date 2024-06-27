@@ -1425,6 +1425,26 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=108061",
+          "author": "MetaOption LLC",
+          "description": "In today’s data-driven world, businesses are swimming in information. But without the ability to translate that data into actionable insights, it can feel more like a burden than a treasure […]\nThe post Top 6 Benefits of Integrating Power BI with Dynamics 365 Business Central appeared first on ERP Software Blog.\nTop benefits of Power BI and Business Central Integration\nHarnessing Business Intelligence: Power BI Integration in Business Central\nTop 5 Microsoft Power BI benefits you should know in 2023",
+          "link": "https://erpsoftwareblog.com/2024/06/top-6-benefits-of-integrating-power-bi-with-business-central/",
+          "publishedOn": "2024-06-26T18:29:12.000Z",
+          "wordCount": 3919,
+          "title": "Top 6 Benefits of Integrating Power BI with Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-2-50.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=108052",
+          "author": "Dynamics Square USA",
+          "description": "Are you struggling to find the right Business Central implementation partner in Vancouver? If yes, you are at the right place. Choosing the right partner helps you reap the maximum […]\nThe post How to Choose a Reliable Business Central Implementation Partner in Canada appeared first on ERP Software Blog.\n5 Signs that moving to Microsoft Dynamics 365 Business Central is the right decision for your business\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve\nAdvanced Budgeting, Reporting and Consolidates Empowering Dynamics 365 Business Central",
+          "link": "https://erpsoftwareblog.com/2024/06/business-central-implementation-partner-in-canada/",
+          "publishedOn": "2024-06-26T08:24:44.000Z",
+          "wordCount": 4226,
+          "title": "How to Choose a Reliable Business Central Implementation Partner in Canada",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Business-Central-Implementation-Partner.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=108044",
           "author": "EthoTech",
           "description": "Would You Save Big by Switching to Sales Compensation Software? We all know it is a bad idea to delay your growth-oriented business activities. However, your organization may have willingly […]\nThe post 4 Reasons Why Dedicated Sales Compensation Software is Better Than Excel appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
@@ -9307,6 +9327,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=49966",
+          "author": "Darren Atkins",
+          "description": "NetSuite vs Dynamics 365 Business Central: What’s Best for You?\nComparing Oracle NetSuite and Microsoft Dynamics 365 Business Central can feel confusing, because of how similar the functionality sounds between the two. I have discussed these ERP options with companies making this decision dozens of times. And although there are a few small feature differences between the ERPs themselves, it’s more important to consider the...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/netsuite-vs-dynamics-365-business-central/",
+          "publishedOn": "2024-06-26T11:13:18.000Z",
+          "wordCount": 2624,
+          "title": "NetSuite vs Dynamics 365 Business Central: What’s Best for You?",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/12/D365BC-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=62485",
           "author": "Tracy Gillis",
           "description": "Clean Start vs Upgrade: 2 Paths from Dynamics NAV to Dynamics 365 Business Central\nIf you are on Dynamics NAV and preparing to move to Dynamics 365 Business Central, it can be tough to know which of the two approaches you should take for this change. Clean Start: Also called a reimplementation, a clean start lets you optimize and update your business processes with fresh data and updated configurations,...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -9933,6 +9963,66 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/nailing-it-with-sara-fennah-youtube-2",
+          "author": "Scottish Summit",
+          "description": "In this episode we chat with MCT and MVP Sarah Fennah about her involvment in Scottish Summit past, present and future. And of course, the legendary pub quiz. Scottish Summit […]",
+          "link": "https://365community.online/nailing-it-with-sara-fennah-youtube-2",
+          "publishedOn": "2024-06-26T13:05:55.000Z",
+          "wordCount": 3144,
+          "title": "Nailing it, with Sara Fennah – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/1719427131_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/dynamics-365-business-central-partner-sandbox-environments-clarifications",
+          "author": "Stefano Demiliani",
+          "description": "More than two years ago I wrote this post explaining the concept of Partner Sandbox Environments and providing the link to use in order to ask for its activation. This […]",
+          "link": "https://365community.online/dynamics-365-business-central-partner-sandbox-environments-clarifications",
+          "publishedOn": "2024-06-26T13:02:04.000Z",
+          "wordCount": 3266,
+          "title": "Dynamics 365 Business Central: Partner Sandbox Environments clarifications",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/Dynamics-365-Business-Central-Partner-Sandbox-Environments-clarifications.png?fit=1200%2C657&ssl=1"
+        },
+        {
+          "id": "https://365community.online/convert-speech-to-text-using-azure-speech-service-in-power-automate-flow",
+          "author": "Inogic",
+          "description": "Azure provides Speech Services that let developers add advanced speech features to achieve complex functionality, including Speech-to-Text. With Azure Speech Services, we can convert speech to text.  In this blog […]",
+          "link": "https://365community.online/convert-speech-to-text-using-azure-speech-service-in-power-automate-flow",
+          "publishedOn": "2024-06-26T10:26:29.000Z",
+          "wordCount": 3527,
+          "title": "Convert speech to text using Azure Speech service in Power Automate Flow",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/Convert-speech-to-text-using-Azure-Speech-service.png?fit=1200%2C686&ssl=1"
+        },
+        {
+          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-create-relationships-between-number-series",
+          "author": "Ian Grieve",
+          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]",
+          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-create-relationships-between-number-series",
+          "publishedOn": "2024-06-26T10:00:38.000Z",
+          "wordCount": 3277,
+          "title": "In Microsoft Dynamics 365 Business Central (Administration), how do I… Create Relationships Between Number Series",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/1719401496_In-Microsoft-Dynamics-365-Business-Central-Administration-how-do-I….png?fit=1174%2C354&ssl=1"
+        },
+        {
+          "id": "https://365community.online/novedades-en-copilot-for-sales-en-outlook",
+          "author": "jarmesto",
+          "description": "Al igual que en Dynamics 365 Sales en Copilot For Sales también tenemos novedades veraniegas. Este nuevo conjunto de actualizaciones proporciona a los usuarios una gama ampliada de herramientas y […]",
+          "link": "https://365community.online/novedades-en-copilot-for-sales-en-outlook",
+          "publishedOn": "2024-06-26T07:00:00.000Z",
+          "wordCount": 3238,
+          "title": "Novedades en Copilot for Sales en Outlook",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/1719394733_Novedades-en-Copilot-for-Sales-en-Outlook.jpeg?fit=1024%2C1024&ssl=1"
+        },
+        {
+          "id": "https://365community.online/import-sequence-number-attribute-in-dataverse",
+          "author": "Nishant Rana",
+          "description": "Import Sequence Number is an internal field (whole number), that acts as a unique identifier of the data import or data migration that created this record that ensures data consistency […]",
+          "link": "https://365community.online/import-sequence-number-attribute-in-dataverse",
+          "publishedOn": "2024-06-26T05:00:00.000Z",
+          "wordCount": 3248,
+          "title": "Import Sequence Number attribute in Dataverse",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/Import-Sequence-Number-attribute-in-Dataverse.jpeg?fit=1200%2C801&ssl=1"
+        },
         {
           "id": "https://365community.online/copilot-in-business-central-suggest-lines-on-sales-documents",
           "author": "jarmesto",
