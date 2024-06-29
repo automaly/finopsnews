@@ -1425,6 +1425,16 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=108057",
+          "author": "Innovia Consulting",
+          "description": "Innovia Consulting and its solution partners have created three informative, on-demand webinars for finance leaders who want to get the most out of their Microsoft Dynamics ERP software solutions and […]\nThe post 3 Microsoft Dynamics 365 BC Webinars for CFO's appeared first on ERP Software Blog.\nVIDEO: See How Dynamics 365 Business Central Integrates with Outlook!\nManaging Inventory in Microsoft Dynamics 365 Business Central\nMicrosoft Dynamics 365 Business Central for Project Managers",
+          "link": "https://erpsoftwareblog.com/2024/06/3-microsoft-dynamics-365-bc-webinars-for-cfos/",
+          "publishedOn": "2024-06-28T13:47:16.000Z",
+          "wordCount": 4105,
+          "title": "3 Microsoft Dynamics 365 BC Webinars for CFO's",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2024-06-3-Microsoft-Dynamics-365-BC-Webinars-for-CFOs_1200-x-628.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=108099",
           "author": "ACE Micro, LLC",
           "description": "Deciding when to migrate from Microsoft Dynamics GP (Great Plains) to Dynamics 365 Business Central (BC) is a critical decision for any organization. The timing of this transition can significantly […]\nThe post When is the best time to migrate from GP to BC (Business Central) and why? appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve\nMore Than Just a Name Change: The New Microsoft Dynamics 365 Business Central",
@@ -10033,6 +10043,96 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/working-with-ai-prompts",
+          "author": "Ana Inés Urrutia",
+          "description": "One of the things that makes me happy and boosts my mood – believe it or not – is to find innovative ways to do things and alternatives to the […]",
+          "link": "https://365community.online/working-with-ai-prompts",
+          "publishedOn": "2024-06-28T21:33:47.000Z",
+          "wordCount": 3240,
+          "title": "Working with AI Prompts",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/Working-with-AI-Prompts.png?fit=1000%2C563&ssl=1"
+        },
+        {
+          "id": "https://365community.online/automating-customer-enquiry-handling-with-dynamics-365-and-power-platform-connectors-in-copilot-studio",
+          "author": "Inogic",
+          "description": "In today’s digital age, providing a seamless and efficient way for customers to submit enquiries or complaints via a company’s website is essential for maintaining customer satisfaction. Integrating this process […]",
+          "link": "https://365community.online/automating-customer-enquiry-handling-with-dynamics-365-and-power-platform-connectors-in-copilot-studio",
+          "publishedOn": "2024-06-28T11:47:58.000Z",
+          "wordCount": 3532,
+          "title": "Automating Customer Enquiry Handling with Dynamics 365 and Power Platform Connectors in Copilot Studio",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/Automating-Customer-Enquiry-Handling.png?fit=1200%2C686&ssl=1"
+        },
+        {
+          "id": "https://365community.online/use-current-location-to-plot-and-analyze-data-on-a-map-integrated-within-dynamics-365-crm",
+          "author": "Inogic",
+          "description": "Getting to view your data on a map in the form of coloured pushpins is a luxury. It is said to reduce the time spent on analysis by at least […]",
+          "link": "https://365community.online/use-current-location-to-plot-and-analyze-data-on-a-map-integrated-within-dynamics-365-crm",
+          "publishedOn": "2024-06-28T10:39:03.000Z",
+          "wordCount": 3504,
+          "title": "Use ‘current location’ to Plot and Analyze data on a map integrated within Dynamics 365 CRM",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/Maplytics-Blog-3-1.png?fit=1200%2C686&ssl=1"
+        },
+        {
+          "id": "https://365community.online/torne-se-um-citizen-developer-aula-6-youtube",
+          "author": "Victor Dantas",
+          "description": "Torne-se um Citizen Developer – Aula 6 source",
+          "link": "https://365community.online/torne-se-um-citizen-developer-aula-6-youtube",
+          "publishedOn": "2024-06-28T10:03:50.000Z",
+          "wordCount": 3120,
+          "title": "Torne-se um Citizen Developer – Aula 6 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/1719570642_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-financial-how-do-i-understand-accounting-periods-and-fiscal-years",
+          "author": "Ian Grieve",
+          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Financial), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]",
+          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-financial-how-do-i-understand-accounting-periods-and-fiscal-years",
+          "publishedOn": "2024-06-28T10:00:38.000Z",
+          "wordCount": 3287,
+          "title": "In Microsoft Dynamics 365 Business Central (Financial), how do I… Understand Accounting Periods and Fiscal Years",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/handling-business-central-telemetry-like-a-boss-my-azure-data-explorer-dashboard",
+          "author": "Waldo",
+          "description": "You might have seen it, you might haven even been there – but in any case: this year, at BCTechDays, I did a session about “Telemetry”.  And since BCTechDays posts […]",
+          "link": "https://365community.online/handling-business-central-telemetry-like-a-boss-my-azure-data-explorer-dashboard",
+          "publishedOn": "2024-06-28T09:37:14.000Z",
+          "wordCount": 3252,
+          "title": "Handling Business Central Telemetry like a boss: my Azure Data Explorer dashboard",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/Handling-Business-Central-Telemetry-like-a-boss-my-Azure-Data.png?fit=600%2C315&ssl=1"
+        },
+        {
+          "id": "https://365community.online/weekly-update-143-28th-june-2024-youtube",
+          "author": "Sarah Lean ???????",
+          "description": "Weekly Update #143 – 28th June 2024 Tune in as I explore the latest Azure updates from the past week. Enjoyed the podcast? Consider buying me a coffee to show […]",
+          "link": "https://365community.online/weekly-update-143-28th-june-2024-youtube",
+          "publishedOn": "2024-06-28T07:48:09.000Z",
+          "wordCount": 3196,
+          "title": "Weekly Update #143 – 28th June 2024 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/1719600393_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/batchretryable-bundled-batch-job-example",
+          "author": "Nathan Clouse",
+          "description": "BatchRetryable Bundled Batch Job Example 06/27/24 BatchRetryable Bundled Batch Job Example I recently presented at DynamicsMinds on batch jobs and how to design them for specific types of workloads. There was interest […]",
+          "link": "https://365community.online/batchretryable-bundled-batch-job-example",
+          "publishedOn": "2024-06-28T01:20:25.000Z",
+          "wordCount": 3245,
+          "title": "BatchRetryable Bundled Batch Job Example",
+          "imageUrl": "https://365community.online/wp-content/uploads/2024/06/BatchRetryable-Bundled-Batch-Job-Example.jpg"
+        },
+        {
+          "id": "https://365community.online/powershell-to-deploy-a-ppac-uno-environment",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 06/27/24. Last modified:  06/27/24 PowerShell Script to Deploy an UNO Environment Below is a PowerShell script to deploy a unified developer environment for F&O. But […]",
+          "link": "https://365community.online/powershell-to-deploy-a-ppac-uno-environment",
+          "publishedOn": "2024-06-28T00:55:59.000Z",
+          "wordCount": 3258,
+          "title": "Powershell to Deploy a PPAC UNO Environment",
+          "imageUrl": "https://365community.online/wp-content/uploads/2024/06/Powershell-to-Deploy-a-PPAC-UNO-Environment.jpg"
+        },
         {
           "id": "https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-access-business-central",
           "author": "Ian Grieve",
@@ -24373,6 +24473,26 @@
       "siteUrl": "https://www.atomicax.com/frontpage",
       "articles": [
         {
+          "id": "1702 at https://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "BatchRetryable Bundled Batch Job Example\n\n\n\n\n\n\n06/27/24\n\n\n\n\n\n\n\n\n\n\n\n\nBatchRetryable Bundled Batch Job Example\n\nI recently presented at DynamicsMinds on batch jobs and how to design them for specific types of workloads. There was interest in code samples so this in one of those code samples talking about Batch bundling with a review of the code and design. Batch Bundling is a way of designing and managing a batch workload to be a collection of work bundles that need to be executed. This means that tasks are grouped together under 1 batch job with multiple task bundles where each task is given a set of work to accomplish as part of that tasks workload. In my last article on this, I compared batch capacity to be like a highway. If Individual task modeling is letting cars on the highway one at …",
+          "link": "https://www.atomicax.com/blog-entry/batchretryable-bundled-batch-job-example",
+          "publishedOn": "2024-06-28T01:20:25.000Z",
+          "wordCount": 1390,
+          "title": "BatchRetryable Bundled Batch Job Example",
+          "imageUrl": null
+        },
+        {
+          "id": "1704 at https://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 06/27/24.\n\n\nLast modified: \n\n06/27/24\n\n\n\n\n\n\n\n\n\n\n\n\nPowerShell Script to Deploy an UNO Environment\nBelow is a PowerShell script to deploy a unified developer environment for F&O. But first, be sure to read Aurélien CLERE's great blog post about this type of environment. You should also check out this tech talk on the UDE environment type and some additional reading from MSFT. I found myself having to deploy a few of the UDE environments so I upgraded the PS Script form Aurélien's blog so it will prompt for a  display name. That's all.\n \n\n# Function to remove spaces from a string\n# Function to remove non-alphanumeric characters from a string\n# Prompt for the environment display name\n# Clean up the instance name\n# Install the necessary module\n# Create a session against the Power Platform API\n# Construct the JSON object to pass in\n# Kick off new environment provisioning\nWrite-Host \"Environment provisioning initiated successfully!\"\n\n\n\n\nView the discussion thread.",
+          "link": "https://www.atomicax.com/article/powershell-deploy-ppac-uno-environment",
+          "publishedOn": "2024-06-28T00:55:59.000Z",
+          "wordCount": 993,
+          "title": "Powershell to Deploy a PPAC UNO Environment",
+          "imageUrl": null
+        },
+        {
           "id": "1701 at https://www.atomicax.com",
           "author": "Nathan Clouse",
           "description": "Installation of one or more roles, role services, or features failed. Error: 0x800f0954\n\n\n\n\n\n\n06/24/24\n\n\n\n\n\n\n\n\n\n\n\n\n    \nLBD      \n\nInstallation of one or more roles, role services, or features failed. Error: 0x800f0954 when configuration an AOS for Local Business Data (LBD)\nWhen you attempt to install .NET Framework 3.5 for Local Business Data Finance and Operations, you can resolve this fairly easily. First, let's understand the issue. \nThe Issue\nTypically this error surfaces when WSUS (https://learn.microsoft.com/en-us/windows-server/administration/windows-...) is used and the specific source for the feature we're looking for isn't available from WSUS ( or is maybe even actively blocked ). For whatever reason, the server you're running .\\Configure-PreReqs.ps1 on is asking for a source for that specific Windows feature and that isn't be provided as a download to the server asking for it so the install fails with our specific error message: Installation of one or more roles, role services, or features failed. Error: 0x800f0954\nThe Solution\nFirst, on the AOS mount the Windows ISO that matches your OS version.\nNext, Open a command prompt with administrator user rights (Run as Administrator).\nNext, run the following command where D is drive you mounted the ISO on\nDISM /Online /Enable-Feature /FeatureName:NetFx3 /All /LimitAccess /Source:d:\\sources\\sxs\nWhat this does is uses local sources to install .NET 3.5 without using WSUS at all. The options uses in the command do the follow:\nUsing /All will enable all parent features of the specified feature.\nThis will allow for .NET 3.5 to be installed and if you're prepping an AOS with SSIS, this should unblock you without any other changes to the OS required.\nAlternative Solution\nYou can also do something like this but any changes to the Registry will need to be undone and in general, i'm not a fan of making changes to the registry unless I have to: https://edulab.unitn.it/tecnici/fix-error-0x800f0954-installing-net-fram...\n \n\n\n\n\nView the discussion thread.",
@@ -27077,16 +27197,6 @@
           "wordCount": 2045,
           "title": "Code Review",
           "imageUrl": null
-        },
-        {
-          "id": "https://alexvoy.blogspot.com/2022/06/union-query-for-project-transactions.html",
-          "author": null,
-          "description": "Union query may be a very efficient and useful option when you need to fetch similar data fields from different tables. A good example of this may be the case when you to gather information about project related transactions as they can be of different types, like, expenses, fees, items, etc. \nSay, we need to render some report collecting all these different types of transaction that can be posted against a given project and group them by a given financial dimension value in Project group. Let's see how Union query can help us.\nIn order to better understand the goal, you can take a look to the standard form ProjInvoiceJournal which perfectly explains how all these table relate to each other. \n\nMost of them contain the same set of fields, and we simply need to get some of them into one view to populate by the report data provider.\nSo, at the first step, let's create all necessary queries for the source Project transaction related tables. Pick up the first and create a simple query as depicted. \n\n\n\nThen create a view based on this query. \n\nThen pick up the next and do the same.\n\n\nComplete these two steps for all necessary transaction types.\nNow you can create a Union query and add all your views together as they have the same set of fields.\n\n\nIf you need to distinguish them later who is who, say, in computed column methods, you can use  unionAllBranchId field, but this is out of the current focus.\n\nFinally you can elaborate it by adding a new view based on the latter with a simple SUM aggregation for Amount field.\n\n\nBasically, you achieve your goal with no coding.\nI am not going into details about the whole project, which you can get by this URL https://github.com/wojzeh/tmxProjectSalesPerSegment. Ping me, if you have any questions.\n\n\nRelated topics: \nComputed column for union values from multiple outer joined data sources in view",
-          "link": "https://alexvoy.blogspot.com/2022/06/union-query-for-project-transactions.html",
-          "publishedOn": "2022-06-30T01:58:00.002Z",
-          "wordCount": 2305,
-          "title": "Union query for Project transactions",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtQsOpmx9aRWMf5sjfcChk5fccCJhV6ba5DggOzDHlPxVnGZc_NxxMdZA7PzLoa-MS5vXeMSB6B-MrK33pKtW5_s0PKO1bnKVkdMk0JzHSSw4vpwhrqAb9T0Xj1Ent8drIskPWAfznrBw30E0Gt18lKvnfqo2sClmaTgJR2BtoukQUDR7G1SPD0vOv/w1200-h630-p-k-no-nu/form.jpg"
         }
       ]
     },
@@ -27211,6 +27321,16 @@
           "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/06/D365Blog_Batch_job_alerts_and_export_large_untruncated_batch-job-logs_main.png"
         },
         {
+          "id": "https://ax.docentric.com/?p=28845",
+          "author": "Miha Vuk",
+          "description": "Emailing seems straightforward, but there are many challenges related to it. In this session, we will dive deep into how to create rich, personalized emails and distribute them securely and reliably through various channels. We will learn about different email providers and authentications (including Graph […]\nThe post DynamicsMinds 2024: Emailing Tips, Tricks and Troubleshooting appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/dynamicsminds-2024-emailing-tips-tricks-and-troubleshooting/",
+          "publishedOn": "2024-05-23T09:06:26.000Z",
+          "wordCount": 11542,
+          "title": "DynamicsMinds 2024: Emailing Tips, Tricks and Troubleshooting",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/06/doc_at_DM_miha.jpg"
+        },
+        {
           "id": "https://ax.docentric.com/?p=28829",
           "author": "Miha Vuk",
           "description": "In every warehouse, various documents and labels are created to support the operations. Every business likes to have its own templates, so these documents are always modified to the customer's needs. In this session, we will demonstrate the most typical warehouse processes with a focus […]\nThe post DynamicsMinds 2024: Simplify the Creation (Design) of Common Warehouse Documents and Labels appeared first on Docentric AX.",
@@ -27219,6 +27339,16 @@
           "wordCount": 11567,
           "title": "DynamicsMinds 2024: Simplify the Creation (Design) of Common Warehouse Documents and Labels",
           "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/06/doc_at_DM_miha_and_jan.jpg"
+        },
+        {
+          "id": "https://ax.docentric.com/?p=28850",
+          "author": "Albin Lotric",
+          "description": "In this session, we will review how Electronic Reporting has evolved over the last five years. We will discuss what was missing initially and how Microsoft has continued to add features and see them in short demos. We will also discuss what we are still […]\nThe post DynamicsMinds 2024: Where Is Electronic Reporting Today and What Has Changed appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/dynamicsminds-2024-where-is-electronic-reporting-today-and-what-has-changed/",
+          "publishedOn": "2024-05-22T09:15:48.000Z",
+          "wordCount": 11517,
+          "title": "DynamicsMinds 2024: Where Is Electronic Reporting Today and What Has Changed",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/06/doc_at_DM_albin.jpg"
         },
         {
           "id": "https://ax.docentric.com/?p=28820",
@@ -27239,6 +27369,16 @@
           "wordCount": 11627,
           "title": "DynamicsMinds 2024: We Speak Your Bank’s Language! Optimize Banking, Treasury Operations and Payment Documents in D365FO With SKsoft and Docentric",
           "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/06/doc_at_DM_jovica_chuck_kevin.jpg"
+        },
+        {
+          "id": "https://ax.docentric.com/?p=28861",
+          "author": "Irena Vujcic Pavlovic",
+          "description": "As passionate 💖 community enthusiasts 💖 who love to learn, connect and share, we at Docentric, are proudly powering the world's first-class Dynamics 365 and Power Platform Community Conference, this year its Second Edition: ⭐DynamicsMinds 2024⭐ 🗓️ May 26 to 29, 2024 📍 Portorož, Slovenia, […]\nThe post Meet Us at DynamicsMinds 2024 in Portorož appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/meet-us-at-dynamicsminds-2024-in-portoroz/",
+          "publishedOn": "2024-05-16T12:35:03.000Z",
+          "wordCount": 11429,
+          "title": "Meet Us at DynamicsMinds 2024 in Portorož",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/06/Powered-by-docentric-2.png"
         },
         {
           "id": "https://ax.docentric.com/?p=28406",
@@ -28536,6 +28676,26 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/developer-environment-and-plan-now-available-in-sovereign-clouds/",
+          "author": "Mankirat Kaur Bajwa",
+          "description": "We’re thrilled to announce that the Power Apps Developer Plan is now available in sovereign clouds starting with GCC and later this year will be available in GCCH and DOD. Developer Plan is needed to get Developer Environments, which offer personalized spaces for makers to experiment, innovate, and build. They provide premium capabilities like Dataverse and\nThe post Developer environment and plan now available in Sovereign clouds appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/developer-environment-and-plan-now-available-in-sovereign-clouds/",
+          "publishedOn": "2024-06-27T15:00:00.000Z",
+          "wordCount": 2747,
+          "title": "Developer environment and plan now available in Sovereign clouds",
+          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/06/OBO.png"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/ga-of-many-long-time-preview-features/",
+          "author": "Greg Lindhorst",
+          "description": "How we introduce new features in Power Apps is a complicated business. We need to balance making innovative changes and iterating on your feedback with the rock-solid stability for your production apps. With version 3.24063 we are making changes to how we do this in Canvas apps. We will now have four feature stages: Why\nThe post GA of many long time Preview features appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/ga-of-many-long-time-preview-features/",
+          "publishedOn": "2024-06-24T10:28:12.000Z",
+          "wordCount": 3425,
+          "title": "GA of many long time Preview features",
+          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/06/Screenshot-2024-06-20-182948-1024x885.webp"
+        },
         {
           "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/work-with-complex-data-models-in-an-erd-view-assisted-by-copilot/",
           "author": "Travis Shu",
