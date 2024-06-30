@@ -2,10 +2,272 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-06-29T00:42:10.113Z</updated>
+    <updated>2024-06-30T00:47:24.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BatchRetryable Top Picking Batch Job Example]]></title>
+        <id>https://365community.online/batchretryable-top-picking-batch-job-example</id>
+        <link href="https://365community.online/batchretryable-top-picking-batch-job-example"/>
+        <updated>2024-06-29T20:09:40.000Z</updated>
+        <summary type="html"><![CDATA[BatchRetryable Top Picking Batch Job Example 06/29/24 BatchRetryable Top Picking Batch Job Example I recently presented at DynamicsMinds on batch jobs and how to design them for specific types of workloads. There […]]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BatchRetryable Top Picking Batch Job Example]]></title>
+        <id>1703 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/blog-entry/batchretryable-top-picking-batch-job-example"/>
+        <updated>2024-06-29T20:09:40.000Z</updated>
+        <summary type="html"><![CDATA[BatchRetryable Top Picking Batch Job Example
+
+
+
+
+
+
+06/29/24
+
+
+
+
+
+
+
+
+
+
+
+
+BatchRetryable Top Picking Batch Job Example
+I recently presented at DynamicsMinds on batch jobs and how to design them for specific types of workloads. There was interest in code samples so this in one of those code samples talking about Top Picking with a review. Top picking is a method of creating a list of work that is stored in a table then "picking" from the "top" of it. You can think of it as a queue with mutliple consumers popping stuff from the queue to process. We're not using a real queue but we're getting very similar results. In prior articles, I used an analogy of a highway. While other batch job design methods maybe make use of the different lanes on the highway in different ways by used some kind of met…]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 HR Benefits statements, why and how.]]></title>
+        <id>https://365community.online/d365-hr-benefits-statements-why-and-how</id>
+        <link href="https://365community.online/d365-hr-benefits-statements-why-and-how"/>
+        <updated>2024-06-29T19:37:39.000Z</updated>
+        <summary type="html"><![CDATA[One of the cool features we have within Dynamics 365 Human Resources is the Benefits statement. According to Microsoft official documentation benefits statements are: How can you get into the […]]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[New Feature] Financial Consolidation Template in Microsoft Dynamics 365 Finance and Operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2902</id>
+        <link href="https://exploredynamics365.home.blog/2024/06/29/new-feature-financial-consolidation-template-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2024-06-29T14:29:58.000Z</updated>
+        <summary type="html"><![CDATA[🚀 New Feature Online Consolidation Template! 🚀 This feature streamlines the financial consolidation process and enhances the user experience, making it easier than ever to manage your financial consolidation process. 📺 Check out the YouTube video for an in-depth look at this powerful new feature]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[New Feature] Financial Consolidation Template in Microsoft Dynamics 365 Finance and Operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2902</id>
+        <link href="https://exploredynamics365.home.blog/2024/06/29/new-feature-financial-consolidation-template-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2024-06-29T14:29:58.000Z</updated>
+        <summary type="html"><![CDATA[🚀 New Feature Online Consolidation Template! 🚀 This feature streamlines the financial consolidation process and enhances the user experience, making it easier than ever to manage your financial consolidation process. 📺 Check out the YouTube video for an in-depth look at this powerful new feature]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[New Feature] Bank Account Lifecycle Management in Microsoft Dynamics 365 Finance and Operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2900</id>
+        <link href="https://exploredynamics365.home.blog/2024/06/29/new-feature-bank-account-lifecycle-management-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2024-06-29T14:28:47.000Z</updated>
+        <summary type="html"><![CDATA[🚀 New Feature: Workflow approvals for Bank master! 🚀 Microsoft has recently added a new preview feature in Microsoft Dynamics 365 Finance and Operations that allows users to control and manage changes in legal entity bank account information. This powerful feature is available in version 10.0.40. 📺 Watch the video for more details Don’t miss […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[New Feature] Bank Account Lifecycle Management in Microsoft Dynamics 365 Finance and Operations]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2900</id>
+        <link href="https://exploredynamics365.home.blog/2024/06/29/new-feature-bank-account-lifecycle-management-in-microsoft-dynamics-365-finance-and-operations/"/>
+        <updated>2024-06-29T14:28:47.000Z</updated>
+        <summary type="html"><![CDATA[🚀 New Feature: Workflow approvals for Bank master! 🚀 Microsoft has recently added a new preview feature in Microsoft Dynamics 365 Finance and Operations that allows users to control and manage changes in legal entity bank account information. This powerful feature is available in version 10.0.40. 📺 Watch the video for more details Don’t miss […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[RDD]Reporting Design Document: Learning Path to Become Functional Consultant:FC-009]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2897</id>
+        <link href="https://exploredynamics365.home.blog/2024/06/29/rddreporting-design-document-learning-path-to-become-functional-consultantfc-009/"/>
+        <updated>2024-06-29T14:27:19.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the next video on “Learning Path to Become Functional consultant” series. In this next part , I am going to talk about next design document which is Report design document and try to explore key criteria’s to keep in mind while drafting the RDD. Once you’ve finished the Fit/Gap analysis and entered the […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[RDD]Reporting Design Document: Learning Path to Become Functional Consultant:FC-009]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2897</id>
+        <link href="https://exploredynamics365.home.blog/2024/06/29/rddreporting-design-document-learning-path-to-become-functional-consultantfc-009/"/>
+        <updated>2024-06-29T14:27:19.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the next video on “Learning Path to Become Functional consultant” series. In this next part , I am going to talk about next design document which is Report design document and try to explore key criteria’s to keep in mind while drafting the RDD. Once you’ve finished the Fit/Gap analysis and entered the […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[IDD]Integration Design Document: Learning Path to Become Functional Consultant:FC-008]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2895</id>
+        <link href="https://exploredynamics365.home.blog/2024/06/29/iddintegration-design-document-learning-path-to-become-functional-consultantfc-008/"/>
+        <updated>2024-06-29T14:25:12.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the next video on “Learning Path to Become Functional consultant” series. In this next part , I am going to talk about next design document which is integration design document and try to explore key criteria’s to keep in mind while drafting the IDD. Once you’ve finished the Fit/Gap analysis and entered the […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[IDD]Integration Design Document: Learning Path to Become Functional Consultant:FC-008]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2895</id>
+        <link href="https://exploredynamics365.home.blog/2024/06/29/iddintegration-design-document-learning-path-to-become-functional-consultantfc-008/"/>
+        <updated>2024-06-29T14:25:12.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the next video on “Learning Path to Become Functional consultant” series. In this next part , I am going to talk about next design document which is integration design document and try to explore key criteria’s to keep in mind while drafting the IDD. Once you’ve finished the Fit/Gap analysis and entered the […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Performance Analytics in Microsoft Dynamics 365 Finance and Operations: Part-2]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2893</id>
+        <link href="https://exploredynamics365.home.blog/2024/06/29/business-performance-analytics-in-microsoft-dynamics-365-finance-and-operations-part-2/"/>
+        <updated>2024-06-29T14:23:23.000Z</updated>
+        <summary type="html"><![CDATA[📢 Now Time to Business Performance Analytics in Microsoft Dynamics 365! Let’s dive into the various reports available in Business Performance Analytics (BPA) and discover how you can edit, duplicate, or create new ones. With BPA, you have the power to design custom reports by leveraging existing cubes (facts and dimensions) tables and seamlessly publishing […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Performance Analytics in Microsoft Dynamics 365 Finance and Operations: Part-2]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2893</id>
+        <link href="https://exploredynamics365.home.blog/2024/06/29/business-performance-analytics-in-microsoft-dynamics-365-finance-and-operations-part-2/"/>
+        <updated>2024-06-29T14:23:23.000Z</updated>
+        <summary type="html"><![CDATA[📢 Now Time to Business Performance Analytics in Microsoft Dynamics 365! Let’s dive into the various reports available in Business Performance Analytics (BPA) and discover how you can edit, duplicate, or create new ones. With BPA, you have the power to design custom reports by leveraging existing cubes (facts and dimensions) tables and seamlessly publishing […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Performance Analytics in Microsoft Dynamics 365 Finance and Operations: Part-1]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2890</id>
+        <link href="https://exploredynamics365.home.blog/2024/06/29/business-performance-analytics-in-microsoft-dynamics-365-finance-and-operations-part-1/"/>
+        <updated>2024-06-29T14:22:12.000Z</updated>
+        <summary type="html"><![CDATA[📢 Now Time to Business Performance Analytics in Microsoft Dynamics 365! While we focus on new developments around Copilot and AI, let’s not forget about the key aspect of reporting and analytics for any business using Dynamics 365. Reporting and analytics have always been a significant challenge in every implementation. Despite having multiple options like […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Performance Analytics in Microsoft Dynamics 365 Finance and Operations: Part-1]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2890</id>
+        <link href="https://exploredynamics365.home.blog/2024/06/29/business-performance-analytics-in-microsoft-dynamics-365-finance-and-operations-part-1/"/>
+        <updated>2024-06-29T14:22:12.000Z</updated>
+        <summary type="html"><![CDATA[📢 Now Time to Business Performance Analytics in Microsoft Dynamics 365! While we focus on new developments around Copilot and AI, let’s not forget about the key aspect of reporting and analytics for any business using Dynamics 365. Reporting and analytics have always been a significant challenge in every implementation. Despite having multiple options like […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dual Currency Valuation/Reporting using Global Inventory Accounting in Microsoft Dynamics 365 Finance and Operations: Part-12]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2887</id>
+        <link href="https://exploredynamics365.home.blog/2024/06/29/dual-currency-valuation-reporting-using-global-inventory-accounting-in-microsoft-dynamics-365-finance-and-operations-part-12/"/>
+        <updated>2024-06-29T14:20:47.000Z</updated>
+        <summary type="html"><![CDATA[📢 Part-3: Now Time to Explore Global Inventory Accounting in Microsoft Dynamics 365! 🌍 Welcome to the next part of Global inventory accounting, which allows international organizations to report and analyse their inventory valuation in multi-currency, Multiple valuation for meeting their reporting and accounting requirements [IFRS/GAAP] We will explore following in this video: Join us […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dual Currency Valuation/Reporting using Global Inventory Accounting in Microsoft Dynamics 365 Finance and Operations: Part-12]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2887</id>
+        <link href="https://exploredynamics365.home.blog/2024/06/29/dual-currency-valuation-reporting-using-global-inventory-accounting-in-microsoft-dynamics-365-finance-and-operations-part-12/"/>
+        <updated>2024-06-29T14:20:47.000Z</updated>
+        <summary type="html"><![CDATA[📢 Part-3: Now Time to Explore Global Inventory Accounting in Microsoft Dynamics 365! 🌍 Welcome to the next part of Global inventory accounting, which allows international organizations to report and analyse their inventory valuation in multi-currency, Multiple valuation for meeting their reporting and accounting requirements [IFRS/GAAP] We will explore following in this video: Join us […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configure Reporting for Global Inventory Accounting in Microsoft Dynamics 365 Finance and Operations: Part-11]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2884</id>
+        <link href="https://exploredynamics365.home.blog/2024/06/29/configure-reporting-for-global-inventory-accounting-in-microsoft-dynamics-365-finance-and-operations-part-11/"/>
+        <updated>2024-06-29T14:18:54.000Z</updated>
+        <summary type="html"><![CDATA[📢 Part-2: Now Time to Explore Global Inventory Accounting in Microsoft Dynamics 365! 🌍 In the next part of our Global Inventory Accounting series, we’ll focus on reporting configuration. Global Inventory Accounting offers built-in Power BI dashboards that are great for inventory analysis and tracking. We’ll explore how to configure the Power BI reports available […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configure Reporting for Global Inventory Accounting in Microsoft Dynamics 365 Finance and Operations: Part-11]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2884</id>
+        <link href="https://exploredynamics365.home.blog/2024/06/29/configure-reporting-for-global-inventory-accounting-in-microsoft-dynamics-365-finance-and-operations-part-11/"/>
+        <updated>2024-06-29T14:18:54.000Z</updated>
+        <summary type="html"><![CDATA[📢 Part-2: Now Time to Explore Global Inventory Accounting in Microsoft Dynamics 365! 🌍 In the next part of our Global Inventory Accounting series, we’ll focus on reporting configuration. Global Inventory Accounting offers built-in Power BI dashboards that are great for inventory analysis and tracking. We’ll explore how to configure the Power BI reports available […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global Inventory Accounting in Microsoft Dynamics 365 Finance and Operations: Part-10]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2881</id>
+        <link href="https://exploredynamics365.home.blog/2024/06/29/global-inventory-accounting-in-microsoft-dynamics-365-finance-and-operations-part-10/"/>
+        <updated>2024-06-29T14:17:16.000Z</updated>
+        <summary type="html"><![CDATA[📢 Now Time to Explore Global Inventory Accounting in Microsoft Dynamics 365! 🌍 I’m excited to dive into one of the most powerful features in Microsoft Dynamics 365: Global Inventory Accounting. This innovative functionality empowers businesses to perform inventory valuation in dual currencies and dual valuations using multiple ledgers for a single legal entity.  Key […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global Inventory Accounting in Microsoft Dynamics 365 Finance and Operations: Part-10]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2881</id>
+        <link href="https://exploredynamics365.home.blog/2024/06/29/global-inventory-accounting-in-microsoft-dynamics-365-finance-and-operations-part-10/"/>
+        <updated>2024-06-29T14:17:16.000Z</updated>
+        <summary type="html"><![CDATA[📢 Now Time to Explore Global Inventory Accounting in Microsoft Dynamics 365! 🌍 I’m excited to dive into one of the most powerful features in Microsoft Dynamics 365: Global Inventory Accounting. This innovative functionality empowers businesses to perform inventory valuation in dual currencies and dual valuations using multiple ledgers for a single legal entity.  Key […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot in Microsoft Dynamics 365 Supply chain: DCAI004]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2878</id>
+        <link href="https://exploredynamics365.home.blog/2024/06/29/copilot-in-microsoft-dynamics-365-supply-chain-dcai004/"/>
+        <updated>2024-06-29T14:14:49.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the next video of our series on Copilot and AI capabilities in Microsoft Dynamics 365 Finance and Operations. In this video, I’ll be focusing on a specific feature within Copilot in MS Dynamics 365 Supply Chain. In this video, we’ll delve into a feature within the supply chain area called the Confirmed Purchase […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot in Microsoft Dynamics 365 Supply chain: DCAI004]]></title>
+        <id>http://exploredynamics365.home.blog/?p=2878</id>
+        <link href="https://exploredynamics365.home.blog/2024/06/29/copilot-in-microsoft-dynamics-365-supply-chain-dcai004/"/>
+        <updated>2024-06-29T14:14:49.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the next video of our series on Copilot and AI capabilities in Microsoft Dynamics 365 Finance and Operations. In this video, I’ll be focusing on a specific feature within Copilot in MS Dynamics 365 Supply Chain. In this video, we’ll delve into a feature within the supply chain area called the Confirmed Purchase […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #32]]></title>
+        <id>http://dynamicsax-fico.com/?p=6058</id>
+        <link href="https://dynamicsax-fico.com/2024/06/29/microsoft-bizapps-deutschland-podcast-32/"/>
+        <updated>2024-06-29T07:46:31.000Z</updated>
+        <summary type="html"><![CDATA[[German Language Podcast] Diesmal sind wir bei der Firma Renfert, einem Hersteller von Dentalprodukten zu Gast und sprechen mit Sebastian …
+Continue reading →]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Working with AI Prompts]]></title>
         <id>https://365community.online/working-with-ai-prompts</id>
@@ -38564,74 +38826,6 @@ solution :
 Just Rename your field and sync your DB 
 or 
 drop the original field, sync the table and add a new field with the same name if needed]]></summary>
-        <author>
-            <name>HOW TO ... Microsoft Dynamics 365 ?</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ho to calculate due date in x++?]]></title>
-        <id>https://dynamics365ax2012.blogspot.com/2022/07/ho-to-calculate-due-date-in-x.html</id>
-        <link href="https://dynamics365ax2012.blogspot.com/2022/07/ho-to-calculate-due-date-in-x.html"/>
-        <updated>2022-07-01T10:16:00.005Z</updated>
-        <summary type="html"><![CDATA[class UpdateDuedate_CustAging
-{
-    public static void main(Args _args)
-    {
-        CustTrans       CustTrans;
-        CustInvoiceJour         CustInvoiceJour;
-        
-        ttsBegin;
-        while select forupdate CustInvoiceJour where CustInvoiceJour.payment =='Test'
-            && CustInvoiceJour.DueDate == CustInvoiceJour.InvoiceDate  
-          //  && CustTrans.Invoice=='INV-0000001623'
-
-
-        {
-            CustInvoiceJour.DueDate = PaymTerm::find(CustInvoiceJour.payment).due(CustInvoiceJour.InvoiceDate);
-            CustInvoiceJour.update();
-        }
-        ttsCommit;
-
-
-    }
-
-
-}
-
-////      for aging report
-
-
-class UpdateDuedateCusttrans_OpenClass
-{
-
-
- 
-
-
-    public static void main(Args _args)
-    {
-        CustTransOpen       CustTransOpen;
-        CustTrans       CustTrans;
-        ttsBegin;
-        while select forupdate CustTransOpen join CustTrans where CustTrans.RecId == CustTransOpen.RefRecId &&
-            CustTrans.AccountNum == CustTransOpen.AccountNum && CustTrans.PAYMTERMID ==CustParameters::find().CustPaymTermId
-            && CustTransOpen.DueDate == CustTransOpen.TransDate  && CustTrans.Invoice !=''
-          //  && CustTrans.Invoice=='INV-0000001623'
-
-
-        {
-            CustTransOpen.DueDate = PaymTerm::find(CustTrans.PAYMTERMID).due(CustTransOpen.TransDate);
-            CustTransOpen.update();
-        }
-        ttsCommit;
-
-
-        info('Due date has been Updated');
-      
-    }
-
-
-}]]></summary>
         <author>
             <name>HOW TO ... Microsoft Dynamics 365 ?</name>
         </author>
