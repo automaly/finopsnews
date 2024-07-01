@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-06-30T00:47:24.504Z</updated>
+    <updated>2024-07-01T00:49:44.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[My Session at Kohinoor Grammar School & College]]></title>
+        <id>https://365community.online/my-session-at-kohinoor-grammar-school-college</id>
+        <link href="https://365community.online/my-session-at-kohinoor-grammar-school-college"/>
+        <updated>2024-07-01T00:13:35.000Z</updated>
+        <summary type="html"><![CDATA[Last Friday, June 28, 2024, I presented “App Development with Power Platform” at Kohinoor Grammar School & College in Faisalabad, Pakistan. It was a wonderful gathering of around 100 youngsters. […]]]></summary>
+        <author>
+            <name>Yawer Iqbal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Little useless-useful R functions – Dragon curve]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=10010</id>
+        <link href="https://tomaztsql.wordpress.com/2024/06/30/little-useless-useful-r-functions-dragon-curve/"/>
+        <updated>2024-06-30T14:23:48.000Z</updated>
+        <summary type="html"><![CDATA[Let’s play with some dragons. Dragons from the Jurassic park or the board game dungeon and dragons. The algorithm is a fractal curve of Hausdorff dimension 2. One starts with one segment. In each iteration the number of segments is…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helping Me – Helping You]]></title>
+        <id>https://365community.online/helping-me-helping-you</id>
+        <link href="https://365community.online/helping-me-helping-you"/>
+        <updated>2024-06-30T12:17:48.000Z</updated>
+        <summary type="html"><![CDATA[Starting up a business? Nope. Well, I have my own small company – we all have one, of course, mostly for fun, and it is clearly dormant. Don’t you have […]]]></summary>
+        <author>
+            <name>Jonas Rapp ᴹᴠᴾ ??</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BatchRetryable Top Picking Batch Job Example]]></title>
         <id>https://365community.online/batchretryable-top-picking-batch-job-example</id>
@@ -290,6 +321,16 @@ Managing Inventory in Microsoft Dynamics 365 Business Central
 Microsoft Dynamics 365 Business Central for Project Managers]]></summary>
         <author>
             <name>Innovia Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 Java Interview Questions For Intermediate | MindMajix  #javacodinginterviewquestions #shorts – YouTube]]></title>
+        <id>https://365community.online/top-5-java-interview-questions-for-intermediate-mindmajix-javacodinginterviewquestions-shorts-youtube</id>
+        <link href="https://365community.online/top-5-java-interview-questions-for-intermediate-mindmajix-javacodinginterviewquestions-shorts-youtube"/>
+        <updated>2024-06-28T12:00:31.000Z</updated>
+        <summary type="html"><![CDATA[In this short video, we have covered the most frequently asked top 5 Java Interview Questions For Intermediate candidates. Ensure to prepare for these questions before your Java interview. Check […]]]></summary>
+        <author>
+            <name>Jaya Sri</name>
         </author>
     </entry>
     <entry>
