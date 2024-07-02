@@ -2,10 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-07-01T00:49:44.737Z</updated>
+    <updated>2024-07-02T00:43:11.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transform Your Business with ERP for the Real Estate Industry]]></title>
+        <id>https://erpsoftwareblog.com/?p=108137</id>
+        <link href="https://erpsoftwareblog.com/2024/07/erp-for-real-estate-industry/"/>
+        <updated>2024-07-01T16:02:13.000Z</updated>
+        <summary type="html"><![CDATA[After the pandemic was over, the real estate industry started picking up the pace. Today, it is flourishing but has become more complex than ever due to volatile mortgage rates, […]
+The post Transform Your Business with ERP for the Real Estate Industry appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central: Essentials vs. Premium
+How Microsoft Dynamics 365 Can Transform Your Manufacturing Business
+Microsoft Dynamics 365 Business Central and Microsoft Dynamics 365 Finance and Operations: What’s the Difference?]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Futureproof Your Business with Microsoft Cloud for Financial Services]]></title>
+        <id>https://erpsoftwareblog.com/?p=108134</id>
+        <link href="https://erpsoftwareblog.com/2024/07/microsoft-cloud-for-financial-services/"/>
+        <updated>2024-07-01T15:04:34.000Z</updated>
+        <summary type="html"><![CDATA[Cloud service has entered the finance sector due to its wide array of benefits. Exploring the benefits of cloud services, financial institutions can easily scale up or scale down as […]
+The post Futureproof Your Business with Microsoft Cloud for Financial Services appeared first on ERP Software Blog.
+Unifying Multiple-Entity Financials With GP And FRx
+Microsoft Dynamics GP Reduces ERP Costs For Popular Restaurant Chain And Food Manufacturer
+Beyond The Brochure – What Really Matters To Dynamics Users?]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamline Your Warehouse with Efficient Cycle Counting in MetaWMS]]></title>
+        <id>https://erpsoftwareblog.com/?p=108131</id>
+        <link href="https://erpsoftwareblog.com/2024/07/streamline-your-warehouse-with-efficient-cycle-counting-in-metawms/"/>
+        <updated>2024-07-01T13:03:43.000Z</updated>
+        <summary type="html"><![CDATA[Inventory accuracy is the lifeblood of any successful warehouse operation. Traditional annual physical counts can disrupt workflows and leave you with outdated data. This is where efficient cycle counting comes in. What […]
+The post Streamline Your Warehouse with Efficient Cycle Counting in MetaWMS appeared first on ERP Software Blog.
+Why Your Warehouse Needs a Mobile Warehouse Management Solution (WMS) in 2024
+Boosting Warehouse Efficiency: Unveiling the Benefits of MetaWMS
+Decoding the Warehouse: Serial vs. Batch Numbers and Why They Matter]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central 24 – priority of jobs queues within the job queue category]]></title>
+        <id>https://365community.online/business-central-24-priority-of-jobs-queues-within-the-job-queue-category</id>
+        <link href="https://365community.online/business-central-24-priority-of-jobs-queues-within-the-job-queue-category"/>
+        <updated>2024-07-01T12:51:49.000Z</updated>
+        <summary type="html"><![CDATA[Business Central 24 – priority of jobs queues within the job queue category “Priority” field in job queue is no longer supported since Dynamics NAV 15. Previously it was possible […]]]></summary>
+        <author>
+            <name>Roberto Stefanetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Utilize Copilot for Extracting Answers from SharePoint Sales Documents]]></title>
+        <id>https://365community.online/utilize-copilot-for-extracting-answers-from-sharepoint-sales-documents</id>
+        <link href="https://365community.online/utilize-copilot-for-extracting-answers-from-sharepoint-sales-documents"/>
+        <updated>2024-07-01T12:21:04.000Z</updated>
+        <summary type="html"><![CDATA[As I am part of a technical startup’s sales team, getting quick information is crucial for client meetings. Recently, during a presentation, a potential client asked, “Can you provide details […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Financial), how do I… Create a New Fiscal Year]]></title>
+        <id>https://365community.online/in-microsoft-dynamics-365-business-central-financial-how-do-i-create-a-new-fiscal-year</id>
+        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-financial-how-do-i-create-a-new-fiscal-year"/>
+        <updated>2024-07-01T10:00:13.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Financial), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customize the Schedule Board to show bookable resource attribute – Dynamics 365 Field Service]]></title>
+        <id>https://365community.online/customize-the-schedule-board-to-show-bookable-resource-attribute-dynamics-365-field-service</id>
+        <link href="https://365community.online/customize-the-schedule-board-to-show-bookable-resource-attribute-dynamics-365-field-service"/>
+        <updated>2024-07-01T04:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Below we can see the resource cell template (or view) applied that defines the images, values, and fields displayed for the resource in the Schedule Board. Now suppose we want […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365FO mass creation of fixed asset with Power Platform tools]]></title>
+        <id>http://dynamicsax-fico.com/?p=6377</id>
+        <link href="https://dynamicsax-fico.com/2024/07/01/d365fo-mass-creation-of-fixed-asset-with-power-platform-tools/"/>
+        <updated>2024-07-01T04:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My Session at Kohinoor Grammar School & College]]></title>
         <id>https://365community.online/my-session-at-kohinoor-grammar-school-college</id>
@@ -14,6 +106,30 @@
         <summary type="html"><![CDATA[Last Friday, June 28, 2024, I presented “App Development with Power Platform” at Kohinoor Grammar School & College in Faisalabad, Pakistan. It was a wonderful gathering of around 100 youngsters. […]]]></summary>
         <author>
             <name>Yawer Iqbal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AP Automation in Microsoft Dynamics 365 Business Central with Rillion]]></title>
+        <id>https://erpsoftwareblog.com/?p=107836</id>
+        <link href="https://erpsoftwareblog.com/2024/06/ap-automation-in-microsoft-dynamics-365-business-central-with-rillion/"/>
+        <updated>2024-07-01T00:04:53.000Z</updated>
+        <summary type="html"><![CDATA[At Rillion, we specialize in unraveling the complexities of AP Automation software and simplifying it so that our clients can manage the process quickly. Whether it involves capturing invoice data, […]
+The post AP Automation in Microsoft Dynamics 365 Business Central with Rillion appeared first on ERP Software Blog.
+How to Convince Vendors to Accept Electronic Payments
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Pitfall #6 – AP Automation for Microsoft Dynamics]]></summary>
+        <author>
+            <name>Rillion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI’s Impact on Industries and the Future of AI in Healthcare – YouTube]]></title>
+        <id>https://365community.online/ais-impact-on-industries-and-the-future-of-ai-in-healthcare-youtube</id>
+        <link href="https://365community.online/ais-impact-on-industries-and-the-future-of-ai-in-healthcare-youtube"/>
+        <updated>2024-06-30T21:33:31.000Z</updated>
+        <summary type="html"><![CDATA[AI’s Impact on Industries and the Future of AI in Healthcare The conversation covers the post-event reflections on Dynamics Minds, the experience of attending the event, and the panel discussion […]]]></summary>
+        <author>
+            <name>NZ365Guy</name>
         </author>
     </entry>
     <entry>
@@ -35,6 +151,17 @@ Read more ›]]></summary>
         <summary type="html"><![CDATA[Starting up a business? Nope. Well, I have my own small company – we all have one, of course, mostly for fun, and it is clearly dormant. Don’t you have […]]]></summary>
         <author>
             <name>Jonas Rapp ᴹᴠᴾ ??</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Address in Google Maps with Two Clicks]]></title>
+        <id>https://ax.docentric.com/?p=28876</id>
+        <link href="https://ax.docentric.com/open-address-in-google-maps-with-two-clicks/"/>
+        <updated>2024-06-30T08:27:49.000Z</updated>
+        <summary type="html"><![CDATA[When you access customer or vendor details in Dynamics 365 for Finance and Operations (D365FO), their addresses listed like this: “456 Peach Road, San Diego, CA 92114, USA”. This is great if you're familiar with San Diego, but if you're in Europe, for example, it […]
+The post Open Address in Google Maps with Two Clicks appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Slobodan Vucicevic</name>
         </author>
     </entry>
     <entry>
@@ -502,6 +629,17 @@ Microsoft Dynamics 365 Business Central is now available! Business without silos
 More Than Just a Name Change: The New Microsoft Dynamics 365 Business Central]]></summary>
         <author>
             <name>ACE Micro, LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use expanded Copilot for Service capabilities in your CRM]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/06/27/use-expanded-copilot-for-service-capabilities-in-your-crm/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/06/27/use-expanded-copilot-for-service-capabilities-in-your-crm/"/>
+        <updated>2024-06-27T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On July 1, we are introducing several new capabilities in Copilot for Service to further support agents working in their CRM of choice. 
+The post Use expanded Copilot for Service capabilities in your CRM appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Tina Ding and Hardik Sanghavi</name>
         </author>
     </entry>
     <entry>
