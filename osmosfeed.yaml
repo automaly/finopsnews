@@ -1,6 +1,7 @@
 cacheUrl: https://automaly.github.io/finopsnews/cache.json
 sources:
   - href: https://nuxulu.com/posts/index.xml
+  - href: https://automaly.com/blog/rss.xml
   # Downloadable E-learning Courses
   # - href: https://community.dynamics.com/365/b/learningcurriculum/rss
   # AX Videos
@@ -46,7 +47,7 @@ sources:
   - href: https://d365fostuff.wordpress.com/feed/
   - href: https://msdyn365fo.wordpress.com/feed/
   - href: https://ariste.info/feed/
-  - href: https://dynagile.fr/en/home-page-blog/feed/
+  # - href: https://dynagile.fr/en/home-page-blog/feed/
   - href: https://anithasantosh.wordpress.com/feed/
   - href: https://dynamics365musings.com/feed/
   - href: http://atomicax.com/rss.xml
@@ -125,7 +126,7 @@ sources:
   - href: https://d365fandom.com/feeds/posts/default
   - href: https://ievgensaxblog.wordpress.com/feed/
   - href: https://dynamics365ax2012.blogspot.com/feeds/posts/default
-  - href: https://powerautomate.microsoft.com/en-nz/blog/feed/
+  # - href: https://powerautomate.microsoft.com/en-nz/blog/feed/
 
 cacheMaxDays: 730
 
@@ -135,6 +136,10 @@ siteTitle: "Dynamics 365 Finance & Operations Feeds"
 # Find yours from the "TZ database name" column of this page: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
 # Examples: America/Los_Angeles, America/New_York, Asia/Shanghai, Asia/Tokyo
 timezone: America/Los_Angeles
+
+
+# https://dynamics.fo/
+# https://github.com/pkrashdi/d365fo
 
 
 # https://dynamics.fo/
