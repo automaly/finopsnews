@@ -10361,6 +10361,16 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/the-book-of-batch-jobs",
+          "author": "Nathan Clouse",
+          "description": "I created a collection of articles on Finance and Operations (F&O) batch jobs to have a comprehensive resource for understanding and optimizing batch processing. This compilation includes guides on configuring […]",
+          "link": "https://365community.online/the-book-of-batch-jobs",
+          "publishedOn": "2024-07-06T01:48:48.000Z",
+          "wordCount": 3180,
+          "title": "The Book of Batch Jobs",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
           "id": "https://365community.online/tutorial-how-to-rename-dynamics-365-ce-environment-url-and-name-youtube",
           "author": "Manish chauhan",
           "description": "Learn step-by-step how to easily rename your Dynamics 365 Customer Engagement (CE) environment URL and Name in this comprehensive tutorial. Whether you’re rebranding or need a more descriptive name, follow […]",
@@ -25034,6 +25044,16 @@
       "feedUrl": "http://atomicax.com/rss.xml",
       "siteUrl": "https://www.atomicax.com/frontpage",
       "articles": [
+        {
+          "id": "1708 at https://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "I created a collection of articles on Finance and Operations (F&O) batch jobs to have a comprehensive resource for understanding and optimizing batch processing. This compilation includes guides on configuring and scheduling batch jobs, troubleshooting common issues, and best practices for performance tuning. Each article delves into specific aspects, such as leveraging the RunBaseBatch framework, when to use an Individual Modelled Task batch job, When to use a Top Picking batch job, and when to use a batch bundle batch job plus ensuring data integrity, and enhancing system efficiency\n\n\n\n\n\n\n\n\n\n\n\n\n      \nBlog Main Tag: \nBatch",
+          "link": "https://www.atomicax.com/content/book-batch-jobs",
+          "publishedOn": "2024-07-06T01:48:48.000Z",
+          "wordCount": 804,
+          "title": "The Book of Batch Jobs",
+          "imageUrl": null
+        },
         {
           "id": "1703 at https://www.atomicax.com",
           "author": "Nathan Clouse",
