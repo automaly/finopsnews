@@ -413,6 +413,16 @@
       "siteUrl": "https://automaly.github.io/blog",
       "articles": [
         {
+          "id": "https://automaly.github.io/blog/2024/05/12/sql-cheat-sheet",
+          "author": null,
+          "description": "SQL Datatype",
+          "link": "https://automaly.github.io/blog/2024/05/12/sql-cheat-sheet",
+          "publishedOn": "2024-05-11T00:00:00.000Z",
+          "wordCount": 601,
+          "title": "SQL cheatsheet",
+          "imageUrl": "https://automaly.github.io/img/docusaurus-social-card.jpg"
+        },
+        {
           "id": "https://automaly.github.io/blog/2024/05/11/truncate-a-table-Xpp",
           "author": null,
           "description": "We can use the tableTruncate method from SqlDataDictionary to truncate a table in FinOps, useful for a huge SQL table.",
@@ -10360,6 +10370,16 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/java-interview-question-what-is-the-purpose-of-pull-request-in-github-javainterview-shorts-youtube",
+          "author": "Jaya Sri",
+          "description": "In this video we discussed most frequently asked Java Interview Question and Answer that is what is the purpose of Pull request in GitHub. The answer for this question is, […]",
+          "link": "https://365community.online/java-interview-question-what-is-the-purpose-of-pull-request-in-github-javainterview-shorts-youtube",
+          "publishedOn": "2024-07-06T13:00:19.000Z",
+          "wordCount": 3217,
+          "title": "Java Interview Question: What is the Purpose of Pull Request in GitHub? #javainterview #shorts – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1720386203_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
         {
           "id": "https://365community.online/the-book-of-batch-jobs",
           "author": "Nathan Clouse",
