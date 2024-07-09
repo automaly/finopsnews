@@ -1552,6 +1552,46 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=108323",
+          "author": "MetaOption LLC",
+          "description": "In the modern manufacturing landscape, efficiency and precision are paramount. Manufacturers must navigate complex processes, regulations, and supply chains while maintaining high quality and safety standards. Traditional document management methods […]\nThe post Transforming Manufacturing with a Next-Gen Document Management Solution appeared first on ERP Software Blog.\nQuality Assurance and Compliance in Manufacturing with Business Central\nEmpowering Manufacturing Excellence with Dynamics NAV\nBusiness Central: Digital Transformation in the Manufacturing Industry",
+          "link": "https://erpsoftwareblog.com/2024/07/transforming-manufacturing-with-document-management-solution/",
+          "publishedOn": "2024-07-08T15:33:23.000Z",
+          "wordCount": 4126,
+          "title": "Transforming Manufacturing with a Next-Gen Document Management Solution",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-3-17.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=108318",
+          "author": "Dynamics Square UK",
+          "description": "Are you struggling to keep pace with ever-evolving customer expectations in the retail industry? Juggling separate online and in-store operations can leave you feeling like you're running two different businesses. […]\nThe post Revolutionise Your Retail Business: The Power of Dynamics 365 for Commerce appeared first on ERP Software Blog.\nSTOP! Don't buy Shopify for your B2B eCommerce Store\n6 reasons to partner with Dynamicweb for integrated eCommerce solutions\nGrowing crops, plants and profits: how Agriculture and Horticulture are leveraging eCommerce",
+          "link": "https://erpsoftwareblog.com/2024/07/revolutionise-your-retail-business-the-power-of-dynamics-365-for-commerce/",
+          "publishedOn": "2024-07-08T14:56:47.000Z",
+          "wordCount": 4573,
+          "title": "Revolutionise Your Retail Business: The Power of Dynamics 365 for Commerce",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/images-2.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=108313",
+          "author": "Dynamics Square USA",
+          "description": "The food and beverage industry is a field that is constantly changing and growing. From managing complex supply chains to ensuring regulatory compliance, food and beverage businesses face unique challenges. […]\nThe post ERP for Food Industry: Your Recipe for Success appeared first on ERP Software Blog.\nThe 5 Most Often Overlooked Costs of ERP\nERP Software Compliance for Regulatory Standards such as SOX, FDA, and ISO using Microsoft Dynamics NAV\nReShoring Manufacturing in the U.S.A.",
+          "link": "https://erpsoftwareblog.com/2024/07/erp-for-food-industry/",
+          "publishedOn": "2024-07-08T14:44:59.000Z",
+          "wordCount": 4863,
+          "title": "ERP for Food Industry: Your Recipe for Success",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ERP-for-Food-Industry.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=108309",
+          "author": "NETRONIC Software GmbH",
+          "description": "If you're an everyday user of Business Central and its manufacturing module you can already identify the gaps between the module and its production scheduling capabilities. that being the lack […]\nThe post How to get an accurate Production Schedule in Business Central? appeared first on ERP Software Blog.\nAutomated Production Scheduling Using Dynamics 365 Business Central\nQuality Control in Inventory and Manufacturing Using Dynamics 365 Business Central\nInsight Works Launches Quality Inspector App for Business Central Users",
+          "link": "https://erpsoftwareblog.com/2024/07/how-to-get-an-accurate-production-schedule-in-business-central/",
+          "publishedOn": "2024-07-08T13:19:09.000Z",
+          "wordCount": 3769,
+          "title": "How to get an accurate Production Schedule in Business Central?",
+          "imageUrl": "https://blog.netronic.com/hs-fs/hubfs/Businessman%20%20standing%20and%20looking%20to%20a%20big%20puzzle%20piece.jpeg?width=426&height=200&name=Businessman%20%20standing%20and%20looking%20to%20a%20big%20puzzle%20piece.jpeg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=108281",
           "author": "Stoneridge Software",
           "description": "Managing your software licenses can be a tedious task if you don't have a smart and optimized process in place. That's why working with a trusted team of licensing experts […]\nThe post 5 Reasons to Work With a Trusted Software Licensing Partner appeared first on ERP Software Blog.\nBest strategies, insights and techniques for a successful eCommerce implementation\nJoin Us At Dynamic Communities Summit - Booth 800\nCase Study: Embracing ClickLearn as a corporate Dynamics 365 training platform",
@@ -9724,6 +9764,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=62875",
+          "author": "Akbor Chowdhury",
+          "description": "Dynamics 365 CRM Applications License Pricing Explained\nNavigating the prices of Dynamics 365’s CRM offerings can be complex, and I often help Encore customers understand and optimize the details of their Dynamics license costs. There are actually 5 different Dynamics 365 apps that fit different companies’ needs in the CRM space, and they each have their own license types. There are also...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/dynamics-365-crm-license-pricing-explained/",
+          "publishedOn": "2024-07-08T19:57:29.000Z",
+          "wordCount": 2362,
+          "title": "Dynamics 365 CRM Applications License Pricing Explained",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/CRM-blog-image.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=47067",
           "author": "Tracey Santos",
           "description": "What Happens to My Dynamics GP Add-On Solutions When I Move to Dynamics 365 Business Central?\nIf you are a Dynamics GP user and you are considering moving to the cloud, you might be wondering what will happen to your add-on solutions and how they will work with Dynamics 365 Business Central. This blog will answer questions about Dynamics GP add-ons and the options available in Dynamics 365 Business Central, discuss...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -10370,6 +10420,96 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/using-homogenous-batch-bulk-operation-messages-for-improved-performance-data-migration-dataverse",
+          "author": "Nishant Rana",
+          "description": "As we all are aware Microsoft has introduced Bulk Operation messages in the platform. Now we could use the same in our SSIS Package that uses KingswaySoft’s SSIS Integration Toolkit […]",
+          "link": "https://365community.online/using-homogenous-batch-bulk-operation-messages-for-improved-performance-data-migration-dataverse",
+          "publishedOn": "2024-07-08T18:35:00.000Z",
+          "wordCount": 3253,
+          "title": "Using Homogenous Batch / Bulk operation messages for improved performance – Data Migration / Dataverse",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Using-Homogenous-Batch-Bulk-operation-messages-for-improved-performance.jpg?fit=1200%2C799&ssl=1"
+        },
+        {
+          "id": "https://365community.online/create-your-first-custom-copilot-for-customer-service-hub-part-1",
+          "author": "Priyesh Wagh",
+          "description": "Here’s how you can create your first Copilot for Customer Service Hub Continue Reading priyeshwagh777’s Article on their blog Create your first custom Copilot for Customer Service Hub – Part […]",
+          "link": "https://365community.online/create-your-first-custom-copilot-for-customer-service-hub-part-1",
+          "publishedOn": "2024-07-08T14:05:08.000Z",
+          "wordCount": 3134,
+          "title": "Create your first custom Copilot for Customer Service Hub – Part 1",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Create-your-first-custom-Copilot-for-Customer-Service-Hub-–.png?fit=1200%2C527&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-create-a-youtube-video",
+          "author": "Peter Ramer",
+          "description": "As part of writing articles, I typically create a YouTube video that covers the same content. I have found that some people like to read articles while others like to […]",
+          "link": "https://365community.online/how-to-create-a-youtube-video",
+          "publishedOn": "2024-07-08T13:00:00.000Z",
+          "wordCount": 3178,
+          "title": "How To Create A YouTube Video",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/How-To-Create-A-YouTube-Video.png?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/surprising-iam-design-solutions-unveiled-sc100-exam-youtube",
+          "author": "shabaz darr",
+          "description": "Get ready to be surprised by the innovative IAM design solutions unveiled in the SC-100 Exam. Learn about modern authentication and authorization strategies that will enhance your security protocols. Episode […]",
+          "link": "https://365community.online/surprising-iam-design-solutions-unveiled-sc100-exam-youtube",
+          "publishedOn": "2024-07-08T11:30:31.000Z",
+          "wordCount": 3166,
+          "title": "Surprising IAM Design Solutions Unveiled – SC100 Exam! – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1720446736_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-financial-how-do-i-close-a-fiscal-year",
+          "author": "Ian Grieve",
+          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Financial), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]",
+          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-financial-how-do-i-close-a-fiscal-year",
+          "publishedOn": "2024-07-08T10:00:42.000Z",
+          "wordCount": 3242,
+          "title": "In Microsoft Dynamics 365 Business Central (Financial), how do I… Close a Fiscal Year",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1720436963_In-Microsoft-Dynamics-365-Business-Central-Financial-how-do-I….png?fit=1177%2C332&ssl=1"
+        },
+        {
+          "id": "https://365community.online/unified-routing-capacity-profiles-and-work-classification",
+          "author": "Neil Parkhurst",
+          "description": "I recently had a requirement to route conversations differently to agents based on the skills we’d classified for the work item. In this post I will explain this concept. There […]",
+          "link": "https://365community.online/unified-routing-capacity-profiles-and-work-classification",
+          "publishedOn": "2024-07-08T07:52:26.000Z",
+          "wordCount": 3183,
+          "title": "Unified Routing – Capacity Profiles and Work Classification",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Unified-Routing-–-Capacity-Profiles-and-Work-Classification.jpg?fit=800%2C1200&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-create-instant-plugins-using-dataverse-accelerator-app-youtube",
+          "author": "Manish chauhan",
+          "description": "Welcome to our channel! In this video, we’ll demonstrate how to create Instant Plugins using the Dataverse Accelerator App. Instant Plugins are a versatile and powerful tool that can be […]",
+          "link": "https://365community.online/how-to-create-instant-plugins-using-dataverse-accelerator-app-youtube",
+          "publishedOn": "2024-07-08T04:39:50.000Z",
+          "wordCount": 3162,
+          "title": "How to Create Instant Plugins Using Dataverse Accelerator App – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1720419007_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-create-an-automated-plugin-using-the-dataverse-accelerator-app-youtube",
+          "author": "Manish chauhan",
+          "description": "Welcome to our channel! In this video, we’ll walk you through the process of creating an automated plugin using the Dataverse Accelerator App. Whether you’re a seasoned developer or just […]",
+          "link": "https://365community.online/how-to-create-an-automated-plugin-using-the-dataverse-accelerator-app-youtube",
+          "publishedOn": "2024-07-08T04:23:43.000Z",
+          "wordCount": 3187,
+          "title": "How to Create an Automated Plugin Using the Dataverse Accelerator App – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1720433781_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/database-inserts-code-table-comparison",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 07/07/24. Last modified:  07/07/24 Tags:  performance Database Inserts – Primary Table Comparison between dev box and Sandbox Environment In a previous article, I wrote about […]",
+          "link": "https://365community.online/database-inserts-code-table-comparison",
+          "publishedOn": "2024-07-08T03:07:43.000Z",
+          "wordCount": 3182,
+          "title": "Database Inserts – Code Table Comparison",
+          "imageUrl": "https://365community.online/wp-content/uploads/2024/07/Database-Inserts-Code-Table-Comparison.png"
+        },
         {
           "id": "https://365community.online/java-interview-question-what-is-the-purpose-of-pull-request-in-github-javainterview-shorts-youtube",
           "author": "Jaya Sri",
@@ -24888,6 +25028,21 @@
       "siteUrl": "https://dynamics365musings.com/",
       "articles": [
         {
+          "id": "https://dynamics365musings.com/?p=3784",
+          "author": "peter.ramer",
+          "description": "As part of writing articles, I typically create a YouTube video that covers the same content. I have found that some people like to read articles while others like to watch videos. Creating content in both of these formats can help reach a wider audience. In this article and video, learn all of the tips... Continue Reading →\nThe post How To Create A YouTube Video appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/create-a-youtube-video/?utm_source=rss&utm_medium=rss&utm_campaign=create-a-youtube-video",
+          "publishedOn": "2024-07-08T13:00:00.000Z",
+          "wordCount": 6707,
+          "title": "How To Create A YouTube Video",
+          "enclosure": {
+            "url": "https://dynamics365musings.com/wp-content/uploads/2024/06/25102-347958100_small.mp4",
+            "length": "2184511",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2024/07/How-To-Create-A-YouTube-Video.png"
+        },
+        {
           "id": "https://dynamics365musings.com/?p=3692",
           "author": "peter.ramer",
           "description": "Over the last few years, I have been writing D365 articles and tutorials. During that time, I have learned some tips and tricks on how to write a blog article that I would love to share with you. Like me, you may love learning and teaching others new things. As part of that, you want... Continue Reading →\nThe post How To Write A Blog Article appeared first on Dynamics 365 Musings.",
@@ -25064,6 +25219,16 @@
       "feedUrl": "http://atomicax.com/rss.xml",
       "siteUrl": "https://www.atomicax.com/frontpage",
       "articles": [
+        {
+          "id": "1696 at https://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 07/07/24.\n\n\nLast modified: \n\n07/07/24\n\n\n\n\n\n\n\n\n\n\n\n\n      \nTags: \nperformance      \n\nDatabase Inserts - Primary Table Comparison between dev box and Sandbox Environment\nIn a previous article, I wrote about the fastest ways to insert data but only looked at it from a development VM ( In Azure ) perspective. I thought it would be worthwhile to review this from a Microsoft-hosted Sandbox environment as well a (new) PPAC-hosted Unified Development Environment, or UDE, which used to be known as a UNO environment - Unified Operations. In the charts below, The \"DEV' label is a standard Dev VM deployed in Azure with the defaults taken from LCS ( most importantly just 3 disks ). The \"TST\" label is for a standard Microsoft hosted Sandbox as a UAT environment available as …",
+          "link": "https://www.atomicax.com/article/database-inserts-code-table-comparison",
+          "publishedOn": "2024-07-08T03:07:43.000Z",
+          "wordCount": 1485,
+          "title": "Database Inserts - Code Table Comparison",
+          "imageUrl": null
+        },
         {
           "id": "1708 at https://www.atomicax.com",
           "author": "Nathan Clouse",

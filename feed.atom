@@ -2,10 +2,213 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-07-08T00:44:47.952Z</updated>
+    <updated>2024-07-09T00:43:36.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 CRM Applications License Pricing Explained]]></title>
+        <id>https://www.encorebusiness.com/?p=62875</id>
+        <link href="https://www.encorebusiness.com/blog/dynamics-365-crm-license-pricing-explained/"/>
+        <updated>2024-07-08T19:57:29.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics 365 CRM Applications License Pricing Explained
+Navigating the prices of Dynamics 365’s CRM offerings can be complex, and I often help Encore customers understand and optimize the details of their Dynamics license costs. There are actually 5 different Dynamics 365 apps that fit different companies’ needs in the CRM space, and they each have their own license types. There are also...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Akbor Chowdhury</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Homogenous Batch / Bulk operation messages for improved performance – Data Migration / Dataverse]]></title>
+        <id>https://365community.online/using-homogenous-batch-bulk-operation-messages-for-improved-performance-data-migration-dataverse</id>
+        <link href="https://365community.online/using-homogenous-batch-bulk-operation-messages-for-improved-performance-data-migration-dataverse"/>
+        <updated>2024-07-08T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[As we all are aware Microsoft has introduced Bulk Operation messages in the platform. Now we could use the same in our SSIS Package that uses KingswaySoft’s SSIS Integration Toolkit […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transforming Manufacturing with a Next-Gen Document Management Solution]]></title>
+        <id>https://erpsoftwareblog.com/?p=108323</id>
+        <link href="https://erpsoftwareblog.com/2024/07/transforming-manufacturing-with-document-management-solution/"/>
+        <updated>2024-07-08T15:33:23.000Z</updated>
+        <summary type="html"><![CDATA[In the modern manufacturing landscape, efficiency and precision are paramount. Manufacturers must navigate complex processes, regulations, and supply chains while maintaining high quality and safety standards. Traditional document management methods […]
+The post Transforming Manufacturing with a Next-Gen Document Management Solution appeared first on ERP Software Blog.
+Quality Assurance and Compliance in Manufacturing with Business Central
+Empowering Manufacturing Excellence with Dynamics NAV
+Business Central: Digital Transformation in the Manufacturing Industry]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolutionise Your Retail Business: The Power of Dynamics 365 for Commerce]]></title>
+        <id>https://erpsoftwareblog.com/?p=108318</id>
+        <link href="https://erpsoftwareblog.com/2024/07/revolutionise-your-retail-business-the-power-of-dynamics-365-for-commerce/"/>
+        <updated>2024-07-08T14:56:47.000Z</updated>
+        <summary type="html"><![CDATA[Are you struggling to keep pace with ever-evolving customer expectations in the retail industry? Juggling separate online and in-store operations can leave you feeling like you're running two different businesses. […]
+The post Revolutionise Your Retail Business: The Power of Dynamics 365 for Commerce appeared first on ERP Software Blog.
+STOP! Don't buy Shopify for your B2B eCommerce Store
+6 reasons to partner with Dynamicweb for integrated eCommerce solutions
+Growing crops, plants and profits: how Agriculture and Horticulture are leveraging eCommerce]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ERP for Food Industry: Your Recipe for Success]]></title>
+        <id>https://erpsoftwareblog.com/?p=108313</id>
+        <link href="https://erpsoftwareblog.com/2024/07/erp-for-food-industry/"/>
+        <updated>2024-07-08T14:44:59.000Z</updated>
+        <summary type="html"><![CDATA[The food and beverage industry is a field that is constantly changing and growing. From managing complex supply chains to ensuring regulatory compliance, food and beverage businesses face unique challenges. […]
+The post ERP for Food Industry: Your Recipe for Success appeared first on ERP Software Blog.
+The 5 Most Often Overlooked Costs of ERP
+ERP Software Compliance for Regulatory Standards such as SOX, FDA, and ISO using Microsoft Dynamics NAV
+ReShoring Manufacturing in the U.S.A.]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create your first custom Copilot for Customer Service Hub – Part 1]]></title>
+        <id>https://365community.online/create-your-first-custom-copilot-for-customer-service-hub-part-1</id>
+        <link href="https://365community.online/create-your-first-custom-copilot-for-customer-service-hub-part-1"/>
+        <updated>2024-07-08T14:05:08.000Z</updated>
+        <summary type="html"><![CDATA[Here’s how you can create your first Copilot for Customer Service Hub Continue Reading priyeshwagh777’s Article on their blog Create your first custom Copilot for Customer Service Hub – Part […]]]></summary>
+        <author>
+            <name>Priyesh Wagh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to get an accurate Production Schedule in Business Central?]]></title>
+        <id>https://erpsoftwareblog.com/?p=108309</id>
+        <link href="https://erpsoftwareblog.com/2024/07/how-to-get-an-accurate-production-schedule-in-business-central/"/>
+        <updated>2024-07-08T13:19:09.000Z</updated>
+        <summary type="html"><![CDATA[If you're an everyday user of Business Central and its manufacturing module you can already identify the gaps between the module and its production scheduling capabilities. that being the lack […]
+The post How to get an accurate Production Schedule in Business Central? appeared first on ERP Software Blog.
+Automated Production Scheduling Using Dynamics 365 Business Central
+Quality Control in Inventory and Manufacturing Using Dynamics 365 Business Central
+Insight Works Launches Quality Inspector App for Business Central Users]]></summary>
+        <author>
+            <name>NETRONIC Software GmbH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Create A YouTube Video]]></title>
+        <id>https://365community.online/how-to-create-a-youtube-video</id>
+        <link href="https://365community.online/how-to-create-a-youtube-video"/>
+        <updated>2024-07-08T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As part of writing articles, I typically create a YouTube video that covers the same content. I have found that some people like to read articles while others like to […]]]></summary>
+        <author>
+            <name>Peter Ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Create A YouTube Video]]></title>
+        <id>https://dynamics365musings.com/?p=3784</id>
+        <link href="https://dynamics365musings.com/create-a-youtube-video/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=create-a-youtube-video"/>
+        <updated>2024-07-08T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As part of writing articles, I typically create a YouTube video that covers the same content. I have found that some people like to read articles while others like to watch videos. Creating content in both of these formats can help reach a wider audience. In this article and video, learn all of the tips... Continue Reading →
+The post How To Create A YouTube Video appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>peter.ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surprising IAM Design Solutions Unveiled – SC100 Exam! – YouTube]]></title>
+        <id>https://365community.online/surprising-iam-design-solutions-unveiled-sc100-exam-youtube</id>
+        <link href="https://365community.online/surprising-iam-design-solutions-unveiled-sc100-exam-youtube"/>
+        <updated>2024-07-08T11:30:31.000Z</updated>
+        <summary type="html"><![CDATA[Get ready to be surprised by the innovative IAM design solutions unveiled in the SC-100 Exam. Learn about modern authentication and authorization strategies that will enhance your security protocols. Episode […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Financial), how do I… Close a Fiscal Year]]></title>
+        <id>https://365community.online/in-microsoft-dynamics-365-business-central-financial-how-do-i-close-a-fiscal-year</id>
+        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-financial-how-do-i-close-a-fiscal-year"/>
+        <updated>2024-07-08T10:00:42.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Financial), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unified Routing – Capacity Profiles and Work Classification]]></title>
+        <id>https://365community.online/unified-routing-capacity-profiles-and-work-classification</id>
+        <link href="https://365community.online/unified-routing-capacity-profiles-and-work-classification"/>
+        <updated>2024-07-08T07:52:26.000Z</updated>
+        <summary type="html"><![CDATA[I recently had a requirement to route conversations differently to agents based on the skills we’d classified for the work item. In this post I will explain this concept. There […]]]></summary>
+        <author>
+            <name>Neil Parkhurst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Instant Plugins Using Dataverse Accelerator App – YouTube]]></title>
+        <id>https://365community.online/how-to-create-instant-plugins-using-dataverse-accelerator-app-youtube</id>
+        <link href="https://365community.online/how-to-create-instant-plugins-using-dataverse-accelerator-app-youtube"/>
+        <updated>2024-07-08T04:39:50.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to our channel! In this video, we’ll demonstrate how to create Instant Plugins using the Dataverse Accelerator App. Instant Plugins are a versatile and powerful tool that can be […]]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create an Automated Plugin Using the Dataverse Accelerator App – YouTube]]></title>
+        <id>https://365community.online/how-to-create-an-automated-plugin-using-the-dataverse-accelerator-app-youtube</id>
+        <link href="https://365community.online/how-to-create-an-automated-plugin-using-the-dataverse-accelerator-app-youtube"/>
+        <updated>2024-07-08T04:23:43.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to our channel! In this video, we’ll walk you through the process of creating an automated plugin using the Dataverse Accelerator App. Whether you’re a seasoned developer or just […]]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Database Inserts – Code Table Comparison]]></title>
+        <id>https://365community.online/database-inserts-code-table-comparison</id>
+        <link href="https://365community.online/database-inserts-code-table-comparison"/>
+        <updated>2024-07-08T03:07:43.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 07/07/24. Last modified:  07/07/24 Tags:  performance Database Inserts – Primary Table Comparison between dev box and Sandbox Environment In a previous article, I wrote about […]]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Database Inserts - Code Table Comparison]]></title>
+        <id>1696 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/article/database-inserts-code-table-comparison"/>
+        <updated>2024-07-08T03:07:43.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 07/07/24.
+
+
+Last modified: 
+
+07/07/24
+
+
+
+
+
+
+
+
+
+
+
+
+      
+Tags: 
+performance      
+
+Database Inserts - Primary Table Comparison between dev box and Sandbox Environment
+In a previous article, I wrote about the fastest ways to insert data but only looked at it from a development VM ( In Azure ) perspective. I thought it would be worthwhile to review this from a Microsoft-hosted Sandbox environment as well a (new) PPAC-hosted Unified Development Environment, or UDE, which used to be known as a UNO environment - Unified Operations. In the charts below, The "DEV' label is a standard Dev VM deployed in Azure with the defaults taken from LCS ( most importantly just 3 disks ). The "TST" label is for a standard Microsoft hosted Sandbox as a UAT environment available as …]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Java Interview Question: What is the Purpose of Pull Request in GitHub? #javainterview #shorts – YouTube]]></title>
         <id>https://365community.online/java-interview-question-what-is-the-purpose-of-pull-request-in-github-javainterview-shorts-youtube</id>
