@@ -2,10 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-07-10T00:44:05.777Z</updated>
+    <updated>2024-07-11T00:44:11.404Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Perform Age calculation using Formula Columns in Dataverse / Dynamics 365]]></title>
+        <id>https://365community.online/perform-age-calculation-using-formula-columns-in-dataverse-dynamics-365</id>
+        <link href="https://365community.online/perform-age-calculation-using-formula-columns-in-dataverse-dynamics-365"/>
+        <updated>2024-07-10T18:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Below we have created a new field of Data Type Formula and Formula Data Type as Whole Number Specify the following formula. RoundDown(DateDiff(birthdate, UTCNow(), TimeUnit.Days) / 365.25, 0) Below we […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create your first custom Copilot for Customer Service Hub – Part 2 | Authentication]]></title>
+        <id>https://365community.online/create-your-first-custom-copilot-for-customer-service-hub-part-2-authentication</id>
+        <link href="https://365community.online/create-your-first-custom-copilot-for-customer-service-hub-part-2-authentication"/>
+        <updated>2024-07-10T12:46:12.000Z</updated>
+        <summary type="html"><![CDATA[This is second part to the blog to create your first customer Copilot for Customer Service Hub. Continue Reading priyeshwagh777’s Article on their blog Create your first custom Copilot for […]]]></summary>
+        <author>
+            <name>Priyesh Wagh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving Sales Efficiency with Copilot AI Summaries for Dynamics 365 CRM records (Preview)]]></title>
+        <id>https://365community.online/improving-sales-efficiency-with-copilot-ai-summaries-for-dynamics-365-crm-records-preview</id>
+        <link href="https://365community.online/improving-sales-efficiency-with-copilot-ai-summaries-for-dynamics-365-crm-records-preview"/>
+        <updated>2024-07-10T12:32:20.000Z</updated>
+        <summary type="html"><![CDATA[In today’s fast-paced business environment, leveraging technology to streamline processes and enhance efficiency is crucial. One such tool revolutionizing how sales teams operate is the Co-Pilot feature in Dynamics 365 […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SC 100 Topic 6 Part 4: Unveiling Secure Identities – YouTube]]></title>
+        <id>https://365community.online/sc-100-topic-6-part-4-unveiling-secure-identities-youtube</id>
+        <link href="https://365community.online/sc-100-topic-6-part-4-unveiling-secure-identities-youtube"/>
+        <updated>2024-07-10T11:30:08.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to design a solution to manage secrets, keys, certificates, and secure identities in SC 100 Topic 6 Part 4. Watch now for expert tips and insights! Episode breakdown: […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use a recurring Integration Endpoint to Import Data]]></title>
+        <id>https://365community.online/how-to-use-a-recurring-integration-endpoint-to-import-data</id>
+        <link href="https://365community.online/how-to-use-a-recurring-integration-endpoint-to-import-data"/>
+        <updated>2024-07-10T10:36:30.000Z</updated>
+        <summary type="html"><![CDATA[How to use a recurring Integration Endpoint to Import Data 07/10/24 Integration How to use a recurring Integration Endpoint for importing data Recurring Integration Endpoints for Finance and Operations are  […]]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Use A Recurring Integration Endpoint]]></title>
+        <id>https://365community.online/how-to-use-a-recurring-integration-endpoint</id>
+        <link href="https://365community.online/how-to-use-a-recurring-integration-endpoint"/>
+        <updated>2024-07-10T10:36:30.000Z</updated>
+        <summary type="html"><![CDATA[How To Use A Recurring Integration Endpoint 07/10/24 Integration How to use a recurring Integration Endpoint for importing data Recurring Integration Endpoints for Finance and Operations are  an interesting option […]]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use a recurring Integration Endpoint to Import Data]]></title>
+        <id>1709 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/blog-entry/how-use-recurring-integration-endpoint-import-data"/>
+        <updated>2024-07-10T10:36:30.000Z</updated>
+        <summary type="html"><![CDATA[How to use a recurring Integration Endpoint to Import Data
+
+
+
+
+
+
+07/10/24
+
+
+
+
+
+
+
+
+
+
+
+
+    
+Integration      
+
+How to use a recurring Integration Endpoint for importing data
+
+Recurring Integration Endpoints for Finance and Operations are  an interesting option for integrations. From the Microsoft docs, it looks like it's meant for an input/output scenario where we have an inbound message and expect to have an outbound message. That's not specifically the case. We can unlock nearly all of the DMF through a recurring integration endpoint. The only real difference between a recurring integration endpoint and any of the other APIs for DMF is recurring integrations go to a staging area first then get processed by a batch job rather than the request be processed immediately. If creating a record …]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Financial), how do I… Stop People Posting to a Closed Fiscal Year]]></title>
+        <id>https://365community.online/in-microsoft-dynamics-365-business-central-financial-how-do-i-stop-people-posting-to-a-closed-fiscal-year</id>
+        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-financial-how-do-i-stop-people-posting-to-a-closed-fiscal-year"/>
+        <updated>2024-07-10T10:00:25.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Financial), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prevent prompt injections in your Azure OpenAI and Copilots implementations.]]></title>
+        <id>https://365community.online/prevent-prompt-injections-in-your-azure-openai-and-copilots-implementations</id>
+        <link href="https://365community.online/prevent-prompt-injections-in-your-azure-openai-and-copilots-implementations"/>
+        <updated>2024-07-10T09:39:55.000Z</updated>
+        <summary type="html"><![CDATA[If any of you have ever developed Windows or Web applications connected to a SQL database in C# or other similar languages, you will surely have heard of sql injection. […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Breaking Down the Cost of Microsoft Dynamics 365]]></title>
         <id>https://erpsoftwareblog.com/?p=108344</id>
@@ -149,6 +264,17 @@ How Can Microsoft Dynamics GP Enable Better Data Protection?]]></summary>
         <summary type="html"><![CDATA[Recently, I encountered a frustrating error while trying to modify the length of a text field in Dataverse. The error message was: “Sql error: Generic SQL error. CRM ErrorCode: -2147204784 […]]]></summary>
         <author>
             <name>Mehdi El Amri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improve Mobile Offline performance with Offline Table Column Selection]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/07/08/improve-mobile-offline-performance-with-offline-table-column-selection/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/07/08/improve-mobile-offline-performance-with-offline-table-column-selection/"/>
+        <updated>2024-07-08T23:07:52.000Z</updated>
+        <summary type="html"><![CDATA[Choosing columns for Dynamics 365 Field Service Mobile offline mode enhances Offline sync performance and user experience. 
+The post Improve Mobile Offline performance with Offline Table Column Selection appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Jonathan Baker and Tristan Dehove</name>
         </author>
     </entry>
     <entry>

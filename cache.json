@@ -10481,6 +10481,86 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/perform-age-calculation-using-formula-columns-in-dataverse-dynamics-365",
+          "author": "Nishant Rana",
+          "description": "Below we have created a new field of Data Type Formula and Formula Data Type as Whole Number Specify the following formula. RoundDown(DateDiff(birthdate, UTCNow(), TimeUnit.Days) / 365.25, 0) Below we […]",
+          "link": "https://365community.online/perform-age-calculation-using-formula-columns-in-dataverse-dynamics-365",
+          "publishedOn": "2024-07-10T18:32:00.000Z",
+          "wordCount": 3246,
+          "title": "Perform Age calculation using Formula Columns in Dataverse / Dynamics 365",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Perform-Age-calculation-using-Formula-Columns-in-Dataverse-Dynamics.jpeg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/create-your-first-custom-copilot-for-customer-service-hub-part-2-authentication",
+          "author": "Priyesh Wagh",
+          "description": "This is second part to the blog to create your first customer Copilot for Customer Service Hub. Continue Reading priyeshwagh777’s Article on their blog Create your first custom Copilot for […]",
+          "link": "https://365community.online/create-your-first-custom-copilot-for-customer-service-hub-part-2-authentication",
+          "publishedOn": "2024-07-10T12:46:12.000Z",
+          "wordCount": 3154,
+          "title": "Create your first custom Copilot for Customer Service Hub – Part 2 | Authentication",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1720623418_Create-your-first-custom-Copilot-for-Customer-Service-Hub-–.png?fit=1075%2C1199&ssl=1"
+        },
+        {
+          "id": "https://365community.online/improving-sales-efficiency-with-copilot-ai-summaries-for-dynamics-365-crm-records-preview",
+          "author": "Inogic",
+          "description": "In today’s fast-paced business environment, leveraging technology to streamline processes and enhance efficiency is crucial. One such tool revolutionizing how sales teams operate is the Co-Pilot feature in Dynamics 365 […]",
+          "link": "https://365community.online/improving-sales-efficiency-with-copilot-ai-summaries-for-dynamics-365-crm-records-preview",
+          "publishedOn": "2024-07-10T12:32:20.000Z",
+          "wordCount": 3489,
+          "title": "Improving Sales Efficiency with Copilot AI Summaries for Dynamics 365 CRM records (Preview)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Technical-blog-3.png?fit=1200%2C686&ssl=1"
+        },
+        {
+          "id": "https://365community.online/sc-100-topic-6-part-4-unveiling-secure-identities-youtube",
+          "author": "shabaz darr",
+          "description": "Learn how to design a solution to manage secrets, keys, certificates, and secure identities in SC 100 Topic 6 Part 4. Watch now for expert tips and insights! Episode breakdown: […]",
+          "link": "https://365community.online/sc-100-topic-6-part-4-unveiling-secure-identities-youtube",
+          "publishedOn": "2024-07-10T11:30:08.000Z",
+          "wordCount": 3168,
+          "title": "SC 100 Topic 6 Part 4: Unveiling Secure Identities – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1720627768_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-use-a-recurring-integration-endpoint-to-import-data",
+          "author": "Nathan Clouse",
+          "description": "How to use a recurring Integration Endpoint to Import Data 07/10/24 Integration How to use a recurring Integration Endpoint for importing data Recurring Integration Endpoints for Finance and Operations are  […]",
+          "link": "https://365community.online/how-to-use-a-recurring-integration-endpoint-to-import-data",
+          "publishedOn": "2024-07-10T10:36:30.000Z",
+          "wordCount": 3210,
+          "title": "How to use a recurring Integration Endpoint to Import Data",
+          "imageUrl": "https://365community.online/wp-content/uploads/2024/07/How-To-Use-A-Recurring-Integration-Endpoint.png"
+        },
+        {
+          "id": "https://365community.online/how-to-use-a-recurring-integration-endpoint",
+          "author": "Nathan Clouse",
+          "description": "How To Use A Recurring Integration Endpoint 07/10/24 Integration How to use a recurring Integration Endpoint for importing data Recurring Integration Endpoints for Finance and Operations are  an interesting option […]",
+          "link": "https://365community.online/how-to-use-a-recurring-integration-endpoint",
+          "publishedOn": "2024-07-10T10:36:30.000Z",
+          "wordCount": 3197,
+          "title": "How To Use A Recurring Integration Endpoint",
+          "imageUrl": "https://365community.online/wp-content/uploads/2024/07/How-To-Use-A-Recurring-Integration-Endpoint.png"
+        },
+        {
+          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-financial-how-do-i-stop-people-posting-to-a-closed-fiscal-year",
+          "author": "Ian Grieve",
+          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Financial), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]",
+          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-financial-how-do-i-stop-people-posting-to-a-closed-fiscal-year",
+          "publishedOn": "2024-07-10T10:00:25.000Z",
+          "wordCount": 3262,
+          "title": "In Microsoft Dynamics 365 Business Central (Financial), how do I… Stop People Posting to a Closed Fiscal Year",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/prevent-prompt-injections-in-your-azure-openai-and-copilots-implementations",
+          "author": "Stefano Demiliani",
+          "description": "If any of you have ever developed Windows or Web applications connected to a SQL database in C# or other similar languages, you will surely have heard of sql injection. […]",
+          "link": "https://365community.online/prevent-prompt-injections-in-your-azure-openai-and-copilots-implementations",
+          "publishedOn": "2024-07-10T09:39:55.000Z",
+          "wordCount": 3229,
+          "title": "Prevent prompt injections in your Azure OpenAI and Copilots implementations.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Prevent-prompt-injections-in-your-Azure-OpenAI-and-Copilots-implementations.png?fit=1200%2C837&ssl=1"
+        },
+        {
           "id": "https://365community.online/power-pages-devtools-extension",
           "author": "Nick Doelman",
           "description": "Microsoft Power Pages allows you to build powerful web applications using a variety of components, tools and development languages. However, building websites using server-side markup languages like Liquid sometimes can […]",
@@ -25360,6 +25440,16 @@
       "siteUrl": "https://www.atomicax.com/frontpage",
       "articles": [
         {
+          "id": "1709 at https://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "How to use a recurring Integration Endpoint to Import Data\n\n\n\n\n\n\n07/10/24\n\n\n\n\n\n\n\n\n\n\n\n\n    \nIntegration      \n\nHow to use a recurring Integration Endpoint for importing data\n\nRecurring Integration Endpoints for Finance and Operations are  an interesting option for integrations. From the Microsoft docs, it looks like it's meant for an input/output scenario where we have an inbound message and expect to have an outbound message. That's not specifically the case. We can unlock nearly all of the DMF through a recurring integration endpoint. The only real difference between a recurring integration endpoint and any of the other APIs for DMF is recurring integrations go to a staging area first then get processed by a batch job rather than the request be processed immediately. If creating a record …",
+          "link": "https://www.atomicax.com/blog-entry/how-use-recurring-integration-endpoint-import-data",
+          "publishedOn": "2024-07-10T10:36:30.000Z",
+          "wordCount": 2748,
+          "title": "How to use a recurring Integration Endpoint to Import Data",
+          "imageUrl": null
+        },
+        {
           "id": "1696 at https://www.atomicax.com",
           "author": "Nathan Clouse",
           "description": "Submitted by Nathan Clouse on 07/07/24.\n\n\nLast modified: \n\n07/07/24\n\n\n\n\n\n\n\n\n\n\n\n\n      \nTags: \nperformance      \n\nDatabase Inserts - Primary Table Comparison between dev box and Sandbox Environment\nIn a previous article, I wrote about the fastest ways to insert data but only looked at it from a development VM ( In Azure ) perspective. I thought it would be worthwhile to review this from a Microsoft-hosted Sandbox environment as well a (new) PPAC-hosted Unified Development Environment, or UDE, which used to be known as a UNO environment - Unified Operations. In the charts below, The \"DEV' label is a standard Dev VM deployed in Azure with the defaults taken from LCS ( most importantly just 3 disks ). The \"TST\" label is for a standard Microsoft hosted Sandbox as a UAT environment available as …",
@@ -25880,6 +25970,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/07/08/improve-mobile-offline-performance-with-offline-table-column-selection/",
+          "author": "Jonathan Baker and Tristan Dehove",
+          "description": "Choosing columns for Dynamics 365 Field Service Mobile offline mode enhances Offline sync performance and user experience. \nThe post Improve Mobile Offline performance with Offline Table Column Selection appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/07/08/improve-mobile-offline-performance-with-offline-table-column-selection/",
+          "publishedOn": "2024-07-08T23:07:52.000Z",
+          "wordCount": 2968,
+          "title": "Improve Mobile Offline performance with Offline Table Column Selection",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2022/05/resized-CLO22_Warehouse_001.jpg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/07/02/omni-channel-real-time-personalization-with-dynamics-365-customer-insights-and-optimizely/",
           "author": "Deepak Palled and Ayushman Jain",
