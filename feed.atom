@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-07-13T00:44:04.652Z</updated>
+    <updated>2024-07-14T00:48:45.609Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Schedule generator with R]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=9972</id>
+        <link href="https://tomaztsql.wordpress.com/2024/07/13/schedule-generator-with-r/"/>
+        <updated>2024-07-13T12:01:05.000Z</updated>
+        <summary type="html"><![CDATA[This sample R code is an implementation one of possible solutions for generating timetable schedule. The proposed solution is based on methods of evolutionary computing, and it uses (1+1) evolutionary strategy and simulated hardening. The success of solution is estimated…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Holiday Flow Fun]]></title>
+        <id>http://dynamicsax-fico.com/?p=6437</id>
+        <link href="https://dynamicsax-fico.com/2024/07/13/holiday-flow-fun/"/>
+        <updated>2024-07-13T05:59:21.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Implement Periodic Data Export from D365FO to SFTP]]></title>
         <id>https://denistrunin.com/integration-outboundsftp/</id>

@@ -1308,6 +1308,16 @@
       "siteUrl": "https://tomaztsql.wordpress.com",
       "articles": [
         {
+          "id": "http://tomaztsql.wordpress.com/?p=9972",
+          "author": "tomaztsql",
+          "description": "This sample R code is an implementation one of possible solutions for generating timetable schedule. The proposed solution is based on methods of evolutionary computing, and it uses (1+1) evolutionary strategy and simulated hardening. The success of solution is estimated…\nRead more ›",
+          "link": "https://tomaztsql.wordpress.com/2024/07/13/schedule-generator-with-r/",
+          "publishedOn": "2024-07-13T12:01:05.000Z",
+          "wordCount": 4653,
+          "title": "Schedule generator with R",
+          "imageUrl": "https://tomaztsql.wordpress.com/wp-content/uploads/2024/07/image-1.png?w=334"
+        },
+        {
           "id": "http://tomaztsql.wordpress.com/?p=10010",
           "author": "tomaztsql",
           "description": "Let’s play with some dragons. Dragons from the Jurassic park or the board game dungeon and dragons. The algorithm is a fractal curve of Hausdorff dimension 2. One starts with one segment. In each iteration the number of segments is…\nRead more ›",
@@ -23753,6 +23763,16 @@
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
+        {
+          "id": "http://dynamicsax-fico.com/?p=6437",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2024/07/13/holiday-flow-fun/",
+          "publishedOn": "2024-07-13T05:59:21.000Z",
+          "wordCount": 3391,
+          "title": "Holiday Flow Fun",
+          "imageUrl": "https://dynamicsax-fico.com/wp-content/uploads/2024/07/english.jpg"
+        },
         {
           "id": "http://dynamicsax-fico.com/?p=6303",
           "author": "Ludwig Reinhard",
