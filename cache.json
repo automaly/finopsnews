@@ -10711,6 +10711,16 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/http-trigger-azure-function-authorization-types-simplified-d365-demystified",
+          "author": "Priyesh Wagh",
+          "description": "Here’ how you can quickly understand what are the different Authorization Levels to be set while working with HTTP Azure Functions. Continue Reading priyeshwagh777’s Article on their blog HTTP Trigger […]",
+          "link": "https://365community.online/http-trigger-azure-function-authorization-types-simplified-d365-demystified",
+          "publishedOn": "2024-07-14T10:10:34.000Z",
+          "wordCount": 3142,
+          "title": "HTTP Trigger Azure Function Authorization Types simplified | D365 Demystified",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/HTTP-Trigger-Azure-Function-Authorization-Types-simplified-D365-Demystified.png?fit=1040%2C1020&ssl=1"
+        },
+        {
           "id": "https://365community.online/sending-a-journey-using-rss-feeds-topics-in-realtime-marketing",
           "author": "Megan V. Walker",
           "description": "Back at the start of 2022, when Realtime Journeys and Triggers were just getting started, I wrote a post all about D365 Real-time Marketing, RSS Feeds & Subscription Centres. It […]",

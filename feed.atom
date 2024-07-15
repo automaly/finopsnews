@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-07-14T00:48:45.609Z</updated>
+    <updated>2024-07-15T00:45:47.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HTTP Trigger Azure Function Authorization Types simplified | D365 Demystified]]></title>
+        <id>https://365community.online/http-trigger-azure-function-authorization-types-simplified-d365-demystified</id>
+        <link href="https://365community.online/http-trigger-azure-function-authorization-types-simplified-d365-demystified"/>
+        <updated>2024-07-14T10:10:34.000Z</updated>
+        <summary type="html"><![CDATA[Here’ how you can quickly understand what are the different Authorization Levels to be set while working with HTTP Azure Functions. Continue Reading priyeshwagh777’s Article on their blog HTTP Trigger […]]]></summary>
+        <author>
+            <name>Priyesh Wagh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Schedule generator with R]]></title>
         <id>http://tomaztsql.wordpress.com/?p=9972</id>
