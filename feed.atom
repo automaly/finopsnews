@@ -2,10 +2,222 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-07-15T00:45:47.763Z</updated>
+    <updated>2024-07-16T00:44:28.510Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Business Central vs. NAV (Navision): Understanding the Top Improvements in Microsoft’s Cloud ERP Evolution]]></title>
+        <id>https://erpsoftwareblog.com/?p=108509</id>
+        <link href="https://erpsoftwareblog.com/2024/07/business-central-vs-nav-navision-top-improvements/"/>
+        <updated>2024-07-15T17:48:29.000Z</updated>
+        <summary type="html"><![CDATA[Bigger house. Newer car. Better job. They’re called “upgrades” for a reason, and your Microsoft ERP is no exception. Staying updated with the latest business management software can make a […]
+The post Business Central vs. NAV (Navision): Understanding the Top Improvements in Microsoft’s Cloud ERP Evolution appeared first on ERP Software Blog.
+DYNAMICS 365 BUSINESS CENTRAL VS NAV: WHAT’S THE DIFFERENCE?
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+Which Dynamics 365 Business Central License should I purchase?]]></summary>
+        <author>
+            <name>NAVtoBC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tensoft: Customer Success Story with Microsoft Dynamics 365 Business Central]]></title>
+        <id>https://www.erpsoftwareblog.com/?p=75048</id>
+        <link href="https://erpsoftwareblog.com/2024/07/tensoft-customer-success-story-with-microsoft-dynamics-365-business-central/"/>
+        <updated>2024-07-15T15:45:11.000Z</updated>
+        <summary type="html"><![CDATA[Given the capabilities of Dynamics 365 Business Central, it will not surprise anyone to learn that Tensoft uses it internally to streamline financial processes and scale efficiently.   Recently, a […]
+The post Tensoft: Customer Success Story with Microsoft Dynamics 365 Business Central appeared first on ERP Software Blog.
+Recurring Journal Entries in Microsoft Dynamics 365 Business Central
+How to View All Table Data in Microsoft Dynamics 365 Business Central
+Why We Like Microsoft Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Tensoft Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Excel Layouts to Run Reports in Dynamics 365 Business Central]]></title>
+        <id>https://www.encorebusiness.com/?p=53511</id>
+        <link href="https://www.encorebusiness.com/blog/using-excel-layouts-to-run-reports-in-dynamics-365-business-central/"/>
+        <updated>2024-07-15T15:35:47.000Z</updated>
+        <summary type="html"><![CDATA[Using Excel Layouts to Run Reports in Dynamics 365 Business Central
+Excel Layouts in Dynamics 365 Business Central are a powerful tool for financial professionals, accounts payable (AP) and accounts receivable (AR) clerks, and anyone working with Business Central. These layouts allow users to extract data and customize reports directly in Excel. In this article, we’ll explore Excel Layouts use cases, their benefits and limitations, and...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Linsey Fell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migrating from a Legacy Server to Dynamics 365]]></title>
+        <id>https://erpsoftwareblog.com/?p=108379</id>
+        <link href="https://erpsoftwareblog.com/2024/07/migrating-from-a-legacy-server-to-dynamics-365/"/>
+        <updated>2024-07-15T15:00:28.000Z</updated>
+        <summary type="html"><![CDATA[Collins Equipment was facing a significant challenge with its aging server, which was approaching the end of its warranty period. The on-premises server, crucial for running their Microsoft Dynamics NAV […]
+The post Migrating from a Legacy Server to Dynamics 365 appeared first on ERP Software Blog.
+Strategic Mindset for a Successful ERP implementation
+Transition to Microsoft Dynamics 365 Business Central From Dynamics SL Allows Flooring Firm to Cover More Ground
+Microsoft Dynamics Business Central Manufacturer Smooths Out Rocky Processes]]></summary>
+        <author>
+            <name>Western Computer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI in Supply Chain Management: How Copilot Optimises Your Operations]]></title>
+        <id>https://erpsoftwareblog.com/?p=108505</id>
+        <link href="https://erpsoftwareblog.com/2024/07/ai-in-supply-chain-management-how-copilot-optimises-your-operations/"/>
+        <updated>2024-07-15T14:51:16.000Z</updated>
+        <summary type="html"><![CDATA[Remember the days when managing a supply chain felt like navigating a minefield? One wrong turn – a missed forecast, a delayed shipment, a disgruntled vendor – could trigger a […]
+The post AI in Supply Chain Management: How Copilot Optimises Your Operations appeared first on ERP Software Blog.
+Microsoft Dynamics 365 application modernization on Azure: Next-Gen Advancement to Level-Up Your Business
+Is It Time to Embrace Factory 4.0? Navigating the New Industrial Landscape
+Decoding Microsoft Dynamics 365 Copilot: Aligning ERP and CRM Together with Next-Generation AI]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Use Copilot with French Language]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-copilot-with-french-language</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-copilot-with-french-language"/>
+        <updated>2024-07-15T14:00:19.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MetaWMS Movement Worksheet: Streamlining Warehouse Operations]]></title>
+        <id>https://erpsoftwareblog.com/?p=108501</id>
+        <link href="https://erpsoftwareblog.com/2024/07/metawms-movement-worksheet-streamlining-warehouse-operations/"/>
+        <updated>2024-07-15T12:56:33.000Z</updated>
+        <summary type="html"><![CDATA[MetaWMS, a robust Warehouse Management System (WMS) integrated with Microsoft Dynamics 365 Business Central, offers many tools to optimize warehouse efficiency and accuracy. One such powerful feature is the Movement Worksheet. […]
+The post MetaWMS Movement Worksheet: Streamlining Warehouse Operations appeared first on ERP Software Blog.
+Boosting Warehouse Efficiency: Unveiling the Benefits of MetaWMS
+Unleash Peak Efficiency in Your Warehouse with MetaWMS for Business Central
+Streamline Your Warehouse with Efficient Cycle Counting in MetaWMS]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vicinity Software Helps Process Manufacturers Get the Most Out of Dynamics 365 BC]]></title>
+        <id>https://erpsoftwareblog.com/?p=108432</id>
+        <link href="https://erpsoftwareblog.com/2024/07/vicinity-software-helps-process-manufacturers-get-the-most-out-of-dynamics-365-bc/"/>
+        <updated>2024-07-15T12:51:09.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Dynamics 365 Business Central is a great ERP solution, but not for ALL types of manufacturers. There are significant differences between discrete, process, and batch manufacturing. Often, small batch […]
+The post Vicinity Software Helps Process Manufacturers Get the Most Out of Dynamics 365 BC appeared first on ERP Software Blog.
+Discrete vs. Process and Batch Manufacturing: What’s the Difference?
+How to Customize Dynamics 365 BC  for Formula Manufacturers with Vicinity Addons
+Dynamics 365 Business Central and Industry-Tailored Functionality]]></summary>
+        <author>
+            <name>Vicinity Software</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clean Code in X++ – Dynamics User Group India]]></title>
+        <id>http://fernitudela.dev/?p=1579</id>
+        <link href="https://fernitudela.dev/2024/07/15/clean-code-in-x-dynamics-user-group-india/"/>
+        <updated>2024-07-15T12:27:39.000Z</updated>
+        <summary type="html"><![CDATA[In this Episode for the Dynamics user group India, I am sharing invaluable insights and best practices on writing clean, efficient, and maintainable code in X++. This session is highly beneficial for all X++ developers and technical architects looking to enhance their coding skills and elevate their development practices. Thanks for watching!]]></summary>
+        <author>
+            <name>Fernando Tudela Desantes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visualizing Data Models with Copilot in an ERD View]]></title>
+        <id>https://365community.online/visualizing-data-models-with-copilot-in-an-erd-view</id>
+        <link href="https://365community.online/visualizing-data-models-with-copilot-in-an-erd-view"/>
+        <updated>2024-07-15T12:17:02.000Z</updated>
+        <summary type="html"><![CDATA[Exploring the capabilities of Copilot Studio within Microsoft Dynamics and Power Platform opens up new avenues for enhancing business application development. A critical aspect of this process involves constructing intricate […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auto Create and Draft Territories with Territory Management for efficient Field Services within Dynamics 365!]]></title>
+        <id>https://365community.online/auto-create-and-draft-territories-with-territory-management-for-efficient-field-services-within-dynamics-365</id>
+        <link href="https://365community.online/auto-create-and-draft-territories-with-territory-management-for-efficient-field-services-within-dynamics-365"/>
+        <updated>2024-07-15T11:42:31.000Z</updated>
+        <summary type="html"><![CDATA[Maplytics has been a constant manufacturer of unique features that innovate the way marketing and sales approach field sales and field service. Territory Management is a leading example in defining […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Dark Truth Behind Design Identity Governance – YouTube]]></title>
+        <id>https://365community.online/the-dark-truth-behind-design-identity-governance-youtube</id>
+        <link href="https://365community.online/the-dark-truth-behind-design-identity-governance-youtube"/>
+        <updated>2024-07-15T11:30:30.000Z</updated>
+        <summary type="html"><![CDATA[Discover the dark truth behind design identity governance in this eye-opening video. Learn about the SC-100 exam and designing a solution for secure identity governance solutions. Episode Breakdown – 00:00 […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Ways to Maximize Your Job Shop Efficiency with Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=108348</id>
+        <link href="https://erpsoftwareblog.com/2024/07/top-10-ways-to-maximize-your-job-shop-efficiency-with-business-central/"/>
+        <updated>2024-07-15T11:01:52.000Z</updated>
+        <summary type="html"><![CDATA[Discover how the Shop Floor Insight app can enhance manufacturing processes through Business Central integration by streamlining operations, simplifying payroll, and delivering real-time data for optimal decision-making, ensuring your business operates at peak efficiency and productivity.
+The post Top 10 Ways to Maximize Your Job Shop Efficiency with Business Central appeared first on ERP Software Blog.
+Warehouse Insight Now Available for Dynamics 365 Business Central
+How to Choose a Mobile Computer to use with Business Central
+Quote Generation with Product Configurator for Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Custom Connector For Power Automate & Power Apps]]></title>
+        <id>https://365community.online/create-a-custom-connector-for-power-automate-power-apps</id>
+        <link href="https://365community.online/create-a-custom-connector-for-power-automate-power-apps"/>
+        <updated>2024-07-15T10:52:54.000Z</updated>
+        <summary type="html"><![CDATA[This post will help you get around building your first Custom Connector in Power Platform and Power Apps! Continue Reading priyeshwagh777’s Article on their blog Create a Custom Connector For […]]]></summary>
+        <author>
+            <name>Priyesh Wagh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Create AI Flows in Power Automate]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-create-ai-flows-in-power-automate</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-create-ai-flows-in-power-automate"/>
+        <updated>2024-07-15T10:00:48.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central and Power Automate Connector: create, modify, delete triggers things to know.]]></title>
+        <id>https://365community.online/dynamics-365-business-central-and-power-automate-connector-create-modify-delete-triggers-things-to-know</id>
+        <link href="https://365community.online/dynamics-365-business-central-and-power-automate-connector-create-modify-delete-triggers-things-to-know"/>
+        <updated>2024-07-15T09:29:44.000Z</updated>
+        <summary type="html"><![CDATA[Power Automate (and as I always say in this case, Azure Logic Apps too) has a great connector for Dynamics 365 Business Central that permits you to interact with triggers […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copy Dataverse contact phone numbers across different environments based on Contact e-mail address using Power Automate]]></title>
+        <id>https://365community.online/copy-dataverse-contact-phone-numbers-across-different-environments-based-on-contact-e-mail-address-using-power-automate</id>
+        <link href="https://365community.online/copy-dataverse-contact-phone-numbers-across-different-environments-based-on-contact-e-mail-address-using-power-automate"/>
+        <updated>2024-07-15T08:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes we can easily use manually triggered Power Automate Flows as ‘mini-scripts’, to run actions in bulk, such as creating/modifying data.  I recently came across the need to sync a […]]]></summary>
+        <author>
+            <name>michelcarlo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the purpose of the workflow parameter ‘Require explicitly assigned users’?]]></title>
+        <id>https://dynamicspedia.com/?p=19047</id>
+        <link href="https://dynamicspedia.com/2024/07/what-is-the-purpose-of-the-workflow-parameter-require-explicitly-assigned-users/"/>
+        <updated>2024-07-15T07:08:28.000Z</updated>
+        <summary type="html"><![CDATA[Workflow and security do have strong relation in Microsoft Dynamics 365 Finance and Operations. A user not assigned to a workflow task can’t approve a workflow instance. Also, the user should have correct permissions from the security settings as I explained before in another blog. (Workflow security in Dynamics 365 Finance and Operations) In this […]
+The post What is the purpose of the workflow parameter ‘Require explicitly assigned users’? appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTTP Trigger Azure Function Authorization Types simplified | D365 Demystified]]></title>
         <id>https://365community.online/http-trigger-azure-function-authorization-types-simplified-d365-demystified</id>
@@ -25,6 +237,16 @@
 Read more ›]]></summary>
         <author>
             <name>tomaztsql</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dell Boomi Full Course | Part 7 – Process Call in Boomi | MindMajix – YouTube]]></title>
+        <id>https://365community.online/dell-boomi-full-course-part-7-process-call-in-boomi-mindmajix-youtube</id>
+        <link href="https://365community.online/dell-boomi-full-course-part-7-process-call-in-boomi-mindmajix-youtube"/>
+        <updated>2024-07-13T12:00:14.000Z</updated>
+        <summary type="html"><![CDATA[In this Dell Boomi full course for beginners you will learn all the concepts of Dell Boomi from scratch. In this particular Dell Boomi training video you will learn about […]]]></summary>
+        <author>
+            <name>Jaya Sri</name>
         </author>
     </entry>
     <entry>
@@ -1224,6 +1446,19 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 Microsoft Listens to Customers Requests and Extends Support for Dynamics GP V8. But Are You Running Out of Time?]]></summary>
         <author>
             <name>DAX Software Solutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happens to My Dynamics GP Add-On Solutions When I Move to Dynamics 365 Business Central?]]></title>
+        <id>https://www.encorebusiness.com/?p=47067</id>
+        <link href="https://www.encorebusiness.com/blog/gp-to-d365-bc-add-on/"/>
+        <updated>2024-07-03T15:58:50.000Z</updated>
+        <summary type="html"><![CDATA[What Happens to My Dynamics GP Add-On Solutions When I Move to Dynamics 365 Business Central?
+If you are a Dynamics GP user and you are considering moving to the cloud, you might be wondering what will happen to your add-on solutions and how they will work with Dynamics 365 Business Central. This blog will answer questions about Dynamics GP add-ons and the options available in Dynamics 365 Business Central, discuss...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Tracey Santos</name>
         </author>
     </entry>
     <entry>
