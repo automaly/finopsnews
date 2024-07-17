@@ -10801,6 +10801,106 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/dynamics-365-business-central-v25-whats-coming-for-developers",
+          "author": "Stefano Demiliani",
+          "description": "Microsoft has publicly announced today the plans for the 2024 Wave 2 release of their Dynamics 365 and Power Platform products. Lots of interesting features are coming also for Dynamics […]",
+          "link": "https://365community.online/dynamics-365-business-central-v25-whats-coming-for-developers",
+          "publishedOn": "2024-07-16T20:03:26.000Z",
+          "wordCount": 3219,
+          "title": "Dynamics 365 Business Central v25: what’s coming for developers.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Dynamics-365-Business-Central-v25-whats-coming-for-developers.jpg?fit=394%2C362&ssl=1"
+        },
+        {
+          "id": "https://365community.online/set-an-app-model-driven-or-canvas-app-as-a-startup-app-power-apps-mobile",
+          "author": "Nishant Rana",
+          "description": "Microsoft has introduced a new feature, through which we can now specify a particular app as a start-up app, that will open up when we launch the Power Apps mobile, […]",
+          "link": "https://365community.online/set-an-app-model-driven-or-canvas-app-as-a-startup-app-power-apps-mobile",
+          "publishedOn": "2024-07-16T18:35:00.000Z",
+          "wordCount": 3265,
+          "title": "Set an app (Model-driven or Canvas App) as a startup app – Power Apps Mobile",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Set-an-app-Model-driven-or-Canvas-App-as-a-startup.jpeg?fit=1200%2C799&ssl=1"
+        },
+        {
+          "id": "https://365community.online/comparing-security-between-d365fo-versions",
+          "author": "Alex Meyer",
+          "description": "With Microsoft on a true ‘one version’ solution for Dynamics 365, it can become extremely important to ensure change management practices are followed during updates. I have previously released a […]",
+          "link": "https://365community.online/comparing-security-between-d365fo-versions",
+          "publishedOn": "2024-07-16T16:44:39.000Z",
+          "wordCount": 3170,
+          "title": "Comparing Security Between D365FO Versions",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Comparing-Security-Between-D365FO-Versions.png?fit=222%2C447&ssl=1"
+        },
+        {
+          "id": "https://365community.online/release-wave-2-2024-customer-insights-data",
+          "author": "Malin Martnes",
+          "description": "Release wave 2 2024 is out, let’s take a look at the features that’ll come until March 2025 for Customer Insights – Data. PP is Public Preview and GA is […]",
+          "link": "https://365community.online/release-wave-2-2024-customer-insights-data",
+          "publishedOn": "2024-07-16T15:43:11.000Z",
+          "wordCount": 3222,
+          "title": "Release wave 2 2024 – Customer Insights – Data",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Release-wave-2-2024-–-Customer-Insights-–-Data.png?fit=780%2C440&ssl=1"
+        },
+        {
+          "id": "https://365community.online/release-wave-2-2024-customer-insights-journeys",
+          "author": "Malin Martnes",
+          "description": "It’s that time of the year again, release wave 2 2024 is out! There are several things that originally was in the wave 1 release, but been pushed to this […]",
+          "link": "https://365community.online/release-wave-2-2024-customer-insights-journeys",
+          "publishedOn": "2024-07-16T15:39:35.000Z",
+          "wordCount": 3226,
+          "title": "Release wave 2 2024 – Customer Insights – Journeys",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Release-wave-2-2024-–-Customer-Insights-–-Journeys.png?fit=780%2C435&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-generate-descriptions-for-cloud-flows-using-ai",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-generate-descriptions-for-cloud-flows-using-ai",
+          "publishedOn": "2024-07-16T14:00:42.000Z",
+          "wordCount": 3250,
+          "title": "New Functionality In Microsoft Power Automate 2024 Wave 1: Generate Descriptions for Cloud Flows using AI",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-recommendations-to-reassign-orphaned-cloud-flows",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-recommendations-to-reassign-orphaned-cloud-flows",
+          "publishedOn": "2024-07-16T10:00:10.000Z",
+          "wordCount": 3244,
+          "title": "New Functionality In Microsoft Power Automate 2024 Wave 1: Recommendations to Reassign Orphaned Cloud Flows",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/indulge-like-an-expert-with-maps-integrated-within-dynamics-365-using-knowyourmaplytics",
+          "author": "Inogic",
+          "description": "Microsoft Dynamics 365 is a powerful CRM platform that helps businesses manage customer interactions, sales pipelines, and marketing efforts. The most powerful tool when coupled with location intelligence can benefit […]",
+          "link": "https://365community.online/indulge-like-an-expert-with-maps-integrated-within-dynamics-365-using-knowyourmaplytics",
+          "publishedOn": "2024-07-16T07:03:44.000Z",
+          "wordCount": 3492,
+          "title": "Indulge like an Expert with Maps Integrated within Dynamics 365 using #KnowYourMaplytics",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Indulge-like-an-expert-with-maps-integrated-within-Dynamics-365.png?fit=1200%2C686&ssl=1"
+        },
+        {
+          "id": "https://365community.online/azure-arc-agent-troubleshooting-guide-youtube",
+          "author": "Sarah Lean ???????",
+          "description": "Azure Arc Agent Troubleshooting Guide This video explores how to troubleshoot issues with the Azure Arc agent. If you are looking for any of the commands I mention in the […]",
+          "link": "https://365community.online/azure-arc-agent-troubleshooting-guide-youtube",
+          "publishedOn": "2024-07-16T07:01:00.000Z",
+          "wordCount": 3274,
+          "title": "Azure Arc Agent Troubleshooting Guide – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1721125848_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/mobile-offline-profile-select-columns-to-be-downloaded-dynamics-365-model-driven-apps",
+          "author": "Nishant Rana",
+          "description": "With this new feature (preview) now we can specify the columns to be downloaded on mobile devices for offline use. Select edit for the Model-driven app. Select Settings and select […]",
+          "link": "https://365community.online/mobile-offline-profile-select-columns-to-be-downloaded-dynamics-365-model-driven-apps",
+          "publishedOn": "2024-07-16T00:00:00.000Z",
+          "wordCount": 3257,
+          "title": "Mobile Offline Profile – Select columns to be downloaded (Dynamics 365 / Model-driven apps)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Mobile-Offline-Profile-–-Select-columns-to-be-downloaded-Dynamics.jpeg?fit=867%2C583&ssl=1"
+        },
+        {
           "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-copilot-with-french-language",
           "author": "Ian Grieve",
           "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]",
@@ -24878,6 +24978,16 @@
       "siteUrl": "https://alexdmeyer.com/",
       "articles": [
         {
+          "id": "https://alexdmeyer.com/?p=3268",
+          "author": "Alex",
+          "description": "With Microsoft on a true ‘one version’ solution for Dynamics 365, it can become extremely important to ensure change management practices are followed during updates. I have previously released a tool that could potentially help with this process and I wanted to walk through how this can be done. Extract Configuration Settings Because of my […]\nThe post Comparing Security Between D365FO Versions appeared first on Alex Meyer.",
+          "link": "https://alexdmeyer.com/2024/07/16/comparing-security-between-d365fo-versions/",
+          "publishedOn": "2024-07-16T16:44:39.000Z",
+          "wordCount": 4178,
+          "title": "Comparing Security Between D365FO Versions",
+          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2024/07/1-1.png"
+        },
+        {
           "id": "https://alexdmeyer.com/?p=3254",
           "author": "Alex",
           "description": "We’ve had some great community contributions to get us to v1.6 of the D365FO Admin Utility! D365FO Admin Toolkit v1.6 D365O Admin Toolkit v1.6 Release D365FO Admin Toolkit GitHub Note: This release has been built against a 10.0.39 version of D365FO. Let’s look at the new features and functionality and bug fixes in this release! […]\nThe post New Release of D365FO Admin Toolkit v1.6 appeared first on Alex Meyer.",
@@ -25300,16 +25410,6 @@
           "wordCount": 3450,
           "title": "Updating MsDyn365FO model parameters from projects context menu in Visual Studio",
           "imageUrl": "https://msdyn365fo.files.wordpress.com/2022/07/updating-msdyn365fo-model-parameters-from-projects-context-menu-in-visual-studio.png"
-        },
-        {
-          "id": "http://msdyn365fo.wordpress.com/?p=550",
-          "author": "Paul Heisterkamp",
-          "description": "With the latest versions of Microsoft Dynamics 365 for Finance and Operations (10.0.27+) we got a new setup in Visual Studio to select specific packages, for which we want to load symbols for debugging. In previous versions we were only able to select between symbols from elements of the current project or all symbols. The … Continue reading Stabilize your MsDyn365FO debugging experience →",
-          "link": "https://msdyn365fo.wordpress.com/2022/07/18/stabilize-your-msdyn365fo-debugging-experience/",
-          "publishedOn": "2022-07-18T07:19:36.000Z",
-          "wordCount": 3399,
-          "title": "Stabilize your MsDyn365FO debugging experience",
-          "imageUrl": "https://msdyn365fo.files.wordpress.com/2022/07/stabilize-your-msdyn365fo-debugging-experience.png"
         }
       ]
     },
