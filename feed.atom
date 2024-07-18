@@ -2,10 +2,129 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-07-17T00:44:53.574Z</updated>
+    <updated>2024-07-18T00:43:25.508Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Superhero’s Guide To Inventory Management]]></title>
+        <id>https://erpsoftwareblog.com/?p=108581</id>
+        <link href="https://erpsoftwareblog.com/2024/07/inventory-management-with-solution-systems/"/>
+        <updated>2024-07-17T21:31:57.000Z</updated>
+        <summary type="html"><![CDATA[In the business world, effective inventory management is akin to a superhero's mastery over chaos. It ensures that the right products are always available, minimizes costs, and maximizes customer […]
+The post A Superhero’s Guide To Inventory Management appeared first on ERP Software Blog.
+How To Prepare Your Business and ERP for an Economic Slowdown
+The Top 12 Reasons Why Inventory Managers/Materials Managers Use Microsoft Dynamics GP as their ERP system of choice
+Historical Inventory Trial Balance - Obtain a TRUE Inventory Balance in Dynamics GP]]></summary>
+        <author>
+            <name>Michael Intravartolo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything You Need To Know About Microsoft's Farewell To Dynamics GP]]></title>
+        <id>https://erpsoftwareblog.com/?p=108033</id>
+        <link href="https://erpsoftwareblog.com/2024/07/everything-you-need-to-know-about-microsofts-farewell-to-dynamics-gp/"/>
+        <updated>2024-07-17T17:56:05.000Z</updated>
+        <summary type="html"><![CDATA[As an old friend of Dynamics GP, you’ve weathered countless financial cycles, navigated intricate accounting landscapes, and witnessed the evolution of business technology. As Microsoft prepares to bid farewell to […]
+The post Everything You Need To Know About Microsoft's Farewell To Dynamics GP appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+With Microsoft Dynamics GP, you really can have it all! Here's how...
+2, 4, 6, 8… What Does Dynamics GP Integrate?]]></summary>
+        <author>
+            <name>Express Info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 Digital Transformation and Dynamics 365 for Software Companies]]></title>
+        <id>https://erpsoftwareblog.com/?p=108562</id>
+        <link href="https://erpsoftwareblog.com/2024/07/2024-digital-transformation-and-dynamics-365-for-software-companies/"/>
+        <updated>2024-07-17T14:05:30.000Z</updated>
+        <summary type="html"><![CDATA[The year 2024 is expected to be a pivotal year for digital transformation, with software companies at the forefront of this movement. As technology continues to evolve rapidly, these companies […]
+The post 2024 Digital Transformation and Dynamics 365 for Software Companies appeared first on ERP Software Blog.
+Tech Insider Update Reviews Latest Enhancements to Microsoft Technology Stack
+Join Us At Dynamic Communities Summit - Booth 800
+The Basics of Globalization Studio in Microsoft Dynamics 365 Finance]]></summary>
+        <author>
+            <name>sa.global</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Use Process Mining Microsoft 365 Personal Recommendations]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-process-mining-microsoft-365-personal-recommendations</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-process-mining-microsoft-365-personal-recommendations"/>
+        <updated>2024-07-17T14:00:52.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MetaConstructX: Revolutionizing Construction with Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=108558</id>
+        <link href="https://erpsoftwareblog.com/2024/07/metaconstructx-revolutionizing-construction-with-business-central/"/>
+        <updated>2024-07-17T13:21:09.000Z</updated>
+        <summary type="html"><![CDATA[The construction industry is undergoing a digital transformation, driven by the need for increased efficiency, productivity, and data-driven decision-making. MetaConstructX, powered by MetaOption, is at the forefront of this revolution, offering […]
+The post MetaConstructX: Revolutionizing Construction with Business Central appeared first on ERP Software Blog.
+Revolutionize Your Construction Projects with MetaConstructX: Business Central
+Enhancing Construction Management with Dynamics 365 Business Central
+Transform Construction with MetaConstructX's Mobile Working Access Efficiency]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sage Intacct vs Dynamics 365 Business Central: Breaking Down the Differences]]></title>
+        <id>https://www.encorebusiness.com/?p=62979</id>
+        <link href="https://www.encorebusiness.com/blog/sage-intacct-vs-dynamics-365-business-central-breaking-down-the-differences/"/>
+        <updated>2024-07-17T11:13:23.000Z</updated>
+        <summary type="html"><![CDATA[Sage Intacct vs Dynamics 365 Business Central: Breaking Down the Differences
+We often talk with customers choosing between Sage Intacct and Microsoft Dynamics 365 Business Central. This comparison comes up especially often for companies on the older Sage 300 solution who are looking to move to a next-generation ERP in the cloud. Either Sage Intacct or Dynamics 365 Business Central may be the best choice for...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>The Encore Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Use Flows with Connections from Users in Copilot Studio]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-flows-with-connections-from-users-in-copilot-studio</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-flows-with-connections-from-users-in-copilot-studio"/>
+        <updated>2024-07-17T10:00:23.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OOB: Model-driven app within D365 HR.]]></title>
+        <id>https://365community.online/oob-model-driven-app-within-d365-hr</id>
+        <link href="https://365community.online/oob-model-driven-app-within-d365-hr"/>
+        <updated>2024-07-17T09:47:12.000Z</updated>
+        <summary type="html"><![CDATA[Release notes were shared a couple of days ago, and I'm beyond happy to share the following news with you: WE HAVE A RECRUITMENT PIECE BUILT IN POWER PLATFORM! Who […]]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Integrate Power Apps with Microsoft Planner using Microsoft Teams]]></title>
+        <id>https://365community.online/how-to-integrate-power-apps-with-microsoft-planner-using-microsoft-teams</id>
+        <link href="https://365community.online/how-to-integrate-power-apps-with-microsoft-planner-using-microsoft-teams"/>
+        <updated>2024-07-17T08:45:27.000Z</updated>
+        <summary type="html"><![CDATA[This blog will thoroughly explore the seamless integration of Power Apps with Microsoft Planner to effectively create and assign tasks to users within your organization using Microsoft Teams. The vast […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Model-driven Apps – openAlertDialog – Code Snippet]]></title>
+        <id>https://365community.online/model-driven-apps-openalertdialog-code-snippet</id>
+        <link href="https://365community.online/model-driven-apps-openalertdialog-code-snippet"/>
+        <updated>2024-07-17T00:31:48.000Z</updated>
+        <summary type="html"><![CDATA[We quite often use the alert to display a dialog, which contains a message and a button. In this article, will explain about the syntax and with an example. Syntax: […]]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dynamics 365 Business Central v25: what’s coming for developers.]]></title>
         <id>https://365community.online/dynamics-365-business-central-v25-whats-coming-for-developers</id>
@@ -48,6 +167,16 @@ The post Comparing Security Between D365FO Versions appeared first on Alex Meyer
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2024 Wave 2: Dynamics 365 Sales]]></title>
+        <id>https://365community.online/2024-wave-2-dynamics-365-sales</id>
+        <link href="https://365community.online/2024-wave-2-dynamics-365-sales"/>
+        <updated>2024-07-16T16:20:43.000Z</updated>
+        <summary type="html"><![CDATA[Well, folks, Microsoft is at it again! They’ve just dropped some serious coolness with the 2024 wave 2 release notes, hot off the press just 90 minutes ago! I’m stoked […]]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Release wave 2 2024 – Customer Insights – Data]]></title>
         <id>https://365community.online/release-wave-2-2024-customer-insights-data</id>
         <link href="https://365community.online/release-wave-2-2024-customer-insights-data"/>
@@ -68,6 +197,20 @@ The post Comparing Security Between D365FO Versions appeared first on Alex Meyer
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Maximizing Software ROI with the 5 Moments of Need Model]]></title>
+        <id>https://erpsoftwareblog.com/?p=108523</id>
+        <link href="https://erpsoftwareblog.com/2024/07/maximizing-software-roi-with-the-5-moments-of-need-model/"/>
+        <updated>2024-07-16T15:33:39.000Z</updated>
+        <summary type="html"><![CDATA[Success in modern business isn’t just about implementing the latest technology – it’s about ensuring that employees can effectively use that technology to drive business goals. The 5 Moments of […]
+The post Maximizing Software ROI with the 5 Moments of Need Model appeared first on ERP Software Blog.
+Best strategies, insights and techniques for a successful eCommerce implementation
+Hassle Free Upgrades with Dynamics GP Resellers!
+Are You Getting The Most From Your ERP Solution or Are You On Cruise Control?]]></summary>
+        <author>
+            <name>ClickLearn</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Generate Descriptions for Cloud Flows using AI]]></title>
         <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-generate-descriptions-for-cloud-flows-using-ai</id>
         <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-generate-descriptions-for-cloud-flows-using-ai"/>
@@ -75,6 +218,48 @@ The post Comparing Security Between D365FO Versions appeared first on Alex Meyer
         <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
         <author>
             <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot in Business Central: Revolutionize Your Business Operations]]></title>
+        <id>https://erpsoftwareblog.com/?p=108539</id>
+        <link href="https://erpsoftwareblog.com/2024/07/microsoft-copilot-in-business-central/"/>
+        <updated>2024-07-16T13:45:22.000Z</updated>
+        <summary type="html"><![CDATA[To maintain a competitive edge in the ever-changing corporate landscape, businesses use modern digital solutions. The inclusion of artificial intelligence (AI) into various business applications like enterprise resource planning (ERP) […]
+The post Microsoft Copilot in Business Central: Revolutionize Your Business Operations appeared first on ERP Software Blog.
+Copilot and Dynamics 365 ERP: A Match Made for Efficiency
+Benefits of Microsoft Sales Copilot AI for CRM | Techcronus
+Dynamics 365 Business Central and Industry-Tailored Functionality]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Tips For Success When Upgrading Your Commission Plan Software]]></title>
+        <id>https://erpsoftwareblog.com/?p=108244</id>
+        <link href="https://erpsoftwareblog.com/2024/07/6-tips-for-success-when-upgrading-your-commission-plan-software/"/>
+        <updated>2024-07-16T13:15:59.000Z</updated>
+        <summary type="html"><![CDATA[Discover How To Make Your Commission Plan Upgrade Easier and Faster Upgrading Commission Plan software isn’t difficult, but our process does differ slightly from what you may be used to. Whether you’re […]
+The post 6 Tips For Success When Upgrading Your Commission Plan Software appeared first on ERP Software Blog.
+Web Portals Interfaced to Microsoft Dynamics GP – Economical, Efficient and Effective
+Tips for Site and Bin Set Up for Dynamics GP
+Business Intelligence and ERP Software: Microsoft Dynamics NAV]]></summary>
+        <author>
+            <name>EthoTech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inventory Management with Dynamics ERP: Fulfill Customer Orders Effectively]]></title>
+        <id>https://erpsoftwareblog.com/?p=108531</id>
+        <link href="https://erpsoftwareblog.com/2024/07/inventory-management-with-dynamics-erp/"/>
+        <updated>2024-07-16T12:02:37.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics 365 for Inventory Management plays a pivotal role in optimizing warehouse processes. It handles item location management, bin placement, picking, packing, and more. The robust features provide real-time visibility […]
+The post Inventory Management with Dynamics ERP: Fulfill Customer Orders Effectively appeared first on ERP Software Blog.
+Understanding the Benefits of ERP for Manufacturing Industry
+Long Term Health Care Facility Moves Off Of Sage BusinessWorks and Implements Microsoft Dynamics™ GP
+Why a Business Ready Licensing and Enhancement Plan Could Benefit You]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
         </author>
     </entry>
     <entry>
