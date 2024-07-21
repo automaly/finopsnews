@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-07-20T00:43:27.455Z</updated>
+    <updated>2024-07-21T00:48:32.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Business Central App Upgrade: New Features in Quality Inspector v7.16]]></title>
+        <id>https://erpsoftwareblog.com/?p=108648</id>
+        <link href="https://erpsoftwareblog.com/2024/07/business-central-app-upgrade-new-features-in-quality-inspector-v7-16/"/>
+        <updated>2024-07-20T10:42:26.000Z</updated>
+        <summary type="html"><![CDATA[Business Central App Upgrade with Quality Inspector v7.16 enhances quality control and operational efficiency with new features.
+The post Business Central App Upgrade: New Features in Quality Inspector v7.16 appeared first on ERP Software Blog.
+Warehouse Insight Now Available for Dynamics 365 Business Central
+How to Choose a Mobile Computer to use with Business Central
+Quote Generation with Product Configurator for Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web resource method does not exist in Dynamics 365 CE]]></title>
+        <id>https://365community.online/web-resource-method-does-not-exist-in-dynamics-365-ce</id>
+        <link href="https://365community.online/web-resource-method-does-not-exist-in-dynamics-365-ce"/>
+        <updated>2024-07-20T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Got the below error while working on Onload of Account record JavaScript in Microsoft Dynamics 365 CE. Script Error One of the scripts for this record has caused an error. […]]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Non-profits Need a Modern ERP for Financial Success]]></title>
         <id>https://erpsoftwareblog.com/?p=108672</id>
@@ -87,6 +111,16 @@ Top 3 reasons WithoutWire™ (WoW) is Not Your Daddy’s Warehouse Management Sy
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What is an Exception Test in Selenium? Selenium Interview Question #shorts | MindMajix – YouTube]]></title>
+        <id>https://365community.online/what-is-an-exception-test-in-selenium-selenium-interview-question-shorts-mindmajix-youtube</id>
+        <link href="https://365community.online/what-is-an-exception-test-in-selenium-selenium-interview-question-shorts-mindmajix-youtube"/>
+        <updated>2024-07-19T12:00:37.000Z</updated>
+        <summary type="html"><![CDATA[In this video you will learn frequently asked Selenium interview question and answer that is what is an exception test in Selenium. For top 50 Selenium interview questions and answers […]]]></summary>
+        <author>
+            <name>Jaya Sri</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Business Central Transformation: Quality Control with Quality Inspector v7.16]]></title>
         <id>https://erpsoftwareblog.com/?p=108635</id>
         <link href="https://erpsoftwareblog.com/2024/07/business-central-transformation-quality-control-with-quality-inspector-v7-16/"/>
@@ -98,6 +132,16 @@ How to Choose a Mobile Computer to use with Business Central
 Quote Generation with Product Configurator for Business Central]]></summary>
         <author>
             <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Expert SC-100 Exam Design Solutions for SecOps – YouTube]]></title>
+        <id>https://365community.online/expert-sc-100-exam-design-solutions-for-secops-youtube</id>
+        <link href="https://365community.online/expert-sc-100-exam-design-solutions-for-secops-youtube"/>
+        <updated>2024-07-19T11:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Learn expert SC-100 exam design solutions for SecOps in this video. Get an introduction to SecOps and design hybrid SecOps capabilities with our helpful tips! Episode breakdown – 00:00 – […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
         </author>
     </entry>
     <entry>
@@ -131,6 +175,16 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>Justin Pethick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wave 2 2024 Customer Insights Journey Chat With Amey Holden – YouTube]]></title>
+        <id>https://365community.online/wave-2-2024-customer-insights-journey-chat-with-amey-holden-youtube</id>
+        <link href="https://365community.online/wave-2-2024-customer-insights-journey-chat-with-amey-holden-youtube"/>
+        <updated>2024-07-19T11:04:57.000Z</updated>
+        <summary type="html"><![CDATA[Wave 2 2024 Customer Insights Journey Chat With Amey Holden The release notes for Dynamics 365 Wave 2 2024 have been published. My good friend Amey Holden and I got […]]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
         </author>
     </entry>
     <entry>
@@ -556,6 +610,17 @@ The post Comparing Security Between D365FO Versions appeared first on Alex Meyer
         <summary type="html"><![CDATA[Well, folks, Microsoft is at it again! They’ve just dropped some serious coolness with the 2024 wave 2 release notes, hot off the press just 90 minutes ago! I’m stoked […]]]></summary>
         <author>
             <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 release wave 2 plans for Microsoft Dynamics 365 and Microsoft Power Platform now available]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/07/16/2024-release-wave-2-plans-for-microsoft-dynamics-365-and-microsoft-power-platform-now-available/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/07/16/2024-release-wave-2-plans-for-microsoft-dynamics-365-and-microsoft-power-platform-now-available/"/>
+        <updated>2024-07-16T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On July 16, 2024, we published the 2024 release wave 2 plans for Microsoft Dynamics 365 and Microsoft Power Platform.
+The post 2024 release wave 2 plans for Microsoft Dynamics 365 and Microsoft Power Platform now available  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Ryan Darby Martin</name>
         </author>
     </entry>
     <entry>
