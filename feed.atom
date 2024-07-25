@@ -2,10 +2,178 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-07-24T00:45:27.383Z</updated>
+    <updated>2024-07-25T00:44:36.210Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Extracting Subfolder Details from Parent Directory using logic apps]]></title>
+        <id>https://365community.online/extracting-subfolder-details-from-parent-directory-using-logic-apps</id>
+        <link href="https://365community.online/extracting-subfolder-details-from-parent-directory-using-logic-apps"/>
+        <updated>2024-07-24T19:46:58.000Z</updated>
+        <summary type="html"><![CDATA[I was working on a SharePoint integration that involved multiple subfolders within a parent folder. Files could be dropped into any of these subfolders, and the trigger needed to detect […]]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extracting Subfolder Details from Parent Directory using logic apps]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=3493</id>
+        <link href="https://anithasantosh.wordpress.com/2024/07/24/extracting-subfolder-details-from-parent-directory-using-logic-apps/"/>
+        <updated>2024-07-24T19:46:58.000Z</updated>
+        <summary type="html"><![CDATA[I was working on a SharePoint integration that involved multiple subfolders within a parent folder. Files could be dropped into any of these subfolders, and the trigger needed to detect the folder name to create a corresponding document in D365FO. … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ensuring Data Security and Compliance for Government Contractors with MetaPro]]></title>
+        <id>https://erpsoftwareblog.com/?p=108791</id>
+        <link href="https://erpsoftwareblog.com/2024/07/data-security-and-compliance-for-government-contractors/"/>
+        <updated>2024-07-24T19:02:09.000Z</updated>
+        <summary type="html"><![CDATA[Data security and compliance are paramount in the fast-paced world of government contracting. With sensitive information and stringent regulations at the forefront, government contractors need robust solutions to safeguard data […]
+The post Ensuring Data Security and Compliance for Government Contractors with MetaPro appeared first on ERP Software Blog.
+Top 3 benefits of digital transformation for the professional services
+4 Signs that your Government Contractor Business is Outgrowing QuickBooks
+Unlocking Success with MetaPro: Revolutionizing Professional Services]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pam's Pro Tips for Small and Large Teams Attending Community Summit to Maximize Impact]]></title>
+        <id>https://erpsoftwareblog.com/?p=108783</id>
+        <link href="https://erpsoftwareblog.com/2024/07/pams-pro-tips-for-small-and-large-teams-attending-community-summit-to-maximize-impact/"/>
+        <updated>2024-07-24T18:26:25.000Z</updated>
+        <summary type="html"><![CDATA[Last year, a company in the supply chain manufacturing industry brought four people to Community Summit.  This year, they are bringing twenty people to Community Summit October 13-17 in San […]
+The post Pam's Pro Tips for Small and Large Teams Attending Community Summit to Maximize Impact appeared first on ERP Software Blog.
+Get More in the Cloud with Dynamics 365 Business Central
+The Intelligent Edge and Dynamics GP.  Don't believe some of the tweets!
+Should You Attend AXUG or D365UG for Summit Phoenix?]]></summary>
+        <author>
+            <name>ERP Software Blog Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Pages Table Permissions: Configure permissions to see records from child Accounts]]></title>
+        <id>https://365community.online/power-pages-table-permissions-configure-permissions-to-see-records-from-child-accounts</id>
+        <link href="https://365community.online/power-pages-table-permissions-configure-permissions-to-see-records-from-child-accounts"/>
+        <updated>2024-07-24T17:25:37.000Z</updated>
+        <summary type="html"><![CDATA[Table permissions is a feature that allows you to control who can view, edit, or delete Dataverse records from a Power Pages site.  Power Pages allows to easily configure table […]]]></summary>
+        <author>
+            <name>michelcarlo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Create Custom Business Central Inventory Reports]]></title>
+        <id>https://erpsoftwareblog.com/?p=108624</id>
+        <link href="https://erpsoftwareblog.com/2024/07/how-to-create-custom-business-central-inventory-reports/"/>
+        <updated>2024-07-24T16:43:33.000Z</updated>
+        <summary type="html"><![CDATA[Effective inventory management forms the backbone of any organization, playing a pivotal role in its long-term growth, profitability, and operational efficiency. A robust system ensures precise control over goods and […]
+The post How To Create Custom Business Central Inventory Reports appeared first on ERP Software Blog.
+The Business Central Self-Service Reporting Benefit
+What is a Microsoft Cloud Services Provider and their Benefits?
+Upgrade your Business from QuickBooks to Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Cosmos Data Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Use New Excel Actions in Power Automate for Desktop]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-new-excel-actions-in-power-automate-for-desktop</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-new-excel-actions-in-power-automate-for-desktop"/>
+        <updated>2024-07-24T14:00:10.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics 365: A Comprehensive Solution for Wholesale Challenges]]></title>
+        <id>https://erpsoftwareblog.com/?p=108779</id>
+        <link href="https://erpsoftwareblog.com/2024/07/microsoft-dynamics-365-a-comprehensive-solution-for-wholesale-challenges/"/>
+        <updated>2024-07-24T13:10:23.000Z</updated>
+        <summary type="html"><![CDATA[The wholesale industry operates at a breakneck pace, demanding businesses to be agile, efficient, and customer-centric. To navigate the complexities of this dynamic landscape, wholesalers need a robust solution that […]
+The post Microsoft Dynamics 365: A Comprehensive Solution for Wholesale Challenges appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot: Revolutionizing the Retail Industry]]></title>
+        <id>https://erpsoftwareblog.com/?p=108777</id>
+        <link href="https://erpsoftwareblog.com/2024/07/microsoft-copilot-revolutionizing-the-retail-industry/"/>
+        <updated>2024-07-24T13:04:58.000Z</updated>
+        <summary type="html"><![CDATA[The retail industry is facing unprecedented challenges. From managing complex supply chains to delivering personalized customer experiences, the pressure is on for retailers to innovate or fall behind. Microsoft Copilot […]
+The post Microsoft Copilot: Revolutionizing the Retail Industry appeared first on ERP Software Blog.
+4 Reasons Why Restaurants Cook with Microsoft Dynamics GP
+Microsoft Dynamics GP Reduces ERP Costs For Popular Restaurant Chain And Food Manufacturer
+‘Tis The Season …For Physical Inventory Made Easier With Microsoft Dynamics GP]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics GP Security Roles and Ethotech Commission Plan: What You Need to Know]]></title>
+        <id>https://erpsoftwareblog.com/?p=108745</id>
+        <link href="https://erpsoftwareblog.com/2024/07/microsoft-dynamics-gp-security-roles-and-ethotech-commission-plan-what-you-need-to-know/"/>
+        <updated>2024-07-24T11:15:26.000Z</updated>
+        <summary type="html"><![CDATA[Everyone At Your Company Must Have Secured Access To Commission Plan. Here’s Why. For Commission Plan to function properly, everyone at your company must have a Commission Plan security role assigned through Microsoft Dynamics […]
+The post Microsoft Dynamics GP Security Roles and Ethotech Commission Plan: What You Need to Know appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>EthoTech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamline Multilingual Customer Support using Language Detection Prebuilt Model in Power Automate]]></title>
+        <id>https://365community.online/streamline-multilingual-customer-support-using-language-detection-prebuilt-model-in-power-automate</id>
+        <link href="https://365community.online/streamline-multilingual-customer-support-using-language-detection-prebuilt-model-in-power-automate"/>
+        <updated>2024-07-24T10:54:45.000Z</updated>
+        <summary type="html"><![CDATA[The language detection prebuilt model figures out the main language of a text document. It looks at the text and gives back the detected language and a confidence score from […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Barcode Scanning in Business Central: Enhancing Efficiency]]></title>
+        <id>https://erpsoftwareblog.com/?p=108677</id>
+        <link href="https://erpsoftwareblog.com/2024/07/barcode-scanning-in-business-central-enhancing-efficiency/"/>
+        <updated>2024-07-24T10:23:01.000Z</updated>
+        <summary type="html"><![CDATA[Barcode scanning with Insight Works apps enhances Business Central, boosting efficiency and accuracy in inventory and warehouse management.
+The post Barcode Scanning in Business Central: Enhancing Efficiency appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Use New Data Table Actions]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-new-data-table-actions</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-new-data-table-actions"/>
+        <updated>2024-07-24T10:00:37.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celebrity Encounters and Anchor Apps: A Hilarious Dive into Power Platform’s Enterprise Impact – YouTube]]></title>
+        <id>https://365community.online/celebrity-encounters-and-anchor-apps-a-hilarious-dive-into-power-platforms-enterprise-impact-youtube</id>
+        <link href="https://365community.online/celebrity-encounters-and-anchor-apps-a-hilarious-dive-into-power-platforms-enterprise-impact-youtube"/>
+        <updated>2024-07-23T18:29:28.000Z</updated>
+        <summary type="html"><![CDATA[Celebrity Encounters and Anchor Apps: A Hilarious Dive into Power Platform’s Enterprise Impact Send me a Text Message here (https://www.buzzsprout.com/twilio/text_messages/1796418/open_sms) Tune in to the latest Power Platform Show episode where […]]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Streamline Your Professional Services with MetaPro]]></title>
         <id>https://erpsoftwareblog.com/?p=108737</id>
