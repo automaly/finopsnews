@@ -1572,6 +1572,26 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=107531",
+          "author": "Fidesic AP",
+          "description": "Check out Ben Cole from ERP Connect Consulting and FIdesic's own Kevin Pritchard talk about AppSource best practices learned from Directions NA 2024 conference. You may be interested in... […]\nThe post Optimize AppSource listing for Microsoft ISVs appeared first on ERP Software Blog.\nThree ways food manufacturers can increase profits today\nLearn How To Save Time By Using The \"Cancel\" Option to Reverse A Posted Sales Invoice\nMicrosoft Dynamics ERP for Distribution/Manufacturing Industry",
+          "link": "https://erpsoftwareblog.com/2024/07/optimize-appsource-listing-for-microsoft-isvs/",
+          "publishedOn": "2024-07-25T18:17:27.000Z",
+          "wordCount": 3802,
+          "title": "Optimize AppSource listing for Microsoft ISVs",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Post-Directions-Webinar-optimize-appsource-microsoft.webp"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=108748",
+          "author": "Insight Works",
+          "description": "Code 39 barcodes simplify Dynamics 365 Business Central processes with Insight Works' Barcode Generator PowerTool app.\nThe post Elevating Business Central: Seamless Integration of Code 39 Barcodes appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2024/07/elevating-business-central-seamless-integration-of-code-39-barcodes/",
+          "publishedOn": "2024-07-25T10:38:26.000Z",
+          "wordCount": 7106,
+          "title": "Elevating Business Central: Seamless Integration of Code 39 Barcodes",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Barcode-Generator-PowerTool-250-2.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=108791",
           "author": "MetaOption LLC",
           "description": "Data security and compliance are paramount in the fast-paced world of government contracting. With sensitive information and stringent regulations at the forefront, government contractors need robust solutions to safeguard data […]\nThe post Ensuring Data Security and Compliance for Government Contractors with MetaPro appeared first on ERP Software Blog.\nTop 3 benefits of digital transformation for the professional services\n4 Signs that your Government Contractor Business is Outgrowing QuickBooks\nUnlocking Success with MetaPro: Revolutionizing Professional Services",
@@ -10514,6 +10534,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=50813",
+          "author": "Kailey Acuña",
+          "description": "Master Planning in Dynamics 365 Finance & Operations\nThe Master planning module in Dynamics 365 Finance & Operations includes so many options and data points that it can be overwhelming, even for experienced users. However, as a former demand planner, and now as a solution specialist for Finance & Operations, I have found that there are a smaller number of key features and...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/master-planning-in-dynamics-365-finance-and-operations/",
+          "publishedOn": "2024-07-25T15:16:04.000Z",
+          "wordCount": 2824,
+          "title": "Master Planning in Dynamics 365 Finance & Operations",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/10/D365FO-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=63209",
           "author": "Jess Mooney",
           "description": "HubSpot vs Dynamics 365 CRM Solutions\nChoosing the best CRM application for your business can be complicated for sales, marketing, and technology leaders. Dynamics 365 CRM and HubSpot both can automate core business processes and increase revenue. This article will help you determine whether HubSpot or Dynamics 365 CRM is a better fit for your business. Although there are some differences...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -11240,6 +11270,76 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/zero-to-hero-torne-se-um-citizen-developer-aula-14-youtube-2",
+          "author": "Victor Dantas",
+          "description": "Zero to Hero: Torne-se um Citizen Developer – Aula 14 source",
+          "link": "https://365community.online/zero-to-hero-torne-se-um-citizen-developer-aula-14-youtube-2",
+          "publishedOn": "2024-07-25T20:30:00.000Z",
+          "wordCount": 3099,
+          "title": "Zero to Hero: Torne-se um Citizen Developer – Aula 14 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1721949716_maxresdefault_live.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/logic-apps-standard-parameterization",
+          "author": "Anitha Santosh",
+          "description": "In Logic Apps Standard, parameters play a crucial role in creating dynamic, flexible, and reusable workflows. Parameters enable the reuse of workflows by allowing you to define values that can […]",
+          "link": "https://365community.online/logic-apps-standard-parameterization",
+          "publishedOn": "2024-07-25T17:11:17.000Z",
+          "wordCount": 3187,
+          "title": "Logic apps Standard – Parameterization",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Logic-apps-Standard-–-Parameterization.png?fit=529%2C310&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-scale-faster-with-power-automate-process-mining-thin-client-app",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-scale-faster-with-power-automate-process-mining-thin-client-app",
+          "publishedOn": "2024-07-25T14:00:41.000Z",
+          "wordCount": 3272,
+          "title": "New Functionality In Microsoft Power Automate 2024 Wave 1: Scale Faster with Power Automate Process Mining Thin Client App",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/power-pages-set-up-okta-as-an-identity-provider",
+          "author": "Nick Doelman",
+          "description": "If you have configured a Power Pages website, chances are that you will require external users to sign in to be able to access certain information. Things like their own […]",
+          "link": "https://365community.online/power-pages-set-up-okta-as-an-identity-provider",
+          "publishedOn": "2024-07-25T12:27:41.000Z",
+          "wordCount": 3205,
+          "title": "Power Pages: Set up OKTA as an identity provider",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Power-Pages-Set-up-OKTA-as-an-identity-provider.png?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-the-new-desktop-flow-running-timeout-property",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-the-new-desktop-flow-running-timeout-property",
+          "publishedOn": "2024-07-25T10:00:41.000Z",
+          "wordCount": 3265,
+          "title": "New Functionality In Microsoft Power Automate 2024 Wave 1: Use the New Desktop Flow Running Timeout Property",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/master-prompt-engineer-with-microsoft-designer",
+          "author": "Ana Inés Urrutia",
+          "description": "Prompt engineering is one of the must-have skills at this point, but let's start from scratch: what TF is prompt engineering? That is more or less the idea, however, it's […]",
+          "link": "https://365community.online/master-prompt-engineer-with-microsoft-designer",
+          "publishedOn": "2024-07-25T07:30:14.000Z",
+          "wordCount": 3180,
+          "title": "Master prompt engineer with Microsoft Designer",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Master-prompt-engineer-with-Microsoft-Designer.png?fit=1000%2C563&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-explore-and-test-dataverse-in-the-web-api-playground-preview",
+          "author": "Arun Potti",
+          "description": "The API Playground is a pre-authenticated software testing environment designed to enable creators to interact swiftly and efficiently with the Microsoft Dataverse Web API. This web application facilitates developers in […]",
+          "link": "https://365community.online/how-to-explore-and-test-dataverse-in-the-web-api-playground-preview",
+          "publishedOn": "2024-07-25T05:39:43.000Z",
+          "wordCount": 3225,
+          "title": "How to Explore and test Dataverse in the Web API playground (preview)?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/dataverse_1600x1600.png?fit=680%2C680&ssl=1"
+        },
         {
           "id": "https://365community.online/extracting-subfolder-details-from-parent-directory-using-logic-apps",
           "author": "Anitha Santosh",
@@ -26465,6 +26565,16 @@
       "feedUrl": "https://anithasantosh.wordpress.com/feed/",
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=3519",
+          "author": "AnithaEswaran",
+          "description": "In Logic Apps Standard, parameters play a crucial role in creating dynamic, flexible, and reusable workflows. Parameters enable the reuse of workflows by allowing you to define values that can be changed without modifying the workflow’s structure. By centralizing common … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2024/07/25/logic-apps-standard-parameterization/",
+          "publishedOn": "2024-07-25T17:11:17.000Z",
+          "wordCount": 3147,
+          "title": "Logic apps Standard – Parameterization",
+          "imageUrl": "https://anithasantosh.wordpress.com/wp-content/uploads/2024/07/image-15.png"
+        },
         {
           "id": "http://anithasantosh.wordpress.com/?p=3493",
           "author": "AnithaEswaran",
