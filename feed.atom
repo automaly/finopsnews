@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-07-27T00:44:09.728Z</updated>
+    <updated>2024-07-28T00:49:30.826Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CyberArk Full Course | Part 1: Privileged Access Management (PAM) | MindMajix – YouTube]]></title>
+        <id>https://365community.online/cyberark-full-course-part-1-privileged-access-management-pam-mindmajix-youtube</id>
+        <link href="https://365community.online/cyberark-full-course-part-1-privileged-access-management-pam-mindmajix-youtube"/>
+        <updated>2024-07-27T12:00:36.000Z</updated>
+        <summary type="html"><![CDATA[This CyberArk Full Course will help learners to implement advanced identity security and access management solutions. The CyberArk training will help you learn to design, build, deploy identity security practices, […]]]></summary>
+        <author>
+            <name>Jaya Sri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to create Azure DevOps pull requests using Power Automate]]></title>
+        <id>https://365community.online/how-to-create-azure-devops-pull-requests-using-power-automate</id>
+        <link href="https://365community.online/how-to-create-azure-devops-pull-requests-using-power-automate"/>
+        <updated>2024-07-27T09:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently I needed to automate the creation of Pull requests using Power Automate, but noted that there is no out-of-the-box action for that.   But as usual, I love to dig […]]]></summary>
+        <author>
+            <name>michelcarlo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure OpenAI: How Top Brands Are Leveraging Azure OpenAI to Revolutionize Their Operations]]></title>
+        <id>https://365community.online/azure-openai-how-top-brands-are-leveraging-azure-openai-to-revolutionize-their-operations</id>
+        <link href="https://365community.online/azure-openai-how-top-brands-are-leveraging-azure-openai-to-revolutionize-their-operations"/>
+        <updated>2024-07-27T06:12:45.000Z</updated>
+        <summary type="html"><![CDATA[Hey there! It’s been a while since we dove deep into the world of AI, specifically the buzz surrounding Azure OpenAI. With everyone talking about its potential to revolutionize industries, […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Selling Advanced Mobility Solutions]]></title>
         <id>https://erpsoftwareblog.com/?p=108877</id>
@@ -194,6 +224,16 @@ Warehouse Insight Now Available for Dynamics 365 Business Central]]></summary>
         <summary type="html"><![CDATA[There are many ways to keep on top of leads in Dynamics. Your choice of technique will depend on a few things Your team size – do you need a […]]]></summary>
         <author>
             <name>Pete Murray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unboxing my FTRSA Swag box – YouTube]]></title>
+        <id>https://365community.online/unboxing-my-ftrsa-swag-box-youtube</id>
+        <link href="https://365community.online/unboxing-my-ftrsa-swag-box-youtube"/>
+        <updated>2024-07-26T10:31:11.000Z</updated>
+        <summary type="html"><![CDATA[In this video I unbox the Fasttrack Recognised Solution Architect award box. I show people what other FTRSA’s get in the award box, sent by the wonderful people at Microsoft. […]]]></summary>
+        <author>
+            <name>Matt Collins</name>
         </author>
     </entry>
     <entry>
@@ -41690,16 +41730,6 @@ Observations: Dynamics 365 Finance & Operations product version 10.0.28 (10.0.12
         <summary type="html"><![CDATA[I recently found a new entry in the context menu of Microsoft Dynamics 365 for Finance and Operations projects which represents a shortcut for updating the model parameters for the model/package linked to the project. Before you had to navigate via Extensions > Dynamics 365 > Model Management > Update Model Parameters… to the list … Continue reading Updating MsDyn365FO model parameters from projects context menu in Visual Studio →]]></summary>
         <author>
             <name>Paul Heisterkamp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Programación de lotes basada en prioridades en Dynamics 365]]></title>
-        <id>http://rae.ariste.info/?p=6288</id>
-        <link href="https://ariste.info/2022/07/programacion-lote-basada-prioridades-dynamics/"/>
-        <updated>2022-07-29T05:41:22.000Z</updated>
-        <summary type="html"><![CDATA[Hemos visto muchas mejoras en el producto desde que fue lanzado como AX7, y algunos cambios de nombre también 😝 Y una de las áreas donde hemos visto más mejoras es el framework de trabajo por lotes. Y desde la última versión de Dynamics 365 Finance and Operations, la 10.0.28, tenemos una nueva característica que… Continue Reading Programación de lotes basada en prioridades en Dynamics 365]]></summary>
-        <author>
-            <name>Adrià Ariste Santacreu</name>
         </author>
     </entry>
 </feed>

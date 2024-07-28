@@ -11381,6 +11381,36 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/cyberark-full-course-part-1-privileged-access-management-pam-mindmajix-youtube",
+          "author": "Jaya Sri",
+          "description": "This CyberArk Full Course will help learners to implement advanced identity security and access management solutions. The CyberArk training will help you learn to design, build, deploy identity security practices, […]",
+          "link": "https://365community.online/cyberark-full-course-part-1-privileged-access-management-pam-mindmajix-youtube",
+          "publishedOn": "2024-07-27T12:00:36.000Z",
+          "wordCount": 3324,
+          "title": "CyberArk Full Course | Part 1: Privileged Access Management (PAM) | MindMajix – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1722104126_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-create-azure-devops-pull-requests-using-power-automate",
+          "author": "michelcarlo",
+          "description": "Recently I needed to automate the creation of Pull requests using Power Automate, but noted that there is no out-of-the-box action for that.   But as usual, I love to dig […]",
+          "link": "https://365community.online/how-to-create-azure-devops-pull-requests-using-power-automate",
+          "publishedOn": "2024-07-27T09:52:00.000Z",
+          "wordCount": 3325,
+          "title": "How to create Azure DevOps pull requests using Power Automate",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/pullcover.png?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/azure-openai-how-top-brands-are-leveraging-azure-openai-to-revolutionize-their-operations",
+          "author": "Inogic",
+          "description": "Hey there! It’s been a while since we dove deep into the world of AI, specifically the buzz surrounding Azure OpenAI. With everyone talking about its potential to revolutionize industries, […]",
+          "link": "https://365community.online/azure-openai-how-top-brands-are-leveraging-azure-openai-to-revolutionize-their-operations",
+          "publishedOn": "2024-07-27T06:12:45.000Z",
+          "wordCount": 3482,
+          "title": "Azure OpenAI: How Top Brands Are Leveraging Azure OpenAI to Revolutionize Their Operations",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Azure-OpenAI-1.png?fit=1200%2C686&ssl=1"
+        },
+        {
           "id": "https://365community.online/d365-will-10-0-41-be-the-release-where-copilot-shows-it-value",
           "author": "Kurt Hatlevik",
           "description": "For quite some time we have heard that AI and Copilot will revolutionize everything.  But I still feel I work in the same way as I have always done.  There […]",
@@ -11419,6 +11449,16 @@
           "wordCount": 3198,
           "title": "How To Use Reminders to Stop Losing Leads in Dynamics",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/How-To-Use-Reminders-to-Stop-Losing-Leads-in-Dynamics.png?fit=697%2C334&ssl=1"
+        },
+        {
+          "id": "https://365community.online/unboxing-my-ftrsa-swag-box-youtube",
+          "author": "Matt Collins",
+          "description": "In this video I unbox the Fasttrack Recognised Solution Architect award box. I show people what other FTRSA’s get in the award box, sent by the wonderful people at Microsoft. […]",
+          "link": "https://365community.online/unboxing-my-ftrsa-swag-box-youtube",
+          "publishedOn": "2024-07-26T10:31:11.000Z",
+          "wordCount": 3098,
+          "title": "Unboxing my FTRSA Swag box – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1722077417_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         },
         {
           "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-manage-subscription-billing-and-revenue-and-expense-recognition",
@@ -26737,16 +26777,6 @@
           "wordCount": 4633,
           "title": "API Management: arquitectura de integración",
           "imageUrl": "https://static.ariste.info/wp-content/uploads/2022/09/APIMArch-1024x1024.png"
-        },
-        {
-          "id": "http://rae.ariste.info/?p=6288",
-          "author": "Adrià Ariste Santacreu",
-          "description": "Hemos visto muchas mejoras en el producto desde que fue lanzado como AX7, y algunos cambios de nombre también 😝 Y una de las áreas donde hemos visto más mejoras es el framework de trabajo por lotes. Y desde la última versión de Dynamics 365 Finance and Operations, la 10.0.28, tenemos una nueva característica que… Continue Reading Programación de lotes basada en prioridades en Dynamics 365",
-          "link": "https://ariste.info/2022/07/programacion-lote-basada-prioridades-dynamics/",
-          "publishedOn": "2022-07-29T05:41:22.000Z",
-          "wordCount": 3409,
-          "title": "Programación de lotes basada en prioridades en Dynamics 365",
-          "imageUrl": "https://static.ariste.info/wp-content/uploads/2022/07/IMG-2391-1024x1024.png"
         }
       ]
     },
