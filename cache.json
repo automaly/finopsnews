@@ -25264,6 +25264,21 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=6309",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2024/07/28/microsoft-bizapps-deutschland-podcast-34/",
+          "publishedOn": "2024-07-28T04:58:48.000Z",
+          "wordCount": 3393,
+          "title": "Microsoft BizApps Deutschland Podcast #34",
+          "enclosure": {
+            "url": "https://dynamicsax-fico.com/wp-content/uploads/2024/06/2024-05-07_markusgrubwinklerhaas_v2.mp3",
+            "length": "31237296",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://dynamicsax-fico.com/wp-content/uploads/2024/06/socialmedia1.png"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=6261",
           "author": "Ludwig Reinhard",
           "description": "Visit the post for more.",
@@ -31651,6 +31666,16 @@
       "feedUrl": "https://erconsult.eu/feed/",
       "siteUrl": "https://erconsult.eu/",
       "articles": [
+        {
+          "id": "https://erconsult.eu/?p=8369",
+          "author": "Eugen Glasow",
+          "description": "The Production control module in Dynamics 365 for Supply Chain Management (SCM) features an automatic BOM reservation that can unintentionally deplete stock, hindering urgent orders. Manual cancellation is labor-intensive, requiring line-by-line action.\nTo streamline this, a runnable class for mass de-reservation is provided. This solution, executable via a menu item or browser command, allows users to specify criteria such as order type and warehouse. Setting the 'Cancel reservation' parameter to Yes enables efficient cancellation with system-generated success messages. The X++ source code for this tool, named InventDeReserve, is available.\nThe post D365 Mass de-reservation utility appeared first on ER-Consult.",
+          "link": "https://erconsult.eu/blog/d365-mass-de-reservation-utility/",
+          "publishedOn": "2024-07-28T14:25:38.000Z",
+          "wordCount": 2119,
+          "title": "D365 Mass de-reservation utility",
+          "imageUrl": "https://erconsult.eu/wp-content/uploads/2024/07/ERP_small-1-1024x1024.jpg"
+        },
         {
           "id": "https://erconsult.eu/?p=8259",
           "author": "Eugen Glasow",

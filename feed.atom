@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-07-28T00:49:30.826Z</updated>
+    <updated>2024-07-29T00:46:22.066Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[D365 Mass de-reservation utility]]></title>
+        <id>https://erconsult.eu/?p=8369</id>
+        <link href="https://erconsult.eu/blog/d365-mass-de-reservation-utility/"/>
+        <updated>2024-07-28T14:25:38.000Z</updated>
+        <summary type="html"><![CDATA[The Production control module in Dynamics 365 for Supply Chain Management (SCM) features an automatic BOM reservation that can unintentionally deplete stock, hindering urgent orders. Manual cancellation is labor-intensive, requiring line-by-line action.
+To streamline this, a runnable class for mass de-reservation is provided. This solution, executable via a menu item or browser command, allows users to specify criteria such as order type and warehouse. Setting the 'Cancel reservation' parameter to Yes enables efficient cancellation with system-generated success messages. The X++ source code for this tool, named InventDeReserve, is available.
+The post D365 Mass de-reservation utility appeared first on ER-Consult.]]></summary>
+        <author>
+            <name>Eugen Glasow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #34]]></title>
+        <id>http://dynamicsax-fico.com/?p=6309</id>
+        <link href="https://dynamicsax-fico.com/2024/07/28/microsoft-bizapps-deutschland-podcast-34/"/>
+        <updated>2024-07-28T04:58:48.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CyberArk Full Course | Part 1: Privileged Access Management (PAM) | MindMajix – YouTube]]></title>
         <id>https://365community.online/cyberark-full-course-part-1-privileged-access-management-pam-mindmajix-youtube</id>
