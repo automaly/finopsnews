@@ -1572,6 +1572,56 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=117117",
+          "author": "Calsoft Systems",
+          "description": "Accurately predicting future financial outcomes is paramount for businesses striving to maintain a competitive edge. However, numerous hurdles such as market instability, data accuracy issues, and operational complexities often hinder […]\nThe post Mastering Financial Forecasting by Leveraging ERP Accounting Solutions appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nBusiness Intelligence – What Is Going On Out there?\nSRS: Not Just Another Acronym - One of Microsoft's Best Applications",
+          "link": "https://erpsoftwareblog.com/2024/07/mastering-financial-forecasting-by-leveraging-erp-accounting-solutions/",
+          "publishedOn": "2024-07-30T00:40:04.000Z",
+          "wordCount": 4446,
+          "title": "Mastering Financial Forecasting by Leveraging ERP Accounting Solutions",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=117095",
+          "author": "Insight Works",
+          "description": "Business Central data transfer efficiently and accurately with the Import Export PowerTool app from Insight Works.\nThe post Business Central Data Transfer: 10 Tips appeared first on ERP Software Blog.\nBest strategies, insights and techniques for a successful eCommerce implementation\nWarehouse Insight Now Available for Dynamics 365 Business Central\nHow to Choose a Mobile Computer to use with Business Central",
+          "link": "https://erpsoftwareblog.com/2024/07/business-central-data-transfer-10-tips/",
+          "publishedOn": "2024-07-29T21:15:31.000Z",
+          "wordCount": 4439,
+          "title": "Business Central Data Transfer: 10 Tips",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Import-Export-PowerTool-350.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=117092",
+          "author": "MetaOption LLC",
+          "description": "Time is a valuable currency, and accuracy is a much-needed gem in the gigantic wheel of the shipping and logistics industry. Managers are always on the lookout for strategies that […]\nThe post Streamlined ASN Label Printing with MetaShip for Business Central appeared first on ERP Software Blog.\nBoost your Operations with Effortless Packing and Shipping: MetaShip\nWhat is Cloud ERP and What are the Benefits?\nTop 5 ways Microsoft Dynamics 365 Business Central helps Manufacturers",
+          "link": "https://erpsoftwareblog.com/2024/07/streamlined-asn-label-printing-with-metaship-for-business-central/",
+          "publishedOn": "2024-07-29T15:32:02.000Z",
+          "wordCount": 4477,
+          "title": "Streamlined ASN Label Printing with MetaShip for Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-2-53.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=117088",
+          "author": "DAX Software Solutions",
+          "description": "In the food and beverages industry, efficiency, compliance, and customer satisfaction are paramount. To keep up with these demands, many businesses are turning to advanced technology solutions. This blog will […]\nThe post Unlocking Success: Microsoft Dynamics 365 in the Food and Beverages Industry appeared first on ERP Software Blog.\nThe 5 Most Often Overlooked Costs of ERP\nERP Software Compliance for Regulatory Standards such as SOX, FDA, and ISO using Microsoft Dynamics NAV\nReShoring Manufacturing in the U.S.A.",
+          "link": "https://erpsoftwareblog.com/2024/07/unlocking-success-microsoft-dynamics-365-in-the-food-and-beverages-industry/",
+          "publishedOn": "2024-07-29T14:52:22.000Z",
+          "wordCount": 5122,
+          "title": "Unlocking Success: Microsoft Dynamics 365 in the Food and Beverages Industry",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=117083",
+          "author": "SmartBOL",
+          "description": "https://www.summitna.com/dynamics-d365-user-training-at-community-summit-north-america/ Who attends: Accounting & Finance Professionals People working in the Dynamics ERP systems everyday to run accounting for the business Operations & LOB Management Those using Dynamics to execute, […]\nThe post See SmartBOL at the Community Summit October 13-17 San Antonio appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2024/07/see-smartbol-at-the-community-summit-october-13-17-san-antonio/",
+          "publishedOn": "2024-07-29T11:29:47.000Z",
+          "wordCount": 3712,
+          "title": "See SmartBOL at the Community Summit October 13-17 San Antonio",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=108877",
           "author": "PartnerTalks",
           "description": "With around 80% of the global labour force working away from a desk, the market for advanced mobility solutions is massive. However, each one of those deskless workers has different […]\nThe post Selling Advanced Mobility Solutions appeared first on ERP Software Blog.\nShould ERP Software Buyers Have Their Heads in the Clouds?\nValor Brands Puts its Trust in OmniVue’s Hosted Microsoft Dynamics Solution\nWhat does Software Plus Services really mean?",
@@ -11380,6 +11430,86 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/calling-sharepoint-online-api-using-azure-ad-app-only-permissions-using-certificate-auth",
+          "author": "Nishant Rana",
+          "description": "Below are the steps we need to follow to call SharePoint Online API through a Console App (C#). The first step is to register an Azure AD app. Provide appropriate […]",
+          "link": "https://365community.online/calling-sharepoint-online-api-using-azure-ad-app-only-permissions-using-certificate-auth",
+          "publishedOn": "2024-07-29T20:30:00.000Z",
+          "wordCount": 3234,
+          "title": "Calling SharePoint Online API using Azure AD App-Only permissions using Certificate Auth",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Calling-SharePoint-Online-API-using-Azure-AD-App-Only-permissions-using.jpeg?fit=1200%2C799&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-simplify-collections-with-copilot-for-finance-and-business-central",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-simplify-collections-with-copilot-for-finance-and-business-central",
+          "publishedOn": "2024-07-29T14:00:06.000Z",
+          "wordCount": 3282,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Simplify collections with Copilot for Finance and Business Central",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-install-field-service-integration-with-business-central-from-appsource",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-install-field-service-integration-with-business-central-from-appsource",
+          "publishedOn": "2024-07-29T10:00:33.000Z",
+          "wordCount": 3279,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Install Field Service Integration with Business Central from AppSource",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/New-Functionality-In-Microsoft-Dynamics-365-Business-Central-2024-Wave.png?fit=466%2C440&ssl=1"
+        },
+        {
+          "id": "https://365community.online/welsh-azure-user-group-july-2024-meet-up",
+          "author": "John Lunn",
+          "description": "It was the day of our Welsh Azure User Group #WAUG July 2024 meet up and we had yet another two amazing speakers join us. We were joined by James […]",
+          "link": "https://365community.online/welsh-azure-user-group-july-2024-meet-up",
+          "publishedOn": "2024-07-29T08:05:32.000Z",
+          "wordCount": 3196,
+          "title": "Welsh Azure User Group July 2024 Meet Up!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Welsh-Azure-User-Group-July-2024-Meet-Up.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/welsh-azure-user-group-july-2024-event-youtube",
+          "author": "John Lunn",
+          "description": "Welsh Azure User Group – July 2024 Event It was the day of our Welsh Azure User Group #WAUG July 2024 meet up and we had yet another two amazing […]",
+          "link": "https://365community.online/welsh-azure-user-group-july-2024-event-youtube",
+          "publishedOn": "2024-07-29T07:58:32.000Z",
+          "wordCount": 3383,
+          "title": "Welsh Azure User Group  – July 2024 Event – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1722296983_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/dynamics-365-business-central-2024-wave-2-release-query-saveasjson-and-why-not-more",
+          "author": "Stefano Demiliani",
+          "description": "When talking about integrations with REST services or, more generally speaking, as a cross-platform data exchange protocol, working with JSON objects is a must. JSON is a is a lightweight […]",
+          "link": "https://365community.online/dynamics-365-business-central-2024-wave-2-release-query-saveasjson-and-why-not-more",
+          "publishedOn": "2024-07-29T06:25:56.000Z",
+          "wordCount": 3230,
+          "title": "Dynamics 365 Business Central 2024 Wave 2 release: Query.SaveAsJson… and why not more?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Dynamics-365-Business-Central-v25-whats-coming-for-developers.jpg?fit=394%2C362&ssl=1"
+        },
+        {
+          "id": "https://365community.online/power-pages-propilot-elevate-your-development-skills-with-github-copilot-youtube",
+          "author": "Victor Dantas",
+          "description": "In this lesson you learn how to leverage AI/Copilots when writing Power Pages code (Liquid, Javascrip, HTML and webapi). source",
+          "link": "https://365community.online/power-pages-propilot-elevate-your-development-skills-with-github-copilot-youtube",
+          "publishedOn": "2024-07-29T06:25:28.000Z",
+          "wordCount": 3118,
+          "title": "Power Pages ProPilot : Elevate Your Development Skills with GitHub Copilot – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1722239063_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-get-the-database-version-of-the-dataverse",
+          "author": "Arun Potti",
+          "description": "Sometimes we are required to know the Database version of the Dataverse environment to check for the features which are released or yet to be released. In this article, will […]",
+          "link": "https://365community.online/how-to-get-the-database-version-of-the-dataverse",
+          "publishedOn": "2024-07-29T03:45:14.000Z",
+          "wordCount": 3200,
+          "title": "How to get the Database Version of the Dataverse?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/dataverse_1600x1600.png?fit=680%2C680&ssl=1"
+        },
         {
           "id": "https://365community.online/cyberark-full-course-part-1-privileged-access-management-pam-mindmajix-youtube",
           "author": "Jaya Sri",
@@ -31903,6 +32033,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/new-analysis-engine-now-generally-available/",
+          "author": "Mansi Malik and McCall Saltzman",
+          "description": "We’re thrilled to announce that the New Analysis Engine is now generally available (GA)! If you are facing performance issues in loading or editing a canvas app, consider enabling the New Analysis Engine setting.\nThe post New Analysis Engine Now Generally Available!  appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/new-analysis-engine-now-generally-available/",
+          "publishedOn": "2024-07-25T13:00:00.000Z",
+          "wordCount": 2966,
+          "title": "New Analysis Engine Now Generally Available!",
+          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/07/comparison-speed-1.gif"
+        },
         {
           "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/build-intelligent-and-scalable-solutions-with-power-apps-and-microsoft-power-platform/",
           "author": "Clay Wesener and Marek Lutz",
