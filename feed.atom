@@ -2,10 +2,217 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-07-30T00:44:43.135Z</updated>
+    <updated>2024-07-31T00:37:23.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Avoiding the Top 10 Mistakes in Implementing Dynamics 365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=117157</id>
+        <link href="https://erpsoftwareblog.com/2024/07/avoiding-the-top-10-mistakes-in-implementing-dynamics-365-business-central/"/>
+        <updated>2024-07-30T21:57:47.000Z</updated>
+        <summary type="html"><![CDATA[Implementing Dynamics 365 Business Central can transform your business operations, but it requires careful planning and execution to avoid common pitfalls. Drawing insights from our experience at WebSan Solutions, let's […]
+The post Avoiding the Top 10 Mistakes in Implementing Dynamics 365 Business Central appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+To upgrade or not to upgrade: the case for moving from NAV to Dynamics 365 Business Central
+Microsoft Dynamics 365 Business Central ERP Implementation: Ask Yourself ‘Which Features Do I Really Need?’]]></summary>
+        <author>
+            <name>Andrew King, WebSan Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sample code to check if a Folder exists else create it (SharePoint Online / PnP Framework / C#)]]></title>
+        <id>https://365community.online/sample-code-to-check-if-a-folder-exists-else-create-it-sharepoint-online-pnp-framework-c</id>
+        <link href="https://365community.online/sample-code-to-check-if-a-folder-exists-else-create-it-sharepoint-online-pnp-framework-c"/>
+        <updated>2024-07-30T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Sharing the sample code that we can use for checking if a particular folder exists and if not then create it in SharePoint Online. It uses PnP Framework and Azure […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to 📧 Send D365 CE Emails Using Power Automate 🌟 – YouTube]]></title>
+        <id>https://365community.online/how-to-%f0%9f%93%a7-send-d365-ce-emails-using-power-automate-%f0%9f%8c%9f-youtube</id>
+        <link href="https://365community.online/how-to-%f0%9f%93%a7-send-d365-ce-emails-using-power-automate-%f0%9f%8c%9f-youtube"/>
+        <updated>2024-07-30T19:39:35.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we’ll guide you through the process of sending emails from Dynamics 365 Customer Engagement (D365 CE) using Power Automate. Learn how to set up flows that automate […]]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Driving Innovation with Business Central Extensions]]></title>
+        <id>https://erpsoftwareblog.com/?p=117137</id>
+        <link href="https://erpsoftwareblog.com/2024/07/driving-innovation-with-business-central-extensions/"/>
+        <updated>2024-07-30T19:08:04.000Z</updated>
+        <summary type="html"><![CDATA[Driving Innovation with Business Central Extensions involves leveraging additional functions and options to meet specific business needs. These extensions significantly enhance Business Central's capabilities by enabling businesses to compete with […]
+The post Driving Innovation with Business Central Extensions appeared first on ERP Software Blog.
+On-premise vs Cloud-based - 10 Considerations
+What Is Change Management and Why Is It Important for ERP Implementation? Part 1
+How to Email Invoices, Past Due Reminders, and Statements Automatically in Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to open custom page on command button click and pass parameters in the model-driven app – YouTube]]></title>
+        <id>https://365community.online/how-to-open-custom-page-on-command-button-click-and-pass-parameters-in-the-model-driven-app-youtube</id>
+        <link href="https://365community.online/how-to-open-custom-page-on-command-button-click-and-pass-parameters-in-the-model-driven-app-youtube"/>
+        <updated>2024-07-30T16:42:00.000Z</updated>
+        <summary type="html"><![CDATA[In this Dynamics 365 CRM tutorial, you’ll learn how to open a custom page from a command button click in a model-driven app and pass parameters seamlessly. This step-by-step guide […]]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Acumatica vs Dynamics 365 Business Central: Selecting the Right ERP for your Business]]></title>
+        <id>https://www.encorebusiness.com/?p=62821</id>
+        <link href="https://www.encorebusiness.com/blog/acumatica-vs-d365-business-central/"/>
+        <updated>2024-07-30T14:21:39.000Z</updated>
+        <summary type="html"><![CDATA[Acumatica vs Dynamics 365 Business Central: Selecting the Right ERP for your Business
+Acumatica and Microsoft Dynamics 365 Business Central are both leading ERP solutions offering similar features and functionality. However, there are subtle differences in subscription pricing and platform interoperability that may tilt the scale in favor of one over the other, depending on your specific business requirements. This article offers a comparison of the two products...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>The Encore Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Migrate Record Links and Notes with Cloud Migration Tooling]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-migrate-record-links-and-notes-with-cloud-migration-tooling</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-migrate-record-links-and-notes-with-cloud-migration-tooling"/>
+        <updated>2024-07-30T14:00:06.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot for Finance - Your New Accounting Guru]]></title>
+        <id>https://erpsoftwareblog.com/?p=117126</id>
+        <link href="https://erpsoftwareblog.com/2024/07/microsoft-copilot-for-finance-your-new-accounting-guru/"/>
+        <updated>2024-07-30T13:57:01.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever dreamt about having a finance coach who could anticipate your every need, help you dodge every curveball, and make sure that every single digit in your finance […]
+The post Microsoft Copilot for Finance - Your New Accounting Guru appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Boyer &amp;#38; Associates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10-Year Pledge for Dynamics GP Support]]></title>
+        <id>https://erpsoftwareblog.com/?p=117124</id>
+        <link href="https://erpsoftwareblog.com/2024/07/10-year-pledge-for-dynamics-gp-support/"/>
+        <updated>2024-07-30T13:53:17.000Z</updated>
+        <summary type="html"><![CDATA[GP Support North team are pleased to announce our 10-Year Pledge to continue to support Microsoft Dynamics GP clients for the next 10 years and beyond.
+The post 10-Year Pledge for Dynamics GP Support appeared first on ERP Software Blog.
+The Role Change Management Plays within Your Dynamics GP Project
+We love Dynamics GP - Stay on GP - Follow our new YouTube Channel
+Updated forecast for the Dynamics GP 18.6 (GP 2024) release from Microsoft]]></summary>
+        <author>
+            <name>GP Support North</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How One Company Future-Proofed Their Commission Processes]]></title>
+        <id>https://erpsoftwareblog.com/?p=108711</id>
+        <link href="https://erpsoftwareblog.com/2024/07/how-one-company-future-proofed-commission-processes/"/>
+        <updated>2024-07-30T13:50:14.000Z</updated>
+        <summary type="html"><![CDATA[Should Your Company Start Planning Ahead Too? In the world of commission management, there are common challenges and potential pitfalls businesses face. Companies often find themselves grappling with one (or […]
+The post How One Company Future-Proofed Their Commission Processes appeared first on ERP Software Blog.
+4 Reasons Why Dedicated Sales Compensation Software is Better Than Excel
+6 Tips For Success When Upgrading Your Commission Plan Software
+Microsoft Dynamics GP Security Roles and Ethotech Commission Plan: What You Need to Know]]></summary>
+        <author>
+            <name>EthoTech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 ERP Software for Construction: Revolutionizing the Construction Industry]]></title>
+        <id>https://erpsoftwareblog.com/?p=117121</id>
+        <link href="https://erpsoftwareblog.com/2024/07/erp-software-for-construction/"/>
+        <updated>2024-07-30T13:31:36.000Z</updated>
+        <summary type="html"><![CDATA[An ERP for construction is a specialized software solution designed specifically for the unique needs of construction companies. These special ERP systems serve as the central nervous system for managing […]
+The post Top 5 ERP Software for Construction: Revolutionizing the Construction Industry  appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+Integrated Shipping Solution for Microsoft Dynamics NAV
+Pacejet brings next-generation cloud shipping to Microsoft Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smartly plot records on a map using ‘By Territory’ and ‘By Template’ within Dynamics 365]]></title>
+        <id>https://365community.online/smartly-plot-records-on-a-map-using-by-territory-and-by-template-within-dynamics-365</id>
+        <link href="https://365community.online/smartly-plot-records-on-a-map-using-by-territory-and-by-template-within-dynamics-365"/>
+        <updated>2024-07-30T12:31:16.000Z</updated>
+        <summary type="html"><![CDATA[So far, we have seen how to plot records on the map using GPS Location of the user, using regions based of cities, postal codes, countries, etc., using Drawing tools […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Platform Admin Center Known Issues: Simplifying Support and Workarounds]]></title>
+        <id>https://365community.online/power-platform-admin-center-known-issues-simplifying-support-and-workarounds</id>
+        <link href="https://365community.online/power-platform-admin-center-known-issues-simplifying-support-and-workarounds"/>
+        <updated>2024-07-30T10:39:57.000Z</updated>
+        <summary type="html"><![CDATA[The transition from LCS to Power Platform admin center is steaming ahead, and I would like to put a spotlight into the “known issues” that is available in PPAC.  If […]]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Platform Admin Center Known Issues: Simplifying Support and Workarounds]]></title>
+        <id>http://kurthatlevik.com/?p=4602</id>
+        <link href="https://kurthatlevik.com/2024/07/30/power-platform-admin-center-known-issues-simplifying-support-and-workarounds/"/>
+        <updated>2024-07-30T10:39:57.000Z</updated>
+        <summary type="html"><![CDATA[The transition from LCS to Power Platform admin center is steaming ahead, and I would like to put a spotlight into the “known issues” that is available in PPAC.  If you go into the support menu in LCS, you are now directed to PPAC: Then you now have a known issues tab, where you can … Continue reading Power Platform Admin Center Known Issues: Simplifying Support and Workarounds]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Automate Tests for your Copilot Extensions with the Business Central Test Toolkit]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-automate-tests-for-your-copilot-extensions-with-the-business-central-test-toolkit</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-automate-tests-for-your-copilot-extensions-with-the-business-central-test-toolkit"/>
+        <updated>2024-07-30T10:00:17.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central save files to Azure Share from AL using SAS]]></title>
+        <id>https://365community.online/business-central-save-files-to-azure-share-from-al-using-sas</id>
+        <link href="https://365community.online/business-central-save-files-to-azure-share-from-al-using-sas"/>
+        <updated>2024-07-30T08:39:36.000Z</updated>
+        <summary type="html"><![CDATA[Business Central save files to Azure Share from AL using SAS Using Azure Storage with Azure Share with AL An Azure Storage unit (or rather an Azure Share resource based […]]]></summary>
+        <author>
+            <name>Roberto Stefanetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 Wave 2: D365 Customer Service]]></title>
+        <id>https://365community.online/2024-wave-2-d365-customer-service</id>
+        <link href="https://365community.online/2024-wave-2-d365-customer-service"/>
+        <updated>2024-07-30T08:11:00.000Z</updated>
+        <summary type="html"><![CDATA[The 2024 wave 2 release notes are here, and I’m excited to bring you a new series of articles covering all the juicy details for Dynamics 365 Sales, Customer Service, […]]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 Wave 2: D365 Customer Service – YouTube]]></title>
+        <id>https://365community.online/2024-wave-2-d365-customer-service-youtube</id>
+        <link href="https://365community.online/2024-wave-2-d365-customer-service-youtube"/>
+        <updated>2024-07-30T08:08:00.000Z</updated>
+        <summary type="html"><![CDATA[2024 Wave 2: D365 Customer Service This is part 3 of my video series about the new features that are part of 2024 Release Wave 2. In this episode I […]]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mastering Financial Forecasting by Leveraging ERP Accounting Solutions]]></title>
         <id>https://erpsoftwareblog.com/?p=117117</id>
