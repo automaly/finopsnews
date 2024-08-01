@@ -1572,6 +1572,46 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=117172",
+          "author": "Open Door Technology",
+          "description": "As businesses navigate the rapidly evolving digital landscape, staying ahead with the latest technological advancements is paramount. Microsoft’s 2024 Release Wave 2 for Dynamics 365 and the Power Platform is […]\nThe post Unveiling Microsoft 2024 Release Wave 2: Enhancements for Dynamics 365 and Power Platform appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve\nWhich Dynamics 365 Business Central License should I purchase?\nMicrosoft Dynamics 365 Business Central ERP Implementation: Ask Yourself ‘Which Features Do I Really Need?’",
+          "link": "https://erpsoftwareblog.com/2024/07/unveiling-microsoft-2024-release-wave-2-enhancements-for-dynamics-365-and-power-platform/",
+          "publishedOn": "2024-07-31T20:42:56.000Z",
+          "wordCount": 4467,
+          "title": "Unveiling Microsoft 2024 Release Wave 2: Enhancements for Dynamics 365 and Power Platform",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ERP-14.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=107535",
+          "author": "Fidesic AP",
+          "description": "Get started in minutes with invoice data capture. Fidesic MagiCapture for Business Central is easy to install. Still entering invoice data manually? A better process is only 5 […]\nThe post 5 Minutes to Set Up - Invoice Data Capture for Business Central appeared first on ERP Software Blog.\nInsight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Business Central at BCUG/NAVUG Summit in Phoenix\nCanadian Payroll for Dynamics NAV and 365 Business Central\nBuild Your Own WMS Apps for Microsoft Dynamics",
+          "link": "https://erpsoftwareblog.com/2024/07/5-minutes-to-set-up-invoice-data-capture-for-business-central/",
+          "publishedOn": "2024-07-31T18:19:36.000Z",
+          "wordCount": 3821,
+          "title": "5 Minutes to Set Up - Invoice Data Capture for Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ocr-quick-set-up-video.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=117167",
+          "author": "MetaOption LLC",
+          "description": "Nowadays, when businesses are shifting to e-commerce, delivery management is a crucial factor that defines the success of a business. The two main sub-processes of this process are carrier optimization […]\nThe post Delivery Management: Carrier Optimization and Shipment Efficiency appeared first on ERP Software Blog.\nExploring Multiple Printing Options in MetaShip for Business Central\nElevate Your Shipping Strategy with MetaShip’s Advanced Functionality\nBoost your Operations with Effortless Packing and Shipping: MetaShip",
+          "link": "https://erpsoftwareblog.com/2024/07/delivery-management-carrier-optimization-and-shipment-efficiency/",
+          "publishedOn": "2024-07-31T17:18:59.000Z",
+          "wordCount": 4404,
+          "title": "Delivery Management: Carrier Optimization and Shipment Efficiency",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-148.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=117163",
+          "author": "JourneyTEAM",
+          "description": "In today's fast-paced business environment, staying competitive requires efficient operations, informed decision-making, and the ability to adapt to change. Recognized by Microsoft as the 2024 Parter of the Year for […]\nThe post Unlocking Business Potential with Dynamics 365 Business Central appeared first on ERP Software Blog.\nLearn How To Save Time By Using The \"Cancel\" Option to Reverse A Posted Sales Invoice\nStart Collecting Sales Tax In Under 5 minutes in Dynamics 365 Business Central\nCreate A New Item In Dynamics 365 Business Central",
+          "link": "https://erpsoftwareblog.com/2024/07/unlocking-business-potential-with-dynamics-365-business-central/",
+          "publishedOn": "2024-07-31T12:37:29.000Z",
+          "wordCount": 4545,
+          "title": "Unlocking Business Potential with Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Screen-Shot-2021-03-31-at-3.49.58-PM-e1617391086237.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=117157",
           "author": "Andrew King, WebSan Solutions, Inc.",
           "description": "Implementing Dynamics 365 Business Central can transform your business operations, but it requires careful planning and execution to avoid common pitfalls. Drawing insights from our experience at WebSan Solutions, let's […]\nThe post Avoiding the Top 10 Mistakes in Implementing Dynamics 365 Business Central appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve\nTo upgrade or not to upgrade: the case for moving from NAV to Dynamics 365 Business Central\nMicrosoft Dynamics 365 Business Central ERP Implementation: Ask Yourself ‘Which Features Do I Really Need?’",
@@ -11500,6 +11540,96 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/d365fo-document-management-with-sharepoint",
+          "author": "Anitha Santosh",
+          "description": "Document management with SharePoint in Dynamics 365 Finance and Operations (D365FO) integrates powerful document management capabilities, allowing users to efficiently store, manage, and collaborate on documents within the D365FO environment. […]",
+          "link": "https://365community.online/d365fo-document-management-with-sharepoint",
+          "publishedOn": "2024-07-31T21:31:33.000Z",
+          "wordCount": 3172,
+          "title": "D365FO Document Management with Sharepoint",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/D365FO-Document-Management-with-Sharepoint.png?fit=1200%2C507&ssl=1"
+        },
+        {
+          "id": "https://365community.online/fixed-access-denied-cryptographicexception-on-calling-sharepoint-online-apis-using-azure-ad-app-only",
+          "author": "Nishant Rana",
+          "description": "While trying to call SharePoint Online APIs using Azure AD App-Only using Certificate Auth we were getting the Access Denied exception. We were creating the ClientContext using the AuthenticationManager class […]",
+          "link": "https://365community.online/fixed-access-denied-cryptographicexception-on-calling-sharepoint-online-apis-using-azure-ad-app-only",
+          "publishedOn": "2024-07-31T20:30:00.000Z",
+          "wordCount": 3256,
+          "title": "Fixed – Access Denied (CryptographicException) on calling SharePoint Online APIs using Azure AD App-Only",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/08/Fixed-–-Access-Denied-CryptographicException-on-calling-SharePoint-Online-APIs.jpeg?fit=1200%2C799&ssl=1"
+        },
+        {
+          "id": "https://365community.online/taking-scottish-summit-on-tour-with-matt-beard-and-zoe-wilson-youtube-2",
+          "author": "Scottish Summit",
+          "description": "In this episode, Paddy and Rex catch up with Matt and Zoe to discuss their involvement in Scottish Summit including taking the event on tour to Manchester in 2023. source",
+          "link": "https://365community.online/taking-scottish-summit-on-tour-with-matt-beard-and-zoe-wilson-youtube-2",
+          "publishedOn": "2024-07-31T13:35:31.000Z",
+          "wordCount": 3129,
+          "title": "Taking Scottish Summit on Tour with Matt Beard and Zoe Wilson – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1722448786_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-series-index",
+          "author": "Ian Grieve",
+          "description": "This post is part of a series on the new functionality available in Wave 2 of Microsoft Dynamics 365 Business Central 2024. There are two release waves for Business Central […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-series-index",
+          "publishedOn": "2024-07-31T12:00:18.000Z",
+          "wordCount": 3249,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Series Index",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-dynamics-365-business-central-statement-import-importing-all-dates-as-january",
+          "author": "Ian Grieve",
+          "description": "On a recent implementation of Microsoft Dynamics 365 Business Central we created some data exchange definitions for the import of statements, but when it came to testing the client reported […]",
+          "link": "https://365community.online/microsoft-dynamics-365-business-central-statement-import-importing-all-dates-as-january",
+          "publishedOn": "2024-07-31T10:00:59.000Z",
+          "wordCount": 3239,
+          "title": "Microsoft Dynamics 365 Business Central Statement Import Importing all Dates as January",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Microsoft-Dynamics-365-Business-Central-Statement-Import-Importing-all-Dates.png?fit=860%2C245&ssl=1"
+        },
+        {
+          "id": "https://365community.online/automating-tasks-in-power-bi-reports-with-power-automate-buttons",
+          "author": "Inogic",
+          "description": "Power BI has introduced an exciting feature that allows users to leverage the capabilities of Power Automate through buttons within Power BI reports. This enhancement significantly improves the user experience […]",
+          "link": "https://365community.online/automating-tasks-in-power-bi-reports-with-power-automate-buttons",
+          "publishedOn": "2024-07-31T09:25:50.000Z",
+          "wordCount": 3496,
+          "title": "Automating Tasks in Power BI Reports with Power Automate Buttons",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Automating-Tasks-in-Power-BI-Reports-with-Power-Automate-Buttons.png?fit=1200%2C686&ssl=1"
+        },
+        {
+          "id": "https://365community.online/power-pages-propilot-elevate-your-development-skills-with-github-copilot-youtube-2",
+          "author": "Victor Dantas",
+          "description": "Power Pages ProPilot : Elevate Your Development Skills with GitHub Copilot source",
+          "link": "https://365community.online/power-pages-propilot-elevate-your-development-skills-with-github-copilot-youtube-2",
+          "publishedOn": "2024-07-31T07:01:26.000Z",
+          "wordCount": 3111,
+          "title": "Power Pages ProPilot : Elevate Your Development Skills with GitHub Copilot – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1722419610_maxresdefault.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/%f0%9f%9a%80por-que-inventar-la-rueda-llega-azure-ai-document-intelligence-a-business-central",
+          "author": "jarmesto",
+          "description": "En octubre llegan algunas novedades muy interesantes en Business Central. Una de ellas es la incorporación del servicio Azure: AI Document Intelligence. Conociendo Document Intellgence Document Intelligence esta ubicado en […]",
+          "link": "https://365community.online/%f0%9f%9a%80por-que-inventar-la-rueda-llega-azure-ai-document-intelligence-a-business-central",
+          "publishedOn": "2024-07-31T07:00:00.000Z",
+          "wordCount": 3192,
+          "title": "🚀¿Por qué inventar la rueda? Llega Azure AI Document Intelligence a Business Central",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1722416313_¿Por-que-inventar-la-rueda-Llega-Azure-AI-Document-Intelligence.jpeg?fit=1024%2C1024&ssl=1"
+        },
+        {
+          "id": "https://365community.online/do-you-have-again-classic-azure-storage-accounts-these-are-the-last-days-for-migrate-and-avoid-service-disruptions",
+          "author": "Stefano Demiliani",
+          "description": "On 31 August 2024, Microsoft will retire the Cloud Services (classic) deployment model (the announcement was made by Microsoft in March 2022). Before that date, you’ll need to migrate your services that were deployed using this model to Cloud Services (extended support) in Azure Resource […]",
+          "link": "https://365community.online/do-you-have-again-classic-azure-storage-accounts-these-are-the-last-days-for-migrate-and-avoid-service-disruptions",
+          "publishedOn": "2024-07-31T06:49:00.000Z",
+          "wordCount": 3261,
+          "title": "Do you have again Classic Azure Storage Accounts? These are the last days for migrate and avoid service disruptions.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Do-you-have-again-Classic-Azure-Storage-Accounts-These-are.png?fit=1199%2C301&ssl=1"
+        },
         {
           "id": "https://365community.online/sample-code-to-check-if-a-folder-exists-else-create-it-sharepoint-online-pnp-framework-c",
           "author": "Nishant Rana",
@@ -27100,6 +27230,16 @@
       "feedUrl": "https://anithasantosh.wordpress.com/feed/",
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=3535",
+          "author": "AnithaEswaran",
+          "description": "Document management with SharePoint in Dynamics 365 Finance and Operations (D365FO) integrates powerful document management capabilities, allowing users to efficiently store, manage, and collaborate on documents within the D365FO environment. Integration Setup Navigate to the Document Management parameters in D365FO … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2024/07/31/d365fo-docuement-management-with-sharepoint/",
+          "publishedOn": "2024-07-31T21:31:33.000Z",
+          "wordCount": 3171,
+          "title": "D365FO Document Management with Sharepoint",
+          "imageUrl": "https://anithasantosh.wordpress.com/wp-content/uploads/2024/07/image-23.png"
+        },
         {
           "id": "http://anithasantosh.wordpress.com/?p=3519",
           "author": "AnithaEswaran",

@@ -2,10 +2,166 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-07-31T00:37:23.866Z</updated>
+    <updated>2024-08-01T00:50:32.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[D365FO Document Management with Sharepoint]]></title>
+        <id>https://365community.online/d365fo-document-management-with-sharepoint</id>
+        <link href="https://365community.online/d365fo-document-management-with-sharepoint"/>
+        <updated>2024-07-31T21:31:33.000Z</updated>
+        <summary type="html"><![CDATA[Document management with SharePoint in Dynamics 365 Finance and Operations (D365FO) integrates powerful document management capabilities, allowing users to efficiently store, manage, and collaborate on documents within the D365FO environment. […]]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365FO Document Management with Sharepoint]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=3535</id>
+        <link href="https://anithasantosh.wordpress.com/2024/07/31/d365fo-docuement-management-with-sharepoint/"/>
+        <updated>2024-07-31T21:31:33.000Z</updated>
+        <summary type="html"><![CDATA[Document management with SharePoint in Dynamics 365 Finance and Operations (D365FO) integrates powerful document management capabilities, allowing users to efficiently store, manage, and collaborate on documents within the D365FO environment. Integration Setup Navigate to the Document Management parameters in D365FO … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unveiling Microsoft 2024 Release Wave 2: Enhancements for Dynamics 365 and Power Platform]]></title>
+        <id>https://erpsoftwareblog.com/?p=117172</id>
+        <link href="https://erpsoftwareblog.com/2024/07/unveiling-microsoft-2024-release-wave-2-enhancements-for-dynamics-365-and-power-platform/"/>
+        <updated>2024-07-31T20:42:56.000Z</updated>
+        <summary type="html"><![CDATA[As businesses navigate the rapidly evolving digital landscape, staying ahead with the latest technological advancements is paramount. Microsoft’s 2024 Release Wave 2 for Dynamics 365 and the Power Platform is […]
+The post Unveiling Microsoft 2024 Release Wave 2: Enhancements for Dynamics 365 and Power Platform appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+Which Dynamics 365 Business Central License should I purchase?
+Microsoft Dynamics 365 Business Central ERP Implementation: Ask Yourself ‘Which Features Do I Really Need?’]]></summary>
+        <author>
+            <name>Open Door Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixed – Access Denied (CryptographicException) on calling SharePoint Online APIs using Azure AD App-Only]]></title>
+        <id>https://365community.online/fixed-access-denied-cryptographicexception-on-calling-sharepoint-online-apis-using-azure-ad-app-only</id>
+        <link href="https://365community.online/fixed-access-denied-cryptographicexception-on-calling-sharepoint-online-apis-using-azure-ad-app-only"/>
+        <updated>2024-07-31T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[While trying to call SharePoint Online APIs using Azure AD App-Only using Certificate Auth we were getting the Access Denied exception. We were creating the ClientContext using the AuthenticationManager class […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Minutes to Set Up - Invoice Data Capture for Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=107535</id>
+        <link href="https://erpsoftwareblog.com/2024/07/5-minutes-to-set-up-invoice-data-capture-for-business-central/"/>
+        <updated>2024-07-31T18:19:36.000Z</updated>
+        <summary type="html"><![CDATA[Get started in minutes with invoice data capture. Fidesic MagiCapture for Business Central is easy to install. Still entering invoice data manually? A better process is only 5 […]
+The post 5 Minutes to Set Up - Invoice Data Capture for Business Central appeared first on ERP Software Blog.
+Insight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Business Central at BCUG/NAVUG Summit in Phoenix
+Canadian Payroll for Dynamics NAV and 365 Business Central
+Build Your Own WMS Apps for Microsoft Dynamics]]></summary>
+        <author>
+            <name>Fidesic AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delivery Management: Carrier Optimization and Shipment Efficiency]]></title>
+        <id>https://erpsoftwareblog.com/?p=117167</id>
+        <link href="https://erpsoftwareblog.com/2024/07/delivery-management-carrier-optimization-and-shipment-efficiency/"/>
+        <updated>2024-07-31T17:18:59.000Z</updated>
+        <summary type="html"><![CDATA[Nowadays, when businesses are shifting to e-commerce, delivery management is a crucial factor that defines the success of a business. The two main sub-processes of this process are carrier optimization […]
+The post Delivery Management: Carrier Optimization and Shipment Efficiency appeared first on ERP Software Blog.
+Exploring Multiple Printing Options in MetaShip for Business Central
+Elevate Your Shipping Strategy with MetaShip’s Advanced Functionality
+Boost your Operations with Effortless Packing and Shipping: MetaShip]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taking Scottish Summit on Tour with Matt Beard and Zoe Wilson – YouTube]]></title>
+        <id>https://365community.online/taking-scottish-summit-on-tour-with-matt-beard-and-zoe-wilson-youtube-2</id>
+        <link href="https://365community.online/taking-scottish-summit-on-tour-with-matt-beard-and-zoe-wilson-youtube-2"/>
+        <updated>2024-07-31T13:35:31.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, Paddy and Rex catch up with Matt and Zoe to discuss their involvement in Scottish Summit including taking the event on tour to Manchester in 2023. source]]></summary>
+        <author>
+            <name>Scottish Summit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlocking Business Potential with Dynamics 365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=117163</id>
+        <link href="https://erpsoftwareblog.com/2024/07/unlocking-business-potential-with-dynamics-365-business-central/"/>
+        <updated>2024-07-31T12:37:29.000Z</updated>
+        <summary type="html"><![CDATA[In today's fast-paced business environment, staying competitive requires efficient operations, informed decision-making, and the ability to adapt to change. Recognized by Microsoft as the 2024 Parter of the Year for […]
+The post Unlocking Business Potential with Dynamics 365 Business Central appeared first on ERP Software Blog.
+Learn How To Save Time By Using The "Cancel" Option to Reverse A Posted Sales Invoice
+Start Collecting Sales Tax In Under 5 minutes in Dynamics 365 Business Central
+Create A New Item In Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>JourneyTEAM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Series Index]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-series-index</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-series-index"/>
+        <updated>2024-07-31T12:00:18.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of a series on the new functionality available in Wave 2 of Microsoft Dynamics 365 Business Central 2024. There are two release waves for Business Central […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics 365 Business Central Statement Import Importing all Dates as January]]></title>
+        <id>https://365community.online/microsoft-dynamics-365-business-central-statement-import-importing-all-dates-as-january</id>
+        <link href="https://365community.online/microsoft-dynamics-365-business-central-statement-import-importing-all-dates-as-january"/>
+        <updated>2024-07-31T10:00:59.000Z</updated>
+        <summary type="html"><![CDATA[On a recent implementation of Microsoft Dynamics 365 Business Central we created some data exchange definitions for the import of statements, but when it came to testing the client reported […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automating Tasks in Power BI Reports with Power Automate Buttons]]></title>
+        <id>https://365community.online/automating-tasks-in-power-bi-reports-with-power-automate-buttons</id>
+        <link href="https://365community.online/automating-tasks-in-power-bi-reports-with-power-automate-buttons"/>
+        <updated>2024-07-31T09:25:50.000Z</updated>
+        <summary type="html"><![CDATA[Power BI has introduced an exciting feature that allows users to leverage the capabilities of Power Automate through buttons within Power BI reports. This enhancement significantly improves the user experience […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Pages ProPilot : Elevate Your Development Skills with GitHub Copilot – YouTube]]></title>
+        <id>https://365community.online/power-pages-propilot-elevate-your-development-skills-with-github-copilot-youtube-2</id>
+        <link href="https://365community.online/power-pages-propilot-elevate-your-development-skills-with-github-copilot-youtube-2"/>
+        <updated>2024-07-31T07:01:26.000Z</updated>
+        <summary type="html"><![CDATA[Power Pages ProPilot : Elevate Your Development Skills with GitHub Copilot source]]></summary>
+        <author>
+            <name>Victor Dantas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚀¿Por qué inventar la rueda? Llega Azure AI Document Intelligence a Business Central]]></title>
+        <id>https://365community.online/%f0%9f%9a%80por-que-inventar-la-rueda-llega-azure-ai-document-intelligence-a-business-central</id>
+        <link href="https://365community.online/%f0%9f%9a%80por-que-inventar-la-rueda-llega-azure-ai-document-intelligence-a-business-central"/>
+        <updated>2024-07-31T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[En octubre llegan algunas novedades muy interesantes en Business Central. Una de ellas es la incorporación del servicio Azure: AI Document Intelligence. Conociendo Document Intellgence Document Intelligence esta ubicado en […]]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do you have again Classic Azure Storage Accounts? These are the last days for migrate and avoid service disruptions.]]></title>
+        <id>https://365community.online/do-you-have-again-classic-azure-storage-accounts-these-are-the-last-days-for-migrate-and-avoid-service-disruptions</id>
+        <link href="https://365community.online/do-you-have-again-classic-azure-storage-accounts-these-are-the-last-days-for-migrate-and-avoid-service-disruptions"/>
+        <updated>2024-07-31T06:49:00.000Z</updated>
+        <summary type="html"><![CDATA[On 31 August 2024, Microsoft will retire the Cloud Services (classic) deployment model (the announcement was made by Microsoft in March 2022). Before that date, you’ll need to migrate your services that were deployed using this model to Cloud Services (extended support) in Azure Resource […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Avoiding the Top 10 Mistakes in Implementing Dynamics 365 Business Central]]></title>
         <id>https://erpsoftwareblog.com/?p=117157</id>
