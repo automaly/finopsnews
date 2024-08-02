@@ -1572,6 +1572,56 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=117214",
+          "author": "Solution Systems, Inc.",
+          "description": "A Microsoft Dynamics 365 Business Central podcast | Episode 63 A Shot of Business Central and A Beer In Episode 63 of \"A Shot of Business Central and A Beer,\" […]\nThe post Ep. 63: Interview with Kennie Pontoppidan | A Shot of Business Central and A Beer podcast appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central: The Future of Distribution Accounting\nSelf-Service Analytics: Exploring Your ERP Data for Maximum Insights\nIntroducing deFacto POWER Planning",
+          "link": "https://erpsoftwareblog.com/2024/08/ep-63-interview-with-kennie-pontoppidan-a-shot-of-business-central-and-a-beer-podcast/",
+          "publishedOn": "2024-08-01T15:31:15.000Z",
+          "wordCount": 5132,
+          "title": "Ep. 63: Interview with Kennie Pontoppidan | A Shot of Business Central and A Beer podcast",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Shot-of-BC-A-Beer-Ep-63.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=117205",
+          "author": "Alta Vista Technology",
+          "description": "Microsoft Dynamics 365 continues to evolve, bringing powerful tools to businesses worldwide. The Microsoft Dynamics 365 2024 wave 2 release introduces a range of new features and enhancements designed to […]\nThe post Dynamics 365 2024 Release Wave 2: The Highlights appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting\nGet More in the Cloud with Dynamics 365 Business Central\nSelf-Service Analytics: Exploring Your ERP Data for Maximum Insights",
+          "link": "https://erpsoftwareblog.com/2024/08/dynamics-365-2024-release-wave-2-the-highlights/",
+          "publishedOn": "2024-08-01T14:06:21.000Z",
+          "wordCount": 4402,
+          "title": "Dynamics 365 2024 Release Wave 2: The Highlights",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=117201",
+          "author": "DynaTech Systems",
+          "description": "For any business, understanding and managing finances is essential for long-term success. Financial management acts as a guide, helping organizations use their money wisely, make smart investments, and maintain a […]\nThe post Mastering Financial Management with Dynamics 365 Finance appeared first on ERP Software Blog.\nIntegrating with Dynamics 365 for Financials using SmartConnect\ndeFacto Power Planning - New Potentials for PowerBI\nYour Ultimate Resource Guide for Upgrading from Dynamics AX to D365 Finance and Supply Chain",
+          "link": "https://erpsoftwareblog.com/2024/08/mastering-financial-management-with-dynamics-365-finance/",
+          "publishedOn": "2024-08-01T13:22:50.000Z",
+          "wordCount": 4843,
+          "title": "Mastering Financial Management with Dynamics 365 Finance",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Mastering-Financial-Management-with-Dynamics-365-Finance-01-scaled.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=117105",
+          "author": "Insight Works",
+          "description": "Insight Works is pleased to celebrate the first anniversary of its highly praised Import Export PowerTool for Dynamics 365 Business Central. Since its release in 2023, this free app has revolutionized data migration and management for Microsoft Partners and Business Central integrators, earning five-star reviews on Microsoft AppSource and becoming a must-have tool.\nThe post Business Central Integrators Embrace Import Export PowerTool appeared first on ERP Software Blog.\nWarehouse Insight Now Available for Dynamics 365 Business Central\nHow to Choose a Mobile Computer to use with Business Central\nQuote Generation with Product Configurator for Business Central",
+          "link": "https://erpsoftwareblog.com/2024/08/business-central-integrators-embrace-import-export-powertool/",
+          "publishedOn": "2024-08-01T11:43:28.000Z",
+          "wordCount": 4115,
+          "title": "Business Central Integrators Embrace Import Export PowerTool",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Import-Export-PowerTool-350-1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=117190",
+          "author": "Written by Steve Simon, PDG Consultants  www.prettydarngood.com",
+          "description": "A Real Estate Management Company needed a program to generate late fees per their lease agreements. While Business Central has reminder and finance charge functionalities, they don't fit the strict […]\nThe post Issuing Tenant Late Fees in Business Central appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve\nMore Than Just a Name Change: The New Microsoft Dynamics 365 Business Central",
+          "link": "https://erpsoftwareblog.com/2024/07/issuing-tenant-late-fees-in-business-central/",
+          "publishedOn": "2024-08-01T03:11:34.000Z",
+          "wordCount": 4343,
+          "title": "Issuing Tenant Late Fees in Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Military-Park-211x300.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=117172",
           "author": "Open Door Technology",
           "description": "As businesses navigate the rapidly evolving digital landscape, staying ahead with the latest technological advancements is paramount. Microsoft’s 2024 Release Wave 2 for Dynamics 365 and the Power Platform is […]\nThe post Unveiling Microsoft 2024 Release Wave 2: Enhancements for Dynamics 365 and Power Platform appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve\nWhich Dynamics 365 Business Central License should I purchase?\nMicrosoft Dynamics 365 Business Central ERP Implementation: Ask Yourself ‘Which Features Do I Really Need?’",
@@ -11541,6 +11591,66 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-manage-subscription-billing-and-revenue-and-expense-recognition",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-manage-subscription-billing-and-revenue-and-expense-recognition",
+          "publishedOn": "2024-08-01T14:00:00.000Z",
+          "wordCount": 3261,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Manage Subscription Billing and Revenue and Expense Recognition",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-use-new-reports-and-demo-data-for-financial-reporting",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-use-new-reports-and-demo-data-for-financial-reporting",
+          "publishedOn": "2024-08-01T12:00:00.000Z",
+          "wordCount": 3269,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Use New Reports And Demo Data for Financial Reporting",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/5-challenges-of-duplicate-dynamics-365-crm-data-and-how-to-solve-them",
+          "author": "Inogic",
+          "description": "Duplicate CRM data can hinder your company at every level. If left unaddressed, 15-30% of your CRM data could be duplicates. These duplicates can negatively impact various departments: marketing teams […]",
+          "link": "https://365community.online/5-challenges-of-duplicate-dynamics-365-crm-data-and-how-to-solve-them",
+          "publishedOn": "2024-08-01T11:18:56.000Z",
+          "wordCount": 3492,
+          "title": "5 Challenges of Duplicate Dynamics 365 CRM Data and How to Solve Them!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/08/Duplicate-Dynamics-365-CRM-Data.png?fit=1200%2C686&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-dynamics-price-increases-october-2024",
+          "author": "Pete Murray",
+          "description": "Microsoft has announced the first price increase for Dynamics 365 products in five years. These increases apply to new subscriptions and renewals from 1 October 2024. These licences are not […]",
+          "link": "https://365community.online/microsoft-dynamics-price-increases-october-2024",
+          "publishedOn": "2024-08-01T10:44:51.000Z",
+          "wordCount": 3201,
+          "title": "Microsoft Dynamics Price Increases October 2024",
+          "imageUrl": "https://365community.online/wp-content/uploads/2024/08/Microsoft-Dynamics-Price-Increases-October-2024.avif.avif"
+        },
+        {
+          "id": "https://365community.online/what-is-the-microsoft-power-platform",
+          "author": "Ian Grieve",
+          "description": "I’ve been posting about working with Power Automate in general and using it with Business Central for a while now, but I’ve never really explained the Power Platform, of which […]",
+          "link": "https://365community.online/what-is-the-microsoft-power-platform",
+          "publishedOn": "2024-08-01T10:00:29.000Z",
+          "wordCount": 3206,
+          "title": "What is the Microsoft Power Platform?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
+        },
+        {
+          "id": "https://365community.online/%f0%9f%93%a2novedades-en-administracion-en-business-central",
+          "author": "jarmesto",
+          "description": "En esta nueva ola de actualizaciones para Dynamics 365 Business Central 2024 Wave 2, Microsoft ha incorporado una serie de novedades que tendrán un impacto significativo en la organización y […]",
+          "link": "https://365community.online/%f0%9f%93%a2novedades-en-administracion-en-business-central",
+          "publishedOn": "2024-08-01T06:18:00.000Z",
+          "wordCount": 3198,
+          "title": "📢Novedades en administración en Business Central",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/08/Novedades-en-administracion-en-Business-Central.webp.jpeg?fit=1024%2C1024&ssl=1"
+        },
+        {
           "id": "https://365community.online/d365fo-document-management-with-sharepoint",
           "author": "Anitha Santosh",
           "description": "Document management with SharePoint in Dynamics 365 Finance and Operations (D365FO) integrates powerful document management capabilities, allowing users to efficiently store, manage, and collaborate on documents within the D365FO environment. […]",
@@ -11559,6 +11669,16 @@
           "wordCount": 3256,
           "title": "Fixed – Access Denied (CryptographicException) on calling SharePoint Online APIs using Azure AD App-Only",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/08/Fixed-–-Access-Denied-CryptographicException-on-calling-SharePoint-Online-APIs.jpeg?fit=1200%2C799&ssl=1"
+        },
+        {
+          "id": "https://365community.online/from-bangalore-to-london-saurabh-bhartis-journey-through-indian-culture-cuisine-and-it-consul-youtube",
+          "author": "NZ365Guy",
+          "description": "From Bangalore to London: Saurabh Bharti’s Journey Through Indian Culture, Cuisine, and IT Consul… Send me a Text Message here (https://www.buzzsprout.com/twilio/text_messages/1796418/open_sms) The conversation covers Saurabh Bharti’s journey from India to […]",
+          "link": "https://365community.online/from-bangalore-to-london-saurabh-bhartis-journey-through-indian-culture-cuisine-and-it-consul-youtube",
+          "publishedOn": "2024-07-31T18:24:09.000Z",
+          "wordCount": 4022,
+          "title": "From Bangalore to London: Saurabh Bharti’s Journey Through Indian Culture, Cuisine, and IT Consul… – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/08/1722508043_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         },
         {
           "id": "https://365community.online/taking-scottish-summit-on-tour-with-matt-beard-and-zoe-wilson-youtube-2",
@@ -25694,6 +25814,16 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=6402",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2024/08/01/process-mining-project-forecasting/",
+          "publishedOn": "2024-08-01T05:03:46.000Z",
+          "wordCount": 3402,
+          "title": "Process Mining & Project Forecasting",
+          "imageUrl": "https://dynamicsax-fico.com/wp-content/uploads/2024/08/blank.png?w=1200"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=6309",
           "author": "Ludwig Reinhard",
           "description": "Visit the post for more.",
@@ -30957,6 +31087,16 @@
       "feedUrl": "https://ax.docentric.com/blog/feed/",
       "siteUrl": "https://ax.docentric.com/blog/",
       "articles": [
+        {
+          "id": "https://ax.docentric.com/?p=28980",
+          "author": "Jovica Zivkovic",
+          "description": "The SysLastValue is a handy framework in Dynamics 365 for Finance and Operations (D365FO). It saves the values you enter in forms for the current user within the current company so that the next time you open the form, your previous entries are already there. […]\nThe post D365FO SysLastValue Framework Simplified appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/d365fo-syslastvalue-framework-simplified/",
+          "publishedOn": "2024-08-01T05:36:50.000Z",
+          "wordCount": 12917,
+          "title": "D365FO SysLastValue Framework Simplified",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/08/D365Blog_D365FO_SysLastValue_Framework_Simplified.jpg"
+        },
         {
           "id": "https://ax.docentric.com/?p=28876",
           "author": "Slobodan Vucicevic",
