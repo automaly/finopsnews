@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-08-03T00:44:11.255Z</updated>
+    <updated>2024-08-04T00:49:49.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From NAV to Business Central: Enhancing Your ERP Capabilities]]></title>
+        <id>https://erpsoftwareblog.com/?p=117294</id>
+        <link href="https://erpsoftwareblog.com/2024/08/from-nav-to-business-central-enhancing-your-erp-capabilities/"/>
+        <updated>2024-08-03T17:32:30.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise Resource Planning (ERP) systems are the strength of today’s organizations, improving processes and providing information for decisions. Over the years Microsoft Dynamics NAV has been stable and reliable for […]
+The post From NAV to Business Central: Enhancing Your ERP Capabilities appeared first on ERP Software Blog.
+Navigating the Upgrade: Steps to Move from Dynamics NAV to Business Central
+How to Upgrade Dynamics NAV to Business Central in 2023?
+Strategies and steps to unlock seamless order fulfillment using Business Central]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dataverse Accelerator – Part 1 – Introduction]]></title>
+        <id>https://365community.online/microsoft-dataverse-accelerator-part-1-introduction</id>
+        <link href="https://365community.online/microsoft-dataverse-accelerator-part-1-introduction"/>
+        <updated>2024-08-03T11:08:10.000Z</updated>
+        <summary type="html"><![CDATA[Please like and share your valuable feedback on this video and follow my blog to get my articles to your Inbox. Click on the below image to navigate to my YouTube Channel. […]]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Master Business Central Inventory Management with Top Apps]]></title>
         <id>https://erpsoftwareblog.com/?p=117286</id>
