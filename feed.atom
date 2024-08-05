@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-08-04T00:49:49.898Z</updated>
+    <updated>2024-08-05T00:47:08.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Improving Your Scrum Practice – Mastering Professional Scrum – chapter 1]]></title>
+        <id>https://365community.online/improving-your-scrum-practice-mastering-professional-scrum-chapter-1</id>
+        <link href="https://365community.online/improving-your-scrum-practice-mastering-professional-scrum-chapter-1"/>
+        <updated>2024-08-04T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#156. Neil Benson dives into the essentials of continuously improving Scrum practices in this episode of the Amazing Apps podcast. Drawing on the book “Mastering Professional Scrum” by Stephanie Ockerman […]]]></summary>
+        <author>
+            <name>Neil Benson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webinar: Unlock Field Management excellence with integrated maps in Dynamics 365 & Power Pages!]]></title>
+        <id>https://365community.online/webinar-unlock-field-management-excellence-with-integrated-maps-in-dynamics-365-power-pages</id>
+        <link href="https://365community.online/webinar-unlock-field-management-excellence-with-integrated-maps-in-dynamics-365-power-pages"/>
+        <updated>2024-08-04T12:06:20.000Z</updated>
+        <summary type="html"><![CDATA[Pssstt.. Did you hear the news? Team Maplytics at Inogic has organized an interesting Webinar ‘Empower your Field Operations with integrated maps in Dynamics 365 & Power Pages! ‘ on […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Areti Iles and Andrew Bibby Talk to Us from Slovenia – YouTube]]></title>
+        <id>https://365community.online/areti-iles-and-andrew-bibby-talk-to-us-from-slovenia-youtube</id>
+        <link href="https://365community.online/areti-iles-and-andrew-bibby-talk-to-us-from-slovenia-youtube"/>
+        <updated>2024-08-04T09:26:44.000Z</updated>
+        <summary type="html"><![CDATA[Rex de Koning and Mark Christie managed to catch up with these two community gems, Andrew Bibby and Areti Iles in person at Dynamics Minds in Slovenia. Join us as […]]]></summary>
+        <author>
+            <name>Scottish Summit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Training the Next Wave of Power Platform Professionals with Julie Yack – YouTube]]></title>
+        <id>https://365community.online/training-the-next-wave-of-power-platform-professionals-with-julie-yack-youtube</id>
+        <link href="https://365community.online/training-the-next-wave-of-power-platform-professionals-with-julie-yack-youtube"/>
+        <updated>2024-08-04T09:08:42.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we are privileged to be joined by 16-time MVP Julie Yack! We discuss her work in the Microsoft community, her big takeaways from Scottish Summit, and how […]]]></summary>
+        <author>
+            <name>Scottish Summit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dataverse Accelerator – Part 2 – Installation]]></title>
+        <id>https://365community.online/microsoft-dataverse-accelerator-part-2-installation</id>
+        <link href="https://365community.online/microsoft-dataverse-accelerator-part-2-installation"/>
+        <updated>2024-08-04T06:59:26.000Z</updated>
+        <summary type="html"><![CDATA[In my previous article, I had explained about Microsoft Dataverse Accelerator Introduction and in this video, will explain about the Installation of the Dataverse Accelerator App. Have a look at […]]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhanced Entra ID group integration in D365FO Admin Toolkit]]></title>
+        <id>https://dynamicspedia.com/?p=19103</id>
+        <link href="https://dynamicspedia.com/2024/08/enhanced-entra-id-group-integration-in-d365fo-admin-toolkit/"/>
+        <updated>2024-08-04T06:51:34.000Z</updated>
+        <summary type="html"><![CDATA[A few years ago, I wrote a blog post about how to use Azure Active Directory for managing users and security in Dynamics 365 for Finance and Operations. In the meantime, Microsoft renamed Azure Active Directory to Microsoft Entra ID. In my blog, I provided how to manage users and provide access permissions by using […]
+The post Enhanced Entra ID group integration in D365FO Admin Toolkit appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From NAV to Business Central: Enhancing Your ERP Capabilities]]></title>
         <id>https://erpsoftwareblog.com/?p=117294</id>
@@ -84,6 +145,17 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>PartnerTalks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhancing and Streamlining Financial Reporting with Dynamics 365 Finance]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/02/enhancing-and-streamlining-financial-reporting-with-dynamics-365-finance/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/02/enhancing-and-streamlining-financial-reporting-with-dynamics-365-finance/"/>
+        <updated>2024-08-02T17:23:59.000Z</updated>
+        <summary type="html"><![CDATA[Discover the latest update to Dynamics 365 Finance featuring the powerful financial reporting add-in. Streamline financial reporting processes, enhance data accuracy, and gain comprehensive business insights. Enjoy flexible report design, real-time data integration, secure access, and collaboration tools. With 22 pre-built templates, setup is quick and consistent across environments. Available now for all supported regions, this add-in simplifies data management and improves operational efficiency, empowering better financial insights and informed decision-making.
+The post Enhancing and Streamlining Financial Reporting with Dynamics 365 Finance appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Jinnie Wong</name>
         </author>
     </entry>
     <entry>
@@ -750,6 +822,17 @@ Business Intelligence – What Is Going On Out there?
 SRS: Not Just Another Acronym - One of Microsoft's Best Applications]]></summary>
         <author>
             <name>Calsoft Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Traceability add-in for Dynamics 365 Supply Chain Management]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/07/29/introducing-traceability-for-dynamics-365-supply-chain-management/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/07/29/introducing-traceability-for-dynamics-365-supply-chain-management/"/>
+        <updated>2024-07-29T23:57:27.000Z</updated>
+        <summary type="html"><![CDATA[Boost your business efficiency with the Traceability add-in for Dynamics 365 Supply Chain Management. Built on the Microsoft platform, this intuitive tool connects you to any source of traceability data, streamlining product lifecycle tracking, improving product quality, and reducing recall costs. Easily pass regulatory audits and use insights to drive actions.
+The post Introducing Traceability add-in for Dynamics 365 Supply Chain Management  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Ban Luo</name>
         </author>
     </entry>
     <entry>

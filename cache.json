@@ -11691,6 +11691,56 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/improving-your-scrum-practice-mastering-professional-scrum-chapter-1",
+          "author": "Neil Benson",
+          "description": "#156. Neil Benson dives into the essentials of continuously improving Scrum practices in this episode of the Amazing Apps podcast. Drawing on the book “Mastering Professional Scrum” by Stephanie Ockerman […]",
+          "link": "https://365community.online/improving-your-scrum-practice-mastering-professional-scrum-chapter-1",
+          "publishedOn": "2024-08-04T21:00:00.000Z",
+          "wordCount": 3183,
+          "title": "Improving Your Scrum Practice – Mastering Professional Scrum – chapter 1",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/webinar-unlock-field-management-excellence-with-integrated-maps-in-dynamics-365-power-pages",
+          "author": "Inogic",
+          "description": "Pssstt.. Did you hear the news? Team Maplytics at Inogic has organized an interesting Webinar ‘Empower your Field Operations with integrated maps in Dynamics 365 & Power Pages! ‘ on […]",
+          "link": "https://365community.online/webinar-unlock-field-management-excellence-with-integrated-maps-in-dynamics-365-power-pages",
+          "publishedOn": "2024-08-04T12:06:20.000Z",
+          "wordCount": 3509,
+          "title": "Webinar: Unlock Field Management excellence with integrated maps in Dynamics 365 & Power Pages!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/08/Empower-your-Field-Operations-with-integrated-maps-in-Dynamics-365-Power-Pages.png?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/areti-iles-and-andrew-bibby-talk-to-us-from-slovenia-youtube",
+          "author": "Scottish Summit",
+          "description": "Rex de Koning and Mark Christie managed to catch up with these two community gems, Andrew Bibby and Areti Iles in person at Dynamics Minds in Slovenia. Join us as […]",
+          "link": "https://365community.online/areti-iles-and-andrew-bibby-talk-to-us-from-slovenia-youtube",
+          "publishedOn": "2024-08-04T09:26:44.000Z",
+          "wordCount": 3145,
+          "title": "Areti Iles and Andrew Bibby Talk to Us from Slovenia – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/08/maxresdefault_live.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/training-the-next-wave-of-power-platform-professionals-with-julie-yack-youtube",
+          "author": "Scottish Summit",
+          "description": "In this episode, we are privileged to be joined by 16-time MVP Julie Yack! We discuss her work in the Microsoft community, her big takeaways from Scottish Summit, and how […]",
+          "link": "https://365community.online/training-the-next-wave-of-power-platform-professionals-with-julie-yack-youtube",
+          "publishedOn": "2024-08-04T09:08:42.000Z",
+          "wordCount": 3173,
+          "title": "Training the Next Wave of Power Platform Professionals with Julie Yack – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/08/maxresdefault_live.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-dataverse-accelerator-part-2-installation",
+          "author": "Arun Potti",
+          "description": "In my previous article, I had explained about Microsoft Dataverse Accelerator Introduction and in this video, will explain about the Installation of the Dataverse Accelerator App. Have a look at […]",
+          "link": "https://365community.online/microsoft-dataverse-accelerator-part-2-installation",
+          "publishedOn": "2024-08-04T06:59:26.000Z",
+          "wordCount": 3232,
+          "title": "Microsoft Dataverse Accelerator – Part 2 – Installation",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/dataverse_1600x1600.png?fit=680%2C680&ssl=1"
+        },
+        {
           "id": "https://365community.online/microsoft-dataverse-accelerator-part-1-introduction",
           "author": "Arun Potti",
           "description": "Please like and share your valuable feedback on this video and follow my blog to get my articles to your Inbox. Click on the below image to navigate to my YouTube Channel. […]",
@@ -26526,6 +26576,16 @@
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
         {
+          "id": "https://dynamicspedia.com/?p=19103",
+          "author": "André Arnaud de Calavon",
+          "description": "A few years ago, I wrote a blog post about how to use Azure Active Directory for managing users and security in Dynamics 365 for Finance and Operations. In the meantime, Microsoft renamed Azure Active Directory to Microsoft Entra ID. In my blog, I provided how to manage users and provide access permissions by using […]\nThe post Enhanced Entra ID group integration in D365FO Admin Toolkit appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2024/08/enhanced-entra-id-group-integration-in-d365fo-admin-toolkit/",
+          "publishedOn": "2024-08-04T06:51:34.000Z",
+          "wordCount": 5544,
+          "title": "Enhanced Entra ID group integration in D365FO Admin Toolkit",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2024/08/EntraIDGroupEnhancement1200.jpg"
+        },
+        {
           "id": "https://dynamicspedia.com/?p=19047",
           "author": "André Arnaud de Calavon",
           "description": "Workflow and security do have strong relation in Microsoft Dynamics 365 Finance and Operations. A user not assigned to a workflow task can’t approve a workflow instance. Also, the user should have correct permissions from the security settings as I explained before in another blog. (Workflow security in Dynamics 365 Finance and Operations) In this […]\nThe post What is the purpose of the workflow parameter ‘Require explicitly assigned users’? appeared first on Dynamicspedia.",
@@ -28650,6 +28710,26 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/02/enhancing-and-streamlining-financial-reporting-with-dynamics-365-finance/",
+          "author": "Jinnie Wong",
+          "description": "Discover the latest update to Dynamics 365 Finance featuring the powerful financial reporting add-in. Streamline financial reporting processes, enhance data accuracy, and gain comprehensive business insights. Enjoy flexible report design, real-time data integration, secure access, and collaboration tools. With 22 pre-built templates, setup is quick and consistent across environments. Available now for all supported regions, this add-in simplifies data management and improves operational efficiency, empowering better financial insights and informed decision-making.\nThe post Enhancing and Streamlining Financial Reporting with Dynamics 365 Finance appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/02/enhancing-and-streamlining-financial-reporting-with-dynamics-365-finance/",
+          "publishedOn": "2024-08-02T17:23:59.000Z",
+          "wordCount": 3361,
+          "title": "Enhancing and Streamlining Financial Reporting with Dynamics 365 Finance",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/08/CLO22_Factory_031-1024x683.jpg"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/07/29/introducing-traceability-for-dynamics-365-supply-chain-management/",
+          "author": "Ban Luo",
+          "description": "Boost your business efficiency with the Traceability add-in for Dynamics 365 Supply Chain Management. Built on the Microsoft platform, this intuitive tool connects you to any source of traceability data, streamlining product lifecycle tracking, improving product quality, and reducing recall costs. Easily pass regulatory audits and use insights to drive actions.\nThe post Introducing Traceability add-in for Dynamics 365 Supply Chain Management  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/07/29/introducing-traceability-for-dynamics-365-supply-chain-management/",
+          "publishedOn": "2024-07-29T23:57:27.000Z",
+          "wordCount": 3578,
+          "title": "Introducing Traceability add-in for Dynamics 365 Supply Chain Management",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/05/image.png"
+        },
         {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/07/22/5-steps-for-becoming-ai-ready-in-field-service/",
           "author": "Safiyyah O’Quinn",
