@@ -1572,6 +1572,31 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=118262",
+          "author": "Dynamics Square USA",
+          "description": "The business domain is swiftly changing due to digital transformation, making efficient project and service management crucial for maintaining a competitive edge. Dynamics 365 Business Central offers a comprehensive solution designed to […]\nThe post Project and Service Management in Business Central appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2024/09/project-and-service-management-in-business-central/",
+          "publishedOn": "2024-09-07T12:06:34.000Z",
+          "wordCount": 4809,
+          "title": "Project and Service Management in Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Project-and-Service-Management-in-Business-Central.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=118269",
+          "author": "Written by Steve Simon, PDG Consultants  www.prettydarngood.com",
+          "description": "Our Business Central client is spending too much time trying to verify which vendor invoices were applied to which payments. While the payment journal shows the External Document Number of […]\nThe post Business Central: External Document Number Hidden on the Vendor Applied Invoices Page appeared first on ERP Software Blog.\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve",
+          "link": "https://erpsoftwareblog.com/2024/09/business-central-external-document-number-hidden-on-the-vendor-applied-invoices-page/",
+          "publishedOn": "2024-09-07T04:37:03.000Z",
+          "wordCount": 4733,
+          "title": "Business Central: External Document Number Hidden on the Vendor Applied Invoices Page",
+          "enclosure": {
+            "url": "https://erpsoftwareblog.com/wp-content/uploads/BC-External-Doc-No-does-not-show.mp4",
+            "length": "116572845",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/PDG-LOGO-300x269.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=118266",
           "author": "PartnerTalks",
           "description": "Corporate Performance Management (CPM) systems expand the footprint of what Dynamics Partners can do for their customers. As customers integrate their applications, bringing them into the cloud, they expect a […]\nThe post Microsoft Dynamics Partners: Selling CPM Systems appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
@@ -12806,6 +12831,26 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/power-pages-use-a-custom-rich-text-files-table-to-store-images-and-avoid-exposing-the-full-msdyn_richtextfiles-table",
+          "author": "michelcarlo",
+          "description": "In my previous post, I explained how to display images from a Dataverse Rich Text field in Power Pages using Liquid. However, this method enables read access to all records in the Rich Text Attachments (msdyn_richtextfiles) table, which might not be ideal in case the Dataverse environment has other functionalities that have private information stored […]",
+          "link": "https://365community.online/power-pages-use-a-custom-rich-text-files-table-to-store-images-and-avoid-exposing-the-full-msdyn_richtextfiles-table",
+          "publishedOn": "2024-09-07T13:23:00.000Z",
+          "wordCount": 1215,
+          "title": "Power Pages: Use a custom Rich Text Files table to store images (and avoid exposing the full msdyn_richtextfiles table)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/qual-a-importancia-na-comunidade-como-um-desenvolver-youtube",
+          "author": "Renato Romao de Souza",
+          "description": "source",
+          "link": "https://365community.online/qual-a-importancia-na-comunidade-como-um-desenvolver-youtube",
+          "publishedOn": "2024-09-06T20:00:23.000Z",
+          "wordCount": 921,
+          "title": "Qual a importância na comunidade como um desenvolver? – YouTube",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-generate-flow-description-using-ai",
           "author": "Ian Grieve",
           "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Power Automate 2024 Wave 2. The 2nd of the new functionality in the Copilot for Power Automate section is generate flow description using AI. You […]",
@@ -12813,6 +12858,16 @@
           "publishedOn": "2024-09-06T14:00:23.000Z",
           "wordCount": 1090,
           "title": "New Functionality In Microsoft Power Automate 2024 Wave 2: Generate Flow Description Using AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/dynamic-365-crm-maps-for-your-adventurous-office-getaway-to-australia",
+          "author": "Inogic",
+          "description": "A top-performing office team from a successful tech company has decided to reward themselves with an exciting 4-day getaway to Australia. The team has worked tirelessly to exceed expectations, hit sales targets, and improve overall company performance. As a reward, the management is giving them the chance to unwind, bond, and have fun in one […]",
+          "link": "https://365community.online/dynamic-365-crm-maps-for-your-adventurous-office-getaway-to-australia",
+          "publishedOn": "2024-09-06T12:18:46.000Z",
+          "wordCount": 1263,
+          "title": "Dynamic 365 CRM Maps for Your Adventurous Office Getaway to Australia!",
           "imageUrl": null
         },
         {
@@ -30196,6 +30251,26 @@
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
         {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/08/29/transforming-erp-and-the-speed-of-business-with-generative-ai/",
+          "author": "Francois van Splunder",
+          "description": "Enterprise resource planning (ERP) platforms were designed to help integrate the fragmented processes that comprise the operation of a large enterprise. But the way we do business keeps fundamentally changing. New business models disrupt the way companies sell products and services, blurring industry lines and transforming customer experiences.\nThe post Transforming ERP, and the speed of business, with generative AI appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/08/29/transforming-erp-and-the-speed-of-business-with-generative-ai/",
+          "publishedOn": "2024-08-29T15:00:00.000Z",
+          "wordCount": 4018,
+          "title": "Transforming ERP, and the speed of business, with generative AI",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/08/D365_363349_Blog_240821_1200.png"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/08/29/elevating-experiences-with-ai-from-productivity-to-personalization/",
+          "author": "Jayme Mesecher",
+          "description": "In this blog post, we’re going to focus on the third item: elevating customer and employee experiences by showing how AI-enabled CRM platforms help increase productivity and provide unprecedented levels of personalized service across three key business functions: marketing, sales, and customer service.\nThe post Elevating experiences with AI, from productivity to personalization  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/08/29/elevating-experiences-with-ai-from-productivity-to-personalization/",
+          "publishedOn": "2024-08-29T15:00:00.000Z",
+          "wordCount": 4074,
+          "title": "Elevating experiences with AI, from productivity to personalization",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/08/364767-social-image.png"
+        },
+        {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/08/28/gj-pepsi-profit-rises-by-30-million-with-microsoft-dynamics-365/",
           "author": "Safiyyah O’Quinn",
           "description": "In 2021, facing an uncertain post-pandemic economy, G&J Pepsi embarked on a transformation journey to maximize customer service, revenue, and cost savings by implementing solutions including Microsoft Dynamics 365 Field Service, Microsoft Dynamics 365 Remote Assist, Microsoft Dynamics 365 Sales, and other Microsoft technologies.\nThe post G&J Pepsi profit rises by $30 million with Microsoft Dynamics 365 appeared first on Microsoft Dynamics 365 Blog.",
@@ -34332,6 +34407,16 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/introducing-copilot-page-in-power-platform-admin-center-preview/",
+          "author": "Caitlin Shaw",
+          "description": "As Copilots and generative AI features light up across Microsoft Power Platform, admins increasingly need help governing these features. To address these needs, we are introducing the preview of the Copilot page in the Power Platform Admin Center, a centralized location for readiness resources and documentation, Copilot user activity, and unified Copilot settings. The Copilot\nThe post Introducing: Copilot Page in Power Platform Admin Center (Preview) appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/introducing-copilot-page-in-power-platform-admin-center-preview/",
+          "publishedOn": "2024-08-29T16:10:43.000Z",
+          "wordCount": 2614,
+          "title": "Introducing: Copilot Page in Power Platform Admin Center (Preview)",
+          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/08/image-5.webp"
+        },
         {
           "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/announcing-public-preview-of-expanded-single-sign-on-authentication-options-for-sap-connectors/",
           "author": "Shailja Nair",

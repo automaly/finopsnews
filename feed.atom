@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-09-07T00:47:07.395Z</updated>
+    <updated>2024-09-08T00:53:30.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Power Pages: Use a custom Rich Text Files table to store images (and avoid exposing the full msdyn_richtextfiles table)]]></title>
+        <id>https://365community.online/power-pages-use-a-custom-rich-text-files-table-to-store-images-and-avoid-exposing-the-full-msdyn_richtextfiles-table</id>
+        <link href="https://365community.online/power-pages-use-a-custom-rich-text-files-table-to-store-images-and-avoid-exposing-the-full-msdyn_richtextfiles-table"/>
+        <updated>2024-09-07T13:23:00.000Z</updated>
+        <summary type="html"><![CDATA[In my previous post, I explained how to display images from a Dataverse Rich Text field in Power Pages using Liquid. However, this method enables read access to all records in the Rich Text Attachments (msdyn_richtextfiles) table, which might not be ideal in case the Dataverse environment has other functionalities that have private information stored […]]]></summary>
+        <author>
+            <name>michelcarlo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project and Service Management in Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=118262</id>
+        <link href="https://erpsoftwareblog.com/2024/09/project-and-service-management-in-business-central/"/>
+        <updated>2024-09-07T12:06:34.000Z</updated>
+        <summary type="html"><![CDATA[The business domain is swiftly changing due to digital transformation, making efficient project and service management crucial for maintaining a competitive edge. Dynamics 365 Business Central offers a comprehensive solution designed to […]
+The post Project and Service Management in Business Central appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central: External Document Number Hidden on the Vendor Applied Invoices Page]]></title>
+        <id>https://erpsoftwareblog.com/?p=118269</id>
+        <link href="https://erpsoftwareblog.com/2024/09/business-central-external-document-number-hidden-on-the-vendor-applied-invoices-page/"/>
+        <updated>2024-09-07T04:37:03.000Z</updated>
+        <summary type="html"><![CDATA[Our Business Central client is spending too much time trying to verify which vendor invoices were applied to which payments. While the payment journal shows the External Document Number of […]
+The post Business Central: External Document Number Hidden on the Vendor Applied Invoices Page appeared first on ERP Software Blog.
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve]]></summary>
+        <author>
+            <name>Written by Steve Simon, PDG Consultants  www.prettydarngood.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qual a importância na comunidade como um desenvolver? – YouTube]]></title>
+        <id>https://365community.online/qual-a-importancia-na-comunidade-como-um-desenvolver-youtube</id>
+        <link href="https://365community.online/qual-a-importancia-na-comunidade-como-um-desenvolver-youtube"/>
+        <updated>2024-09-06T20:00:23.000Z</updated>
+        <summary type="html"><![CDATA[source]]></summary>
+        <author>
+            <name>Renato Romao de Souza</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Dynamics Partners: Selling CPM Systems]]></title>
         <id>https://erpsoftwareblog.com/?p=118266</id>
@@ -42,6 +90,16 @@ Dynamics 365 for Finance and Operations Goes Mobile]]></summary>
         <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Power Automate 2024 Wave 2. The 2nd of the new functionality in the Copilot for Power Automate section is generate flow description using AI. You […]]]></summary>
         <author>
             <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamic 365 CRM Maps for Your Adventurous Office Getaway to Australia!]]></title>
+        <id>https://365community.online/dynamic-365-crm-maps-for-your-adventurous-office-getaway-to-australia</id>
+        <link href="https://365community.online/dynamic-365-crm-maps-for-your-adventurous-office-getaway-to-australia"/>
+        <updated>2024-09-06T12:18:46.000Z</updated>
+        <summary type="html"><![CDATA[A top-performing office team from a successful tech company has decided to reward themselves with an exciting 4-day getaway to Australia. The team has worked tirelessly to exceed expectations, hit sales targets, and improve overall company performance. As a reward, the management is giving them the chance to unwind, bond, and have fun in one […]]]></summary>
+        <author>
+            <name>Inogic</name>
         </author>
     </entry>
     <entry>
@@ -712,6 +770,39 @@ Get More in the Cloud with Dynamics 365 Business Central
 Strategic Mindset for a Successful ERP implementation]]></summary>
         <author>
             <name>Alta Vista Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing: Copilot Page in Power Platform Admin Center (Preview)]]></title>
+        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/introducing-copilot-page-in-power-platform-admin-center-preview/</id>
+        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/introducing-copilot-page-in-power-platform-admin-center-preview/"/>
+        <updated>2024-08-29T16:10:43.000Z</updated>
+        <summary type="html"><![CDATA[As Copilots and generative AI features light up across Microsoft Power Platform, admins increasingly need help governing these features. To address these needs, we are introducing the preview of the Copilot page in the Power Platform Admin Center, a centralized location for readiness resources and documentation, Copilot user activity, and unified Copilot settings. The Copilot
+The post Introducing: Copilot Page in Power Platform Admin Center (Preview) appeared first on Microsoft Power Platform Blog.]]></summary>
+        <author>
+            <name>Caitlin Shaw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transforming ERP, and the speed of business, with generative AI]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/08/29/transforming-erp-and-the-speed-of-business-with-generative-ai/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/08/29/transforming-erp-and-the-speed-of-business-with-generative-ai/"/>
+        <updated>2024-08-29T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise resource planning (ERP) platforms were designed to help integrate the fragmented processes that comprise the operation of a large enterprise. But the way we do business keeps fundamentally changing. New business models disrupt the way companies sell products and services, blurring industry lines and transforming customer experiences.
+The post Transforming ERP, and the speed of business, with generative AI appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Francois van Splunder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elevating experiences with AI, from productivity to personalization]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/08/29/elevating-experiences-with-ai-from-productivity-to-personalization/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/08/29/elevating-experiences-with-ai-from-productivity-to-personalization/"/>
+        <updated>2024-08-29T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this blog post, we’re going to focus on the third item: elevating customer and employee experiences by showing how AI-enabled CRM platforms help increase productivity and provide unprecedented levels of personalized service across three key business functions: marketing, sales, and customer service.
+The post Elevating experiences with AI, from productivity to personalization  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Jayme Mesecher</name>
         </author>
     </entry>
     <entry>
