@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-09-08T00:53:30.638Z</updated>
+    <updated>2024-09-09T00:51:13.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to bypass table security in X++ coding]]></title>
+        <id>https://dynamicspedia.com/?p=19160</id>
+        <link href="https://dynamicspedia.com/2024/09/how-to-bypass-table-security-in-x-coding/"/>
+        <updated>2024-09-08T11:22:41.000Z</updated>
+        <summary type="html"><![CDATA[For various reasons, you would like to read business data from or write data to the Dynamics 365 F&O database without enforcing security in the user context. For example, a user might not have access to various tables, like parameters or configuration. In this post, I talk about how to access and write data using […]
+The post How to bypass table security in X++ coding appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to get the Dataverse Table’s first row from List Rows in Power Automate?]]></title>
+        <id>https://365community.online/how-to-get-the-dataverse-tables-first-row-from-list-rows-in-power-automate</id>
+        <link href="https://365community.online/how-to-get-the-dataverse-tables-first-row-from-list-rows-in-power-automate"/>
+        <updated>2024-09-08T11:04:14.000Z</updated>
+        <summary type="html"><![CDATA[It is quite common requirement to get the Dataverse Table first row’s information from the List rows in the Power Automate. In this article, will explain about the same. Scenario: Get the list of all contacts which has Email address and show the Contact’s first row details (contactid, fullname and emailaddress1). Follow the below steps […]]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cartão adaptável dentro do Copilot é possível??? – YouTube]]></title>
+        <id>https://365community.online/cartao-adaptavel-dentro-do-copilot-e-possivel-youtube</id>
+        <link href="https://365community.online/cartao-adaptavel-dentro-do-copilot-e-possivel-youtube"/>
+        <updated>2024-09-08T11:00:45.000Z</updated>
+        <summary type="html"><![CDATA[source]]></summary>
+        <author>
+            <name>Renato Romao de Souza</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Networking at Conferences. – YouTube]]></title>
+        <id>https://365community.online/networking-at-conferences-youtube</id>
+        <link href="https://365community.online/networking-at-conferences-youtube"/>
+        <updated>2024-09-08T06:58:30.000Z</updated>
+        <summary type="html"><![CDATA[Networking at Conferences. source]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Pages: Upload large files – work in progress]]></title>
+        <id>https://365community.online/power-pages-upload-large-files-work-in-progress</id>
+        <link href="https://365community.online/power-pages-upload-large-files-work-in-progress"/>
+        <updated>2024-09-08T06:54:29.000Z</updated>
+        <summary type="html"><![CDATA[On the project, we need our portal users to be able to upload large video files. It’s required for incident investigations. As we all know, the large file upload was one of the top asked features. So now we could finally use it with Power Pages. Yay! No code The official documentation is here: Continue […]]]></summary>
+        <author>
+            <name>Olena Grischenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One conference, two career-changing connections. – YouTube]]></title>
+        <id>https://365community.online/one-conference-two-career-changing-connections-youtube</id>
+        <link href="https://365community.online/one-conference-two-career-changing-connections-youtube"/>
+        <updated>2024-09-07T21:05:21.000Z</updated>
+        <summary type="html"><![CDATA[One conference, two career-changing connections. source]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Power Pages: Use a custom Rich Text Files table to store images (and avoid exposing the full msdyn_richtextfiles table)]]></title>
         <id>https://365community.online/power-pages-use-a-custom-rich-text-files-table-to-store-images-and-avoid-exposing-the-full-msdyn_richtextfiles-table</id>
@@ -14,6 +75,16 @@
         <summary type="html"><![CDATA[In my previous post, I explained how to display images from a Dataverse Rich Text field in Power Pages using Liquid. However, this method enables read access to all records in the Rich Text Attachments (msdyn_richtextfiles) table, which might not be ideal in case the Dataverse environment has other functionalities that have private information stored […]]]></summary>
         <author>
             <name>michelcarlo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 Game Changing Programming Lessons You Wish You Knew Sooner! – YouTube]]></title>
+        <id>https://365community.online/12-game-changing-programming-lessons-you-wish-you-knew-sooner-youtube</id>
+        <link href="https://365community.online/12-game-changing-programming-lessons-you-wish-you-knew-sooner-youtube"/>
+        <updated>2024-09-07T12:30:03.000Z</updated>
+        <summary type="html"><![CDATA[12 Game Changing Programming Lessons You Wish You Knew Sooner! – 🤔 Struggling with programming?    Wish you had a roadmap to navigate the coding world more effectively? – 📹 In this video, we unveil:    12 essential programming lessons that could have saved you time, frustration, and countless late nights. – 📚 Key Takeaways: […]]]></summary>
+        <author>
+            <name>Sourav Raj</name>
         </author>
     </entry>
     <entry>
@@ -28,6 +99,16 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minha experiência como desenvolvedor 😃 – YouTube]]></title>
+        <id>https://365community.online/minha-experiencia-como-desenvolvedor-%f0%9f%98%83-youtube</id>
+        <link href="https://365community.online/minha-experiencia-como-desenvolvedor-%f0%9f%98%83-youtube"/>
+        <updated>2024-09-07T11:00:08.000Z</updated>
+        <summary type="html"><![CDATA[source]]></summary>
+        <author>
+            <name>Renato Romao de Souza</name>
         </author>
     </entry>
     <entry>

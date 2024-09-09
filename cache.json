@@ -12831,6 +12831,56 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/how-to-get-the-dataverse-tables-first-row-from-list-rows-in-power-automate",
+          "author": "Arun Potti",
+          "description": "It is quite common requirement to get the Dataverse Table first row’s information from the List rows in the Power Automate. In this article, will explain about the same. Scenario: Get the list of all contacts which has Email address and show the Contact’s first row details (contactid, fullname and emailaddress1). Follow the below steps […]",
+          "link": "https://365community.online/how-to-get-the-dataverse-tables-first-row-from-list-rows-in-power-automate",
+          "publishedOn": "2024-09-08T11:04:14.000Z",
+          "wordCount": 1055,
+          "title": "How to get the Dataverse Table’s first row from List Rows in Power Automate?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/cartao-adaptavel-dentro-do-copilot-e-possivel-youtube",
+          "author": "Renato Romao de Souza",
+          "description": "source",
+          "link": "https://365community.online/cartao-adaptavel-dentro-do-copilot-e-possivel-youtube",
+          "publishedOn": "2024-09-08T11:00:45.000Z",
+          "wordCount": 919,
+          "title": "Cartão adaptável dentro do Copilot é possível??? – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/networking-at-conferences-youtube",
+          "author": "NZ365Guy",
+          "description": "Networking at Conferences. source",
+          "link": "https://365community.online/networking-at-conferences-youtube",
+          "publishedOn": "2024-09-08T06:58:30.000Z",
+          "wordCount": 899,
+          "title": "Networking at Conferences. – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/power-pages-upload-large-files-work-in-progress",
+          "author": "Olena Grischenko",
+          "description": "On the project, we need our portal users to be able to upload large video files. It’s required for incident investigations. As we all know, the large file upload was one of the top asked features. So now we could finally use it with Power Pages. Yay! No code The official documentation is here: Continue […]",
+          "link": "https://365community.online/power-pages-upload-large-files-work-in-progress",
+          "publishedOn": "2024-09-08T06:54:29.000Z",
+          "wordCount": 1048,
+          "title": "Power Pages: Upload large files – work in progress",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/one-conference-two-career-changing-connections-youtube",
+          "author": "NZ365Guy",
+          "description": "One conference, two career-changing connections. source",
+          "link": "https://365community.online/one-conference-two-career-changing-connections-youtube",
+          "publishedOn": "2024-09-07T21:05:21.000Z",
+          "wordCount": 907,
+          "title": "One conference, two career-changing connections. – YouTube",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/power-pages-use-a-custom-rich-text-files-table-to-store-images-and-avoid-exposing-the-full-msdyn_richtextfiles-table",
           "author": "michelcarlo",
           "description": "In my previous post, I explained how to display images from a Dataverse Rich Text field in Power Pages using Liquid. However, this method enables read access to all records in the Rich Text Attachments (msdyn_richtextfiles) table, which might not be ideal in case the Dataverse environment has other functionalities that have private information stored […]",
@@ -12838,6 +12888,26 @@
           "publishedOn": "2024-09-07T13:23:00.000Z",
           "wordCount": 1215,
           "title": "Power Pages: Use a custom Rich Text Files table to store images (and avoid exposing the full msdyn_richtextfiles table)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/12-game-changing-programming-lessons-you-wish-you-knew-sooner-youtube",
+          "author": "Sourav Raj",
+          "description": "12 Game Changing Programming Lessons You Wish You Knew Sooner! – 🤔 Struggling with programming?    Wish you had a roadmap to navigate the coding world more effectively? – 📹 In this video, we unveil:    12 essential programming lessons that could have saved you time, frustration, and countless late nights. – 📚 Key Takeaways: […]",
+          "link": "https://365community.online/12-game-changing-programming-lessons-you-wish-you-knew-sooner-youtube",
+          "publishedOn": "2024-09-07T12:30:03.000Z",
+          "wordCount": 1631,
+          "title": "12 Game Changing Programming Lessons You Wish You Knew Sooner! – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/minha-experiencia-como-desenvolvedor-%f0%9f%98%83-youtube",
+          "author": "Renato Romao de Souza",
+          "description": "source",
+          "link": "https://365community.online/minha-experiencia-como-desenvolvedor-%f0%9f%98%83-youtube",
+          "publishedOn": "2024-09-07T11:00:08.000Z",
+          "wordCount": 913,
+          "title": "Minha experiência como desenvolvedor 😃 – YouTube",
           "imageUrl": null
         },
         {
@@ -27955,6 +28025,16 @@
       "feedUrl": "https://dynamicspedia.com/feed/",
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
+        {
+          "id": "https://dynamicspedia.com/?p=19160",
+          "author": "André Arnaud de Calavon",
+          "description": "For various reasons, you would like to read business data from or write data to the Dynamics 365 F&O database without enforcing security in the user context. For example, a user might not have access to various tables, like parameters or configuration. In this post, I talk about how to access and write data using […]\nThe post How to bypass table security in X++ coding appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2024/09/how-to-bypass-table-security-in-x-coding/",
+          "publishedOn": "2024-09-08T11:22:41.000Z",
+          "wordCount": 4565,
+          "title": "How to bypass table security in X++ coding",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2024/09/Unchecked.jpg"
+        },
         {
           "id": "https://dynamicspedia.com/?p=19103",
           "author": "André Arnaud de Calavon",
