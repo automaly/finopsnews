@@ -1261,6 +1261,16 @@
       "siteUrl": "https://azureintegrations.com",
       "articles": [
         {
+          "id": "http://azureintegrations.com/?p=1523",
+          "author": "Poojith Jain",
+          "description": "Introduction The introduction of OpenAI on Azure enables the integration of ChatGPT with existing enterprise data through Azure OpenAI and Azure AI Search in .NET (or any front-end) applications. These services enhance business operations using advanced Natural Language Processing (NLP), allowing organizations to develop efficient Enterprise Knowledge Management and Customer Support systems. This post discussesContinue reading \"Leveraging Azure OpenAI and Cognitive Search for Enterprise AI Applications\"",
+          "link": "https://azureintegrations.com/2024/09/08/building-intelligent-apps-with-retrieval-augmented-generation-rag-on-azure/",
+          "publishedOn": "2024-09-08T15:52:00.000Z",
+          "wordCount": 4537,
+          "title": "Leveraging Azure OpenAI and Cognitive Search for Enterprise AI Applications",
+          "imageUrl": "https://azureintegrations.com/wp-content/uploads/2024/09/enterprise-data-with-azure-openai-and-ai-search-3-1.png"
+        },
+        {
           "id": "http://azureintegrations.com/?p=1424",
           "author": "Poojith Jain",
           "description": "In the development of distributed systems and cloud-based applications, extensive logging is crucial in monitoring, troubleshooting, and ensuring system reliability. When it comes to Azure integration components, effective logging becomes even more critical due to the distributed nature of the applications and the multitude of services involved. In this blog, I would like to discussContinue reading \"Advanced Logging and Monitoring for Azure Integration Components using OpenAI\"",
@@ -1571,6 +1581,46 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=118329",
+          "author": "Dynamics Square USA",
+          "description": "In this digitized world, businesses are embracing ERP systems to streamline their operations, such as finances, sales, and more. In 2024, it was reported that 24% of companies use ERP […]\nThe post Is Microsoft Dynamics 365 Business Central the Right ERP Solution for Your Business?  appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2024/09/is-business-central-the-right-erp-solution-for-your-business/",
+          "publishedOn": "2024-09-09T15:00:39.000Z",
+          "wordCount": 7583,
+          "title": "Is Microsoft Dynamics 365 Business Central the Right ERP Solution for Your Business?",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Business-Central-1-1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=118332",
+          "author": "Sabre Limited",
+          "description": "Small businesses today face the challenge of choosing the right cloud-based ERP system. With so many options available, it can be hard to know which solution will fit both your […]\nThe post Top Cloud ERP Systems for Small Manufacturing Businesses  appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2024/09/top-cloud-erp-systems-for-small-manufacturing-businesses/",
+          "publishedOn": "2024-09-09T14:12:54.000Z",
+          "wordCount": 4656,
+          "title": "Top Cloud ERP Systems for Small Manufacturing Businesses",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Top-Cloud-ERP-Systems.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=118324",
+          "author": "Dynamics Square UK",
+          "description": "The Major Question - Is it Possible?  Absolutely! Integrating ChatGPT with Dynamics 365 Finance & Operations (F&O) can significantly enhance your business operations by providing advanced AI capabilities. ChatGPT's natural […]\nThe post Utilizing the Power of ChatGPT: Integrating with Dynamics 365 Finance & Operations appeared first on ERP Software Blog.\nDynamics 365 F&O: Your Key to Unlocking Financial Agility in a Digital Age\nFrom Inventory Headaches to AI-powered Harmony: How Dynamics 365 F&O Optimizes Your Supply Chain\nMaximizing Product Margins: VyasTec's SPA & Chargeback Management for Microsoft D365",
+          "link": "https://erpsoftwareblog.com/2024/09/chatgpt-integrating-with-dynamics-365-finance-operations/",
+          "publishedOn": "2024-09-09T09:56:42.000Z",
+          "wordCount": 4431,
+          "title": "Utilizing the Power of ChatGPT: Integrating with Dynamics 365 Finance & Operations",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/download-2.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=118303",
+          "author": "Written by Steve Simon, PDG Consultants, Inc., www.prettydarngood.com.",
+          "description": "Please watch this 9-Minute video where we used AL Code to expose the \"Pre-Assigned Invoice No\" (original Sales Invoice Number) in the UnApply Customer Invoice List Page, so that Customer […]\nThe post Making Business Central Receivables easier with AL appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2024/09/making-business-central-receivables-easier-with-al/",
+          "publishedOn": "2024-09-09T03:42:01.000Z",
+          "wordCount": 4504,
+          "title": "Making Business Central Receivables easier with AL",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/what-is-AL-8-300x300.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=118262",
           "author": "Dynamics Square USA",
@@ -12004,6 +12054,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=63572",
+          "author": "Akbor Chowdhury",
+          "description": "October 2024 Changes to License Prices for Some Microsoft Dynamics 365 Products\nMicrosoft is increasing the pricing of some Dynamics 365 products for the first time in nearly 5 years. This change will go into effect on October 1, 2024, and have implications for some Dynamics 365 customers. Note that there are no changes to Dynamics 365 Business Central license prices. See below for a summary of...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/changes-d365-pricing-2024/",
+          "publishedOn": "2024-09-09T19:34:59.000Z",
+          "wordCount": 1411,
+          "title": "October 2024 Changes to License Prices for Some Microsoft Dynamics 365 Products",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2022/05/D365-Img-1.jpg"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=45749",
           "author": "Don McNulty",
           "description": "Why You Need Jet Reports Instead of Jet Basics for Dynamics GP\nIf you’re a Dynamics GP user, Jet Basics is no longer available for installation on new machines but will continue functioning with existing installations. This article will discuss the discontinuation of Jet Basics and what options are available through Jet Reports to help users maintain and enhance their reporting efficiency in Dynamics GP. Jet Basics...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -12830,6 +12890,66 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/fixed-the-attempted-operation-is-prohibited-because-it-exceeds-the-list-view-threshold-error-sharepoint-online",
+          "author": "Nishant Rana",
+          "description": "While trying to load all the files in a particular folder for processing, we got the below error The attempted operation is prohibited because it exceeds the list view threshold – Microsoft.SharePoint.SPQueryThrottledException The folder we were targeting contained 25K files in it. (the default threshold – 5000 items) So we updated our code to make […]",
+          "link": "https://365community.online/fixed-the-attempted-operation-is-prohibited-because-it-exceeds-the-list-view-threshold-error-sharepoint-online",
+          "publishedOn": "2024-09-09T20:30:00.000Z",
+          "wordCount": 1165,
+          "title": "Fixed – The attempted operation is prohibited because it exceeds the list view threshold error– SharePoint Online",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-use-copilot-to-analyze-cloud-flow-runs",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Power Automate 2024 Wave 2. The 3rd of the new functionality in the Desktop flows section is use Copilot to analyze cloud flow runs. Copilot […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-use-copilot-to-analyze-cloud-flow-runs",
+          "publishedOn": "2024-09-09T14:00:12.000Z",
+          "wordCount": 1091,
+          "title": "New Functionality In Microsoft Power Automate 2024 Wave 2: Use Copilot To Analyze Cloud Flow Runs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-monitor-manage-your-automations-and-related-assets",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Power Automate 2024 Wave 2. The 2nd of the new functionality in the Desktop flows section is monitor, manage your automations and related assets. The […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-monitor-manage-your-automations-and-related-assets",
+          "publishedOn": "2024-09-09T12:00:39.000Z",
+          "wordCount": 1086,
+          "title": "New Functionality In Microsoft Power Automate 2024 Wave 2: Monitor, Manage Your Automations And Related Assets",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/mentoria-de-carreiras-na-power-platform-e-ia-generativa-com-copilot-youtube",
+          "author": "Renato Romao de Souza",
+          "description": "source",
+          "link": "https://365community.online/mentoria-de-carreiras-na-power-platform-e-ia-generativa-com-copilot-youtube",
+          "publishedOn": "2024-09-09T11:00:23.000Z",
+          "wordCount": 933,
+          "title": "Mentoria de carreiras na Power Platform e IA Generativa com Copilot – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-use-cyberark-credentials-in-desktop-flow-connections",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Power Automate 2024 Wave 2. The 1st of the new functionality in the Desktop flows section is use CyberArk credentials in desktop flow connections. You […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-use-cyberark-credentials-in-desktop-flow-connections",
+          "publishedOn": "2024-09-09T10:00:03.000Z",
+          "wordCount": 1090,
+          "title": "New Functionality In Microsoft Power Automate 2024 Wave 2: Use Cyberark Credentials In Desktop Flow Connections",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/streamline-your-service-management-with-business-central-2024-new-archiving-capabilities",
+          "author": "Saurav Dhyani",
+          "description": "Hi Readers, Managing the Evolution of Service Documents Service documents, like quotes, orders, and contracts, often undergo changes throughout their lifecycle. To ensure data integrity and maintain a clear audit trail, Business Central 2024 introduces robust archiving capabilities specifically tailored for service management. Key Benefits of Archiving Service Documents: Enhanced Data Control:… Continue Reading Saurav […]",
+          "link": "https://365community.online/streamline-your-service-management-with-business-central-2024-new-archiving-capabilities",
+          "publishedOn": "2024-09-09T05:30:00.000Z",
+          "wordCount": 1024,
+          "title": "Streamline Your Service Management with Business Central 2024: New Archiving Capabilities.",
+          "imageUrl": null
+        },
         {
           "id": "https://365community.online/how-to-get-the-dataverse-tables-first-row-from-list-rows-in-power-automate",
           "author": "Arun Potti",
@@ -30331,6 +30451,16 @@
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
         {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/30/copilot-for-dynamics-365-commerce-revolutionizes-retail-with-ai/",
+          "author": "Ashish Harchwani",
+          "description": "Discover how Copilot for Dynamics 365 Commerce can help you deliver personalized customer experiences, optimize product management, and streamline retail operations for store associates, managers, and back-office staff with AI.\nThe post Copilot for Dynamics 365 Commerce revolutionizes retail with AI appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/30/copilot-for-dynamics-365-commerce-revolutionizes-retail-with-ai/",
+          "publishedOn": "2024-08-30T17:00:00.000Z",
+          "wordCount": 3564,
+          "title": "Copilot for Dynamics 365 Commerce revolutionizes retail with AI",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/08/CLO22_Retail_019-1024x683.jpg"
+        },
+        {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/08/29/transforming-erp-and-the-speed-of-business-with-generative-ai/",
           "author": "Francois van Splunder",
           "description": "Enterprise resource planning (ERP) platforms were designed to help integrate the fragmented processes that comprise the operation of a large enterprise. But the way we do business keeps fundamentally changing. New business models disrupt the way companies sell products and services, blurring industry lines and transforming customer experiences.\nThe post Transforming ERP, and the speed of business, with generative AI appeared first on Microsoft Dynamics 365 Blog.",
@@ -34250,6 +34380,16 @@
       "feedUrl": "https://erconsult.eu/feed/",
       "siteUrl": "https://erconsult.eu/",
       "articles": [
+        {
+          "id": "https://erconsult.eu/?p=8518",
+          "author": "Eugen Glasow",
+          "description": "The Austrian PEPPOL e-invoice in Dynamics 365 Finance has several issues, including mandatory customer requisition, missing PO line references, supplier email requirements.\nThe post Austrian Peppol-UBL e-invoice appeared first on ER-Consult.",
+          "link": "https://erconsult.eu/blog/austrian-peppol-ubl-e-invoice/",
+          "publishedOn": "2024-09-09T11:01:04.000Z",
+          "wordCount": 1971,
+          "title": "Austrian Peppol-UBL e-invoice",
+          "imageUrl": "https://erconsult.eu/wp-content/uploads/2024/09/Austrian_EInvoice.png"
+        },
         {
           "id": "https://erconsult.eu/?p=8369",
           "author": "Eugen Glasow",
