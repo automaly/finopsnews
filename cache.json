@@ -1582,6 +1582,26 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=118401",
+          "author": "Dynamics Square USA",
+          "description": "Are you stuck between in-house implementation and hiring a Microsoft Dynamics Partner? Microsoft Dynamics 365 is a leading solution to streamline business operations. But when it comes to implementing Microsoft […]\nThe post Microsoft Dynamics Partner vs. In-House Implementation: Which Is Right for You?  appeared first on ERP Software Blog.\nThe Essential Guide to Choosing a Microsoft Dynamics Partner\nMicrosoft Dynamics Delivers Choice and Value in Its Support and Maintenance Offerings\nWhich is More Important When Looking for ERP Software Today – Price or Differentiation?",
+          "link": "https://erpsoftwareblog.com/2024/09/microsoft-dynamics-partners-vs-in-house-implementation/",
+          "publishedOn": "2024-09-12T14:18:07.000Z",
+          "wordCount": 4657,
+          "title": "Microsoft Dynamics Partner vs. In-House Implementation: Which Is Right for You?",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Microsoft-Dynamics-Partners-vs.-In-House-Implementation.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=118392",
+          "author": "Dynamics Square AU",
+          "description": "Have you ever thought about how optimising your business operations could boost efficiency and financial performance? That’s where modern ERP systems come in. By integrating core processes like finance, HR, […]\nThe post Save 10% on Dynamics 365 Business Central – Exclusive Offer for New Customers! appeared first on ERP Software Blog.\nMobile Warehouse Management Solution for Business Central\nHow advanced warehouse management system overcome warehouse challenges?\nHow secure and compliant is your Government Contracting Business with Business Central",
+          "link": "https://erpsoftwareblog.com/2024/09/save-10-on-dynamics-365-business-central-to-boost-efficiency-now/",
+          "publishedOn": "2024-09-12T08:11:06.000Z",
+          "wordCount": 4594,
+          "title": "Save 10% on Dynamics 365 Business Central – Exclusive Offer for New Customers!",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=118383",
           "author": "Michael Intravartolo",
           "description": "Microsoft Dynamics 365 Business Central leads the way in the ever-evolving field of artificial intelligence, having invented breakthroughs that have helped over 30,000 small and medium-sized businesses succeed. Microsoft Copilot, […]\nThe post Business Central Copilot | The Definitive Guide appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central: The Future of Distribution Accounting\nThe Impact of Artificial Intelligence (AI) on Warehouse Management\nWhat’s New in Microsoft Dynamics 365 Business Central 2023 Wave 2",
@@ -12184,6 +12204,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=63401",
+          "author": "Rod Irwin",
+          "description": "Benefits of Microsoft Copilot in Dynamics 365 CRM Solutions\nMicrosoft Copilot, an AI-powered assistant, is transforming how we interact with Dynamics 365 CRM Solutions. It’s not just a tool; it’s your personal assistant within Dynamics 365 CRM applications, designed to streamline your day-to-day operations and enhance efficiencies. Having had the opportunity to integrate Copilot into my daily workflow, I’ve experienced firsthand how it can...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/benefits-of-microsoft-copilot-in-d365-crm-solutions/",
+          "publishedOn": "2024-09-12T13:38:50.000Z",
+          "wordCount": 1858,
+          "title": "Benefits of Microsoft Copilot in Dynamics 365 CRM Solutions",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2024/09/Copilot-CRM-Solutions-1024x683.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=64547",
           "author": "Tracey Santos",
           "description": "Microsoft Dynamics On-Premise Price Changes October 2024\nMicrosoft has announced price changes to its on-premise service plans and on-premise pricing which impacts Dynamics GP, Dynamics NAV, and Dynamics 365 Business Central on-premise customers. Dynamics On-Premise Subscription Pricing Effective October 1, 2024, on-premise subscription pricing for Dynamics GP, Dynamics NAV, and Dynamics 365 Business Central on-premise Standard User will increase between a range...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -13041,6 +13071,66 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/configuracion-e-instalacion-de-copilot-for-finance-en-business-central",
+          "author": "jarmesto",
+          "description": "¿Que es Copilot for Finance? Copilot for Finance acelera el tiempo de impacto para los profesionales financieros al ofrecer insights que apoyan la toma de decisiones estratégicas y reducen el tiempo dedicado a tareas manuales y repetitivas. Esta herramienta empodera a los equipos financieros para mantenerse concentrados en su flujo de trabajo, conectando de manera […]",
+          "link": "https://365community.online/configuracion-e-instalacion-de-copilot-for-finance-en-business-central",
+          "publishedOn": "2024-09-12T15:00:00.000Z",
+          "wordCount": 1050,
+          "title": "Configuración e Instalación de Copilot for Finance en Business Central",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/top-5-challenges-in-territory-management-and-solutions-with-integrated-maps-in-dynamics-365",
+          "author": "Inogic",
+          "description": "Sabrina was the last person to leave the conference room, exhausted from the meeting. However, she felt a sense of relief as things were starting to fall into place. The quarterly report revealed that eight of her sales managers were focusing solely on clients in the western region of the country. While the other three […]",
+          "link": "https://365community.online/top-5-challenges-in-territory-management-and-solutions-with-integrated-maps-in-dynamics-365",
+          "publishedOn": "2024-09-12T10:33:36.000Z",
+          "wordCount": 1341,
+          "title": "Top 5 Challenges in Territory Management and Solutions with Integrated Maps in Dynamics 365",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/in-the-for-a-selected-record-v3-microsoft-dynamics-365-business-central-trigger-in-power-automate-the-record-url-is-avalable-without-using-get-url-v3-action",
+          "author": "Ian Grieve",
+          "description": "I am writing a few related series at the moment, includong In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I… which is a sub-series of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series […]",
+          "link": "https://365community.online/in-the-for-a-selected-record-v3-microsoft-dynamics-365-business-central-trigger-in-power-automate-the-record-url-is-avalable-without-using-get-url-v3-action",
+          "publishedOn": "2024-09-12T10:00:13.000Z",
+          "wordCount": 1148,
+          "title": "In the “For a selected Record V3” Microsoft Dynamics 365 Business Central Trigger in Power Automate, the Record URL is Avalable Without Using “Get url V3” Action",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/how-many-of-are-you-are-in-this-phase-youtube",
+          "author": "Sourav Raj",
+          "description": "How many of are you are in this phase? source",
+          "link": "https://365community.online/how-many-of-are-you-are-in-this-phase-youtube",
+          "publishedOn": "2024-09-12T06:55:21.000Z",
+          "wordCount": 933,
+          "title": "How many of are you are in this phase? – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/error-in-power-automate-theres-a-problem-that-needs-to-be-fixed-to-trigger-this-flow-to-see-more-details-open-flow-checker",
+          "author": "Arun Potti",
+          "description": "I was getting the below error after opening the Power Automate. There’s a problem that needs to be fixed to trigger this flow. To see more details, open Flow checker. Followed the below steps to resolve this issue. Step 1: Clicked on the Flow checker to see the Errors. Step 2: As per the error, there […]",
+          "link": "https://365community.online/error-in-power-automate-theres-a-problem-that-needs-to-be-fixed-to-trigger-this-flow-to-see-more-details-open-flow-checker",
+          "publishedOn": "2024-09-12T04:05:55.000Z",
+          "wordCount": 1140,
+          "title": "Error in Power Automate: There’s a problem that needs to be fixed to trigger this flow. To see more details, open Flow checker.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/introducing-scottish-summit-2024-i-silver-sponsor-i-lightning-tools-youtube",
+          "author": "Scottish Summit",
+          "description": "source",
+          "link": "https://365community.online/introducing-scottish-summit-2024-i-silver-sponsor-i-lightning-tools-youtube",
+          "publishedOn": "2024-09-11T18:47:24.000Z",
+          "wordCount": 928,
+          "title": "Introducing Scottish Summit 2024 I Silver Sponsor I Lightning Tools – YouTube",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/advanced-data-security-tactics-youtube",
           "author": "shabaz darr",
           "description": "Learn advanced data security tactics to protect data at rest, in motion, and in use. Prepare for the SC-100 Exam with these essential strategies. Episode Breakdown: 00:00 – Episode Intro 00:29 – Episode Breakdown 01:05 – Design a solution for protection of data at rest, data in motion, and data in use 04:53 – Data […]",
@@ -13048,6 +13138,16 @@
           "publishedOn": "2024-09-11T14:15:01.000Z",
           "wordCount": 994,
           "title": "Advanced Data Security Tactics – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/carl-cookson-busts-pub-quiz-myth-youtube-2",
+          "author": "Scottish Summit",
+          "description": "It’s an episode packed full of revelations this time around! Carl ‘Cooky’ Cookson has some news which will leave Ana shocked! Also, stay tuned for news of another exclusive Scottish Summit charity initiative that will have the community lip-syncing for their lives. source",
+          "link": "https://365community.online/carl-cookson-busts-pub-quiz-myth-youtube-2",
+          "publishedOn": "2024-09-11T13:34:59.000Z",
+          "wordCount": 958,
+          "title": "Carl Cookson Busts Pub Quiz Myth – YouTube",
           "imageUrl": null
         },
         {
@@ -27854,6 +27954,16 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=6647",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2024/09/12/d365fo-vs-self-created-power-platform-financial-period-close-workspace/",
+          "publishedOn": "2024-09-12T11:44:25.000Z",
+          "wordCount": 3431,
+          "title": "D365FO vs. Self-created Power Platform Financial Period Close Workspace",
+          "imageUrl": "https://dynamicsax-fico.com/wp-content/uploads/2024/08/titleenglish.png"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=6357",
           "author": "Ludwig Reinhard",
           "description": "Visit the post for more.",
@@ -30730,6 +30840,26 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/09/04/all-in-on-ai-exploring-microsofts-ai-journey-through-customer-service/",
+          "author": "Carissa Eicholz",
+          "description": "Our customer service teams are using AI solutions like Microsoft Copilot to ensure our customer service employees are empowered to focus on the most meaningful parts of their jobs.\nThe post All in on AI: Exploring Microsoft’s AI journey through customer service appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/09/04/all-in-on-ai-exploring-microsofts-ai-journey-through-customer-service/",
+          "publishedOn": "2024-09-04T15:00:00.000Z",
+          "wordCount": 3748,
+          "title": "All in on AI: Exploring Microsoft’s AI journey through customer service",
+          "imageUrl": "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2024/07/MSFT_Cloud_JUN17_211112_Blog_Blogheader_240617_V04.png"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/09/03/try-the-first-party-whatsapp-channel-in-dynamics-365-contact-center/",
+          "author": "Yan Gao",
+          "description": "In today’s digital landscape, the success of customer service on social media hinges on the quality of care provided to customers. It’s essential for communications from agents to be timely, accurate, sensitive, brief, and friendly to enhance customer satisfaction and foster brand loyalty. To support this, we are excited to introduce the first-party WhatsApp channel\nThe post Try the first-party WhatsApp channel in Dynamics 365 Contact Center appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/09/03/try-the-first-party-whatsapp-channel-in-dynamics-365-contact-center/",
+          "publishedOn": "2024-09-03T20:01:06.000Z",
+          "wordCount": 3083,
+          "title": "Try the first-party WhatsApp channel in Dynamics 365 Contact Center",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2023/11/CLO22_Cafe_009_600.jpg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/30/copilot-for-dynamics-365-commerce-revolutionizes-retail-with-ai/",
           "author": "Ashish Harchwani",
@@ -34789,16 +34919,6 @@
           "wordCount": 2430,
           "title": "Batch jobs in D365: a Russian roulette",
           "imageUrl": "https://erconsult.eu/wp-content/uploads/2022/09/TaskRevolverDrum_small.png"
-        },
-        {
-          "id": "https://erconsult.eu/?p=7143",
-          "author": "Eugen Glasow",
-          "description": "Engineering and construction projects are mostly offered at a fixed price and almost every time require a down payment from the client. In Dynamics 365 for Finance, this is reflected by a Fixed-price project. Our accountants wish to book the advance payment invoice in the Balance sheet (Liability) and the partial or final invoice in the Profit & Loss section (Turnover). Yet in the case of a Fixed fee project, there is no difference between down, partial and final payments in standard Dynamics 365 for Finance: everything is a milestone with a certain amount. We suggest creating a special VAT group to control the Advance payment milestone ledger integration.\nThe post Advance payment invoices in Fixed fee projects in D365, D-A-CH style appeared first on ER-Consult.",
-          "link": "https://erconsult.eu/blog/advance-payment-invoices-in-fixed-fee-projects-in-d365-d-a-ch-style/",
-          "publishedOn": "2022-09-13T14:10:30.000Z",
-          "wordCount": 2820,
-          "title": "Advance payment invoices in Fixed fee projects in D365, D-A-CH style",
-          "imageUrl": "https://erconsult.eu/wp-content/uploads/2022/09/Anzahlungsrechnungen.png"
         }
       ]
     },
