@@ -13161,6 +13161,16 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/easy-steps-to-set-up-email-notifications-and-never-miss-an-alert-in-dynamics-365",
+          "author": "Inogic",
+          "description": "For managers, keeping track of crucial CRM alerts and notifications is vital for smooth operations and timely decisions. However, with the constant flow of alerts from different CRM activities, it’s easy to overlook important updates, leading to missed actions and delays. Alert4Dynamics by Inogic is designed to solve this problem for users of Dynamics 365 […]",
+          "link": "https://365community.online/easy-steps-to-set-up-email-notifications-and-never-miss-an-alert-in-dynamics-365",
+          "publishedOn": "2024-09-15T09:23:13.000Z",
+          "wordCount": 1343,
+          "title": "Easy Steps to Set Up Email Notifications and Never Miss an Alert in Dynamics 365",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/digital-marketing-fundamentals-what-is-digital-marketing-digital-marketing-training-mindmajix-youtube",
           "author": "Jaya Sri",
           "description": "In this video we are talking about the Digital Marketing. We covered fundamentals of digital marketing and its basic terms, role of a website, different types of websites and introduction to wordpress. Whether you’re a beginner or looking to enhance your skills, this digital marketing training has everything you need to succeed in today’s digital […]",
@@ -13168,6 +13178,16 @@
           "publishedOn": "2024-09-14T12:00:59.000Z",
           "wordCount": 1145,
           "title": "Digital Marketing Fundamentals | What is Digital Marketing | Digital Marketing Training | MindMajix – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/heart-ke-lafde-hojaayenge%f0%9f%a7%98-youtube",
+          "author": "Sourav Raj",
+          "description": "Heart ke lafde hojaayenge🧘 source",
+          "link": "https://365community.online/heart-ke-lafde-hojaayenge%f0%9f%a7%98-youtube",
+          "publishedOn": "2024-09-14T11:53:51.000Z",
+          "wordCount": 913,
+          "title": "Heart ke lafde hojaayenge🧘 – YouTube",
           "imageUrl": null
         },
         {
@@ -13228,6 +13248,16 @@
           "publishedOn": "2024-09-13T10:00:42.000Z",
           "wordCount": 1071,
           "title": "Working with Power Automate: Calculate 30 Days Ago",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/have-you-completed-your-project-%f0%9f%99%83%f0%9f%99%83-youtube",
+          "author": "Sourav Raj",
+          "description": "Have you completed your project 🙃🙃 source",
+          "link": "https://365community.online/have-you-completed-your-project-%f0%9f%99%83%f0%9f%99%83-youtube",
+          "publishedOn": "2024-09-13T07:44:27.000Z",
+          "wordCount": 921,
+          "title": "Have you completed your project 🙃🙃 – YouTube",
           "imageUrl": null
         },
         {
@@ -34738,16 +34768,6 @@
           "wordCount": 4958,
           "title": "Multithreaded Execution Of The Calculate Sales Totals Batch Job in Dynamics 365 Finance and Operations",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1663610026036%2F_zGt0Rekq.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
-        },
-        {
-          "id": "https://d365cliffsnotes.com/design-cooking-metaphor-for-business-unit-company-in-dynamics-365-fo-dataverse",
-          "author": "Rakesh Darge",
-          "description": "In my previous post, we learned company semantics as well as security construct in Dynamics 365 FO & Dataverse especially when Dual-write & Virtual entity technologies are involved.\nIn this blog post, you will learn how these two different concepts are getting configured in multiple legal entities' business scenarios and how it works under the hood.\nWe will also understand what product offers as part of Out-of-box capability & some of the recommended design configurations based on my learning.\nBusiness scenario\nCliffsNotes is a fictitious organization, planning to implement Cross apps functionality using Dynamics 365 Customer Engagement Apps, Power apps & Dynamics 365 Finance and Operations Apps. CliffsNotes operates in India & Europe geographies as part of its line of business. Therefore,…",
-          "link": "https://d365cliffsnotes.com/design-cooking-metaphor-for-business-unit-company-in-dynamics-365-fo-dataverse",
-          "publishedOn": "2022-09-17T12:09:21.000Z",
-          "wordCount": 8551,
-          "title": "Design Cooking Metaphor for Business Unit & Company in Dynamics 365 FO & Dataverse",
-          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1663416230956%2FhG7cF0m4n.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         }
       ]
     },
@@ -34885,16 +34905,6 @@
           "wordCount": 3740,
           "title": "Restoring DB from Tier 2 environments with improved security connections using new DACFx framework",
           "imageUrl": "https://elearnd365.files.wordpress.com/2023/02/point_in_time.png"
-        },
-        {
-          "id": "http://elearnd365.com/?p=579",
-          "author": "Sukrut Parab",
-          "description": "Database upgrade in lift and shift ugrades runs with SQL replication process. Steps for this process are very well documented here – https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/data-upgrade-self-service Ax 2012 Data upgrade in self-service enviornment tech talk can be found here (https://community.dynamics.com/365/dynamics-365-fasttrack/b/techtalks/posts/techtalk-ax2012-data-upgrade-in-self-service-environment-july-16-2021)  Below you can find some learning from my experience on using AX 2012 database upgrade toolkit and overall […]",
-          "link": "https://elearnd365.com/2022/09/16/ax-2012-to-d365-fo-data-base-upgrade-best-practices-things-to-look-at/",
-          "publishedOn": "2022-09-16T23:45:17.000Z",
-          "wordCount": 3799,
-          "title": "AX 2012 to D365 F&O Data base upgrade best practices / things to look at.",
-          "imageUrl": "https://elearnd365.files.wordpress.com/2022/09/replication.png"
         }
       ]
     },
@@ -35089,16 +35099,6 @@
           "wordCount": 1836,
           "title": "Enumerate lines in Configurable Business Documents",
           "imageUrl": "https://erconsult.eu/wp-content/uploads/2017/04/ER_Cookbook.jpg"
-        },
-        {
-          "id": "https://erconsult.eu/?p=7211",
-          "author": "Eugen Glasow",
-          "description": "Real world production scenarios include automated batch tasks executed in the background with some cadence: Batch processing overview – Finance & Operations. They apply to sets of documents fetched at the run time, for example to sales orders delivered, but not invoiced yet. Obviously, every day the query with the documents […]\nThe post Batch jobs in D365: a Russian roulette appeared first on ER-Consult.",
-          "link": "https://erconsult.eu/blog/batch-jobs-in-d365-a-russian-roulette/",
-          "publishedOn": "2022-09-17T12:19:09.000Z",
-          "wordCount": 2430,
-          "title": "Batch jobs in D365: a Russian roulette",
-          "imageUrl": "https://erconsult.eu/wp-content/uploads/2022/09/TaskRevolverDrum_small.png"
         }
       ]
     },
