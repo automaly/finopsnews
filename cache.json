@@ -384,26 +384,6 @@
           "wordCount": 273,
           "title": "Add new fields to data entity or composite entity Dynamics 365",
           "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
-        },
-        {
-          "id": "https://dynamics365.github.io/2022-09-18-admin-provisioning-tools/",
-          "author": "Max Nguyen",
-          "description": "After restoring database backup, you want to be able to login to Dynamics 365 Finance Operations with different ternant, you need to use the admin provisioning tool to assign a new tenant.\nBefore 10.0.23 verison\nThe admin provisioning tool can be found at\nVHD: C:\\AOSService\\PackagesLocalDirectory\\bin\\AdminUserProvisioning.exe\nCloud- hosted: K:\\AOSService\\PackagesLocalDirectory\\bin\\AdminUserProvisioning.exe\nAfter running Provisioning.exe wtih admin right, you will see the update for the admin user in SQL.\nImage\n\">\n        \n    userinfo\n    \nSome errors you might face:\nFailure\n        \nCan not stop the DynamicsAXBatch service on computer\nFailure\n        \nExecution Timeout Expired. The timeout period elapsed prior to completion of the operation or the server is not responding.\nFailure\n       …",
-          "link": "https://dynamics365.github.io/2022-09-18-admin-provisioning-tools/",
-          "publishedOn": "2022-09-18T00:00:00.000Z",
-          "wordCount": 555,
-          "title": "Admin provisioning tools in Dynamics 365 Finance Operations",
-          "imageUrl": "https://dynamics365.github.io/Icon/mstile-150x150.png"
-        },
-        {
-          "id": "https://nuxulu.com/2022-09-18-admin-provisioning-tools/",
-          "author": "Max Nguyen",
-          "description": "After restoring database backup, you want to be able to login to Dynamics 365 Finance Operations with different ternant, you need to use the admin provisioning tool to assign a new tenant.\nBefore 10.0.23 verison\nThe admin provisioning tool can be found at\nVHD: C:\\AOSService\\PackagesLocalDirectory\\bin\\AdminUserProvisioning.exe\nCloud- hosted: K:\\AOSService\\PackagesLocalDirectory\\bin\\AdminUserProvisioning.exe\nAfter running Provisioning.exe wtih admin right, you will see the update for the admin user in SQL.\nImage\n\">\n        \n    userinfo\n    \nSome errors you might face:\nFailure\n        \nCan not stop the DynamicsAXBatch service on computer\nFailure\n        \nExecution Timeout Expired. The timeout period elapsed prior to completion of the operation or the server is not responding.\nFailure\n       …",
-          "link": "https://nuxulu.com/2022-09-18-admin-provisioning-tools/",
-          "publishedOn": "2022-09-18T00:00:00.000Z",
-          "wordCount": 554,
-          "title": "Admin provisioning tools in Dynamics 365 Finance Operations",
-          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
         }
       ]
     },
@@ -1581,6 +1561,86 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=118549",
+          "author": "Red Maple",
+          "description": "Are you looking to enhance your Microsoft Dynamics 365 Finance & Operations, Business Central, Sales, or Field Service software with secure payment processing? Red Maple’s comprehensive payment solutions offer everything […]\nThe post Streamlining Payment Processing in Microsoft Dynamics 365 with Red Maple appeared first on ERP Software Blog.\nGuide to Payment Processing in Microsoft Dynamics ERP\nB2B vs. B2C eCommerce: What's the difference and why does it matter?\nAvoid Payroll & Payment Pitfalls",
+          "link": "https://erpsoftwareblog.com/2024/09/streamlining-payment-processing-in-microsoft-dynamics-365-with-red-maple/",
+          "publishedOn": "2024-09-17T00:33:04.000Z",
+          "wordCount": 7515,
+          "title": "Streamlining Payment Processing in Microsoft Dynamics 365 with Red Maple",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2024-09-Streamlining-Payment-Processing-with-Red-Maple-for-Microsoft-Dynamics-365_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=118540",
+          "author": "Insight Works",
+          "description": "Discover eight powerful Business Central free apps that help manufacturers, warehouse managers, and retail operations streamline processes and improve efficiency without extra costs. \nThe post Eight Free Business Central Apps That You’ll Wish You Had appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2024/09/eight-free-business-central-apps-that-youll-wish-you-had/",
+          "publishedOn": "2024-09-16T21:36:02.000Z",
+          "wordCount": 7110,
+          "title": "Eight Free Business Central Apps That You’ll Wish You Had",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Free-Apps-1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=118537",
+          "author": "Open Door Technology",
+          "description": "Selecting the right Microsoft Dynamics 365 Business Central partner to ensure a successful ERP implementation can be tricky! It’s difficult to know what to look for to help you achieve […]\nThe post 6 Qualities to Look for When Choosing a Dynamics 365 Business Central Partner appeared first on ERP Software Blog.\nBAM BOOM CLOUD RECEIVE THE MICROSOFT SMALL & MIDSIZE BUSINESS MANAGEMENT ADVANCED SPECIALIZATION.\nMicrosoft Dynamics 365 Business Central ERP Implementation: Ask Yourself ‘Which Features Do I Really Need?’\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve",
+          "link": "https://erpsoftwareblog.com/2024/09/6-qualities-to-look-for-when-choosing-a-dynamics-365-business-central-partner/",
+          "publishedOn": "2024-09-16T21:19:14.000Z",
+          "wordCount": 7721,
+          "title": "6 Qualities to Look for When Choosing a Dynamics 365 Business Central Partner",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ERP-18.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=118098",
+          "author": "ERP Software Blog Writer",
+          "description": "Are you wondering about the cost of Microsoft Dynamics ERP? At the ERP Software Blog, we're dedicated to helping you navigate the world of Microsoft Dynamics ERP solutions. Our goal […]\nThe post Discover the Cost of Microsoft Dynamics ERP Instantly appeared first on ERP Software Blog.\nHow Much Will You Pay for Microsoft Dynamics ERP? Find out Instantly.\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve\nSelf-Service Analytics: Exploring Your ERP Data for Maximum Insights",
+          "link": "https://erpsoftwareblog.com/2024/09/discover-the-cost-of-microsoft-dynamics-erp-instantly/",
+          "publishedOn": "2024-09-16T20:34:29.000Z",
+          "wordCount": 7079,
+          "title": "Discover the Cost of Microsoft Dynamics ERP Instantly",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=118527",
+          "author": "Accountnet, Inc.",
+          "description": "Unlocking Superior Reporting with Microsoft Dynamics In today’s rapidly evolving business landscape, cloud computing and advanced financial reporting aren’t just trends—they’re essential for transformation. For small and midsize businesses, Microsoft […]\nThe post Unlocking Superior Reporting with Microsoft Dynamics appeared first on ERP Software Blog.\nHow are AP and AR the 2 Sides of The Same Coin?\n2 Demo Days - Microsoft Dynamics GP and 365 Business Central\nAccounts Payable Trends to Watch Out for in 2022",
+          "link": "https://erpsoftwareblog.com/2024/09/unlocking-superior-reporting-with-microsoft-dynamics/",
+          "publishedOn": "2024-09-16T19:42:27.000Z",
+          "wordCount": 4190,
+          "title": "Unlocking Superior Reporting with Microsoft Dynamics",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/People-Working-03.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=118297",
+          "author": "Steven Chinsky, Accelerynt",
+          "description": "Did you know you can simplify your distribution processes by connecting specific sales orders to purchases? If you're using Microsoft Dynamics NAV or Microsoft Dynamics 365 Business Central (BC), there […]\nThe post Drop Shipments and Special Orders: Do Both with Microsoft Dynamics NAV/365 BC appeared first on ERP Software Blog.\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve",
+          "link": "https://erpsoftwareblog.com/2024/09/drop-shipments-and-special-orders-do-both-with-microsoft-dynamics-nav-365-bc/",
+          "publishedOn": "2024-09-16T17:19:13.000Z",
+          "wordCount": 5044,
+          "title": "Drop Shipments and Special Orders: Do Both with Microsoft Dynamics NAV/365 BC",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2024-09-Drop-Shipments-and-Special-Orders-Do-Both-with-Microsoft-Dynamics-NAV365-BC_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=118516",
+          "author": "Michael Intravartolo",
+          "description": "Excel and Business Central: A Perfect Match When managing data in Microsoft Dynamics 365 Business Central, keeping information up-to-date is essential—whether it's ensuring customer email details are correct for billing […]\nThe post How to: Using The Business Central Excel Integration appeared first on ERP Software Blog.\nLearn How To Save Time By Using The \"Cancel\" Option to Reverse A Posted Sales Invoice\nCreate A New Item In Dynamics 365 Business Central\nFour Newly Released Business Central Features To Improve Your Team’s Efficiency",
+          "link": "https://erpsoftwareblog.com/2024/09/how-to-using-the-business-central-excel-integration/",
+          "publishedOn": "2024-09-16T17:08:15.000Z",
+          "wordCount": 4389,
+          "title": "How to: Using The Business Central Excel Integration",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Business-Central-Excel-Integration.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=118499",
+          "author": "MetaOption LLC",
+          "description": "In today’s business world, warehouses are the backbone of many companies, which ensures that products are stored efficiently, orders are processed quickly, and deliveries are made on time. A warehouse’s […]\nThe post When Your Warehouse Management Software Needs an Upgrade? appeared first on ERP Software Blog.\nWithoutWire™ Partial Picking – Minimizing the Impact of Changing Sales Orders\nBig Ideas for Big Data Bring Inventory Optimization\n“It’s an App-world after all”",
+          "link": "https://erpsoftwareblog.com/2024/09/when-your-warehouse-management-software-needs-an-upgrade/",
+          "publishedOn": "2024-09-16T12:52:36.000Z",
+          "wordCount": 4393,
+          "title": "When Your Warehouse Management Software Needs an Upgrade?",
+          "imageUrl": "https://www.metaoption.com/blog/wp-content/uploads/2024/09/post-banner-130924.jpg"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=118495",
           "author": "PartnerTalks",
@@ -12294,6 +12354,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=63553",
+          "author": "The Encore Team",
+          "description": "Overcoming the Top 8 Obstacles for Data Governance in Manufacturing\nCoordination between different systems and team members is essential for the smooth operation of manufacturing processes, including discrete and ETO manufacturing. Data governance, in particular, plays a vital role in the success of manufacturing operations. Despite its importance, however, a survey from Weforum and Boston Consulting Group shows that a meager one-third of manufacturing executives...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/data-governance-in-manufacturing-overcoming-top-challenges/",
+          "publishedOn": "2024-09-16T13:55:22.000Z",
+          "wordCount": 2820,
+          "title": "Overcoming the Top 8 Obstacles for Data Governance in Manufacturing",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/10/D365FO-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=63401",
           "author": "Rod Irwin",
           "description": "Benefits of Microsoft Copilot in Dynamics 365 CRM Solutions\nMicrosoft Copilot, an AI-powered assistant, is transforming how we interact with Dynamics 365 CRM Solutions. It’s not just a tool; it’s your personal assistant within Dynamics 365 CRM applications, designed to streamline your day-to-day operations and enhance efficiencies. Having had the opportunity to integrate Copilot into my daily workflow, I’ve experienced firsthand how it can...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -13160,6 +13230,86 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/bypass-power-automate-flows-using-suppresscallbackregistrationexpanderjob-optional-parameter-dataverse-dynamics-365",
+          "author": "Nishant Rana",
+          "description": "Using the SuppressCallbackRegistrationExpanderJob optional parameter in our Request object, we can bypass the execution of the flows registered against that particular event/trigger. We have a flow registered on the update event of the lead record. Now let us create a lead record through SDK. We can see our flow triggered. Now let us add the […]",
+          "link": "https://365community.online/bypass-power-automate-flows-using-suppresscallbackregistrationexpanderjob-optional-parameter-dataverse-dynamics-365",
+          "publishedOn": "2024-09-16T20:30:00.000Z",
+          "wordCount": 1145,
+          "title": "Bypass Power Automate Flows using SuppressCallbackRegistrationExpanderJob optional parameter – Dataverse / Dynamics 365",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/why-you-need-to-prioritize-azure-storage-and-sql-security-youtube",
+          "author": "shabaz darr",
+          "description": "Learn why prioritizing Azure Storage and SQL security is crucial for protecting your data. Prepare for the SC-100 exam with tips on Azure Storage security and Defender for SQL. Episode Breakdown – 00:00 – Episode Summary 00:43 – Episode Breakdown 01:04 – Security for Azure Storage 06:15 – Defender for SQL and Defender for Storage […]",
+          "link": "https://365community.online/why-you-need-to-prioritize-azure-storage-and-sql-security-youtube",
+          "publishedOn": "2024-09-16T14:15:01.000Z",
+          "wordCount": 1011,
+          "title": "Why you need to prioritize Azure Storage and SQL security – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/what-happens-when-you-hide-outbound-marketing",
+          "author": "Megan V. Walker",
+          "description": "If you are using Customer Insights – Journeys and did so before it became Realtime Marketing only (prior to September 2023), Outbound Marketing is still a thing for you. However, as you SHOULD know, Microsoft have announced that June 2025 is when it will truly go away for good. Hopefully you’ve already started making that […]",
+          "link": "https://365community.online/what-happens-when-you-hide-outbound-marketing",
+          "publishedOn": "2024-09-16T12:16:10.000Z",
+          "wordCount": 1024,
+          "title": "What Happens When You Hide Outbound Marketing?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-find-records-v3-action",
+          "author": "Ian Grieve",
+          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I… series, a sub-series of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I […]",
+          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-find-records-v3-action",
+          "publishedOn": "2024-09-16T10:00:33.000Z",
+          "wordCount": 1104,
+          "title": "In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I…  Use the “Find records V3” Action",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/unified-routing-diagnostics-in-azure",
+          "author": "Neil Parkhurst",
+          "description": "You may (or may not) be aware that the diagnostics option in Unified Routing has been deprecated. It is being replaced by diagnostics in Azure Application Insights. As of September 2024, I believe the existing routing diagnostics are too due to be deprecated in October. But you may need to check for the latest details. […]",
+          "link": "https://365community.online/unified-routing-diagnostics-in-azure",
+          "publishedOn": "2024-09-16T09:35:46.000Z",
+          "wordCount": 1012,
+          "title": "Unified Routing – Diagnostics in Azure",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/steps-to-add-copilot-control-to-your-rich-text-editor",
+          "author": "Inogic",
+          "description": "Copilot is a powerful AI tool that enhances user experience by providing intelligent suggestions and automation. Whether you’re composing emails or working on other forms, Copilot helps you draft content faster and more efficiently by offering contextual recommendations and completing sentences based on the text you’ve already written. This feature is designed to boost productivity, […]",
+          "link": "https://365community.online/steps-to-add-copilot-control-to-your-rich-text-editor",
+          "publishedOn": "2024-09-16T09:17:12.000Z",
+          "wordCount": 1318,
+          "title": "Steps to Add Copilot Control to Your Rich Text Editor",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/database-inserts-code-data-entity-comparison",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 09/15/24. Last modified:  09/15/24 Reading this article is a good place to start as we continue testing but with data entities for the same table. We review performance from a Microsoft-hosted Sandbox environment as well a (new) PPAC-hosted Unified Development Environment, or UDE, which used to be known as a UNO […]",
+          "link": "https://365community.online/database-inserts-code-data-entity-comparison",
+          "publishedOn": "2024-09-16T03:41:56.000Z",
+          "wordCount": 1046,
+          "title": "Database Inserts – Code Data Entity Comparison",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/achieving-work-life-lego-balance-with-craig-white-youtube",
+          "author": "Scottish Summit",
+          "description": "Get ready for an inspiring episode of the Power Platform Podcast! We’re sitting down with Ecosystem Engineer Craig White, a master of balancing it all—family, hobbies, a thriving blog, and leading countless community initiatives. Want to know his secrets to stay on top while still enjoying life? You won’t want to miss this conversation! Plus, […]",
+          "link": "https://365community.online/achieving-work-life-lego-balance-with-craig-white-youtube",
+          "publishedOn": "2024-09-15T10:10:17.000Z",
+          "wordCount": 978,
+          "title": "Achieving Work-Life-Lego Balance with Craig White – YouTube",
+          "imageUrl": null
+        },
         {
           "id": "https://365community.online/easy-steps-to-set-up-email-notifications-and-never-miss-an-alert-in-dynamics-365",
           "author": "Inogic",
@@ -29020,6 +29170,16 @@
       "siteUrl": "https://fernitudela.dev",
       "articles": [
         {
+          "id": "http://fernitudela.dev/?p=1628",
+          "author": "Fernando Tudela Desantes",
+          "description": "In this video, we are going to see in detail the different Electronic reporting Data Source types that have methods, and how to use them. We will see with an example how to call and use a method with parameters, and also in the post you will find a brief summary of the video with all the content in a very short read, for the blog post format lovers out there. I promise both formats are worth the time! … More Use of Methods in D365FO Electronic Reporting Explained. Table vs Table Records & Class vs Object.",
+          "link": "https://fernitudela.dev/2024/09/16/use-of-methods-in-d365fo-electronic-reporting-explained-table-vs-table-records-class-vs-object/",
+          "publishedOn": "2024-09-16T10:53:35.000Z",
+          "wordCount": 3961,
+          "title": "Use of Methods in D365FO Electronic Reporting Explained. Table vs Table Records & Class vs Object.",
+          "imageUrl": "https://fernitudela.dev/wp-content/uploads/2024/09/featured-image.png?w=1200"
+        },
+        {
           "id": "http://fernitudela.dev/?p=1586",
           "author": "Fernando Tudela Desantes",
           "description": "In a previous post, I explained how I did to migrate all the existing ERs of a project to Dataverse. But what about the new ER reports or versions created after that? After months of not knowing what the new development/deployment cycle will look like due to the deprecation of RCS and the move to Dataverse, we finally have an answer! There is a new functionality to streamline the process of uploading to the Dataverse repository your Electronic Reporting objects right after you have developed and tested them in your development environment! That way you will be able to easily distribute them to all the different environments and also keep all your reports in one place, making easier to avoid ending up having divergent versions of the same report. \n\nThis functionality is included into the Upload into repository (that it normally worked so-so), but that now is a live safer/changer for all the ER developers that want to do the things correctly and use a Repository. … More Upload your Electronic Reporting objects to Dataverse solution automatically – How the new ALM in ER will look like.",
@@ -30509,6 +30669,16 @@
       "feedUrl": "http://atomicax.com/rss.xml",
       "siteUrl": "https://www.atomicax.com/frontpage",
       "articles": [
+        {
+          "id": "1695 at https://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "Submitted by Nathan Clouse on 09/15/24.\n\n\nLast modified: \n\n09/15/24\n\n\n\n\n\n\n\n\n\n\n\n\nReading this article is a good place to start as we continue testing but with data entities for the same table. We review performance from a Microsoft-hosted Sandbox environment as well a (new) PPAC-hosted Unified Development Environment, or UDE, which used to be known as a UNO environment - Unified Operations. In the charts below, The \"DEV' label is a standard Dev VM deployed in Azure with the defaults taken from LCS ( most importantly just 3 disks ). The \"TST\" label is for a standard Microsoft hosted Sandbox as a UAT environment available as part of the standard license offering. Lastly, the \"UNO\" label is for a new PPAC based development environment. This time, however, i got some very unexpected results.\nSi…",
+          "link": "https://www.atomicax.com/article/database-inserts-code-data-entity-comparison",
+          "publishedOn": "2024-09-16T03:41:56.000Z",
+          "wordCount": 1991,
+          "title": "Database Inserts - Code Data Entity Comparison",
+          "imageUrl": null
+        },
         {
           "id": "1709 at https://www.atomicax.com",
           "author": "Nathan Clouse",

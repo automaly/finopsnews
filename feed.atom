@@ -2,10 +2,254 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-09-16T00:52:45.231Z</updated>
+    <updated>2024-09-17T00:40:17.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Streamlining Payment Processing in Microsoft Dynamics 365 with Red Maple]]></title>
+        <id>https://erpsoftwareblog.com/?p=118549</id>
+        <link href="https://erpsoftwareblog.com/2024/09/streamlining-payment-processing-in-microsoft-dynamics-365-with-red-maple/"/>
+        <updated>2024-09-17T00:33:04.000Z</updated>
+        <summary type="html"><![CDATA[Are you looking to enhance your Microsoft Dynamics 365 Finance & Operations, Business Central, Sales, or Field Service software with secure payment processing? Red Maple’s comprehensive payment solutions offer everything […]
+The post Streamlining Payment Processing in Microsoft Dynamics 365 with Red Maple appeared first on ERP Software Blog.
+Guide to Payment Processing in Microsoft Dynamics ERP
+B2B vs. B2C eCommerce: What's the difference and why does it matter?
+Avoid Payroll & Payment Pitfalls]]></summary>
+        <author>
+            <name>Red Maple</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eight Free Business Central Apps That You’ll Wish You Had]]></title>
+        <id>https://erpsoftwareblog.com/?p=118540</id>
+        <link href="https://erpsoftwareblog.com/2024/09/eight-free-business-central-apps-that-youll-wish-you-had/"/>
+        <updated>2024-09-16T21:36:02.000Z</updated>
+        <summary type="html"><![CDATA[Discover eight powerful Business Central free apps that help manufacturers, warehouse managers, and retail operations streamline processes and improve efficiency without extra costs. 
+The post Eight Free Business Central Apps That You’ll Wish You Had appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Qualities to Look for When Choosing a Dynamics 365 Business Central Partner]]></title>
+        <id>https://erpsoftwareblog.com/?p=118537</id>
+        <link href="https://erpsoftwareblog.com/2024/09/6-qualities-to-look-for-when-choosing-a-dynamics-365-business-central-partner/"/>
+        <updated>2024-09-16T21:19:14.000Z</updated>
+        <summary type="html"><![CDATA[Selecting the right Microsoft Dynamics 365 Business Central partner to ensure a successful ERP implementation can be tricky! It’s difficult to know what to look for to help you achieve […]
+The post 6 Qualities to Look for When Choosing a Dynamics 365 Business Central Partner appeared first on ERP Software Blog.
+BAM BOOM CLOUD RECEIVE THE MICROSOFT SMALL & MIDSIZE BUSINESS MANAGEMENT ADVANCED SPECIALIZATION.
+Microsoft Dynamics 365 Business Central ERP Implementation: Ask Yourself ‘Which Features Do I Really Need?’
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve]]></summary>
+        <author>
+            <name>Open Door Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discover the Cost of Microsoft Dynamics ERP Instantly]]></title>
+        <id>https://erpsoftwareblog.com/?p=118098</id>
+        <link href="https://erpsoftwareblog.com/2024/09/discover-the-cost-of-microsoft-dynamics-erp-instantly/"/>
+        <updated>2024-09-16T20:34:29.000Z</updated>
+        <summary type="html"><![CDATA[Are you wondering about the cost of Microsoft Dynamics ERP? At the ERP Software Blog, we're dedicated to helping you navigate the world of Microsoft Dynamics ERP solutions. Our goal […]
+The post Discover the Cost of Microsoft Dynamics ERP Instantly appeared first on ERP Software Blog.
+How Much Will You Pay for Microsoft Dynamics ERP? Find out Instantly.
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+Self-Service Analytics: Exploring Your ERP Data for Maximum Insights]]></summary>
+        <author>
+            <name>ERP Software Blog Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bypass Power Automate Flows using SuppressCallbackRegistrationExpanderJob optional parameter – Dataverse / Dynamics 365]]></title>
+        <id>https://365community.online/bypass-power-automate-flows-using-suppresscallbackregistrationexpanderjob-optional-parameter-dataverse-dynamics-365</id>
+        <link href="https://365community.online/bypass-power-automate-flows-using-suppresscallbackregistrationexpanderjob-optional-parameter-dataverse-dynamics-365"/>
+        <updated>2024-09-16T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Using the SuppressCallbackRegistrationExpanderJob optional parameter in our Request object, we can bypass the execution of the flows registered against that particular event/trigger. We have a flow registered on the update event of the lead record. Now let us create a lead record through SDK. We can see our flow triggered. Now let us add the […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlocking Superior Reporting with Microsoft Dynamics]]></title>
+        <id>https://erpsoftwareblog.com/?p=118527</id>
+        <link href="https://erpsoftwareblog.com/2024/09/unlocking-superior-reporting-with-microsoft-dynamics/"/>
+        <updated>2024-09-16T19:42:27.000Z</updated>
+        <summary type="html"><![CDATA[Unlocking Superior Reporting with Microsoft Dynamics In today’s rapidly evolving business landscape, cloud computing and advanced financial reporting aren’t just trends—they’re essential for transformation. For small and midsize businesses, Microsoft […]
+The post Unlocking Superior Reporting with Microsoft Dynamics appeared first on ERP Software Blog.
+How are AP and AR the 2 Sides of The Same Coin?
+2 Demo Days - Microsoft Dynamics GP and 365 Business Central
+Accounts Payable Trends to Watch Out for in 2022]]></summary>
+        <author>
+            <name>Accountnet, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drop Shipments and Special Orders: Do Both with Microsoft Dynamics NAV/365 BC]]></title>
+        <id>https://erpsoftwareblog.com/?p=118297</id>
+        <link href="https://erpsoftwareblog.com/2024/09/drop-shipments-and-special-orders-do-both-with-microsoft-dynamics-nav-365-bc/"/>
+        <updated>2024-09-16T17:19:13.000Z</updated>
+        <summary type="html"><![CDATA[Did you know you can simplify your distribution processes by connecting specific sales orders to purchases? If you're using Microsoft Dynamics NAV or Microsoft Dynamics 365 Business Central (BC), there […]
+The post Drop Shipments and Special Orders: Do Both with Microsoft Dynamics NAV/365 BC appeared first on ERP Software Blog.
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve]]></summary>
+        <author>
+            <name>Steven Chinsky, Accelerynt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to: Using The Business Central Excel Integration]]></title>
+        <id>https://erpsoftwareblog.com/?p=118516</id>
+        <link href="https://erpsoftwareblog.com/2024/09/how-to-using-the-business-central-excel-integration/"/>
+        <updated>2024-09-16T17:08:15.000Z</updated>
+        <summary type="html"><![CDATA[Excel and Business Central: A Perfect Match When managing data in Microsoft Dynamics 365 Business Central, keeping information up-to-date is essential—whether it's ensuring customer email details are correct for billing […]
+The post How to: Using The Business Central Excel Integration appeared first on ERP Software Blog.
+Learn How To Save Time By Using The "Cancel" Option to Reverse A Posted Sales Invoice
+Create A New Item In Dynamics 365 Business Central
+Four Newly Released Business Central Features To Improve Your Team’s Efficiency]]></summary>
+        <author>
+            <name>Michael Intravartolo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why you need to prioritize Azure Storage and SQL security – YouTube]]></title>
+        <id>https://365community.online/why-you-need-to-prioritize-azure-storage-and-sql-security-youtube</id>
+        <link href="https://365community.online/why-you-need-to-prioritize-azure-storage-and-sql-security-youtube"/>
+        <updated>2024-09-16T14:15:01.000Z</updated>
+        <summary type="html"><![CDATA[Learn why prioritizing Azure Storage and SQL security is crucial for protecting your data. Prepare for the SC-100 exam with tips on Azure Storage security and Defender for SQL. Episode Breakdown – 00:00 – Episode Summary 00:43 – Episode Breakdown 01:04 – Security for Azure Storage 06:15 – Defender for SQL and Defender for Storage […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overcoming the Top 8 Obstacles for Data Governance in Manufacturing]]></title>
+        <id>https://www.encorebusiness.com/?p=63553</id>
+        <link href="https://www.encorebusiness.com/blog/data-governance-in-manufacturing-overcoming-top-challenges/"/>
+        <updated>2024-09-16T13:55:22.000Z</updated>
+        <summary type="html"><![CDATA[Overcoming the Top 8 Obstacles for Data Governance in Manufacturing
+Coordination between different systems and team members is essential for the smooth operation of manufacturing processes, including discrete and ETO manufacturing. Data governance, in particular, plays a vital role in the success of manufacturing operations. Despite its importance, however, a survey from Weforum and Boston Consulting Group shows that a meager one-third of manufacturing executives...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>The Encore Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Your Warehouse Management Software Needs an Upgrade?]]></title>
+        <id>https://erpsoftwareblog.com/?p=118499</id>
+        <link href="https://erpsoftwareblog.com/2024/09/when-your-warehouse-management-software-needs-an-upgrade/"/>
+        <updated>2024-09-16T12:52:36.000Z</updated>
+        <summary type="html"><![CDATA[In today’s business world, warehouses are the backbone of many companies, which ensures that products are stored efficiently, orders are processed quickly, and deliveries are made on time. A warehouse’s […]
+The post When Your Warehouse Management Software Needs an Upgrade? appeared first on ERP Software Blog.
+WithoutWire™ Partial Picking – Minimizing the Impact of Changing Sales Orders
+Big Ideas for Big Data Bring Inventory Optimization
+“It’s an App-world after all”]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happens When You Hide Outbound Marketing?]]></title>
+        <id>https://365community.online/what-happens-when-you-hide-outbound-marketing</id>
+        <link href="https://365community.online/what-happens-when-you-hide-outbound-marketing"/>
+        <updated>2024-09-16T12:16:10.000Z</updated>
+        <summary type="html"><![CDATA[If you are using Customer Insights – Journeys and did so before it became Realtime Marketing only (prior to September 2023), Outbound Marketing is still a thing for you. However, as you SHOULD know, Microsoft have announced that June 2025 is when it will truly go away for good. Hopefully you’ve already started making that […]]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use of Methods in D365FO Electronic Reporting Explained. Table vs Table Records & Class vs Object.]]></title>
+        <id>http://fernitudela.dev/?p=1628</id>
+        <link href="https://fernitudela.dev/2024/09/16/use-of-methods-in-d365fo-electronic-reporting-explained-table-vs-table-records-class-vs-object/"/>
+        <updated>2024-09-16T10:53:35.000Z</updated>
+        <summary type="html"><![CDATA[In this video, we are going to see in detail the different Electronic reporting Data Source types that have methods, and how to use them. We will see with an example how to call and use a method with parameters, and also in the post you will find a brief summary of the video with all the content in a very short read, for the blog post format lovers out there. I promise both formats are worth the time! … More Use of Methods in D365FO Electronic Reporting Explained. Table vs Table Records & Class vs Object.]]></summary>
+        <author>
+            <name>Fernando Tudela Desantes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I…  Use the “Find records V3” Action]]></title>
+        <id>https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-find-records-v3-action</id>
+        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-find-records-v3-action"/>
+        <updated>2024-09-16T10:00:33.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I… series, a sub-series of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unified Routing – Diagnostics in Azure]]></title>
+        <id>https://365community.online/unified-routing-diagnostics-in-azure</id>
+        <link href="https://365community.online/unified-routing-diagnostics-in-azure"/>
+        <updated>2024-09-16T09:35:46.000Z</updated>
+        <summary type="html"><![CDATA[You may (or may not) be aware that the diagnostics option in Unified Routing has been deprecated. It is being replaced by diagnostics in Azure Application Insights. As of September 2024, I believe the existing routing diagnostics are too due to be deprecated in October. But you may need to check for the latest details. […]]]></summary>
+        <author>
+            <name>Neil Parkhurst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steps to Add Copilot Control to Your Rich Text Editor]]></title>
+        <id>https://365community.online/steps-to-add-copilot-control-to-your-rich-text-editor</id>
+        <link href="https://365community.online/steps-to-add-copilot-control-to-your-rich-text-editor"/>
+        <updated>2024-09-16T09:17:12.000Z</updated>
+        <summary type="html"><![CDATA[Copilot is a powerful AI tool that enhances user experience by providing intelligent suggestions and automation. Whether you’re composing emails or working on other forms, Copilot helps you draft content faster and more efficiently by offering contextual recommendations and completing sentences based on the text you’ve already written. This feature is designed to boost productivity, […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Database Inserts – Code Data Entity Comparison]]></title>
+        <id>https://365community.online/database-inserts-code-data-entity-comparison</id>
+        <link href="https://365community.online/database-inserts-code-data-entity-comparison"/>
+        <updated>2024-09-16T03:41:56.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 09/15/24. Last modified:  09/15/24 Reading this article is a good place to start as we continue testing but with data entities for the same table. We review performance from a Microsoft-hosted Sandbox environment as well a (new) PPAC-hosted Unified Development Environment, or UDE, which used to be known as a UNO […]]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Database Inserts - Code Data Entity Comparison]]></title>
+        <id>1695 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/article/database-inserts-code-data-entity-comparison"/>
+        <updated>2024-09-16T03:41:56.000Z</updated>
+        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 09/15/24.
+
+
+Last modified: 
+
+09/15/24
+
+
+
+
+
+
+
+
+
+
+
+
+Reading this article is a good place to start as we continue testing but with data entities for the same table. We review performance from a Microsoft-hosted Sandbox environment as well a (new) PPAC-hosted Unified Development Environment, or UDE, which used to be known as a UNO environment - Unified Operations. In the charts below, The "DEV' label is a standard Dev VM deployed in Azure with the defaults taken from LCS ( most importantly just 3 disks ). The "TST" label is for a standard Microsoft hosted Sandbox as a UAT environment available as part of the standard license offering. Lastly, the "UNO" label is for a new PPAC based development environment. This time, however, i got some very unexpected results.
+Si…]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Achieving Work-Life-Lego Balance with Craig White – YouTube]]></title>
+        <id>https://365community.online/achieving-work-life-lego-balance-with-craig-white-youtube</id>
+        <link href="https://365community.online/achieving-work-life-lego-balance-with-craig-white-youtube"/>
+        <updated>2024-09-15T10:10:17.000Z</updated>
+        <summary type="html"><![CDATA[Get ready for an inspiring episode of the Power Platform Podcast! We’re sitting down with Ecosystem Engineer Craig White, a master of balancing it all—family, hobbies, a thriving blog, and leading countless community initiatives. Want to know his secrets to stay on top while still enjoying life? You won’t want to miss this conversation! Plus, […]]]></summary>
+        <author>
+            <name>Scottish Summit</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Easy Steps to Set Up Email Notifications and Never Miss an Alert in Dynamics 365]]></title>
         <id>https://365community.online/easy-steps-to-set-up-email-notifications-and-never-miss-an-alert-in-dynamics-365</id>
@@ -45766,64 +46010,6 @@ Basically, th…]]></summary>
         <summary type="html"><![CDATA[In Dynamics 365 Finance and Operations the purchase requisition is an internal document that allows users to create purchase requests for products, services and fixed assets for various purposes. An]]></summary>
         <author>
             <name>Ali Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Admin provisioning tools in Dynamics 365 Finance Operations]]></title>
-        <id>https://dynamics365.github.io/2022-09-18-admin-provisioning-tools/</id>
-        <link href="https://dynamics365.github.io/2022-09-18-admin-provisioning-tools/"/>
-        <updated>2022-09-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[After restoring database backup, you want to be able to login to Dynamics 365 Finance Operations with different ternant, you need to use the admin provisioning tool to assign a new tenant.
-Before 10.0.23 verison
-The admin provisioning tool can be found at
-VHD: C:\AOSService\PackagesLocalDirectory\bin\AdminUserProvisioning.exe
-Cloud- hosted: K:\AOSService\PackagesLocalDirectory\bin\AdminUserProvisioning.exe
-After running Provisioning.exe wtih admin right, you will see the update for the admin user in SQL.
-Image
-">
-        
-    userinfo
-    
-Some errors you might face:
-Failure
-        
-Can not stop the DynamicsAXBatch service on computer
-Failure
-        
-Execution Timeout Expired. The timeout period elapsed prior to completion of the operation or the server is not responding.
-Failure
-       …]]></summary>
-        <author>
-            <name>Max Nguyen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Admin provisioning tools in Dynamics 365 Finance Operations]]></title>
-        <id>https://nuxulu.com/2022-09-18-admin-provisioning-tools/</id>
-        <link href="https://nuxulu.com/2022-09-18-admin-provisioning-tools/"/>
-        <updated>2022-09-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[After restoring database backup, you want to be able to login to Dynamics 365 Finance Operations with different ternant, you need to use the admin provisioning tool to assign a new tenant.
-Before 10.0.23 verison
-The admin provisioning tool can be found at
-VHD: C:\AOSService\PackagesLocalDirectory\bin\AdminUserProvisioning.exe
-Cloud- hosted: K:\AOSService\PackagesLocalDirectory\bin\AdminUserProvisioning.exe
-After running Provisioning.exe wtih admin right, you will see the update for the admin user in SQL.
-Image
-">
-        
-    userinfo
-    
-Some errors you might face:
-Failure
-        
-Can not stop the DynamicsAXBatch service on computer
-Failure
-        
-Execution Timeout Expired. The timeout period elapsed prior to completion of the operation or the server is not responding.
-Failure
-       …]]></summary>
-        <author>
-            <name>Max Nguyen</name>
         </author>
     </entry>
 </feed>
