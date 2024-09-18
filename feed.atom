@@ -2,10 +2,164 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-09-17T00:40:17.760Z</updated>
+    <updated>2024-09-18T00:48:29.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Lead Qualification Experience – Dynamics 365 Sales]]></title>
+        <id>https://365community.online/new-lead-qualification-experience-dynamics-365-sales</id>
+        <link href="https://365community.online/new-lead-qualification-experience-dynamics-365-sales"/>
+        <updated>2024-09-17T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[To enable the new lead experience, navigate to App Settings >> Lead + opportunity management in the Sales Hub App. On enabling it, we get the option to specify whether the Account, Contact, and Opportunity records are created automatically or the user (seller) has the option to specify which record to create. We also see […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlock the Power of Dynamics 365 Business Central for Manufacturing at FABTECH 2024]]></title>
+        <id>https://erpsoftwareblog.com/?p=118242</id>
+        <link href="https://erpsoftwareblog.com/2024/09/unlock-the-power-of-dynamics-365-business-central-for-manufacturing-at-fabtech-2024/"/>
+        <updated>2024-09-17T18:17:58.000Z</updated>
+        <summary type="html"><![CDATA[Would you like to know more about the benefits of Microsoft Dynamics 365 Business Central for manufacturing? We invite you to stop by TrinSoft's booth W2290 at FABTECH 2024 in […]
+The post Unlock the Power of Dynamics 365 Business Central for Manufacturing at FABTECH 2024 appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>TrinSoft, LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Complete Guide to Data Visualization and Reporting with Power BI]]></title>
+        <id>https://erpsoftwareblog.com/?p=118582</id>
+        <link href="https://erpsoftwareblog.com/2024/09/a-complete-guide-to-data-visualization-and-reporting-with-power-bi/"/>
+        <updated>2024-09-17T16:49:55.000Z</updated>
+        <summary type="html"><![CDATA[Making sense of vast amounts of information is crucial for businesses. Power BI, a business analytics service by Microsoft, stands out as a powerful tool for data visualization and reporting. […]
+The post A Complete Guide to Data Visualization and Reporting with Power BI appeared first on ERP Software Blog.
+Custom Tech Solutions for Salesforce with Microsoft Power Platform
+Microsoft Dynamics 365 Customer Insights: 6 Reasons to Switch
+Introducing deFacto POWER Planning]]></summary>
+        <author>
+            <name>Aakriti Gaur DAX Software Solutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Five Examples of D365 F&O Implementation Challenges (Part 4)]]></title>
+        <id>https://erpsoftwareblog.com/?p=117964</id>
+        <link href="https://erpsoftwareblog.com/2024/09/five-examples-of-d365-fo-implementation-challenges-part-4/"/>
+        <updated>2024-09-17T13:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Unsound sequence of activities: Fail to cover the basics first, and you will end up with an unstable ERP, built on weak foundations.
+The post Five Examples of D365 F&O Implementation Challenges (Part 4) appeared first on ERP Software Blog.
+The Product-as-a-Service advantage — a potential game-changer for equipment manufacturers
+Register Now for JourneyTEAM’s 2021 Business Technology Summit
+EDI Integration with ERP: What are Your Choices? (Explained with Scenarios)]]></summary>
+        <author>
+            <name>IT Fandango</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Automate with Business Central: Key Features & Benefits Explained]]></title>
+        <id>https://erpsoftwareblog.com/?p=118563</id>
+        <link href="https://erpsoftwareblog.com/2024/09/power-automate-dynamic-365-business-central-features-benefits/"/>
+        <updated>2024-09-17T11:31:43.000Z</updated>
+        <summary type="html"><![CDATA[In the rapidly evolving landscape of business technology, automation is no longer a luxury but a necessity. Microsoft’s Power Automate, integrated with Dynamics 365 Business Central, represents a powerful combination […]
+The post Power Automate with Business Central: Key Features & Benefits Explained appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+How Microsoft Dynamics 365 Business Central Helps Manufacturers Meet Challenges
+Should You Switch from Dynamics GP to Business Central?]]></summary>
+        <author>
+            <name>Dynamics Square AU</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I…  Use the “Find One record V3” Action]]></title>
+        <id>https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-find-one-record-v3-action</id>
+        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-find-one-record-v3-action"/>
+        <updated>2024-09-17T10:00:39.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I… series, a sub-series of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrating Dynamics 365 F&O with a Data Lake: A Step-by-Step Guide]]></title>
+        <id>https://erpsoftwareblog.com/?p=118565</id>
+        <link href="https://erpsoftwareblog.com/2024/09/integrating-dynamics-365-fo-with-a-data-lake/"/>
+        <updated>2024-09-17T09:39:52.000Z</updated>
+        <summary type="html"><![CDATA[Integrating Dynamics 365 F&O with a data lake can provide significant benefits for organizations seeking to leverage their data for analytics and decision-making. Dynamics 365 Finance and Operations (F&O), a […]
+The post Integrating Dynamics 365 F&O with a Data Lake: A Step-by-Step Guide appeared first on ERP Software Blog.
+Fireworks and Marching Bands at Summit 2016. Really.
+A Wake-up Call - A Game Changer Is on the Way
+Hosting Microsoft Dynamics in the Cloud - evaluating IaaS, PaaS and SaaS]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Contact Center – Voice Upgrade Date]]></title>
+        <id>https://365community.online/dynamics-365-contact-center-voice-upgrade-date</id>
+        <link href="https://365community.online/dynamics-365-contact-center-voice-upgrade-date"/>
+        <updated>2024-09-17T09:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Are you using the voice channel of Microsoft’s Dynamics 365 Contact Center (aka Omnichannel for Customer Service)? If you are … you need to be aware that you must  upgrade your voice channel by 31st Dec 2024. Below you can see that Microsoft is sending confirmation of the need to upgrade to all customers using […]]]></summary>
+        <author>
+            <name>Neil Parkhurst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Contact Center – Chat Widget Domains]]></title>
+        <id>https://365community.online/dynamics-365-contact-center-chat-widget-domains</id>
+        <link href="https://365community.online/dynamics-365-contact-center-chat-widget-domains"/>
+        <updated>2024-09-17T08:36:52.000Z</updated>
+        <summary type="html"><![CDATA[Recently I noticed that a couple of my customers hadn’t set the options on their chat widgets to only show on certain domains. If you are using the chat channel within Microsoft’s Dynamics 365 Contact Center …. I would like to suggest that restricting your widget to known domains is important! Therefore, in this post […]]]></summary>
+        <author>
+            <name>Neil Parkhurst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preparing for the Transition to Power Platform Admin Center (PPAC)]]></title>
+        <id>https://365community.online/preparing-for-the-transition-to-power-platform-admin-center-ppac</id>
+        <link href="https://365community.online/preparing-for-the-transition-to-power-platform-admin-center-ppac"/>
+        <updated>2024-09-17T08:08:36.000Z</updated>
+        <summary type="html"><![CDATA[A Unified Future for Admin and Dev Experiences It’s clear the deprecation of Lifecycle Services (LCS) has started as seen in the “LCS System Diagnostics being retired in September 2024 notification message”. Microsoft is removing features from LCS as part of the transition to the Power Platform Admin Center (PPAC). This is a big signal […]]]></summary>
+        <author>
+            <name>Adnane Dalhi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preparing for the Transition to Power Platform Admin Center (PPAC)]]></title>
+        <id>http://dynvision365.com/?p=1518</id>
+        <link href="https://dynvision365.com/2024/09/17/preparing-for-the-transition-to-power-platform-admin-center-ppac/"/>
+        <updated>2024-09-17T08:08:36.000Z</updated>
+        <summary type="html"><![CDATA[A Unified Future for Admin and Dev Experiences It’s clear the deprecation of Lifecycle Services (LCS) has started as seen in the “LCS System Diagnostics being retired in September 2024 notification message”. Microsoft is removing features from LCS as part of the transition to the Power Platform Admin Center (PPAC). This is a big signal … Lire la suite Preparing for the Transition to Power Platform Admin Center (PPAC) →]]></summary>
+        <author>
+            <name>adalhix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Role of AI in Transforming Warehouse Management in ERP Systems]]></title>
+        <id>https://erpsoftwareblog.com/?p=118391</id>
+        <link href="https://erpsoftwareblog.com/2024/09/the-role-of-ai-in-transforming-warehouse-management-in-erp-systems/"/>
+        <updated>2024-09-17T06:53:57.000Z</updated>
+        <summary type="html"><![CDATA[Businesses today need tech-led solutions to enhance their operations and boost efficiency. Artificial Intelligence (AI) has emerged as a true game changer for companies across different industries worldwide. And warehouse […]
+The post The Role of AI in Transforming Warehouse Management in ERP Systems appeared first on ERP Software Blog.
+The Truth About Digital Transformation
+The Product-as-a-Service advantage — a potential game-changer for equipment manufacturers
+Register Now for JourneyTEAM’s 2021 Business Technology Summit]]></summary>
+        <author>
+            <name>DynaTech Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When your manager texts you to push the bug fix ASAP – YouTube]]></title>
+        <id>https://365community.online/when-your-manager-texts-you-to-push-the-bug-fix-asap-youtube</id>
+        <link href="https://365community.online/when-your-manager-texts-you-to-push-the-bug-fix-asap-youtube"/>
+        <updated>2024-09-17T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[When your manager texts you to push the bug fix ASAP source]]></summary>
+        <author>
+            <name>Sourav Raj</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Streamlining Payment Processing in Microsoft Dynamics 365 with Red Maple]]></title>
         <id>https://erpsoftwareblog.com/?p=118549</id>
@@ -87,6 +241,17 @@ Accounts Payable Trends to Watch Out for in 2022]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Announcing the General Availability of the New UX in Field Service Mobile]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/09/16/announcing-the-general-availability-of-the-new-ux-in-field-service-mobile/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/09/16/announcing-the-general-availability-of-the-new-ux-in-field-service-mobile/"/>
+        <updated>2024-09-16T18:04:16.000Z</updated>
+        <summary type="html"><![CDATA[We are thrilled to announce the General Availability (GA) of the new User Experience (UX) in our Field Service Mobile (FSM) application! We heard your feedback during the preview period and are excited to mark this milestone with key enhancements and changes!  When we started this journey, our goal was to deliver an intuitive, modern
+The post Announcing the General Availability of the New UX in Field Service Mobile  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Dhruv Goel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Drop Shipments and Special Orders: Do Both with Microsoft Dynamics NAV/365 BC]]></title>
         <id>https://erpsoftwareblog.com/?p=118297</id>
         <link href="https://erpsoftwareblog.com/2024/09/drop-shipments-and-special-orders-do-both-with-microsoft-dynamics-nav-365-bc/"/>
@@ -112,6 +277,17 @@ Create A New Item In Dynamics 365 Business Central
 Four Newly Released Business Central Features To Improve Your Team’s Efficiency]]></summary>
         <author>
             <name>Michael Intravartolo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IT Governance Controls for Your Copilot agents]]></title>
+        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/it-governance-controls-for-your-copilot-agents/</id>
+        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/it-governance-controls-for-your-copilot-agents/"/>
+        <updated>2024-09-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In today’s rapidly evolving digital landscape, organizations are constantly seeking innovative ways to enhance productivity and streamline operations. Microsoft 365 Copilot is at the forefront of this transformation, offering a suite of governance capabilities that empower organizations to harness the full potential of generative AI. With Microsoft 365 Copilot, makers can develop powerful agents directly
+The post IT Governance Controls for Your Copilot agents appeared first on Microsoft Power Platform Blog.]]></summary>
+        <author>
+            <name>Ryan Jones</name>
         </author>
     </entry>
     <entry>
@@ -159,6 +335,16 @@ Big Ideas for Big Data Bring Inventory Optimization
         <summary type="html"><![CDATA[If you are using Customer Insights – Journeys and did so before it became Realtime Marketing only (prior to September 2023), Outbound Marketing is still a thing for you. However, as you SHOULD know, Microsoft have announced that June 2025 is when it will truly go away for good. Hopefully you’ve already started making that […]]]></summary>
         <author>
             <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Oracle Database Administrator (DBA) | Oracle DBA 19c Training | Oracle DBA 12c Course – YouTube]]></title>
+        <id>https://365community.online/what-is-oracle-database-administrator-dba-oracle-dba-19c-training-oracle-dba-12c-course-youtube</id>
+        <link href="https://365community.online/what-is-oracle-database-administrator-dba-oracle-dba-19c-training-oracle-dba-12c-course-youtube"/>
+        <updated>2024-09-16T12:00:33.000Z</updated>
+        <summary type="html"><![CDATA[In this video we are talking about the Oracle Database Administrator (DBA) 12c & 19c basics. In Oracle DBA training we will understand what they are, the crucial role of an Oracle DBA, and the fundamental concepts of RDBMS. Learn the key differences between Oracle database and instance, explore the architecture of Oracle databases, and […]]]></summary>
+        <author>
+            <name>Jaya Sri</name>
         </author>
     </entry>
     <entry>
@@ -46000,16 +46186,6 @@ In the scenario of Dynamics 365 Cross-apps when Dual-write is installed and all 
 Basically, th…]]></summary>
         <author>
             <name>Rakesh Darge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Process a Purchase Requisition: D365 Finance and Operations]]></title>
-        <id>https://dynamics-tips.com/?p=2345</id>
-        <link href="https://dynamics-tips.com/purchase-requisition/"/>
-        <updated>2022-09-18T19:59:32.000Z</updated>
-        <summary type="html"><![CDATA[In Dynamics 365 Finance and Operations the purchase requisition is an internal document that allows users to create purchase requests for products, services and fixed assets for various purposes. An]]></summary>
-        <author>
-            <name>Ali Khan</name>
         </author>
     </entry>
 </feed>
