@@ -1562,6 +1562,26 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=118633",
+          "author": "Michael Ramatowski",
+          "description": "For new users of Microsoft Dynamics 365 Business Central one of the most frequently asked questions is, “Does Business Central have a list of month end closing tasks?” Not only […]\nThe post How to Close the Month Using a Business Central Dashboard appeared first on ERP Software Blog.\nTo upgrade or not to upgrade: the case for moving from NAV to Dynamics 365 Business Central\nMicrosoft Dynamics 365 Business Central ERP Implementation: Ask Yourself ‘Which Features Do I Really Need?’\nLearn How To Save Time By Using The \"Cancel\" Option to Reverse A Posted Sales Invoice",
+          "link": "https://erpsoftwareblog.com/2024/09/how-to-close-the-month-using-a-business-central-dashboard/",
+          "publishedOn": "2024-09-19T19:21:04.000Z",
+          "wordCount": 7170,
+          "title": "How to Close the Month Using a Business Central Dashboard",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Screenshot-2024-09-19-125921-625x277.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=118630",
+          "author": "Dynamics Square UK",
+          "description": "The Dynamics 365 Business Central Wave 2 updates represent a significant milestone in the evolution of this powerful ERP solution. These updates introduce a wealth of new features and enhancements […]\nThe post Dynamics 365 Business Central Wave 2 Updates: A Comprehensive Exploration appeared first on ERP Software Blog.\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve",
+          "link": "https://erpsoftwareblog.com/2024/09/dynamics-365-business-central-wave-2-updates-a-comprehensive-exploration/",
+          "publishedOn": "2024-09-19T15:18:20.000Z",
+          "wordCount": 7240,
+          "title": "Dynamics 365 Business Central Wave 2 Updates: A Comprehensive Exploration",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/business-central-3.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=118564",
           "author": "Dynamics Square USA",
           "description": "Have you ever wondered why businesses are increasingly adopting ERP solutions? The answer is simple: every company wants to stay ahead of the competition. ERP implementation offers significant benefits, such […]\nThe post Key Benefits of Implementing Microsoft Dynamics ERP for Your Business  appeared first on ERP Software Blog.\nSimplify Credit Card Processing in Microsoft Dynamics GP\nIdentifying Bottlenecks on a SQL Server\nDocument Attachment – One of the Best Reasons to Upgrade to Microsoft Dynamics GP 2013",
@@ -13381,6 +13401,66 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/new-but-not-new-feature",
+          "author": "Jonas Rapp ᴹᴠᴾ ??",
+          "description": "Using Bulk Data Updater can be a bit scary… Which records did I update? Which fields did I change? What did really happen?? I have a soft spot in my heart, and the spot is logging… I’m not a big fan of logs , but I’m a fan of logs . If you have read […]",
+          "link": "https://365community.online/new-but-not-new-feature",
+          "publishedOn": "2024-09-19T15:51:26.000Z",
+          "wordCount": 996,
+          "title": "New-but-not-new feature",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-start-creating-power-automate-flows-with-copilot",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 10th of the new functionality in the Copilot and AI innovation section is start creating […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-start-creating-power-automate-flows-with-copilot",
+          "publishedOn": "2024-09-19T14:00:18.000Z",
+          "wordCount": 1105,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Start Creating Power Automate Flows With Copilot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-see-improved-usability-for-service-and-projects",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 15th of the new functionality in the Application section is see improved usability for service […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-see-improved-usability-for-service-and-projects",
+          "publishedOn": "2024-09-19T12:00:16.000Z",
+          "wordCount": 1103,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: See Improved Usability For Service And Projects",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-enable-locations-in-shopify-refunds",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 14th of the new functionality in the Application section is enable locations in Shopify refunds. […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-enable-locations-in-shopify-refunds",
+          "publishedOn": "2024-09-19T10:00:45.000Z",
+          "wordCount": 1096,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Enable Locations In Shopify Refunds",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/streamlining-e-signatures-in-multi-step-forms-with-power-pages-and-docusign-integration",
+          "author": "Inogic",
+          "description": "The integration between Power Pages and DocuSign simplifies the inclusion of e-signatures in multi-step forms using a low-code Studio interface. By utilizing a Microsoft Power Automate Flow with a DocuSign connector, users can easily view and sign documents. This allows you to seamlessly add a digital signature step to your forms, streamlining the signing process. […]",
+          "link": "https://365community.online/streamlining-e-signatures-in-multi-step-forms-with-power-pages-and-docusign-integration",
+          "publishedOn": "2024-09-19T09:37:09.000Z",
+          "wordCount": 1318,
+          "title": "Streamlining E-Signatures in Multi-Step Forms with Power Pages and DocuSign Integration",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/sharepoint-action-copy-folder-youtube",
+          "author": "Matt Collins",
+          "description": "In this video, I look at the SharePoint action, Copy folder. How this action works, and how you can use it. Blog: https://www.mattcollinsjones.co.uk Twitter/X: https://twitter.com/D365geek LinkedIn: https://www.linkedin.com/in/mattcollins-jones/ Email: dynamics365geek@gmail.com source",
+          "link": "https://365community.online/sharepoint-action-copy-folder-youtube",
+          "publishedOn": "2024-09-19T09:30:29.000Z",
+          "wordCount": 929,
+          "title": "SharePoint Action – Copy folder – YouTube",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/use-optionset-wrapper-component-to-show-color-coded-options-on-the-form-model-driven-apps-dynamics-365",
           "author": "Nishant Rana",
           "description": "We can make use of the OptionSet Wrapper component to show color-coded options on the form for the choices or option set fields. Below we have added the Option Set wrapper component to the Rating field of the lead in the Lead (Main) form. We can see the field added but do not see any […]",
@@ -13398,6 +13478,16 @@
           "publishedOn": "2024-09-18T19:15:58.000Z",
           "wordCount": 1047,
           "title": "Welsh Azure User Group September 2024 Meet Up!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/welsh-azure-user-group-september-2024-event-youtube",
+          "author": "John Lunn",
+          "description": "Welsh Azure User Group – September 2024 Event It was the day of our Welsh Azure User Group #WAUG September 2024 meet up and we had yet another two amazing speakers join us. We were joined by yet another two awesome presenters. First up we had Radu Vunvulea on to discuss the AI Architecture in […]",
+          "link": "https://365community.online/welsh-azure-user-group-september-2024-event-youtube",
+          "publishedOn": "2024-09-18T19:12:23.000Z",
+          "wordCount": 1187,
+          "title": "Welsh Azure User Group  – September 2024 Event – YouTube",
           "imageUrl": null
         },
         {
@@ -28663,6 +28753,21 @@
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
+        {
+          "id": "http://dynamicsax-fico.com/?p=6320",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2024/09/19/microsoft-bizapps-deutschland-podcast-36/",
+          "publishedOn": "2024-09-19T12:45:25.000Z",
+          "wordCount": 3403,
+          "title": "Microsoft BizApps Deutschland Podcast #36",
+          "enclosure": {
+            "url": "https://dynamicsax-fico.com/wp-content/uploads/2024/06/florianlh_v4.mp3",
+            "length": "51949296",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://dynamicsax-fico.com/wp-content/uploads/2024/06/linkedinannouncement1.png"
+        },
         {
           "id": "http://dynamicsax-fico.com/?p=6647",
           "author": "Ludwig Reinhard",

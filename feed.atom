@@ -2,10 +2,108 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-09-19T00:50:08.380Z</updated>
+    <updated>2024-09-20T00:49:50.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Close the Month Using a Business Central Dashboard]]></title>
+        <id>https://erpsoftwareblog.com/?p=118633</id>
+        <link href="https://erpsoftwareblog.com/2024/09/how-to-close-the-month-using-a-business-central-dashboard/"/>
+        <updated>2024-09-19T19:21:04.000Z</updated>
+        <summary type="html"><![CDATA[For new users of Microsoft Dynamics 365 Business Central one of the most frequently asked questions is, “Does Business Central have a list of month end closing tasks?” Not only […]
+The post How to Close the Month Using a Business Central Dashboard appeared first on ERP Software Blog.
+To upgrade or not to upgrade: the case for moving from NAV to Dynamics 365 Business Central
+Microsoft Dynamics 365 Business Central ERP Implementation: Ask Yourself ‘Which Features Do I Really Need?’
+Learn How To Save Time By Using The "Cancel" Option to Reverse A Posted Sales Invoice]]></summary>
+        <author>
+            <name>Michael Ramatowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New-but-not-new feature]]></title>
+        <id>https://365community.online/new-but-not-new-feature</id>
+        <link href="https://365community.online/new-but-not-new-feature"/>
+        <updated>2024-09-19T15:51:26.000Z</updated>
+        <summary type="html"><![CDATA[Using Bulk Data Updater can be a bit scary… Which records did I update? Which fields did I change? What did really happen?? I have a soft spot in my heart, and the spot is logging… I’m not a big fan of logs , but I’m a fan of logs . If you have read […]]]></summary>
+        <author>
+            <name>Jonas Rapp ᴹᴠᴾ ??</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central Wave 2 Updates: A Comprehensive Exploration]]></title>
+        <id>https://erpsoftwareblog.com/?p=118630</id>
+        <link href="https://erpsoftwareblog.com/2024/09/dynamics-365-business-central-wave-2-updates-a-comprehensive-exploration/"/>
+        <updated>2024-09-19T15:18:20.000Z</updated>
+        <summary type="html"><![CDATA[The Dynamics 365 Business Central Wave 2 updates represent a significant milestone in the evolution of this powerful ERP solution. These updates introduce a wealth of new features and enhancements […]
+The post Dynamics 365 Business Central Wave 2 Updates: A Comprehensive Exploration appeared first on ERP Software Blog.
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Start Creating Power Automate Flows With Copilot]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-start-creating-power-automate-flows-with-copilot</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-start-creating-power-automate-flows-with-copilot"/>
+        <updated>2024-09-19T14:00:18.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 10th of the new functionality in the Copilot and AI innovation section is start creating […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #36]]></title>
+        <id>http://dynamicsax-fico.com/?p=6320</id>
+        <link href="https://dynamicsax-fico.com/2024/09/19/microsoft-bizapps-deutschland-podcast-36/"/>
+        <updated>2024-09-19T12:45:25.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: See Improved Usability For Service And Projects]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-see-improved-usability-for-service-and-projects</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-see-improved-usability-for-service-and-projects"/>
+        <updated>2024-09-19T12:00:16.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 15th of the new functionality in the Application section is see improved usability for service […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Enable Locations In Shopify Refunds]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-enable-locations-in-shopify-refunds</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-enable-locations-in-shopify-refunds"/>
+        <updated>2024-09-19T10:00:45.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 14th of the new functionality in the Application section is enable locations in Shopify refunds. […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamlining E-Signatures in Multi-Step Forms with Power Pages and DocuSign Integration]]></title>
+        <id>https://365community.online/streamlining-e-signatures-in-multi-step-forms-with-power-pages-and-docusign-integration</id>
+        <link href="https://365community.online/streamlining-e-signatures-in-multi-step-forms-with-power-pages-and-docusign-integration"/>
+        <updated>2024-09-19T09:37:09.000Z</updated>
+        <summary type="html"><![CDATA[The integration between Power Pages and DocuSign simplifies the inclusion of e-signatures in multi-step forms using a low-code Studio interface. By utilizing a Microsoft Power Automate Flow with a DocuSign connector, users can easily view and sign documents. This allows you to seamlessly add a digital signature step to your forms, streamlining the signing process. […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SharePoint Action – Copy folder – YouTube]]></title>
+        <id>https://365community.online/sharepoint-action-copy-folder-youtube</id>
+        <link href="https://365community.online/sharepoint-action-copy-folder-youtube"/>
+        <updated>2024-09-19T09:30:29.000Z</updated>
+        <summary type="html"><![CDATA[In this video, I look at the SharePoint action, Copy folder. How this action works, and how you can use it. Blog: https://www.mattcollinsjones.co.uk Twitter/X: https://twitter.com/D365geek LinkedIn: https://www.linkedin.com/in/mattcollins-jones/ Email: dynamics365geek@gmail.com source]]></summary>
+        <author>
+            <name>Matt Collins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Use OptionSet Wrapper component to show color-coded options on the form – Model-driven apps/ Dynamics 365]]></title>
         <id>https://365community.online/use-optionset-wrapper-component-to-show-color-coded-options-on-the-form-model-driven-apps-dynamics-365</id>
@@ -22,6 +120,16 @@
         <link href="https://365community.online/welsh-azure-user-group-september-2024-meet-up"/>
         <updated>2024-09-18T19:15:58.000Z</updated>
         <summary type="html"><![CDATA[It was the day of our Welsh Azure User Group #WAUG September 2024 meet up and we had yet another two amazing speakers join us. We were joined by yet another two awesome presenters. First up we had Radu Vunvulea on to discuss the AI Architecture in the Cloud, then Carlos Solis Salazar joined us […]]]></summary>
+        <author>
+            <name>John Lunn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welsh Azure User Group  – September 2024 Event – YouTube]]></title>
+        <id>https://365community.online/welsh-azure-user-group-september-2024-event-youtube</id>
+        <link href="https://365community.online/welsh-azure-user-group-september-2024-event-youtube"/>
+        <updated>2024-09-18T19:12:23.000Z</updated>
+        <summary type="html"><![CDATA[Welsh Azure User Group – September 2024 Event It was the day of our Welsh Azure User Group #WAUG September 2024 meet up and we had yet another two amazing speakers join us. We were joined by yet another two awesome presenters. First up we had Radu Vunvulea on to discuss the AI Architecture in […]]]></summary>
         <author>
             <name>John Lunn</name>
         </author>
