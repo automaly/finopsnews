@@ -2,10 +2,115 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-09-20T00:49:50.430Z</updated>
+    <updated>2024-09-21T00:48:29.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Difference Between Business Intelligence and Reporting]]></title>
+        <id>https://erpsoftwareblog.com/?p=118721</id>
+        <link href="https://erpsoftwareblog.com/2024/09/difference-between-business-intelligence-and-reporting/"/>
+        <updated>2024-09-20T21:51:43.000Z</updated>
+        <summary type="html"><![CDATA[Searching for “what’s the difference between business intelligence and reporting” or something similar gets a lot of results online with various interpretations. Business intelligence (BI) is a buzzword with many meanings, depending […]
+The post Understanding the Difference Between Business Intelligence and Reporting  appeared first on ERP Software Blog.
+Ep. 63: Interview with Kennie Pontoppidan | A Shot of Business Central and A Beer podcast
+Are the Analytics in Your Business Management System Enough?
+Register Now for JourneyTEAM’s 2021 Business Technology Summit]]></summary>
+        <author>
+            <name>Tigunia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PartnerTalks and MSDW Connecting ISVs with Microsoft Partners]]></title>
+        <id>https://erpsoftwareblog.com/?p=118715</id>
+        <link href="https://erpsoftwareblog.com/2024/09/connecting-isvs-with-microsoft-partners/"/>
+        <updated>2024-09-20T18:33:16.000Z</updated>
+        <summary type="html"><![CDATA[PartnerTalks and MSDynamicsWorld (MSDW) are connecting ISVs with Microsoft Partners through a new Partner Acquisition Program. MSDW and PartnerTalks want to forge valuable connections and foster growth for both ISVs […]
+The post PartnerTalks and MSDW Connecting ISVs with Microsoft Partners appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>PartnerTalks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unleashing Microsoft Copilot for Sales]]></title>
+        <id>https://www.encorebusiness.com/?p=63447</id>
+        <link href="https://www.encorebusiness.com/blog/unleashing-copilot-in-d365-crm/"/>
+        <updated>2024-09-20T14:21:57.000Z</updated>
+        <summary type="html"><![CDATA[Unleashing Microsoft Copilot for Sales
+In today’s fast-paced digital world, the landscape of sales has dramatically transformed. With the explosion of information and digital selling, sellers face increased responsibilities and higher expectations. Customers demand more personalized interactions, and sellers must juggle numerous tools and accounts. To address these challenges, a solution is needed that frees sellers from mundane tasks, allowing...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Tracey Santos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boost Efficiency and Growth: The Top Benefits of Dynamics 365 Finance and Operations]]></title>
+        <id>https://erpsoftwareblog.com/?p=118576</id>
+        <link href="https://erpsoftwareblog.com/2024/09/benefits-of-dynamics-365-finance-and-operations/"/>
+        <updated>2024-09-20T13:10:41.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics 365 Finance and Operations is a comprehensive solution, and it is suitable for an array of industries including service, retail, healthcare, automotive, distribution, and the public sector. F&O provides […]
+The post Boost Efficiency and Growth: The Top Benefits of Dynamics 365 Finance and Operations  appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Show Features With Demo Dataset For Czechia]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-show-features-with-demo-dataset-for-czechia</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-show-features-with-demo-dataset-for-czechia"/>
+        <updated>2024-09-20T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 4th of the new functionality in the Country and regional section is show features with […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Platform Community Conference & Copilot Wave 2]]></title>
+        <id>https://365community.online/power-platform-community-conference-copilot-wave-2</id>
+        <link href="https://365community.online/power-platform-community-conference-copilot-wave-2"/>
+        <updated>2024-09-20T11:34:32.000Z</updated>
+        <summary type="html"><![CDATA[This week was a busy week in the Microsoft BizApps world. The Power Platform Community Conference (PPCC) was held. The Microsoft 365 Copilot wave 2 was announced too. I will not just ask Microsoft Copilot to write me a summary of what is going on, I will also reason over it myself. Copilot Agents, autonomous […]]]></summary>
+        <author>
+            <name>Carina Claesson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I…  Use the “Create Record V3” Action]]></title>
+        <id>https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-create-record-v3-action</id>
+        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-create-record-v3-action"/>
+        <updated>2024-09-20T10:00:15.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I… series, a sub-series of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Techtember Webinars: Exclusive Preview of Inogic’s Innovations at Community Summit NA!]]></title>
+        <id>https://365community.online/techtember-webinars-exclusive-preview-of-inogics-innovations-at-community-summit-na</id>
+        <link href="https://365community.online/techtember-webinars-exclusive-preview-of-inogics-innovations-at-community-summit-na"/>
+        <updated>2024-09-20T09:19:43.000Z</updated>
+        <summary type="html"><![CDATA[In the competitive landscape of sales and customer relationship management, leveraging smart business solutions is essential for gaining an edge. By streamlining sales communication through integrations with platforms like WhatsApp, SMS, and live chat, along with effective document storage and management, you can significantly enhance your Dynamics 365 CRM experience. These integrations not only improve […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[¿Tienes 5 minutos? En menos tiempo puedes instalar Copilot for Finance en Business Central. – YouTube]]></title>
+        <id>https://365community.online/tienes-5-minutos-en-menos-tiempo-puedes-instalar-copilot-for-finance-en-business-central-youtube</id>
+        <link href="https://365community.online/tienes-5-minutos-en-menos-tiempo-puedes-instalar-copilot-for-finance-en-business-central-youtube"/>
+        <updated>2024-09-20T06:00:08.000Z</updated>
+        <summary type="html"><![CDATA[¿Tienes 5 minutos? En menos tiempo puedes instalar Copilot for Finance en Business Central. En este video, te muestro cómo puedes instalar Copilot For Finance en Business Central en menos de 5 minutos. Copilot For Finance es la herramienta de inteligencia artificial de Microsoft que facilita la gestión financiera, proporcionando automatización de tareas y recomendaciones […]]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Close the Month Using a Business Central Dashboard]]></title>
         <id>https://erpsoftwareblog.com/?p=118633</id>
@@ -62,6 +167,16 @@ Microsoft Dynamics 365 Business Central is now available! Business without silos
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Primavera P6 Introduction | Oracle Primavera P6 Training Course | What is Primavera P6 | MindMajix – YouTube]]></title>
+        <id>https://365community.online/primavera-p6-introduction-oracle-primavera-p6-training-course-what-is-primavera-p6-mindmajix-youtube</id>
+        <link href="https://365community.online/primavera-p6-introduction-oracle-primavera-p6-training-course-what-is-primavera-p6-mindmajix-youtube"/>
+        <updated>2024-09-19T12:00:43.000Z</updated>
+        <summary type="html"><![CDATA[In this video we are talking about the Primavera P6 software basics. In this Oracle Primavera P6 training we will start with the introduction, then we will install and setup the Primavera software and then will create a project and EPS. 🔥 Check out our Oracle Primavera P6 mastery course: https://mindmajix.com/oracle-primavera-training?utm_source=youtube&utm_medium=video&utm_campaign=promotion 🔵 About MindMajix’s Primavera […]]]></summary>
+        <author>
+            <name>Jaya Sri</name>
         </author>
     </entry>
     <entry>
@@ -46491,27 +46606,6 @@ Go to Workspaces -> Data Management -> Data Entities, find SALES ORDER HEADERS V
 The new custom fields will be generated for the entity mapping.]]></summary>
         <author>
             <name>Max Nguyen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fixed-width text files in data management (F&O)]]></title>
-        <id>https://dev.goshoom.net/?p=9716</id>
-        <link href="https://dev.goshoom.net/2022/09/fixed-width-text-files-in-data-management-fo/"/>
-        <updated>2022-09-22T08:06:50.000Z</updated>
-        <summary type="html"><![CDATA[Data management in Dynamics 365 for Finance and Operations supports several types of files for import and export. I usually see XML, Excel and CSV used, but sometimes we also need to deal with a text format with fixed-width columns. It means that there is no column separator as in CSV – we know that ...
-Continue reading ‘Fixed-width text files in data management (F&O)’ »]]></summary>
-        <author>
-            <name>Martin Dráb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D365FO upgrade. Transfer attachments from AX2012]]></title>
-        <id>https://denistrunin.com/upgradeD365-attachments/</id>
-        <link href="https://denistrunin.com/upgradeD365-attachments/"/>
-        <updated>2022-09-21T22:12:03.000Z</updated>
-        <summary type="html"><![CDATA[The blog post describes a procedure to transfer attachments from AX2012 to D365FO]]></summary>
-        <author>
-            <name>Gatsby RSS Feed</name>
         </author>
     </entry>
 </feed>

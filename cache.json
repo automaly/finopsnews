@@ -835,16 +835,6 @@
           "wordCount": 1518,
           "title": "Understanding Dynamics 365FO different Tiers performance",
           "imageUrl": "https://denistrunin.com/static/11267db03d577bf68f4e9e635b3a25ef/c972b/logo.png"
-        },
-        {
-          "id": "https://denistrunin.com/upgradeD365-attachments/",
-          "author": null,
-          "description": "The blog post describes a procedure to transfer attachments from AX2012 to D365FO",
-          "link": "https://denistrunin.com/upgradeD365-attachments/",
-          "publishedOn": "2022-09-21T22:12:03.000Z",
-          "wordCount": 1068,
-          "title": "D365FO upgrade. Transfer attachments from AX2012",
-          "imageUrl": "https://denistrunin.com/static/6aaa310ed24d524c0439df7f41e13d00/37155/logo.png"
         }
       ]
     },
@@ -1561,6 +1551,36 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=118721",
+          "author": "Tigunia",
+          "description": "Searching for “what’s the difference between business intelligence and reporting” or something similar gets a lot of results online with various interpretations. Business intelligence (BI) is a buzzword with many meanings, depending […]\nThe post Understanding the Difference Between Business Intelligence and Reporting  appeared first on ERP Software Blog.\nEp. 63: Interview with Kennie Pontoppidan | A Shot of Business Central and A Beer podcast\nAre the Analytics in Your Business Management System Enough?\nRegister Now for JourneyTEAM’s 2021 Business Technology Summit",
+          "link": "https://erpsoftwareblog.com/2024/09/difference-between-business-intelligence-and-reporting/",
+          "publishedOn": "2024-09-20T21:51:43.000Z",
+          "wordCount": 4697,
+          "title": "Understanding the Difference Between Business Intelligence and Reporting",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/blog_BIvsReporting-.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=118715",
+          "author": "PartnerTalks",
+          "description": "PartnerTalks and MSDynamicsWorld (MSDW) are connecting ISVs with Microsoft Partners through a new Partner Acquisition Program. MSDW and PartnerTalks want to forge valuable connections and foster growth for both ISVs […]\nThe post PartnerTalks and MSDW Connecting ISVs with Microsoft Partners appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2024/09/connecting-isvs-with-microsoft-partners/",
+          "publishedOn": "2024-09-20T18:33:16.000Z",
+          "wordCount": 4043,
+          "title": "PartnerTalks and MSDW Connecting ISVs with Microsoft Partners",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/225-Adam-Berezin-Thumbnail-300x169.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=118576",
+          "author": "Dynamics Square USA",
+          "description": "Dynamics 365 Finance and Operations is a comprehensive solution, and it is suitable for an array of industries including service, retail, healthcare, automotive, distribution, and the public sector. F&O provides […]\nThe post Boost Efficiency and Growth: The Top Benefits of Dynamics 365 Finance and Operations  appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2024/09/benefits-of-dynamics-365-finance-and-operations/",
+          "publishedOn": "2024-09-20T13:10:41.000Z",
+          "wordCount": 4671,
+          "title": "Boost Efficiency and Growth: The Top Benefits of Dynamics 365 Finance and Operations",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-365-Finance-and-Operations.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=118633",
           "author": "Michael Ramatowski",
@@ -12514,6 +12534,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=63447",
+          "author": "Tracey Santos",
+          "description": "Unleashing Microsoft Copilot for Sales\nIn today’s fast-paced digital world, the landscape of sales has dramatically transformed. With the explosion of information and digital selling, sellers face increased responsibilities and higher expectations. Customers demand more personalized interactions, and sellers must juggle numerous tools and accounts. To address these challenges, a solution is needed that frees sellers from mundane tasks, allowing...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/unleashing-copilot-in-d365-crm/",
+          "publishedOn": "2024-09-20T14:21:57.000Z",
+          "wordCount": 1954,
+          "title": "Unleashing Microsoft Copilot for Sales",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2024/08/Copilot-Sales.jpg"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=63609",
           "author": "Steve Michaelson",
           "description": "Automating Excel Reporting for Smartlist Export in Dynamics GP Using Export Solutions\nIf you are a Dynamics GP user who frequently exports Smartlist data to Excel and manually manipulates or formats it, Export Solutions could be a useful tool to help automate some of those tasks. While its stated use is to translate data for export, often to be imported into another system, it can also be...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -13401,6 +13431,56 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-show-features-with-demo-dataset-for-czechia",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 4th of the new functionality in the Country and regional section is show features with […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-show-features-with-demo-dataset-for-czechia",
+          "publishedOn": "2024-09-20T12:00:00.000Z",
+          "wordCount": 1107,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Show Features With Demo Dataset For Czechia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/power-platform-community-conference-copilot-wave-2",
+          "author": "Carina Claesson",
+          "description": "This week was a busy week in the Microsoft BizApps world. The Power Platform Community Conference (PPCC) was held. The Microsoft 365 Copilot wave 2 was announced too. I will not just ask Microsoft Copilot to write me a summary of what is going on, I will also reason over it myself. Copilot Agents, autonomous […]",
+          "link": "https://365community.online/power-platform-community-conference-copilot-wave-2",
+          "publishedOn": "2024-09-20T11:34:32.000Z",
+          "wordCount": 1045,
+          "title": "Power Platform Community Conference & Copilot Wave 2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-create-record-v3-action",
+          "author": "Ian Grieve",
+          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I… series, a sub-series of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I […]",
+          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-create-record-v3-action",
+          "publishedOn": "2024-09-20T10:00:15.000Z",
+          "wordCount": 1104,
+          "title": "In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I…  Use the “Create Record V3” Action",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/techtember-webinars-exclusive-preview-of-inogics-innovations-at-community-summit-na",
+          "author": "Inogic",
+          "description": "In the competitive landscape of sales and customer relationship management, leveraging smart business solutions is essential for gaining an edge. By streamlining sales communication through integrations with platforms like WhatsApp, SMS, and live chat, along with effective document storage and management, you can significantly enhance your Dynamics 365 CRM experience. These integrations not only improve […]",
+          "link": "https://365community.online/techtember-webinars-exclusive-preview-of-inogics-innovations-at-community-summit-na",
+          "publishedOn": "2024-09-20T09:19:43.000Z",
+          "wordCount": 1308,
+          "title": "Techtember Webinars: Exclusive Preview of Inogic’s Innovations at Community Summit NA!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/tienes-5-minutos-en-menos-tiempo-puedes-instalar-copilot-for-finance-en-business-central-youtube",
+          "author": "jarmesto",
+          "description": "¿Tienes 5 minutos? En menos tiempo puedes instalar Copilot for Finance en Business Central. En este video, te muestro cómo puedes instalar Copilot For Finance en Business Central en menos de 5 minutos. Copilot For Finance es la herramienta de inteligencia artificial de Microsoft que facilita la gestión financiera, proporcionando automatización de tareas y recomendaciones […]",
+          "link": "https://365community.online/tienes-5-minutos-en-menos-tiempo-puedes-instalar-copilot-for-finance-en-business-central-youtube",
+          "publishedOn": "2024-09-20T06:00:08.000Z",
+          "wordCount": 1197,
+          "title": "¿Tienes 5 minutos? En menos tiempo puedes instalar Copilot for Finance en Business Central. – YouTube",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/new-but-not-new-feature",
           "author": "Jonas Rapp ᴹᴠᴾ ??",
           "description": "Using Bulk Data Updater can be a bit scary… Which records did I update? Which fields did I change? What did really happen?? I have a soft spot in my heart, and the spot is logging… I’m not a big fan of logs , but I’m a fan of logs . If you have read […]",
@@ -13418,6 +13498,16 @@
           "publishedOn": "2024-09-19T14:00:18.000Z",
           "wordCount": 1105,
           "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Start Creating Power Automate Flows With Copilot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/primavera-p6-introduction-oracle-primavera-p6-training-course-what-is-primavera-p6-mindmajix-youtube",
+          "author": "Jaya Sri",
+          "description": "In this video we are talking about the Primavera P6 software basics. In this Oracle Primavera P6 training we will start with the introduction, then we will install and setup the Primavera software and then will create a project and EPS. 🔥 Check out our Oracle Primavera P6 mastery course: https://mindmajix.com/oracle-primavera-training?utm_source=youtube&utm_medium=video&utm_campaign=promotion 🔵 About MindMajix’s Primavera […]",
+          "link": "https://365community.online/primavera-p6-introduction-oracle-primavera-p6-training-course-what-is-primavera-p6-mindmajix-youtube",
+          "publishedOn": "2024-09-19T12:00:43.000Z",
+          "wordCount": 1168,
+          "title": "Primavera P6 Introduction | Oracle Primavera P6 Training Course | What is Primavera P6 | MindMajix – YouTube",
           "imageUrl": null
         },
         {
@@ -33260,16 +33350,6 @@
           "publishedOn": "2022-10-19T19:48:05.000Z",
           "wordCount": 2214,
           "title": "Dynamic list of methods to execute (in D365FO)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dev.goshoom.net/?p=9716",
-          "author": "Martin Dráb",
-          "description": "Data management in Dynamics 365 for Finance and Operations supports several types of files for import and export. I usually see XML, Excel and CSV used, but sometimes we also need to deal with a text format with fixed-width columns. It means that there is no column separator as in CSV – we know that ...\nContinue reading ‘Fixed-width text files in data management (F&O)’ »",
-          "link": "https://dev.goshoom.net/2022/09/fixed-width-text-files-in-data-management-fo/",
-          "publishedOn": "2022-09-22T08:06:50.000Z",
-          "wordCount": 1418,
-          "title": "Fixed-width text files in data management (F&O)",
           "imageUrl": null
         }
       ]
