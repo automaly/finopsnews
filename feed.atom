@@ -2,10 +2,221 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-09-23T00:51:48.975Z</updated>
+    <updated>2024-09-24T00:51:51.132Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tabular View, Advanced Search and Update in Bulk of D365FO Print Management Settings]]></title>
+        <id>https://ax.docentric.com/?p=29056</id>
+        <link href="https://ax.docentric.com/d365fo-print-management-tabular-view-and-bulk-update/"/>
+        <updated>2024-09-23T22:55:30.000Z</updated>
+        <summary type="html"><![CDATA[So, you have mastered the D365FO Print Management, but you find it annoying that the settings are accessible one by one, instead in a convenient tabular view? It is a common configuration to have one Default and multiple Conditional setting, and perhaps also some Copy […]
+The post Tabular View, Advanced Search and Update in Bulk of D365FO Print Management Settings appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Sanja Kolundzija</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saddle Up for Community Summit North America 2024]]></title>
+        <id>https://erpsoftwareblog.com/?p=118809</id>
+        <link href="https://erpsoftwareblog.com/2024/09/saddle-up-for-community-summit-north-america-2024/"/>
+        <updated>2024-09-23T22:06:07.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft customers and partners are gearing up to make the trek to San Antonio, Texas for Community Summit North America (NA) 2024, October 13-17 at the Henry B. Gonzalez Convention […]
+The post Saddle Up for Community Summit North America 2024 appeared first on ERP Software Blog.
+Hassle Free Upgrades with Dynamics GP Resellers!
+Are You Getting The Most From Your ERP Solution or Are You On Cruise Control?
+5 Benefits of Having a Certified Microsoft Dynamics GP Partner]]></summary>
+        <author>
+            <name>Solver Inc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use the new Associated Grid Control to display details of other tables in subgrids  – Model-driven App / Dynamics 365]]></title>
+        <id>https://365community.online/use-the-new-associated-grid-control-to-display-details-of-other-tables-in-subgrids-model-driven-app-dynamics-365</id>
+        <link href="https://365community.online/use-the-new-associated-grid-control-to-display-details-of-other-tables-in-subgrids-model-driven-app-dynamics-365"/>
+        <updated>2024-09-23T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[With the Associated Grid Control we can configure and show up four subgrids in the form, making it a more intuitive and cleaner form layout, with ease of navigation. Below we are adding the Associated Grid Control component to the Contact’s form. Here we have specified the Subgrid Tables and Views to begin with. For […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metafile is Sponsoring the 2024 Community Summit Conference in San Antonio, Texas!]]></title>
+        <id>https://erpsoftwareblog.com/?p=118788</id>
+        <link href="https://erpsoftwareblog.com/2024/09/metafile-is-sponsoring-the-2024-community-summit-conference-in-san-antonio-texas/"/>
+        <updated>2024-09-23T20:04:09.000Z</updated>
+        <summary type="html"><![CDATA[This year, we're excited to return to the Community Summit Conference as a Platinum Sponsor and will be showcasing our offerings at Booth 829. Our booth will be filled with […]
+The post Metafile is Sponsoring the 2024 Community Summit Conference in San Antonio, Texas! appeared first on ERP Software Blog.
+Tips for Choosing an AP Automation Solution
+We Are GP Strong
+Preventing Common Errors with AP Automation]]></summary>
+        <author>
+            <name>MetaViewer from Metafile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlock the Power of Unified Data with Free Integration for Business Central and Dynamics 365 Sales]]></title>
+        <id>https://erpsoftwareblog.com/?p=118785</id>
+        <link href="https://erpsoftwareblog.com/2024/09/unlock-the-power-of-unified-data-with-free-integration-for-business-central-and-dynamics-365-sales/"/>
+        <updated>2024-09-23T19:44:55.000Z</updated>
+        <summary type="html"><![CDATA[Velosio is excited to offer Sales Velocity Framework, a free integration for Microsoft Dynamics 365 Business Central that can bring Dynamics 365 Sales data into BC. This integration allows you […]
+The post Unlock the Power of Unified Data with Free Integration for Business Central and Dynamics 365 Sales appeared first on ERP Software Blog.
+Microsoft D365 Business Central: The Solution for Sales Reps
+Build a Tighter End-to-End Sales and Accounting Process with Dynamics 365 CRM and Business Central
+Microsoft Dynamics 365 vs. Salesforce – Which is better?]]></summary>
+        <author>
+            <name>Velosio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics GP Backups: Preparing for the Unexpected]]></title>
+        <id>https://erpsoftwareblog.com/?p=118765</id>
+        <link href="https://erpsoftwareblog.com/2024/09/doing-dynamics-gp-backups-preparing-for-the-unexpected/"/>
+        <updated>2024-09-23T16:59:53.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics GP Backups. Explore why regular backups are critical for Dynamics GP and discuss key questions and best practices to help ensure your data remains protected. Great Plains should be backed-up frequently in a secure location.
+The post Dynamics GP Backups: Preparing for the Unexpected appeared first on ERP Software Blog.
+February GP Webinar – What’s New in Dynamics GP 18.5 (GP 2023)
+We're Growing Our GP Practice Again - See Press Release - HSO Canada transitions GP clients & consultants to Endeavour (GP Support North)
+4 Reasons Why Restaurants Cook with Microsoft Dynamics GP]]></summary>
+        <author>
+            <name>GP Support North</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insight Works Adds 13 Microsoft Partners to Enhance Global Business Central Solutions]]></title>
+        <id>https://erpsoftwareblog.com/?p=118756</id>
+        <link href="https://erpsoftwareblog.com/2024/09/insight-works-adds-13-microsoft-partners-to-enhance-global-business-central-solutions/"/>
+        <updated>2024-09-23T16:20:11.000Z</updated>
+        <summary type="html"><![CDATA[Insight Works strengthens their global presence by onboarding 13 new Microsoft Partners in August to enhance manufacturing and distribution solutions for Dynamics 365 Business Central.
+The post Insight Works Adds 13 Microsoft Partners to Enhance Global Business Central Solutions appeared first on ERP Software Blog.
+Best strategies, insights and techniques for a successful eCommerce implementation
+5 ways to protect your mobile devices from malware while in the field!
+The Product-as-a-Service advantage — a potential game-changer for equipment manufacturers]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Posting Groups in Microsoft Dynamics 365 BC: Simplifying the Process]]></title>
+        <id>https://erpsoftwareblog.com/?p=118664</id>
+        <link href="https://erpsoftwareblog.com/2024/09/posting-groups-in-microsoft-dynamics-365-bc-simplifying-the-process/"/>
+        <updated>2024-09-23T14:57:03.000Z</updated>
+        <summary type="html"><![CDATA[Have you moved from Microsoft Dynamics GP or another ERP system to Microsoft Dynamics 365 Business Central and still find it challenging to identify where the default GL accounts originate […]
+The post Posting Groups in Microsoft Dynamics 365 BC: Simplifying the Process appeared first on ERP Software Blog.
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve]]></summary>
+        <author>
+            <name>DLD Business Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Protecting Web Workloads with SC-100 What’s the Best Choice? – YouTube]]></title>
+        <id>https://365community.online/protecting-web-workloads-with-sc-100-whats-the-best-choice-youtube</id>
+        <link href="https://365community.online/protecting-web-workloads-with-sc-100-whats-the-best-choice-youtube"/>
+        <updated>2024-09-23T14:15:02.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to protect web workloads with SC-100 certification. Find out the best choice for specifying security requirements for your web projects. Episode Breakdown: 00:00 – Episode Introduction 00:43 – Episode Breakdown 01:17 – Specify security for web workloads 02:43 – Demo: Microsoft Defender for Azure App Services overview MeasureUp Exam Discount – https://www.measureup.com/microsoft-practice-test-sc-100-cybersecurity-architect-grc.html#u7 Microsoft […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upcoming Microsoft Dynamics 365 Business Central Knowledge Hub Webinars (Oct-Dec 2024) from MADIC dynamics]]></title>
+        <id>https://365community.online/upcoming-microsoft-dynamics-365-business-central-knowledge-hub-webinars-oct-dec-2024-from-madic-dynamics</id>
+        <link href="https://365community.online/upcoming-microsoft-dynamics-365-business-central-knowledge-hub-webinars-oct-dec-2024-from-madic-dynamics"/>
+        <updated>2024-09-23T14:00:49.000Z</updated>
+        <summary type="html"><![CDATA[Every month, on the third Tuesday, at MADIC dynamics we will be presenting a Knowledge Hub Webinar on Microsoft Dynamics 365 Business Central and related products; I will be presenting some of the webinars, but other consultants will be getting involved as well, so there will be a variety of presenters through time. We aim […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vendor Payments in Dynamics GP (Video)]]></title>
+        <id>https://www.encorebusiness.com/?p=64801</id>
+        <link href="https://www.encorebusiness.com/blog/vendor-payments-in-dynamics-gp/"/>
+        <updated>2024-09-23T13:59:21.000Z</updated>
+        <summary type="html"><![CDATA[Vendor Payments in Dynamics GP (Video)
+In this recorded webinar, we walk through the creation and printing of cheques and electronic transfers (EFTs) in Dynamics GP. Learn how to prioritize payments, control due dates, and optimize your vendor payment process. ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿ Transcript below: – [Katie] Hello everyone. Thank you for joining us today for our Dynamics GP Coffee Break, Vendor Payments...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Don McNulty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: HttpClient and remote certificate validation future changes.]]></title>
+        <id>https://365community.online/dynamics-365-business-central-httpclient-and-remote-certificate-validation-future-changes</id>
+        <link href="https://365community.online/dynamics-365-business-central-httpclient-and-remote-certificate-validation-future-changes"/>
+        <updated>2024-09-23T13:54:52.000Z</updated>
+        <summary type="html"><![CDATA[I think that everyone of you know that the AL HttpClient data type provides a data type for sending HTTP requests and receiving HTTP responses from a resource identified by a URI. A very basic piece of AL code that sends a GET request to an endpoint and return a response can be defined as […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unified Routing – Queue Priority]]></title>
+        <id>https://365community.online/unified-routing-queue-priority</id>
+        <link href="https://365community.online/unified-routing-queue-priority"/>
+        <updated>2024-09-23T13:28:55.000Z</updated>
+        <summary type="html"><![CDATA[I’m using Microsoft’s Dynamics 365 Contact Center to route cases and I have multiple queues …. but what if I want one queue to have priority over another? This requirement has been expressed in several of my projects! And until recently I would have explained that routing based on queue priority was not possible. As […]]]></summary>
+        <author>
+            <name>Neil Parkhurst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Step-By-Step Guide to Use Brand Profiles in Emails: Enhancing Engagement in Customer Insights]]></title>
+        <id>https://365community.online/step-by-step-guide-to-use-brand-profiles-in-emails-enhancing-engagement-in-customer-insights</id>
+        <link href="https://365community.online/step-by-step-guide-to-use-brand-profiles-in-emails-enhancing-engagement-in-customer-insights"/>
+        <updated>2024-09-23T12:32:34.000Z</updated>
+        <summary type="html"><![CDATA[In today’s digital landscape, email remains one of the most powerful tools for brand communication. Whether you’re reaching out to potential customers, engaging with loyal clients, or nurturing leads, your emails serve as a direct reflection of your brand. Therefore, it’s essential to ensure that your email communications are not only consistent but also a […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Track Sustainability Certificates For Items And Vendors]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-track-sustainability-certificates-for-items-and-vendors</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-track-sustainability-certificates-for-items-and-vendors"/>
+        <updated>2024-09-23T12:00:26.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 11th of the new functionality in the Legislation section is track sustainability certificates for items […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Procurement Pricing Options in Dynamics 365 for Finance and Operations]]></title>
+        <id>https://www.encorebusiness.com/?p=36577</id>
+        <link href="https://www.encorebusiness.com/blog/pricing-options-dynamics-365-finance-operations/"/>
+        <updated>2024-09-23T11:13:36.000Z</updated>
+        <summary type="html"><![CDATA[Procurement Pricing Options in Dynamics 365 for Finance and Operations
+For buyers and planners, there are 3 main ways to enter pricing of a particular material in Dynamics 365 Finance & Operations. Each option is best for different situations, and it can be difficult to understand the implications of each one. As part of my work as an Encore solution specialist for Finance & Operations,...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Allen Shannon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Encrypt Data At-Rest With Customer-Managed Encryption Key]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-encrypt-data-at-rest-with-customer-managed-encryption-key</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-encrypt-data-at-rest-with-customer-managed-encryption-key"/>
+        <updated>2024-09-23T10:00:40.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 8th of the new functionality in the Governance and administration section is encrypt data at-rest […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Automate  – Ler excel do email, salvar no SharePoint, inserir dados do excel na lista – YouTube]]></title>
+        <id>https://365community.online/power-automate-ler-excel-do-email-salvar-no-sharepoint-inserir-dados-do-excel-na-lista-youtube</id>
+        <link href="https://365community.online/power-automate-ler-excel-do-email-salvar-no-sharepoint-inserir-dados-do-excel-na-lista-youtube"/>
+        <updated>2024-09-23T10:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Nesse vídeo vamos aprender a criar uma automação completa que lê um excel do email, salva em uma biblioteca do SharePoint e depois lê esse excel e salva em uma lista do SharePoint. ♐ Adquira meu curso na Udemy e aprenda SharePoint, Power Apps e Power Automate do zero. https://www.udemy.com/course/aprenda-sharepoint-do-zero-com-foco-no-negocio/?referralCode=34B700C89A7463BD0A00 ♐ Quer aprender SharePoint Framework(SPFx)? […]]]></summary>
+        <author>
+            <name>Saulo Soares Oliveira</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Order Pizza with smart glasses and Power Automate]]></title>
         <id>http://dynamicsax-fico.com/?p=6690</id>
