@@ -1268,6 +1268,16 @@
       "siteUrl": "https://tomaztsql.wordpress.com",
       "articles": [
         {
+          "id": "http://tomaztsql.wordpress.com/?p=10038",
+          "author": "tomaztsql",
+          "description": "Data engineering and even simple data wrangling functions in Fabric can make several tasks faster, when you know know, which package (language) to choose. By comparing Python Pandas with PySpark Pandas (Koalas), we will see that there are huge performance…\nRead more ›",
+          "link": "https://tomaztsql.wordpress.com/2024/09/24/data-engineering-functions-on-large-datasets-in-microsoft-fabric/",
+          "publishedOn": "2024-09-24T21:30:38.000Z",
+          "wordCount": 5025,
+          "title": "Data engineering functions on large datasets in Microsoft Fabric",
+          "imageUrl": "https://tomaztsql.wordpress.com/wp-content/uploads/2024/09/image-1.png"
+        },
+        {
           "id": "http://tomaztsql.wordpress.com/?p=9972",
           "author": "tomaztsql",
           "description": "This sample R code is an implementation one of possible solutions for generating timetable schedule. The proposed solution is based on methods of evolutionary computing, and it uses (1+1) evolutionary strategy and simulated hardening. The success of solution is estimated…\nRead more ›",
@@ -1531,6 +1541,96 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=118825",
+          "author": "Avalara",
+          "description": "Avalara, a longtime leader in automated tax compliance solutions, is excited to be a Premier Sponsor of Community Summit North America 2024 — the largest independent […]\nThe post Join Avalara at Community Summit North America 2024, October 13–17 appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2024/09/join-avalara-at-community-summit-north-america-2024-october-13-17/",
+          "publishedOn": "2024-09-24T16:51:05.000Z",
+          "wordCount": 6922,
+          "title": "Join Avalara at Community Summit North America 2024, October 13–17",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Avalara-833-650x150-1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=118832",
+          "author": "Fidesic AP",
+          "description": "The inaugural issue of Fido Magazine will be available in print with articles geared toward the Microsoft Dynamics Community. LANSING, MI, /EINPresswire.com/ -- Fidesic, a leading provider of accounts payable […]\nThe post Fidesic AP to Launch Fido Magazine appeared first on ERP Software Blog.\nHow are AP and AR the 2 Sides of The Same Coin?\nHow to keep businesses running smoothly with labor shortages\nThe Struggle to Hire an Accounts Payable Clerk",
+          "link": "https://erpsoftwareblog.com/2024/09/fidesic-ap-to-launch-fido-magazine/",
+          "publishedOn": "2024-09-24T16:27:42.000Z",
+          "wordCount": 7087,
+          "title": "Fidesic AP to Launch Fido Magazine",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/fido-magazine-thumb.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=118758",
+          "author": "Insight Works",
+          "description": "Insight Works will showcase warehouse, shop floor, shipping, and other solutions for manufacturing and distribution at Community Summit North America in San Antonio, Texas, from October 13-17, 2024.\nThe post Transform Your Business Central Experience at Community Summit North America 2024 appeared first on ERP Software Blog.\nWarehouse Insight Now Available for Dynamics 365 Business Central\nHow to Choose a Mobile Computer to use with Business Central\nQuote Generation with Product Configurator for Business Central",
+          "link": "https://erpsoftwareblog.com/2024/09/transform-your-business-central-experience-at-community-summit-north-america-2024/",
+          "publishedOn": "2024-09-24T16:20:22.000Z",
+          "wordCount": 7301,
+          "title": "Transform Your Business Central Experience at Community Summit North America 2024",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/dynamic_communities_inc__logo.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=118822",
+          "author": "MetaOption LLC",
+          "description": "It cannot be easy to keep up with all the documents that are required in the field of business contracts and other forms of transactions. These documents in their draft, […]\nThe post Why Contract Document Management is Key to Boosting Efficiency appeared first on ERP Software Blog.\nHow to Improve Compliance with a Document Management Solution?\nHow MetaDocs Can Help You Streamline Document Management in Business Central\nEfficient PR to PO Conversion: How Purchase Requisition Software Saves Time",
+          "link": "https://erpsoftwareblog.com/2024/09/why-contract-document-management-is-key-to-boosting-efficiency/",
+          "publishedOn": "2024-09-24T15:20:21.000Z",
+          "wordCount": 7204,
+          "title": "Why Contract Document Management is Key to Boosting Efficiency",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-151.jpg"
+        },
+        {
+          "id": "https://www.erpsoftwareblog.com/?p=87743",
+          "author": "Kian Maghami, Tensoft Inc.",
+          "description": "We understand that semiconductor companies are always looking to optimize their shipping processes. From management of complex customer shipping terms to generation of shipping document to outsourced shipping option/access to […]\nThe post How to Optimize your Shipping Process with Tensoft appeared first on ERP Software Blog.\nWhat's Missing in Traditional ERP Inventory Systems for Semiconductor Manufacturers?\nHow an Industry-Specific Solution Can Change Your Life\nWhy Fabless Semiconductor Companies Rely on Tensoft SemiOps: 3 Minute Video",
+          "link": "https://erpsoftwareblog.com/2024/09/how-to-optimize-your-shipping-process-with-tensoft/",
+          "publishedOn": "2024-09-24T14:48:32.000Z",
+          "wordCount": 7104,
+          "title": "How to Optimize your Shipping Process with Tensoft",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ATP-Tensoft.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=118734",
+          "author": "x2x eCommerce",
+          "description": "Microsoft Dynamics 365 Business Central enables the accountant to automate routine work, improve financial management decisions, and enhance the efficiency of operations. Here's How Business Central is Empowering Accountants 1. […]\nThe post How Business Central is empowering Accountants appeared first on ERP Software Blog.\nDigital Transformation with Business Central\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve\nWhat is Microsoft Dynamics 365 Business Central? - Webinar",
+          "link": "https://erpsoftwareblog.com/2024/09/how-business-central-is-empowering-accountants/",
+          "publishedOn": "2024-09-24T13:22:10.000Z",
+          "wordCount": 7539,
+          "title": "How Business Central is empowering Accountants",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Modern-Promotion-Business-Agency-Blog-Banner-78-300x169.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=117965",
+          "author": "IT Fandango",
+          "description": "Unchecked scope: Trying to do everything and rejecting anything less than a perfect system will eventually put at risk the whole implementation.\nThe post Five Examples of D365 F&O Implementation Challenges (Part 5) appeared first on ERP Software Blog.\nThe Product-as-a-Service advantage — a potential game-changer for equipment manufacturers\nRegister Now for JourneyTEAM’s 2021 Business Technology Summit\nEDI Integration with ERP: What are Your Choices? (Explained with Scenarios)",
+          "link": "https://erpsoftwareblog.com/2024/09/five-examples-of-d365-fo-implementation-challenges-part-5/",
+          "publishedOn": "2024-09-24T13:00:30.000Z",
+          "wordCount": 7471,
+          "title": "Five Examples of D365 F&O Implementation Challenges (Part 5)",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ITF-Blog-hero-img.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=118625",
+          "author": "EthoTech",
+          "description": "Want to Boost Employee Happiness & Morale? Variable Compensation Could Be the Answer. Assuming a safe working environment with reasonable job security, employee happiness or morale usually comes from each employee’s personal […]\nThe post Using Variable Compensation to Improve Employee Happiness appeared first on ERP Software Blog.\nWeb Portals Interfaced to Microsoft Dynamics GP – Economical, Efficient and Effective\nRevenue Recognition Solutions for Technology Companies\n2010 McGladrey Microsoft Dynamics Summit in Philadelphia, PA",
+          "link": "https://erpsoftwareblog.com/2024/09/using-variable-compensation-to-improve-employee-happiness/",
+          "publishedOn": "2024-09-24T12:50:29.000Z",
+          "wordCount": 7303,
+          "title": "Using Variable Compensation to Improve Employee Happiness",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/241024-Variable-Compensation.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=118816",
+          "author": "Dynamics Square UK",
+          "description": "In a significant move to streamline operations and enhance efficiency, Microsoft has merged Dynamics 365 Human Resources with Dynamics 365 Finance and Operations. This integration brings together two critical business […]\nThe post Microsoft Update: Dynamics 365 Human Resources Merges with Finance and Operations appeared first on ERP Software Blog.\n5 Features that Make Dynamics 365 for Talent Different From Your Typical HR Module\nBlockchain for Supply Chain – Breakthrough or Bust?\nThree Can’t Miss Dynamics 365 New Features Coming Soon",
+          "link": "https://erpsoftwareblog.com/2024/09/microsoft-update-dynamics-365-human-resources-merges-with-finance-and-operations/",
+          "publishedOn": "2024-09-24T08:18:17.000Z",
+          "wordCount": 4951,
+          "title": "Microsoft Update: Dynamics 365 Human Resources Merges with Finance and Operations",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/download-3.jpg"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=118809",
           "author": "Solver Inc",
@@ -12594,6 +12694,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=64805",
+          "author": "The Encore Team",
+          "description": "Data Driven Manufacturing with Dynamics 365 Finance & Operations: Tackling the Biggest Data Challenges (Video)\nManufacturers face data challenges that can impact their operations and decision-making processes. From cost control, to addressing time to market challenges, improving organizational visibility, automation, and data security and compliance. Encore and STAEDEAN (formerly known as To-Increase) have seen these challenges manifest in our clients and look forward to discussing how they can be resolved....\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/data-driven-manufacturing-with-d365-fo-tackling-the-biggest-data-challenges/",
+          "publishedOn": "2024-09-24T15:00:07.000Z",
+          "wordCount": 5983,
+          "title": "Data Driven Manufacturing with Dynamics 365 Finance & Operations: Tackling the Biggest Data Challenges (Video)",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/10/D365FO-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=64801",
           "author": "Don McNulty",
           "description": "Vendor Payments in Dynamics GP (Video)\nIn this recorded webinar, we walk through the creation and printing of cheques and electronic transfers (EFTs) in Dynamics GP. Learn how to prioritize payments, control due dates, and optimize your vendor payment process. ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿ Transcript below: – [Katie] Hello everyone. Thank you for joining us today for our Dynamics GP Coffee Break, Vendor Payments...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -13510,6 +13620,86 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/how-to-remove-contact-and-customer-validation-on-cases-dynamics-365",
+          "author": "Nishant Rana",
+          "description": "By default, we can only specify the contact associated with the customer for the case record. If we try specifying a contact record that is not associated with the Customer selected, we will get the below error message. Invalid Contact – The specified contact doesn’t belong to the account selected as the customer. Specify a […]",
+          "link": "https://365community.online/how-to-remove-contact-and-customer-validation-on-cases-dynamics-365",
+          "publishedOn": "2024-09-24T20:30:00.000Z",
+          "wordCount": 1080,
+          "title": "How to remove contact and customer validation on Cases– Dynamics 365",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/dynamics-365-business-central-power-automate-flows-using-business-events-may-require-a-refresh",
+          "author": "Stefano Demiliani",
+          "description": "If you have Power Automate workflows using the When a business event occurs (V3) trigger, you should probably read this message carefully: Due to some security changes in the Business Central connector for Power Automate, any workflow that uses this trigger created before June 2024 need a refresh of the webhook subscription used by the […]",
+          "link": "https://365community.online/dynamics-365-business-central-power-automate-flows-using-business-events-may-require-a-refresh",
+          "publishedOn": "2024-09-24T15:40:24.000Z",
+          "wordCount": 1092,
+          "title": "Dynamics 365 Business Central: Power Automate flows using business events may require a refresh.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-use-advanced-settings-in-the-power-bi-connector",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 3rd of the new functionality in the Reporting and data analysis section is use advanced […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-use-advanced-settings-in-the-power-bi-connector",
+          "publishedOn": "2024-09-24T14:00:41.000Z",
+          "wordCount": 1113,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Use Advanced Settings In The Power Bi Connector",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-do-ad-hoc-analysis-on-fixed-assets-projects-and-services",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 2nd of the new functionality in the Reporting and data analysis section is do ad […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-do-ad-hoc-analysis-on-fixed-assets-projects-and-services",
+          "publishedOn": "2024-09-24T12:00:04.000Z",
+          "wordCount": 1122,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Do Ad Hoc Analysis On Fixed Assets, Projects, And Services",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/visualize-prioritize-and-track-tasks-with-ease-kanban-boards-new-features-for-dynamic-365-crm",
+          "author": "Inogic",
+          "description": "Imagine a workspace where complex workflows are transformed into a visually intuitive, easily manageable process. Kanban Board by Inogic offers just that, providing a dynamic way to visualize and manage your Dynamics 365 and Dataverse data. By converting your data into a clear, card-based view, Kanban Boards bring unprecedented clarity and control to your CRM […]",
+          "link": "https://365community.online/visualize-prioritize-and-track-tasks-with-ease-kanban-boards-new-features-for-dynamic-365-crm",
+          "publishedOn": "2024-09-24T10:17:01.000Z",
+          "wordCount": 1346,
+          "title": "Visualize, Prioritize, and Track Tasks with ease – Kanban Board’s New Features for Dynamic 365 CRM!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-delete-record-v3-action",
+          "author": "Ian Grieve",
+          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I… series, a sub-series of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I […]",
+          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-delete-record-v3-action",
+          "publishedOn": "2024-09-24T10:00:16.000Z",
+          "wordCount": 1104,
+          "title": "In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I…  Use the “Delete Record V3” Action",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/there-is-already-an-object-named-licensing_populateroleprivilegelicensemapv2-in-the-database",
+          "author": "Anitha Santosh",
+          "description": "I encountered the error when a new VM with 10.0.39 was deployed and trying to sync the database. Execute this below command in SQL and try the sync again. DROP PROCEDURE IF EXISTS LICENSING_POPULATEROLEPRIVILEGELICENSEMAPV2 GO Continue Reading AnithaEswaran’s Article on their blog There is already an object named ‘LICENSING_POPULATEROLEPRIVILEGELICENSEMAPV2’ in the database I encountered the […]",
+          "link": "https://365community.online/there-is-already-an-object-named-licensing_populateroleprivilegelicensemapv2-in-the-database",
+          "publishedOn": "2024-09-24T09:29:21.000Z",
+          "wordCount": 1019,
+          "title": "There is already an object named ‘LICENSING_POPULATEROLEPRIVILEGELICENSEMAPV2’ in the database",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/create-segments-from-marketing-lists-in-realtime-marketing",
+          "author": "Megan V. Walker",
+          "description": "Now this one is something I tend NOT to suggest but it is definitely a request that comes up A LOT. How can I create a segment of people I can just add by picking people myself, or based on an upload file. If there isn’t any filtering criteria, you can use the Include Members […]",
+          "link": "https://365community.online/create-segments-from-marketing-lists-in-realtime-marketing",
+          "publishedOn": "2024-09-24T07:30:00.000Z",
+          "wordCount": 1029,
+          "title": "Create Segments From Marketing Lists In Realtime Marketing",
+          "imageUrl": null
+        },
         {
           "id": "https://365community.online/use-the-new-associated-grid-control-to-display-details-of-other-tables-in-subgrids-model-driven-app-dynamics-365",
           "author": "Nishant Rana",
@@ -30836,6 +31026,16 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=3601",
+          "author": "AnithaEswaran",
+          "description": "I encountered the error when a new VM with 10.0.39 was deployed and trying to sync the database. Execute this below command in SQL and try the sync again.",
+          "link": "https://anithasantosh.wordpress.com/2024/09/24/there-is-already-an-object-named-licensing_populateroleprivilegelicensemapv2-in-the-database/",
+          "publishedOn": "2024-09-24T09:29:21.000Z",
+          "wordCount": 3025,
+          "title": "There is already an object named ‘LICENSING_POPULATEROLEPRIVILEGELICENSEMAPV2’ in the database",
+          "imageUrl": "https://anithasantosh.wordpress.com/wp-content/uploads/2024/09/image-8.png"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=3582",
           "author": "AnithaEswaran",
           "description": "Since D365FO is highly customizable, customers frequently request the addition of new fields in reports. However, this can sometimes become cumbersome or challenging when a straightforward extension of the field and logic fails to populate the value in the report … Continue reading →",
@@ -34817,6 +35017,36 @@
       "siteUrl": "https://ax.docentric.com/blog/",
       "articles": [
         {
+          "id": "https://ax.docentric.com/?p=29061",
+          "author": "Sanja Kolundzija",
+          "description": "D365FO Print management framework gives you a lot of flexibility for a price of potentially complex maintenance and even unwanted results. If you are using D365FO Print management overrides, you know what I am talking about. A common problem is that you occasionally get unexpected […]\nThe post Check if D365FO Print Management Settings Overrides are Configured appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/d365fo-print-management-overrides-configuration/",
+          "publishedOn": "2024-09-24T18:23:26.000Z",
+          "wordCount": 11743,
+          "title": "Check if D365FO Print Management Settings Overrides are Configured",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/09/D365Blog-Check-if-D365FO-Print-management-settings-overrides-are-configured-main-image.png"
+        },
+        {
+          "id": "https://ax.docentric.com/?p=29063",
+          "author": "Sanja Kolundzija",
+          "description": "Are you using D365FO Print management overrides? There are situations where it is justified, for example, if you need to use different Project invoice report formats for different clients. There are also situations where companies misuse the Print management overrides, for example, in combination with […]\nThe post Delete all Redundant D365FO Print Management Overrides appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/delete-unwanted-d365fo-print-management-overrides/",
+          "publishedOn": "2024-09-24T15:29:18.000Z",
+          "wordCount": 11722,
+          "title": "Delete all Redundant D365FO Print Management Overrides",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/09/D365Blog-Delete-all-redundant-D365FO-Print-management-overrides-main-image.png"
+        },
+        {
+          "id": "https://ax.docentric.com/?p=29059",
+          "author": "Sanja Kolundzija",
+          "description": "Are you emailing the public-facing documents, such as Sales invoices and Purchase orders, through Print management in D365FO? That means that you need to use Email tokens in the To field of your Email print destination. And if you don’t have perfect quality of your […]\nThe post Find Customers and Vendors With Invalid or Missing Email Addresses in D365FO appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/find-accounts-without-email-address-in-d365fo/",
+          "publishedOn": "2024-09-24T14:01:14.000Z",
+          "wordCount": 11691,
+          "title": "Find Customers and Vendors With Invalid or Missing Email Addresses in D365FO",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/09/D365Blog-Find-Customers-and-Vendors-with-invalid-or-missing-email-addresses-in-D365FO-main-image.png"
+        },
+        {
           "id": "https://ax.docentric.com/?p=29056",
           "author": "Sanja Kolundzija",
           "description": "So, you have mastered the D365FO Print Management, but you find it annoying that the settings are accessible one by one, instead in a convenient tabular view? It is a common configuration to have one Default and multiple Conditional setting, and perhaps also some Copy […]\nThe post Tabular View, Advanced Search and Update in Bulk of D365FO Print Management Settings appeared first on Docentric AX.",
@@ -35895,6 +36125,16 @@
       "feedUrl": "https://erconsult.eu/feed/",
       "siteUrl": "https://erconsult.eu/",
       "articles": [
+        {
+          "id": "https://erconsult.eu/?p=8702",
+          "author": "Eugen Glasow",
+          "description": "The ZUGFeRD format integrates a human-readable PDF/A-3 with an embedded XML file using the CII (Cross-Industry Invoice) syntax, also applicable to xRechnung, a pure XML format for German e-invoices. Starting in 2025, B2B businesses in Germany must handle e-invoices. Microsoft Dynamics 365 for Finance currently supports UBL-based xRechnung imports, but ER-Consult offers a CII-compliant ZUGFeRD import solution. This solution operates without customizations, ensuring integration into existing systems, aligning with legal requirements, and supporting PO matching and tax compliance.\nThe post ZUGFeRD 2.2 import for Dynamics 365 for Finance appeared first on ER-Consult.",
+          "link": "https://erconsult.eu/blog/zugferd-2-2-import-for-dynamics-365-for-finance/",
+          "publishedOn": "2024-09-24T09:54:11.000Z",
+          "wordCount": 2499,
+          "title": "ZUGFeRD 2.2 import for Dynamics 365 for Finance",
+          "imageUrl": "https://erconsult.eu/wp-content/uploads/2023/01/ZUGFeRD_FacturX_Dynamics-365-1024x787.png"
+        },
         {
           "id": "https://erconsult.eu/?p=8518",
           "author": "Eugen Glasow",
