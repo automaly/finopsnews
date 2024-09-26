@@ -13621,6 +13621,56 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/dynamics-gp-end-of-life-announcement",
+          "author": "Jen Kuntz",
+          "description": "Today is a sad day for those of us in the Microsoft Dynamics GP ecosystem, though we all knew it would come eventually. Microsoft has announced a \"Support End Date\" for the product, 31 years after its 1.0 release in 1993. RIP, buddy, it's been a great run… Links (provided by Microsoft) For customers: aka.ms/customerGP-EOL […]",
+          "link": "https://365community.online/dynamics-gp-end-of-life-announcement",
+          "publishedOn": "2024-09-25T15:45:00.000Z",
+          "wordCount": 1059,
+          "title": "Dynamics GP End of Life announcement",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/role-based-sitemap-navigation-in-d365-ce-youtube",
+          "author": "Deepesh Somani",
+          "description": "Role Based Sitemap Navigation in D365 CE source",
+          "link": "https://365community.online/role-based-sitemap-navigation-in-d365-ce-youtube",
+          "publishedOn": "2024-09-25T11:28:50.000Z",
+          "wordCount": 918,
+          "title": "Role Based Sitemap Navigation in D365 CE – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/exploring-integrated-maps-with-a-video-guide-to-maximize-dynamics-365-impact",
+          "author": "Inogic",
+          "description": "Maplytics is a powerful tool for enhancing the capabilities of Dynamics 365 CRM through location-based insights and map visualizations. Below is a summary of each tutorial from two Maplytics video series, explaining how you can master its various features for field service, sales, and more! Tutorial 1: Visualizing Dynamics 365 Data on an Integrated Map […]",
+          "link": "https://365community.online/exploring-integrated-maps-with-a-video-guide-to-maximize-dynamics-365-impact",
+          "publishedOn": "2024-09-25T10:37:42.000Z",
+          "wordCount": 1269,
+          "title": "Exploring Integrated Maps with A Video Guide to Maximize Dynamics 365 Impact",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/configuring-copilot-by-using-different-end-user-authentication-for-actions",
+          "author": "Inogic",
+          "description": "Copilot in Microsoft Dynamics 365 helps to streamline the sales process and close deals faster by reducing the time they spend usually on critical tasks. Copilot provides AI assistance to boost the productivity of the business, generative AI capabilities can be utilized for the summarization of records and email content generation. You can find more details […]",
+          "link": "https://365community.online/configuring-copilot-by-using-different-end-user-authentication-for-actions",
+          "publishedOn": "2024-09-25T10:07:01.000Z",
+          "wordCount": 1321,
+          "title": "Configuring Copilot by using Different End User Authentication for Actions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-list-companies-v3-action",
+          "author": "Ian Grieve",
+          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I… series, a sub-series of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I […]",
+          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-list-companies-v3-action",
+          "publishedOn": "2024-09-25T10:00:26.000Z",
+          "wordCount": 1108,
+          "title": "In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I…  Use the “List Companies V3” Action",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/how-to-remove-contact-and-customer-validation-on-cases-dynamics-365",
           "author": "Nishant Rana",
           "description": "By default, we can only specify the contact associated with the customer for the case record. If we try specifying a contact record that is not associated with the Customer selected, we will get the below error message. Invalid Contact – The specified contact doesn’t belong to the account selected as the customer. Specify a […]",
@@ -13648,6 +13698,16 @@
           "publishedOn": "2024-09-24T14:00:41.000Z",
           "wordCount": 1113,
           "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Use Advanced Settings In The Power Bi Connector",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/mvp-renewal-for-2024-2025",
+          "author": "Jen Kuntz",
+          "description": "This is quite delayed as I am writing this in September, two months after the fact! I was re-awarded the Microsoft MVP award, my 8th award, in July 2024. What's new this time around is I am no longer a \"Business Applications\" MVP, I have been awarded instead for 2 categories – M365 (for Excel), […]",
+          "link": "https://365community.online/mvp-renewal-for-2024-2025",
+          "publishedOn": "2024-09-24T13:15:00.000Z",
+          "wordCount": 1053,
+          "title": "MVP Renewal for 2024/2025",
           "imageUrl": null
         },
         {
@@ -36107,16 +36167,6 @@
           "wordCount": 3767,
           "title": "Sales Categories: D365 Finance and Operations",
           "imageUrl": "https://dynamics-tips.com/wp-content/uploads/2021/10/ProcurementCategories.jpg"
-        },
-        {
-          "id": "https://dynamics-tips.com/?p=2466",
-          "author": "Ali Khan",
-          "description": "Cross-docking is a warehouse operation in which the items required to fulfil an outbound order are automatically directed to the outbound bay-door or staging area from the receiving location of",
-          "link": "https://dynamics-tips.com/cross-docking-with-awms/",
-          "publishedOn": "2022-09-26T17:58:55.000Z",
-          "wordCount": 7168,
-          "title": "Cross-docking with AWMS: D365 Finance and Operations",
-          "imageUrl": "https://dynamics-tips.com/wp-content/uploads/2022/09/CrossDocking.jpg"
         }
       ]
     },
@@ -36321,16 +36371,6 @@
           "wordCount": 4824,
           "title": "Tax Calculation Service in Dynamics 365 Finance and Operations",
           "imageUrl": "https://henrikmarxlarsen.files.wordpress.com/2022/09/tax-1.jpg?w=1200"
-        },
-        {
-          "id": "http://henrikmarxlarsen.wordpress.com/?p=2778",
-          "author": "Henrik Marx Larsen",
-          "description": "Tracking order events to support customer enquiries is very easy in Dynamics 365 Supply Chain Management",
-          "link": "https://henrikmarxlarsen.wordpress.com/2022/09/27/order-events-in-dynamics-365-supply-chain-management/",
-          "publishedOn": "2022-09-27T06:12:10.000Z",
-          "wordCount": 4227,
-          "title": "Order Events in Dynamics 365 Supply Chain Management",
-          "imageUrl": "https://henrikmarxlarsen.files.wordpress.com/2022/09/header.jpg"
         }
       ]
     },

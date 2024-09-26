@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-09-25T00:52:35.281Z</updated>
+    <updated>2024-09-26T00:51:26.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamics GP End of Life announcement]]></title>
+        <id>https://365community.online/dynamics-gp-end-of-life-announcement</id>
+        <link href="https://365community.online/dynamics-gp-end-of-life-announcement"/>
+        <updated>2024-09-25T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Today is a sad day for those of us in the Microsoft Dynamics GP ecosystem, though we all knew it would come eventually. Microsoft has announced a "Support End Date" for the product, 31 years after its 1.0 release in 1993. RIP, buddy, it's been a great run… Links (provided by Microsoft) For customers: aka.ms/customerGP-EOL […]]]></summary>
+        <author>
+            <name>Jen Kuntz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Role Based Sitemap Navigation in D365 CE – YouTube]]></title>
+        <id>https://365community.online/role-based-sitemap-navigation-in-d365-ce-youtube</id>
+        <link href="https://365community.online/role-based-sitemap-navigation-in-d365-ce-youtube"/>
+        <updated>2024-09-25T11:28:50.000Z</updated>
+        <summary type="html"><![CDATA[Role Based Sitemap Navigation in D365 CE source]]></summary>
+        <author>
+            <name>Deepesh Somani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring Integrated Maps with A Video Guide to Maximize Dynamics 365 Impact]]></title>
+        <id>https://365community.online/exploring-integrated-maps-with-a-video-guide-to-maximize-dynamics-365-impact</id>
+        <link href="https://365community.online/exploring-integrated-maps-with-a-video-guide-to-maximize-dynamics-365-impact"/>
+        <updated>2024-09-25T10:37:42.000Z</updated>
+        <summary type="html"><![CDATA[Maplytics is a powerful tool for enhancing the capabilities of Dynamics 365 CRM through location-based insights and map visualizations. Below is a summary of each tutorial from two Maplytics video series, explaining how you can master its various features for field service, sales, and more! Tutorial 1: Visualizing Dynamics 365 Data on an Integrated Map […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configuring Copilot by using Different End User Authentication for Actions]]></title>
+        <id>https://365community.online/configuring-copilot-by-using-different-end-user-authentication-for-actions</id>
+        <link href="https://365community.online/configuring-copilot-by-using-different-end-user-authentication-for-actions"/>
+        <updated>2024-09-25T10:07:01.000Z</updated>
+        <summary type="html"><![CDATA[Copilot in Microsoft Dynamics 365 helps to streamline the sales process and close deals faster by reducing the time they spend usually on critical tasks. Copilot provides AI assistance to boost the productivity of the business, generative AI capabilities can be utilized for the summarization of records and email content generation. You can find more details […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I…  Use the “List Companies V3” Action]]></title>
+        <id>https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-list-companies-v3-action</id>
+        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-list-companies-v3-action"/>
+        <updated>2024-09-25T10:00:26.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I… series, a sub-series of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data engineering functions on large datasets in Microsoft Fabric]]></title>
         <id>http://tomaztsql.wordpress.com/?p=10038</id>
@@ -175,6 +225,16 @@ Microsoft Dynamics 365 Business Central is now available! Business without silos
 What is Microsoft Dynamics 365 Business Central? - Webinar]]></summary>
         <author>
             <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MVP Renewal for 2024/2025]]></title>
+        <id>https://365community.online/mvp-renewal-for-2024-2025</id>
+        <link href="https://365community.online/mvp-renewal-for-2024-2025"/>
+        <updated>2024-09-24T13:15:00.000Z</updated>
+        <summary type="html"><![CDATA[This is quite delayed as I am writing this in September, two months after the fact! I was re-awarded the Microsoft MVP award, my 8th award, in July 2024. What's new this time around is I am no longer a "Business Applications" MVP, I have been awarded instead for 2 categories – M365 (for Excel), […]]]></summary>
+        <author>
+            <name>Jen Kuntz</name>
         </author>
     </entry>
     <entry>
@@ -47146,26 +47206,6 @@ In the user form System administration > Users > Users, go to Maintain versions.
 Delete the person.]]></summary>
         <author>
             <name>Max Nguyen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Order Events in Dynamics 365 Supply Chain Management]]></title>
-        <id>http://henrikmarxlarsen.wordpress.com/?p=2778</id>
-        <link href="https://henrikmarxlarsen.wordpress.com/2022/09/27/order-events-in-dynamics-365-supply-chain-management/"/>
-        <updated>2022-09-27T06:12:10.000Z</updated>
-        <summary type="html"><![CDATA[Tracking order events to support customer enquiries is very easy in Dynamics 365 Supply Chain Management]]></summary>
-        <author>
-            <name>Henrik Marx Larsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cross-docking with AWMS: D365 Finance and Operations]]></title>
-        <id>https://dynamics-tips.com/?p=2466</id>
-        <link href="https://dynamics-tips.com/cross-docking-with-awms/"/>
-        <updated>2022-09-26T17:58:55.000Z</updated>
-        <summary type="html"><![CDATA[Cross-docking is a warehouse operation in which the items required to fulfil an outbound order are automatically directed to the outbound bay-door or staging area from the receiving location of]]></summary>
-        <author>
-            <name>Ali Khan</name>
         </author>
     </entry>
 </feed>
