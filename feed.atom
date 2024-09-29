@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-09-28T00:51:01.226Z</updated>
+    <updated>2024-09-29T00:56:20.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Inogic at Community Summit Booth #1017: Your Gateway to Microsoft Dynamics, AI & Power Platform Innovation!]]></title>
+        <id>https://365community.online/inogic-at-community-summit-booth-1017-your-gateway-to-microsoft-dynamics-ai-power-platform-innovation</id>
+        <link href="https://365community.online/inogic-at-community-summit-booth-1017-your-gateway-to-microsoft-dynamics-ai-power-platform-innovation"/>
+        <updated>2024-09-28T10:09:33.000Z</updated>
+        <summary type="html"><![CDATA[As summer winds down and we embrace the back-to-school energy, it’s time to look forward to the most exciting event in the Microsoft Business Applications world—the Community Summit 2024! This year, the summit takes place in San Antonio, Texas, from October 13-17, and we are thrilled to announce that Inogic is returning as a Platinum […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 67 Exhibitors To Visit at Summit NA 2024]]></title>
         <id>https://erpsoftwareblog.com/?p=119043</id>
@@ -18,6 +28,16 @@ Cavallo SVP Zach Wetta to Share Insights on How to Eliminate Profit Defects at C
 Dynamics 365 Business Central and Industry-Tailored Functionality]]></summary>
         <author>
             <name>ERP Software Blog Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Losing track of all the housing reports you need to bring yourself up to date with?]]></title>
+        <id>https://365community.online/losing-track-of-all-the-housing-reports-you-need-to-bring-yourself-up-to-date-with</id>
+        <link href="https://365community.online/losing-track-of-all-the-housing-reports-you-need-to-bring-yourself-up-to-date-with"/>
+        <updated>2024-09-27T19:03:26.000Z</updated>
+        <summary type="html"><![CDATA[I just loaded this housing ombudsman report into Googles https://notebooklm.google and the results were great. It generated: An AI Generated Conversation to listen to on the go! And an FAQ: Sanctuary Housing Association Case 202219328 1. What was the nature of the complaint against Sanctuary Housing Association? The complaint centred around two key issues: Handling […]]]></summary>
+        <author>
+            <name>Chris Roberts</name>
         </author>
     </entry>
     <entry>
@@ -185,6 +205,16 @@ How to Choose a Mobile Computer to use with Business Central
 Quote Generation with Product Configurator for Business Central]]></summary>
         <author>
             <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekly Update #154 – 27th September 2024 – YouTube]]></title>
+        <id>https://365community.online/weekly-update-154-27th-september-2024-youtube</id>
+        <link href="https://365community.online/weekly-update-154-27th-september-2024-youtube"/>
+        <updated>2024-09-27T07:36:02.000Z</updated>
+        <summary type="html"><![CDATA[Weekly Update #154 – 27th September 2024 Tune in as I explore the latest Azure updates from the past week. Enjoyed the podcast? Consider buying me a coffee to show your support: ⁠⁠⁠⁠https://ko-fi.com/techielass Tune in as I explore the latest Azure updates from the past week. Enjoyed the podcast? Consider buying me a coffee to […]]]></summary>
+        <author>
+            <name>Sarah Lean ???????</name>
         </author>
     </entry>
     <entry>
@@ -47677,17 +47707,6 @@ Dynamics 365 FO data entities are more complex since they encompass a wide range
 Furthermore, each data source could result in multiple tables. During a transaction, most processes…]]></summary>
         <author>
             <name>Rakesh Darge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enumerate lines in Configurable Business Documents]]></title>
-        <id>https://erconsult.eu/?p=7315</id>
-        <link href="https://erconsult.eu/blog/enumerate-lines-in-configurable-business-documents/"/>
-        <updated>2022-09-29T21:39:41.000Z</updated>
-        <summary type="html"><![CDATA[The delivery note, invoice etc. Report Data Providers in Dynamics 365 for Finance do not expose line numbers for no obvious reason. For instance, the SalesInvoiceTmp  table sent from D365 to the report renderer – whatever it is – misses the line number. The situation becomes dire when it comes to Electronic […]
-The post Enumerate lines in Configurable Business Documents appeared first on ER-Consult.]]></summary>
-        <author>
-            <name>Eugen Glasow</name>
         </author>
     </entry>
 </feed>

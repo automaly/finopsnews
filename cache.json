@@ -13851,6 +13851,31 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/inogic-at-community-summit-booth-1017-your-gateway-to-microsoft-dynamics-ai-power-platform-innovation",
+          "author": "Inogic",
+          "description": "As summer winds down and we embrace the back-to-school energy, it’s time to look forward to the most exciting event in the Microsoft Business Applications world—the Community Summit 2024! This year, the summit takes place in San Antonio, Texas, from October 13-17, and we are thrilled to announce that Inogic is returning as a Platinum […]",
+          "link": "https://365community.online/inogic-at-community-summit-booth-1017-your-gateway-to-microsoft-dynamics-ai-power-platform-innovation",
+          "publishedOn": "2024-09-28T10:09:33.000Z",
+          "wordCount": 1336,
+          "title": "Inogic at Community Summit Booth #1017: Your Gateway to Microsoft Dynamics, AI & Power Platform Innovation!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/losing-track-of-all-the-housing-reports-you-need-to-bring-yourself-up-to-date-with",
+          "author": "Chris Roberts",
+          "description": "I just loaded this housing ombudsman report into Googles https://notebooklm.google and the results were great. It generated: An AI Generated Conversation to listen to on the go! And an FAQ: Sanctuary Housing Association Case 202219328 1. What was the nature of the complaint against Sanctuary Housing Association? The complaint centred around two key issues: Handling […]",
+          "link": "https://365community.online/losing-track-of-all-the-housing-reports-you-need-to-bring-yourself-up-to-date-with",
+          "publishedOn": "2024-09-27T19:03:26.000Z",
+          "wordCount": 1085,
+          "title": "Losing track of all the housing reports you need to bring yourself up to date with?",
+          "enclosure": {
+            "url": "https://deliveringcrm.net/wp-content/uploads/2024/09/Untitled-notebook-1.wav",
+            "length": "30835244",
+            "type": "audio/wav"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/blue-green-deployment-with-azure-app-service-deployment-slots-using-azure-devops",
           "author": "Kieran Holmes",
           "description": "AI generated Image — Microsoft Designer In the ever-evolving world of software development, ensuring smooth deployments while minimizing downtime and risk is crucial. One effective strategy that has gained traction is Blue-Green Deployment. When in conjunction with Azure Web App’s Deployment Slots, this strategy can enhance your deployment process significantly. Let’s explore how to… Continue Reading Sahitya […]",
@@ -13908,6 +13933,16 @@
           "publishedOn": "2024-09-27T09:50:56.000Z",
           "wordCount": 1314,
           "title": "Discover the Latest 2024 Updates to Dynamics 365 Lead Qualification",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/weekly-update-154-27th-september-2024-youtube",
+          "author": "Sarah Lean ???????",
+          "description": "Weekly Update #154 – 27th September 2024 Tune in as I explore the latest Azure updates from the past week. Enjoyed the podcast? Consider buying me a coffee to show your support: ⁠⁠⁠⁠https://ko-fi.com/techielass Tune in as I explore the latest Azure updates from the past week. Enjoyed the podcast? Consider buying me a coffee to […]",
+          "link": "https://365community.online/weekly-update-154-27th-september-2024-youtube",
+          "publishedOn": "2024-09-27T07:36:02.000Z",
+          "wordCount": 971,
+          "title": "Weekly Update #154 – 27th September 2024 – YouTube",
           "imageUrl": null
         },
         {
@@ -36738,16 +36773,6 @@
           "wordCount": 2293,
           "title": "Sometimes you pay Reverse Charge in D365",
           "imageUrl": "https://erconsult.eu/wp-content/uploads/2017/03/VAT.jpg"
-        },
-        {
-          "id": "https://erconsult.eu/?p=7315",
-          "author": "Eugen Glasow",
-          "description": "The delivery note, invoice etc. Report Data Providers in Dynamics 365 for Finance do not expose line numbers for no obvious reason. For instance, the SalesInvoiceTmp  table sent from D365 to the report renderer – whatever it is – misses the line number. The situation becomes dire when it comes to Electronic […]\nThe post Enumerate lines in Configurable Business Documents appeared first on ER-Consult.",
-          "link": "https://erconsult.eu/blog/enumerate-lines-in-configurable-business-documents/",
-          "publishedOn": "2022-09-29T21:39:41.000Z",
-          "wordCount": 1836,
-          "title": "Enumerate lines in Configurable Business Documents",
-          "imageUrl": "https://erconsult.eu/wp-content/uploads/2017/04/ER_Cookbook.jpg"
         }
       ]
     },
