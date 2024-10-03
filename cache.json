@@ -1248,6 +1248,16 @@
       "siteUrl": "https://tomaztsql.wordpress.com",
       "articles": [
         {
+          "id": "http://tomaztsql.wordpress.com/?p=10036",
+          "author": "tomaztsql",
+          "description": "ROC (Receiver Operation Characteristics) – curve is a graph that shows how classifiers performs by plotting the true positive and false positive rates. It is used to evaluate the performance of binary classification models by illustrating the trade-off between True…\nRead more ›",
+          "link": "https://tomaztsql.wordpress.com/2024/10/02/data-science-with-microsoft-fabric-plotting-roc-curve-and-distribution-of-scores/",
+          "publishedOn": "2024-10-02T17:37:07.000Z",
+          "wordCount": 4978,
+          "title": "Data science with Microsoft Fabric – Plotting ROC curve and distribution of scores",
+          "imageUrl": "https://tomaztsql.wordpress.com/wp-content/uploads/2024/10/image-4.png"
+        },
+        {
           "id": "http://tomaztsql.wordpress.com/?p=10038",
           "author": "tomaztsql",
           "description": "Data engineering and even simple data wrangling functions in Fabric can make several tasks faster, when you know know, which package (language) to choose. By comparing Python Pandas with PySpark Pandas (Koalas), we will see that there are huge performance…\nRead more ›",
@@ -1521,6 +1531,76 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=119236",
+          "author": "ERP Software Blog Writer",
+          "description": "xxx\nMany businesses face significant challenges while managing their accounts payable processes due to a lack of automation and standardized procedures. Many rely on manual data entry, which is time-consuming and […]\nThe post Compare Five AP Automation Tools for Business Central appeared first on ERP Software Blog.\nSwitching from Sage MAS 90 To Dynamics GP - Video Review & Testimonial\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!",
+          "link": "https://erpsoftwareblog.com/2024/10/compare-five-ap-automation-tools-for-business-central/",
+          "publishedOn": "2024-10-02T16:11:46.000Z",
+          "wordCount": 7917,
+          "title": "Compare Five AP Automation Tools for Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2024-08-19-MSDW-AP-Automation-Showcase-Banners-BC_1200-x-628-1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=119212",
+          "author": "k-ecommerce",
+          "description": "xxx\nJoin us at Community Summit, October 13-17, 2024, where we’ll be a Platinum Sponsor at the largest independent innovation, education, and training event for Microsoft business applications. We’re excited to […]\nThe post Meet with k-ecommerce at Community Summit 2024 appeared first on ERP Software Blog.\nBest strategies, insights and techniques for a successful eCommerce implementation\nHow to help your sales team embrace a B2B eCommerce strategy\nIncrease your to-order close rates with online quote configuration (with webinar recording)",
+          "link": "https://erpsoftwareblog.com/2024/10/meet-with-k-ecommerce-at-community-summit-2024/",
+          "publishedOn": "2024-10-02T15:26:55.000Z",
+          "wordCount": 3944,
+          "title": "Meet with k-ecommerce at Community Summit 2024",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/KEC-CS2024-1200x627_Lin-300x156.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=119219",
+          "author": "Solution Systems, Inc.",
+          "description": "xxx\nA Microsoft Dynamics 365 Business Central podcast | Episode 65 A Shot of Business Central and A Beer Welcome to the show notes for Episode 65 of A Shot of […]\nThe post Ep 65 | Copilot in Business Central | A Shot of Business Central and A Beer appeared first on ERP Software Blog.\nEp. 63: Interview with Kennie Pontoppidan | A Shot of Business Central and A Beer podcast\nWhat's New in Business Central 2024 Release Wave 2\nBusiness Central Copilot | The Definitive Guide",
+          "link": "https://erpsoftwareblog.com/2024/10/ep-65-copilot-in-business-central-a-shot-of-business-central-and-a-beer/",
+          "publishedOn": "2024-10-02T15:24:50.000Z",
+          "wordCount": 5037,
+          "title": "Ep 65 | Copilot in Business Central | A Shot of Business Central and A Beer",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Ep-65-Shot-of-BC-N-Beer.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=119213",
+          "author": "Western Computer",
+          "description": "xxx\nAs business owners near retirement, they often reflect on the legacy they'll leave behind. They wonder how their successors will get on and whether they have set up their company […]\nThe post Leveraging Dynamics 365 Business Central Cloud Enhances Owners' Legacy appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve\nMore Than Just a Name Change: The New Microsoft Dynamics 365 Business Central\nWhat is Microsoft Dynamics 365 Business Central? - Webinar",
+          "link": "https://erpsoftwareblog.com/2024/10/leveraging-dynamics-365-business-central-cloud-enhances-owners-legacy/",
+          "publishedOn": "2024-10-02T15:22:18.000Z",
+          "wordCount": 4310,
+          "title": "Leveraging Dynamics 365 Business Central Cloud Enhances Owners' Legacy",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/distribution-network-istock-scaled.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=119209",
+          "author": "MetaOption LLC",
+          "description": "xxx\nThe growth of workflow automation in document management is changing how businesses handle documentation. Significantly it enhances accuracy, regulates compliance, and increases productivity. With automation techniques, companies can easily restructure their document management and […]\nThe post How to Implement Workflow Automation in Document Management appeared first on ERP Software Blog.\nUnlocking the Power of Workflow Automation in Document Management\nHow MetaDocs Can Help You Streamline Document Management in Business Central\nHow to Improve Compliance with a Document Management Solution?",
+          "link": "https://erpsoftwareblog.com/2024/10/how-to-implement-workflow-automation-in-document-management/",
+          "publishedOn": "2024-10-02T13:56:35.000Z",
+          "wordCount": 4293,
+          "title": "How to Implement Workflow Automation in Document Management",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-2-57.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=119177",
+          "author": "Crestwood Associates LLC",
+          "description": "xxx\nMicrosoft’s recent announcement of the end of life for Dynamics GP has left many businesses wondering what comes next. As support and updates for this widely-used ERP solution phase out, […]\nThe post What the Dynamics GP End of Life Means for Your Business: Key Considerations and Next Steps appeared first on ERP Software Blog.\nBest strategies, insights and techniques for a successful eCommerce implementation\nNEW White Paper:  Automated Product Recalls are Critical to Protecting Your Brand and Corporate Image\nThe Important Business Function Your ERP System CAN'T Do",
+          "link": "https://erpsoftwareblog.com/2024/10/what-the-dynamics-gp-end-of-life-means-for-your-business-key-considerations-and-next-steps/",
+          "publishedOn": "2024-10-02T13:00:29.000Z",
+          "wordCount": 4729,
+          "title": "What the Dynamics GP End of Life Means for Your Business: Key Considerations and Next Steps",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Microsoft-GP-End-Of-Life-ERP-625x417.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=119197",
+          "author": "ERP Software Blog Writer",
+          "description": "xxx\nLarge corporations often face challenges with their Accounts Payable (AP) processes, even with a robust ERP system, such as Dynamics 365 Finance. One major issue is the complexity of managing […]\nThe post Compare 4 Top Dynamics 365 Finance Accounts Payable Products appeared first on ERP Software Blog.\nRecordings: Financial Management Add-on Showcase for Dynamics ERP - June 2022\nFireworks and Marching Bands at Summit 2016. Really.\nA Wake-up Call - A Game Changer Is on the Way",
+          "link": "https://erpsoftwareblog.com/2024/10/compare-4-top-dynamics-365-finance-accounts-payable-products/",
+          "publishedOn": "2024-10-02T10:25:11.000Z",
+          "wordCount": 4745,
+          "title": "Compare 4 Top Dynamics 365 Finance Accounts Payable Products",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2024-08-19-MSDW-AP-Automation-Showcase-Banners-AX_1200-x-628.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=119180",
           "author": "MetaOption LLC",
@@ -13990,6 +14070,36 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-self-heal-ui-and-browser-automation-actions-at-execution-with-ai",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Power Automate 2024 Wave 2. The 7th of the new functionality in the Desktop flows section is self-heal UI and browser automation actions at execution […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-self-heal-ui-and-browser-automation-actions-at-execution-with-ai",
+          "publishedOn": "2024-10-02T14:00:00.000Z",
+          "wordCount": 1135,
+          "title": "New Functionality In Microsoft Power Automate 2024 Wave 2: Self-Heal UI And Browser Automation Actions at Execution With AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-use-natural-language-to-create-a-flow-in-teams",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Power Automate 2024 Wave 2. The 7th of the new functionality in the Copilot for Power Automate section is use natural language to create a […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-use-natural-language-to-create-a-flow-in-teams",
+          "publishedOn": "2024-10-02T12:00:00.000Z",
+          "wordCount": 1133,
+          "title": "New Functionality In Microsoft Power Automate 2024 Wave 2: Use Natural Language To Create A Flow In Teams",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-maximize-your-productivity-with-generative-answers",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Power Automate 2024 Wave 2. The 5th of the new functionality in the Copilot for Power Automate section is maximize your productivity with generative answers. […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-maximize-your-productivity-with-generative-answers",
+          "publishedOn": "2024-10-02T10:00:00.000Z",
+          "wordCount": 1116,
+          "title": "New Functionality In Microsoft Power Automate 2024 Wave 2: Maximize Your Productivity With Generative Answers",
+          "imageUrl": null
+        },
         {
           "id": "https://365community.online/using-microsoft-copilot-studio-to-create-copilot-for-teams-channel-with-dataverse-as-knowledge-source-copilot-dataverse",
           "author": "Nishant Rana",
@@ -34649,6 +34759,106 @@
       "feedUrl": "https://exploredynamics365.home.blog/blog-feed/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2933",
+          "author": "Saurabh Bharti",
+          "description": "Welcome to the next video on “Learning Path to Become Functional consultant” series. In the last video, I discussed about test plans in Azure DevOps which you can have for different testing types that functional consultants should be familiar with. Now in This Video, I talk about following: Let’s explore the essentials of Azure DevOps […]",
+          "link": "https://exploredynamics365.home.blog/2024/09/30/testingtest-cases-using-bpm-library-and-task-recorder-in-azure-devops-learning-path-to-become-functional-consultantfc-013/",
+          "publishedOn": "2024-09-30T07:51:22.000Z",
+          "wordCount": 3307,
+          "title": "[Testing]Test cases using BPM Library and Task Recorder in Azure DevOps: Learning Path to Become Functional Consultant:FC-013",
+          "imageUrl": "http://img.youtube.com/vi/9ekuRyObmuE/0.jpg"
+        },
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2930",
+          "author": "Saurabh Bharti",
+          "description": "Welcome to the next video on “Learning Path to Become Functional consultant” series. In the previous few videos, I discussed the testing strategy and test types that functional consultants should be familiar with. It’s crucial to have a solid process for documenting and managing test plans, cases, and execution across all phases of a project […]",
+          "link": "https://exploredynamics365.home.blog/2024/09/30/testingtest-plans-and-test-cases-in-azure-devops-learning-path-to-become-functional-consultantfc-012/",
+          "publishedOn": "2024-09-30T07:49:37.000Z",
+          "wordCount": 3319,
+          "title": "[Testing]Test plans and test cases in Azure DevOps: Learning Path to Become Functional Consultant:FC-012",
+          "imageUrl": "http://img.youtube.com/vi/bQQp9uu0-y0/0.jpg"
+        },
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2927",
+          "author": "Saurabh Bharti",
+          "description": "What is physical cost in Dynamics 365 F&O? Anything which has been received or shipped but not invoiced is considered as physical cost for inventory quantity which gets converted into financial cost once that transaction is invoiced. How weighted average is calculated in Dynamics 365? Weighted average calculation in Dynamics 365 is = Total Financial […]",
+          "link": "https://exploredynamics365.home.blog/2024/09/30/physical-cost-inclusion-for-weighted-average-valuation-in-microsoft-dynamics-365-finance-and-operations-part-13/",
+          "publishedOn": "2024-09-30T07:47:41.000Z",
+          "wordCount": 3262,
+          "title": "Physical cost inclusion for Weighted Average Valuation in Microsoft Dynamics 365 Finance and Operations: Part-13",
+          "imageUrl": "http://img.youtube.com/vi/YPj8MNTjKqM/0.jpg"
+        },
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2924",
+          "author": "Saurabh Bharti",
+          "description": "10.0.41 has got another new feature for customer prepayments against the sales order. There was a feature to record prepayment against sales order but that was not a great, it had lot of issues for tracking and settlements which also got deprecated. Now Microsoft has released new feature with new design and framework. Let’s explore […]",
+          "link": "https://exploredynamics365.home.blog/2024/09/30/customer-prepayment-in-microsoft-dynamics-365-finance-and-operation/",
+          "publishedOn": "2024-09-30T07:46:13.000Z",
+          "wordCount": 3214,
+          "title": "Customer Prepayment in Microsoft Dynamics 365 Finance and Operation",
+          "imageUrl": "http://img.youtube.com/vi/DYr7fPxhZSQ/0.jpg"
+        },
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2921",
+          "author": "Saurabh Bharti",
+          "description": "Use case: Employee requested 5,000 USD cash advance for business travel. Return from travel and spent 4,500 USD only and need to submit the expense report. How do you adjustment or Map Cash advance to the expense report? How do you return the cash which is not used while submitting expense report?",
+          "link": "https://exploredynamics365.home.blog/2024/09/30/apply-cash-advance-to-expense-report-in-microsoft-dynamics-365-finance-and-operation/",
+          "publishedOn": "2024-09-30T07:44:57.000Z",
+          "wordCount": 3209,
+          "title": "Apply Cash Advance to Expense Report in Microsoft Dynamics 365 Finance and Operation",
+          "imageUrl": "http://img.youtube.com/vi/L7RHUE-WBQ8/0.jpg"
+        },
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2918",
+          "author": "Saurabh Bharti",
+          "description": "Are you using Financial Tags in your project? If yes, then What about Financial tags which are inactive but having posted transactions? Why would you inactive financial tags? It’s possible that a customer initially decides to use a specific financial tag to capture an additional attribute on financial transactions but later decides to discontinue its […]",
+          "link": "https://exploredynamics365.home.blog/2024/09/30/view-inactive-financial-tags-in-microsoft-dynamics-365-finance-and-operation/",
+          "publishedOn": "2024-09-30T07:43:31.000Z",
+          "wordCount": 3228,
+          "title": "View Inactive Financial Tags in Microsoft Dynamics 365 Finance and Operation",
+          "imageUrl": "http://img.youtube.com/vi/ODG8A0VaW44/0.jpg"
+        },
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2915",
+          "author": "Saurabh Bharti",
+          "description": "Microsoft has released a new feature “Dynamics 365 Approval management” for Microsoft Dynamics 365 finance and operations which currently supports us to manage purchase order and purchase requisition approval through the mobile app. This app not only allows to approve PO’s and PR’s through mobile app but also help in accessing all the information required […]",
+          "link": "https://exploredynamics365.home.blog/2024/09/30/new-feature-approval-management-app-in-microsoft-dynamics-365-finance-and-operation/",
+          "publishedOn": "2024-09-30T07:42:01.000Z",
+          "wordCount": 3275,
+          "title": "[New Feature] Approval Management App in Microsoft Dynamics 365 Finance and Operation",
+          "imageUrl": "http://img.youtube.com/vi/1XGFJtE03k0/0.jpg"
+        },
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2912",
+          "author": "Saurabh Bharti",
+          "description": "Welcome to the next video on “Learning Path to Become Functional consultant” series. In the last video, we talked about the key components for testing strategy. Now in this video we will further break down to understand different test types using one example. As functional consultant we are responsible for following test types during the […]",
+          "link": "https://exploredynamics365.home.blog/2024/09/30/testingtest-types-learning-path-to-become-functional-consultantfc-011/",
+          "publishedOn": "2024-09-30T07:39:44.000Z",
+          "wordCount": 3282,
+          "title": "[Testing]Test types: Learning Path to Become Functional Consultant:FC-011",
+          "imageUrl": "http://img.youtube.com/vi/lFYYk7QoEUY/0.jpg"
+        },
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2909",
+          "author": "Saurabh Bharti",
+          "description": "Welcome to the next video on “Learning Path to Become Functional consultant” series. Testing plays a crucial role in the success of the any implementation, I’ve witnessed numerous projects encounter failures or issues due to inadequate testing during the implementation phase. This often results in project delays, poor user adoption, and unstable solutions. Proper testing […]",
+          "link": "https://exploredynamics365.home.blog/2024/09/30/testingtest-strategy-components-learning-path-to-become-functional-consultantfc-010/",
+          "publishedOn": "2024-09-30T07:38:18.000Z",
+          "wordCount": 3300,
+          "title": "[Testing]Test strategy components: Learning Path to Become Functional Consultant:FC-010",
+          "imageUrl": "http://img.youtube.com/vi/mW9wfuMdRzs/0.jpg"
+        },
+        {
+          "id": "http://exploredynamics365.home.blog/?p=2905",
+          "author": "Saurabh Bharti",
+          "description": "Product bundle was first introduced in module revenue recognition but as we all know the there is new modules which has been introduced and will replace revenue recognition “Subscription Billing “. Few Questions?",
+          "link": "https://exploredynamics365.home.blog/2024/09/30/product-bundles-in-microsoft-dynamics-365-finance-and-operations/",
+          "publishedOn": "2024-09-30T07:36:19.000Z",
+          "wordCount": 3229,
+          "title": "Product bundles in Microsoft Dynamics 365 Finance and Operations",
+          "imageUrl": "http://img.youtube.com/vi/yT1KnTrF-w0/0.jpg"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=2902",
           "author": "Saurabh Bharti",
