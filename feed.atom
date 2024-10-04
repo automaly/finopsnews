@@ -2,10 +2,143 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-10-03T00:51:36.175Z</updated>
+    <updated>2024-10-04T00:51:39.826Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft D365 Business Central Invoice Processing: Go Beyond Out-of-Box Functionality]]></title>
+        <id>https://erpsoftwareblog.com/?p=119256</id>
+        <link href="https://erpsoftwareblog.com/2024/10/microsoft-d365-business-central-invoice-processing-go-beyond-out-of-box-functionality/"/>
+        <updated>2024-10-03T17:26:02.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Microsoft Dynamics 365 Business Central is a pretty awesome accounting solution. With tons of features out of the box, plus a wealth of extensions available through AppSource. In fact the […]
+The post Microsoft D365 Business Central Invoice Processing: Go Beyond Out-of-Box Functionality appeared first on ERP Software Blog.
+The Struggle to Hire an Accounts Payable Clerk
+Dynamics GP to Business Central Migration? Consider these Differences
+Are Your D365 Business Central Payments Truly Automated]]></summary>
+        <author>
+            <name>Fidesic AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NAV Case Study: Transforming a Critical Challenge into Success]]></title>
+        <id>https://erpsoftwareblog.com/?p=119231</id>
+        <link href="https://erpsoftwareblog.com/2024/10/nav-case-study-transforming-a-critical-challenge-into-success/"/>
+        <updated>2024-10-03T15:25:30.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+  In today’s rapidly evolving digital landscape, business continuity and operational resilience are paramount. At the heart of every successful transformation is the ability to respond to challenges with agility […]
+The post NAV Case Study: Transforming a Critical Challenge into Success appeared first on ERP Software Blog.
+Video Testimonial: Clients First & Dynamics NAV, Keeping the Railroads Moving
+Microsoft NAV 2016 Version Upgrade! Never Worry!!
+Telltale Signs You’ve Outgrown QuickBooks - Part 1]]></summary>
+        <author>
+            <name>Michael Intravartolo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 2: Use Machine To Credential Mapping In Desktop Flow Connections]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-use-machine-to-credential-mapping-in-desktop-flow-connections</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-use-machine-to-credential-mapping-in-desktop-flow-connections"/>
+        <updated>2024-10-03T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Power Automate 2024 Wave 2. The 9th of the new functionality in the Desktop flows section is use machine to credential mapping in desktop flow […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Currency and Exchange rates in ProjOps and FinOps]]></title>
+        <id>https://365community.online/currency-and-exchange-rates-in-projops-and-finops</id>
+        <link href="https://365community.online/currency-and-exchange-rates-in-projops-and-finops"/>
+        <updated>2024-10-03T13:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Currency on the Project record  There are 3 currencies in FinOps: Transaction currency – In which transaction happens Accounting currency – In which the company accounts (configured in the Ledger under Accounting currency) Reporting currency – In which the company reports (configured in the Ledger under Reporting currency) There are 3 currencies in ProjOps as […]]]></summary>
+        <author>
+            <name>Sarang Kusare</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Dynamics 365 Customer Insights?]]></title>
+        <id>https://www.encorebusiness.com/?p=64559</id>
+        <link href="https://www.encorebusiness.com/blog/what-is-d365-customer-insights/"/>
+        <updated>2024-10-03T13:10:25.000Z</updated>
+        <summary type="html"><![CDATA[What Is Dynamics 365 Customer Insights? 
+Dynamics 365 Customer Insights is designed to help sales, service, and marketing departments reduce their time to sell, serve, and communicate while decreasing their overhead. Below, I’ll explain how it’s licensed, how the functionality of the app has grown in recent years, and what it’s used for. I’ll finish up by explaining what needs it...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Jess Mooney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 2: Power Fx Integration With Power Automate For Desktop]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-power-fx-integration-with-power-automate-for-desktop</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-power-fx-integration-with-power-automate-for-desktop"/>
+        <updated>2024-10-03T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Power Automate 2024 Wave 2. The 8th of the new functionality in the Desktop flows section is power Fx integration with Power Automate for desktop. […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central’s Most Trusted License Plating App, a Five-Star Rating on AppSource]]></title>
+        <id>https://erpsoftwareblog.com/?p=118991</id>
+        <link href="https://erpsoftwareblog.com/2024/10/business-centrals-most-trusted-license-plating-app-a-five-star-rating-on-appsource/"/>
+        <updated>2024-10-03T10:42:45.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+License Plating version 1.97 from Insight Works expands mixed item tracking capabilities, enhances inventory accuracy, and optimizes workflows for manufacturers and distributors using Business Central.
+The post Business Central’s Most Trusted License Plating App, a Five-Star Rating on AppSource appeared first on ERP Software Blog.
+License Plating v1.97: Transforming Warehouse Management in Business Central
+Top 10 Reasons to Use Business Central’s License Plating App
+Warehouse Insight Now Available for Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I… Use the “Update an Image, File or Document V3” Action]]></title>
+        <id>https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-update-an-image-file-or-document-v3-action</id>
+        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-update-an-image-file-or-document-v3-action"/>
+        <updated>2024-10-03T10:00:33.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I… series, a sub-series of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Enhancements in your Microsoft Dynamics 365 Undo and Restore Process!]]></title>
+        <id>https://365community.online/new-enhancements-in-your-microsoft-dynamics-365-undo-and-restore-process</id>
+        <link href="https://365community.online/new-enhancements-in-your-microsoft-dynamics-365-undo-and-restore-process"/>
+        <updated>2024-10-03T06:28:33.000Z</updated>
+        <summary type="html"><![CDATA[You’re in the middle of a hectic workday, and amid a rush of clicks and decisions, you accidentally delete a crucial record from your CRM. Panic sets in as you realize the impact this mistake could have on your workflow. Studies show that 30% of users admit to accidentally deleting important records in their CRM […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Record travel expenses in D365FO: A new fully automated way]]></title>
+        <id>http://dynamicsax-fico.com/?p=6744</id>
+        <link href="https://dynamicsax-fico.com/2024/10/03/record-travel-expenses-in-d365fo-a-new-fully-automated-way/"/>
+        <updated>2024-10-03T05:10:09.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhancing Credit Management and Reducing Financial Risk in Large Enterprises with Dynamics 365 Finance]]></title>
+        <id>https://erpsoftwareblog.com/?p=119253</id>
+        <link href="https://erpsoftwareblog.com/2024/10/enhancing-credit-management-and-reducing-financial-risk-in-large-enterprises-with-dynamics-365-finance/"/>
+        <updated>2024-10-03T04:19:42.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+One of the most critical challenges large enterprises face today is effectively managing credit while mitigating financial risk. As businesses scale, the complexity of managing credit policies, ensuring timely collections, […]
+The post Enhancing Credit Management and Reducing Financial Risk in Large Enterprises with Dynamics 365 Finance appeared first on ERP Software Blog.
+Introducing deFacto POWER Planning
+How Machine Learning is Transforming Accounts Payable
+Refunding Customers is Automated in Microsoft Dynamics GP]]></summary>
+        <author>
+            <name>Dynamics Square AU</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data science with Microsoft Fabric – Plotting ROC curve and distribution of scores]]></title>
         <id>http://tomaztsql.wordpress.com/?p=10036</id>
@@ -30,6 +163,16 @@ Better Information = Stronger Company in Tough Economy
 Hassle Free Upgrades with Dynamics GP Resellers!]]></summary>
         <author>
             <name>ERP Software Blog Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STOP Wasting Time and Energy with Poor POSTURE Management! – YouTube]]></title>
+        <id>https://365community.online/stop-wasting-time-and-energy-with-poor-posture-management-youtube</id>
+        <link href="https://365community.online/stop-wasting-time-and-energy-with-poor-posture-management-youtube"/>
+        <updated>2024-10-02T15:44:23.000Z</updated>
+        <summary type="html"><![CDATA[Are you tired of wasting time and energy due to poor posture management? Learn how to protect your workload with these SC-100 exam tips! Episode Breakdown: 00:00 – Episode Intro 00:47 – Episode Breakdown 01:14 – Overview of Posture evaluation with Defender for Cloud 07:23 – Design posture management & workload protection in Hybrid & […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
         </author>
     </entry>
     <entry>
@@ -125,6 +268,16 @@ The Important Business Function Your ERP System CAN'T Do]]></summary>
         <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Power Automate 2024 Wave 2. The 7th of the new functionality in the Copilot for Power Automate section is use natural language to create a […]]]></summary>
         <author>
             <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Debugging Tricks Programmers Don’t Want You to Know! – YouTube]]></title>
+        <id>https://365community.online/3-debugging-tricks-programmers-dont-want-you-to-know-youtube</id>
+        <link href="https://365community.online/3-debugging-tricks-programmers-dont-want-you-to-know-youtube"/>
+        <updated>2024-10-02T11:30:05.000Z</updated>
+        <summary type="html"><![CDATA[3 Debugging Tricks Programmers Don’t Want You to Know! 🧐Debugging is one of the most essential, yet time-consuming, tasks for every programmer. But what if you could master it with some insider tricks? In this video , we’re revealing 3 advanced debugging techniques that most developers keep under wraps. Whether you’re a seasoned coder or […]]]></summary>
+        <author>
+            <name>Sourav Raj</name>
         </author>
     </entry>
     <entry>
