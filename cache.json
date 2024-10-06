@@ -14191,6 +14191,26 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/5-tips-to-write-clean-code-that-doesnt-stink-youtube",
+          "author": "Sourav Raj",
+          "description": "5 Tips to write Clean code that doesn’t stink Clean code is the foundation of maintainable, efficient, and scalable software. In this video, I’m sharing 5 practical tips to help you write code that not only works but is easy to read, understand, and improve! Whether you’re a beginner or an experienced developer, these tips […]",
+          "link": "https://365community.online/5-tips-to-write-clean-code-that-doesnt-stink-youtube",
+          "publishedOn": "2024-10-05T06:30:01.000Z",
+          "wordCount": 1176,
+          "title": "5 Tips to write Clean code that doesn’t stink – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/azure-arc-made-easy-top-tips-for-a-stress-free-cloud-integration-experience-youtube",
+          "author": "shabaz darr",
+          "description": "Learn how to design cloud workload protection and hybrid, multi-cloud environments with Azure Arc in this stress-free tutorial. Azure Arc Made Easy and prep for SC-100 exam! Episode Summary: 00:00 – Episode Intro 00:49 – Episode Breakdown 01:40 – Design cloud workload protection solutions that use Microsoft Defender for Cloud 07:30 – Design a solution […]",
+          "link": "https://365community.online/azure-arc-made-easy-top-tips-for-a-stress-free-cloud-integration-experience-youtube",
+          "publishedOn": "2024-10-04T15:30:24.000Z",
+          "wordCount": 1062,
+          "title": "Azure Arc Made EASY – Top Tips for a Stress-Free Cloud Integration Experience – YouTube",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/tasklet-certified-certified-tasklet-implementer",
           "author": "Ian Grieve",
           "description": "Since I started working with Microsoft Dynamics 365 Business Central, I’ve also been learning some of the add-ons which are commonly used. One of those add-ons is Tasklet Mobile WMS from Tasklet. The learning course is fairly short, as is the certification test. I took and successfully passed the Tasklet Implementer certification announced by Tasklet […]",
@@ -14218,6 +14238,16 @@
           "publishedOn": "2024-10-04T10:09:16.000Z",
           "wordCount": 1356,
           "title": "Generate Summary with Copilot in Dynamics 365 Field Service Mobile App (Part II)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/attending-community-summit-san-antonio-meet-team-maplytics-at-booth-1017",
+          "author": "Inogic",
+          "description": "The Tech ritual continues in 2024 and Team Inogic-Maplytics is back as the ‘Platinum Sponsor’ at #MySummitNA. The CRMUG Summit shall be held at Henry B. Gonzalez Convention Center, San Antonio, Texas from October 13-17 and Team Maplytics shall be present at Booth 1017! The product experts are thrilled to be present there and meet […]",
+          "link": "https://365community.online/attending-community-summit-san-antonio-meet-team-maplytics-at-booth-1017",
+          "publishedOn": "2024-10-04T10:01:50.000Z",
+          "wordCount": 1291,
+          "title": "Attending Community Summit, San Antonio? Meet Team Maplytics at Booth 1017!",
           "imageUrl": null
         },
         {
@@ -38754,16 +38784,6 @@
           "wordCount": 2041,
           "title": "Subscription Billing - Free Text Invoice or Sales Order?",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTQ4zlU7eibbHSi5bcFvCTt8W9Ob71HmC0-RiZuCKh9C9FDlEnP8hz87byzd66OBhM3KhO149ISxMDkRTJsJwZkGILquqFfaTWsc1e0K5F_dXwk0NHRsAjKN8K4P8z4VzPvhidf2PEBFvedW7PGeTFlAkQGr-T0rafe4uz93dBW_AP2AzPTfP0whdM/w1200-h630-p-k-no-nu/2022-10-06_13-15-31.png"
-        },
-        {
-          "id": "https://www.d365fandom.com/2022/10/subscription-billing-pricing-methods.html",
-          "author": null,
-          "description": "In my last post on Item types in Subscription billing, I broke down the different item types and how they are used to define the methods in which an item gets billed. In this blog post, I will dive into the Pricing methods that are available to add into our Billing schedule lines.\nWhen setting up Billing schedules within the Subscription billing module for your Customers, there are four Pricing methods that a user can employ. \n\n\nStandard\nFlat\nTier\nFlat Tier\n\n\nThe methodology behind a couple of these pricing methods can be a bit confusing, so I am here to help de-mystify them for you! \n\n\nInitial Setup\nIn my example, I have a Released product (item) called Service. The Base sales price on the Released product is $500.\n\n\nBase Sales Price for Service item is $500\n\n\nAdditionally, there is a Tra…",
-          "link": "https://www.d365fandom.com/2022/10/subscription-billing-pricing-methods.html",
-          "publishedOn": "2022-10-06T19:30:00.000Z",
-          "wordCount": 2639,
-          "title": "Subscription Billing - Pricing Methods",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_IGWImD5WqNZdBmlc35qDpo9rgmoZXqwGJhMTgNLJE-83c2CKnxzkaynIVKkpE61N2JIamOhKkMmHAbbgfM_cVet8QFuix8PaZ-u9hRJN7xsH4cW7Bw-E5U2DCcRUmFU4hwg6ts9VNslxfb9hEsn-sNvZ7gXKXDF1MXN-DF1U_E0iEvocjRWYJlof/w1200-h630-p-k-no-nu/2022-10-06_8-46-52.png"
         }
       ]
     },

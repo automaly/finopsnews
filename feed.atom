@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-10-05T00:51:00.053Z</updated>
+    <updated>2024-10-06T00:56:34.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5 Tips to write Clean code that doesn’t stink – YouTube]]></title>
+        <id>https://365community.online/5-tips-to-write-clean-code-that-doesnt-stink-youtube</id>
+        <link href="https://365community.online/5-tips-to-write-clean-code-that-doesnt-stink-youtube"/>
+        <updated>2024-10-05T06:30:01.000Z</updated>
+        <summary type="html"><![CDATA[5 Tips to write Clean code that doesn’t stink Clean code is the foundation of maintainable, efficient, and scalable software. In this video, I’m sharing 5 practical tips to help you write code that not only works but is easy to read, understand, and improve! Whether you’re a beginner or an experienced developer, these tips […]]]></summary>
+        <author>
+            <name>Sourav Raj</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Boost Productivity with Business Central and Microsoft 365]]></title>
         <id>https://erpsoftwareblog.com/?p=119263</id>
@@ -60,6 +70,16 @@ Exploring Microsoft Power Automate Connectors – Simplifying Integration Across
 Revolutionizing Customer Service- The Power of Conversational Bots]]></summary>
         <author>
             <name>Aakriti Gaur DAX Software Solutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Arc Made EASY – Top Tips for a Stress-Free Cloud Integration Experience – YouTube]]></title>
+        <id>https://365community.online/azure-arc-made-easy-top-tips-for-a-stress-free-cloud-integration-experience-youtube</id>
+        <link href="https://365community.online/azure-arc-made-easy-top-tips-for-a-stress-free-cloud-integration-experience-youtube"/>
+        <updated>2024-10-04T15:30:24.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to design cloud workload protection and hybrid, multi-cloud environments with Azure Arc in this stress-free tutorial. Azure Arc Made Easy and prep for SC-100 exam! Episode Summary: 00:00 – Episode Intro 00:49 – Episode Breakdown 01:40 – Design cloud workload protection solutions that use Microsoft Defender for Cloud 07:30 – Design a solution […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
         </author>
     </entry>
     <entry>
@@ -118,6 +138,16 @@ Warehouse Insight Now Available for Dynamics 365 Business Central]]></summary>
         <link href="https://365community.online/generate-summary-with-copilot-in-dynamics-365-field-service-mobile-app-part-ii"/>
         <updated>2024-10-04T10:09:16.000Z</updated>
         <summary type="html"><![CDATA[In the field service industry, timely and accurate information is essential for ensuring operational efficiency. The Dynamics 365 Field Service Mobile App equips field technicians with the ability to access critical work order data, real-time updates, and essential features directly from their mobile devices. With the addition of the Copilot feature, technicians can now benefit […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attending Community Summit, San Antonio? Meet Team Maplytics at Booth 1017!]]></title>
+        <id>https://365community.online/attending-community-summit-san-antonio-meet-team-maplytics-at-booth-1017</id>
+        <link href="https://365community.online/attending-community-summit-san-antonio-meet-team-maplytics-at-booth-1017"/>
+        <updated>2024-10-04T10:01:50.000Z</updated>
+        <summary type="html"><![CDATA[The Tech ritual continues in 2024 and Team Inogic-Maplytics is back as the ‘Platinum Sponsor’ at #MySummitNA. The CRMUG Summit shall be held at Henry B. Gonzalez Convention Center, San Antonio, Texas from October 13-17 and Team Maplytics shall be present at Booth 1017! The product experts are thrilled to be present there and meet […]]]></summary>
         <author>
             <name>Inogic</name>
         </author>
@@ -48653,36 +48683,6 @@ Error description
 Unable to write data to an entity. Unable to lookup with values {DC00...}. Unable to look up salestable with values {DC00...}. Writes to failed with error message Except…]]></summary>
         <author>
             <name>Rakesh Darge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Subscription Billing - Pricing Methods]]></title>
-        <id>https://www.d365fandom.com/2022/10/subscription-billing-pricing-methods.html</id>
-        <link href="https://www.d365fandom.com/2022/10/subscription-billing-pricing-methods.html"/>
-        <updated>2022-10-06T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In my last post on Item types in Subscription billing, I broke down the different item types and how they are used to define the methods in which an item gets billed. In this blog post, I will dive into the Pricing methods that are available to add into our Billing schedule lines.
-When setting up Billing schedules within the Subscription billing module for your Customers, there are four Pricing methods that a user can employ. 
-
-
-Standard
-Flat
-Tier
-Flat Tier
-
-
-The methodology behind a couple of these pricing methods can be a bit confusing, so I am here to help de-mystify them for you! 
-
-
-Initial Setup
-In my example, I have a Released product (item) called Service. The Base sales price on the Released product is $500.
-
-
-Base Sales Price for Service item is $500
-
-
-Additionally, there is a Tra…]]></summary>
-        <author>
-            <name>D365FandO(m)</name>
         </author>
     </entry>
 </feed>
