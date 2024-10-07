@@ -14191,6 +14191,16 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/business-central-25-allow-more-than-one-user-to-post-warehouse-entries-at-a-time-using-the-concurrentwarehousingposting-key",
+          "author": "Roberto Stefanetti",
+          "description": "In BC25 a new feature has been added that I find very interesting, relating to the posting of warehouse activities in a multi-user environment. A posting key allows you to avoid the locking of the tables to allow multiple warehouse employees to post their activities without waiting for the lock to be released; if the […]",
+          "link": "https://365community.online/business-central-25-allow-more-than-one-user-to-post-warehouse-entries-at-a-time-using-the-concurrentwarehousingposting-key",
+          "publishedOn": "2024-10-06T08:36:32.000Z",
+          "wordCount": 1118,
+          "title": "Business Central 25: allow more than one user to post warehouse entries at a time using the “ConcurrentWarehousingPosting”  key",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/5-tips-to-write-clean-code-that-doesnt-stink-youtube",
           "author": "Sourav Raj",
           "description": "5 Tips to write Clean code that doesn’t stink Clean code is the foundation of maintainable, efficient, and scalable software. In this video, I’m sharing 5 practical tips to help you write code that not only works but is easy to read, understand, and improve! Whether you’re a beginner or an experienced developer, these tips […]",
@@ -14258,6 +14268,16 @@
           "publishedOn": "2024-10-04T10:00:57.000Z",
           "wordCount": 1096,
           "title": "Intrastat Only Available to Specific Countries in Microsoft Dynamics 365 Business Central",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/%f0%9f%9a%80-ready-to-land-your-first-internship-youtube",
+          "author": "Sourav Raj",
+          "description": "🚀 Ready to land your first internship? 🎯 Whether you’re a student or a recent grad, this guide will walk you through the steps to score that dream opportunity. From building the perfect resume to nailing your interview, we’ve got you covered! 💼 Don’t miss out on these essential tips to kickstart your career. ✨Watch […]",
+          "link": "https://365community.online/%f0%9f%9a%80-ready-to-land-your-first-internship-youtube",
+          "publishedOn": "2024-10-04T06:30:08.000Z",
+          "wordCount": 1156,
+          "title": "🚀 Ready to land your first internship? – YouTube",
           "imageUrl": null
         },
         {
@@ -37373,16 +37393,6 @@
           "wordCount": 7974,
           "title": "What Must Be Done To Create An Entity Relationship Diagram in Dynamics 365 Finance & Operations",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1668018511270%2FTeJVY2KhO.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
-        },
-        {
-          "id": "https://d365cliffsnotes.com/how-do-i-resolve-the-parent-child-lookup-issue-in-dataverse-for-dynamics-365-finance-operations",
-          "author": "Rakesh Darge",
-          "description": "What makes it so important to remember?\nSimply put, it keeps you and your project execution happy and in a healthy state .\nBusiness scenario:\nThink about the scenario where you and your team have designed & developed several custom data entities as the parent-child relationship for customized business processes.\nIntegration requires sending both records such as retail, and business documents (Sales order, Purchase order) together. The sales order or purchase order document and its associated order lines are created in the same transaction scope. However, you found that you often had issues with lookups.\nError description  \nUnable to write data to an entity. Unable to lookup with values {DC00...}. Unable to look up salestable with values {DC00...}. Writes to failed with error message Except…",
-          "link": "https://d365cliffsnotes.com/how-do-i-resolve-the-parent-child-lookup-issue-in-dataverse-for-dynamics-365-finance-operations",
-          "publishedOn": "2022-10-07T17:13:35.000Z",
-          "wordCount": 5615,
-          "title": "How Do I Resolve the Parent Child Lookup Issue in Dataverse for Dynamics 365 Finance & Operations",
-          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1665158423357%2FpvMUhSWl-.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         }
       ]
     },
