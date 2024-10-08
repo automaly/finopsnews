@@ -2,10 +2,150 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-10-07T00:53:29.234Z</updated>
+    <updated>2024-10-08T00:51:33.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[D365FO Integration: Event-Based Exports to External Web Services]]></title>
+        <id>https://denistrunin.com/integration-outboundweb/</id>
+        <link href="https://denistrunin.com/integration-outboundweb/"/>
+        <updated>2024-10-07T22:12:03.000Z</updated>
+        <summary type="html"><![CDATA[How to implement robust, efficient integrations between Dynamics 365 Finance and Operations and external Web Services. This post covers design, code samples, troubleshooting and performance testing techniques for seamless event-based data synchronization.]]></summary>
+        <author>
+            <name>Gatsby RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Dynamics 365 Finance and Operations Users Know About the New Flexible Service Update Schedule]]></title>
+        <id>https://erpsoftwareblog.com/?p=119363</id>
+        <link href="https://erpsoftwareblog.com/2024/10/what-dynamics-365-finance-and-operations-users-know-about-the-new-flexible-service-update-schedule/"/>
+        <updated>2024-10-07T21:35:12.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Microsoft announced changes to its One Version program, which delivers updates for Dynamics 365. Starting in April 2024, the update schedule is more flexible, with four updates per year (February, […]
+The post What Dynamics 365 Finance and Operations Users Know About the New Flexible Service Update Schedule appeared first on ERP Software Blog.
+AI in Supply Chain Management for Microsoft D365: Increasing Efficiency for Wholesale Distributors
+Increase Efficiency, Protect Profits, and Optimize Processes in Dynamics 365
+Increase your to-order close rates with online quote configuration (with webinar recording)]]></summary>
+        <author>
+            <name>Stoneridge Software</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to deal with the Calculated columns having Null values (Dynamics 365 / Dataverse)]]></title>
+        <id>https://365community.online/how-to-deal-with-the-calculated-columns-having-null-values-dynamics-365-dataverse</id>
+        <link href="https://365community.online/how-to-deal-with-the-calculated-columns-having-null-values-dynamics-365-dataverse"/>
+        <updated>2024-10-07T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Suppose we have the following whole number fields, where Field C is the calculated column and is the sum of Field A and Field B Field C calculated column – However, if any of the fields used for calculation is null, Field C will also show null. The way we can resolve it is to […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SC-100 Exam Prep Disaster Waiting to Happen Without This ONE Thing! – YouTube]]></title>
+        <id>https://365community.online/sc-100-exam-prep-disaster-waiting-to-happen-without-this-one-thing-youtube</id>
+        <link href="https://365community.online/sc-100-exam-prep-disaster-waiting-to-happen-without-this-one-thing-youtube"/>
+        <updated>2024-10-07T15:30:09.000Z</updated>
+        <summary type="html"><![CDATA[Ensure you’re prepared for the SC-100 Exam with this essential tip! Learn how to evaluate infrastructure compliance using Microsoft Defender for Cloud & EASM. Episode Breakdown: 00:00 – Episode Intro 00:44 – Episode Breakdown 01:21 – External Attack Surface Management (EASM) 05:30 – Evaluate Infrastructure Compliance by using Microsoft Defender for Cloud 07:00 – Demo: […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Use Excel Reports For Consolidation And Fixed Assets]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-use-excel-reports-for-consolidation-and-fixed-assets</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-use-excel-reports-for-consolidation-and-fixed-assets"/>
+        <updated>2024-10-07T14:00:16.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 18th of the new functionality in the Application section is use Excel reports for consolidation […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Scottish Summit 2024 I Gold Sponsor I Kerv Digital – YouTube]]></title>
+        <id>https://365community.online/introducing-scottish-summit-2024-i-gold-sponsor-i-kerv-digital-youtube</id>
+        <link href="https://365community.online/introducing-scottish-summit-2024-i-gold-sponsor-i-kerv-digital-youtube"/>
+        <updated>2024-10-07T12:01:37.000Z</updated>
+        <summary type="html"><![CDATA[At Kerv, we believe that great work happens when you’re having fun. Our dynamic team is passionate about pushing the boundaries of digital technology, all while fostering a vibrant and inclusive culture that celebrates creativity, collaboration, and, most importantly joy from the work you do! Kerv Digital’s work can be seen spanning some awesome sectors, […]]]></summary>
+        <author>
+            <name>Scottish Summit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Add An Item As A Shopify Variant]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-add-an-item-as-a-shopify-variant</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-add-an-item-as-a-shopify-variant"/>
+        <updated>2024-10-07T12:00:17.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 17th of the new functionality in the Application section is add an item as a […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics Square CA - Microsoft Dynamics partner | Canada]]></title>
+        <id>https://erpsoftwareblog.com/?p=119357</id>
+        <link href="https://erpsoftwareblog.com/2024/10/microsoft-dynamics-365-partner-canada/"/>
+        <updated>2024-10-07T11:41:09.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Dynamics Square, a leading Microsoft Dynamics Partner, has started its operation in Canada after successfully serving in various countries, like Australia, the USA, the UK, the Netherlands, Singapore, and India. […]
+The post Dynamics Square CA - Microsoft Dynamics partner | Canada appeared first on ERP Software Blog.
+An Early Look at Dynamics 365 - One Platform for ERP, CRM, and Applications
+Comparison of Dynamics AX to Dynamics 365
+Dynamics 365: Is Satya Nadella's Promise of "One Microsoft" Finally Here?]]></summary>
+        <author>
+            <name>Dynamics Square CA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Scottish Summit 2024 I Gold Sponsor I Resco – YouTube]]></title>
+        <id>https://365community.online/introducing-scottish-summit-2024-i-gold-sponsor-i-resco-youtube</id>
+        <link href="https://365community.online/introducing-scottish-summit-2024-i-gold-sponsor-i-resco-youtube"/>
+        <updated>2024-10-07T11:32:45.000Z</updated>
+        <summary type="html"><![CDATA[Resco helps the world work better outside the office by making it simple to build advanced mobile experiences. The company’s mobility and productivity tools empower app makers to create and deploy enterprise-level business apps faster. These solutions allow frontline teams to access, capture, and manage data on the go using any device, even when offline. […]]]></summary>
+        <author>
+            <name>Scottish Summit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create Lead Scoring Models in Real-time Marketing]]></title>
+        <id>https://365community.online/create-lead-scoring-models-in-real-time-marketing</id>
+        <link href="https://365community.online/create-lead-scoring-models-in-real-time-marketing"/>
+        <updated>2024-10-07T10:18:36.000Z</updated>
+        <summary type="html"><![CDATA[Lead scoring models for Customer Insights – Journeys (D365 Marketing Real-time) has been around for a while now, but when it was first released it had a few ‘issues’ or ‘quirks’ shall we say. It’s taken me a while to write about it while waiting for those teething problems to work themselves out. Now, I […]]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Allow More Than One User To Post Warehouse Entries at a Time]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-allow-more-than-one-user-to-post-warehouse-entries-at-a-time</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-allow-more-than-one-user-to-post-warehouse-entries-at-a-time"/>
+        <updated>2024-10-07T10:00:24.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 16th of the new functionality in the Application section is allow more than one user […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All New Canvas App Modern Toolbar Control – YouTube]]></title>
+        <id>https://365community.online/all-new-canvas-app-modern-toolbar-control-youtube</id>
+        <link href="https://365community.online/all-new-canvas-app-modern-toolbar-control-youtube"/>
+        <updated>2024-10-07T08:26:40.000Z</updated>
+        <summary type="html"><![CDATA[All New Canvas App Modern Toolbar Control source]]></summary>
+        <author>
+            <name>Deepesh Somani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to work with connection References]]></title>
+        <id>https://365community.online/how-to-work-with-connection-references</id>
+        <link href="https://365community.online/how-to-work-with-connection-references"/>
+        <updated>2024-10-07T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In one of my older posts, I described how connections and connection references work. I still often get asked how one can properly work with connection references since a few problems always occur. In this post, I will explain everything you need to know about how to work with connection references in the area of […]]]></summary>
+        <author>
+            <name>Benedikt Bergmann</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Business Central 25: allow more than one user to post warehouse entries at a time using the “ConcurrentWarehousingPosting”  key]]></title>
         <id>https://365community.online/business-central-25-allow-more-than-one-user-to-post-warehouse-entries-at-a-time-using-the-concurrentwarehousingposting-key</id>
@@ -2254,6 +2394,17 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         <summary type="html"><![CDATA[Nesse vídeo vamos aprender a criar uma automação completa que lê um excel do email, salva em uma biblioteca do SharePoint e depois lê esse excel e salva em uma lista do SharePoint. ♐ Adquira meu curso na Udemy e aprenda SharePoint, Power Apps e Power Automate do zero. https://www.udemy.com/course/aprenda-sharepoint-do-zero-com-foco-no-negocio/?referralCode=34B700C89A7463BD0A00 ♐ Quer aprender SharePoint Framework(SPFx)? […]]]></summary>
         <author>
             <name>Saulo Soares Oliveira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet Us at NT Conference 2024 in Portorož]]></title>
+        <id>https://ax.docentric.com/?p=29200</id>
+        <link href="https://ax.docentric.com/meet-us-at-ntk24/"/>
+        <updated>2024-09-23T08:00:59.000Z</updated>
+        <summary type="html"><![CDATA[We are happy to be part of this year’s NT Conference,  Slovenia's largest tech-business event, which will take place in sunny Portorož from September 23-25, 2024. We will be there as sponsors, speakers and participants. 🌟 Check out our PANEL: Men as Hunters, Women as […]
+The post Meet Us at NT Conference 2024 in Portorož appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Irena Vujcic Pavlovic</name>
         </author>
     </entry>
     <entry>
@@ -48672,21 +48823,6 @@ If you have a simple, straightforward approach to billing subscriptions and don'
 If you have complex pricing, prefer to use items, and want to set it and forget it, Sales order invoice is the clear winner for you!]]></summary>
         <author>
             <name>D365FandO(m)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Blog!]]></title>
-        <id>https://www.axsoup.com/2022/10/new-blog.html</id>
-        <link href="https://www.axsoup.com/2022/10/new-blog.html"/>
-        <updated>2022-10-08T13:42:00.004Z</updated>
-        <summary type="html"><![CDATA[Hi all,
-If you have found yourself here at AX Soup and are wondering where the new content is, it's at a new site! I am not done blogging and have been fairly active in blogging content for years! 
-Since the renaming of the product from Dynamics AX to Dynamics 365, I have been sharing content under D365FandO(m) or www.d365fandom.com.
-I hope to see you there!
-Best regards, 
-Kelly]]></summary>
-        <author>
-            <name>AX Soup</name>
         </author>
     </entry>
 </feed>

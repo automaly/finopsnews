@@ -747,6 +747,16 @@
       "siteUrl": "https://denistrunin.com",
       "articles": [
         {
+          "id": "https://denistrunin.com/integration-outboundweb/",
+          "author": null,
+          "description": "How to implement robust, efficient integrations between Dynamics 365 Finance and Operations and external Web Services. This post covers design, code samples, troubleshooting and performance testing techniques for seamless event-based data synchronization.",
+          "link": "https://denistrunin.com/integration-outboundweb/",
+          "publishedOn": "2024-10-07T22:12:03.000Z",
+          "wordCount": 3480,
+          "title": "D365FO Integration: Event-Based Exports to External Web Services",
+          "imageUrl": "https://denistrunin.com/static/97c2c8d2c14c164b236c5b09978c3191/a842e/logo.png"
+        },
+        {
           "id": "https://denistrunin.com/integration-outboundsftp/",
           "author": null,
           "description": "This blog post describes how to implement various scenarios for periodic data export from D365FO to a file and uploading it to SFTP server.",
@@ -1531,6 +1541,26 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=119363",
+          "author": "Stoneridge Software",
+          "description": "xxx\nMicrosoft announced changes to its One Version program, which delivers updates for Dynamics 365. Starting in April 2024, the update schedule is more flexible, with four updates per year (February, […]\nThe post What Dynamics 365 Finance and Operations Users Know About the New Flexible Service Update Schedule appeared first on ERP Software Blog.\nAI in Supply Chain Management for Microsoft D365: Increasing Efficiency for Wholesale Distributors\nIncrease Efficiency, Protect Profits, and Optimize Processes in Dynamics 365\nIncrease your to-order close rates with online quote configuration (with webinar recording)",
+          "link": "https://erpsoftwareblog.com/2024/10/what-dynamics-365-finance-and-operations-users-know-about-the-new-flexible-service-update-schedule/",
+          "publishedOn": "2024-10-07T21:35:12.000Z",
+          "wordCount": 4297,
+          "title": "What Dynamics 365 Finance and Operations Users Know About the New Flexible Service Update Schedule",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/FO-One-Service-Updates.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=119357",
+          "author": "Dynamics Square CA",
+          "description": "xxx\nDynamics Square, a leading Microsoft Dynamics Partner, has started its operation in Canada after successfully serving in various countries, like Australia, the USA, the UK, the Netherlands, Singapore, and India. […]\nThe post Dynamics Square CA - Microsoft Dynamics partner | Canada appeared first on ERP Software Blog.\nAn Early Look at Dynamics 365 - One Platform for ERP, CRM, and Applications\nComparison of Dynamics AX to Dynamics 365\nDynamics 365: Is Satya Nadella's Promise of \"One Microsoft\" Finally Here?",
+          "link": "https://erpsoftwareblog.com/2024/10/microsoft-dynamics-365-partner-canada/",
+          "publishedOn": "2024-10-07T11:41:09.000Z",
+          "wordCount": 7371,
+          "title": "Dynamics Square CA - Microsoft Dynamics partner | Canada",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Microsoft-Dynamics-Partner-1.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=119263",
           "author": "iCepts Technology Group, Inc.",
@@ -14190,6 +14220,106 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/how-to-deal-with-the-calculated-columns-having-null-values-dynamics-365-dataverse",
+          "author": "Nishant Rana",
+          "description": "Suppose we have the following whole number fields, where Field C is the calculated column and is the sum of Field A and Field B Field C calculated column – However, if any of the fields used for calculation is null, Field C will also show null. The way we can resolve it is to […]",
+          "link": "https://365community.online/how-to-deal-with-the-calculated-columns-having-null-values-dynamics-365-dataverse",
+          "publishedOn": "2024-10-07T20:30:00.000Z",
+          "wordCount": 1120,
+          "title": "How to deal with the Calculated columns having Null values (Dynamics 365 / Dataverse)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/sc-100-exam-prep-disaster-waiting-to-happen-without-this-one-thing-youtube",
+          "author": "shabaz darr",
+          "description": "Ensure you’re prepared for the SC-100 Exam with this essential tip! Learn how to evaluate infrastructure compliance using Microsoft Defender for Cloud & EASM. Episode Breakdown: 00:00 – Episode Intro 00:44 – Episode Breakdown 01:21 – External Attack Surface Management (EASM) 05:30 – Evaluate Infrastructure Compliance by using Microsoft Defender for Cloud 07:00 – Demo: […]",
+          "link": "https://365community.online/sc-100-exam-prep-disaster-waiting-to-happen-without-this-one-thing-youtube",
+          "publishedOn": "2024-10-07T15:30:09.000Z",
+          "wordCount": 1046,
+          "title": "SC-100 Exam Prep Disaster Waiting to Happen Without This ONE Thing! – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-use-excel-reports-for-consolidation-and-fixed-assets",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 18th of the new functionality in the Application section is use Excel reports for consolidation […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-use-excel-reports-for-consolidation-and-fixed-assets",
+          "publishedOn": "2024-10-07T14:00:16.000Z",
+          "wordCount": 1129,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Use Excel Reports For Consolidation And Fixed Assets",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/introducing-scottish-summit-2024-i-gold-sponsor-i-kerv-digital-youtube",
+          "author": "Scottish Summit",
+          "description": "At Kerv, we believe that great work happens when you’re having fun. Our dynamic team is passionate about pushing the boundaries of digital technology, all while fostering a vibrant and inclusive culture that celebrates creativity, collaboration, and, most importantly joy from the work you do! Kerv Digital’s work can be seen spanning some awesome sectors, […]",
+          "link": "https://365community.online/introducing-scottish-summit-2024-i-gold-sponsor-i-kerv-digital-youtube",
+          "publishedOn": "2024-10-07T12:01:37.000Z",
+          "wordCount": 1109,
+          "title": "Introducing Scottish Summit 2024 I Gold Sponsor I Kerv Digital – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-add-an-item-as-a-shopify-variant",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 17th of the new functionality in the Application section is add an item as a […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-add-an-item-as-a-shopify-variant",
+          "publishedOn": "2024-10-07T12:00:17.000Z",
+          "wordCount": 1129,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Add An Item As A Shopify Variant",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/introducing-scottish-summit-2024-i-gold-sponsor-i-resco-youtube",
+          "author": "Scottish Summit",
+          "description": "Resco helps the world work better outside the office by making it simple to build advanced mobile experiences. The company’s mobility and productivity tools empower app makers to create and deploy enterprise-level business apps faster. These solutions allow frontline teams to access, capture, and manage data on the go using any device, even when offline. […]",
+          "link": "https://365community.online/introducing-scottish-summit-2024-i-gold-sponsor-i-resco-youtube",
+          "publishedOn": "2024-10-07T11:32:45.000Z",
+          "wordCount": 1066,
+          "title": "Introducing Scottish Summit 2024 I Gold Sponsor I Resco – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/create-lead-scoring-models-in-real-time-marketing",
+          "author": "Megan V. Walker",
+          "description": "Lead scoring models for Customer Insights – Journeys (D365 Marketing Real-time) has been around for a while now, but when it was first released it had a few ‘issues’ or ‘quirks’ shall we say. It’s taken me a while to write about it while waiting for those teething problems to work themselves out. Now, I […]",
+          "link": "https://365community.online/create-lead-scoring-models-in-real-time-marketing",
+          "publishedOn": "2024-10-07T10:18:36.000Z",
+          "wordCount": 1047,
+          "title": "Create Lead Scoring Models in Real-time Marketing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-allow-more-than-one-user-to-post-warehouse-entries-at-a-time",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 16th of the new functionality in the Application section is allow more than one user […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-allow-more-than-one-user-to-post-warehouse-entries-at-a-time",
+          "publishedOn": "2024-10-07T10:00:24.000Z",
+          "wordCount": 1149,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Allow More Than One User To Post Warehouse Entries at a Time",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/all-new-canvas-app-modern-toolbar-control-youtube",
+          "author": "Deepesh Somani",
+          "description": "All New Canvas App Modern Toolbar Control source",
+          "link": "https://365community.online/all-new-canvas-app-modern-toolbar-control-youtube",
+          "publishedOn": "2024-10-07T08:26:40.000Z",
+          "wordCount": 940,
+          "title": "All New Canvas App Modern Toolbar Control – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/how-to-work-with-connection-references",
+          "author": "Benedikt Bergmann",
+          "description": "In one of my older posts, I described how connections and connection references work. I still often get asked how one can properly work with connection references since a few problems always occur. In this post, I will explain everything you need to know about how to work with connection references in the area of […]",
+          "link": "https://365community.online/how-to-work-with-connection-references",
+          "publishedOn": "2024-10-07T06:00:00.000Z",
+          "wordCount": 1025,
+          "title": "How to work with connection References",
+          "imageUrl": null
+        },
         {
           "id": "https://365community.online/business-central-25-allow-more-than-one-user-to-post-warehouse-entries-at-a-time-using-the-concurrentwarehousingposting-key",
           "author": "Roberto Stefanetti",
@@ -36527,6 +36657,16 @@
           "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/09/D365Blog-Tabular-View-Advanced-Search-and-Update-in-Bulk-of-D365FO-Print-Management-Settings-main-image.png"
         },
         {
+          "id": "https://ax.docentric.com/?p=29200",
+          "author": "Irena Vujcic Pavlovic",
+          "description": "We are happy to be part of this year’s NT Conference,  Slovenia's largest tech-business event, which will take place in sunny Portorož from September 23-25, 2024. We will be there as sponsors, speakers and participants. 🌟 Check out our PANEL: Men as Hunters, Women as […]\nThe post Meet Us at NT Conference 2024 in Portorož appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/meet-us-at-ntk24/",
+          "publishedOn": "2024-09-23T08:00:59.000Z",
+          "wordCount": 11516,
+          "title": "Meet Us at NT Conference 2024 in Portorož",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/10/NTK_Visit_our_booth_24team.jpg"
+        },
+        {
           "id": "https://ax.docentric.com/?p=28980",
           "author": "Jovica Zivkovic",
           "description": "The SysLastValue is a handy framework in Dynamics 365 for Finance and Operations (D365FO). It saves the values you enter in forms for the current user within the current company so that the next time you open the form, your previous entries are already there. […]\nThe post D365FO SysLastValue Framework Simplified appeared first on Docentric AX.",
@@ -38717,18 +38857,7 @@
       "title": "AX Soup",
       "feedUrl": "https://axsoup.com/feeds/posts/default",
       "siteUrl": "https://www.axsoup.com/",
-      "articles": [
-        {
-          "id": "https://www.axsoup.com/2022/10/new-blog.html",
-          "author": null,
-          "description": "Hi all,\nIf you have found yourself here at AX Soup and are wondering where the new content is, it's at a new site! I am not done blogging and have been fairly active in blogging content for years! \nSince the renaming of the product from Dynamics AX to Dynamics 365, I have been sharing content under D365FandO(m) or www.d365fandom.com.\nI hope to see you there!\nBest regards, \nKelly",
-          "link": "https://www.axsoup.com/2022/10/new-blog.html",
-          "publishedOn": "2022-10-08T13:42:00.004Z",
-          "wordCount": 1794,
-          "title": "New Blog!",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "D365FandO(m)",
