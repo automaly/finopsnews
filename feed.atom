@@ -2,10 +2,200 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-10-08T00:51:33.486Z</updated>
+    <updated>2024-10-09T00:51:26.125Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Use JavaScript to enable a field only if the Stage is Active in Business Process Flow – Dynamics 365 / Dataverse]]></title>
+        <id>https://365community.online/use-javascript-to-enable-a-field-only-if-the-stage-is-active-in-business-process-flow-dynamics-365-dataverse</id>
+        <link href="https://365community.online/use-javascript-to-enable-a-field-only-if-the-stage-is-active-in-business-process-flow-dynamics-365-dataverse"/>
+        <updated>2024-10-08T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently we had a requirement to set some of the fields in our business process flow to be enabled only if that stage is active. E.g. We want to Identify Sales Team field to be Enabled only if the Propose stage is active, else we want to set it as read-only. We can use the […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: adding fields to the new Modern Search engine via AL code.]]></title>
+        <id>https://365community.online/dynamics-365-business-central-adding-fields-to-the-new-modern-search-engine-via-al-code</id>
+        <link href="https://365community.online/dynamics-365-business-central-adding-fields-to-the-new-modern-search-engine-via-al-code"/>
+        <updated>2024-10-08T17:20:51.000Z</updated>
+        <summary type="html"><![CDATA[Some weeks ago I wrote a post explaining, with some technical details, the new Modern Search feature introduced with Dynamics 365 Business Central 2024 Wave 2 release (version 25). After that post, I promised a second post with details about how AL developers can control the indexed fields, and here it is… The new Modern […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI for Business: Top Strategies and Essential Tools]]></title>
+        <id>https://erpsoftwareblog.com/?p=119413</id>
+        <link href="https://erpsoftwareblog.com/2024/10/ai-for-business-top-strategies-and-essential-tools/"/>
+        <updated>2024-10-08T17:05:44.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In today's swiftly changing business environment, leveraging AI (artificial intelligence) is no longer merely an option but a critical requirement for maintaining a competitive edge. AI enhances operational efficiency, elevates […]
+The post AI for Business: Top Strategies and Essential Tools appeared first on ERP Software Blog.
+How will Artificial Intelligence (AI) Impact ERP Software?
+Why Artificial Intelligence is not as dangerous as you think
+Manage and Track Documents with a Paperless Solution: MetaDocs]]></summary>
+        <author>
+            <name>Western Computer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central Cloud: The Cost-Saving Potential]]></title>
+        <id>https://erpsoftwareblog.com/?p=119406</id>
+        <link href="https://erpsoftwareblog.com/2024/10/business-central-cloud-the-cost-saving-potential/"/>
+        <updated>2024-10-08T15:12:50.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+As the air grows crisp and the trees shed their vibrant leaves, we find ourselves in a season of transformation. Just as fall urges us to prepare for the months […]
+The post Business Central Cloud: The Cost-Saving Potential appeared first on ERP Software Blog.
+Create A New Item In Dynamics 365 Business Central
+Microsoft Dynamics 365 Business Central: The Future of Distribution Accounting
+How to Upgrade Dynamics NAV to Business Central in 2023?]]></summary>
+        <author>
+            <name>Michael Intravartolo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Use Specific Prices And Discounts When Synchronizing Prices In Shopify]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-use-specific-prices-and-discounts-when-synchronizing-prices-in-shopify</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-use-specific-prices-and-discounts-when-synchronizing-prices-in-shopify"/>
+        <updated>2024-10-08T14:00:35.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 20th of the new functionality in the Application section is use specific prices and discounts […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comparing Odoo and Business Central for Manufacturers]]></title>
+        <id>https://erpsoftwareblog.com/?p=119403</id>
+        <link href="https://erpsoftwareblog.com/2024/10/comparing-odoo-and-business-central-for-manufacturers/"/>
+        <updated>2024-10-08T13:53:17.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Choosing the right ERP system can be one of the most important decisions a manufacturing company makes—particularly for small and medium-sized businesses looking to stay competitive. With so many options […]
+The post Comparing Odoo and Business Central for Manufacturers  appeared first on ERP Software Blog.
+12 Reasons to Consider Upgrading from Peachtree to Microsoft Dynamics GP Accounting Software
+10 Signs You've Outgrown Your Accounting Software
+13 Reasons to say “Good-bye” to Quickbooks and “Hello” to Dynamics GP]]></summary>
+        <author>
+            <name>Sabre Limited</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Better Ways To Get Commission Info Out Of Microsoft Dynamics GP]]></title>
+        <id>https://erpsoftwareblog.com/?p=119060</id>
+        <link href="https://erpsoftwareblog.com/2024/10/3-better-ways-to-get-commission-info-out-of-microsoft-dynamics-gp/"/>
+        <updated>2024-10-08T13:48:50.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Here Are the Top Ways You Can View and Share GP Data Anytime and Anywhere. Microsoft Dynamics GP is great for collecting data, and it delivers an incredible productivity boost for its […]
+The post 3 Better Ways To Get Commission Info Out Of Microsoft Dynamics GP appeared first on ERP Software Blog.
+Commission Tracking in Microsoft Dynamics GP
+New Years Resolutions for Accounts Payable in GP
+Modernize Your Legacy Systems]]></summary>
+        <author>
+            <name>EthoTech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finance Module in Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=119399</id>
+        <link href="https://erpsoftwareblog.com/2024/10/finance-module-in-business-central/"/>
+        <updated>2024-10-08T12:57:27.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The finance module in Microsoft Dynamics 365 Business Central is designed to help companies handle their core financial processes. The features include accounting, reporting, budgeting, management of cash flow, and […]
+The post Finance Module in Business Central appeared first on ERP Software Blog.
+Mastering Financial Management with Microsoft Business Central
+OLAP Cube vs. Data Warehouse
+2015 Corporate Performance Management Trends]]></summary>
+        <author>
+            <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Move Email Attachments from Outlook to Cloud Storage using Dynamics 365]]></title>
+        <id>https://365community.online/move-email-attachments-from-outlook-to-cloud-storage-using-dynamics-365</id>
+        <link href="https://365community.online/move-email-attachments-from-outlook-to-cloud-storage-using-dynamics-365"/>
+        <updated>2024-10-08T12:08:50.000Z</updated>
+        <summary type="html"><![CDATA[Corporate professionals depend heavily on Microsoft Outlook for communication, document sharing, and decision-making. While using Outlook, email attachments are often stored on the local machine, or consume CRM storage. Additionally, some professionals may rely on third-party cloud solutions like SharePoint, Azure Blob, Dropbox, etc. to migrate email attachments to cloud storage. This process often results […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Synchronize Product Translations To Shopify]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-synchronize-product-translations-to-shopify</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-synchronize-product-translations-to-shopify"/>
+        <updated>2024-10-08T12:00:38.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 19th of the new functionality in the Application section is synchronize product translations to Shopify. […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Error Importing Sales Invoice into Microsoft Dynamics 365 Business Central Using a Configuration Package: “Attempted to divide by zero”]]></title>
+        <id>https://365community.online/error-importing-sales-invoice-into-microsoft-dynamics-365-business-central-using-a-configuration-package-attempted-to-divide-by-zero</id>
+        <link href="https://365community.online/error-importing-sales-invoice-into-microsoft-dynamics-365-business-central-using-a-configuration-package-attempted-to-divide-by-zero"/>
+        <updated>2024-10-08T10:00:19.000Z</updated>
+        <summary type="html"><![CDATA[I was working on a client project recently to help them implement Microsoft Dynamics 365 Business Central. We encountered an error when using a configuration package to import the customers opening balances as sales invoices. I haven’t yet covered configuration packages in my In Microsoft Dynamics 365 Business Central, how do I… series, but should […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics ERP for Manufacturing: How Dynamics Square Helps]]></title>
+        <id>https://erpsoftwareblog.com/?p=119392</id>
+        <link href="https://erpsoftwareblog.com/2024/10/microsoft-dynamics-erp-for-manufacturing/"/>
+        <updated>2024-10-08T08:33:15.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In today’s fast-paced and highly competitive manufacturing industry, efficiency, precision, and agility are key to staying ahead. Manufacturers are constantly seeking ways to streamline operations, improve product quality, and reduce […]
+The post Microsoft Dynamics ERP for Manufacturing: How Dynamics Square Helps appeared first on ERP Software Blog.
+Bluestar PLM: The "Missing Link" Between Engineering & Operations
+Telltale Signs You’ve Outgrown QuickBooks - Part 1
+Telltale Signs You’ve Outgrown QuickBooks: Part 2]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Case handling time (Preview)]]></title>
+        <id>https://365community.online/case-handling-time-preview</id>
+        <link href="https://365community.online/case-handling-time-preview"/>
+        <updated>2024-10-08T08:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Organizations might have the need to track the total time agents spend on cases for several reasons. By monitoring time, managers can identify areas where agents excel and where improvements are needed, ensuring resources are allocated effectively. This data is crucial for performance evaluations, and it helps set benchmarks and goals. Understanding the time spent […]]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Case Handling Time (Preview) – YouTube]]></title>
+        <id>https://365community.online/case-handling-time-preview-youtube</id>
+        <link href="https://365community.online/case-handling-time-preview-youtube"/>
+        <updated>2024-10-08T08:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Case Handling Time (Preview) In this video I will discuss the Case Handling Time feature for Dynamics 365 Customer Service, that is currently in preview. Learn more here: https://learn.microsoft.com/en-us/dynamics365/customer-service/use/case-handling-time#automatic-time-tracking Related Article: https://d365goddess.com/ppcc-top-announcements/ Twitter: https://twitter.com/D365Goddess LinkedIn: https://www.linkedin.com/in/diantaylor/ In this video I will discuss the Case Handling Time feature for Dynamics 365 Customer Service, that is currently […]]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developer squad, assemble! 🤝 – YouTube]]></title>
+        <id>https://365community.online/developer-squad-assemble-%f0%9f%a4%9d-youtube</id>
+        <link href="https://365community.online/developer-squad-assemble-%f0%9f%a4%9d-youtube"/>
+        <updated>2024-10-08T06:36:04.000Z</updated>
+        <summary type="html"><![CDATA[Developer squad, assemble! 🤝 source]]></summary>
+        <author>
+            <name>Sourav Raj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boost Efficiency in Business Central 2024: Leveraging Keyboard Shortcuts.]]></title>
+        <id>https://365community.online/boost-efficiency-in-business-central-2024-leveraging-keyboard-shortcuts</id>
+        <link href="https://365community.online/boost-efficiency-in-business-central-2024-leveraging-keyboard-shortcuts"/>
+        <updated>2024-10-08T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi Readers, In this series We are discussing new features in Business Central 2024 Release Wave 2. Read on MSDN. In today’s fast-paced business environment, efficiency is key. Organizations are constantly seeking ways to streamline operations and empower their workforce with productivity tools. One area where significant time savings can be achieved is data entry. […]]]></summary>
+        <author>
+            <name>Saurav Dhyani</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[D365FO Integration: Event-Based Exports to External Web Services]]></title>
         <id>https://denistrunin.com/integration-outboundweb/</id>
@@ -164,6 +354,17 @@ Dynamics 365: Is Satya Nadella's Promise of "One Microsoft" Finally Here?]]></su
         <summary type="html"><![CDATA[5 Tips to write Clean code that doesn’t stink Clean code is the foundation of maintainable, efficient, and scalable software. In this video, I’m sharing 5 practical tips to help you write code that not only works but is easy to read, understand, and improve! Whether you’re a beginner or an experienced developer, these tips […]]]></summary>
         <author>
             <name>Sourav Raj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hyperscale Your Enterprise Business Applications with Microsoft Dataverse]]></title>
+        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/hyperscale-your-enterprise-business-applications-with-microsoft-dataverse/</id>
+        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/hyperscale-your-enterprise-business-applications-with-microsoft-dataverse/"/>
+        <updated>2024-10-04T20:47:02.000Z</updated>
+        <summary type="html"><![CDATA[Over the past three years, the annual growth rate of enterprise data within Fortune 500 companies has been remarkable, driven by an exponential increase in data generation and the strategic imperative to leverage data analytics. The volume of data continues to grow as enterprises build and deploy new applications within their organizations. IDC has predicted
+The post Hyperscale Your Enterprise Business Applications with Microsoft Dataverse appeared first on Microsoft Power Platform Blog.]]></summary>
+        <author>
+            <name>James Oleinik</name>
         </author>
     </entry>
     <entry>
@@ -622,6 +823,17 @@ How to Improve Compliance with a Document Management Solution?]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Use Copilot to quickly filter, sort, and search canvas app galleries with SQL Server]]></title>
+        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/use-copilot-to-quickly-filter-sort-and-search-canvas-app-galleries-with-sql-server/</id>
+        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/use-copilot-to-quickly-filter-sort-and-search-canvas-app-galleries-with-sql-server/"/>
+        <updated>2024-10-02T13:29:48.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce that Power Apps application runtime users can now use Copilot to quickly filter, sort, and search the items in canvas app galleries with SQL Server. This feature is in addition to the previously released capability to filter SharePoint canvas galleries. Copilot uses your natural language to generate a query to
+The post Use Copilot to quickly filter, sort, and search canvas app galleries with SQL Server appeared first on Microsoft Power Platform Blog.]]></summary>
+        <author>
+            <name>Lance Delano and Jordan Chodak</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What the Dynamics GP End of Life Means for Your Business: Key Considerations and Next Steps]]></title>
         <id>https://erpsoftwareblog.com/?p=119177</id>
         <link href="https://erpsoftwareblog.com/2024/10/what-the-dynamics-gp-end-of-life-means-for-your-business-key-considerations-and-next-steps/"/>
@@ -682,6 +894,21 @@ A Wake-up Call - A Game Changer Is on the Way]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A Guide to Microsoft Dynamics 365 Suite for Growing Businesses]]></title>
+        <id>https://erpsoftwareblog.com/?p=119387</id>
+        <link href="https://erpsoftwareblog.com/2024/10/microsoft-dynamics-365-suite-for-growing-businesses/"/>
+        <updated>2024-10-02T08:12:56.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In the dynamic business environment, leveraging the right technology is crucial for staying competitive and driving growth. Microsoft Dynamics 365 offers a comprehensive suite of applications that integrate seamlessly to […]
+The post A Guide to Microsoft Dynamics 365 Suite for Growing Businesses  appeared first on ERP Software Blog.
+Should I Upgrade to SQL 2012?
+3 Keys to ERP and CRM Success After Go-Live
+Give Customers Everything They Want This Year with Integrated ERP and CRM]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Top 7 Benefits of a Construction Management Software]]></title>
         <id>https://erpsoftwareblog.com/?p=119180</id>
         <link href="https://erpsoftwareblog.com/2024/10/top-7-benefits-of-a-construction-management-software/"/>
@@ -717,6 +944,17 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>Dynamics eShop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s new in Power Apps: September 2024 Feature Update]]></title>
+        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-apps-september-2024-feature-update/</id>
+        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-apps-september-2024-feature-update/"/>
+        <updated>2024-10-01T15:21:54.000Z</updated>
+        <summary type="html"><![CDATA[AI-powered Development This month on Power Apps Pulse! This month we’re excited to share improvements to Modern Theming, a new responsive template to create a list and details screen with lightning speed, a way to choose a data source for multiple controls on a screen with one click, and a new way to open existing
+The post What’s new in Power Apps: September 2024 Feature Update appeared first on Microsoft Power Platform Blog.]]></summary>
+        <author>
+            <name>Clay Wesener</name>
         </author>
     </entry>
     <entry>
@@ -5643,6 +5881,17 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use Copilot to quickly filter, sort, and search canvas app galleries with SharePoint lists]]></title>
+        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/use-copilot-to-quickly-filter-sort-and-search-canvas-app-galleries-with-sharepoint-lists/</id>
+        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/use-copilot-to-quickly-filter-sort-and-search-canvas-app-galleries-with-sharepoint-lists/"/>
+        <updated>2024-08-23T23:19:25.000Z</updated>
+        <summary type="html"><![CDATA[Use natural language queries with Copilot for filter to fine tune the records you see in your canvas galleries at runtime.  
+The post Use Copilot to quickly filter, sort, and search canvas app galleries with SharePoint lists appeared first on Microsoft Power Platform Blog.]]></summary>
+        <author>
+            <name>Lance Delano</name>
         </author>
     </entry>
     <entry>
@@ -48753,74 +49002,6 @@ Continue reading ‘Dynamic list of methods to execute (in D365FO)’ »]]></sum
 Deferral Defaults
 The first step is to set up Deferral defaults. This section can be found in Subscription billing > Revenue and expense deferrals > Setup > Deferral defaults. 
 This form looks similar…]]></summary>
-        <author>
-            <name>D365FandO(m)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Subscription Billing - Free Text Invoice or Sales Order?]]></title>
-        <id>https://www.d365fandom.com/2022/10/subscription-billing-free-text-invoice.html</id>
-        <link href="https://www.d365fandom.com/2022/10/subscription-billing-free-text-invoice.html"/>
-        <updated>2022-10-10T10:17:00.000Z</updated>
-        <summary type="html"><![CDATA[When setting up Subscription billing, there are two options for setting up the Recurring contract billing Invoice transaction type - Sales order or Free text invoice. 
-
-
-Parameters
-Within the Recurring contract billing parameters, you can specify which Invoice transaction type you'd like the Recurring contract billing to be. This will be the default whenever you create a new Recurring billing contract unless you modify it at the header level. 
-
-
-
-
-Invoice transaction type setting in the Recurring contract billing parameters
-
-So, what should you choose? 
-
-
-Free text invoice
-The benefits of using Free text invoice include:
-
-
-
-No need for items, just type in the description
-Can set the pricing to whatever you want (automatically defaults the line to Flat pricing method)
-Specify Main account per line, or set up in Deferral defaults
-
-
-
-The drawbacks of using Free text invoice include:
-
-
-
-Cannot use trade agreements for pricing, as there are no items
-
-
-
-
-Sales order
-The benefits of using Sales order include:
-
-
-
-Flexibility with pricing
-Can use Tier and Flat tier pricing methods using trade agreements
-Can automatically set deferrals on specific items and item groups that cannot be done at the Free text invoice level
-
-
-
-
-The drawbacks of using Sales order include:
-
-
-
-You have to set up items (some people find this tedious 😉)
-
-
-
-Conclusion
-If you have a simple, straightforward approach to billing subscriptions and don't mind a little bit of manual entry, then the Free text invoice is a clear winner. 
-
-
-If you have complex pricing, prefer to use items, and want to set it and forget it, Sales order invoice is the clear winner for you!]]></summary>
         <author>
             <name>D365FandO(m)</name>
         </author>
