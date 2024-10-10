@@ -2,10 +2,179 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-10-09T00:51:26.125Z</updated>
+    <updated>2024-10-10T00:51:20.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Use JavaScript to add onchange event to a field in the Business Process Flow]]></title>
+        <id>https://365community.online/use-javascript-to-add-onchange-event-to-a-field-in-the-business-process-flow</id>
+        <link href="https://365community.online/use-javascript-to-add-onchange-event-to-a-field-in-the-business-process-flow"/>
+        <updated>2024-10-09T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Let us continue our previous post, here we will update the script to add an onchange event to the Identify Sales Team field in the Business Process Flow. Based on the value selected we will make the Develop Proposal field mandatory. Below is the code we need to add for it. We can add it […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhancing Quality of Service with AI in Supply Chain Management]]></title>
+        <id>https://erpsoftwareblog.com/?p=119452</id>
+        <link href="https://erpsoftwareblog.com/2024/10/enhancing-quality-of-service-with-ai-in-supply-chain-management/"/>
+        <updated>2024-10-09T18:42:47.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In today’s competitive market, service quality is paramount for customer retention. However, the concept of service quality can vary from one customer to another. This is where Artificial Intelligence (AI) […]
+The post Enhancing Quality of Service with AI in Supply Chain Management appeared first on ERP Software Blog.
+A Proactive Approach To Stock Outs
+7 Common Problems to Avoid in Demand Forecasting
+6 Strategies to Cut Costs Across Your Supply Chain]]></summary>
+        <author>
+            <name>StockIQ Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anitha Eswaran’s Journey: AI-Driven ERP – YouTube]]></title>
+        <id>https://365community.online/anitha-eswarans-journey-ai-driven-erp-youtube</id>
+        <link href="https://365community.online/anitha-eswarans-journey-ai-driven-erp-youtube"/>
+        <updated>2024-10-09T17:22:35.000Z</updated>
+        <summary type="html"><![CDATA[Anitha Eswaran’s Journey: AI-Driven ERP Send me a Text Message here (https://www.buzzsprout.com/twilio/text_messages/1796418/open_sms) FULL SHOW NOTES https://podcast.nz365guy.com/607 Discover how Anitha  Eswaran, a celebrated digital architect from Sonata Software Europe, has pioneered her journey to being named an MVP in the ERP AI category. With nearly two decades of experience in Microsoft CRM and AXEPTA, Anitha’s story […]]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Microsoft Business Central Just a Rebranded as NAV?]]></title>
+        <id>https://erpsoftwareblog.com/?p=119447</id>
+        <link href="https://erpsoftwareblog.com/2024/10/microsoft-business-central-nav/"/>
+        <updated>2024-10-09T17:08:40.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Ever notice how often Dynamics NAV, Microsoft Business Central NAV, and Business Central are used interchangeably? In the Dynamics community, it’s common to hear, “It’s just a rebranding” or “They’re basically […]
+The post Is Microsoft Business Central Just a Rebranded as NAV?  appeared first on ERP Software Blog.
+Telltale Signs You’ve Outgrown QuickBooks: Part 2
+Telltale Signs You’ve Outgrown QuickBooks: Part 4
+Telltale Signs You’ve Outgrown QuickBooks: Part 5]]></summary>
+        <author>
+            <name>NAVtoBC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will AI Take Your Job? – YouTube]]></title>
+        <id>https://365community.online/will-ai-take-your-job-youtube</id>
+        <link href="https://365community.online/will-ai-take-your-job-youtube"/>
+        <updated>2024-10-09T14:22:04.000Z</updated>
+        <summary type="html"><![CDATA[AI might change your job, but it’s unlikely to replace it entirely. Just like past technologies, AI will automate repetitive tasks, but it also creates opportunities for new roles and skillsets. Rather than fearing job loss, it’s about adaptation. AI is becoming a collaborative tool, helping people focus on creative, strategic, and problem-solving tasks. Jobs […]]]></summary>
+        <author>
+            <name>Victor Dantas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Raise Awareness Of Copilot Actions On Card, Document, And Listplus Pages]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-raise-awareness-of-copilot-actions-on-card-document-and-listplus-pages</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-raise-awareness-of-copilot-actions-on-card-document-and-listplus-pages"/>
+        <updated>2024-10-09T14:00:34.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 11th of the new functionality in the Copilot and AI innovation section is raise awareness […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigating Dynamics 365 CRM Applications]]></title>
+        <id>https://www.encorebusiness.com/?p=64531</id>
+        <link href="https://www.encorebusiness.com/blog/navigating-d365-crm-applications/"/>
+        <updated>2024-10-09T13:21:16.000Z</updated>
+        <summary type="html"><![CDATA[Navigating Dynamics 365 CRM Applications
+In any Dynamics 365 CRM solution, there are many different views and screens that users navigate to find the information they need to do their work. I have trained hundreds of salespeople, service workers, and others to use these applications, and I use a consistent process to explain navigation within the Dynamics 365 CRM apps...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Erika Colson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unified Routing – Agent Capacity / Availability Issues]]></title>
+        <id>https://365community.online/unified-routing-agent-capacity-availability-issues</id>
+        <link href="https://365community.online/unified-routing-agent-capacity-availability-issues"/>
+        <updated>2024-10-09T13:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Whilst using Microsoft’s Dynamics 365 Contact Center, Unified Routing is used to route conversations to agents. A process which needs to leverage the agents availability. From time to time, I have experienced an issue that the agent availability can become out of step with reality. The Issue The problem I have occasionally seen is that […]]]></summary>
+        <author>
+            <name>Neil Parkhurst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[API Testing Using Postman Training and Certification Course Online #apitestingtraining #shorts – YouTube]]></title>
+        <id>https://365community.online/api-testing-using-postman-training-and-certification-course-online-apitestingtraining-shorts-youtube</id>
+        <link href="https://365community.online/api-testing-using-postman-training-and-certification-course-online-apitestingtraining-shorts-youtube"/>
+        <updated>2024-10-09T12:30:17.000Z</updated>
+        <summary type="html"><![CDATA[This API Testing training and certification course will help you learn and work on various use-case scenarios of API Testing implementations and become you a job-ready. 🔥To learn API Testing course enroll here: https://mindmajix.com/api-testing-training?utm_source=youtube&utm_medium=video&utm_campaign=promotion 🔵 About MindMajix’s API Testing with Postman Training: This training is designed to cover all aspects of API testing with the […]]]></summary>
+        <author>
+            <name>365 Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Use A Default Quantity Of 1 For Accounts On Documents]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-use-a-default-quantity-of-1-for-accounts-on-documents</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-use-a-default-quantity-of-1-for-accounts-on-documents"/>
+        <updated>2024-10-09T12:00:45.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 22nd of the new functionality in the Application section is use a default quantity of […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics ERP for Construction: Revolutionizing the Industry with Microsoft Dynamics 365]]></title>
+        <id>https://erpsoftwareblog.com/?p=119437</id>
+        <link href="https://erpsoftwareblog.com/2024/10/dynamics-erp-for-construction/"/>
+        <updated>2024-10-09T10:40:46.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The construction industry is a complex and multifaceted domain that involves intricate planning, coordination, and execution across various teams and stakeholders. From project management to inventory tracking, cost control, and […]
+The post Dynamics ERP for Construction: Revolutionizing the Industry with Microsoft Dynamics 365 appeared first on ERP Software Blog.
+No More Microsoft Dynamics NAV Locking!
+Invest in More TECHNOLOGY and Save Under NEW BUSINESS TAX PLAN
+ERP SHERPA Program Provides a Self-Implementation Option for Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World Mental Health Day 2024: Prioritize work-life integration with maps in Microsoft Dynamics 365]]></title>
+        <id>https://365community.online/world-mental-health-day-2024-prioritize-work-life-integration-with-maps-in-microsoft-dynamics-365</id>
+        <link href="https://365community.online/world-mental-health-day-2024-prioritize-work-life-integration-with-maps-in-microsoft-dynamics-365"/>
+        <updated>2024-10-09T10:23:12.000Z</updated>
+        <summary type="html"><![CDATA[World Mental Health Day, celebrated every year on October 10th, reminds us of the importance of fostering mental well-being, especially in the workplace. In today’s fast-paced corporate environment, mental health can be affected by the pressures of unrealistic deadlines, constant connectivity to work through multiple devices, and the need to make super quick, data-driven decisions. […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Add Extended Text To Project Planning Lines]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-add-extended-text-to-project-planning-lines</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-add-extended-text-to-project-planning-lines"/>
+        <updated>2024-10-09T10:00:08.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 21st of the new functionality in the Application section is add extended text to project […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Power Automate Cloud Flows Best Practices Whitepaper is now LIVE!]]></title>
+        <id>https://365community.online/the-power-automate-cloud-flows-best-practices-whitepaper-is-now-live</id>
+        <link href="https://365community.online/the-power-automate-cloud-flows-best-practices-whitepaper-is-now-live"/>
+        <updated>2024-10-09T09:25:14.000Z</updated>
+        <summary type="html"><![CDATA[Click on the link for the Power Automate Cloud flows Best Practices whitepaper PDF. Please like and share your valuable feedback on this video and follow my blog to get my articles to your Inbox. Click on the below image to navigate to my YouTube Channel. Below are my earlier articles that you can have a look. […]]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Import a D365 FO entity with a virtual KEY field]]></title>
+        <id>https://erconsult.eu/?p=8929</id>
+        <link href="https://erconsult.eu/blog/import-a-d365-fo-entity-with-a-virtual-key-field/"/>
+        <updated>2024-10-09T07:09:05.000Z</updated>
+        <summary type="html"><![CDATA[Using a virtual field in Dynamics 365 for SCM to parse the inbound data fails because the system looks for the record before parsing the composite key. The solution is to create an entity with mapped key fields, adjust staging table relations, and perform the splitting in the initializeEntityDataSource() method.
+The post Import a D365 FO entity with a virtual KEY field appeared first on ER-Consult.]]></summary>
+        <author>
+            <name>Eugen Glasow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Use JavaScript to enable a field only if the Stage is Active in Business Process Flow – Dynamics 365 / Dataverse]]></title>
         <id>https://365community.online/use-javascript-to-enable-a-field-only-if-the-stage-is-active-in-business-process-flow-dynamics-365-dataverse</id>
@@ -48989,21 +49158,6 @@ Check this article for deploy report using PS script.]]></summary>
 Continue reading ‘Dynamic list of methods to execute (in D365FO)’ »]]></summary>
         <author>
             <name>Martin Dráb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Subscription Billing - Revenue Deferrals]]></title>
-        <id>https://www.d365fandom.com/2022/10/subscription-billing-revenue-deferrals.html</id>
-        <link href="https://www.d365fandom.com/2022/10/subscription-billing-revenue-deferrals.html"/>
-        <updated>2022-10-11T10:22:00.000Z</updated>
-        <summary type="html"><![CDATA[When selling subscriptions, memberships, or prepaid investments, companies often receive large sums of money upfront from their customers and cannot recognize that revenue immediately. This can cause accounting and cashflow issues if the money was immediately available as revenue all at once. Therefore, Microsoft Dynamics 365 for Finance offers Revenue and expense deferrals as part of their new Subscription billing offerings. Revenue deferral allows the revenue to enter a deferred account and be recognized on a schedule to be defined by the accounting team. Let's discuss how to set this up.
-
-
-Deferral Defaults
-The first step is to set up Deferral defaults. This section can be found in Subscription billing > Revenue and expense deferrals > Setup > Deferral defaults. 
-This form looks similar…]]></summary>
-        <author>
-            <name>D365FandO(m)</name>
         </author>
     </entry>
 </feed>
