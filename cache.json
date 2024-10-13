@@ -14461,6 +14461,26 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/partner-solution-showcase-mysummitna-reinvent-maps-for-dynamics-365-crm-oct-15",
+          "author": "Inogic",
+          "description": "This October, the Microsoft Dynamics Community is set to thrive at Community Summit North America 2024 in San Antonio, Texas. Bringing together industry professionals, partners, and Microsoft leaders from October 13-17 at the Henry B. Gonzalez Convention Center, the event offers an exciting mix of innovation, collaboration, and knowledge sharing. A key highlight is Inogic-Maplytics, […]",
+          "link": "https://365community.online/partner-solution-showcase-mysummitna-reinvent-maps-for-dynamics-365-crm-oct-15",
+          "publishedOn": "2024-10-12T09:51:30.000Z",
+          "wordCount": 1350,
+          "title": "Partner Solution Showcase #MySummitNA | Reinvent Maps for Dynamics 365 CRM |Oct 15",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/impacto-de-asistentes-de-ia-en-la-productividad-diaria",
+          "author": "jarmesto",
+          "description": "Reflexiones sobre el uso diario de asistentes de IA ¿Por qué este artículo? Bueno, surge de algunas reflexiones de las últimas semanas, motivadas principalmente por los estupendos posts de David Hurtado Torán (sí, soy fan). Pensando durante los cafés matutinos (sobre las 6:30 a.m.) en cómo el uso de asistentes de IA está impactando mi […]",
+          "link": "https://365community.online/impacto-de-asistentes-de-ia-en-la-productividad-diaria",
+          "publishedOn": "2024-10-12T06:25:00.000Z",
+          "wordCount": 1085,
+          "title": "Impacto de Asistentes de IA en la Productividad Diaria",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/madic-dynamics-knowledge-hub-webinar-on-tuesday-15th-october-2024-tips-tricks-to-get-the-most-from-business-central",
           "author": "Ian Grieve",
           "description": "Here at MADIC dynamics we will be presenting a Knowledge Hub Webinar at 1400 UK time on Tuesday next week. Learn some tips and tricks from an experienced consultant which will help you get the most out of Microsoft Dynamics 365 Business Central. This webinar will share practical advice to enhance your use of the […]",
@@ -14468,6 +14488,16 @@
           "publishedOn": "2024-10-11T14:00:17.000Z",
           "wordCount": 1151,
           "title": "MADIC dynamics Knowledge Hub Webinar on Tuesday 15th October 2024: Tips & Tricks to Get the Most from Business Central",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/stop-making-these-5-mobile-device-security-mistakes-youtube",
+          "author": "shabaz darr",
+          "description": "Learn how to protect your mobile devices and avoid common security mistakes. Get the SC-100 exam security requirements for mobile, IoT, and embedded devices in this video. Don’t risk your data – watch now! Episode Breakdown – 00:00 – Episode Intro 00:57 – Episode Breakdown 01:26 – Specify Requirements for Mobile Devices and Clients 04:45 […]",
+          "link": "https://365community.online/stop-making-these-5-mobile-device-security-mistakes-youtube",
+          "publishedOn": "2024-10-11T12:00:57.000Z",
+          "wordCount": 1042,
+          "title": "STOP Making These 5 Mobile Device Security Mistakes – YouTube",
           "imageUrl": null
         },
         {
@@ -31238,6 +31268,21 @@
       "feedUrl": "https://dynamicsax-fico.com/feed/",
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
+        {
+          "id": "http://dynamicsax-fico.com/?p=6395",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2024/10/12/microsoft-bizapps-deutschland-podcast-38/",
+          "publishedOn": "2024-10-12T04:55:47.000Z",
+          "wordCount": 3403,
+          "title": "Microsoft BizApps Deutschland Podcast #38",
+          "enclosure": {
+            "url": "https://dynamicsax-fico.com/wp-content/uploads/2024/07/2024-06-20_goldbeckv4.mp3",
+            "length": "33888593",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://dynamicsax-fico.com/wp-content/uploads/2024/07/bildv4.png"
+        },
         {
           "id": "http://dynamicsax-fico.com/?p=6744",
           "author": "Ludwig Reinhard",

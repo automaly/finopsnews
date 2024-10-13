@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-10-12T00:50:16.841Z</updated>
+    <updated>2024-10-13T00:55:20.091Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Partner Solution Showcase #MySummitNA | Reinvent Maps for Dynamics 365 CRM |Oct 15]]></title>
+        <id>https://365community.online/partner-solution-showcase-mysummitna-reinvent-maps-for-dynamics-365-crm-oct-15</id>
+        <link href="https://365community.online/partner-solution-showcase-mysummitna-reinvent-maps-for-dynamics-365-crm-oct-15"/>
+        <updated>2024-10-12T09:51:30.000Z</updated>
+        <summary type="html"><![CDATA[This October, the Microsoft Dynamics Community is set to thrive at Community Summit North America 2024 in San Antonio, Texas. Bringing together industry professionals, partners, and Microsoft leaders from October 13-17 at the Henry B. Gonzalez Convention Center, the event offers an exciting mix of innovation, collaboration, and knowledge sharing. A key highlight is Inogic-Maplytics, […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Impacto de Asistentes de IA en la Productividad Diaria]]></title>
+        <id>https://365community.online/impacto-de-asistentes-de-ia-en-la-productividad-diaria</id>
+        <link href="https://365community.online/impacto-de-asistentes-de-ia-en-la-productividad-diaria"/>
+        <updated>2024-10-12T06:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Reflexiones sobre el uso diario de asistentes de IA ¿Por qué este artículo? Bueno, surge de algunas reflexiones de las últimas semanas, motivadas principalmente por los estupendos posts de David Hurtado Torán (sí, soy fan). Pensando durante los cafés matutinos (sobre las 6:30 a.m.) en cómo el uso de asistentes de IA está impactando mi […]]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #38]]></title>
+        <id>http://dynamicsax-fico.com/?p=6395</id>
+        <link href="https://dynamicsax-fico.com/2024/10/12/microsoft-bizapps-deutschland-podcast-38/"/>
+        <updated>2024-10-12T04:55:47.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Risk of Using Spreadsheets in Professional Companies]]></title>
         <id>https://erpsoftwareblog.com/?p=119537</id>
@@ -59,6 +89,16 @@ Leverage the Power of Dynamics 365 Business Central and D365 for Sales Integrati
         <summary type="html"><![CDATA[Here at MADIC dynamics we will be presenting a Knowledge Hub Webinar at 1400 UK time on Tuesday next week. Learn some tips and tricks from an experienced consultant which will help you get the most out of Microsoft Dynamics 365 Business Central. This webinar will share practical advice to enhance your use of the […]]]></summary>
         <author>
             <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STOP Making These 5 Mobile Device Security Mistakes – YouTube]]></title>
+        <id>https://365community.online/stop-making-these-5-mobile-device-security-mistakes-youtube</id>
+        <link href="https://365community.online/stop-making-these-5-mobile-device-security-mistakes-youtube"/>
+        <updated>2024-10-11T12:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to protect your mobile devices and avoid common security mistakes. Get the SC-100 exam security requirements for mobile, IoT, and embedded devices in this video. Don’t risk your data – watch now! Episode Breakdown – 00:00 – Episode Intro 00:57 – Episode Breakdown 01:26 – Specify Requirements for Mobile Devices and Clients 04:45 […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
         </author>
     </entry>
     <entry>
