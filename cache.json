@@ -14461,6 +14461,16 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/empezando-con-document-field-extraction-con-generative-ai-en-dos-minutos%e2%8f%b3-youtube",
+          "author": "jarmesto",
+          "description": "Empezando con…Document Field Extraction con Generative AI en dos minutos⏳ ¿Quieres optimizar la gestión de tus documentos con inteligencia artificial? En este video de 2 minutos, te mostraré cómo empezar con los modelos generativos personalizados en Azure AI Document Intelligence. Aprenderás los pasos básicos para configurar tu primer proyecto . Descubre cómo aprovechar las capacidades […]",
+          "link": "https://365community.online/empezando-con-document-field-extraction-con-generative-ai-en-dos-minutos%e2%8f%b3-youtube",
+          "publishedOn": "2024-10-13T07:00:01.000Z",
+          "wordCount": 1348,
+          "title": "Empezando con…Document Field Extraction con Generative AI en dos minutos⏳ – YouTube",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/partner-solution-showcase-mysummitna-reinvent-maps-for-dynamics-365-crm-oct-15",
           "author": "Inogic",
           "description": "This October, the Microsoft Dynamics Community is set to thrive at Community Summit North America 2024 in San Antonio, Texas. Bringing together industry professionals, partners, and Microsoft leaders from October 13-17 at the Henry B. Gonzalez Convention Center, the event offers an exciting mix of innovation, collaboration, and knowledge sharing. A key highlight is Inogic-Maplytics, […]",
@@ -14468,6 +14478,16 @@
           "publishedOn": "2024-10-12T09:51:30.000Z",
           "wordCount": 1350,
           "title": "Partner Solution Showcase #MySummitNA | Reinvent Maps for Dynamics 365 CRM |Oct 15",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/is-ai-about-to-steal-your-developer-job-the-truth-may-shock-you-youtube",
+          "author": "Sourav Raj",
+          "description": "Is AI About to Steal Your Developer Job? The Truth May Shock You! AI is advancing at an unprecedented pace, and many developers are wondering what this means for their future. Will AI take over coding entirely, or is it just a tool to enhance productivity? In this video, we explore the real impact of […]",
+          "link": "https://365community.online/is-ai-about-to-steal-your-developer-job-the-truth-may-shock-you-youtube",
+          "publishedOn": "2024-10-12T06:30:16.000Z",
+          "wordCount": 1369,
+          "title": "Is AI About to Steal Your Developer Job? The Truth May Shock You! – YouTube",
           "imageUrl": null
         },
         {
@@ -14488,6 +14508,16 @@
           "publishedOn": "2024-10-11T14:00:17.000Z",
           "wordCount": 1151,
           "title": "MADIC dynamics Knowledge Hub Webinar on Tuesday 15th October 2024: Tips & Tricks to Get the Most from Business Central",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/how-to-analysing-time-complexity-youtube",
+          "author": "Sourav Raj",
+          "description": "How to Analysing Time complexity “🔍 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐧𝐠 𝐓𝐢𝐦𝐞 𝐜𝐨𝐦𝐩𝐥𝐞𝐱𝐢𝐭𝐲 Struggling with how to analyze the efficiency of algorithms in DSA? In this video, we break down the concept of Time Complexity in the simplest way possible. 📊 Learn how to determine the performance of algorithms, understand Big O notation, and level up your coding skills! […]",
+          "link": "https://365community.online/how-to-analysing-time-complexity-youtube",
+          "publishedOn": "2024-10-11T12:16:56.000Z",
+          "wordCount": 1155,
+          "title": "How to Analysing Time complexity – YouTube",
           "imageUrl": null
         },
         {
@@ -38617,6 +38647,16 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/data-workspace-is-now-generally-available/",
+          "author": "Prithvi Khosla and Travis Shu",
+          "description": "Data workspace, the ERD data experience with Copilot is now generally available in 9 languages supporting solution and model-driven app.\nThe post Data Workspace is Now Generally Available! appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/data-workspace-is-now-generally-available/",
+          "publishedOn": "2024-10-10T21:54:51.000Z",
+          "wordCount": 3061,
+          "title": "Data Workspace is Now Generally Available!",
+          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/10/Screenshot_10-10-2024_122753_make.preview.powerapps.com_-e1728588515444.jpeg"
+        },
+        {
           "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/hyperscale-your-enterprise-business-applications-with-microsoft-dataverse/",
           "author": "James Oleinik",
           "description": "Over the past three years, the annual growth rate of enterprise data within Fortune 500 companies has been remarkable, driven by an exponential increase in data generation and the strategic imperative to leverage data analytics. The volume of data continues to grow as enterprises build and deploy new applications within their organizations. IDC has predicted\nThe post Hyperscale Your Enterprise Business Applications with Microsoft Dataverse appeared first on Microsoft Power Platform Blog.",
@@ -38685,6 +38725,16 @@
           "wordCount": 3852,
           "title": "What’s new in Power Apps: August 2024 Feature Update",
           "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/09/image.png"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-platform-stories/",
+          "author": "Sameer Bhangar",
+          "description": "Welcome to a list of customer stories curated by the Power CAT team. These stories showcase the ingenuity of a wide breadth of organizations and users that have adopted low-code and Microsoft Power Platform along with Microsoft 365, Azure, and Dynamics 365. Makers of apps, flows, reports, and chatbots have digitally transformed their business processes, and in some cases transformed organization culture, careers, and lives. We hope these serve as inspiration for you as you embark on your own Power Platform journey.\nThe post Microsoft Power Platform Stories appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-platform-stories/",
+          "publishedOn": "2024-09-01T15:00:00.000Z",
+          "wordCount": 8620,
+          "title": "Microsoft Power Platform Stories",
+          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2022/09/PPStories_Banner100.png"
         },
         {
           "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/introducing-copilot-page-in-power-platform-admin-center-preview/",
