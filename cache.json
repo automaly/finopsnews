@@ -1542,6 +1542,56 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=119570",
+          "author": "JourneyTEAM",
+          "description": "xxx\nIt’s not easy to build an IT team from scratch and migrate 1,000 users to a new Azure tenant all at the same time. But that was the challenge faced […]\nThe post Energy Provider Seamlessly Migrates to Secure Azure Tenant with JourneyTeam appeared first on ERP Software Blog.\nWhat’s Going on with the Microsoft On-Prem Exchange Hack?\nDebunking Cloud Reporting Security Myths: How Cosmos Safeguards Your Business\nTips for Formula / Recipe Security in the Cloud or On Site",
+          "link": "https://erpsoftwareblog.com/2024/10/energy-provider-seamlessly-migrates-to-secure-azure-tenant-with-journeyteam/",
+          "publishedOn": "2024-10-14T14:16:34.000Z",
+          "wordCount": 7435,
+          "title": "Energy Provider Seamlessly Migrates to Secure Azure Tenant with JourneyTeam",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Depositphotos_218890680_xl-2015-scaled.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=119563",
+          "author": "SmartBOL",
+          "description": "xxx\nJust schedule a demo with us… https://smartbol.com/electronic-bill-of-lading/    \nThe post See SmartBOL Demo Today in San Antonio at the MS Dynamics Community Summit Event appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2024/10/see-smartbol-demo-today-in-san-antonio-at-the-ms-dynamics-community-summit-event/",
+          "publishedOn": "2024-10-14T12:59:39.000Z",
+          "wordCount": 3771,
+          "title": "See SmartBOL Demo Today in San Antonio at the MS Dynamics Community Summit Event",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=119558",
+          "author": "Intelegain Technologies",
+          "description": "xxx\nThe comparison between Microsoft Dynamics 365 Business Central vs QuickBooks has become a hot topic among business owners eager to evaluate their features and identify the ideal solution for their […]\nThe post Microsoft Dynamics 365 Business Central vs QuickBooks appeared first on ERP Software Blog.\nLearn How To Save Time By Using The \"Cancel\" Option to Reverse A Posted Sales Invoice\nHot trend: giving rental companies rich graphical views of equipment availability\nGet proactive about equipment utilization with DynaRent Power BI",
+          "link": "https://erpsoftwareblog.com/2024/10/microsoft-dynamics-365-business-central-vs-quickbooks-2/",
+          "publishedOn": "2024-10-14T10:10:35.000Z",
+          "wordCount": 5152,
+          "title": "Microsoft Dynamics 365 Business Central vs QuickBooks",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=119553",
+          "author": "Dynamics Square USA",
+          "description": "xxx\nIn the ever-evolving world of retail, businesses need advanced tools and technologies to remain competitive. Microsoft Dynamics 365 for Retail is one such solution that offers end-to-end retail management. From […]\nThe post Microsoft Dynamics 365 for Retail: A Complete Solution for Modern Retailers appeared first on ERP Software Blog.\nHow to Keep Your Distributor Force Engaged and Increase Sales\nSimplifying ERP Processes: Map the Way with a Microsoft 365 Information Architecture\nTransform your retail business with point of sale software",
+          "link": "https://erpsoftwareblog.com/2024/10/microsoft-dynamics-365-for-retail/",
+          "publishedOn": "2024-10-14T08:05:11.000Z",
+          "wordCount": 4687,
+          "title": "Microsoft Dynamics 365 for Retail: A Complete Solution for Modern Retailers",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/dynamics-365-for-retail-scaled.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=119546",
+          "author": "Dynamics Square AU",
+          "description": "xxx\nAre you ready to unlock the full potential of your finance team and streamline your accounts payable (AP) processes? The days of manual data entry, invoice errors, and tedious payment […]\nThe post Transforming Accounts Payable with Intelligent Automation and Recognition in Dynamics 365 Finance appeared first on ERP Software Blog.\nManage Multiple Revenue Streams and Invoices for Rental in Dynamics 365\nAP Automation Features in Dynamics 365 Finance\nRevolutionising Fixed Asset Management with Dynamics 365 Finance",
+          "link": "https://erpsoftwareblog.com/2024/10/transforming-accounts-payable-with-intelligent-automation-in-dynamics-365-finance/",
+          "publishedOn": "2024-10-14T05:32:52.000Z",
+          "wordCount": 4821,
+          "title": "Transforming Accounts Payable with Intelligent Automation and Recognition in Dynamics 365 Finance",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=119537",
           "author": "MetaOption LLC",
           "description": "xxx\nA spreadsheet error caused Eastman Kodak to overstate severance payments by $11 million in 2005. This mistake forced the company to restate two quarters of its financial records. Why did […]\nThe post Risk of Using Spreadsheets in Professional Companies  appeared first on ERP Software Blog.\nThe 5 Most Often Overlooked Costs of ERP\nMicrosoft Dynamics GP Home Page – Your One Stop Shop for Everything!\nHow to Win the Microsoft Win to Grow Business Challenge Contest",
@@ -14461,6 +14511,66 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/free-up-storage-space-activitypointerbase-and-workflowlogbase-dataverse-dynamics-365",
+          "author": "Nishant Rana",
+          "description": "Had shared the steps we had followed to reduce the storage space for one of our environments which was a copy of production below a few months back –https://nishantrana.me/2023/09/28/free-up-storage-space-dataverse-dynamics-365/ This time we followed more or less the same steps, the main difference was this time we used our favorite XrmToolBox plugin SQL4CDS to perform the […]",
+          "link": "https://365community.online/free-up-storage-space-activitypointerbase-and-workflowlogbase-dataverse-dynamics-365",
+          "publishedOn": "2024-10-14T20:30:00.000Z",
+          "wordCount": 1109,
+          "title": "Free up Storage space – ActivityPointerBase and WorkflowLogBase (Dataverse / Dynamics 365)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-calculate-and-post-vat-settlement-by-activity-code-italy",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 6th of the new functionality in the Country and regional section is calculate and post […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-calculate-and-post-vat-settlement-by-activity-code-italy",
+          "publishedOn": "2024-10-14T14:00:48.000Z",
+          "wordCount": 1145,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Calculate And Post Vat Settlement By Activity Code – Italy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/2024s-top-security-expert-reveals-sc-100-exam-secrets-youtube",
+          "author": "shabaz darr",
+          "description": "Get the inside scoop on the SC-100 exam secrets from a top security expert! Learn how to specify security baselines for servers and client endpoints. Episode Breakdown – 00:00 – Episode Intro 00:55 – Episode Breakdown 01:26 – Specify Security Baselines for Server and Client Endpoints MeasureUp Exam Discount – https://www.measureup.com/microsoft-practice-test-sc-100-cybersecurity-architect-grc.html#u7 Microsoft Learn – https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-100/ […]",
+          "link": "https://365community.online/2024s-top-security-expert-reveals-sc-100-exam-secrets-youtube",
+          "publishedOn": "2024-10-14T12:01:11.000Z",
+          "wordCount": 1016,
+          "title": "2024’s Top Security Expert Reveals SC-100 Exam Secrets – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-posting-of-alternative-customer-vendor-posting-groups-czechia",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 5th of the new functionality in the Country and regional section is posting of alternative […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-posting-of-alternative-customer-vendor-posting-groups-czechia",
+          "publishedOn": "2024-10-14T12:00:19.000Z",
+          "wordCount": 1133,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Posting Of Alternative Customer-Vendor Posting Groups – Czechia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/returning-to-wpc-conference",
+          "author": "Stefano Demiliani",
+          "description": "It was the year 2002, Microsoft was launching a mysterious and promising platform called .NET and in that year I had the responsibility of leading an important project to rewrite a large distributed application on top of this platform. In anticipation of this goal, I was sent to WPC, the most famous IT conference in […]",
+          "link": "https://365community.online/returning-to-wpc-conference",
+          "publishedOn": "2024-10-14T10:11:06.000Z",
+          "wordCount": 1078,
+          "title": "Returning to WPC Conference",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/error-configuring-master-data-management-in-microsoft-dynamics-365-business-central",
+          "author": "Ian Grieve",
+          "description": "One of the pieces of new functionality introduced in Microsoft Dynamics 365 Business Central 2023 Wave 1 is Master Data Management which allows you to sync setup and/or master data between companies in the same environment. We’ve made some use of his functionality on a recent project, but encountered a problem when trying to enable […]",
+          "link": "https://365community.online/error-configuring-master-data-management-in-microsoft-dynamics-365-business-central",
+          "publishedOn": "2024-10-14T10:00:39.000Z",
+          "wordCount": 1103,
+          "title": "Error Configuring Master Data Management in Microsoft Dynamics 365 Business Central",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/empezando-con-document-field-extraction-con-generative-ai-en-dos-minutos%e2%8f%b3-youtube",
           "author": "jarmesto",
           "description": "Empezando con…Document Field Extraction con Generative AI en dos minutos⏳ ¿Quieres optimizar la gestión de tus documentos con inteligencia artificial? En este video de 2 minutos, te mostraré cómo empezar con los modelos generativos personalizados en Azure AI Document Intelligence. Aprenderás los pasos básicos para configurar tu primer proyecto . Descubre cómo aprovechar las capacidades […]",
@@ -14468,6 +14578,26 @@
           "publishedOn": "2024-10-13T07:00:01.000Z",
           "wordCount": 1348,
           "title": "Empezando con…Document Field Extraction con Generative AI en dos minutos⏳ – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/ai-strategy-and-vision-youtube",
+          "author": "NZ365Guy",
+          "description": "AI Strategy and Vision. source",
+          "link": "https://365community.online/ai-strategy-and-vision-youtube",
+          "publishedOn": "2024-10-13T05:38:51.000Z",
+          "wordCount": 922,
+          "title": "AI Strategy and Vision. – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/ai-ecosystem-architecture-youtube",
+          "author": "NZ365Guy",
+          "description": "AI Ecosystem Architecture source",
+          "link": "https://365community.online/ai-ecosystem-architecture-youtube",
+          "publishedOn": "2024-10-13T03:56:37.000Z",
+          "wordCount": 918,
+          "title": "AI Ecosystem Architecture – YouTube",
           "imageUrl": null
         },
         {
@@ -35778,6 +35908,16 @@
       "siteUrl": "https://dev.goshoom.net",
       "articles": [
         {
+          "id": "https://dev.goshoom.net/?p=10032",
+          "author": "Martin Dráb",
+          "description": "Last time, I mentioned using of GitHub Copilot for X++ development, but I didn’t realize that not everyone is aware of the option of using GitHub Copilot in Visual Studio. A lot of examples on Internet shows it in Visual Studio Code and don’t mention Visual Studio at all, which may be confusing. To use ...\nContinue reading ‘GitHub Copilot in Visual Studio’ »",
+          "link": "https://dev.goshoom.net/2024/10/github-copilot-in-visual-studio/",
+          "publishedOn": "2024-10-14T06:17:55.000Z",
+          "wordCount": 1178,
+          "title": "GitHub Copilot in Visual Studio",
+          "imageUrl": null
+        },
+        {
           "id": "https://dev.goshoom.net/?p=10025",
           "author": "Martin Dráb",
           "description": "I’ve finally started looking more closely on GitHub Copilot. What it can do with languages like C# is impressive; I also checked that it can help with things like Powershell scripts or Excel formulas. But because I’m still primarily an X++ guy, I’m keen to explore how it can help there. So far, I tried ...\nContinue reading ‘X++ documentation comments by GitHub Copilot’ »",
@@ -38419,6 +38559,16 @@
       "feedUrl": "https://erconsult.eu/feed/",
       "siteUrl": "https://erconsult.eu/",
       "articles": [
+        {
+          "id": "https://erconsult.eu/?p=8976",
+          "author": "Eugen Glasow",
+          "description": "APS (Advanced Planning and Scheduling) integrates with Dynamics 365 for SCM to optimize production by planning and scheduling orders based on resource availability, capacity, and deadlines. In Germany, APS programs like FELIOS and FEDRA (HYDRA’s APS system) are widely used. The integration process involves exporting data from Dynamics 365, such as orders and master data, into APS, which generates an optimized plan. The updated routes are imported back into Dynamics 365, focusing on rescheduling relevant production orders while aligning job schedules, capacity reservations, and raw material demand. Finally, the production order is locked to prevent further changes. \nThe post Integrate APS with Dynamics 365 for SCM appeared first on ER-Consult.",
+          "link": "https://erconsult.eu/blog/integrate-aps-with-dynamics-365-for-scm/",
+          "publishedOn": "2024-10-14T17:04:53.000Z",
+          "wordCount": 2433,
+          "title": "Integrate APS with Dynamics 365 for SCM",
+          "imageUrl": "https://erconsult.eu/wp-content/uploads/2024/10/D365-APS-integration.png"
+        },
         {
           "id": "https://erconsult.eu/?p=8929",
           "author": "Eugen Glasow",
