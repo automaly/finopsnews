@@ -1542,6 +1542,26 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=119670",
+          "author": "Dynamics Square CA",
+          "description": "xxx\nIn 2022, the global ERP software market was worth $54.76 billion. It is projected to grow at an annual rate of 11.0% from 2023 to 2030. ERP system is one […]\nThe post ERP Consultant in Canada | Best in 2024 appeared first on ERP Software Blog.\nCan distributors free themselves from the hassles of mismatched data across various systems?\nWant to provide equipment and its status directly to each depot manager and take proper action immediately?\nHow can the system support you in creating a sub-rental and monitoring your margins?",
+          "link": "https://erpsoftwareblog.com/2024/10/erp-consultants-in-canada-2024/",
+          "publishedOn": "2024-10-16T14:26:19.000Z",
+          "wordCount": 7778,
+          "title": "ERP Consultant in Canada | Best in 2024",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ERP-Consultant-in-Canada.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=119615",
+          "author": "Dynamics Square UK",
+          "description": "xxx\nAvoid these mistakes before migrating from Sage X3 to Dynamics 365 Business Central?   Is your ERP system holding you back? If you’re currently using Sage X3, you’ve probably felt […]\nThe post 10 Must-Read Factors Before Migrating from Sage X3 to Business Central appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve\nInsight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Business Central at BCUG/NAVUG Summit in Phoenix\nWhen is Azure more effective to access your Data with Microsoft Dynamics 365?",
+          "link": "https://erpsoftwareblog.com/2024/10/migrating-from-sage-x3-to-business-central/",
+          "publishedOn": "2024-10-16T04:00:55.000Z",
+          "wordCount": 4808,
+          "title": "10 Must-Read Factors Before Migrating from Sage X3 to Business Central",
+          "imageUrl": "https://www.dynamicssquare.co.uk/_next/image/?url=%2Fimg%2FDynamics-365-Business-Central-Features-banner-side.png&w=3840&q=75"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=119629",
           "author": "Solution Systems, Inc.",
           "description": "xxx\nLet’s get real for a minute. If you’re running your business on Dynamics GP, chances are you’re facing a lot of challenges: outdated systems, limited functionality, rising support costs, and […]\nThe post The True Cost of Migrating Dynamics GP to Business Central appeared first on ERP Software Blog.\nSave Money on Your ERP Implementation\n10 Phases Included in a Dynamics GP Implementation Project Plan\n3 Top Challenges to Digital Transformation in the equipment rental industry",
@@ -14660,6 +14680,96 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/welsh-azure-user-group-october-2024-meet-up",
+          "author": "John Lunn",
+          "description": "It was the day of our Welsh Azure User Group #WAUG October 2024 meet up and we had yet another two amazing speakers join us. We were joined by the amazing Alan Cox who discussed Microsoft Multi-Tenant Organisations (MTO): Enhancing Collaboration across Tenants. Then the brilliant Konstantinos Passadis came to discuss and demo Azure AI […]",
+          "link": "https://365community.online/welsh-azure-user-group-october-2024-meet-up",
+          "publishedOn": "2024-10-16T20:08:42.000Z",
+          "wordCount": 1078,
+          "title": "Welsh Azure User Group October 2024 Meet Up!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/6-reasons-why-states-choose-sylogist-over-appriss-for-victim-notification",
+          "author": "Jim Townsend",
+          "description": "6 Reasons Why States Choose Sylogist Over Appriss for Victim Notification In the world of victim notification systems, states are increasingly turning to SylogistGov Victim Services Suite (VSS) as their preferred choice over Appriss’ VINE system. Victim services are a top priority for state governments, and the decision to switch vendors is never taken lightly. In […]",
+          "link": "https://365community.online/6-reasons-why-states-choose-sylogist-over-appriss-for-victim-notification",
+          "publishedOn": "2024-10-16T16:03:05.000Z",
+          "wordCount": 1060,
+          "title": "6 Reasons Why States Choose Sylogist Over Appriss for Victim Notification",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-allocations-functionality-in-cash-desks-czechia",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 12th of the new functionality in the Country and regional section is allocations functionality in […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-allocations-functionality-in-cash-desks-czechia",
+          "publishedOn": "2024-10-16T14:00:02.000Z",
+          "wordCount": 1129,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Allocations Functionality In Cash Desks – Czechia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/bypass-power-apps-consent-prompts-using-powershell",
+          "author": "Richard Wilson",
+          "description": "When a user opens a Power App for the first time, they are often presented with a consent form asking for permission to access data sources or APIs used by the app. This Canvas API consent form can be disruptive, especially in scenarios where the app is intended for a broad user base or part […]",
+          "link": "https://365community.online/bypass-power-apps-consent-prompts-using-powershell",
+          "publishedOn": "2024-10-16T13:35:00.000Z",
+          "wordCount": 1066,
+          "title": "Bypass Power Apps Consent Prompts Using PowerShell",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/changes-in-the-ftrsa-program",
+          "author": "thecrmninja",
+          "description": "Firstly for those who are not aware, the acronym ‘FTRSA’ stands for ‘Fast Track Recognised Solution Architect’. This is an award that Microsoft bestows on people working for Microsoft Partners who have demonstrated clear technical expertise & understanding of the Microsoft Business Applications Platform at (enterprise) scale. To quote from the Microsoft documentation for the […]",
+          "link": "https://365community.online/changes-in-the-ftrsa-program",
+          "publishedOn": "2024-10-16T12:22:48.000Z",
+          "wordCount": 1029,
+          "title": "Changes in the FTRSA Program",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-improve-vat-reporting-and-adjustments-czechia",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 11th of the new functionality in the Country and regional section is improve VAT reporting […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-improve-vat-reporting-and-adjustments-czechia",
+          "publishedOn": "2024-10-16T12:00:37.000Z",
+          "wordCount": 1127,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Improve Vat Reporting And Adjustments – Czechia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/sc-100-exam-expert-reveals-top-design-solutions-for-network-security-youtube",
+          "author": "shabaz darr",
+          "description": "Get insider tips from an SC-100 exam expert on top design solutions for network security, including network segmentation and traffic filtering with NSGs. Episode Breakdown: 00:00 – Episode Intro 01:07 – Episode Breakdown 01:41 – Design Solutions for Network Segmentation 11:00 – Design Solutions for Traffic Filtering with NSGs 13:14 – Demo: NSG and vNet […]",
+          "link": "https://365community.online/sc-100-exam-expert-reveals-top-design-solutions-for-network-security-youtube",
+          "publishedOn": "2024-10-16T11:27:20.000Z",
+          "wordCount": 1032,
+          "title": "SC-100 Exam Expert Reveals Top Design Solutions for Network Security! – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/using-extended-texts-in-microsoft-dynamics-365-business-central-series-index",
+          "author": "Ian Grieve",
+          "description": "This article is part of the Using Extended Texts In Microsoft Dynamics 365 Business Central series, but articles within it will also be part of the larger ongoing In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I familiarise myself with Microsoft Dynamics 365 Business Central. Extended Texts are […]",
+          "link": "https://365community.online/using-extended-texts-in-microsoft-dynamics-365-business-central-series-index",
+          "publishedOn": "2024-10-16T10:00:43.000Z",
+          "wordCount": 1097,
+          "title": "Using Extended Texts In Microsoft Dynamics 365 Business Central: Series Index",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/lets-meet-at-directions-emea-2024-youtube",
+          "author": "Justina Žiūraitė",
+          "description": "We’re thrilled to announce that Simplanova is taking the stage as a Silver Sponsor at this year’s highly anticipated Directions EMEA 2024 conference in Vienna, Austria! Simplanova, as an official Microsoft Modernization Center, will help you navigate through Microsoft’s programs for upgrading Dynamics NAV to Business Central Cloud. We have invested a decade in migration […]",
+          "link": "https://365community.online/lets-meet-at-directions-emea-2024-youtube",
+          "publishedOn": "2024-10-16T08:29:21.000Z",
+          "wordCount": 1190,
+          "title": "Let’s meet at Directions EMEA 2024! – YouTube",
+          "imageUrl": null
+        },
         {
           "id": "https://365community.online/add-line-break-new-line-for-description-field-of-email-dataverse-power-automate",
           "author": "Nishant Rana",
