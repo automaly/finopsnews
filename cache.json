@@ -324,26 +324,6 @@
           "wordCount": 292,
           "title": "How to get FinOps Azure storage blob connection string",
           "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
-        },
-        {
-          "id": "https://dynamics365.github.io/2022-10-20-how-to-remove-ssrs-reports-in-d365/",
-          "author": "Max Nguyen",
-          "description": "There are 2 ways that you can delete SSRS reports in FinOps cloud-Hosted\n1. Using Report server configuiration manager web portal\nOpen Report server configuiration manager from your VM FinOps Cloud-Hosted and active the Web Portal\nImage\n\">\n        \n    2022-10-20-how-to-remove-ssrs-reports-in-d365-1\n    \nYou can delete any report from [Servername]/Reports/browse/Dynamics\nImage\n\">\n        \n    2022-10-20-how-to-remove-ssrs-reports-in-d365-3\n    \n2. Using Powershell script\nGo to RemoveAllReportsFromSsrs.ps1 under K:\\AosService\\PackagesLocalDirectory\\Plugins\\AxReportVmRoleStartupTask\nRun the script to remove all SSRS report.\nIf you want to remove a specific report, you can manipulate the $ReportName\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n\n\n\n################################################################################\n# This script is used to manually remove reports to SSRS server\n################################################################################\nparam\n(\n    [Parameter(Mandatory=$false)]\n    [string]$LogFilePath,\n    [Alias(\"ReportServerFqdn\", \"ReportServerName\")]\n    [Parameter(Mandatory=$false)]\n    [string[]]$ReportServerIp = \"127.0.0.1\",\n    [Parameter(Mandatory=$false)]\n\t[string[]]$ReportName = \"[report-name].[design-name]\",\n    [Parameter(Mandatory=$false)]\n\t[switch]$UseHttps = $false,\n    [Parameter(Mandatory=$false)]\n\t[int]$HttpsPort = 443,\n    [Parameter(Mandatory=$false)]\n    [switch]$Help = $false\n)\n\n\n\n\n\nCheck this article for deploy report using PS script.",
-          "link": "https://dynamics365.github.io/2022-10-20-how-to-remove-ssrs-reports-in-d365/",
-          "publishedOn": "2022-10-20T00:00:00.000Z",
-          "wordCount": 276,
-          "title": "How to remove SSRS reports in FinOps Cloud-Hosted",
-          "imageUrl": "https://dynamics365.github.io/Icon/mstile-150x150.png"
-        },
-        {
-          "id": "https://nuxulu.com/2022-10-20-how-to-remove-ssrs-reports-in-d365/",
-          "author": "Max Nguyen",
-          "description": "There are 2 ways that you can delete SSRS reports in FinOps cloud-Hosted\n1. Using Report server configuiration manager web portal\nOpen Report server configuiration manager from your VM FinOps Cloud-Hosted and active the Web Portal\nImage\n\">\n        \n    2022-10-20-how-to-remove-ssrs-reports-in-d365-1\n    \nYou can delete any report from [Servername]/Reports/browse/Dynamics\nImage\n\">\n        \n    2022-10-20-how-to-remove-ssrs-reports-in-d365-3\n    \n2. Using Powershell script\nGo to RemoveAllReportsFromSsrs.ps1 under K:\\AosService\\PackagesLocalDirectory\\Plugins\\AxReportVmRoleStartupTask\nRun the script to remove all SSRS report.\nIf you want to remove a specific report, you can manipulate the $ReportName\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n\n\n\n################################################################################\n# This script is used to manually remove reports to SSRS server\n################################################################################\nparam\n(\n    [Parameter(Mandatory=$false)]\n    [string]$LogFilePath,\n    [Alias(\"ReportServerFqdn\", \"ReportServerName\")]\n    [Parameter(Mandatory=$false)]\n    [string[]]$ReportServerIp = \"127.0.0.1\",\n    [Parameter(Mandatory=$false)]\n\t[string[]]$ReportName = \"[report-name].[design-name]\",\n    [Parameter(Mandatory=$false)]\n\t[switch]$UseHttps = $false,\n    [Parameter(Mandatory=$false)]\n\t[int]$HttpsPort = 443,\n    [Parameter(Mandatory=$false)]\n    [switch]$Help = $false\n)\n\n\n\n\n\nCheck this article for deploy report using PS script.",
-          "link": "https://nuxulu.com/2022-10-20-how-to-remove-ssrs-reports-in-d365/",
-          "publishedOn": "2022-10-20T00:00:00.000Z",
-          "wordCount": 275,
-          "title": "How to remove SSRS reports in FinOps Cloud-Hosted",
-          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
         }
       ]
     },
@@ -1541,6 +1521,46 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=119727",
+          "author": "MetaOption LLC",
+          "description": "xxx\nManaging government contracts can feel overwhelming with all the rules and regulations. The process can quickly become stressful. As a business owner or someone responsible for contracts, you're not just […]\nThe post Stay Audit-Ready with Government Contract Management Software appeared first on ERP Software Blog.\nBaker’s Dozen of WMS (Warehouse Management System) Acronyms Defined\nTop 3 reasons WithoutWire™ (WoW) is Not Your Daddy’s Warehouse Management System (WMS)\nGain Efficiency in Microsoft Dynamics GP Lot Tracking with WithoutWire™ WMS – demo",
+          "link": "https://erpsoftwareblog.com/2024/10/stay-audit-ready-with-government-contract-management-software/",
+          "publishedOn": "2024-10-18T23:36:52.000Z",
+          "wordCount": 5149,
+          "title": "Stay Audit-Ready with Government Contract Management Software",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/shutterstock_2112201803-Medium.jpeg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=119724",
+          "author": "PartnerTalks",
+          "description": "xxx\nDirections EMEA 2024 is the place to be if you're a Microsoft Partner who works with mid-market companies, says Microsoft Chief Troublemaker Dona Sarkar. Dona, who both heads Microsoft's AI […]\nThe post Microsoft superstar Dona Sarkar discusses AI and Directions EMEA 2024 appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2024/10/microsoft-superstar-dona-sarkar-discusses-ai-and-directions-emea-2024/",
+          "publishedOn": "2024-10-18T20:00:06.000Z",
+          "wordCount": 4195,
+          "title": "Microsoft superstar Dona Sarkar discusses AI and Directions EMEA 2024",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/229-Dona-Sarkar-Thumbnail.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=119710",
+          "author": "Dynamics Square AU",
+          "description": "xxx\nStaying ahead of the curve is critical in today's fast-paced business world. With technology evolving rapidly, your enterprise resource planning (ERP) system must keep up to ensure long-term success. But […]\nThe post Future-Proof Your Business: Modernize Your ERP with Dynamics 365 Business Central appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve\nStreamline warehouse processes with MetaADCS Warehouse Management System (WMS)\nFive Tips for Efficient ERP System Maintenance",
+          "link": "https://erpsoftwareblog.com/2024/10/modernize-your-erp-with-dynamics-365-business-central/",
+          "publishedOn": "2024-10-18T05:52:45.000Z",
+          "wordCount": 4813,
+          "title": "Future-Proof Your Business: Modernize Your ERP with Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=119680",
+          "author": "Dynamics Square AU",
+          "description": "xxx\nIn today’s fast-paced business world, efficiency is key. Every minute saved can lead to significant gains, whether boosting productivity, streamlining operations, or improving decision-making processes. One of the most powerful […]\nThe post Enhancing Efficiency: Leveraging Business Central and Microsoft 365 Integration for Improved Business Operations appeared first on ERP Software Blog.\nWhat is Cloud ERP and What are the Benefits?\nTop 5 ways Microsoft Dynamics 365 Business Central helps Manufacturers\nTop 5 Microsoft Dynamics 365 Business Central Features",
+          "link": "https://erpsoftwareblog.com/2024/10/enhancing-efficiency-leveraging-business-central-and-microsoft-365-integration-for-improved-business-operations/",
+          "publishedOn": "2024-10-18T03:22:46.000Z",
+          "wordCount": 7764,
+          "title": "Enhancing Efficiency: Leveraging Business Central and Microsoft 365 Integration for Improved Business Operations",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=119700",
           "author": "MetaOption LLC",
@@ -13769,6 +13789,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=55099",
+          "author": "Malone Yang",
+          "description": "How to Enable OAuth 2.0 to Replace Web Service Access Key for Dynamics 365 Business Central\nFor Dynamics 365 Business Central Online environments, the basic authentication (Web Service Access Key) has been deprecated, and users will need to use OAuth. In this blog, I will explain step-by-step how to set up OAuth for Dynamics 365 Business Central Online through two main sections of processes. The sections are: Enable and Configure OAuth...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/how-to-enable-oauth-for-dynamics-365-business-central/",
+          "publishedOn": "2024-10-18T19:05:29.000Z",
+          "wordCount": 2377,
+          "title": "How to Enable OAuth 2.0 to Replace Web Service Access Key for Dynamics 365 Business Central",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/12/D365BC-Img.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=64531",
           "author": "Erika Colson",
           "description": "Navigating Dynamics 365 CRM Applications\nIn any Dynamics 365 CRM solution, there are many different views and screens that users navigate to find the information they need to do their work. I have trained hundreds of salespeople, service workers, and others to use these applications, and I use a consistent process to explain navigation within the Dynamics 365 CRM apps...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -14745,6 +14775,66 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-specify-and-use-full-text-search-indexes-on-table-fields",
+          "author": "Ian Grieve",
+          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 13th of the new functionality in the Development section is specify and use full-text search […]",
+          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-specify-and-use-full-text-search-indexes-on-table-fields",
+          "publishedOn": "2024-10-18T12:00:19.000Z",
+          "wordCount": 1139,
+          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Specify And Use Full-Text Search Indexes On Table Fields",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/using-extended-texts-in-microsoft-dynamics-365-business-central-what-are-extended-texts",
+          "author": "Ian Grieve",
+          "description": "This article is part of the Using Extended Texts In Microsoft Dynamics 365 Business Central series, but articles within it will also be part of the larger ongoing In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I familiarise myself with Microsoft Dynamics 365 Business Central. Extended Texts can […]",
+          "link": "https://365community.online/using-extended-texts-in-microsoft-dynamics-365-business-central-what-are-extended-texts",
+          "publishedOn": "2024-10-18T10:00:10.000Z",
+          "wordCount": 1108,
+          "title": "Using Extended Texts In Microsoft Dynamics 365 Business Central: What are Extended Texts?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/elevate-copilot-interactions-with-rich-media-responses-images-and-videos-in-copilot-studio",
+          "author": "Inogic",
+          "description": "Chatting with Copilot streamlines task management for both users and owners. To make these interactions even more engaging, you can add images and videos to the “Send a message” node, enhancing the user experience with visual context. The message node in a topic flow allows Copilot to send messages that are not limited to text. […]",
+          "link": "https://365community.online/elevate-copilot-interactions-with-rich-media-responses-images-and-videos-in-copilot-studio",
+          "publishedOn": "2024-10-18T07:17:58.000Z",
+          "wordCount": 1357,
+          "title": "Elevate Copilot Interactions with Rich Media Responses, Images, and Videos in Copilot Studio",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/support-world-food-day-initiatives-with-maps-integrated-within-microsoft-dynamics-365",
+          "author": "Inogic",
+          "description": "World Food Day, celebrated annually on October 16th, brings together nations, organizations, and individuals to address global food security issues and fight hunger. As part of these initiatives, technology plays a crucial role in optimizing food distribution, enhancing agricultural processes, and improving the logistical aspects of food supply chains. Maplytics, a popular geospatial analytics solution […]",
+          "link": "https://365community.online/support-world-food-day-initiatives-with-maps-integrated-within-microsoft-dynamics-365",
+          "publishedOn": "2024-10-18T06:28:53.000Z",
+          "wordCount": 1279,
+          "title": "Support World Food Day Initiatives with maps integrated within Microsoft Dynamics 365",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/top-cybersecurity-expert-spills-the-best-sc-100-secrets-youtube",
+          "author": "shabaz darr",
+          "description": "Are you preparing for the SC-100 exam on designing secure remote access solutions? Watch this video as a top cybersecurity expert spills the best secrets to help you ace the exam! Episode Breakdown: 00:00 – Episode Intro 01:13 – Episode Breakdown 01:42 – Design a solution for Secure Remote Access 07:01 – Demo: Configure Azure […]",
+          "link": "https://365community.online/top-cybersecurity-expert-spills-the-best-sc-100-secrets-youtube",
+          "publishedOn": "2024-10-18T03:00:20.000Z",
+          "wordCount": 1026,
+          "title": "Top Cybersecurity Expert Spills the BEST SC-100 Secrets! – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/%f0%9f%9a%80-unleash-the-power-of-microsoft-copilot-agents-%f0%9f%92%bb%e2%9c%a8-youtube",
+          "author": "Victor Dantas",
+          "description": "AI is changing the game, and with Microsoft Copilot agents, you can automate tasks, boost productivity, and transform the way you work. From writing to problem-solving, these copilots are here to assist you every step of the way. Ready to see how it works? Watch the reel and explore the future of AI-powered assistance! Want […]",
+          "link": "https://365community.online/%f0%9f%9a%80-unleash-the-power-of-microsoft-copilot-agents-%f0%9f%92%bb%e2%9c%a8-youtube",
+          "publishedOn": "2024-10-17T14:31:01.000Z",
+          "wordCount": 1032,
+          "title": "🚀 Unleash the Power of Microsoft Copilot Agents! 💻✨ – YouTube",
+          "imageUrl": null
+        },
         {
           "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-remove-friction-when-working-with-external-app-dependencies",
           "author": "Ian Grieve",
@@ -36581,16 +36671,6 @@
           "wordCount": 1648,
           "title": "The power of well-designed code",
           "imageUrl": null
-        },
-        {
-          "id": "https://dev.goshoom.net/?p=9753",
-          "author": "Martin Dráb",
-          "description": "Imagine that you’re running a set of payment matching rules or you’re trying to find discounts based on various criteria. You’ll try one way to find the data, if it doesn’t bring anything, you try another one, and so on. A typical implementation looks like this: found = trySomething();   if (!found) { found = ...\nContinue reading ‘Dynamic list of methods to execute (in D365FO)’ »",
-          "link": "https://dev.goshoom.net/2022/10/dynamic-list-of-methods-to-execute-in-d365fo/",
-          "publishedOn": "2022-10-19T19:48:05.000Z",
-          "wordCount": 2214,
-          "title": "Dynamic list of methods to execute (in D365FO)",
-          "imageUrl": null
         }
       ]
     },
@@ -38373,6 +38453,16 @@
       "feedUrl": "https://paragchapre.com/feed/",
       "siteUrl": "https://paragchapre.com",
       "articles": [
+        {
+          "id": "https://paragchapre.com/?p=13283",
+          "author": "paragchapre@gmail.com",
+          "description": "The Dynamics 365 Human Resources recruiting add-on app offers an all-encompassing solution for organizations to manage their recruitment process efficiently. Powered by the Microsoft Power Platform, this app is designed to enhance the recruitment journey—from job creation to candidate assessment—streamlining the entire process for HR teams and ensuring a user-friendly experience for candidates. Key Benefits: […]\nThe post Dynamics 365 Human Resources recruiting add-on app appeared first on Parag Chapre.",
+          "link": "https://paragchapre.com/dynamics-365-human-resources-recruiting-add-on-app/",
+          "publishedOn": "2024-10-18T08:09:31.000Z",
+          "wordCount": 2027,
+          "title": "Dynamics 365 Human Resources recruiting add-on app",
+          "imageUrl": "https://paragchapre.com/wp-content/uploads/2024/10/Dynamics-365-Human-Resources-recruiting-add-on-app.png"
+        },
         {
           "id": "https://paragchapre.com/?p=13273",
           "author": "paragchapre@gmail.com",
