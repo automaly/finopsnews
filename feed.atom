@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-10-19T00:51:18.856Z</updated>
+    <updated>2024-10-20T00:56:19.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Calculate DISCOUNT Percentage in Excel? Crazy Excel Hack 🤯 #exceltips #exceltutorial #shorts – YouTube]]></title>
+        <id>https://365community.online/how-to-calculate-discount-percentage-in-excel-crazy-excel-hack-%f0%9f%a4%af-exceltips-exceltutorial-shorts-youtube</id>
+        <link href="https://365community.online/how-to-calculate-discount-percentage-in-excel-crazy-excel-hack-%f0%9f%a4%af-exceltips-exceltutorial-shorts-youtube"/>
+        <updated>2024-10-19T12:25:00.000Z</updated>
+        <summary type="html"><![CDATA[This #short tutorial video with an easy excel formula will show you how to calculate discount percentage using the DISCOUNT function in Excel. 📌 Subscribe to our channel to get video updates. Click on the link to subscribe: https://www.youtube.com/channel/UCkKemMaRnFPlNLHZ0zOYfpA MindMajix Community: https://mindmajix.com/community Instagram: https://www.instagram.com/mindmajix/. Facebook: https://www.facebook.com/MindMajixTec… LinkedIn : https://www.linkedin.com/company/mind… Twitter: https://twitter.com/mindmajix For more information, please […]]]></summary>
+        <author>
+            <name>365 Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Key Enhancements to your Favourite WhatsApp + Dynamics 365 Integration App You Can’t Miss]]></title>
+        <id>https://365community.online/key-enhancements-to-your-favourite-whatsapp-dynamics-365-integration-app-you-cant-miss</id>
+        <link href="https://365community.online/key-enhancements-to-your-favourite-whatsapp-dynamics-365-integration-app-you-cant-miss"/>
+        <updated>2024-10-19T12:05:39.000Z</updated>
+        <summary type="html"><![CDATA[A customer reaches out to your support team with a question about their recent purchase. As a dedicated agent, you receive an instant notification on your Dynamics 365 CRM through WhatsApp4Dynamics. With a quick glance, you see the details of their inquiry linked directly to their CRM record. You respond within seconds, sending a PDF […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 6 Challenges in ETO Manufacturing with Microsoft Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=119715</id>
+        <link href="https://erpsoftwareblog.com/2024/10/top-6-challenges-in-eto-manufacturing-with-business-central/"/>
+        <updated>2024-10-19T10:16:06.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Engineer-to-Order (ETO) manufacturing involves producing customized products based on specific customer requirements. While this approach offers unique advantages, it also presents distinct challenges. In this blog, we will explore the […]
+The post Top 6 Challenges in ETO Manufacturing with Microsoft Business Central appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stay Audit-Ready with Government Contract Management Software]]></title>
         <id>https://erpsoftwareblog.com/?p=119727</id>
@@ -168,6 +203,17 @@ Microsoft Dynamics 365 Business Central is now available! Business without silos
 More Than Just a Name Change: The New Microsoft Dynamics 365 Business Central]]></summary>
         <author>
             <name>360 Visibility</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Unified Pricing Management: A Revolutionary Approach to Attribute-Based Pricing]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/10/17/introducing-unified-pricing-management-a-revolutionary-approach-to-attribute-based-pricing/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/10/17/introducing-unified-pricing-management-a-revolutionary-approach-to-attribute-based-pricing/"/>
+        <updated>2024-10-17T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Combining SCM Pricing Management with Commerce and Retail Discounts In today’s competitive market, businesses need to leverage every possible advantage to stay ahead. Pricing is one of the most powerful tools at their disposal. Enter Unified Pricing Management, an innovative solution that merges attribute-based pricing with advanced Supply Chain Management (SCM) pricing management and comprehensive
+The post Introducing Unified Pricing Management: A Revolutionary Approach to Attribute-Based Pricing  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Jenny Song</name>
         </author>
     </entry>
     <entry>
@@ -352,6 +398,17 @@ Continue reading →]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Beyond open rate: Rethinking email marketing metrics]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/10/16/rethinking-email-metrics-the-evolving-landscape-of-open-rates/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/10/16/rethinking-email-metrics-the-evolving-landscape-of-open-rates/"/>
+        <updated>2024-10-16T17:09:00.000Z</updated>
+        <summary type="html"><![CDATA[In email marketing, tracking metrics has been the key to understanding and improving campaign effectiveness. For years, one of the most reliable metrics has been the open rate, but as the digital landscape evolves, so do the challenges of accurately measuring this essential statistic. In this article, we'll explore why open rates are becoming less reliable and how you can adapt.
+The post Beyond open rate: Rethinking email marketing metrics appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Miltos Vlachogiannis and Sharoon Srivastava</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[6 Reasons Why States Choose Sylogist Over Appriss for Victim Notification]]></title>
         <id>https://365community.online/6-reasons-why-states-choose-sylogist-over-appriss-for-victim-notification</id>
         <link href="https://365community.online/6-reasons-why-states-choose-sylogist-over-appriss-for-victim-notification"/>
@@ -359,6 +416,17 @@ Continue reading →]]></summary>
         <summary type="html"><![CDATA[6 Reasons Why States Choose Sylogist Over Appriss for Victim Notification In the world of victim notification systems, states are increasingly turning to SylogistGov Victim Services Suite (VSS) as their preferred choice over Appriss’ VINE system. Victim services are a top priority for state governments, and the decision to switch vendors is never taken lightly. In […]]]></summary>
         <author>
             <name>Jim Townsend</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explore what’s new for Copilot and Dynamics 365 at the Business Applications Launch Event]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/10/16/explore-whats-new-for-copilot-and-dynamics-365-at-the-business-applications-launch-event/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/10/16/explore-whats-new-for-copilot-and-dynamics-365-at-the-business-applications-launch-event/"/>
+        <updated>2024-10-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Register today for this virtual event on Tuesday, October 29, 2024, where we will showcase highlights from release wave 2.
+The post Explore what’s new for Copilot and Dynamics 365 at the Business Applications Launch Event appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Keith Barnett</name>
         </author>
     </entry>
     <entry>
@@ -50458,17 +50526,6 @@ Continue reading ‘Method as a parameter (in D365FO)’ »]]></summary>
         <summary type="html"><![CDATA[Here is the latest collection of data entities for 10.0.30 in both en-GB and en-US languages. I have added some new columns: Is multi-threading enabled – if this is set to “Yes”, then the data entity can be added to the “configure entity execution parameters” which is accessed from the “Entity settings” tab of the […]]]></summary>
         <author>
             <name>Joe Brewer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The power of well-designed code]]></title>
-        <id>https://dev.goshoom.net/?p=9762</id>
-        <link href="https://dev.goshoom.net/2022/10/the-power-of-well-designed-code/"/>
-        <updated>2022-10-21T12:09:28.000Z</updated>
-        <summary type="html"><![CDATA[My previous blog post reminded me a refactoring that I did on one of my previous projects (in AX 2012). I needed to adjust a piece of logic and found that it’s implemented as a method with more than two thousand lines. Of course, nobody could understand what’s going on there. Such code in unmaintainable. ...
-Continue reading ‘The power of well-designed code’ »]]></summary>
-        <author>
-            <name>Martin Dráb</name>
         </author>
     </entry>
 </feed>

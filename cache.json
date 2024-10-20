@@ -1522,6 +1522,16 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=119715",
+          "author": "Dynamics Square UK",
+          "description": "xxx\nEngineer-to-Order (ETO) manufacturing involves producing customized products based on specific customer requirements. While this approach offers unique advantages, it also presents distinct challenges. In this blog, we will explore the […]\nThe post Top 6 Challenges in ETO Manufacturing with Microsoft Business Central appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2024/10/top-6-challenges-in-eto-manufacturing-with-business-central/",
+          "publishedOn": "2024-10-19T10:16:06.000Z",
+          "wordCount": 4489,
+          "title": "Top 6 Challenges in ETO Manufacturing with Microsoft Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Manufacturingerp.jpeg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=119727",
           "author": "MetaOption LLC",
           "description": "xxx\nManaging government contracts can feel overwhelming with all the rules and regulations. The process can quickly become stressful. As a business owner or someone responsible for contracts, you're not just […]\nThe post Stay Audit-Ready with Government Contract Management Software appeared first on ERP Software Blog.\nBaker’s Dozen of WMS (Warehouse Management System) Acronyms Defined\nTop 3 reasons WithoutWire™ (WoW) is Not Your Daddy’s Warehouse Management System (WMS)\nGain Efficiency in Microsoft Dynamics GP Lot Tracking with WithoutWire™ WMS – demo",
@@ -14775,6 +14785,26 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/how-to-calculate-discount-percentage-in-excel-crazy-excel-hack-%f0%9f%a4%af-exceltips-exceltutorial-shorts-youtube",
+          "author": null,
+          "description": "This #short tutorial video with an easy excel formula will show you how to calculate discount percentage using the DISCOUNT function in Excel. 📌 Subscribe to our channel to get video updates. Click on the link to subscribe: https://www.youtube.com/channel/UCkKemMaRnFPlNLHZ0zOYfpA MindMajix Community: https://mindmajix.com/community Instagram: https://www.instagram.com/mindmajix/. Facebook: https://www.facebook.com/MindMajixTec… LinkedIn : https://www.linkedin.com/company/mind… Twitter: https://twitter.com/mindmajix For more information, please […]",
+          "link": "https://365community.online/how-to-calculate-discount-percentage-in-excel-crazy-excel-hack-%f0%9f%a4%af-exceltips-exceltutorial-shorts-youtube",
+          "publishedOn": "2024-10-19T12:25:00.000Z",
+          "wordCount": 1065,
+          "title": "How to Calculate DISCOUNT Percentage in Excel? Crazy Excel Hack 🤯 #exceltips #exceltutorial #shorts – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/key-enhancements-to-your-favourite-whatsapp-dynamics-365-integration-app-you-cant-miss",
+          "author": "Inogic",
+          "description": "A customer reaches out to your support team with a question about their recent purchase. As a dedicated agent, you receive an instant notification on your Dynamics 365 CRM through WhatsApp4Dynamics. With a quick glance, you see the details of their inquiry linked directly to their CRM record. You respond within seconds, sending a PDF […]",
+          "link": "https://365community.online/key-enhancements-to-your-favourite-whatsapp-dynamics-365-integration-app-you-cant-miss",
+          "publishedOn": "2024-10-19T12:05:39.000Z",
+          "wordCount": 1360,
+          "title": "Key Enhancements to your Favourite WhatsApp + Dynamics 365 Integration App You Can’t Miss",
+          "imageUrl": null
+        },
         {
           "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-specify-and-use-full-text-search-indexes-on-table-fields",
           "author": "Ian Grieve",
@@ -35056,6 +35086,36 @@
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
         {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/10/17/introducing-unified-pricing-management-a-revolutionary-approach-to-attribute-based-pricing/",
+          "author": "Jenny Song",
+          "description": "Combining SCM Pricing Management with Commerce and Retail Discounts In today’s competitive market, businesses need to leverage every possible advantage to stay ahead. Pricing is one of the most powerful tools at their disposal. Enter Unified Pricing Management, an innovative solution that merges attribute-based pricing with advanced Supply Chain Management (SCM) pricing management and comprehensive\nThe post Introducing Unified Pricing Management: A Revolutionary Approach to Attribute-Based Pricing  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/10/17/introducing-unified-pricing-management-a-revolutionary-approach-to-attribute-based-pricing/",
+          "publishedOn": "2024-10-17T16:00:00.000Z",
+          "wordCount": 3232,
+          "title": "Introducing Unified Pricing Management: A Revolutionary Approach to Attribute-Based Pricing",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/08/1.16-CTA-Correct.jpg"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/10/16/rethinking-email-metrics-the-evolving-landscape-of-open-rates/",
+          "author": "Miltos Vlachogiannis and Sharoon Srivastava",
+          "description": "In email marketing, tracking metrics has been the key to understanding and improving campaign effectiveness. For years, one of the most reliable metrics has been the open rate, but as the digital landscape evolves, so do the challenges of accurately measuring this essential statistic. In this article, we'll explore why open rates are becoming less reliable and how you can adapt.\nThe post Beyond open rate: Rethinking email marketing metrics appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/10/16/rethinking-email-metrics-the-evolving-landscape-of-open-rates/",
+          "publishedOn": "2024-10-16T17:09:00.000Z",
+          "wordCount": 3267,
+          "title": "Beyond open rate: Rethinking email marketing metrics",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/04/MSC24-Canada-SMB-Getty-1356070782-rgb_600-1.jpg"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/10/16/explore-whats-new-for-copilot-and-dynamics-365-at-the-business-applications-launch-event/",
+          "author": "Keith Barnett",
+          "description": "Register today for this virtual event on Tuesday, October 29, 2024, where we will showcase highlights from release wave 2.\nThe post Explore what’s new for Copilot and Dynamics 365 at the Business Applications Launch Event appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/10/16/explore-whats-new-for-copilot-and-dynamics-365-at-the-business-applications-launch-event/",
+          "publishedOn": "2024-10-16T15:00:00.000Z",
+          "wordCount": 3097,
+          "title": "Explore what’s new for Copilot and Dynamics 365 at the Business Applications Launch Event",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/10/social-10.15.png"
+        },
+        {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/09/27/enhance-erp-security-role-management-compliance-dynamics-365/",
           "author": "April Olson",
           "description": "As organizations scale, the need for robust governance, efficient user management, and cost-effective licensing strategies becomes paramount. To address these challenges, Microsoft Dynamics 365 is introducing a set of new capabilities in our ERP portfolio. These new capabilities enhance security and governance, offering significant benefits to IT professionals and business leaders alike. \nThe post Optimizing ERP Security Configuration and Licensing within Microsoft Dynamics 365 appeared first on Microsoft Dynamics 365 Blog.",
@@ -36660,16 +36720,6 @@
           "publishedOn": "2022-10-25T04:48:09.000Z",
           "wordCount": 1986,
           "title": "Method as a parameter (in D365FO)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dev.goshoom.net/?p=9762",
-          "author": "Martin Dráb",
-          "description": "My previous blog post reminded me a refactoring that I did on one of my previous projects (in AX 2012). I needed to adjust a piece of logic and found that it’s implemented as a method with more than two thousand lines. Of course, nobody could understand what’s going on there. Such code in unmaintainable. ...\nContinue reading ‘The power of well-designed code’ »",
-          "link": "https://dev.goshoom.net/2022/10/the-power-of-well-designed-code/",
-          "publishedOn": "2022-10-21T12:09:28.000Z",
-          "wordCount": 1648,
-          "title": "The power of well-designed code",
           "imageUrl": null
         }
       ]
