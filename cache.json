@@ -1522,6 +1522,16 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=119718",
+          "author": "Dynamics Square UK",
+          "description": "xxx\nBank account reconciliation is a time-consuming and error-prone procedure for many businesses. However, with the recent integration of Copilot with Dynamics 365 Business Central, this process might be substantially streamlined […]\nThe post Reconciling Bank Accounts with Copilot in Business Central: A Streamlined Approach appeared first on ERP Software Blog.\nCopilot and Dynamics 365 ERP: A Match Made for Efficiency\nDynamics Copilot: How Six AI Experts Save Hours Every Day\nWebSan Solutions Inc. Invites You to Our Third Annual Interactive Virtual Half-Day Conference: Dynamics Virtual Launchpad!",
+          "link": "https://erpsoftwareblog.com/2024/10/reconciling-bank-accounts-with-copilot-in-business-central/",
+          "publishedOn": "2024-10-20T10:46:24.000Z",
+          "wordCount": 4383,
+          "title": "Reconciling Bank Accounts with Copilot in Business Central: A Streamlined Approach",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/bank-reconciliation-gl-transfer-proposed-matches.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=119715",
           "author": "Dynamics Square UK",
           "description": "xxx\nEngineer-to-Order (ETO) manufacturing involves producing customized products based on specific customer requirements. While this approach offers unique advantages, it also presents distinct challenges. In this blog, we will explore the […]\nThe post Top 6 Challenges in ETO Manufacturing with Microsoft Business Central appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
@@ -14806,6 +14816,36 @@
           "imageUrl": null
         },
         {
+          "id": "https://365community.online/will-ai-take-over-software-development-jobs-youtube",
+          "author": "Sourav Raj",
+          "description": "Will AI take over software development jobs? Is AI going to take over software development jobs? 🤔 In this video, we dive into the growing role of Artificial Intelligence in the software industry. From automating code to enhancing productivity, AI is changing the way developers work—but does that mean it’s coming for their jobs? ✨Watch […]",
+          "link": "https://365community.online/will-ai-take-over-software-development-jobs-youtube",
+          "publishedOn": "2024-10-19T11:30:35.000Z",
+          "wordCount": 1303,
+          "title": "Will AI take over software development jobs? – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/why-your-perfect-algorithm-might-fail-in-reality-and-how-to-fix-it-fast-youtube",
+          "author": "Sourav Raj",
+          "description": "Why Your Perfect Algorithm Might Fail in Reality—And How to Fix It Fast! You’ve spent hours perfecting your algorithm, but when it goes live, everything crashes! 😱 Don’t worry, you’re not alone. In this video, we break down why even the most flawless code can fail in real-world scenarios and how you can troubleshoot it […]",
+          "link": "https://365community.online/why-your-perfect-algorithm-might-fail-in-reality-and-how-to-fix-it-fast-youtube",
+          "publishedOn": "2024-10-19T06:30:06.000Z",
+          "wordCount": 1321,
+          "title": "Why Your Perfect Algorithm Might Fail in Reality—And How to Fix It Fast! – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/how-to-create-barcode-in-excel-crazy-excel-trick-%f0%9f%a4%af-exceltips-exceltutorial-shorts-mindmajix-youtube",
+          "author": null,
+          "description": "This #short tutorial video with an easy excel trick will show you how to create scannable barcode in Excel. This could be the best feature in spreadsheets that are related to inventory tracking or management. https://www.barcodesinc.com/wp_new/wp-content/uploads/2022/05/free3of9.zip 📌 Subscribe to our channel to get video updates. Click on the link to subscribe: https://www.youtube.com/channel/UCkKemMaRnFPlNLHZ0zOYfpA MindMajix Community: https://mindmajix.com/community […]",
+          "link": "https://365community.online/how-to-create-barcode-in-excel-crazy-excel-trick-%f0%9f%a4%af-exceltips-exceltutorial-shorts-mindmajix-youtube",
+          "publishedOn": "2024-10-18T13:25:00.000Z",
+          "wordCount": 1083,
+          "title": "How to Create BARCODE in Excel? Crazy Excel Trick 🤯 #exceltips #exceltutorial #shorts | MindMajix – YouTube",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-specify-and-use-full-text-search-indexes-on-table-fields",
           "author": "Ian Grieve",
           "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 13th of the new functionality in the Development section is specify and use full-text search […]",
@@ -14833,6 +14873,16 @@
           "publishedOn": "2024-10-18T07:17:58.000Z",
           "wordCount": 1357,
           "title": "Elevate Copilot Interactions with Rich Media Responses, Images, and Videos in Copilot Studio",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/when-you-realise-your-code-is-in-an-infinite-loop-%f0%9f%98%82%f0%9f%a5%b2-youtube",
+          "author": "Sourav Raj",
+          "description": "When You realise your code is in an infinite loop 😂🥲 source",
+          "link": "https://365community.online/when-you-realise-your-code-is-in-an-infinite-loop-%f0%9f%98%82%f0%9f%a5%b2-youtube",
+          "publishedOn": "2024-10-18T06:30:09.000Z",
+          "wordCount": 979,
+          "title": "When You realise your code is in an  infinite loop 😂🥲 – YouTube",
           "imageUrl": null
         },
         {
@@ -37821,16 +37871,6 @@
           "publishedOn": "2023-01-08T22:12:17.000Z",
           "wordCount": 794,
           "title": "10.0.31 Data Entities for Finance and Operations",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.brewsterware.com/?p=566",
-          "author": "Joe Brewer",
-          "description": "Here is the latest collection of data entities for 10.0.30 in both en-GB and en-US languages. I have added some new columns: Is multi-threading enabled – if this is set to “Yes”, then the data entity can be added to the “configure entity execution parameters” which is accessed from the “Entity settings” tab of the […]",
-          "link": "https://www.brewsterware.com/10-0-30-data-entities-for-finance-operations.html",
-          "publishedOn": "2022-10-21T20:09:37.000Z",
-          "wordCount": 902,
-          "title": "10.0.30 Data Entities for Finance & Operations",
           "imageUrl": null
         }
       ]

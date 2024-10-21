@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-10-20T00:56:19.623Z</updated>
+    <updated>2024-10-21T00:53:39.544Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Reconciling Bank Accounts with Copilot in Business Central: A Streamlined Approach]]></title>
+        <id>https://erpsoftwareblog.com/?p=119718</id>
+        <link href="https://erpsoftwareblog.com/2024/10/reconciling-bank-accounts-with-copilot-in-business-central/"/>
+        <updated>2024-10-20T10:46:24.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Bank account reconciliation is a time-consuming and error-prone procedure for many businesses. However, with the recent integration of Copilot with Dynamics 365 Business Central, this process might be substantially streamlined […]
+The post Reconciling Bank Accounts with Copilot in Business Central: A Streamlined Approach appeared first on ERP Software Blog.
+Copilot and Dynamics 365 ERP: A Match Made for Efficiency
+Dynamics Copilot: How Six AI Experts Save Hours Every Day
+WebSan Solutions Inc. Invites You to Our Third Annual Interactive Virtual Half-Day Conference: Dynamics Virtual Launchpad!]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Calculate DISCOUNT Percentage in Excel? Crazy Excel Hack 🤯 #exceltips #exceltutorial #shorts – YouTube]]></title>
         <id>https://365community.online/how-to-calculate-discount-percentage-in-excel-crazy-excel-hack-%f0%9f%a4%af-exceltips-exceltutorial-shorts-youtube</id>
@@ -27,6 +42,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Will AI take over software development jobs? – YouTube]]></title>
+        <id>https://365community.online/will-ai-take-over-software-development-jobs-youtube</id>
+        <link href="https://365community.online/will-ai-take-over-software-development-jobs-youtube"/>
+        <updated>2024-10-19T11:30:35.000Z</updated>
+        <summary type="html"><![CDATA[Will AI take over software development jobs? Is AI going to take over software development jobs? 🤔 In this video, we dive into the growing role of Artificial Intelligence in the software industry. From automating code to enhancing productivity, AI is changing the way developers work—but does that mean it’s coming for their jobs? ✨Watch […]]]></summary>
+        <author>
+            <name>Sourav Raj</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Top 6 Challenges in ETO Manufacturing with Microsoft Business Central]]></title>
         <id>https://erpsoftwareblog.com/?p=119715</id>
         <link href="https://erpsoftwareblog.com/2024/10/top-6-challenges-in-eto-manufacturing-with-business-central/"/>
@@ -39,6 +64,16 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>Dynamics Square UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your Perfect Algorithm Might Fail in Reality—And How to Fix It Fast! – YouTube]]></title>
+        <id>https://365community.online/why-your-perfect-algorithm-might-fail-in-reality-and-how-to-fix-it-fast-youtube</id>
+        <link href="https://365community.online/why-your-perfect-algorithm-might-fail-in-reality-and-how-to-fix-it-fast-youtube"/>
+        <updated>2024-10-19T06:30:06.000Z</updated>
+        <summary type="html"><![CDATA[Why Your Perfect Algorithm Might Fail in Reality—And How to Fix It Fast! You’ve spent hours perfecting your algorithm, but when it goes live, everything crashes! 😱 Don’t worry, you’re not alone. In this video, we break down why even the most flawless code can fail in real-world scenarios and how you can troubleshoot it […]]]></summary>
+        <author>
+            <name>Sourav Raj</name>
         </author>
     </entry>
     <entry>
@@ -85,6 +120,16 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Create BARCODE in Excel? Crazy Excel Trick 🤯 #exceltips #exceltutorial #shorts | MindMajix – YouTube]]></title>
+        <id>https://365community.online/how-to-create-barcode-in-excel-crazy-excel-trick-%f0%9f%a4%af-exceltips-exceltutorial-shorts-mindmajix-youtube</id>
+        <link href="https://365community.online/how-to-create-barcode-in-excel-crazy-excel-trick-%f0%9f%a4%af-exceltips-exceltutorial-shorts-mindmajix-youtube"/>
+        <updated>2024-10-18T13:25:00.000Z</updated>
+        <summary type="html"><![CDATA[This #short tutorial video with an easy excel trick will show you how to create scannable barcode in Excel. This could be the best feature in spreadsheets that are related to inventory tracking or management. https://www.barcodesinc.com/wp_new/wp-content/uploads/2022/05/free3of9.zip 📌 Subscribe to our channel to get video updates. Click on the link to subscribe: https://www.youtube.com/channel/UCkKemMaRnFPlNLHZ0zOYfpA MindMajix Community: https://mindmajix.com/community […]]]></summary>
+        <author>
+            <name>365 Community</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Specify And Use Full-Text Search Indexes On Table Fields]]></title>
         <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-specify-and-use-full-text-search-indexes-on-table-fields</id>
         <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-specify-and-use-full-text-search-indexes-on-table-fields"/>
@@ -123,6 +168,16 @@ The post Dynamics 365 Human Resources recruiting add-on app appeared first on Pa
         <summary type="html"><![CDATA[Chatting with Copilot streamlines task management for both users and owners. To make these interactions even more engaging, you can add images and videos to the “Send a message” node, enhancing the user experience with visual context. The message node in a topic flow allows Copilot to send messages that are not limited to text. […]]]></summary>
         <author>
             <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When You realise your code is in an  infinite loop 😂🥲 – YouTube]]></title>
+        <id>https://365community.online/when-you-realise-your-code-is-in-an-infinite-loop-%f0%9f%98%82%f0%9f%a5%b2-youtube</id>
+        <link href="https://365community.online/when-you-realise-your-code-is-in-an-infinite-loop-%f0%9f%98%82%f0%9f%a5%b2-youtube"/>
+        <updated>2024-10-18T06:30:09.000Z</updated>
+        <summary type="html"><![CDATA[When You realise your code is in an infinite loop 😂🥲 source]]></summary>
+        <author>
+            <name>Sourav Raj</name>
         </author>
     </entry>
     <entry>
@@ -50516,16 +50571,6 @@ Once you have the connection string, you can connect it to MS Azure Storage Expl
 Continue reading ‘Method as a parameter (in D365FO)’ »]]></summary>
         <author>
             <name>Martin Dráb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10.0.30 Data Entities for Finance & Operations]]></title>
-        <id>http://www.brewsterware.com/?p=566</id>
-        <link href="https://www.brewsterware.com/10-0-30-data-entities-for-finance-operations.html"/>
-        <updated>2022-10-21T20:09:37.000Z</updated>
-        <summary type="html"><![CDATA[Here is the latest collection of data entities for 10.0.30 in both en-GB and en-US languages. I have added some new columns: Is multi-threading enabled – if this is set to “Yes”, then the data entity can be added to the “configure entity execution parameters” which is accessed from the “Entity settings” tab of the […]]]></summary>
-        <author>
-            <name>Joe Brewer</name>
         </author>
     </entry>
 </feed>
