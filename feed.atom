@@ -2,10 +2,171 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-10-21T00:53:39.544Z</updated>
+    <updated>2024-10-22T00:52:49.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamics GP Support Ends: What It Mean for Finance Teams]]></title>
+        <id>https://erpsoftwareblog.com/?p=119328</id>
+        <link href="https://erpsoftwareblog.com/2024/10/dynamics-gp-support-ends-what-it-mean-for-finance-teams/"/>
+        <updated>2024-10-21T20:48:38.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The long-anticipated end of Dynamics GP support is now officially confirmed. On September 25, 2024, Microsoft announced that it will stop supporting and updating Dynamics GP by September 30, 2029. […]
+The post Dynamics GP Support Ends: What It Mean for Finance Teams appeared first on ERP Software Blog.
+Dynamics GP Support Inquiries or Horror Stories?
+Super Swift Support for Microsoft Dynamics GP
+How to Leverage the Growing Number of Online Resources for Microsoft Dynamics GP]]></summary>
+        <author>
+            <name>FYIsoft, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixed – EntityState must be set to null, Created (for Create message) or Changed (for Update message) exception in Dataverse / Dynamics 365]]></title>
+        <id>https://365community.online/fixed-entitystate-must-be-set-to-null-created-for-create-message-or-changed-for-update-message-exception-in-dataverse-dynamics-365</id>
+        <link href="https://365community.online/fixed-entitystate-must-be-set-to-null-created-for-create-message-or-changed-for-update-message-exception-in-dataverse-dynamics-365"/>
+        <updated>2024-10-21T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[We might get this error while trying to update one of the records. Exception Message: EntityState must be set to null, Created (for Create message) or Changed (for Update message). EntityState of primaryEntity: Unchanged, RequestName: Update ErrorCode: -2147220989 The error occurs when OrganizationServiceContext tries to update an entity that has not been marked as modified. […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #39]]></title>
+        <id>http://dynamicsax-fico.com/?p=6592</id>
+        <link href="https://dynamicsax-fico.com/2024/10/21/microsoft-bizapps-deutschland-podcast-39/"/>
+        <updated>2024-10-21T17:54:38.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ERP Trends for eCommerce Businesses 2025]]></title>
+        <id>https://erpsoftwareblog.com/?p=119738</id>
+        <link href="https://erpsoftwareblog.com/2024/10/erp-trends-for-ecommerce-businesses-2025/"/>
+        <updated>2024-10-21T15:20:30.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+As the eCommerce landscape continues to evolve at a rapid pace, businesses must stay ahead of emerging technologies and trends to remain competitive. Enterprise Resource Planning (ERP) systems are at […]
+The post ERP Trends for eCommerce Businesses 2025 appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dynamics eShop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlock the Future of intelligent ERP training with ClickLearn’s MasterClass 2024]]></title>
+        <id>https://erpsoftwareblog.com/?p=119751</id>
+        <link href="https://erpsoftwareblog.com/2024/10/unlock-the-future-of-intelligent-erp-training-with-clicklearns-masterclass-2024/"/>
+        <updated>2024-10-21T14:53:40.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Are you ready to transform your ERP training and accelerate your user adoption? ClickLearn’s MasterClass 2024 is the premier event designed to equip you with the latest AI-driven solutions for […]
+The post Unlock the Future of intelligent ERP training with ClickLearn’s MasterClass 2024 appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>ClickLearn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Budget Planning for the Fiscal Year: When, Why, and How]]></title>
+        <id>https://erpsoftwareblog.com/?p=119580</id>
+        <link href="https://erpsoftwareblog.com/2024/10/budget-planning/"/>
+        <updated>2024-10-21T14:53:31.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Is your organization gearing up for a new fiscal year? Now is the time to dive into budget planning to ensure you're well-prepared for the year ahead. Whether you're a […]
+The post Budget Planning for the Fiscal Year: When, Why, and How  appeared first on ERP Software Blog.
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Self-Service Analytics: Exploring Your ERP Data for Maximum Insights
+Insight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Business Central at BCUG/NAVUG Summit in Phoenix]]></summary>
+        <author>
+            <name>Martus Solutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 New Features - New October 2024 Release of Dynamics GP 18.7 (aka GP 2025)]]></title>
+        <id>https://erpsoftwareblog.com/?p=119745</id>
+        <link href="https://erpsoftwareblog.com/2024/10/dynamics-gp-18-7-gp-2025/"/>
+        <updated>2024-10-21T14:37:52.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Our GP Support North team has done their review and has shared their Top 5 2025 NEW GP features:  Great Plains / Dynamics GP 18.7 is Microsoft's continued confirmation of the strength in the GP community for more on Dynamics GP 18.7 (2025) and the new features guide (PDF)
+The post Top 5 New Features - New October 2024 Release of Dynamics GP 18.7 (aka GP 2025) appeared first on ERP Software Blog.
+The Role Change Management Plays within Your Dynamics GP Project
+Using Microsoft AI with Dynamics GP (Great Plains) Data
+October 1, 2021 is the NEW release of Dynamics GP 18.4 - Woo Hoo!]]></summary>
+        <author>
+            <name>GP Support North</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Use Multiple Subcategories For One Sustainability Account]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-use-multiple-subcategories-for-one-sustainability-account</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-use-multiple-subcategories-for-one-sustainability-account"/>
+        <updated>2024-10-21T12:00:03.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 12th of the new functionality in the Legislation section is use multiple subcategories for one […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What type of Business central license is right for you?]]></title>
+        <id>https://www.erpsoftwareblog.com/?p=96754</id>
+        <link href="https://erpsoftwareblog.com/2024/10/what-type-of-business-central-license-is-right-for-you/"/>
+        <updated>2024-10-21T10:45:39.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Dynamics 365 Business Central is a versatile business management solution designed for growth-oriented organizations, offering agility to help them achieve their goals. As the future of Microsoft’s cloud ERP development, […]
+The post What type of Business central license is right for you? appeared first on ERP Software Blog.
+Streamline Your Make to Order Supply Chain Automation in Dynamics 365
+Microsoft Dynamics 365 Business Central vs QuickBooks
+Telltale Signs You’ve Outgrown QuickBooks: Part 4]]></summary>
+        <author>
+            <name>Intelegain Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Get External Notifications When Job Queue Entries Fail]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-get-external-notifications-when-job-queue-entries-fail</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-get-external-notifications-when-job-queue-entries-fail"/>
+        <updated>2024-10-21T10:00:21.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 9th of the new functionality in the Governance and administration section is get external notifications […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transform work with autonomous agents across your business processes]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/10/21/transform-work-with-autonomous-agents-across-your-business-processes/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/10/21/transform-work-with-autonomous-agents-across-your-business-processes/"/>
+        <updated>2024-10-21T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Introducing 10 new autonomous agents in Microsoft Dynamics 365 to build capacity for every sales, service, finance, and supply chain team. 
+The post Transform work with autonomous agents across your business processes appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Bryan Goode</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolutionize Your Business with Cloud VDI in 2024 – YouTube]]></title>
+        <id>https://365community.online/revolutionize-your-business-with-cloud-vdi-in-2024-youtube</id>
+        <link href="https://365community.online/revolutionize-your-business-with-cloud-vdi-in-2024-youtube"/>
+        <updated>2024-10-21T03:00:53.000Z</updated>
+        <summary type="html"><![CDATA[Learn how Cloud VDI can revolutionize your business in 2024 with this Microsoft Cloud VDI Series intro featuring a Windows App Demo. Watch now! Episode Breakdown: 00:00 – Episode Intro 01:30 – Episode Breakdown 01:57 – Series Breakdown 02:56 – Windows App 05:27 – Windows App Demo Shabaz LinkedIn – https://www.linkedin.com/in/shabaz-darr-900b8361/ Shabaz X – https://x.com/ShabazDarr […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Episode 113: A Texas-size pitcher of Copilot kool-aid]]></title>
+        <id>https://365community.online/episode-113-a-texas-size-pitcher-of-copilot-kool-aid</id>
+        <link href="https://365community.online/episode-113-a-texas-size-pitcher-of-copilot-kool-aid"/>
+        <updated>2024-10-21T02:57:00.000Z</updated>
+        <summary type="html"><![CDATA[I just got back from the 2024 Community Summit in San Antonio, TX and I wanted to share my thoughts on my experience attending the event this year. I discuss what I liked, what I didn’t like, and what I think would make the event much better next year and going forward. Topics discussed: The […]]]></summary>
+        <author>
+            <name>Gus Gonzalez</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reconciling Bank Accounts with Copilot in Business Central: A Streamlined Approach]]></title>
         <id>https://erpsoftwareblog.com/?p=119718</id>
