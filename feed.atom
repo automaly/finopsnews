@@ -2,10 +2,303 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-10-22T00:52:49.324Z</updated>
+    <updated>2024-10-23T00:51:44.175Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript for fields in Business Process Flow (few key points)– Dataverse / Dynamics 365]]></title>
+        <id>https://365community.online/javascript-for-fields-in-business-process-flow-few-key-points-dataverse-dynamics-365</id>
+        <link href="https://365community.online/javascript-for-fields-in-business-process-flow-few-key-points-dataverse-dynamics-365"/>
+        <updated>2024-10-22T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Suppose we have the following fields in the form as well as in the business process flow stage for the lead. And let us apply the below JavaScript on the form load. On opening the lead form below is the result we get. formContext. getControl(“leadqualitycode”).setVisible(true); Sets the Rating field visible on the form. formContext…. Continue […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How can Azure Cloud and Business Central Help Benefit Your Organization?]]></title>
+        <id>https://erpsoftwareblog.com/?p=119822</id>
+        <link href="https://erpsoftwareblog.com/2024/10/how-can-azure-cloud-and-business-central-help-benefit-your-organization/"/>
+        <updated>2024-10-22T19:49:10.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+As technology continues to evolve, businesses must stay ahead by transitioning from traditional client-server setups to modern cloud solutions. Microsoft’s Business Central running on Azure Cloud offers significant advantages over […]
+The post How can Azure Cloud and Business Central Help Benefit Your Organization? appeared first on ERP Software Blog.
+With Dynamics GP's lifecycle extended to 2028, should we make plans to stay or switch to Business Central?
+All you need to know about Microsoft’s Bridge to the Cloud Promotion
+Three ways food manufacturers can increase profits today]]></summary>
+        <author>
+            <name>Accountnet, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Announces End of Support for Microsoft Dynamics GP: What’s Next?]]></title>
+        <id>https://erpsoftwareblog.com/?p=119763</id>
+        <link href="https://erpsoftwareblog.com/2024/10/microsoft-announces-end-of-support-for-microsoft-dynamics-gp-whats-next/"/>
+        <updated>2024-10-22T19:16:27.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+We’ve known since around 2015 that Microsoft would eventually end support for Microsoft Dynamics GP.  They hinted at this and sometimes said it when Microsoft Dynamics 365 Business Central was […]
+The post Microsoft Announces End of Support for Microsoft Dynamics GP: What’s Next? appeared first on ERP Software Blog.
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve]]></summary>
+        <author>
+            <name>DLD Business Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 Benefits of Workflow Automation in Document Management]]></title>
+        <id>https://erpsoftwareblog.com/?p=119814</id>
+        <link href="https://erpsoftwareblog.com/2024/10/top-5-benefits-of-workflow-automation-in-document-management/"/>
+        <updated>2024-10-22T18:02:52.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In the ever-evolving economic and market conditions, profitable companies are focusing internally on cutting expenses and enhancing the effectiveness of their operational procedures. Implementing workflow automation in daily operations can […]
+The post Top 5 Benefits of Workflow Automation in Document Management appeared first on ERP Software Blog.
+How MetaDocs Can Help You Streamline Document Management in Business Central
+Unlocking the Power of Workflow Automation in Document Management
+How to Implement Workflow Automation in Document Management]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[22 de outubro de 2024 – YouTube]]></title>
+        <id>https://365community.online/22-de-outubro-de-2024-youtube</id>
+        <link href="https://365community.online/22-de-outubro-de-2024-youtube"/>
+        <updated>2024-10-22T16:57:08.000Z</updated>
+        <summary type="html"><![CDATA[source]]></summary>
+        <author>
+            <name>Victor Dantas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics GP End-of-Life Announced - Where to Go from Here]]></title>
+        <id>https://erpsoftwareblog.com/?p=119575</id>
+        <link href="https://erpsoftwareblog.com/2024/10/microsoft-dynamics-gp-end-of-life-announced-where-to-go-from-here/"/>
+        <updated>2024-10-22T16:16:30.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+For decades, many businesses have relied on Microsoft Dynamics GP, formerly known as Great Plains, as their trusted ERP solution. Dynamics GP has built a strong reputation as a robust […]
+The post Microsoft Dynamics GP End-of-Life Announced - Where to Go from Here appeared first on ERP Software Blog.
+Business intelligence - its contagious!
+Four Ways to Cut Costs by Automating Your Purchasing Process with Microsoft Dynamics GP -- #1
+Better Information = Stronger Company in Tough Economy]]></summary>
+        <author>
+            <name>Western Computer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Introduces Business Central Sales Order Copilot Agent]]></title>
+        <id>https://erpsoftwareblog.com/?p=119807</id>
+        <link href="https://erpsoftwareblog.com/2024/10/microsoft-introduces-business-central-sales-order-copilot-agent/"/>
+        <updated>2024-10-22T16:03:05.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In today’s fast-paced business environment, leveraging AI to streamline operations is no longer a luxury—it’s a necessity. Microsoft Dynamics 365 is at the forefront of this transformation with its new […]
+The post Microsoft Introduces Business Central Sales Order Copilot Agent appeared first on ERP Software Blog.
+Ep 65 | Copilot in Business Central | A Shot of Business Central and A Beer
+Business Central Copilot | The Definitive Guide
+Streamline Your Make to Order Supply Chain Automation in Dynamics 365]]></summary>
+        <author>
+            <name>Michael Intravartolo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Financial Reports in Dynamics 365 Business Central]]></title>
+        <id>https://www.encorebusiness.com/?p=65323</id>
+        <link href="https://www.encorebusiness.com/blog/creating-financial-reports-in-d365-business-central/"/>
+        <updated>2024-10-22T15:06:49.000Z</updated>
+        <summary type="html"><![CDATA[Creating Financial Reports in Dynamics 365 Business Central
+In Dynamics 365 Business Central, we have the ability to make our own financial statements using the “Financial Reports” feature. This flexible reporting tool helps users, such as financial analysts and accountants, analyze financial data effectively, providing the insights needed to make informed decisions. Financial Reports are typically used for: Income Statements Cash Flows Balance...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Abhishek Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Boost Employee Motivation Through Your Commission Structure]]></title>
+        <id>https://erpsoftwareblog.com/?p=119067</id>
+        <link href="https://erpsoftwareblog.com/2024/10/how-to-boost-employee-motivation-through-your-commission-structure/"/>
+        <updated>2024-10-22T14:42:22.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Science-Backed Tips Help You Set Up a Commission Structure to Maximize Your Business Gains Variable pay can provide the middle ground between higher pay expectations and company performance expectations. That […]
+The post How to Boost Employee Motivation Through Your Commission Structure appeared first on ERP Software Blog.
+How One Company Future-Proofed Their Commission Processes
+How to Automate Your Commissions Processing and Order Management in 2024
+Better Information = Stronger Company in Tough Economy]]></summary>
+        <author>
+            <name>EthoTech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Five Benefits of Integrating Your ERP with an eCommerce Tool]]></title>
+        <id>https://erpsoftwareblog.com/?p=119804</id>
+        <link href="https://erpsoftwareblog.com/2024/10/top-five-benefits-of-integrating-your-erp-with-an-ecommerce-tool/"/>
+        <updated>2024-10-22T14:24:03.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Effective sales tax management is crucial for businesses in various industries, and Microsoft Dynamics 365 Business Central offers a powerful solution to streamline this process. With its comprehensive tools, Business […]
+The post Top Five Benefits of Integrating Your ERP with an eCommerce Tool appeared first on ERP Software Blog.
+How to take Advantage of Recurring Revenue in Business Central
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>Logan Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Change The Data Search Method In Lists]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-change-the-data-search-method-in-lists</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-change-the-data-search-method-in-lists"/>
+        <updated>2024-10-22T14:00:06.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 4th of the new functionality in the User experiences section is change the data search […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimize Procurement with the Best Vendor Collaboration Tool]]></title>
+        <id>https://erpsoftwareblog.com/?p=119796</id>
+        <link href="https://erpsoftwareblog.com/2024/10/optimize-procurement-with-the-best-vendor-collaboration-tool/"/>
+        <updated>2024-10-22T13:31:22.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Today’s market constantly pressurizes businesses to streamline their procurement processes. Organizations not only focus on cutting costs, but they also concentrate on completely optimizing their procurement lifecycle. This includes sourcing, […]
+The post Optimize Procurement with the Best Vendor Collaboration Tool appeared first on ERP Software Blog.
+How Dynamics 365 Finance and Operations ERP Can Empower Your Educational Institution?
+Press Release: Vyas Special Pricing & Chargeback Management for Microsoft Dynamics 365 is Available on Microsoft AppSource
+Invoice Capture and Approval Workflow for Dynamics 365]]></summary>
+        <author>
+            <name>DynaTech Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 Cybersecurity Certifications You Need to Get Ahead in 2024 #cybersecurity #shorts | MindMajix – YouTube]]></title>
+        <id>https://365community.online/top-5-cybersecurity-certifications-you-need-to-get-ahead-in-2024-cybersecurity-shorts-mindmajix-youtube</id>
+        <link href="https://365community.online/top-5-cybersecurity-certifications-you-need-to-get-ahead-in-2024-cybersecurity-shorts-mindmajix-youtube"/>
+        <updated>2024-10-22T13:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Here are the top 5 Cybersecurity certifications that everyone should know before stepping into the Cybersecurity career. 🔥 Check out MindMajix’s Cybersecurity mastery course: https://mindmajix.com/cyber-security-training?utm_source=youtube&utm_medium=video&utm_campaign=promotion 📚 Learn more about Cybersecurity from our blogs: 📕 Cybersecurity Career Path: https://mindmajix.com/cyber-security-career-path 📕 How to Become Cybersecurity Engineer: https://mindmajix.com/how-to-become-a-cyber-security-engineer 📕 Cybersecurity Interview Questions: https://mindmajix.com/cyber-security-interview-questions 📌 Subscribe to our channel […]]]></summary>
+        <author>
+            <name>365 Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSO vs MFA vs IAM vs PAM – What’s the Difference? | MindMajix – YouTube]]></title>
+        <id>https://365community.online/sso-vs-mfa-vs-iam-vs-pam-whats-the-difference-mindmajix-youtube</id>
+        <link href="https://365community.online/sso-vs-mfa-vs-iam-vs-pam-whats-the-difference-mindmajix-youtube"/>
+        <updated>2024-10-22T13:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Confused about SSO, MFA, IAM, and PAM? Well, in this video we covered the key differences between Single Sign-On (SSO), Multi-Factor Authentication (MFA), Identity and Access Management (IAM), and Privileged Access Management (PAM). And at the end we explained which one is the best option to choose according to your need. Here are the timestamps […]]]></summary>
+        <author>
+            <name>365 Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiple segments in a journey]]></title>
+        <id>https://365community.online/multiple-segments-in-a-journey</id>
+        <link href="https://365community.online/multiple-segments-in-a-journey"/>
+        <updated>2024-10-22T12:46:29.000Z</updated>
+        <summary type="html"><![CDATA[I know a lot of people have been waiting for this! You can now add multiple segments to start a journey. You now don’t have to create one big segment to only use one in a journey. This makes it a lot easier for a lot of users, and less segments to manage! Screenshot of […]]]></summary>
+        <author>
+            <name>Malin Martnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[𝐖𝐡𝐞𝐧 𝐚 𝐏𝐲𝐭𝐡𝐨𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐓𝐚𝐤𝐞𝐬 𝐨𝐧 𝐚 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭… 🤯💻 😂 – YouTube]]></title>
+        <id>https://365community.online/%f0%9d%90%96%f0%9d%90%a1%f0%9d%90%9e%f0%9d%90%a7-%f0%9d%90%9a-%f0%9d%90%8f%f0%9d%90%b2%f0%9d%90%ad%f0%9d%90%a1%f0%9d%90%a8%f0%9d%90%a7-%f0%9d%90%83%f0%9d%90%9e%f0%9d%90%af%f0%9d%90%9e%f0%9d%90%a5</id>
+        <link href="https://365community.online/%f0%9d%90%96%f0%9d%90%a1%f0%9d%90%9e%f0%9d%90%a7-%f0%9d%90%9a-%f0%9d%90%8f%f0%9d%90%b2%f0%9d%90%ad%f0%9d%90%a1%f0%9d%90%a8%f0%9d%90%a7-%f0%9d%90%83%f0%9d%90%9e%f0%9d%90%af%f0%9d%90%9e%f0%9d%90%a5"/>
+        <updated>2024-10-22T12:22:38.000Z</updated>
+        <summary type="html"><![CDATA[𝐖𝐡𝐞𝐧 𝐚 𝐏𝐲𝐭𝐡𝐨𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐓𝐚𝐤𝐞𝐬 𝐨𝐧 𝐚 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭… 🤯💻 😂 source]]></summary>
+        <author>
+            <name>Sourav Raj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Topics with Inputs & Outputs in Copilot Studio]]></title>
+        <id>https://365community.online/building-topics-with-inputs-outputs-in-copilot-studio</id>
+        <link href="https://365community.online/building-topics-with-inputs-outputs-in-copilot-studio"/>
+        <updated>2024-10-22T12:17:41.000Z</updated>
+        <summary type="html"><![CDATA[There have been a lot of updates to Copilot Studio recently! During the Power Platform Community Conference Microsoft announced a lot of new features, but there were some other things that went unnoticed or were not mentioned. Maybe you’ve noticed that Copilot’s responses are A LOT faster then they used to be? That is absolutely […]]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Use Built-In Named Formulas In Excel Layouts]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-use-built-in-named-formulas-in-excel-layouts</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-use-built-in-named-formulas-in-excel-layouts"/>
+        <updated>2024-10-22T12:00:24.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 4th of the new functionality in the Reporting and data analysis section is use built-in […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top CRM Consultant in Canada | Best in 2024]]></title>
+        <id>https://erpsoftwareblog.com/?p=119794</id>
+        <link href="https://erpsoftwareblog.com/2024/10/crm-consultant-in-canada/"/>
+        <updated>2024-10-22T11:27:30.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The global CRM market is predicted to grow to 57 billion US dollars by 2025. This fact indicates the widespread adoption of CRMs in businesses. CRM systems have become essential […]
+The post Top CRM Consultant in Canada | Best in 2024 appeared first on ERP Software Blog.
+How Real Companies are Using Dynamics 365
+Moving Accounting Functions to Electronic Workflow Saves Countless Hours, Millions of Dollars
+Digital Invoicing Good for Small Businesses]]></summary>
+        <author>
+            <name>Dynamics Square CA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comparison of Dynamics GP and Business Central Finance Module]]></title>
+        <id>https://erpsoftwareblog.com/?p=119743</id>
+        <link href="https://erpsoftwareblog.com/2024/10/dynamics-gp-and-business-central-finance-module/"/>
+        <updated>2024-10-22T10:40:41.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Dynamics GP (Great Plains) and Business Central are the two most widely used solutions of Microsoft. Both systems have been designed to address different industries and company sizes. If you […]
+The post Comparison of Dynamics GP and Business Central Finance Module appeared first on ERP Software Blog.
+Finance Module in Business Central
+The Struggle to Hire an Accounts Payable Clerk
+Dynamics GP to Business Central Migration? Consider these Differences]]></summary>
+        <author>
+            <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improve Collaboration by Adding Notes Before Saving in Dynamics 365]]></title>
+        <id>https://365community.online/improve-collaboration-by-adding-notes-before-saving-in-dynamics-365</id>
+        <link href="https://365community.online/improve-collaboration-by-adding-notes-before-saving-in-dynamics-365"/>
+        <updated>2024-10-22T10:01:18.000Z</updated>
+        <summary type="html"><![CDATA[In many sales roles, capturing key details during client meetings can be challenging, as reps often need to save records before adding notes, which can result in missing important information. During a recent meeting with a potential client, Alex, our new CRM feature allowed me to take notes and upload documents in real-time—without having to […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customizing Workflows in Business Central: Streamline your Business Processes]]></title>
+        <id>https://erpsoftwareblog.com/?p=119789</id>
+        <link href="https://erpsoftwareblog.com/2024/10/customizing-workflows-in-dynamics-365-business-central/"/>
+        <updated>2024-10-22T08:20:03.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Customization of workflows is a way to accomplish better insights into your business operations along with benefits, such as responsibility management. Business Central is a leading ERP solution encompassing a […]
+The post Customizing Workflows in Business Central: Streamline your Business Processes appeared first on ERP Software Blog.
+Customizing Workflows in Business Central: Streamline your Business Processes
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+More Than Just a Name Change: The New Microsoft Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Innovate Faster with Microsoft Power Platform: Low-Code Solutions for Every Business]]></title>
+        <id>https://erpsoftwareblog.com/?p=119783</id>
+        <link href="https://erpsoftwareblog.com/2024/10/http-microsoft-power-platform-low-code-development-copilot/"/>
+        <updated>2024-10-22T04:12:43.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Have you ever wondered how your business can innovate faster without relying solely on your IT department for every solution? The answer may lie in the power of low-code development. […]
+The post Innovate Faster with Microsoft Power Platform: Low-Code Solutions for Every Business appeared first on ERP Software Blog.
+Dynamics Copilot: How Six AI Experts Save Hours Every Day
+Ep 65 | Copilot in Business Central | A Shot of Business Central and A Beer
+Automate Repetitive Desktop Tasks with Power Automate Desktop]]></summary>
+        <author>
+            <name>Dynamics Square AU</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dynamics GP Support Ends: What It Mean for Finance Teams]]></title>
         <id>https://erpsoftwareblog.com/?p=119328</id>
