@@ -1522,6 +1522,26 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://www.erpsoftwareblog.com/?p=97804",
+          "author": "Intelegain Technologies",
+          "description": "xxx\n  In today's fast-paced business environment, it is crucial for organizations to have access to real-time data and streamlined operations. One of the critical areas that organizations need to focus […]\nThe post Customer Portal for Microsoft Dynamics 365 Business Central appeared first on ERP Software Blog.\nWhat type of Business central license is right for you?\nStreamline Your Make to Order Supply Chain Automation in Dynamics 365\nMicrosoft Dynamics 365 Business Central vs QuickBooks",
+          "link": "https://erpsoftwareblog.com/2024/10/customer-portal-for-microsoft-dynamics-365-business-central/",
+          "publishedOn": "2024-10-23T16:20:08.000Z",
+          "wordCount": 7731,
+          "title": "Customer Portal for Microsoft Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/OPS-HUB-Customer-Portal-for-Business-Central.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=119828",
+          "author": "Dynamics Square AU",
+          "description": "xxx\nSuccessful sales departments often emphasize, “ Our sellers excel at closing deals because they have easy access to comprehensive information about our customers and products. This enables us to engage […]\nThe post AI-Powered Sales: How Dynamics 365 Sales Helps SMBs Close More Deals? appeared first on ERP Software Blog.\nASPIRE22 Aims to Provide Roadmap, Resources for Digital Journey\nHow to efficiently nurture leads through the sales process in Microsoft Dynamics 365?\nMicrosoft Dynamics 365 Commerce | Overview and Insights",
+          "link": "https://erpsoftwareblog.com/2024/10/ai-powered-dynamics-365-sales-for-smbs/",
+          "publishedOn": "2024-10-23T04:17:56.000Z",
+          "wordCount": 7720,
+          "title": "AI-Powered Sales: How Dynamics 365 Sales Helps SMBs Close More Deals?",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=119822",
           "author": "Accountnet, Inc.",
           "description": "xxx\nAs technology continues to evolve, businesses must stay ahead by transitioning from traditional client-server setups to modern cloud solutions. Microsoft’s Business Central running on Azure Cloud offers significant advantages over […]\nThe post How can Azure Cloud and Business Central Help Benefit Your Organization? appeared first on ERP Software Blog.\nWith Dynamics GP's lifecycle extended to 2028, should we make plans to stay or switch to Business Central?\nAll you need to know about Microsoft’s Bridge to the Cloud Promotion\nThree ways food manufacturers can increase profits today",
@@ -14986,6 +15006,46 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/scottish-summit-2024-scottishsummit-aberdeen-techconference-youtube",
+          "author": "Sarah Lean ???????",
+          "description": "Scottish Summit 2024. #scottishsummit Aberdeen #techconference source",
+          "link": "https://365community.online/scottish-summit-2024-scottishsummit-aberdeen-techconference-youtube",
+          "publishedOn": "2024-10-23T14:08:56.000Z",
+          "wordCount": 939,
+          "title": "Scottish Summit 2024. #scottishsummit Aberdeen #techconference – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/extend-your-line-of-business-lob-systems-with-inogics-expertise-in-microsoft-low-code-no-code-ai-powered-tools",
+          "author": "Inogic",
+          "description": "Welcome to Inogic Professional Services – Series #3 In this series, we’ve explored how Microsoft’s integrated technologies, such as Power Platform, and Dynamics 365 revolutionize business operations. We began by examining how these tools can drive innovation with their low-code/no-code capabilities and then delved into strategies for business transformation through app building and modernization. Today, […]",
+          "link": "https://365community.online/extend-your-line-of-business-lob-systems-with-inogics-expertise-in-microsoft-low-code-no-code-ai-powered-tools",
+          "publishedOn": "2024-10-23T09:28:55.000Z",
+          "wordCount": 1352,
+          "title": "Extend Your Line of Business (LOB) Systems with Inogic’s Expertise in Microsoft low-code/no-code & AI Powered tools!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/is-your-business-ready-for-an-erp-episode-1-youtube",
+          "author": "Sam William",
+          "description": "In this insightful episode of the Dynamics Square Podcast, we dive deep into the essential question: “Is your business ready for an ERP system?” Join our host, Ramita Sachdeva, and guest Nitesh Sharma, Business Development Head at Dynamics Square, as they highlight key signs your business might need an ERP, the benefits of ERP implementation, […]",
+          "link": "https://365community.online/is-your-business-ready-for-an-erp-episode-1-youtube",
+          "publishedOn": "2024-10-23T08:59:11.000Z",
+          "wordCount": 1145,
+          "title": "Is Your Business Ready for an ERP? | Episode 1 – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/microsoft-dev-box-revolutionizes-your-workflow-youtube",
+          "author": "shabaz darr",
+          "description": "Discover how the Microsoft Dev Box can revolutionize your workflow! Learn about the industry scenarios where this tool can make a big impact. Episode Breakdown – 00:00 – Episode Introduction 01:00 – Episode Breakdown 01:28 – What is Microsoft Dev Box? 02:21 – Dev Box Use Cases 04:12 – Platform Engineering Scenario 04:59 – IT […]",
+          "link": "https://365community.online/microsoft-dev-box-revolutionizes-your-workflow-youtube",
+          "publishedOn": "2024-10-23T03:00:07.000Z",
+          "wordCount": 1030,
+          "title": "Microsoft Dev Box Revolutionizes Your Workflow! – YouTube",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/javascript-for-fields-in-business-process-flow-few-key-points-dataverse-dynamics-365",
           "author": "Nishant Rana",
           "description": "Suppose we have the following fields in the form as well as in the business process flow stage for the lead. And let us apply the below JavaScript on the form load. On opening the lead form below is the result we get. formContext. getControl(“leadqualitycode”).setVisible(true); Sets the Rating field visible on the form. formContext…. Continue […]",
@@ -15003,6 +15063,36 @@
           "publishedOn": "2024-10-22T16:57:08.000Z",
           "wordCount": 927,
           "title": "22 de outubro de 2024 – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/from-depression-to-elation-how-the-community-changed-my-life-chris-huntingford-youtube",
+          "author": "Scottish Summit",
+          "description": "This session is going to get REAL personal, REAL honest, REAL quick, so be prepared! 10 years ago I arrived in the UK from South Africa not knowing a single person or even understanding what the Microsoft community was. I was desperate to find a place to belong and desperate to be part of a […]",
+          "link": "https://365community.online/from-depression-to-elation-how-the-community-changed-my-life-chris-huntingford-youtube",
+          "publishedOn": "2024-10-22T15:09:10.000Z",
+          "wordCount": 1139,
+          "title": "From Depression to Elation – How the community changed my life – Chris Huntingford – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/%f0%9f%93%a3-6-ways-microsoft-copilots-can-boost-your-social-media-reach-engagement-%f0%9f%93%a3-youtube",
+          "author": "Victor Dantas",
+          "description": "1. Content Creation Assistance 📝 Struggling with writer’s block? Copilots can generate engaging posts, captions, and hashtags, helping you craft content that resonates with your audience. 2. Trend Analysis 📊 Stay ahead of the curve by using Copilots to analyze trending topics and hashtags. Identify what’s gaining traction and tailor your posts to join the […]",
+          "link": "https://365community.online/%f0%9f%93%a3-6-ways-microsoft-copilots-can-boost-your-social-media-reach-engagement-%f0%9f%93%a3-youtube",
+          "publishedOn": "2024-10-22T14:58:08.000Z",
+          "wordCount": 1153,
+          "title": "📣 6 Ways Microsoft Copilots Can Boost Your Social Media Reach & Engagement 📣 – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/adopting-ai-navigating-challenges-unleashing-potential-with-areti-iles-youtube",
+          "author": "Scottish Summit",
+          "description": "With AI tools increasingly changing the way we work, what do we need to do to make sure AI tools are successfully adopted by ourselves, our teams and our organisations? How do we prepare ourselves for the future? Join this session where we will cover: – The latest AI trends and tools within the Power […]",
+          "link": "https://365community.online/adopting-ai-navigating-challenges-unleashing-potential-with-areti-iles-youtube",
+          "publishedOn": "2024-10-22T14:36:37.000Z",
+          "wordCount": 1064,
+          "title": "Adopting AI: Navigating Challenges, Unleashing Potential With Areti Iles – YouTube",
           "imageUrl": null
         },
         {
@@ -37125,16 +37215,6 @@
           "publishedOn": "2022-11-16T06:13:12.000Z",
           "wordCount": 1549,
           "title": "HcmWorkerV2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dev.goshoom.net/?p=9733",
-          "author": "Martin Dráb",
-          "description": "We usually have methods where the logic is written in code and it just receives some data in parameters. But sometimes it’s benefitial to allow the caller code to define a piece of logic by itself. For example, I can write code to filter a collection and let consumers decide what condition should be used ...\nContinue reading ‘Method as a parameter (in D365FO)’ »",
-          "link": "https://dev.goshoom.net/2022/10/method-as-a-parameter-in-d365fo/",
-          "publishedOn": "2022-10-25T04:48:09.000Z",
-          "wordCount": 1986,
-          "title": "Method as a parameter (in D365FO)",
           "imageUrl": null
         }
       ]
