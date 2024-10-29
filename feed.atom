@@ -2,10 +2,188 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-10-28T00:54:21.376Z</updated>
+    <updated>2024-10-29T00:53:39.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to – Delete the elastic table records (Dataverse)]]></title>
+        <id>https://365community.online/how-to-delete-the-elastic-table-records-dataverse</id>
+        <link href="https://365community.online/how-to-delete-the-elastic-table-records-dataverse"/>
+        <updated>2024-10-28T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently we wrote an SSIS package to delete the Elastic Table records using KingswaySoft’s Integration Toolkit for Dynamics 365. We had mapped the primary field for deletion and the package was also showing success. However back in our CRM / Sales Hub app, we saw that none of the records were deleted (total – 48999) […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maximizing Efficiency with Business Central Inventory]]></title>
+        <id>https://erpsoftwareblog.com/?p=120092</id>
+        <link href="https://erpsoftwareblog.com/2024/10/maximizing-efficiency-with-business-central-inventory/"/>
+        <updated>2024-10-28T19:27:49.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+For companies using Microsoft Dynamics 365 Business Central, managing inventory is critical to operational success and growth. Business Central’s Inventory Management offers a robust suite of tools designed to streamline […]
+The post Maximizing Efficiency with Business Central Inventory appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+Everything you need to know about Warehouse Order Picking Methods
+Learn How To Save Time By Using The "Cancel" Option to Reverse A Posted Sales Invoice]]></summary>
+        <author>
+            <name>Michael Intravartolo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cards in Power Apps]]></title>
+        <id>https://365community.online/cards-in-power-apps</id>
+        <link href="https://365community.online/cards-in-power-apps"/>
+        <updated>2024-10-28T11:15:28.000Z</updated>
+        <summary type="html"><![CDATA[Cards in Power Apps can get you to send Adaptive Cards in Teams chats or channels without having to leave Power Platform to make your card! Yes, till recently I was having a hard time to make an Adaptive Card in the Adaptive Cards Designer which is outside of the context of Dynamics/Dataverse and then […]]]></summary>
+        <author>
+            <name>Priyesh Wagh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Encore Care | Our Vision for Our Clients]]></title>
+        <id>https://www.encorebusiness.com/?p=37705</id>
+        <link href="https://www.encorebusiness.com/blog/encore-care-vision-clients/"/>
+        <updated>2024-10-28T11:13:20.000Z</updated>
+        <summary type="html"><![CDATA[Encore Care | Our Vision for Our Clients
+Encore Care is our dedicated support program to assist our clients with their applications, services, and technologies. Our Encore Care program is committed to providing you the solutions and knowledge you need for your business.  Current Issues  Some of the common issues we’re hearing about from customers coming to us for Encore Care are that...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Scott Murn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Extended Texts In Microsoft Dynamics 365 Business Central: Add Extended Texts to Stockkeepping Units]]></title>
+        <id>https://365community.online/using-extended-texts-in-microsoft-dynamics-365-business-central-add-extended-texts-to-stockkeepping-units</id>
+        <link href="https://365community.online/using-extended-texts-in-microsoft-dynamics-365-business-central-add-extended-texts-to-stockkeepping-units"/>
+        <updated>2024-10-28T11:00:39.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the Using Extended Texts In Microsoft Dynamics 365 Business Central series, but articles within it will also be part of the ongoing and In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I familiarise myself with Microsoft Dynamics 365 Business Central. Extended texts can […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrate Your Custom Copilot into Your Canvas App in Power Apps]]></title>
+        <id>https://365community.online/integrate-your-custom-copilot-into-your-canvas-app-in-power-apps</id>
+        <link href="https://365community.online/integrate-your-custom-copilot-into-your-canvas-app-in-power-apps"/>
+        <updated>2024-10-28T10:34:48.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Copilot Studio allows creators to build tailored Copilots powered by AI effortlessly. In a few simple steps, you can implement your custom Copilot across every screen of your Canvas App without changing its layout. This capability is available on both the web platform and the Power Apps mobile app, offering convenience in deploying AI-driven […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central App Upgrade: New Features in Counter Sales v3.1]]></title>
+        <id>https://erpsoftwareblog.com/?p=119984</id>
+        <link href="https://erpsoftwareblog.com/2024/10/business-central-app-upgrade-new-features-in-counter-sales-v3-1/"/>
+        <updated>2024-10-28T10:17:39.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Insight Works releases Counter Sales v3.1 for Business Central, introducing new features to improve payment processing, sales management, and overall efficiency.
+The post Business Central App Upgrade: New Features in Counter Sales v3.1 appeared first on ERP Software Blog.
+Warehouse Insight Now Available for Dynamics 365 Business Central
+How to Choose a Mobile Computer to use with Business Central
+Quote Generation with Product Configurator for Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Logic Apps Standard: worflow’s run retention history configuration.]]></title>
+        <id>https://365community.online/azure-logic-apps-standard-worflows-run-retention-history-configuration</id>
+        <link href="https://365community.online/azure-logic-apps-standard-worflows-run-retention-history-configuration"/>
+        <updated>2024-10-28T10:08:31.000Z</updated>
+        <summary type="html"><![CDATA[When you create an Azure Logic Apps Standard workflow for your integrations (maybe with your Dynamics 365 Business Central ERP, but this is obviously valid for every workflow you have) you have essentially two possibility: Create a stateful workflow Create a stateless workflow A stateful workflow automatically saves all the operations’ inputs, outputs and states […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upgrade from Dynamics NAV to Business Central: Unlock Growth and Efficiency]]></title>
+        <id>https://erpsoftwareblog.com/?p=120072</id>
+        <link href="https://erpsoftwareblog.com/2024/10/upgrade-from-dynamics-nav-to-business-central/"/>
+        <updated>2024-10-28T09:14:18.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Businesses are going through digital transformation at a faster pace globally. With growth, business organizations encounter challenges in managing their finance, HR, inventory, accounting, and production. Also, it is necessary […]
+The post Upgrade from Dynamics NAV to Business Central: Unlock Growth and Efficiency  appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use Formula Columns in Dataverse & Dynamics 365 – YouTube]]></title>
+        <id>https://365community.online/how-to-use-formula-columns-in-dataverse-dynamics-365-youtube</id>
+        <link href="https://365community.online/how-to-use-formula-columns-in-dataverse-dynamics-365-youtube"/>
+        <updated>2024-10-28T08:37:24.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the full potential of your data with PowerFX Formula Columns in Dataverse and Dynamics 365! In this engaging video, we’ll show you how to seamlessly integrate and combine data from various sources, making your reports more dynamic and insightful. Whether you’re a beginner or looking to enhance your skills, this tutorial will provide you […]]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Popular Coffee Chain Automates Its Distribution and Financial Processes with Microsoft Dynamics Business Central]]></title>
+        <id>https://www.erpsoftwareblog.com/?p=94021</id>
+        <link href="https://erpsoftwareblog.com/2024/10/popular-coffee-chain-automates-its-distribution-and-financial-processes-with-microsoft-dynamics-business-central/"/>
+        <updated>2024-10-28T07:15:10.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Operational efficiency and accurate financial management are essential for businesses in the food and beverage sector, especially for those expanding rapidly. A prominent coffee shop chain in Saudi Arabia recently […]
+The post Popular Coffee Chain Automates Its Distribution and Financial Processes with Microsoft Dynamics Business Central appeared first on ERP Software Blog.
+Streamline Your Make to Order Supply Chain Automation in Dynamics 365
+What type of Business central license is right for you?
+Customer Portal for Microsoft Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Intelegain Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating new learning experiences with Copilot Studio]]></title>
+        <id>http://dynamicsax-fico.com/?p=6829</id>
+        <link href="https://dynamicsax-fico.com/2024/10/28/creating-new-learning-experiences-with-copilot-studio/"/>
+        <updated>2024-10-28T05:38:01.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to send bulk email via Workflow in dynamics 365 CE – YouTube]]></title>
+        <id>https://365community.online/how-to-send-bulk-email-via-workflow-in-dynamics-365-ce-youtube</id>
+        <link href="https://365community.online/how-to-send-bulk-email-via-workflow-in-dynamics-365-ce-youtube"/>
+        <updated>2024-10-28T05:26:50.000Z</updated>
+        <summary type="html"><![CDATA[In this video, we’ll guide you through the step-by-step process of sending bulk emails using workflows in Dynamics 365 Customer Engagement (D365 CE). Learn how to efficiently reach multiple contacts at once, streamlining your communication strategy. We’ll cover essential tips and best practices to ensure your emails are effective and compliant. Whether you’re a D365 […]]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elevate Your Business KPIs with Dynamics 365 Field Service: Proven Strategies for Success]]></title>
+        <id>https://erpsoftwareblog.com/?p=120067</id>
+        <link href="https://erpsoftwareblog.com/2024/10/boost-business-kpis-with-dynamics-365-field-service/"/>
+        <updated>2024-10-28T05:26:34.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In today’s competitive business environment, success isn’t just about delivering great service—it’s about measuring that success in ways that provide actionable insights. This is where key performance indicators (KPIs) come […]
+The post Elevate Your Business KPIs with Dynamics 365 Field Service: Proven Strategies for Success appeared first on ERP Software Blog.
+Tech Insider Update Reviews Latest Enhancements to Microsoft Technology Stack
+Outsourcing Application Maintenance Support Can Save Your Business More Than It Costs 
+ASPIRE22 Aims to Provide Roadmap, Resources for Digital Journey]]></summary>
+        <author>
+            <name>Dynamics Square AU</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to open a quick create form with JAVASCRIPT in power apps in dynamics 365 CE – YouTube]]></title>
+        <id>https://365community.online/how-to-open-a-quick-create-form-with-javascript-in-power-apps-in-dynamics-365-ce-youtube</id>
+        <link href="https://365community.online/how-to-open-a-quick-create-form-with-javascript-in-power-apps-in-dynamics-365-ce-youtube"/>
+        <updated>2024-10-28T05:22:13.000Z</updated>
+        <summary type="html"><![CDATA[In this video, we dive into the process of using JavaScript to open a Quick Create form with a simple button click in Power Apps. You’ll learn step-by-step how to enhance user experience in Dynamics 365 Customer Engagement CRM by implementing this practical solution. Whether you’re a beginner or looking to refine your skills, this […]]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Compare 5 Inventory Management Tools for Microsoft Dynamics 365 Business Central]]></title>
         <id>https://erpsoftwareblog.com/?p=120060</id>
@@ -39,6 +217,16 @@ Microsoft Convergence 2011 is On!]]></summary>
         <summary type="html"><![CDATA[I want to tackle some myths I’ve encountered about Dynamics 365 eCommerce and give clarity on these misconceptions. The Dynamics 365 eCommerce technology stack offers immense value but often doesn’t get the attention it deserves. One reason is that eCommerce requires specialized technical knowledge distinct from traditional ERP systems. AI, low-code platforms, and tools like … Continue reading Dynamics 365 eCommerce – Myths]]></summary>
         <author>
             <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I’ve got 99 problems but Teams ain’t one! – Amanada & Josefin – YouTube]]></title>
+        <id>https://365community.online/ive-got-99-problems-but-teams-aint-one-amanada-josefin-youtube</id>
+        <link href="https://365community.online/ive-got-99-problems-but-teams-aint-one-amanada-josefin-youtube"/>
+        <updated>2024-10-27T15:42:52.000Z</updated>
+        <summary type="html"><![CDATA[I’ve got 99 problems but Teams ain’t one! We all have these daily bits of frustration at work. My colleague has no access to this list! How can I involve everyone in our planning workshop? Where is that file someone shared in our team meeting? These feelings multiply when the context is collaboration and communication […]]]></summary>
+        <author>
+            <name>Scottish Summit</name>
         </author>
     </entry>
     <entry>
