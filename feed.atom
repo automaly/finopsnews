@@ -2,10 +2,258 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-10-29T00:53:39.280Z</updated>
+    <updated>2024-10-30T00:52:30.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Exploring Microsoft Copilot in Dynamics 365 and Microsoft 365 (Video)]]></title>
+        <id>https://www.encorebusiness.com/?p=65554</id>
+        <link href="https://www.encorebusiness.com/blog/exploring-microsoft-copilot-in-d365-and-m365/"/>
+        <updated>2024-10-29T21:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Exploring Microsoft Copilot in Dynamics 365 and Microsoft 365 (Video)
+In this recorded webinar, we delve into Microsoft Copilot, highlighting its various features focusing on Microsoft 365 and Dynamics 365. Discover how Microsoft 365 enhances daily productivity and explore the integrated features in Dynamics 365 ERP and CRM solutions. We also cover pricing and licensing details. ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿ Transcript below: – [Katie] Hello everyone, thank you...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Jim Slinn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disable recent records (Disable most recently used items) for the Lookup field used in the Business Process Flow (Dataverse / Dynamics 365)]]></title>
+        <id>https://365community.online/disable-recent-records-disable-most-recently-used-items-for-the-lookup-field-used-in-the-business-process-flow-dataverse-dynamics-365</id>
+        <link href="https://365community.online/disable-recent-records-disable-most-recently-used-items-for-the-lookup-field-used-in-the-business-process-flow-dataverse-dynamics-365"/>
+        <updated>2024-10-29T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Suppose we have the below Customer Lookup in the Sample Stage of a Business Process Flow. As we can see the lookup shows the Recent records there. Now say we have applied filtering to the lookup using addPreSearch so we need to disable the recent records options in it. To do so for the fields […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Become an AI ProPilot mentorship starts in 2 days – YouTube]]></title>
+        <id>https://365community.online/become-an-ai-propilot-mentorship-starts-in-2-days-youtube</id>
+        <link href="https://365community.online/become-an-ai-propilot-mentorship-starts-in-2-days-youtube"/>
+        <updated>2024-10-29T18:59:36.000Z</updated>
+        <summary type="html"><![CDATA[More info here: https://www.fromzerotoheroes.com/propilots source]]></summary>
+        <author>
+            <name>Victor Dantas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Business Central Revamp Tax Setup and Reporting]]></title>
+        <id>https://erpsoftwareblog.com/?p=120155</id>
+        <link href="https://erpsoftwareblog.com/2024/10/how-business-central-revamp-tax-setup-and-reporting/"/>
+        <updated>2024-10-29T16:26:03.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Business Central has redesigned the configuration and reporting of taxes. It streamlined how these are made more easy, accurate, and eye-friendly. Below is a summary of How Business Central Revamp […]
+The post How Business Central Revamp Tax Setup and Reporting appeared first on ERP Software Blog.
+Tax handling in an Enterprise Resource Planning
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality]]></summary>
+        <author>
+            <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics 365 Business Central vs QuickBooks]]></title>
+        <id>https://www.erpsoftwareblog.com/?p=93698</id>
+        <link href="https://erpsoftwareblog.com/2024/10/microsoft-dynamics-365-business-central-vs-quickbooks/"/>
+        <updated>2024-10-29T16:21:34.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The comparison between Business Central and QuickBooks has become a hot topic among business owners eager to evaluate their features and identify the ideal solution for their expanding enterprises. Both […]
+The post Microsoft Dynamics 365 Business Central vs QuickBooks appeared first on ERP Software Blog.
+Popular Coffee Chain Automates Its Distribution and Financial Processes with Microsoft Dynamics Business Central
+Streamline Your Make to Order Supply Chain Automation in Dynamics 365
+What type of Business central license is right for you?]]></summary>
+        <author>
+            <name>Intelegain Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-Serve Revolution: Streamlining Retail Experiences with Dynamics 365 Store Commerce Self-Checkout]]></title>
+        <id>https://erpsoftwareblog.com/?p=120156</id>
+        <link href="https://erpsoftwareblog.com/2024/10/retail-experiences-with-dynamics-365-store-commerce-self-checkout/"/>
+        <updated>2024-10-29T15:26:12.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The retail sector is undergoing significant transformation. Impatient consumers and lengthy checkout lines are a thing of the past. These days, convenience is paramount, and consumers need faster, more efficient […]
+The post Self-Serve Revolution: Streamlining Retail Experiences with Dynamics 365 Store Commerce Self-Checkout appeared first on ERP Software Blog.
+STOP! Don't buy Shopify for your B2B eCommerce Store
+6 reasons to partner with Dynamicweb for integrated eCommerce solutions
+Growing crops, plants and profits: how Agriculture and Horticulture are leveraging eCommerce]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enterprise Resource Planning (ERP) and Supply Chain Management (SCM): A Synergistic Approach]]></title>
+        <id>https://erpsoftwareblog.com/?p=120152</id>
+        <link href="https://erpsoftwareblog.com/2024/10/enterprise-resource-planning-erp-and-supply-chain-management-scm-a-synergistic-approach/"/>
+        <updated>2024-10-29T14:57:44.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In today’s fast-paced business environment, the integration of Enterprise Resource Planning (ERP) and Supply Chain Management (SCM) systems is crucial for achieving operational efficiency and competitive advantage. Both ERP and […]
+The post Enterprise Resource Planning (ERP) and Supply Chain Management (SCM): A Synergistic Approach appeared first on ERP Software Blog.
+The Product-as-a-Service advantage — a potential game-changer for equipment manufacturers
+Should I Build or Buy PLM-ERP Integration for My Manufacturing Business?
+PLM-ERP Integration for Dynamics 365: What's The To-Increase Implementation Process?]]></summary>
+        <author>
+            <name>StockIQ Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Frequently Asked Questions About D365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=120082</id>
+        <link href="https://erpsoftwareblog.com/2024/10/5-frequently-asked-questions-about-d365-business-central/"/>
+        <updated>2024-10-29T14:13:35.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Microsoft Dynamics 365 Business Central is a powerful all-in-one business management solution designed to streamline financials, sales, service, and operations in your organization from day one. As a cloud-based ERP […]
+The post 5 Frequently Asked Questions About D365 Business Central appeared first on ERP Software Blog.
+Streamline Your Make to Order Supply Chain Automation in Dynamics 365
+Popular Coffee Chain Automates Its Distribution and Financial Processes with Microsoft Dynamics Business Central
+What type of Business central license is right for you?]]></summary>
+        <author>
+            <name>Kwixand Solutions Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EthoTech's Support for MS Dynamics GP & Commission Plan Amid Microsoft's Changes]]></title>
+        <id>https://erpsoftwareblog.com/?p=119824</id>
+        <link href="https://erpsoftwareblog.com/2024/10/ethotechs-support-for-ms-dynamics-gp-commission-plan-amid-microsofts-changes/"/>
+        <updated>2024-10-29T12:55:51.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+As Microsoft prepares for the eventual sunset of Microsoft Dynamics GP, EthoTech remains steadfast in its dedication to supporting our customers. We understand that many businesses, like yours, have built […]
+The post EthoTech's Support for MS Dynamics GP & Commission Plan Amid Microsoft's Changes appeared first on ERP Software Blog.
+Dynamics GP End Of Life Announced Today - The End is September 2029
+Microsoft makes training options available for Dynamics GP easy and convenient.
+Choosing an ERP System - So Many Things to Think About!]]></summary>
+        <author>
+            <name>EthoTech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimize Your Warehouse & Supply Chain with the Power of Dynamics 365]]></title>
+        <id>https://erpsoftwareblog.com/?p=120143</id>
+        <link href="https://erpsoftwareblog.com/2024/10/optimize-your-warehouse-supply-chain-with-the-power-of-dynamics-365/"/>
+        <updated>2024-10-29T12:14:31.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Dynamics 365 Supply Chain Management is a cloud-based, enterprise-scale solution designed to enhance the efficiency and resilience of supply chain operations. It offers a comprehensive suite of tools for managing […]
+The post Optimize Your Warehouse & Supply Chain with the Power of Dynamics 365  appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Join Us for Maplytics’ Spooktacular Halloween 2024 Party!]]></title>
+        <id>https://365community.online/join-us-for-maplytics-spooktacular-halloween-2024-party</id>
+        <link href="https://365community.online/join-us-for-maplytics-spooktacular-halloween-2024-party"/>
+        <updated>2024-10-29T11:52:40.000Z</updated>
+        <summary type="html"><![CDATA[This Halloween, something magical, eerie, and exciting is brewing over at Maplytics! The features of Maplytics, the beloved geo-analytical tool for Microsoft Dynamics 365, are stepping out in full Halloween flair. But don’t be fooled—these features aren’t just showing up in regular costumes. Each one has taken on a character inspired by their core function! […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curso Power Automate – Aula 2 – Templates e conectores – YouTube]]></title>
+        <id>https://365community.online/curso-power-automate-aula-2-templates-e-conectores-youtube</id>
+        <link href="https://365community.online/curso-power-automate-aula-2-templates-e-conectores-youtube"/>
+        <updated>2024-10-29T11:08:32.000Z</updated>
+        <summary type="html"><![CDATA[Nesse curso vamos aprender os conceitos do Power Automate e vamos fazer práticas para aprender mais sobre essa tecnologia. ♐ Adquira meu curso na Udemy e aprenda SharePoint, Power Apps e Power Automate do zero. https://www.udemy.com/course/aprenda-sharepoint-do-zero-com-foco-no-negocio/?referralCode=34B700C89A7463BD0A00 ♐ Quer aprender SharePoint Framework(SPFx)? Adquira meu curso na Udemy e aprenda a criar aplicações SPA. https://www.udemy.com/course/desenvolvendo-para-sharepoint-com-spfx/?referralCode=26879FEB3B350B408792 Seja membro […]]]></summary>
+        <author>
+            <name>Saulo Soares Oliveira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live Chat for Dynamics 365 – Transform Website Visitors into Leads Instantly with our New Omnichannel App!]]></title>
+        <id>https://365community.online/live-chat-for-dynamics-365-transform-website-visitors-into-leads-instantly-with-our-new-omnichannel-app</id>
+        <link href="https://365community.online/live-chat-for-dynamics-365-transform-website-visitors-into-leads-instantly-with-our-new-omnichannel-app"/>
+        <updated>2024-10-29T10:20:03.000Z</updated>
+        <summary type="html"><![CDATA[Effective communication is key to driving sales and ensuring exceptional customer service. To help businesses streamline their communication processes, we are excited to introduce LiveChat4Dynamics, part of the omnichannel suite of communication apps that includes Dynamics 365 Text SMS Integration and WhatsApp Chat integration with Dynamics 365 CRM. This powerful integration brings live chat functionality […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Navigate Pricing Information in the Dynamics 365 CRM/CE Product Catalog – YouTube]]></title>
+        <id>https://365community.online/how-to-navigate-pricing-information-in-the-dynamics-365-crm-ce-product-catalog-youtube</id>
+        <link href="https://365community.online/how-to-navigate-pricing-information-in-the-dynamics-365-crm-ce-product-catalog-youtube"/>
+        <updated>2024-10-29T08:45:01.000Z</updated>
+        <summary type="html"><![CDATA[In this video, we delve into the essential concept of Price Lists within Dynamics 365 CRM/CE. You’ll learn how to configure Price Lists effectively and understand their significance in managing your product catalog. We’ll guide you through the steps to link Price Lists with products, opportunities, and transactional records, ensuring your sales process is efficient […]]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Lead Scoring Qualification Functionality]]></title>
+        <id>https://365community.online/using-lead-scoring-qualification-functionality</id>
+        <link href="https://365community.online/using-lead-scoring-qualification-functionality"/>
+        <updated>2024-10-29T08:20:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve started using Lead Scoring in Realtime Marketing as part of Customer Insights – Journeys, nice one! That’s a great start. Hopefully you’ve also started building segments to find people who have a over a specific score to send them on Journeys, even better! You might have then noticed the other option in the […]]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extending Copilot in D365 Sales – Part 1]]></title>
+        <id>https://365community.online/extending-copilot-in-d365-sales-part-1</id>
+        <link href="https://365community.online/extending-copilot-in-d365-sales-part-1"/>
+        <updated>2024-10-29T08:06:00.000Z</updated>
+        <summary type="html"><![CDATA[You have most likely heard of all the different Copilots that Microsoft published in the past year, from Copilot in Microsoft Teams to Copilot in SharePoint, Dynamics 365 apps and of course Microsoft 365 Copilot which is grounded in business data, allowing users to ask questions about work related things. In this article I am […]]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extend Copilot in D365 Sales – Part 1 – YouTube]]></title>
+        <id>https://365community.online/extend-copilot-in-d365-sales-part-1-youtube</id>
+        <link href="https://365community.online/extend-copilot-in-d365-sales-part-1-youtube"/>
+        <updated>2024-10-29T08:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Extend Copilot in D365 Sales – Part 1 If you’ve worked with Dynamics 365 Sales, before you’re likely familiar with the concept of “Copilot in Dynamics 365 Sales.” Out of the box this Copilot empowers sellers with quick access to sales data from Dynamics 365, from getting account news to interacting with SharePoint documents. Moreover, […]]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solving Common Shipping Challenges: Automated Shipping with DynaTech's Connector for Dynamics 365]]></title>
+        <id>https://erpsoftwareblog.com/?p=120140</id>
+        <link href="https://erpsoftwareblog.com/2024/10/solving-common-shipping-challenges-automated-shipping-with-dynatechs-connector-for-dynamics-365/"/>
+        <updated>2024-10-29T07:24:25.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Today’s world is a digital world. Consumers constantly expect quick and accurate deliveries. In such cases, optimizing shipping processes can either make or break your business. Enterprises need to ensure […]
+The post Solving Common Shipping Challenges: Automated Shipping with DynaTech's Connector for Dynamics 365 appeared first on ERP Software Blog.
+What, No Coffee Stains? SmartBOL Removes All Bill of Lading Paperwork
+Time to Upgrade Your TMS or Maybe Move to a New Provider ?
+Dynamics 365 Partner Provides a Detailed Analysis of Your Current Transportation Management System]]></summary>
+        <author>
+            <name>DynaTech Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Master Product Unit Groups in D365 CRM/CE – YouTube]]></title>
+        <id>https://365community.online/how-to-master-product-unit-groups-in-d365-crm-ce-youtube</id>
+        <link href="https://365community.online/how-to-master-product-unit-groups-in-d365-crm-ce-youtube"/>
+        <updated>2024-10-29T05:45:00.000Z</updated>
+        <summary type="html"><![CDATA[In this video, we explore the essential concept of Product Unit Groups in Dynamics 365 CRM/CE. Discover what Unit Groups are and why they are crucial for effective product management. We’ll guide you through the step-by-step process of configuring these groups, ensuring you understand how to set them up correctly. Additionally, learn how to seamlessly […]]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimising Warehouse Operations with Dynamics 365 ERP: From Inventory to Fulfillment]]></title>
+        <id>https://erpsoftwareblog.com/?p=120128</id>
+        <link href="https://erpsoftwareblog.com/2024/10/optimize-warehouse-operations-with-dynamics-365/"/>
+        <updated>2024-10-29T04:30:58.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Managing a warehouse efficiently is key to the success of any business involved in product distribution. Due to complex modern supply chains, businesses need a robust solution to keep operations […]
+The post Optimising Warehouse Operations with Dynamics 365 ERP: From Inventory to Fulfillment appeared first on ERP Software Blog.
+Does My Manufacturing Business Need to Integrate PLM and ERP?
+PLM-ERP Integration for Dynamics 365: What's The To-Increase Implementation Process?
+How Do I Ensure Data Quality During PLM-ERP Integration for D365 ERP?]]></summary>
+        <author>
+            <name>Dynamics Square AU</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to – Delete the elastic table records (Dataverse)]]></title>
         <id>https://365community.online/how-to-delete-the-elastic-table-records-dataverse</id>
