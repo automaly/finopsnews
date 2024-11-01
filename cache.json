@@ -1512,6 +1512,26 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=120299",
+          "author": "MetaOption LLC",
+          "description": "xxx\nFor general contractors, subcontractors, builders, and commercial contractors, bidding is a complicated process. There are tight budgets, timelines, and resources to manage. It’s a competitive field, so standing out is […]\nThe post 7 Insider Tips for Winning Construction Bids - Without the Lowest Estimate appeared first on ERP Software Blog.\nManage Bill Payment and Receivables in the Cloud with Dynamics GP and InvoiceCloud\nMicrosoft Dynamics GP for Mining: Reporting and Planning Never Seemed So Easy\nSupporting the Entrepreneurs Vision with ERP",
+          "link": "https://erpsoftwareblog.com/2024/10/7-insider-tips-for-winning-construction-bids-without-the-lowest-estimate/",
+          "publishedOn": "2024-11-01T00:18:08.000Z",
+          "wordCount": 7430,
+          "title": "7 Insider Tips for Winning Construction Bids - Without the Lowest Estimate",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/happy-workers-Medium-2.jpeg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=119932",
+          "author": "IT Fandango",
+          "description": "xxx\nIn a D365 F&O implementation, your operational roles are the musicians who play the project symphony.\nThe post Your D365 F&O Project Team: Champs or Chumps? (Part 2) appeared first on ERP Software Blog.\nThe Product-as-a-Service advantage — a potential game-changer for equipment manufacturers\nRegister Now for JourneyTEAM’s 2021 Business Technology Summit\nEDI Integration with ERP: What are Your Choices? (Explained with Scenarios)",
+          "link": "https://erpsoftwareblog.com/2024/10/your-d365-fo-project-team-champs-or-chumps-part-2/",
+          "publishedOn": "2024-10-31T11:33:23.000Z",
+          "wordCount": 7326,
+          "title": "Your D365 F&O Project Team: Champs or Chumps? (Part 2)",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ITF-Your-D365-FO-Project-Team-Blog.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=120255",
           "author": "Western Computer",
           "description": "xxx\nIntuit has announced that it is phasing out QuickBooks Desktop 2022, impacting QuickBooks Desktop Pro Plus, Desktop Premier Plus, Desktop Mac Plus, and Desktop Enhanced Payroll. Intuit is encouraging users […]\nThe post Time to Consider Life Beyond QuickBooks? Consider Dynamics 365 Business Central appeared first on ERP Software Blog.\nHow an Industry-Specific Solution Can Change Your Life\nScaling up: 6 signs it's time to ditch QuickBooks\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve",
@@ -14369,6 +14389,16 @@
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
         {
+          "id": "https://www.encorebusiness.com/?p=65517",
+          "author": "Leanne Pahal",
+          "description": "Custom Views and Charts in Dynamics 365 CRM\nCustomizing views and charts in Dynamics 365 CRM can significantly enhance your user experience, making it easier for sales and service teams to manage and analyze data. Views and charts are essential tools for displaying and filtering data effectively. Leveraging these customization options we explain below can help you improve efficiency, streamline workflows, and gain...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/custom-views-and-charts-in-d365-crm/",
+          "publishedOn": "2024-10-31T17:30:42.000Z",
+          "wordCount": 2521,
+          "title": "Custom Views and Charts in Dynamics 365 CRM",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/CRM-blog-image.png"
+        },
+        {
           "id": "https://www.encorebusiness.com/?p=65554",
           "author": "Jim Slinn",
           "description": "Exploring Microsoft Copilot in Dynamics 365 and Microsoft 365 (Video)\nIn this recorded webinar, we delve into Microsoft Copilot, highlighting its various features focusing on Microsoft 365 and Dynamics 365. Discover how Microsoft 365 enhances daily productivity and explore the integrated features in Dynamics 365 ERP and CRM solutions. We also cover pricing and licensing details. ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿ Transcript below: – [Katie] Hello everyone, thank you...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
@@ -15395,6 +15425,66 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/copilot-features-overview-in-onedrive",
+          "author": "Marcin Siewnicki",
+          "description": "The latest updates and final rollouts enabled a full set of Copilot features for all commercial users in Microsoft 365. Now you can ask the Copilot for files, Q&As, and even compare files. So let’s dive into OneDrive and check what, how, and why not😊 Introduction Copilot appears in 2 different sections in OneDrive – […]",
+          "link": "https://365community.online/copilot-features-overview-in-onedrive",
+          "publishedOn": "2024-10-31T21:24:30.000Z",
+          "wordCount": 1028,
+          "title": "Copilot features overview in OneDrive",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/power-platform-tools-for-visual-studio",
+          "author": "Priyesh Wagh",
+          "description": "Here’s how you can get started in setting up and using Power Platform Tools for Visual Studio The post Power Platform Tools for Visual Studio appeared first on D365 Demystified. Continue Reading priyeshwagh777’s Article on their blog Power Platform Tools for Visual Studio – D365 Demystified Here’s how you can get started in setting up […]",
+          "link": "https://365community.online/power-platform-tools-for-visual-studio",
+          "publishedOn": "2024-10-31T13:27:12.000Z",
+          "wordCount": 980,
+          "title": "Power Platform Tools for Visual Studio",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/me-directions-emea-2024",
+          "author": "Stefano Demiliani",
+          "description": "Also this year Directions EMEA conference is approaching and next week all the EMEA’s Microsoft Dynamics 365 Business Central partner’s community will be in Vienna for 3 exciting (and funny) days together. The conference is fully packed of interesting sessions for different figures (developers, consultants, managers, marketing people and more). Create your agenda and start […]",
+          "link": "https://365community.online/me-directions-emea-2024",
+          "publishedOn": "2024-10-31T10:34:16.000Z",
+          "wordCount": 1049,
+          "title": "Me @ Directions EMEA 2024",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/crafting-a-personal-brand-that-speaks-for-itself-youtube",
+          "author": "NZ365Guy",
+          "description": "Crafting a Personal Brand That Speaks for Itself source",
+          "link": "https://365community.online/crafting-a-personal-brand-that-speaks-for-itself-youtube",
+          "publishedOn": "2024-10-31T08:05:02.000Z",
+          "wordCount": 953,
+          "title": "Crafting a Personal Brand That Speaks for Itself – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/webinar-bridge-data-gap-between-marketing-and-sales-with-mailchimp-and-crm-integration",
+          "author": "Inogic",
+          "description": "Integrating Mailchimp with CRM is one of the best ways to unite your marketing and sales efforts and one of the most popular outbound marketing strategy of businesses worldwide! With a single, unified view, sales reps can instantly access valuable marketing insights—like which leads or contacts have engaged with campaigns (opens, clicks, and more)—all within […]",
+          "link": "https://365community.online/webinar-bridge-data-gap-between-marketing-and-sales-with-mailchimp-and-crm-integration",
+          "publishedOn": "2024-10-31T06:35:53.000Z",
+          "wordCount": 1348,
+          "title": "Webinar: Bridge Data Gap Between Marketing and Sales with Mailchimp and CRM Integration!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/from-applied-math-to-power-platform-mastery-drew-poggemanns-journey-with-mentorship-ai-innovat-youtube",
+          "author": "NZ365Guy",
+          "description": "From Applied Math to Power Platform Mastery: Drew Poggemann’s Journey with Mentorship, AI Innovat… Send me a Text Message here (https://www.buzzsprout.com/twilio/text_messages/1796418/open_sms) From COBOL to AI co-pilots! Join Drew Poggemann, a Microsoft MVP, as he shares his tech evolution, career highlights, and how mentorship shaped his path. Don’t miss out on this inspiring episode! 🔴 For […]",
+          "link": "https://365community.online/from-applied-math-to-power-platform-mastery-drew-poggemanns-journey-with-mentorship-ai-innovat-youtube",
+          "publishedOn": "2024-10-30T18:27:19.000Z",
+          "wordCount": 1881,
+          "title": "From Applied Math to Power Platform Mastery: Drew Poggemann’s Journey with Mentorship, AI Innovat… – YouTube",
+          "imageUrl": null
+        },
         {
           "id": "https://365community.online/using-extended-texts-in-microsoft-dynamics-365-business-central-create-a-purchasing-transaction-with-manually-added-extended-texts",
           "author": "Ian Grieve",
@@ -36451,6 +36541,16 @@
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
         {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/10/31/microsoft-named-a-leader-in-the-2024-gartner-magic-quadrant-for-sales-force-automation-platforms/",
+          "author": "Jeff Comstock",
+          "description": "Microsoft has been recognized as a Leader in the 2024 Magic Quadrant for Sales Force Automation for the fourteenth consecutive year.\nThe post Microsoft named a Leader in the 2024 Gartner® Magic Quadrant™ for Sales Force Automation Platforms   appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/10/31/microsoft-named-a-leader-in-the-2024-gartner-magic-quadrant-for-sales-force-automation-platforms/",
+          "publishedOn": "2024-10-31T15:00:00.000Z",
+          "wordCount": 3836,
+          "title": "Microsoft named a Leader in the 2024 Gartner® Magic Quadrant™ for Sales Force Automation Platforms",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/10/377376-social-image.png"
+        },
+        {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/10/30/migrate-from-customer-service-hub-to-customer-service-workspace/",
           "author": "Kos Srivastava",
           "description": "Starting February 2025, new Customer Service customers with Enterprise licenses will only see the Customer Service workspace app. The Customer Service Hub (CSH) app will no longer be available for all new organizations with Enterprise licenses.   The recent release wave introduced an exciting set of new features to help support representatives be more productive. Dynamics\nThe post Migrate from Customer Service Hub to Customer Service workspace   appeared first on Microsoft Dynamics 365 Blog.",
@@ -37977,6 +38077,16 @@
       "feedUrl": "https://dev.goshoom.net/feed/",
       "siteUrl": "https://dev.goshoom.net",
       "articles": [
+        {
+          "id": "https://dev.goshoom.net/?p=10043",
+          "author": "Martin Dráb",
+          "description": "In the previous post, I explained that duplicating application elements is expensive and we should avoid it whenever possible. Let me mention a few techniques that you could use. Obviously, you can create metadata extensions, use Chain of Command for methods, subscribe to events and so on; I’m assuming that you all know that. What ...\nContinue reading ‘Avoiding code duplication in F&O’ »",
+          "link": "https://dev.goshoom.net/2024/10/avoiding-code-duplication-in-fo/",
+          "publishedOn": "2024-10-31T13:33:21.000Z",
+          "wordCount": 1423,
+          "title": "Avoiding code duplication in F&O",
+          "imageUrl": null
+        },
         {
           "id": "https://dev.goshoom.net/?p=10040",
           "author": "Martin Dráb",
