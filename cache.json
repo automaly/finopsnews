@@ -765,16 +765,6 @@
           "wordCount": 1250,
           "title": "Improve the speed for BACPAC database restore from Tier2 to Tier1",
           "imageUrl": "https://denistrunin.com/static/653dbf3cbdb2dbc80c10f7b9ce323a10/1a02d/logo.png"
-        },
-        {
-          "id": "https://denistrunin.com/performanceD365-tierperf/",
-          "author": null,
-          "description": "The blog post describes performance differences between various environments Tiers in D365FO.",
-          "link": "https://denistrunin.com/performanceD365-tierperf/",
-          "publishedOn": "2022-11-03T22:12:03.000Z",
-          "wordCount": 1518,
-          "title": "Understanding Dynamics 365FO different Tiers performance",
-          "imageUrl": "https://denistrunin.com/static/11267db03d577bf68f4e9e635b3a25ef/c972b/logo.png"
         }
       ]
     },
@@ -15495,6 +15485,26 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/copilot-no-powerpoint-crie-apresentacoes-incriveis-em-poucos-minutos-youtube",
+          "author": "Saulo Soares Oliveira",
+          "description": "Nesse video vamos ver na prática todo o poder do copilot no powerpoint para criar apresentações sobre qualquer assunto em poucos minutos. ♐ Adquira meu curso na Udemy e aprenda SharePoint, Power Apps e Power Automate do zero. https://www.udemy.com/course/aprenda-sharepoint-do-zero-com-foco-no-negocio/?referralCode=34B700C89A7463BD0A00 ♐ Quer aprender SharePoint Framework(SPFx)? Adquira meu curso na Udemy e aprenda a criar aplicações SPA. […]",
+          "link": "https://365community.online/copilot-no-powerpoint-crie-apresentacoes-incriveis-em-poucos-minutos-youtube",
+          "publishedOn": "2024-11-02T14:10:54.000Z",
+          "wordCount": 1040,
+          "title": "Copilot no PowerPoint – Crie apresentações incríveis em poucos minutos – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/dataverse-image-fields-not-copiyng-in-full-resolution-using-the-xrmtoolbox-datatransporter-power-automate-to-the-rescue",
+          "author": "michelcarlo",
+          "description": "When moving data from a custom Table I created to store Rich Text Images into another environment using the XRMToolbox data transporter, I noted the images looked blurry: Checking the image size, it’s only a small image (like a few KB) when the original image had more than 200kb in size. So I wondered, what […]",
+          "link": "https://365community.online/dataverse-image-fields-not-copiyng-in-full-resolution-using-the-xrmtoolbox-datatransporter-power-automate-to-the-rescue",
+          "publishedOn": "2024-11-02T08:44:00.000Z",
+          "wordCount": 1248,
+          "title": "Dataverse Image fields not copiyng in full resolution using the XRMToolBox DataTransporter? Power Automate to the rescue!",
+          "imageUrl": null
+        },
         {
           "id": "https://365community.online/using-extended-texts-in-microsoft-dynamics-365-business-central-create-a-sales-transaction-with-manually-added-extended-texts",
           "author": "Ian Grieve",
@@ -36651,6 +36661,16 @@
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
         {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/10/31/the-next-chapter-for-the-schedule-board-enhanced-usability-and-performance/",
+          "author": "Ryan Chen",
+          "description": "Today, we are thrilled to unveil the dramatically enhanced Schedule Board on Universal Resource Scheduling. At the core of this update, we are moving from the legacy ExtJS to a modern React component for the schedule board. Our guiding principle for this upgrade has been visual parity. The Resource panel, Requirements panel, Filters, and Views are all exactly as you know and love. But look closer, and you’ll discover the subtle enhancements we've made based on your valued feedback.\nThe post The next chapter for the Schedule Board: Enhanced Usability and Performance  appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/10/31/the-next-chapter-for-the-schedule-board-enhanced-usability-and-performance/",
+          "publishedOn": "2024-10-31T19:25:37.000Z",
+          "wordCount": 3069,
+          "title": "The next chapter for the Schedule Board: Enhanced Usability and Performance",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/10/AdobeStock_806912012-scaled.jpeg"
+        },
+        {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/10/31/microsoft-named-a-leader-in-the-2024-gartner-magic-quadrant-for-sales-force-automation-platforms/",
           "author": "Jeff Comstock",
           "description": "Microsoft has been recognized as a Leader in the 2024 Magic Quadrant for Sales Force Automation for the fourteenth consecutive year.\nThe post Microsoft named a Leader in the 2024 Gartner® Magic Quadrant™ for Sales Force Automation Platforms   appeared first on Microsoft Dynamics 365 Blog.",
@@ -39731,6 +39751,16 @@
       "feedUrl": "https://ax.docentric.com/blog/feed/",
       "siteUrl": "https://ax.docentric.com/blog/",
       "articles": [
+        {
+          "id": "https://ax.docentric.com/?p=29337",
+          "author": "Marjeta Dimnik",
+          "description": "The interview with Ana Gligorijević, CEO and Solution Architect at Docentric, was conducted for the magazine PERSPEKTIVE ekonomije i poduzetništva u Europi (Perspectives of Economy and Entrepreneurship in Europe), in October 2024. See the original article in the online version (page 128) >> The Role […]\nThe post PERSPEKTIVE Interview: The Role of Women in IT and Entrepreneurship appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/perspektive-interview-role-of-women-in-it-and-entrepreneurship/",
+          "publishedOn": "2024-10-30T18:38:08.000Z",
+          "wordCount": 13167,
+          "title": "PERSPEKTIVE Interview: The Role of Women in IT and Entrepreneurship",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/11/BLOG_InterviewPerspektiveAG.jpg"
+        },
         {
           "id": "https://ax.docentric.com/?p=29337",
           "author": "Marjeta Dimnik",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-11-02T00:51:20.870Z</updated>
+    <updated>2024-11-03T00:56:02.773Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Copilot no PowerPoint – Crie apresentações incríveis em poucos minutos – YouTube]]></title>
+        <id>https://365community.online/copilot-no-powerpoint-crie-apresentacoes-incriveis-em-poucos-minutos-youtube</id>
+        <link href="https://365community.online/copilot-no-powerpoint-crie-apresentacoes-incriveis-em-poucos-minutos-youtube"/>
+        <updated>2024-11-02T14:10:54.000Z</updated>
+        <summary type="html"><![CDATA[Nesse video vamos ver na prática todo o poder do copilot no powerpoint para criar apresentações sobre qualquer assunto em poucos minutos. ♐ Adquira meu curso na Udemy e aprenda SharePoint, Power Apps e Power Automate do zero. https://www.udemy.com/course/aprenda-sharepoint-do-zero-com-foco-no-negocio/?referralCode=34B700C89A7463BD0A00 ♐ Quer aprender SharePoint Framework(SPFx)? Adquira meu curso na Udemy e aprenda a criar aplicações SPA. […]]]></summary>
+        <author>
+            <name>Saulo Soares Oliveira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dataverse Image fields not copiyng in full resolution using the XRMToolBox DataTransporter? Power Automate to the rescue!]]></title>
+        <id>https://365community.online/dataverse-image-fields-not-copiyng-in-full-resolution-using-the-xrmtoolbox-datatransporter-power-automate-to-the-rescue</id>
+        <link href="https://365community.online/dataverse-image-fields-not-copiyng-in-full-resolution-using-the-xrmtoolbox-datatransporter-power-automate-to-the-rescue"/>
+        <updated>2024-11-02T08:44:00.000Z</updated>
+        <summary type="html"><![CDATA[When moving data from a custom Table I created to store Rich Text Images into another environment using the XRMToolbox data transporter, I noted the images looked blurry: Checking the image size, it’s only a small image (like a few KB) when the original image had more than 200kb in size. So I wondered, what […]]]></summary>
+        <author>
+            <name>michelcarlo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DUG Conferences Coming Up Quick!]]></title>
         <id>https://erpsoftwareblog.com/?p=120345</id>
@@ -147,6 +167,17 @@ Supporting the Entrepreneurs Vision with ERP]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The next chapter for the Schedule Board: Enhanced Usability and Performance]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/10/31/the-next-chapter-for-the-schedule-board-enhanced-usability-and-performance/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/10/31/the-next-chapter-for-the-schedule-board-enhanced-usability-and-performance/"/>
+        <updated>2024-10-31T19:25:37.000Z</updated>
+        <summary type="html"><![CDATA[Today, we are thrilled to unveil the dramatically enhanced Schedule Board on Universal Resource Scheduling. At the core of this update, we are moving from the legacy ExtJS to a modern React component for the schedule board. Our guiding principle for this upgrade has been visual parity. The Resource panel, Requirements panel, Filters, and Views are all exactly as you know and love. But look closer, and you’ll discover the subtle enhancements we've made based on your valued feedback.
+The post The next chapter for the Schedule Board: Enhanced Usability and Performance  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Ryan Chen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Custom Views and Charts in Dynamics 365 CRM]]></title>
         <id>https://www.encorebusiness.com/?p=65517</id>
         <link href="https://www.encorebusiness.com/blog/custom-views-and-charts-in-d365-crm/"/>
@@ -249,6 +280,17 @@ The Business Central Self-Service Reporting Benefit
 Debunking Cloud Reporting Security Myths: How Cosmos Safeguards Your Business]]></summary>
         <author>
             <name>Cosmos Data Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PERSPEKTIVE Interview: The Role of Women in IT and Entrepreneurship]]></title>
+        <id>https://ax.docentric.com/?p=29337</id>
+        <link href="https://ax.docentric.com/perspektive-interview-role-of-women-in-it-and-entrepreneurship/"/>
+        <updated>2024-10-30T18:38:08.000Z</updated>
+        <summary type="html"><![CDATA[The interview with Ana Gligorijević, CEO and Solution Architect at Docentric, was conducted for the magazine PERSPEKTIVE ekonomije i poduzetništva u Europi (Perspectives of Economy and Entrepreneurship in Europe), in October 2024. See the original article in the online version (page 128) >> The Role […]
+The post PERSPEKTIVE Interview: The Role of Women in IT and Entrepreneurship appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Marjeta Dimnik</name>
         </author>
     </entry>
     <entry>
@@ -52438,16 +52480,6 @@ Clear separation of which inventory dimensions can be specified, and when they c
 A typical reservation hierarchy for an item that uses the Site, War…]]></summary>
         <author>
             <name>Max Nguyen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Dynamics 365FO different Tiers performance]]></title>
-        <id>https://denistrunin.com/performanceD365-tierperf/</id>
-        <link href="https://denistrunin.com/performanceD365-tierperf/"/>
-        <updated>2022-11-03T22:12:03.000Z</updated>
-        <summary type="html"><![CDATA[The blog post describes performance differences between various environments Tiers in D365FO.]]></summary>
-        <author>
-            <name>Gatsby RSS Feed</name>
         </author>
     </entry>
     <entry>
