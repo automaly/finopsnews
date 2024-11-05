@@ -2,10 +2,205 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-11-04T00:54:02.654Z</updated>
+    <updated>2024-11-05T00:51:17.651Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Insight Works Proudly Sponsors DynamicsCon Virtual 2024]]></title>
+        <id>https://erpsoftwareblog.com/?p=120452</id>
+        <link href="https://erpsoftwareblog.com/2024/11/insight-works-proudly-sponsors-dynamicscon-virtual-2024/"/>
+        <updated>2024-11-04T23:32:50.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Insight Works is proud to sponsor DynamicsCon Virtual 2024, a leading event for Microsoft Dynamics users, taking place online on November 13, 2024.
+The post Insight Works Proudly Sponsors DynamicsCon Virtual 2024 appeared first on ERP Software Blog.
+Warehouse Insight Now Available for Dynamics 365 Business Central
+How to Choose a Mobile Computer to use with Business Central
+Quote Generation with Product Configurator for Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customize the Real-time Marketing Form form / Form Editor to add field (Dynamics 365 Customer Insights – Journey)]]></title>
+        <id>https://365community.online/customize-the-real-time-marketing-form-form-form-editor-to-add-field-dynamics-365-customer-insights-journey</id>
+        <link href="https://365community.online/customize-the-real-time-marketing-form-form-form-editor-to-add-field-dynamics-365-customer-insights-journey"/>
+        <updated>2024-11-04T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Suppose we want to add the Lead Type (a custom choice field) to the Marketing Form’s form / form settings (RTM). Open the Form table for customization, here we need to add the field to below 2 forms. Starting with the Form Settings form, drag the field to the form. If we check the form […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Seamless Transition from Dynamics GP to Dynamics 365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=120350</id>
+        <link href="https://erpsoftwareblog.com/2024/11/your-seamless-transition-from-dynamics-gp-to-dynamics-365-business-central/"/>
+        <updated>2024-11-04T19:56:43.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In our most recent virtual event, we explored the compelling benefits of migrating from Microsoft Dynamics GP to Dynamics 365 Business Central. The session, led by Tara Cox, demonstrated how […]
+The post Your Seamless Transition from Dynamics GP to Dynamics 365 Business Central appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>TrinSoft, LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[See 4 Top BI and Reporting Solutions for Dynamics 365 Business Central in our MSDW Comparison Showcase]]></title>
+        <id>https://erpsoftwareblog.com/?p=120429</id>
+        <link href="https://erpsoftwareblog.com/2024/11/top-bi-reporting-solutions-dynamics-365-business-central-msdw-comparison-showcase/"/>
+        <updated>2024-11-04T18:24:29.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Today, companies rely heavily on data-driven insights to stay competitive and make informed decisions. Microsoft Dynamics 365 Business Central (NAV) is invaluable for managing data across departments, from finance to sales […]
+The post See 4 Top BI and Reporting Solutions for Dynamics 365 Business Central in our MSDW Comparison Showcase appeared first on ERP Software Blog.
+Get More in the Cloud with Dynamics 365 Business Central
+Join JourneyTEAM's Tech Insider Update Webinar on 8/6
+ASPIRE22 Aims to Provide Roadmap, Resources for Digital Journey]]></summary>
+        <author>
+            <name>ERP Software Blog Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot with Dynamics 365 Business Central: Real-World Applications]]></title>
+        <id>https://erpsoftwareblog.com/?p=120377</id>
+        <link href="https://erpsoftwareblog.com/2024/11/microsoft-copilot-with-dynamics-365-business-central-real-world-applications/"/>
+        <updated>2024-11-04T17:19:47.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Unleash the Power of AI for Business Central Staying a step ahead is more than a competitive edge in today's business landscape — it's a necessity. Microsoft Dynamics 365 Business […]
+The post Microsoft Copilot with Dynamics 365 Business Central: Real-World Applications appeared first on ERP Software Blog.
+Ep 65 | Copilot in Business Central | A Shot of Business Central and A Beer
+Copilot and Dynamics 365 ERP: A Match Made for Efficiency
+ERP Comparison: NetSuite vs. Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Stephanie Clark, Elliott Clark Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 Continuous Updates]]></title>
+        <id>https://365community.online/d365-continuous-updates</id>
+        <link href="https://365community.online/d365-continuous-updates"/>
+        <updated>2024-11-04T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When Microsoft D365 for Finance and Operations came out, one of the major changes was the need to extend code and objects instead of overwriting them directly. This allowed for great benefits. D365 continuous updates allow new hotfixes and features to be applied to the system without overwriting custom development. A massive amount of time… […]]]></summary>
+        <author>
+            <name>Peter Ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 Continuous Updates]]></title>
+        <id>https://dynamics365musings.com/?p=3948</id>
+        <link href="https://dynamics365musings.com/d365-continuous-updates/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=d365-continuous-updates"/>
+        <updated>2024-11-04T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When Microsoft D365 for Finance and Operations came out, one of the major changes was the need to extend code and objects instead of overwriting them directly. This allowed for great benefits. D365 continuous updates allow new hotfixes and features to be applied to the system without overwriting custom development. A massive amount of time... Continue Reading →
+The post D365 Continuous Updates appeared first on Dynamics 365 Musings.]]></summary>
+        <author>
+            <name>peter.ramer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Ultimate Guide to Selecting the Right Microsoft Dynamics 365 ERP Solution Provider]]></title>
+        <id>https://erpsoftwareblog.com/?p=120404</id>
+        <link href="https://erpsoftwareblog.com/2024/11/your-ultimate-guide-to-selecting-the-right-microsoft-dynamics-365-erp-solution-provider/"/>
+        <updated>2024-11-04T13:37:18.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+An ERP system goes beyond resource management and process coordination. It’s the foundation of your business’s digital strategy. The challenge, though, is that finding the right Microsoft Dynamics 365 ERP […]
+The post Your Ultimate Guide to Selecting the Right Microsoft Dynamics 365 ERP Solution Provider appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Korcomptenz Inc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time to Upgrade to Windows 11: Here’s Why]]></title>
+        <id>https://www.encorebusiness.com/?p=65566</id>
+        <link href="https://www.encorebusiness.com/blog/time-to-upgrade-to-windows-11-heres-why/"/>
+        <updated>2024-11-04T13:25:08.000Z</updated>
+        <summary type="html"><![CDATA[Time to Upgrade to Windows 11: Here’s Why
+Microsoft has announced that Windows 10 will no longer be supported in October 2025. At Encore, we strongly recommend that all our customers upgrade to Windows 11 before October 2025. That recommendation is based on the information outlined in this article. Windows 10 Reaching End of Support Windows 10 will reach end of support in...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Chris Doucette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Enable SharePoint Integration with D365 CE – YouTube]]></title>
+        <id>https://365community.online/how-to-enable-sharepoint-integration-with-d365-ce-youtube</id>
+        <link href="https://365community.online/how-to-enable-sharepoint-integration-with-d365-ce-youtube"/>
+        <updated>2024-11-04T10:30:21.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you’ll learn how to enable SharePoint integration with Microsoft Dynamics 365 Customer Engagement. We’ll walk you through step-by-step instructions to set up the integration and automatically create SharePoint folders for your records. This powerful feature allows you to manage documents seamlessly within Dynamics 365, enhancing your document management capabilities. Whether you’re new […]]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: why not start supporting the JSON data type for table fields?]]></title>
+        <id>https://365community.online/dynamics-365-business-central-why-not-start-supporting-the-json-data-type-for-table-fields</id>
+        <link href="https://365community.online/dynamics-365-business-central-why-not-start-supporting-the-json-data-type-for-table-fields"/>
+        <updated>2024-11-04T10:01:33.000Z</updated>
+        <summary type="html"><![CDATA[In the last months I worked on some cloud-based applications that uses Azure SQL as backend (details not relevant here) and that uses JSON documents extensively. Doing that I’m increasingly inclined to revive an old idea that I had already shared here in the past: why not supporting the JSON data type for table fields […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Microsoft Dynamics 365 Business Central Transforms Business Management]]></title>
+        <id>https://erpsoftwareblog.com/?p=120386</id>
+        <link href="https://erpsoftwareblog.com/2024/11/how-microsoft-dynamics-365-business-central-transforms-business-management/"/>
+        <updated>2024-11-04T09:26:00.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Dynamics 365 Business Central is a comprehensive cloud-based ERP solution tailored for small and medium-sized businesses. It offers a full suite of tools for managing finances, supply chains, sales, service […]
+The post How Microsoft Dynamics 365 Business Central Transforms Business Management appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central vs QuickBooks
+Popular Coffee Chain Automates Its Distribution and Financial Processes with Microsoft Dynamics Business Central
+Streamline Your Make to Order Supply Chain Automation in Dynamics 365]]></summary>
+        <author>
+            <name>Intelegain Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create an Effective Business Process Flow in Dynamics 365 – YouTube]]></title>
+        <id>https://365community.online/how-to-create-an-effective-business-process-flow-in-dynamics-365-youtube</id>
+        <link href="https://365community.online/how-to-create-an-effective-business-process-flow-in-dynamics-365-youtube"/>
+        <updated>2024-11-04T07:30:08.000Z</updated>
+        <summary type="html"><![CDATA[In this video, you’ll discover the essentials of Business Process Flows in Dynamics 365. We’ll guide you through the creation of a new Business Process Flow, demonstrating how to add new stages, data steps, and conditions to streamline your workflows. Whether you’re a beginner or looking to enhance your skills, this tutorial will provide you […]]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detection of code upgrade conflicts in F&O]]></title>
+        <id>https://dev.goshoom.net/?p=10042</id>
+        <link href="https://dev.goshoom.net/2024/11/detection-of-code-upgrade-conflicts-in-fo/"/>
+        <updated>2024-11-04T06:55:44.000Z</updated>
+        <summary type="html"><![CDATA[When you overlayered an application element (e.g. a method or a form) in Dynamics AX, a copy was saved in a higher layer. You modified the object there, therefore you ended up with two copies of the same element – the original one in a lower layer (such as SYS) and your modified one in ...
+Continue reading ‘Detection of code upgrade conflicts in F&O’ »]]></summary>
+        <author>
+            <name>Martin Dráb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Security Role in D365 CE – YouTube]]></title>
+        <id>https://365community.online/how-to-create-security-role-in-d365-ce-youtube</id>
+        <link href="https://365community.online/how-to-create-security-role-in-d365-ce-youtube"/>
+        <updated>2024-11-04T05:00:10.000Z</updated>
+        <summary type="html"><![CDATA[In this video, we explore security roles in Microsoft Dynamics 365 CE. You’ll learn what security roles are, how to create a new security role, and how to manage existing roles to ensure proper user access and permissions. This guide is perfect for beginners and anyone looking to enhance their understanding of D365 CE security […]]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part 7: How to Create & Transform XML File Project in Mule 4? | MuleSoft Tutorial | MindMajix – YouTube]]></title>
+        <id>https://365community.online/part-7-how-to-create-transform-xml-file-project-in-mule-4-mulesoft-tutorial-mindmajix-youtube</id>
+        <link href="https://365community.online/part-7-how-to-create-transform-xml-file-project-in-mule-4-mulesoft-tutorial-mindmajix-youtube"/>
+        <updated>2024-11-03T10:30:02.000Z</updated>
+        <summary type="html"><![CDATA[In this MuleSoft tutorial for beginners, you’ll master XML file project processing with MuleSoft Dataweave. We’ll delve into XML basics, create XML files using DataWeave, transform XML structures, implement robust error handling, and explore real-world use cases. 🔥 To become Certified MuleSoft Developer then then enroll in MuleSoft Training: https://mindmajix.com/mulesoft-training?utm_source=youtube&utm_medium=video&utm_campaign=promotion 🔵 What is MuleSoft? MuleSoft […]]]></summary>
+        <author>
+            <name>365 Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Galactic Interview Battle: Yoda vs. Darth Vader]]></title>
         <id>http://dynamicsax-fico.com/?p=6860</id>
@@ -34,6 +229,21 @@
         <summary type="html"><![CDATA[When moving data from a custom Table I created to store Rich Text Images into another environment using the XRMToolbox data transporter, I noted the images looked blurry: Checking the image size, it’s only a small image (like a few KB) when the original image had more than 200kb in size. So I wondered, what […]]]></summary>
         <author>
             <name>michelcarlo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maximizing Shipping Efficiency with Multi-Carrier Support]]></title>
+        <id>https://erpsoftwareblog.com/?p=120356</id>
+        <link href="https://erpsoftwareblog.com/2024/11/maximizing-shipping-efficiency-with-multi-carrier-support/"/>
+        <updated>2024-11-01T19:56:55.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+When your company expands, your supply chain operations must also grow to manage increased shipping volumes. Optimizing supply chain logistics is crucial due to the significant impact shipping can have […]
+The post Maximizing Shipping Efficiency with Multi-Carrier Support appeared first on ERP Software Blog.
+Five Ways to Make Your Supply Chain More Dynamic
+Supply Chain Management in Microsoft Dynamics 365 Business Central
+TrinSoft Introduces TrinAuto Mfg - Automotive Manufacturing & Supply Chain Management Solution]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
         </author>
     </entry>
     <entry>
@@ -265,6 +475,21 @@ EDI Integration with ERP: What are Your Choices? (Explained with Scenarios)]]></
         <summary type="html"><![CDATA[Crafting a Personal Brand That Speaks for Itself source]]></summary>
         <author>
             <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Data to Decisions: The Role of Business Performance Analytics in Microsoft Dynamics 365 Finance]]></title>
+        <id>https://erpsoftwareblog.com/?p=120223</id>
+        <link href="https://erpsoftwareblog.com/2024/10/from-data-to-decisions-the-role-of-business-performance-analytics-in-microsoft-dynamics-365-finance/"/>
+        <updated>2024-10-31T06:47:43.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Finance and operations departments often struggle to collect, process, and analyze the enormous amounts of data generated daily. Outdated data sources and fragmented tools significantly impact their productivity, hindering their ability […]
+The post From Data to Decisions: The Role of Business Performance Analytics in Microsoft Dynamics 365 Finance appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Synoptek</name>
         </author>
     </entry>
     <entry>
