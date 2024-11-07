@@ -1502,6 +1502,56 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=120533",
+          "author": "Caf2Code LLC",
+          "description": "xxx\n\"I'm so frustrated! And now there is another license! What does premium even mean?\" I've heard this more than once dealing with D365 licenses. So, let's get back to basics. […]\nThe post Dynamics 365 Licensing 101 - Finance Edition appeared first on ERP Software Blog.\nWant to provide equipment and its status directly to each depot manager and take proper action immediately?\nHow to improve efficiency with crane rental software\nStreamline Your Make to Order Supply Chain Automation in Dynamics 365",
+          "link": "https://erpsoftwareblog.com/2024/11/dynamics-365-licensing-101-finance-edition/",
+          "publishedOn": "2024-11-06T20:44:55.000Z",
+          "wordCount": 6746,
+          "title": "Dynamics 365 Licensing 101 - Finance Edition",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/D365-license-Caf2Code.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=120325",
+          "author": "Insight Works",
+          "description": "xxx\nInsight Works onboarded 12 Microsoft Partners in September, enhancing global support for manufacturing and distribution solutions for Dynamics 365 Business Central.\nThe post Insight Works Welcomes 12 Microsoft Partners to Enhance Business Central Solutions appeared first on ERP Software Blog.\nWarehouse Insight Now Available for Dynamics 365 Business Central\nHow to Choose a Mobile Computer to use with Business Central\nQuote Generation with Product Configurator for Business Central",
+          "link": "https://erpsoftwareblog.com/2024/11/insight-works-welcomes-12-microsoft-partners-to-enhance-business-central-solutions/",
+          "publishedOn": "2024-11-06T15:35:38.000Z",
+          "wordCount": 6769,
+          "title": "Insight Works Welcomes 12 Microsoft Partners to Enhance Business Central Solutions",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Microsoft-Partner-3.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=120503",
+          "author": "DynaTech Systems",
+          "description": "xxx\nThe imperative to minimize waste in the global food processing industry has reached a critical juncture, with both economic and environmental considerations at stake. With increasing consumer awareness, stringent regulatory […]\nThe post Smart Solutions: Technology's Crucial Role in Tackling Waste Challenges in Food Processing appeared first on ERP Software Blog.\nWhat, No Coffee Stains? SmartBOL Removes All Bill of Lading Paperwork\nVideo Testimonial: Clients First & Dynamics NAV, Keeping the Railroads Moving\nCommunication - the key to a smarter supply chain",
+          "link": "https://erpsoftwareblog.com/2024/11/smart-solutions-technologys-crucial-role-in-tackling-waste-challenges-in-food-processing/",
+          "publishedOn": "2024-11-06T09:23:07.000Z",
+          "wordCount": 7399,
+          "title": "Smart Solutions: Technology's Crucial Role in Tackling Waste Challenges in Food Processing",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Technologys-Crucial-Role-in-Tackling-Waste-Challenges-in-Food-Processing-01-3-scaled.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=120509",
+          "author": "Dynamics Square USA",
+          "description": "xxx\nIn the education domain, institutions face numerous challenges, from managing administrative tasks to enhancing student engagement and outcomes. No wonder there is a huge demand for ERP solutions.   The size […]\nThe post Microsoft Dynamics 365 for Education: Transform the Education Sector  appeared first on ERP Software Blog.\nWhat Role Will AI Play in Inventory Planning and Sales and Operations Planning?\nSupercharge Your Workflow: Unleashing Copilot's Power in the Microsoft 365 Universe\nAchieve more than ever with AI & Copilot for Microsoft 365",
+          "link": "https://erpsoftwareblog.com/2024/11/microsoft-dynamics-365-for-education/",
+          "publishedOn": "2024-11-06T08:58:20.000Z",
+          "wordCount": 7608,
+          "title": "Microsoft Dynamics 365 for Education: Transform the Education Sector",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-365-for-education.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=120506",
+          "author": "Intelegain Technologies",
+          "description": "xxx\nAre you a growing business seeking to streamline operations like finance, sales, and more? The Microsoft ERP Solution provides a comprehensive set of tools designed to manage essential functions such […]\nThe post A Comprehensive Guide to Microsoft ERP Solutions for 2024 appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central vs QuickBooks\nPopular Coffee Chain Automates Its Distribution and Financial Processes with Microsoft Dynamics Business Central\nStreamline Your Make to Order Supply Chain Automation in Dynamics 365",
+          "link": "https://erpsoftwareblog.com/2024/11/a-comprehensive-guide-to-microsoft-erp-solutions-for-2024/",
+          "publishedOn": "2024-11-06T08:43:59.000Z",
+          "wordCount": 7273,
+          "title": "A Comprehensive Guide to Microsoft ERP Solutions for 2024",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=120370",
           "author": "FYIsoft, Inc.",
           "description": "xxx\nIf you’re a CFO considering moving from Dynamics GP to Microsoft Business Central (BC), it’s understandable to feel a bit hesitant. Transitioning to new technology can be daunting, especially when […]\nThe post A No-Pain Transition from Dynamics GP and Management Reporter to Business Central with FYIsoft appeared first on ERP Software Blog.\nDeFacto Global Named Top-Rated Corporate Performance Management Vendor For 2021\nSee The Top Auto-Create Dimensions Tool for Microsoft Dynamics 365 Business Central for Powerful Reporting\nJoin Us At Dynamic Communities Summit - Booth 800",
@@ -15675,6 +15725,106 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/how-to-use-datedif-formula-in-excel-how-to-calculate-age-in-excel-exceltips-shorts-mindmajix-youtube",
+          "author": null,
+          "description": "The DATEDIF formula in excel makes it easy to find the time between two dates, whether in days, months, or years. In this #short we’ll guide you step-by-step on how to use the DATEDIF function to streamline your data calculations and save time on complex date formulas. Datasets we used in this video: https://docs.google.com/spreadsheets/d/1P-KQYBqvFvDXtYjru6XnlQzXMGOIgvgF/edit?usp=drive_link&ouid=102714100490238362159&rtpof=true&sd=true ⏩ […]",
+          "link": "https://365community.online/how-to-use-datedif-formula-in-excel-how-to-calculate-age-in-excel-exceltips-shorts-mindmajix-youtube",
+          "publishedOn": "2024-11-06T13:25:00.000Z",
+          "wordCount": 1160,
+          "title": "How to Use DATEDIF Formula in Excel? | How to Calculate Age in Excel? #exceltips #shorts | MindMajix – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/how-to-create-and-configure-email-templates-in-dynamics-365-ce-youtube",
+          "author": "Manish chauhan",
+          "description": "In this detailed tutorial, we guide you through the process of configuring email templates in Dynamics 365 Customer Engagement (CE). Learn the importance of email templates, how to create customized ones, and how to streamline communication within your organization. Whether you’re a beginner or an experienced user, this video will help you enhance your email […]",
+          "link": "https://365community.online/how-to-create-and-configure-email-templates-in-dynamics-365-ce-youtube",
+          "publishedOn": "2024-11-06T12:37:55.000Z",
+          "wordCount": 1056,
+          "title": "How to Create and Configure Email Templates in Dynamics 365 CE – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/missing-dependencies-error-for-primary-name-column-of-tables-created-in-table-visual-designer-experience",
+          "author": "Linn Zaw Win",
+          "description": "With the recent introduction of the new table visual designer in Power Apps, creating tables has become a streamlined, intuitive process. Accessible through make.powerapps.com, this designer provides an Entity-Relationship Diagram (ERD) experience, allowing users to define tables by simply describing their needs to Copilot. Additionally, it enables importing data… Continue Reading Linn Zaw Win’s Article […]",
+          "link": "https://365community.online/missing-dependencies-error-for-primary-name-column-of-tables-created-in-table-visual-designer-experience",
+          "publishedOn": "2024-11-06T12:18:00.000Z",
+          "wordCount": 1077,
+          "title": "Missing Dependencies Error for Primary Name Column of Tables Created in Table Visual Designer Experience",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/dynamics-365-business-central-project-yellowstone-is-here",
+          "author": "Stefano Demiliani",
+          "description": "With Dynamics 365 Business Central version 25.1 Microsoft has silently officially released the so called “Project Yellowstone“, alias a set of embedded Power BI apps and reports that significantly enhances the KPIs and BI reporting inside the application. Project Yellowstone was publicly announced at Directions EMEA today, so I can now say you something more […]",
+          "link": "https://365community.online/dynamics-365-business-central-project-yellowstone-is-here",
+          "publishedOn": "2024-11-06T09:40:59.000Z",
+          "wordCount": 1076,
+          "title": "Dynamics 365 Business Central: Project Yellowstone is here…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/how-to-send-bulk-email-with-email-templates-youtube",
+          "author": "Manish chauhan",
+          "description": "In this video, we’ll guide you through the process of sending bulk emails using email templates in Dynamics 365 CE. Learn how to effectively manage and streamline your communication with customers, ensuring a personalized and efficient outreach. Discover the power of email templates to enhance consistency and save time, while sending targeted campaigns in bulk. […]",
+          "link": "https://365community.online/how-to-send-bulk-email-with-email-templates-youtube",
+          "publishedOn": "2024-11-06T07:30:11.000Z",
+          "wordCount": 1045,
+          "title": "How to send Bulk Email with  Email Templates – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/sharepoint-metadata-enhance-document-searchability-in-dynamics-365-crm-integration",
+          "author": "Inogic",
+          "description": "Organizations today face the challenge of managing vast amounts of information, making it difficult to efficiently organize, access, and retrieve files. Without a structured approach, employees often struggle to find the right documents, leading to wasted time and decreased productivity. This cluttered data environment hampers collaboration and makes it challenging to track the sources of […]",
+          "link": "https://365community.online/sharepoint-metadata-enhance-document-searchability-in-dynamics-365-crm-integration",
+          "publishedOn": "2024-11-06T07:13:09.000Z",
+          "wordCount": 1336,
+          "title": "SharePoint Metadata – Enhance document searchability in Dynamics 365 CRM integration!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/full-stack-net-developer-roadmap-youtube",
+          "author": "Sourav Raj",
+          "description": "Full Stack .NET developer roadmap Are you ready to become a Full Stack .NET Developer? 🚀 In this video, we’ll guide you through everything you need to know to kickstart your journey in full stack development with .NET. From setting up your development environment to building a complete application, we’ll cover: Whether you’re a beginner […]",
+          "link": "https://365community.online/full-stack-net-developer-roadmap-youtube",
+          "publishedOn": "2024-11-06T06:30:29.000Z",
+          "wordCount": 1503,
+          "title": "Full Stack .NET developer roadmap – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/ibm-datastage-training-and-certification-course-datastage-ibmdatastagetraining-shorts-mindmajix-youtube",
+          "author": null,
+          "description": "This DataStage training and certification course will help you learn and work on various use-case scenarios of DataStage implementations and become you a job-ready. 🔥To learn DataStage course enroll here: https://mindmajix.com/datastage-training?utm_source=youtube&utm_medium=video&utm_campaign=promotion ✅ About MindMajix’s DataStage Training: MindMajix offers comprehensive instructor-led Live Online or On-demand video-based Training or Classroom Training on IBM DataStage. This training program […]",
+          "link": "https://365community.online/ibm-datastage-training-and-certification-course-datastage-ibmdatastagetraining-shorts-mindmajix-youtube",
+          "publishedOn": "2024-11-06T05:30:14.000Z",
+          "wordCount": 1288,
+          "title": "IBM DataStage Training and Certification Course #datastage #ibmdatastagetraining #shorts | MindMajix – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/what-are-calculated-fields-and-how-to-create-them-in-dynamics-365-ce-youtube",
+          "author": "Manish chauhan",
+          "description": "In this video, we will explore what calculated fields are in Dynamics 365 CE and how to create them for automating business logic. Learn how these fields can dynamically calculate values based on existing data within your system, making data management more efficient. We’ll walk you through the steps of setting up calculated fields to […]",
+          "link": "https://365community.online/what-are-calculated-fields-and-how-to-create-them-in-dynamics-365-ce-youtube",
+          "publishedOn": "2024-11-06T05:00:03.000Z",
+          "wordCount": 1050,
+          "title": "What Are Calculated Fields and How to Create Them in Dynamics 365 CE – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/the-best-way-to-master-microsoft-dev-box-key-concepts-youtube",
+          "author": "shabaz darr",
+          "description": "Looking to master Microsoft Dev Box key concepts, including Dev Box Pool and Dev Box? Watch this video for the best tips and strategies! Episode Breakdown: 00:00 – Episode Introduction 00:49 – Episode Breakdown 01:07 – Dev Box Pools 01:32 – Dev Box 02:08 – Demo: Continued Dev Box deployment Shabaz LinkedIn – https://www.linkedin.com/in/shabaz-darr-900b8361/ Shabaz […]",
+          "link": "https://365community.online/the-best-way-to-master-microsoft-dev-box-key-concepts-youtube",
+          "publishedOn": "2024-11-06T04:00:08.000Z",
+          "wordCount": 1026,
+          "title": "The BEST Way to Master Microsoft Dev Box Key Concepts – YouTube",
+          "imageUrl": null
+        },
         {
           "id": "https://365community.online/maximise-storage-usage-using-allocate-capacity-preview-in-dataverse-dynamics-365",
           "author": "Nishant Rana",
@@ -40180,6 +40330,26 @@
           "wordCount": 11493,
           "title": "Meet Us at Community Summit NA 2024 in San Antonio",
           "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/10/D365Blog-Docentric-proud-sponsor-CSNA2024-main.png"
+        },
+        {
+          "id": "https://ax.docentric.com/?p=29454",
+          "author": "Semir Teskeredžić",
+          "description": "Invoices and emailing go hand in hand for the majority of companies using D365FO. They set up batch job for posting and printing invoices, configure the Print management as Email print destination and voila! Every invoice is e-mailed to the matching customer. But sometimes that's […]\nThe post Invoices and Emailing, Inseparable Friends appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/invoices-and-emailing-inseparable-friends/",
+          "publishedOn": "2024-10-06T10:47:00.000Z",
+          "wordCount": 11552,
+          "title": "Invoices and Emailing, Inseparable Friends",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/11/D365Blog-Digiton2024-Invoices-and-emailing-inseparable-friends.png"
+        },
+        {
+          "id": "https://ax.docentric.com/?p=29459",
+          "author": "Jovica Zivkovic",
+          "description": "Transactional Reporting in D365FO enables creating public facing documents but also internal reports. The technologies available in D365FO to support transactional reporting are SSRS, ER/Business Documents, Export to Word and Excel. SSRS requires code customization, while Electronic Reporting and Export to Word and Excel are […]\nThe post SSRS, Electronic Reporting or Export to Word and Excel: Which to use and When appeared first on Docentric AX.",
+          "link": "https://ax.docentric.com/ssrs-electronic-reporting-or-export-to-word-and-excel-which-to-use-and-when/",
+          "publishedOn": "2024-10-05T11:08:44.000Z",
+          "wordCount": 11615,
+          "title": "SSRS, Electronic Reporting or Export to Word and Excel: Which to use and When",
+          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/11/D365Blog-Digiton2024-SSRS-reporting-or-excel.png"
         },
         {
           "id": "https://ax.docentric.com/?p=29061",
