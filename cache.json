@@ -284,26 +284,6 @@
           "wordCount": 252,
           "title": "Extend on-hand inventory entities FinOps",
           "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
-        },
-        {
-          "id": "https://dynamics365.github.io/2022-11-09-reservation-and-on-hand-inventory-in-warehouse-management/",
-          "author": "Max Nguyen",
-          "description": "1. Inventory reservation hierarchy in Warehouse management\nThe reservation functionality can be used only for items that are enabled for warehouse management processes. However, if an item is itself enabled for warehouse management processes, it can be used both in warehouses that are enabled for warehouse management processes and warehouses that are not. The behavior in reservation scenarios is different, depending on the warehouse setup.\nThe functionality is built on reservation hierarchies and is intended to support the following:\nFlexible warehouse operations.\nPostponement of reservation details.\nClear separation of which inventory dimensions can be specified, and when they can be specified.\n1.1 Reservation hierarchies\nA typical reservation hierarchy for an item that uses the Site, War…",
-          "link": "https://dynamics365.github.io/2022-11-09-reservation-and-on-hand-inventory-in-warehouse-management/",
-          "publishedOn": "2022-11-09T00:00:00.000Z",
-          "wordCount": 2409,
-          "title": "Reservation and on-hand inventory in warehouse management",
-          "imageUrl": "https://dynamics365.github.io/2022-11-09-reservation-and-on-hand-inventory-in-warehouse-management/2022-11-15_14h27_10.png"
-        },
-        {
-          "id": "https://nuxulu.com/2022-11-09-reservation-and-on-hand-inventory-in-warehouse-management/",
-          "author": "Max Nguyen",
-          "description": "1. Inventory reservation hierarchy in Warehouse management\nThe reservation functionality can be used only for items that are enabled for warehouse management processes. However, if an item is itself enabled for warehouse management processes, it can be used both in warehouses that are enabled for warehouse management processes and warehouses that are not. The behavior in reservation scenarios is different, depending on the warehouse setup.\nThe functionality is built on reservation hierarchies and is intended to support the following:\nFlexible warehouse operations.\nPostponement of reservation details.\nClear separation of which inventory dimensions can be specified, and when they can be specified.\n1.1 Reservation hierarchies\nA typical reservation hierarchy for an item that uses the Site, War…",
-          "link": "https://nuxulu.com/2022-11-09-reservation-and-on-hand-inventory-in-warehouse-management/",
-          "publishedOn": "2022-11-09T00:00:00.000Z",
-          "wordCount": 2408,
-          "title": "Reservation and on-hand inventory in warehouse management",
-          "imageUrl": "https://nuxulu.com/2022-11-15_14h27_10.png"
         }
       ]
     },
@@ -1501,6 +1481,66 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=120587",
+          "author": "NAVtoBC",
+          "description": "xxx\nIs Microsoft Dynamics NAV reliable? Absolutely—it’s been the loyal workhorse of your business for years. But let’s face it: in today’s digital world, NAV is starting to feel more like […]\nThe post The Lifeless ERP Conundrum: Upgrade NAV to Business Central or Move On? appeared first on ERP Software Blog.\nReasons to migrate Dynamics NAV to Business Central Online\nNavigating the Upgrade: Steps to Move from Dynamics NAV to Business Central\nStop Procrastinating a Move to the Cloud: Overcoming the 7 Common Hurdles of Upgrading from NAV to Business Central",
+          "link": "https://erpsoftwareblog.com/2024/11/upgrade-nav-to-business-central-or-move-on/",
+          "publishedOn": "2024-11-07T22:01:17.000Z",
+          "wordCount": 7563,
+          "title": "The Lifeless ERP Conundrum: Upgrade NAV to Business Central or Move On?",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/The-Dead-ERP-Walking-ConundrumHeader.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=119935",
+          "author": "Marco Romano",
+          "description": "xxx\nIn a D365 F&O implementation, your support team are the specialists who keep the instruments sharp.\nThe post Your D365 F&O Project Team: Champs or Chumps? (Part 3) appeared first on ERP Software Blog.\nThe Product-as-a-Service advantage — a potential game-changer for equipment manufacturers\nRegister Now for JourneyTEAM’s 2021 Business Technology Summit\nEDI Integration with ERP: What are Your Choices? (Explained with Scenarios)",
+          "link": "https://erpsoftwareblog.com/2024/11/your-d365-fo-project-team-champs-or-chumps-part-3/",
+          "publishedOn": "2024-11-07T12:36:18.000Z",
+          "wordCount": 7337,
+          "title": "Your D365 F&O Project Team: Champs or Chumps? (Part 3)",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ITF-Your-D365-FO-Project-Team-Blog.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=120381",
+          "author": "Dynamics Square AU",
+          "description": "xxx\nImplementing an Enterprise Resource Planning (ERP) system is a significant step for any organization , ERP systems are designed to streamline business processes, improve data accuracy, and enhance decision-making capabilities. […]\nThe post Common Challenges in ERP implementation :Guide by ERP Implementation Partner  how to overcome them appeared first on ERP Software Blog.\nPort of Long Beach, California Selects Dynamics ERP to Improve Customer Service and increase efficiency\nThree Tips for Avoiding the Dirty Data Trap\nFive ERP Implementation Traps you Want to Avoid",
+          "link": "https://erpsoftwareblog.com/2024/11/common-challenges-in-erp-implementation-guide-by-erp-implementation-partner/",
+          "publishedOn": "2024-11-07T10:10:36.000Z",
+          "wordCount": 7308,
+          "title": "Common Challenges in ERP implementation :Guide by ERP Implementation Partner  how to overcome them",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=120568",
+          "author": "Intelegain Technologies",
+          "description": "xxx\nIn today’s competitive business environment, efficiency and staying ahead are more important than ever. Effective financial management and streamlined operations are key to driving success. Microsoft Dynamics 365 Finance and […]\nThe post Streamlining F&O Process with Microsoft Dynamics 365 finance & operations appeared first on ERP Software Blog.\nStreamline Your Make to Order Supply Chain Automation in Dynamics 365\nMicrosoft Dynamics 365 Business Central vs QuickBooks\nPopular Coffee Chain Automates Its Distribution and Financial Processes with Microsoft Dynamics Business Central",
+          "link": "https://erpsoftwareblog.com/2024/11/streamlining-fo-process-with-microsoft-dynamics-365-finance-operations/",
+          "publishedOn": "2024-11-07T09:35:07.000Z",
+          "wordCount": 7274,
+          "title": "Streamlining F&O Process with Microsoft Dynamics 365 finance & operations",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=120275",
+          "author": "Insight Works",
+          "description": "xxx\nThe Advanced Inventory Count app integrates seamlessly with Microsoft Dynamics 365 Business Central, empowering users to streamline inventory and cycle counting processes with multi-user collaboration, barcode integration, and robust reporting features.\nThe post Business Central Users Gain Efficiency with Advanced Inventory Count appeared first on ERP Software Blog.\nBest strategies, insights and techniques for a successful eCommerce implementation\n10 Ways Business Central’s Quality Inspector App Streamlines Quality Assurance\nQuality Inspector v7.17 for Business Central to Streamline Quality Control",
+          "link": "https://erpsoftwareblog.com/2024/11/business-central-users-gain-efficiency-with-advanced-inventory-count/",
+          "publishedOn": "2024-11-07T08:46:18.000Z",
+          "wordCount": 7034,
+          "title": "Business Central Users Gain Efficiency with Advanced Inventory Count",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Advanced-Inventory-Count-250-2.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=120550",
+          "author": "ERP Software Blog Writer",
+          "description": "xxx\nERP Systems for Data-Driven Organizations Which ERP system is right for you? Get the 2025 Top 10 ERP Systems Report for insider insights into the top ERP solutions and niche […]\nThe post 2025 Top 10 ERP Systems Report from Panorama Consulting Group appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve\nMore Than Just a Name Change: The New Microsoft Dynamics 365 Business Central",
+          "link": "https://erpsoftwareblog.com/2024/11/2025-top-10-erp-systems-report-from-panorama-consulting-group/",
+          "publishedOn": "2024-11-07T04:22:14.000Z",
+          "wordCount": 7256,
+          "title": "2025 Top 10 ERP Systems Report from Panorama Consulting Group",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=120533",
           "author": "Caf2Code LLC",
@@ -15725,6 +15765,76 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/batch-class-configuration-overrides-d365fo",
+          "author": "Anitha Santosh",
+          "description": "Implementing a retry mechanism in Finance and Operations Batch enhances fault tolerance by automatically managing temporary errors, ensuring continuous operation without the need for manual intervention By minimizing both downtime and manual involvement, a retry mechanism boosts operational efficiency, allowing batch processing to continue seamlessly, even in the face of occasional errors… Continue Reading AnithaEswaran’s […]",
+          "link": "https://365community.online/batch-class-configuration-overrides-d365fo",
+          "publishedOn": "2024-11-07T21:06:00.000Z",
+          "wordCount": 1060,
+          "title": "Batch class configuration overrides – D365F&O",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/resources-directions-for-partners-emea-2024",
+          "author": "Ana Inés Urrutia",
+          "description": "It's very likely that you are landing here because you are interested in accessing the resources I shared throughout the workshop at Directions for Partners EMEA 2024. Prompts overview | Microsoft Learn Learn about Copilot prompts – Microsoft Support Cooking up a great prompt: Getting the most from Copilot – Microsoft Support Get better results […]",
+          "link": "https://365community.online/resources-directions-for-partners-emea-2024",
+          "publishedOn": "2024-11-07T13:48:45.000Z",
+          "wordCount": 1028,
+          "title": "Resources: Directions for Partners EMEA 2024",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/how-to-configure-email-template-in-dynamics-365-ce-youtube",
+          "author": "Manish chauhan",
+          "description": "In this tutorial, we walk you through the process of creating and configuring email templates in Dynamics 365 Customer Engagement (CE). Learn the step-by-step approach to designing custom email templates that can be reused in your organization for consistent communication. Whether you’re automating notifications, follow-ups, or marketing campaigns, mastering email templates in Dynamics 365 CE […]",
+          "link": "https://365community.online/how-to-configure-email-template-in-dynamics-365-ce-youtube",
+          "publishedOn": "2024-11-07T12:36:22.000Z",
+          "wordCount": 1043,
+          "title": "How to Configure Email Template in Dynamics 365 CE – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/executing-sql-server-stored-procedures-with-power-fx-in-power-apps",
+          "author": "Inogic",
+          "description": "A stored procedure in SQL is a pre-defined collection of SQL commands stored within the database, optimized to enhance execution efficiency and support consistent reuse across applications. It can include various operations such as SELECT, INSERT, UPDATE, or even complex logic involving loops and conditionals. Stored procedures are essential for modularizing code, enhancing performance, and […]",
+          "link": "https://365community.online/executing-sql-server-stored-procedures-with-power-fx-in-power-apps",
+          "publishedOn": "2024-11-07T12:10:34.000Z",
+          "wordCount": 1340,
+          "title": "Executing SQL Server stored procedures with Power FX in Power Apps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-add-branding-to-business-central-by-setting-a-theme",
+          "author": "Ian Grieve",
+          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I familiarise myself with Microsoft Dynamics 365 Business Central. The default look of Business Central is a black title […]",
+          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-add-branding-to-business-central-by-setting-a-theme",
+          "publishedOn": "2024-11-07T11:00:46.000Z",
+          "wordCount": 1142,
+          "title": "In Microsoft Dynamics 365 Business Central (Administration), how do I… Add Branding to Business Central by Setting a Theme",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/how-to-configure-currencies-in-dynamics-365-ce-youtube",
+          "author": "Manish chauhan",
+          "description": "In this video, we’ll walk you through the process of configuring currencies in Dynamics 365 Customer Engagement (CE). You’ll learn how to add new currencies, set exchange rates, and customize currency settings for your organization. We’ll also cover how many currencies you can add and how to edit existing ones. This tutorial is perfect for […]",
+          "link": "https://365community.online/how-to-configure-currencies-in-dynamics-365-ce-youtube",
+          "publishedOn": "2024-11-07T08:30:21.000Z",
+          "wordCount": 1040,
+          "title": "How to Configure Currencies in Dynamics 365 CE – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/how-to-configure-auto-number-in-dynamics-365-ce-youtube",
+          "author": "Manish chauhan",
+          "description": "In this video, we will guide you through the process of configuring the Auto Number feature in Dynamics 365 Customer Engagement (CE). Auto Numbers help streamline data management by automatically assigning unique values to records, eliminating the need for manual entry. Learn how to set up templates, specify prefixes, and manage number formats to ensure […]",
+          "link": "https://365community.online/how-to-configure-auto-number-in-dynamics-365-ce-youtube",
+          "publishedOn": "2024-11-07T05:00:08.000Z",
+          "wordCount": 1044,
+          "title": "How to Configure Auto Number in Dynamics 365 CE – YouTube",
+          "imageUrl": null
+        },
         {
           "id": "https://365community.online/how-to-use-datedif-formula-in-excel-how-to-calculate-age-in-excel-exceltips-shorts-mindmajix-youtube",
           "author": null,
@@ -35940,6 +36050,26 @@
       "feedUrl": "https://anithasantosh.wordpress.com/feed/",
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=3625",
+          "author": "AnithaEswaran",
+          "description": "It is always recommended to clean up the old and ununsed data for better performance of the system. Given below the list of clean up jobs in D365FO system. These cleanup routines should be run only after the business has … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2024/11/07/clean-up-jobs-in-d365fo/",
+          "publishedOn": "2024-11-07T21:39:04.000Z",
+          "wordCount": 4244,
+          "title": "Clean up jobs in D365FO",
+          "imageUrl": "https://anithasantosh.wordpress.com/wp-content/uploads/2024/11/image-11.png"
+        },
+        {
+          "id": "http://anithasantosh.wordpress.com/?p=3616",
+          "author": "AnithaEswaran",
+          "description": "Implementing a retry mechanism in Finance and Operations Batch enhances fault tolerance by automatically managing temporary errors, ensuring continuous operation without the need for manual intervention By minimizing both downtime and manual involvement, a retry mechanism boosts operational efficiency, allowing … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2024/11/07/batch-class-configuration-overrides-d365fo/",
+          "publishedOn": "2024-11-07T21:06:00.000Z",
+          "wordCount": 3142,
+          "title": "Batch class configuration overrides – D365F&O",
+          "imageUrl": "https://anithasantosh.wordpress.com/wp-content/uploads/2024/11/image-1.png"
+        },
         {
           "id": "http://anithasantosh.wordpress.com/?p=3609",
           "author": "AnithaEswaran",

@@ -2,10 +2,190 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-11-07T00:51:08.940Z</updated>
+    <updated>2024-11-08T00:50:55.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Lifeless ERP Conundrum: Upgrade NAV to Business Central or Move On?]]></title>
+        <id>https://erpsoftwareblog.com/?p=120587</id>
+        <link href="https://erpsoftwareblog.com/2024/11/upgrade-nav-to-business-central-or-move-on/"/>
+        <updated>2024-11-07T22:01:17.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Is Microsoft Dynamics NAV reliable? Absolutely—it’s been the loyal workhorse of your business for years. But let’s face it: in today’s digital world, NAV is starting to feel more like […]
+The post The Lifeless ERP Conundrum: Upgrade NAV to Business Central or Move On? appeared first on ERP Software Blog.
+Reasons to migrate Dynamics NAV to Business Central Online
+Navigating the Upgrade: Steps to Move from Dynamics NAV to Business Central
+Stop Procrastinating a Move to the Cloud: Overcoming the 7 Common Hurdles of Upgrading from NAV to Business Central]]></summary>
+        <author>
+            <name>NAVtoBC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clean up jobs in D365FO]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=3625</id>
+        <link href="https://anithasantosh.wordpress.com/2024/11/07/clean-up-jobs-in-d365fo/"/>
+        <updated>2024-11-07T21:39:04.000Z</updated>
+        <summary type="html"><![CDATA[It is always recommended to clean up the old and ununsed data for better performance of the system. Given below the list of clean up jobs in D365FO system. These cleanup routines should be run only after the business has … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Batch class configuration overrides – D365F&O]]></title>
+        <id>https://365community.online/batch-class-configuration-overrides-d365fo</id>
+        <link href="https://365community.online/batch-class-configuration-overrides-d365fo"/>
+        <updated>2024-11-07T21:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Implementing a retry mechanism in Finance and Operations Batch enhances fault tolerance by automatically managing temporary errors, ensuring continuous operation without the need for manual intervention By minimizing both downtime and manual involvement, a retry mechanism boosts operational efficiency, allowing batch processing to continue seamlessly, even in the face of occasional errors… Continue Reading AnithaEswaran’s […]]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Batch class configuration overrides – D365F&O]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=3616</id>
+        <link href="https://anithasantosh.wordpress.com/2024/11/07/batch-class-configuration-overrides-d365fo/"/>
+        <updated>2024-11-07T21:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Implementing a retry mechanism in Finance and Operations Batch enhances fault tolerance by automatically managing temporary errors, ensuring continuous operation without the need for manual intervention By minimizing both downtime and manual involvement, a retry mechanism boosts operational efficiency, allowing … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resources: Directions for Partners EMEA 2024]]></title>
+        <id>https://365community.online/resources-directions-for-partners-emea-2024</id>
+        <link href="https://365community.online/resources-directions-for-partners-emea-2024"/>
+        <updated>2024-11-07T13:48:45.000Z</updated>
+        <summary type="html"><![CDATA[It's very likely that you are landing here because you are interested in accessing the resources I shared throughout the workshop at Directions for Partners EMEA 2024. Prompts overview | Microsoft Learn Learn about Copilot prompts – Microsoft Support Cooking up a great prompt: Getting the most from Copilot – Microsoft Support Get better results […]]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Configure Email Template in Dynamics 365 CE – YouTube]]></title>
+        <id>https://365community.online/how-to-configure-email-template-in-dynamics-365-ce-youtube</id>
+        <link href="https://365community.online/how-to-configure-email-template-in-dynamics-365-ce-youtube"/>
+        <updated>2024-11-07T12:36:22.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we walk you through the process of creating and configuring email templates in Dynamics 365 Customer Engagement (CE). Learn the step-by-step approach to designing custom email templates that can be reused in your organization for consistent communication. Whether you’re automating notifications, follow-ups, or marketing campaigns, mastering email templates in Dynamics 365 CE […]]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your D365 F&O Project Team: Champs or Chumps? (Part 3)]]></title>
+        <id>https://erpsoftwareblog.com/?p=119935</id>
+        <link href="https://erpsoftwareblog.com/2024/11/your-d365-fo-project-team-champs-or-chumps-part-3/"/>
+        <updated>2024-11-07T12:36:18.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In a D365 F&O implementation, your support team are the specialists who keep the instruments sharp.
+The post Your D365 F&O Project Team: Champs or Chumps? (Part 3) appeared first on ERP Software Blog.
+The Product-as-a-Service advantage — a potential game-changer for equipment manufacturers
+Register Now for JourneyTEAM’s 2021 Business Technology Summit
+EDI Integration with ERP: What are Your Choices? (Explained with Scenarios)]]></summary>
+        <author>
+            <name>Marco Romano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Executing SQL Server stored procedures with Power FX in Power Apps]]></title>
+        <id>https://365community.online/executing-sql-server-stored-procedures-with-power-fx-in-power-apps</id>
+        <link href="https://365community.online/executing-sql-server-stored-procedures-with-power-fx-in-power-apps"/>
+        <updated>2024-11-07T12:10:34.000Z</updated>
+        <summary type="html"><![CDATA[A stored procedure in SQL is a pre-defined collection of SQL commands stored within the database, optimized to enhance execution efficiency and support consistent reuse across applications. It can include various operations such as SELECT, INSERT, UPDATE, or even complex logic involving loops and conditionals. Stored procedures are essential for modularizing code, enhancing performance, and […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Administration), how do I… Add Branding to Business Central by Setting a Theme]]></title>
+        <id>https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-add-branding-to-business-central-by-setting-a-theme</id>
+        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-add-branding-to-business-central-by-setting-a-theme"/>
+        <updated>2024-11-07T11:00:46.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I familiarise myself with Microsoft Dynamics 365 Business Central. The default look of Business Central is a black title […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Common Challenges in ERP implementation :Guide by ERP Implementation Partner  how to overcome them]]></title>
+        <id>https://erpsoftwareblog.com/?p=120381</id>
+        <link href="https://erpsoftwareblog.com/2024/11/common-challenges-in-erp-implementation-guide-by-erp-implementation-partner/"/>
+        <updated>2024-11-07T10:10:36.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Implementing an Enterprise Resource Planning (ERP) system is a significant step for any organization , ERP systems are designed to streamline business processes, improve data accuracy, and enhance decision-making capabilities. […]
+The post Common Challenges in ERP implementation :Guide by ERP Implementation Partner  how to overcome them appeared first on ERP Software Blog.
+Port of Long Beach, California Selects Dynamics ERP to Improve Customer Service and increase efficiency
+Three Tips for Avoiding the Dirty Data Trap
+Five ERP Implementation Traps you Want to Avoid]]></summary>
+        <author>
+            <name>Dynamics Square AU</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamlining F&O Process with Microsoft Dynamics 365 finance & operations]]></title>
+        <id>https://erpsoftwareblog.com/?p=120568</id>
+        <link href="https://erpsoftwareblog.com/2024/11/streamlining-fo-process-with-microsoft-dynamics-365-finance-operations/"/>
+        <updated>2024-11-07T09:35:07.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In today’s competitive business environment, efficiency and staying ahead are more important than ever. Effective financial management and streamlined operations are key to driving success. Microsoft Dynamics 365 Finance and […]
+The post Streamlining F&O Process with Microsoft Dynamics 365 finance & operations appeared first on ERP Software Blog.
+Streamline Your Make to Order Supply Chain Automation in Dynamics 365
+Microsoft Dynamics 365 Business Central vs QuickBooks
+Popular Coffee Chain Automates Its Distribution and Financial Processes with Microsoft Dynamics Business Central]]></summary>
+        <author>
+            <name>Intelegain Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central Users Gain Efficiency with Advanced Inventory Count]]></title>
+        <id>https://erpsoftwareblog.com/?p=120275</id>
+        <link href="https://erpsoftwareblog.com/2024/11/business-central-users-gain-efficiency-with-advanced-inventory-count/"/>
+        <updated>2024-11-07T08:46:18.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The Advanced Inventory Count app integrates seamlessly with Microsoft Dynamics 365 Business Central, empowering users to streamline inventory and cycle counting processes with multi-user collaboration, barcode integration, and robust reporting features.
+The post Business Central Users Gain Efficiency with Advanced Inventory Count appeared first on ERP Software Blog.
+Best strategies, insights and techniques for a successful eCommerce implementation
+10 Ways Business Central’s Quality Inspector App Streamlines Quality Assurance
+Quality Inspector v7.17 for Business Central to Streamline Quality Control]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Configure Currencies in Dynamics 365 CE – YouTube]]></title>
+        <id>https://365community.online/how-to-configure-currencies-in-dynamics-365-ce-youtube</id>
+        <link href="https://365community.online/how-to-configure-currencies-in-dynamics-365-ce-youtube"/>
+        <updated>2024-11-07T08:30:21.000Z</updated>
+        <summary type="html"><![CDATA[In this video, we’ll walk you through the process of configuring currencies in Dynamics 365 Customer Engagement (CE). You’ll learn how to add new currencies, set exchange rates, and customize currency settings for your organization. We’ll also cover how many currencies you can add and how to edit existing ones. This tutorial is perfect for […]]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Configure Auto Number in Dynamics 365 CE – YouTube]]></title>
+        <id>https://365community.online/how-to-configure-auto-number-in-dynamics-365-ce-youtube</id>
+        <link href="https://365community.online/how-to-configure-auto-number-in-dynamics-365-ce-youtube"/>
+        <updated>2024-11-07T05:00:08.000Z</updated>
+        <summary type="html"><![CDATA[In this video, we will guide you through the process of configuring the Auto Number feature in Dynamics 365 Customer Engagement (CE). Auto Numbers help streamline data management by automatically assigning unique values to records, eliminating the need for manual entry. Learn how to set up templates, specify prefixes, and manage number formats to ensure […]]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 Top 10 ERP Systems Report from Panorama Consulting Group]]></title>
+        <id>https://erpsoftwareblog.com/?p=120550</id>
+        <link href="https://erpsoftwareblog.com/2024/11/2025-top-10-erp-systems-report-from-panorama-consulting-group/"/>
+        <updated>2024-11-07T04:22:14.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+ERP Systems for Data-Driven Organizations Which ERP system is right for you? Get the 2025 Top 10 ERP Systems Report for insider insights into the top ERP solutions and niche […]
+The post 2025 Top 10 ERP Systems Report from Panorama Consulting Group appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+More Than Just a Name Change: The New Microsoft Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>ERP Software Blog Writer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dynamics 365 Licensing 101 - Finance Edition]]></title>
         <id>https://erpsoftwareblog.com/?p=120533</id>
@@ -53149,40 +53329,6 @@ What is an ERD (Entity Relationship Diagram)?
 It describes the relationship between entities or concepts in a data model. It is therefore necessary to distinguish betwe…]]></summary>
         <author>
             <name>Rakesh Darge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reservation and on-hand inventory in warehouse management]]></title>
-        <id>https://dynamics365.github.io/2022-11-09-reservation-and-on-hand-inventory-in-warehouse-management/</id>
-        <link href="https://dynamics365.github.io/2022-11-09-reservation-and-on-hand-inventory-in-warehouse-management/"/>
-        <updated>2022-11-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[1. Inventory reservation hierarchy in Warehouse management
-The reservation functionality can be used only for items that are enabled for warehouse management processes. However, if an item is itself enabled for warehouse management processes, it can be used both in warehouses that are enabled for warehouse management processes and warehouses that are not. The behavior in reservation scenarios is different, depending on the warehouse setup.
-The functionality is built on reservation hierarchies and is intended to support the following:
-Flexible warehouse operations.
-Postponement of reservation details.
-Clear separation of which inventory dimensions can be specified, and when they can be specified.
-1.1 Reservation hierarchies
-A typical reservation hierarchy for an item that uses the Site, War…]]></summary>
-        <author>
-            <name>Max Nguyen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reservation and on-hand inventory in warehouse management]]></title>
-        <id>https://nuxulu.com/2022-11-09-reservation-and-on-hand-inventory-in-warehouse-management/</id>
-        <link href="https://nuxulu.com/2022-11-09-reservation-and-on-hand-inventory-in-warehouse-management/"/>
-        <updated>2022-11-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[1. Inventory reservation hierarchy in Warehouse management
-The reservation functionality can be used only for items that are enabled for warehouse management processes. However, if an item is itself enabled for warehouse management processes, it can be used both in warehouses that are enabled for warehouse management processes and warehouses that are not. The behavior in reservation scenarios is different, depending on the warehouse setup.
-The functionality is built on reservation hierarchies and is intended to support the following:
-Flexible warehouse operations.
-Postponement of reservation details.
-Clear separation of which inventory dimensions can be specified, and when they can be specified.
-1.1 Reservation hierarchies
-A typical reservation hierarchy for an item that uses the Site, War…]]></summary>
-        <author>
-            <name>Max Nguyen</name>
         </author>
     </entry>
     <entry>
