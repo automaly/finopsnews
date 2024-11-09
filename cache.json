@@ -1482,6 +1482,36 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=120585",
+          "author": "PartnerTalks",
+          "description": "xxx\nAfter much planning, the sixth DynamicsCon Virtual conference is ready to take flight on Nov. 13. The one-day digital event's nine-person organizational team planned the affair alongside the upcoming DynamicsCon […]\nThe post DynamicsCon Virtual Planning Team Prepares for Event appeared first on ERP Software Blog.\nMicrosoft Convergence 2011 is On!\nMicrosoft Dynamics Bringing Together Around 10,000 Users Annually\nMicrosoft Convergence 2011 – Tips and Tricks",
+          "link": "https://erpsoftwareblog.com/2024/11/dynamicscon-virtual-planning-team-prepares-for-event/",
+          "publishedOn": "2024-11-08T20:50:00.000Z",
+          "wordCount": 6721,
+          "title": "DynamicsCon Virtual Planning Team Prepares for Event",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/dynamicscon-virtual-logo-2024-1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=120598",
+          "author": "Dynamics Square CA",
+          "description": "xxx\nAn ERP accounting system unifies all financial operations under one platform, automating tasks such as invoicing, budgeting, expense management and compliance tracking. Businesses using ERPs in accounting are able to […]\nThe post What is an ERP System in Accounting? | DS Canada appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central and Microsoft Dynamics 365 Finance and Operations: What’s the Difference?\nLa différence entre Microsoft Dynamics 365 Business Central et Microsoft Dynamics 365 Finance and Operations\nProtect Your Business from Data Loss with Microsoft’s Data Loss Prevention Software",
+          "link": "https://erpsoftwareblog.com/2024/11/what-is-an-erp-system-in-accounting/",
+          "publishedOn": "2024-11-08T15:00:30.000Z",
+          "wordCount": 7184,
+          "title": "What is an ERP System in Accounting? | DS Canada",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ERP-Accounting.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=120575",
+          "author": "Insight Works",
+          "description": "xxx\nInsight Works ranks on The Globe and Mail’s 2024 Canada’s Top Growing Companies list, achieving 98% three-year revenue growth, driven by its innovative Microsoft Dynamics 365 Business Central solutions.\nThe post Insight Works Named to Canada’s Top Growing Companies 2024 appeared first on ERP Software Blog.\nBest strategies, insights and techniques for a successful eCommerce implementation\n10 Ways Business Central’s Quality Inspector App Streamlines Quality Assurance\nQuality Inspector v7.17 for Business Central to Streamline Quality Control",
+          "link": "https://erpsoftwareblog.com/2024/11/insight-works-named-to-canadas-top-growing-companies-2024/",
+          "publishedOn": "2024-11-08T10:21:44.000Z",
+          "wordCount": 7471,
+          "title": "Insight Works Named to Canada’s Top Growing Companies 2024",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ROB-2024-top.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=120587",
           "author": "NAVtoBC",
           "description": "xxx\nIs Microsoft Dynamics NAV reliable? Absolutely—it’s been the loyal workhorse of your business for years. But let’s face it: in today’s digital world, NAV is starting to feel more like […]\nThe post The Lifeless ERP Conundrum: Upgrade NAV to Business Central or Move On? appeared first on ERP Software Blog.\nReasons to migrate Dynamics NAV to Business Central Online\nNavigating the Upgrade: Steps to Move from Dynamics NAV to Business Central\nStop Procrastinating a Move to the Cloud: Overcoming the 7 Common Hurdles of Upgrading from NAV to Business Central",
@@ -15765,6 +15795,86 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/how-to-understand-solutions-and-types-of-solutions-in-dynamics-365-ce-youtube",
+          "author": "Manish chauhan",
+          "description": "In this video, we explore what Solutions are in Microsoft Dynamics 365 Customer Engagement (CE) and the different types available. We break down the key concepts, including how Solutions help package and manage customizations, configurations, and components within your CRM. You will also learn how to create a new Solution in Dynamics 365 CE, providing […]",
+          "link": "https://365community.online/how-to-understand-solutions-and-types-of-solutions-in-dynamics-365-ce-youtube",
+          "publishedOn": "2024-11-08T13:37:48.000Z",
+          "wordCount": 1071,
+          "title": "How to Understand Solutions and Types of Solutions in Dynamics 365 CE – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/copilot-coaching-na-pratica-com-um-exemplo-de-um-cenario-juridico-youtube",
+          "author": "Saulo Soares Oliveira",
+          "description": "Nesse video vamos ver na prática todo o poder do copilot no powerpoint para criar apresentações sobre qualquer assunto em poucos minutos. ♐ Adquira meu curso na Udemy e aprenda SharePoint, Power Apps e Power Automate do zero. https://www.udemy.com/course/aprenda-sharepoint-do-zero-com-foco-no-negocio/?referralCode=34B700C89A7463BD0A00 ♐ Quer aprender SharePoint Framework(SPFx)? Adquira meu curso na Udemy e aprenda a criar aplicações SPA. […]",
+          "link": "https://365community.online/copilot-coaching-na-pratica-com-um-exemplo-de-um-cenario-juridico-youtube",
+          "publishedOn": "2024-11-08T13:34:03.000Z",
+          "wordCount": 1044,
+          "title": "Copilot coaching na prática com um exemplo de um cenário jurídico – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/outbound-segments-used-in-real-time-journeys-notification",
+          "author": "Megan V. Walker",
+          "description": "If you are using Customer Insights – Journeys and have used it in the D365 Marketing days, you MUST be aware that come June 2025, Outbound Marketing will cease to exist. This means no more Outbound Emails, Outbound Journeys and most important, no more Outbound Segments. This is particularly significant because you can currently access […]",
+          "link": "https://365community.online/outbound-segments-used-in-real-time-journeys-notification",
+          "publishedOn": "2024-11-08T09:56:49.000Z",
+          "wordCount": 1049,
+          "title": "Outbound Segments Used In Real-time Journeys Notification",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/how-to-use-modern-advanced-find-in-dynamics-365-ce-youtube",
+          "author": "Manish chauhan",
+          "description": "In this video, we dive into the powerful features of Modern Advanced Find in Dynamics 365 Customer Engagement (CE). Learn how to manage views, use Advanced Find for more refined data searches, and customize your experience by hiding or unhiding views. We also cover how to create personalized views, enabling you to filter and access […]",
+          "link": "https://365community.online/how-to-use-modern-advanced-find-in-dynamics-365-ce-youtube",
+          "publishedOn": "2024-11-08T09:05:21.000Z",
+          "wordCount": 1066,
+          "title": "How to Use Modern Advanced Find in Dynamics 365 CE – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/how-to-use-attachments-create-email-signature-in-email-template-in-dynamics-365-ce-youtube",
+          "author": "Manish chauhan",
+          "description": "In this tutorial, we walk you through the process of using attachments and creating a custom email signature within email templates in Dynamics 365 Customer Engagement (CE). Learn how to efficiently add files to emails, ensuring your attachments are integrated seamlessly into your communication workflow. Additionally, we demonstrate how to create and apply a personalized […]",
+          "link": "https://365community.online/how-to-use-attachments-create-email-signature-in-email-template-in-dynamics-365-ce-youtube",
+          "publishedOn": "2024-11-08T05:31:07.000Z",
+          "wordCount": 1079,
+          "title": "How to Use Attachments & Create Email Signature in Email Template in Dynamics 365 CE – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/become-a-propilot-lesson-02-youtube",
+          "author": "Victor Dantas",
+          "description": "Microsoft 365 Copilot / Victor Dantas Master Copilot features in Word, Excel, PowerPoint, and Outlook. source",
+          "link": "https://365community.online/become-a-propilot-lesson-02-youtube",
+          "publishedOn": "2024-11-08T04:00:31.000Z",
+          "wordCount": 962,
+          "title": "Become a ProPilot: Lesson 02 – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/you-wont-believe-how-easy-rbac-makes-microsoft-dev-box-management-youtube",
+          "author": "shabaz darr",
+          "description": "Learn how RBAC simplifies Microsoft Dev Box management with built-in roles and role assignment scope. See how easy it is to streamline your processes! Episode Breakdown: 00:00 – Episode Introduction 00:59 – Episode Breakdown 01:16 – Built-in Roles for Dev Box 03:15 – Role Assignment Scope 06:31 – Demo: Assigning Microsoft Dev Box Permissions Shabaz […]",
+          "link": "https://365community.online/you-wont-believe-how-easy-rbac-makes-microsoft-dev-box-management-youtube",
+          "publishedOn": "2024-11-08T04:00:22.000Z",
+          "wordCount": 1036,
+          "title": "You Won’t Believe How Easy RBAC Makes Microsoft Dev Box Management – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/clean-up-jobs-in-d365fo",
+          "author": "Anitha Santosh",
+          "description": "It is always recommended to clean up the old and ununsed data for better performance of the system. Given below the list of clean up jobs in D365FO system. These cleanup routines should be run only after the business has done detailed analysis and confirmed that the data is no longer required. Always test each […]",
+          "link": "https://365community.online/clean-up-jobs-in-d365fo",
+          "publishedOn": "2024-11-07T21:39:04.000Z",
+          "wordCount": 1063,
+          "title": "Clean up jobs in D365FO",
+          "imageUrl": null
+        },
         {
           "id": "https://365community.online/batch-class-configuration-overrides-d365fo",
           "author": "Anitha Santosh",
@@ -41418,16 +41528,6 @@
           "wordCount": 6155,
           "title": "The magical option to refresh virtual table relationships in Dataverse",
           "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1670988672563%2FZzAfuWBN4.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
-        },
-        {
-          "id": "https://d365cliffsnotes.com/what-must-be-done-to-create-an-entity-relationship-diagram-in-dynamics-365-finance-operations",
-          "author": "Rakesh Darge",
-          "description": "This blog post walks you through the process of creating ERD diagrams and unpacking them with information about Dynamics 365 Finance & Operations.\nProblem statement\nThe customer IT team is expecting the implementation team to generate an ERD diagram for custom or standard tables to understand Dynamics 365 FO table relationships.\nThere are a few situations in the discovery and design phase of Dynamics 365 FO implementation where ERD really simplifies everyone's life.\nWhy is it so critical?\nBy creating ERDs, business analysts and users can clarify business terms, understand business domains, and connect concepts to databases.\nWhat is an ERD (Entity Relationship Diagram)?\nIt describes the relationship between entities or concepts in a data model. It is therefore necessary to distinguish betwe…",
-          "link": "https://d365cliffsnotes.com/what-must-be-done-to-create-an-entity-relationship-diagram-in-dynamics-365-finance-operations",
-          "publishedOn": "2022-11-09T18:37:55.000Z",
-          "wordCount": 7974,
-          "title": "What Must Be Done To Create An Entity Relationship Diagram in Dynamics 365 Finance & Operations",
-          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1668018511270%2FTeJVY2KhO.png%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
         }
       ]
     },
