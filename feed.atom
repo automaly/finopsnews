@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-11-09T00:50:06.187Z</updated>
+    <updated>2024-11-10T00:54:38.312Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[6 Tactics to Enhance User Adoption of Microsoft Dynamics 365 Business Central ERP]]></title>
+        <id>https://erpsoftwareblog.com/?p=108880</id>
+        <link href="https://erpsoftwareblog.com/2024/11/comparing-popular-erp-system-options/"/>
+        <updated>2024-11-10T00:46:57.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+To enhance user adoption of ERPs, it's vital first to recognize what's hindering employees from fully utilizing the system. Commonly, the hurdles include insufficient training, a limited grasp of the […]
+The post 6 Tactics to Enhance User Adoption of Microsoft Dynamics 365 Business Central ERP appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+Advanced Budgeting, Reporting and Consolidates Empowering Dynamics 365 Business Central
+Dynamics 365 Better Together with Office 365 eBook]]></summary>
+        <author>
+            <name>EFOQUS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Automate with Business Central: Features and Benefits]]></title>
+        <id>https://erpsoftwareblog.com/?p=120593</id>
+        <link href="https://erpsoftwareblog.com/2024/11/transform-business-operations-power-automate/"/>
+        <updated>2024-11-09T06:20:08.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In the rapidly evolving landscape of business technology, automation is no longer a luxury but a necessity. Microsoft’s Power Automate, integrated with Dynamics 365 Business Central, represents a powerful combination […]
+The post Power Automate with Business Central: Features and Benefits appeared first on ERP Software Blog.
+Streamline Your User Workflows With Newly Released Business Central Capabilities
+An Overview of Purchase Order in Microsoft Dynamics 365 Business Central
+Microsoft Dynamics 365 Business Central: The Best Choice for Manufacturers]]></summary>
+        <author>
+            <name>Dynamics Square AU</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigating ERP Jargon: How to Communicate Your ERP Needs Clearly]]></title>
+        <id>https://erpsoftwareblog.com/?p=120606</id>
+        <link href="https://erpsoftwareblog.com/2024/11/navigating-erp-jargon-how-to-communicate-your-erp-needs-clearly/"/>
+        <updated>2024-11-09T01:09:56.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Selecting the right ERP software for your business is a critical decision that requires clear communication. When customers and software vendors rely heavily on jargon, it can cause problems in […]
+The post Navigating ERP Jargon: How to Communicate Your ERP Needs Clearly appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>Ian Ray, 365 Vertical</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DynamicsCon Virtual Planning Team Prepares for Event]]></title>
         <id>https://erpsoftwareblog.com/?p=120585</id>
@@ -34,6 +79,16 @@ La différence entre Microsoft Dynamics 365 Business Central et Microsoft Dynami
 Protect Your Business from Data Loss with Microsoft’s Data Loss Prevention Software]]></summary>
         <author>
             <name>Dynamics Square CA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High Performace Compute (HPC) – AzBytes – YouTube]]></title>
+        <id>https://365community.online/high-performace-compute-hpc-azbytes-youtube</id>
+        <link href="https://365community.online/high-performace-compute-hpc-azbytes-youtube"/>
+        <updated>2024-11-08T13:41:53.000Z</updated>
+        <summary type="html"><![CDATA[High Performace Compute (HPC) – AzBytes Join Azure specialists John and Ty in this engaging discussion as they explore the world of Azure High Performance Compute (HPC). Discover the key benefits of leveraging Azure’s powerful computing capabilities, from enhanced performance to cost efficiency. John and Ty also delve into real-world use cases, showcasing how businesses […]]]></summary>
+        <author>
+            <name>John Lunn</name>
         </author>
     </entry>
     <entry>
@@ -53427,16 +53482,6 @@ Custom field 4
 In the case, you must modify the getExtensionFields() method in the following way.]]></summary>
         <author>
             <name>Max Nguyen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Purchase Order Holds in Dynamics 365 Finance and Operations]]></title>
-        <id>http://henrikmarxlarsen.wordpress.com/?p=2871</id>
-        <link href="https://henrikmarxlarsen.wordpress.com/2022/11/11/purchase-order-holds-in-dynamics-365-finance-and-operations/"/>
-        <updated>2022-11-11T07:46:40.000Z</updated>
-        <summary type="html"><![CDATA[With this small new feature in Dynamics 365 Finance and Operations we can now put vendors on hold for purchase orders only so we can continue to process invoices and payments.]]></summary>
-        <author>
-            <name>Henrik Marx Larsen</name>
         </author>
     </entry>
     <entry>

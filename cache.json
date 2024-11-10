@@ -1482,6 +1482,36 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=108880",
+          "author": "EFOQUS",
+          "description": "xxx\nTo enhance user adoption of ERPs, it's vital first to recognize what's hindering employees from fully utilizing the system. Commonly, the hurdles include insufficient training, a limited grasp of the […]\nThe post 6 Tactics to Enhance User Adoption of Microsoft Dynamics 365 Business Central ERP appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve\nAdvanced Budgeting, Reporting and Consolidates Empowering Dynamics 365 Business Central\nDynamics 365 Better Together with Office 365 eBook",
+          "link": "https://erpsoftwareblog.com/2024/11/comparing-popular-erp-system-options/",
+          "publishedOn": "2024-11-10T00:46:57.000Z",
+          "wordCount": 7411,
+          "title": "6 Tactics to Enhance User Adoption of Microsoft Dynamics 365 Business Central ERP",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Exhale-Deeply-with-EFOQUS-2.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=120593",
+          "author": "Dynamics Square AU",
+          "description": "xxx\nIn the rapidly evolving landscape of business technology, automation is no longer a luxury but a necessity. Microsoft’s Power Automate, integrated with Dynamics 365 Business Central, represents a powerful combination […]\nThe post Power Automate with Business Central: Features and Benefits appeared first on ERP Software Blog.\nStreamline Your User Workflows With Newly Released Business Central Capabilities\nAn Overview of Purchase Order in Microsoft Dynamics 365 Business Central\nMicrosoft Dynamics 365 Business Central: The Best Choice for Manufacturers",
+          "link": "https://erpsoftwareblog.com/2024/11/transform-business-operations-power-automate/",
+          "publishedOn": "2024-11-09T06:20:08.000Z",
+          "wordCount": 8088,
+          "title": "Power Automate with Business Central: Features and Benefits",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=120606",
+          "author": "Ian Ray, 365 Vertical",
+          "description": "xxx\nSelecting the right ERP software for your business is a critical decision that requires clear communication. When customers and software vendors rely heavily on jargon, it can cause problems in […]\nThe post Navigating ERP Jargon: How to Communicate Your ERP Needs Clearly appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2024/11/navigating-erp-jargon-how-to-communicate-your-erp-needs-clearly/",
+          "publishedOn": "2024-11-09T01:09:56.000Z",
+          "wordCount": 8544,
+          "title": "Navigating ERP Jargon: How to Communicate Your ERP Needs Clearly",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=120585",
           "author": "PartnerTalks",
           "description": "xxx\nAfter much planning, the sixth DynamicsCon Virtual conference is ready to take flight on Nov. 13. The one-day digital event's nine-person organizational team planned the affair alongside the upcoming DynamicsCon […]\nThe post DynamicsCon Virtual Planning Team Prepares for Event appeared first on ERP Software Blog.\nMicrosoft Convergence 2011 is On!\nMicrosoft Dynamics Bringing Together Around 10,000 Users Annually\nMicrosoft Convergence 2011 – Tips and Tricks",
@@ -15795,6 +15825,16 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/high-performace-compute-hpc-azbytes-youtube",
+          "author": "John Lunn",
+          "description": "High Performace Compute (HPC) – AzBytes Join Azure specialists John and Ty in this engaging discussion as they explore the world of Azure High Performance Compute (HPC). Discover the key benefits of leveraging Azure’s powerful computing capabilities, from enhanced performance to cost efficiency. John and Ty also delve into real-world use cases, showcasing how businesses […]",
+          "link": "https://365community.online/high-performace-compute-hpc-azbytes-youtube",
+          "publishedOn": "2024-11-08T13:41:53.000Z",
+          "wordCount": 1138,
+          "title": "High Performace Compute (HPC) – AzBytes – YouTube",
+          "imageUrl": null
+        },
         {
           "id": "https://365community.online/how-to-understand-solutions-and-types-of-solutions-in-dynamics-365-ce-youtube",
           "author": "Manish chauhan",
@@ -41885,16 +41925,6 @@
           "wordCount": 4520,
           "title": "Call Data Management in Dynamics 365 Finance and Operations using OData Actions",
           "imageUrl": "https://henrikmarxlarsen.files.wordpress.com/2022/11/odata-1.png?w=1200"
-        },
-        {
-          "id": "http://henrikmarxlarsen.wordpress.com/?p=2871",
-          "author": "Henrik Marx Larsen",
-          "description": "With this small new feature in Dynamics 365 Finance and Operations we can now put vendors on hold for purchase orders only so we can continue to process invoices and payments.",
-          "link": "https://henrikmarxlarsen.wordpress.com/2022/11/11/purchase-order-holds-in-dynamics-365-finance-and-operations/",
-          "publishedOn": "2022-11-11T07:46:40.000Z",
-          "wordCount": 4042,
-          "title": "Purchase Order Holds in Dynamics 365 Finance and Operations",
-          "imageUrl": "https://henrikmarxlarsen.files.wordpress.com/2022/11/lock-1.jpg"
         }
       ]
     },
