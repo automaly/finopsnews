@@ -264,26 +264,6 @@
           "wordCount": 849,
           "title": "Metadata search in Visual Studio",
           "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
-        },
-        {
-          "id": "https://dynamics365.github.io/2022-11-13-extend-on-hand-entities-fin-ops/",
-          "author": "Max Nguyen",
-          "description": "There are some entities that you can use to get the on-hand inventory from Dynamics 365 Finance Operations:\n\n\n\n\n1\n2\n3\n4\n5\n6\n\n\n\nInventorySiteOnHandEntity\nInventorySiteOnHandV2Entity\nInventWarehouseInventoryStatusOnHandEntity\nInventWarehouseInventoryStatusOnHandV2Entity\nInventWarehouseOnHandEntity\nInventWarehouseOnHandV2Entity\n\n\n\n\n\nYou can extend the ententies by adding new fields to tables and entities.\nAfter you add fields to tables that are used by the inventSiteOnHandView view, you must sync the engine so that the extensions are correctly recognized.\nExtend the InventSiteOnHandView view by adding the extension field.\nExtend the InventSiteOnHandAggregatedView view with the extension fields.\nExtend the InventSiteOnHandAggregatedViewBuilder viewBuilder class by modifying the getExtensionFields() method. In this way, you map old view fields to new view fields when viewBuilder synchronization is run.\nFor example, you’ve added the following four fields to the InventTable table through extension:\nCustom field 1\nCustom field 2\nCustom field 3\nCustom field 4\nIn the case, you must modify the getExtensionFields() method in the following way.",
-          "link": "https://dynamics365.github.io/2022-11-13-extend-on-hand-entities-fin-ops/",
-          "publishedOn": "2022-11-13T00:00:00.000Z",
-          "wordCount": 253,
-          "title": "Extend on-hand inventory entities FinOps",
-          "imageUrl": "https://dynamics365.github.io/Icon/mstile-150x150.png"
-        },
-        {
-          "id": "https://nuxulu.com/2022-11-13-extend-on-hand-entities-fin-ops/",
-          "author": "Max Nguyen",
-          "description": "There are some entities that you can use to get the on-hand inventory from Dynamics 365 Finance Operations:\n\n\n\n\n1\n2\n3\n4\n5\n6\n\n\n\nInventorySiteOnHandEntity\nInventorySiteOnHandV2Entity\nInventWarehouseInventoryStatusOnHandEntity\nInventWarehouseInventoryStatusOnHandV2Entity\nInventWarehouseOnHandEntity\nInventWarehouseOnHandV2Entity\n\n\n\n\n\nYou can extend the ententies by adding new fields to tables and entities.\nAfter you add fields to tables that are used by the inventSiteOnHandView view, you must sync the engine so that the extensions are correctly recognized.\nExtend the InventSiteOnHandView view by adding the extension field.\nExtend the InventSiteOnHandAggregatedView view with the extension fields.\nExtend the InventSiteOnHandAggregatedViewBuilder viewBuilder class by modifying the getExtensionFields() method. In this way, you map old view fields to new view fields when viewBuilder synchronization is run.\nFor example, you’ve added the following four fields to the InventTable table through extension:\nCustom field 1\nCustom field 2\nCustom field 3\nCustom field 4\nIn the case, you must modify the getExtensionFields() method in the following way.",
-          "link": "https://nuxulu.com/2022-11-13-extend-on-hand-entities-fin-ops/",
-          "publishedOn": "2022-11-13T00:00:00.000Z",
-          "wordCount": 252,
-          "title": "Extend on-hand inventory entities FinOps",
-          "imageUrl": "https://nuxulu.com/Icon/mstile-150x150.png"
         }
       ]
     },
@@ -1481,6 +1461,76 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=120678",
+          "author": "Crestwood Associates LLC",
+          "description": "xxx\nStreamline Compliance and Order Management in Acumatica with Crestwood’s New Advanced Order Rules  Managing orders in Acumatica can sometimes feel like a tightrope walk—especially if your business needs to comply […]\nThe post Streamline Compliance and Order Management in Acumatica with Crestwood’s New Advanced Order Rules appeared first on ERP Software Blog.\n25 Questions to Assess Your Financial and Membership Management Systems\nCloud ERP Options: Compare Microsoft Dynamics GP vs. Acumatica\nERP Software Compliance for Regulatory Standards such as SOX, FDA, and ISO using Microsoft Dynamics NAV",
+          "link": "https://erpsoftwareblog.com/2024/11/streamline-compliance-and-order-management-in-acumatica-with-crestwoods-new-advanced-order-rules/",
+          "publishedOn": "2024-11-11T20:08:10.000Z",
+          "wordCount": 7420,
+          "title": "Streamline Compliance and Order Management in Acumatica with Crestwood’s New Advanced Order Rules",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/AdobeStock_452118798-scaled.jpeg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=107685",
+          "author": "Sabre Limited",
+          "description": "xxx\nDynamics GP (Great Plains) Manufacturing and Business Central are two prominent ERP solutions tailored for manufacturing companies. However, with the sales and support for GP coming closer to an end […]\nThe post Dynamics GP Manufacturing vs. Business Central (Comparison) appeared first on ERP Software Blog.\nReal Life Reasons Why Two Manufacturing Companies Replaced Peachtree with Microsoft Dynamics GP\nChemical Manufacturing; MSDS, Formulas, and Microsoft Dynamics GP\nSupply Chain Management – See Everything Using Microsoft Dynamics GP",
+          "link": "https://erpsoftwareblog.com/2024/11/dynamics-gp-manufacturing-vs-business-central-comparison/",
+          "publishedOn": "2024-11-11T18:15:10.000Z",
+          "wordCount": 7469,
+          "title": "Dynamics GP Manufacturing vs. Business Central (Comparison)",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/dynamics-gp-manufacturing-end-date.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=120546",
+          "author": "Rillion",
+          "description": "xxx\nIs your accounts payable (AP) process slowing you down? If you're facing delays, manual errors, and missed cost-saving opportunities, it might be time to consider AP Automation. An automated AP […]\nThe post AP Automation Integration for ERPs, Including Dynamics 365 BC appeared first on ERP Software Blog.\n5 Steps to a Successful Implementation of Your New Accounting System\nDynamics 365 Business Central and Industry-Tailored Functionality\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting",
+          "link": "https://erpsoftwareblog.com/2024/11/ap-automation-integration-for-erps-including-dynamics-365-bc/",
+          "publishedOn": "2024-11-11T15:30:16.000Z",
+          "wordCount": 7749,
+          "title": "AP Automation Integration for ERPs, Including Dynamics 365 BC",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2024-11-AP-Automation-Integration-for-ERPs-Including-Dynamics-365-BC_1200-x-628.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=120645",
+          "author": "JourneyTEAM",
+          "description": "xxx\nAs companies continue to grow, the need for a secure and streamlined data management process becomes increasingly critical. And without a cohesive set of best practices or security protocols in […]\nThe post Microsoft 365 Drives Cloud Security for Global Scuba Gear Manufacturer appeared first on ERP Software Blog.\nOptimizing your Supply Chain and Warehousing with Microsoft Dynamics AX\nHow to Get More Bang for Your Buck When Integrating Magento and Microsoft Dynamics GP\n3 Tips for Transforming Item Data in Microsoft Dynamics to Meet Amazon Requirements",
+          "link": "https://erpsoftwareblog.com/2024/11/microsoft-365-drives-cloud-security-for-global-scuba-gear-manufacturer/",
+          "publishedOn": "2024-11-11T14:54:48.000Z",
+          "wordCount": 8075,
+          "title": "Microsoft 365 Drives Cloud Security for Global Scuba Gear Manufacturer",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Huish-Image.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=120632",
+          "author": "Dynamics Square UK",
+          "description": "xxx\nFor growing businesses that need efficient financial management and customer relationship tools, integrating FreeAgent with Microsoft Dynamics 365 provides a powerful solution. FreeAgent is known for simplifying accounting tasks for […]\nThe post FreeAgent to Dynamics 365 Integration: Simplifying Financial and Operational Management appeared first on ERP Software Blog.\n10 Signs You've Outgrown Your Accounting Software\nMicrosoft Dynamics GP is Second to None\nKeys to Success When Evaluating Financial Management Software",
+          "link": "https://erpsoftwareblog.com/2024/11/freeagent-to-dynamics-365-integration/",
+          "publishedOn": "2024-11-11T13:36:19.000Z",
+          "wordCount": 8313,
+          "title": "FreeAgent to Dynamics 365 Integration: Simplifying Financial and Operational Management",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Untitled-design-16.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=120627",
+          "author": "Intelegain Technologies",
+          "description": "xxx\nIn 2024, the Enterprise Resource Planning (ERP) landscape is undergoing a swift transformation, propelled by cutting-edge technologies from major players like Microsoft. This article delves into the essential ERP trends […]\nThe post Key ERP Trends for 2025: Gaining a Competitive Edge appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central vs QuickBooks\nPopular Coffee Chain Automates Its Distribution and Financial Processes with Microsoft Dynamics Business Central\nCustomer Portal for Microsoft Dynamics 365 Business Central",
+          "link": "https://erpsoftwareblog.com/2024/11/key-erp-trends-for-2025-gaining-a-competitive-edge/",
+          "publishedOn": "2024-11-11T12:19:37.000Z",
+          "wordCount": 7846,
+          "title": "Key ERP Trends for 2025: Gaining a Competitive Edge",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=120579",
+          "author": "Insight Works",
+          "description": "xxx\nLearn how Business Central Shipping is streamlined through Dynamic Ship and Banyan API, offering efficient and cost-effective solutions for freight and parcel management.\nThe post Streamline Business Central Shipping with Dynamic Ship & Banyan appeared first on ERP Software Blog.\nWarehouse Insight Now Available for Dynamics 365 Business Central\nHow to Choose a Mobile Computer to use with Business Central\nQuote Generation with Product Configurator for Business Central",
+          "link": "https://erpsoftwareblog.com/2024/11/streamline-business-central-shipping-with-dynamic-ship-banyan-2/",
+          "publishedOn": "2024-11-11T12:06:41.000Z",
+          "wordCount": 7390,
+          "title": "Streamline Business Central Shipping with Dynamic Ship & Banyan",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Banyan.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=108880",
           "author": "EFOQUS",
@@ -15825,6 +15875,96 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/using-the-smart-paste-preview-feature-to-fill-the-form-fast-in-dataverse-dynamics-365",
+          "author": "Nishant Rana",
+          "description": "To enable this feature navigate to Power Platform Admin Center > Environment > Features > Enable smart paste (preview) With the smart paste feature, we can copy the text to the clipboard that has the details we want to fill in for our form and click the smart paste button or use our normal CTRL […]",
+          "link": "https://365community.online/using-the-smart-paste-preview-feature-to-fill-the-form-fast-in-dataverse-dynamics-365",
+          "publishedOn": "2024-11-11T20:30:00.000Z",
+          "wordCount": 1146,
+          "title": "Using the Smart Paste (Preview) feature to fill the form fast in Dataverse / Dynamics 365",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/apply-a-d365-service-update",
+          "author": "Peter Ramer",
+          "description": "Learn how to apply a D365 service update in this tutorial. Microsoft releases four service updates, containing new hotfixes and features. Dynamics 365 for Finance and Operations administrators use Life Cycle Services (LCS) to apply these updates to the environments. In a previous article, I explained the schedule of when these updates are released and… […]",
+          "link": "https://365community.online/apply-a-d365-service-update",
+          "publishedOn": "2024-11-11T14:00:00.000Z",
+          "wordCount": 1020,
+          "title": "Apply A D365 Service Update",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/how-to-recover-deleted-dataverse-rows-using-the-recycle-bin-in-dynamics-365-ce-youtube",
+          "author": "Manish chauhan",
+          "description": "In this video, we demonstrate the process of recovering deleted Dataverse rows using the Recycle Bin feature in Microsoft Dynamics 365 Customer Engagement (CE). The Recycle Bin allows users to restore deleted records within a certain retention period, ensuring data integrity and minimizing data loss. Watch to learn step-by-step how to easily retrieve your deleted […]",
+          "link": "https://365community.online/how-to-recover-deleted-dataverse-rows-using-the-recycle-bin-in-dynamics-365-ce-youtube",
+          "publishedOn": "2024-11-11T13:41:54.000Z",
+          "wordCount": 1062,
+          "title": "How to Recover Deleted Dataverse Rows Using the Recycle Bin in Dynamics 365 CE – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/how-to-bypass-custom-synchronous-and-asynchronous-business-logic-in-dynamics-365",
+          "author": "Inogic",
+          "description": "In Microsoft Dynamics 365, plugins and workflows are powerful tools for automating business processes and logic. These automations can be synchronous (sync) or asynchronous (async) and are typically designed to trigger based on specific business events. However, there are scenarios where you might want to bypass these custom business logics. For such cases, Microsoft provides […]",
+          "link": "https://365community.online/how-to-bypass-custom-synchronous-and-asynchronous-business-logic-in-dynamics-365",
+          "publishedOn": "2024-11-11T11:41:58.000Z",
+          "wordCount": 1349,
+          "title": "How to Bypass Custom Synchronous and Asynchronous Business Logic in Dynamics 365",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/curso-power-automate-aula-4-obtendo-dados-do-sharepoint-e-validando-as-regras-usando-condicao-youtube",
+          "author": "Saulo Soares Oliveira",
+          "description": "Nesse curso vamos aprender os conceitos do Power Automate e vamos fazer práticas para aprender mais sobre essa tecnologia. ♐ Adquira meu curso na Udemy e aprenda SharePoint, Power Apps e Power Automate do zero. https://www.udemy.com/course/aprenda-sharepoint-do-zero-com-foco-no-negocio/?referralCode=34B700C89A7463BD0A00 ♐ Quer aprender SharePoint Framework(SPFx)? Adquira meu curso na Udemy e aprenda a criar aplicações SPA. https://www.udemy.com/course/desenvolvendo-para-sharepoint-com-spfx/?referralCode=26879FEB3B350B408792 Seja membro […]",
+          "link": "https://365community.online/curso-power-automate-aula-4-obtendo-dados-do-sharepoint-e-validando-as-regras-usando-condicao-youtube",
+          "publishedOn": "2024-11-11T11:31:37.000Z",
+          "wordCount": 1066,
+          "title": "Curso Power Automate – Aula 4 – Obtendo dados do SharePoint e validando as regras usando condição – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/creating-a-customer-from-a-contact-fails-with-no-message-in-microsoft-dynamics-365-business-central",
+          "author": "Ian Grieve",
+          "description": "I’ve been doing some work with a client recently to implement Microsoft Dynamics 365 Business Central. When entering quotes they want to use the contact functionality to record who they are dealing with on the quote. They also need to create a customer for the contact when raising the quote; there is an action on […]",
+          "link": "https://365community.online/creating-a-customer-from-a-contact-fails-with-no-message-in-microsoft-dynamics-365-business-central",
+          "publishedOn": "2024-11-11T11:00:15.000Z",
+          "wordCount": 1125,
+          "title": "Creating a Customer from a Contact Fails with No Message in Microsoft Dynamics 365 Business Central",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/how-to-navigate-the-new-lead-qualification-experience-in-ms-dynamics-365-ce-youtube",
+          "author": "Manish chauhan",
+          "description": "In this video, we explore the new Lead Qualification experience in Microsoft Dynamics 365 Customer Engagement (CE). Learn how to efficiently qualify leads, update statuses, and move them through the sales pipeline using the latest features and tools in Dynamics 365 CE. Whether you’re a sales rep or administrator, this guide will help you streamline […]",
+          "link": "https://365community.online/how-to-navigate-the-new-lead-qualification-experience-in-ms-dynamics-365-ce-youtube",
+          "publishedOn": "2024-11-11T09:00:17.000Z",
+          "wordCount": 1066,
+          "title": "How to Navigate the New Lead Qualification Experience in MS Dynamics 365 CE – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/how-to-create-check-box-and-toggle-button-fields-in-ms-dynamics-365-ce-youtube",
+          "author": "Manish chauhan",
+          "description": "In this video, we guide you step-by-step on how to create Check Box and Toggle Button fields in Microsoft Dynamics 365 Customer Engagement (CE). Learn how these fields can enhance user experience and streamline data entry by allowing easy selection and toggling between options. Whether you’re new to Dynamics 365 or looking to refine your […]",
+          "link": "https://365community.online/how-to-create-check-box-and-toggle-button-fields-in-ms-dynamics-365-ce-youtube",
+          "publishedOn": "2024-11-11T05:00:09.000Z",
+          "wordCount": 1076,
+          "title": "How to Create Check Box and Toggle Button Fields in MS Dynamics 365 CE – YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/how-can-i-still-find-classic-themes-in-2024-for-power-apps-and-dynamics-365",
+          "author": "Saurav Dhyani",
+          "description": "As part of the 2024 Power Platform Release Wave 1, Microsoft have moved the classic Advanced Settings menu over to the new Power Platform Environment Settings app. The Power Platform Environment Settings app provides a modern, performant, accessible, secure, and extensible settings management experience. This app is intended to provide a single, unified experience for […]",
+          "link": "https://365community.online/how-can-i-still-find-classic-themes-in-2024-for-power-apps-and-dynamics-365",
+          "publishedOn": "2024-11-10T23:56:46.000Z",
+          "wordCount": 1041,
+          "title": "How Can I Still Find Classic Themes in 2024 for Power Apps and Dynamics 365?",
+          "imageUrl": null
+        },
         {
           "id": "https://365community.online/resistance-isnt-failure-its-feedback-youtube",
           "author": "NZ365Guy",
@@ -34404,6 +34544,16 @@
       "siteUrl": "https://dynamicsax-fico.com",
       "articles": [
         {
+          "id": "http://dynamicsax-fico.com/?p=6787",
+          "author": "Ludwig Reinhard",
+          "description": "Visit the post for more.",
+          "link": "https://dynamicsax-fico.com/2024/11/11/process-mining-in-the-field-2/",
+          "publishedOn": "2024-11-11T06:03:42.000Z",
+          "wordCount": 3425,
+          "title": "Process Mining In The Field (2)",
+          "imageUrl": "https://dynamicsax-fico.com/wp-content/uploads/2024/10/englishtitle-1.jpg"
+        },
+        {
           "id": "http://dynamicsax-fico.com/?p=6860",
           "author": "Ludwig Reinhard",
           "description": "Visit the post for more.",
@@ -36707,6 +36857,16 @@
       "feedUrl": "https://dynamics365musings.com/feed/",
       "siteUrl": "https://dynamics365musings.com/",
       "articles": [
+        {
+          "id": "https://dynamics365musings.com/?p=4025",
+          "author": "peter.ramer",
+          "description": "Learn how to apply a D365 service update in this tutorial. Microsoft releases four service updates, containing new hotfixes and features. Dynamics 365 for Finance and Operations administrators use Life Cycle Services (LCS) to apply these updates to the environments. In a previous article, I explained the schedule of when these updates are released and... Continue Reading →\nThe post Apply A D365 Service Update appeared first on Dynamics 365 Musings.",
+          "link": "https://dynamics365musings.com/d365-service-update/?utm_source=rss&utm_medium=rss&utm_campaign=d365-service-update",
+          "publishedOn": "2024-11-11T14:00:00.000Z",
+          "wordCount": 3209,
+          "title": "Apply A D365 Service Update",
+          "imageUrl": "https://dynamics365musings.com/wp-content/uploads/2024/11/Apply-A-D365-Service-Update.png"
+        },
         {
           "id": "https://dynamics365musings.com/?p=3948",
           "author": "peter.ramer",
@@ -41068,6 +41228,16 @@
       "feedUrl": "https://paragchapre.com/feed/",
       "siteUrl": "https://paragchapre.com",
       "articles": [
+        {
+          "id": "https://paragchapre.com/?p=16009",
+          "author": "Parag Chapre",
+          "description": "Efficiently register employees in Microsoft Dynamics 365 Business Central for streamlined onboarding, accurate data management, and smooth HR operations.",
+          "link": "https://paragchapre.com/registering-employees-in-microsoft-dynamics-365-business-central/",
+          "publishedOn": "2024-11-11T05:12:28.000Z",
+          "wordCount": 3772,
+          "title": "Registering Employees in Microsoft Dynamics 365 Business Central",
+          "imageUrl": "https://paragchapre.com/wp-content/uploads/2024/11/Registering-Employees-in-Microsoft-Dynamics-365-Business-Central.png"
+        },
         {
           "id": "https://paragchapre.com/?p=13293",
           "author": "paragchapre@gmail.com",
