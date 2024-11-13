@@ -2,10 +2,195 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-11-12T00:50:47.844Z</updated>
+    <updated>2024-11-13T00:51:47.886Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Seven Business Central Distribution Apps from Insight Works]]></title>
+        <id>https://erpsoftwareblog.com/?p=120739</id>
+        <link href="https://erpsoftwareblog.com/2024/11/seven-business-central-distribution-apps-from-insight-works/"/>
+        <updated>2024-11-12T20:47:47.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Explore seven essential Insight Works apps that streamline Business Central distribution, enhancing inventory accuracy, order fulfillment, quality control, and overall efficiency for any distribution network.
+The post Seven Business Central Distribution Apps from Insight Works appeared first on ERP Software Blog.
+Warehouse Insight Now Available for Dynamics 365 Business Central
+How to Choose a Mobile Computer to use with Business Central
+Quote Generation with Product Configurator for Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Field suggestions by Copilot –Power Apps (Dataverse)]]></title>
+        <id>https://365community.online/field-suggestions-by-copilot-power-apps-dataverse</id>
+        <link href="https://365community.online/field-suggestions-by-copilot-power-apps-dataverse"/>
+        <updated>2024-11-12T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Field Suggestions by Copilot for Canvas Apps apply to Gallery, Form Table controls both classic and modern for Dataverse, SharePoint, or SQL Server data source. It analyzes the schema of the table selected and recommends up to 10 fields that also include a maximum of 10 required fields of that table. Let us see it […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Automation is the Future of Document Management]]></title>
+        <id>https://erpsoftwareblog.com/?p=120718</id>
+        <link href="https://erpsoftwareblog.com/2024/11/why-automation-is-the-future-of-document-management/"/>
+        <updated>2024-11-12T14:24:19.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Businesses constantly seek to automate and streamline their operations and improve efficiency in this fast-paced digital world. One area where automation has made significant progress is document management. By automating […]
+The post Why Automation is the Future of Document Management appeared first on ERP Software Blog.
+Transforming Professional Services with Document Management Solution
+Going Paperless Made Easy with Document Management Software!
+How To Take Those Necessary Steps Toward Paperless Document Management]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Purchase Advice in Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=120637</id>
+        <link href="https://erpsoftwareblog.com/2024/11/purchase-advice-in-business-central/"/>
+        <updated>2024-11-12T13:56:47.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Order recommendation by Business Central suggests purchases should be made as required. The tool is very useful for higher desired stock balances, lower costs, and operation of an efficient supply […]
+The post Purchase Advice in Business Central appeared first on ERP Software Blog.
+Efficient Inventory Management: Unlocking Stock Levels with LS Central
+Build Your Own WMS Apps for Microsoft Dynamics
+Insight Works Announces License Plating for Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Transform Your Dynamics 365 CE Navigation by Editing Your Sitemap – YouTube]]></title>
+        <id>https://365community.online/how-to-transform-your-dynamics-365-ce-navigation-by-editing-your-sitemap-youtube</id>
+        <link href="https://365community.online/how-to-transform-your-dynamics-365-ce-navigation-by-editing-your-sitemap-youtube"/>
+        <updated>2024-11-12T13:44:28.000Z</updated>
+        <summary type="html"><![CDATA[In this video, we walk you through the process of editing your Sitemap in Microsoft Dynamics 365 Customer Engagement (CE) using Power Apps. Learn how to customize your navigation structure by adding, removing, or reorganizing areas, groups, and subareas to suit your business needs. With these easy steps, you can create a more efficient and […]]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Streamline Your Experience with Focused View in Microsoft Dynamics 365 CE – YouTube]]></title>
+        <id>https://365community.online/how-to-streamline-your-experience-with-focused-view-in-microsoft-dynamics-365-ce-youtube</id>
+        <link href="https://365community.online/how-to-streamline-your-experience-with-focused-view-in-microsoft-dynamics-365-ce-youtube"/>
+        <updated>2024-11-12T12:26:19.000Z</updated>
+        <summary type="html"><![CDATA[In this video, we show you how to streamline your experience with Focused View in Microsoft Dynamics 365 Customer Engagement (CE). Learn how to navigate the Focused View, select views from the command bar, and view activities through the focused list. We also cover using search and filters, switching between Focused and Grid views, and […]]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unified Routing – Improved Overflow Routing]]></title>
+        <id>https://365community.online/unified-routing-improved-overflow-routing</id>
+        <link href="https://365community.online/unified-routing-improved-overflow-routing"/>
+        <updated>2024-11-12T11:42:54.000Z</updated>
+        <summary type="html"><![CDATA[Whilst using Microsoft’s Dynamics 365 Contact Center (and other Dynamics apps) we use Unified Routing to route conversations to agents. When the selected queue is “busy” overflow logic can be used to decide how to route work items. Recently Microsoft have made some improvements to the overflow feature, I will discuss these in this post. […]]]></summary>
+        <author>
+            <name>Neil Parkhurst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detect and Merge Dynamics 365 CRM Duplicate Records with New DeDupeD Features!]]></title>
+        <id>https://365community.online/detect-and-merge-dynamics-365-crm-duplicate-records-with-new-deduped-features</id>
+        <link href="https://365community.online/detect-and-merge-dynamics-365-crm-duplicate-records-with-new-deduped-features"/>
+        <updated>2024-11-12T10:23:02.000Z</updated>
+        <summary type="html"><![CDATA[Effective data management is essential for every successful business. However, data cluttered with duplicates can lead to wasted time, miscommunication, and missed opportunities. On average, 20%-30% of a database consists of duplicate records, which means that multiple entries for the same contact or account are stored separately. This can create confusion, causing mixed messages to […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extending Copilot in D365 Sales – Part 2: Prompt Guide – YouTube]]></title>
+        <id>https://365community.online/extending-copilot-in-d365-sales-part-2-prompt-guide-youtube</id>
+        <link href="https://365community.online/extending-copilot-in-d365-sales-part-2-prompt-guide-youtube"/>
+        <updated>2024-11-12T09:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Extending Copilot in D365 Sales – Part 2: Prompt Guide If you’ve worked with Dynamics 365 Sales, before you’re likely familiar with the concept of “Copilot in Dynamics 365 Sales.” By extending Copilot in Dynamics 365 Sales, businesses can tailor Copilot’s capabilities to suit specific business requirements. In my previous video I showed how to […]]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extending Copilot in D365 Sales – Part 2]]></title>
+        <id>https://365community.online/extending-copilot-in-d365-sales-part-2</id>
+        <link href="https://365community.online/extending-copilot-in-d365-sales-part-2"/>
+        <updated>2024-11-12T09:33:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve worked with Dynamics 365 Sales, before most likely you’ve seen Copilot in Dynamics 365 Sales. Please note that I am not talking about Copilot for Sales, which requires an additional license, I am referring to Copilot that sits inside of the D365 Sales application. Out of the box this Copilot empowers sellers with […]]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Intelligent Order Management: The Key to Seamless Multichannel Fulfillment]]></title>
+        <id>https://erpsoftwareblog.com/?p=120714</id>
+        <link href="https://erpsoftwareblog.com/2024/11/dynamics-365-intelligent-order-management-the-key-to-seamless-multichannel-fulfillment/"/>
+        <updated>2024-11-12T08:44:42.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Organizations today are looking to implement new fulfillment strategies to keep up with evolving customer expectations. From buy-online-and-ship-home to buy-online-and-collect-from-store, companies must have the right tools and systems to cater […]
+The post Dynamics 365 Intelligent Order Management: The Key to Seamless Multichannel Fulfillment appeared first on ERP Software Blog.
+Fireworks and Marching Bands at Summit 2016. Really.
+A Wake-up Call - A Game Changer Is on the Way
+Hosting Microsoft Dynamics in the Cloud - evaluating IaaS, PaaS and SaaS]]></summary>
+        <author>
+            <name>Synoptek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: Cloud Migration FAQ (Directions EMEA version)]]></title>
+        <id>https://365community.online/dynamics-365-business-central-cloud-migration-faq-directions-emea-version</id>
+        <link href="https://365community.online/dynamics-365-business-central-cloud-migration-faq-directions-emea-version"/>
+        <updated>2024-11-12T08:41:36.000Z</updated>
+        <summary type="html"><![CDATA[At Directions EMEA 2024 in Vienna I talked a bit about the Cloud Migration tool during the Microsoft Regional Session Italy and during the Q&A moment (to be honest, at the end of the official Q&A slot as usual ) I’ve received some interesting questions that I think are valuable to be shared to everyone […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Import Contact Point Consent Records]]></title>
+        <id>https://365community.online/how-to-import-contact-point-consent-records</id>
+        <link href="https://365community.online/how-to-import-contact-point-consent-records"/>
+        <updated>2024-11-12T08:20:00.000Z</updated>
+        <summary type="html"><![CDATA[One of the most important things when it comes to Realtime Marketing in Customer Insights – Journeys is knowing that Contact Point Consent (CPC) records are what keep you compliant, making sure you aren’t emailing people who have already unsubscribed. If you have only ever used the marketing app in D365 for this, then you […]]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Process Mining In The Field (2) – Setup]]></title>
+        <id>http://dynamicsax-fico.com/?p=6800</id>
+        <link href="https://dynamicsax-fico.com/2024/11/12/process-mining-in-the-field-2-setup/"/>
+        <updated>2024-11-12T05:58:03.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Explore the Latest Grid Enhancements in Dynamics 365 and Power Apps – YouTube]]></title>
+        <id>https://365community.online/how-to-explore-the-latest-grid-enhancements-in-dynamics-365-and-power-apps-youtube</id>
+        <link href="https://365community.online/how-to-explore-the-latest-grid-enhancements-in-dynamics-365-and-power-apps-youtube"/>
+        <updated>2024-11-12T05:00:30.000Z</updated>
+        <summary type="html"><![CDATA[In this video, we dive into the latest grid enhancements in Dynamics 365 and Power Apps. Learn how to leverage the new features like Reorder Column Control, Infinite Scrolling, Group By Column, and Aggregate Numerical Columns to enhance your user experience and boost productivity. These improvements make data management more efficient and customizable, helping you […]]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamlining Project Management with Dynamics 365 Business Central: Overcoming Common Challenges]]></title>
+        <id>https://erpsoftwareblog.com/?p=120699</id>
+        <link href="https://erpsoftwareblog.com/2024/11/streamline-projects-management-challenges-with-dynamic-365-business-central-solution/"/>
+        <updated>2024-11-12T04:20:28.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Project Management is a critical aspect of business, and it juggles core elements like time, budget and quality. However, not every organization can manage their projects effectively. Indeed, statistics indicate […]
+The post Streamlining Project Management with Dynamics 365 Business Central: Overcoming Common Challenges appeared first on ERP Software Blog.
+A Step-by-Step Guide: How to Calculate Job Costing in Business Central
+Optimizing Resource Allocation in Construction Using Business Central
+Implementing Quality Management in IT Projects]]></summary>
+        <author>
+            <name>Dynamics Square AU</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Using the Smart Paste (Preview) feature to fill the form fast in Dataverse / Dynamics 365]]></title>
         <id>https://365community.online/using-the-smart-paste-preview-feature-to-fill-the-form-fast-in-dataverse-dynamics-365</id>
@@ -335,6 +520,21 @@ La différence entre Microsoft Dynamics 365 Business Central et Microsoft Dynami
 Protect Your Business from Data Loss with Microsoft’s Data Loss Prevention Software]]></summary>
         <author>
             <name>Dynamics Square CA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comparing Odoo and Business Central for Manufacturers]]></title>
+        <id>https://erpsoftwareblog.com/?p=119403</id>
+        <link href="https://erpsoftwareblog.com/2024/11/comparing-odoo-and-business-central-for-manufacturers/"/>
+        <updated>2024-11-08T14:53:17.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Choosing the right ERP system can be one of the most important decisions a manufacturing company makes—particularly for small and medium-sized businesses looking to stay competitive. With so many options […]
+The post Comparing Odoo and Business Central for Manufacturers  appeared first on ERP Software Blog.
+12 Reasons to Consider Upgrading from Peachtree to Microsoft Dynamics GP Accounting Software
+10 Signs You've Outgrown Your Accounting Software
+13 Reasons to say “Good-bye” to Quickbooks and “Hello” to Dynamics GP]]></summary>
+        <author>
+            <name>Sabre Limited</name>
         </author>
     </entry>
     <entry>
