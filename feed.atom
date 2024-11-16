@@ -2,10 +2,175 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-11-15T00:54:50.491Z</updated>
+    <updated>2024-11-16T00:54:00.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Enhance Efficiency by Automating Manual Data Entry]]></title>
+        <id>https://erpsoftwareblog.com/?p=120857</id>
+        <link href="https://erpsoftwareblog.com/2024/11/enhance-efficiency-by-automating-manual-data-entry/"/>
+        <updated>2024-11-15T20:02:07.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Manual data entry remains a persistent challenge in today’s fast-paced business landscape. Whether it’s processing invoices, extracting information from forms, or handling other document-related tasks, manual data entry is time-consuming, […]
+The post Enhance Efficiency by Automating Manual Data Entry appeared first on ERP Software Blog.
+Top 5 Benefits of Workflow Automation in Document Management
+Unlocking the Power of Workflow Automation in Document Management
+How MetaDocs Can Help You Streamline Document Management in Business Central]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leveraging Advanced Analytics for Financial Planning in Manufacturing]]></title>
+        <id>https://erpsoftwareblog.com/?p=120854</id>
+        <link href="https://erpsoftwareblog.com/2024/11/leveraging-advanced-analytics-for-financial-planning-in-manufacturing/"/>
+        <updated>2024-11-15T18:49:38.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Advanced analytics, especially when integrated with Accounts Payable (AP) automation, can significantly transform how manufacturers manage complex supply chains and production schedules. By leveraging technologies like MetaViewer’s AP Automation, manufacturers […]
+The post Leveraging Advanced Analytics for Financial Planning in Manufacturing appeared first on ERP Software Blog.
+Enhancing Accounts Payable Automation with Intelligent Recognition
+Optimizing Payment Accuracy: The Role of AP Automation in Mitigating Errors
+The Rise of Remote AP Automation: Empowering On-the-Go Financial Management]]></summary>
+        <author>
+            <name>MetaViewer from Metafile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central vs. NetSuite: Which ERP Fits Your Business?]]></title>
+        <id>https://erpsoftwareblog.com/?p=120829</id>
+        <link href="https://erpsoftwareblog.com/2024/11/business-central-vs-netsuite-which-erp-fits-your-business/"/>
+        <updated>2024-11-15T17:26:47.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+As your business grows, managing operations becomes more complex. An ERP system can help. Microsoft Dynamics 365 Business Central and Oracle NetSuite are two leading options for manufacturers. Two names […]
+The post Business Central vs. NetSuite: Which ERP Fits Your Business? appeared first on ERP Software Blog.
+Process, Discrete and Mixed Mode Manufacturing; 3 Business Issues - 3 Dynamic Solutions!
+Real Life Reasons Why Two Manufacturing Companies Replaced Peachtree with Microsoft Dynamics GP
+Stila Cosmetics Selects Dynamics ERP Over Oracle And Sage]]></summary>
+        <author>
+            <name>Sabre Limited</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Have your voice heard - Future of GP Survey]]></title>
+        <id>https://erpsoftwareblog.com/?p=120848</id>
+        <link href="https://erpsoftwareblog.com/2024/11/have-your-voice-heard-future-of-gp-survey/"/>
+        <updated>2024-11-15T14:32:33.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Have your voice heard!  GP Support North and our parent Endeavour Solutions have partnered with AccountingWare, the makers of ActivReporter for Dynamics GP.  This is the 3rd year for AccountingWare's annual Future of GP Survey.   Both of our organizations are strong supporters of Dynamics GP.  
+The post Have your voice heard - Future of GP Survey appeared first on ERP Software Blog.
+Dynamics GP Year-End Closing Procedures
+Video Recording - Dynamics GP 18.5 What's New in 2023
+April 4th News - Microsoft Announces price increases for Dynamics GP]]></summary>
+        <author>
+            <name>GP Support North</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central: Suggest Document Lines with AI]]></title>
+        <id>https://365community.online/business-central-suggest-document-lines-with-ai</id>
+        <link href="https://365community.online/business-central-suggest-document-lines-with-ai"/>
+        <updated>2024-11-15T13:11:29.000Z</updated>
+        <summary type="html"><![CDATA[Business Central: Suggest Document Lines with AI “Suggest document lines with Copilot integration in Microsoft Dynamics 365 Business Central” A new App has been released, based on Copilot and Azure OpenAI. The App extends the existing features released by Microsoft, adding additional usage scenarios on different categories of documents, using different prompts ready to use. […]]]></summary>
+        <author>
+            <name>Roberto Stefanetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Word Template Mail Merge in Business Central: What is it?]]></title>
+        <id>https://365community.online/word-template-mail-merge-in-business-central-what-is-it</id>
+        <link href="https://365community.online/word-template-mail-merge-in-business-central-what-is-it"/>
+        <updated>2024-11-15T11:00:03.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I familiarise myself with Microsoft Dynamics 365 Business Central. The mail merge functionality in Business Central is relatively new, […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: Power Automate Find Records action demistified.]]></title>
+        <id>https://365community.online/dynamics-365-business-central-power-automate-find-records-action-demistified</id>
+        <link href="https://365community.online/dynamics-365-business-central-power-automate-find-records-action-demistified"/>
+        <updated>2024-11-15T09:31:40.000Z</updated>
+        <summary type="html"><![CDATA[When talking about Power Automate or Azure Logic Apps workflows for Dynamics 365 Business Central, I often see that the Find records action is sometimes abused and generates lots of confusion. The Find records action always returns a collection or list of records that matches the applied filters, even if there’s only one record. The current action […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chat 2 – Marketing Journeys – Real-time Chats – YouTube]]></title>
+        <id>https://365community.online/chat-2-marketing-journeys-real-time-chats-youtube</id>
+        <link href="https://365community.online/chat-2-marketing-journeys-real-time-chats-youtube"/>
+        <updated>2024-11-15T08:57:07.000Z</updated>
+        <summary type="html"><![CDATA[Chat 2 – Marketing Journeys – Real-time Chats Real-time chats for Dynamics 365 Marketers with Amey Holden and Megan V. Walker. Amey and I have a little catch up, and chat about some new features that have just come out in November, delve in to Lead Scoring in Real-time, and try not to panic too […]]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Most Powerful Word in Consulting – YouTube]]></title>
+        <id>https://365community.online/the-most-powerful-word-in-consulting-youtube</id>
+        <link href="https://365community.online/the-most-powerful-word-in-consulting-youtube"/>
+        <updated>2024-11-15T07:00:22.000Z</updated>
+        <summary type="html"><![CDATA[The Most Powerful Word in Consulting The Most Powerful Word in Consulting The Most Powerful Word in Consulting source]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How ERP Accounting Software Redefines Accounting for Growing Businesses]]></title>
+        <id>https://erpsoftwareblog.com/?p=120842</id>
+        <link href="https://erpsoftwareblog.com/2024/11/how-erp-accounting-software-redefines-accounting-for-growing-businesses/"/>
+        <updated>2024-11-15T06:48:41.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+ERP software simplifies and automates complex accounting tasks, offering businesses a unified platform to oversee all financial data and processes with precision and efficiency. Beyond just accounting, ERP systems integrate […]
+The post How ERP Accounting Software Redefines Accounting for Growing Businesses appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Intelegain Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 user queue: control which emails are synced. Default to No email messages.]]></title>
+        <id>https://365community.online/d365-user-queue-control-which-emails-are-synced-default-to-no-email-messages</id>
+        <link href="https://365community.online/d365-user-queue-control-which-emails-are-synced-default-to-no-email-messages"/>
+        <updated>2024-11-15T06:40:12.000Z</updated>
+        <summary type="html"><![CDATA[Recently we set up Dynamics 365 App for Outlook for a customer. https://learn.microsoft.com/en-us/dynamics365/outlook-app/deploy-dynamics-365-app-for-outlook Dynamics 365 App for Outlook works with customer engagement apps (such as Dynamics 365 Sales, Dynamics 365 Customer Service, Dynamics 365 Marketing, Dynamics 365 Field Service, Dynamics 365 Project Service Automation, and]]></summary>
+        <author>
+            <name>Olena Grischenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digitalization in Germany v1111😉]]></title>
+        <id>http://dynamicsax-fico.com/?p=6891</id>
+        <link href="https://dynamicsax-fico.com/2024/11/15/digitalization-in-germany-v1111%f0%9f%98%89/"/>
+        <updated>2024-11-15T05:36:39.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Become a ProPilot: Lesson 03 – YouTube]]></title>
+        <id>https://365community.online/become-a-propilot-lesson-03-youtube</id>
+        <link href="https://365community.online/become-a-propilot-lesson-03-youtube"/>
+        <updated>2024-11-15T04:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Presenter: Geetha Sivasailam Explore key concepts, Responsible AI, actions, voice-enabled capabilities, customizations, and language support. source]]></summary>
+        <author>
+            <name>Victor Dantas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Error Handling for Project Schedule API in Power Automate]]></title>
+        <id>https://365community.online/error-handling-for-project-schedule-api-in-power-automate</id>
+        <link href="https://365community.online/error-handling-for-project-schedule-api-in-power-automate"/>
+        <updated>2024-11-15T02:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Calling Project Schedule APIs within Power Automate cloud flows with Perform an Unbound Action can streamline project management tasks, but it requires careful error handling to prevent operational issues. The Project Schedule APIs in Power Automate rely on an Operation Set to group multiple requests into a single transaction. Typically, the flow structure involves Create… […]]]></summary>
+        <author>
+            <name>Linn Zaw Win</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 Best Manufacturing ERP for Small Business in 2024]]></title>
         <id>https://erpsoftwareblog.com/?p=120826</id>
@@ -54165,37 +54330,6 @@ public static str getErrorStr(container _cont)
         <summary type="html"><![CDATA[With OData actions, it is easy to execute data jobs in Dynamics 365 Finance and Operations.]]></summary>
         <author>
             <name>Henrik Marx Larsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sometimes you pay Reverse Charge in D365]]></title>
-        <id>https://erconsult.eu/?p=7356</id>
-        <link href="https://erconsult.eu/blog/sometimes-you-pay-reverse-charge-in-d365/"/>
-        <updated>2022-11-16T19:28:04.000Z</updated>
-        <summary type="html"><![CDATA[Under the “reverse charge system” it is the company receiving the service that is liable to pay the VAT, and not the company providing the service. Normally, the net amount of VAT to pay is offset by the same amount of the receivable VAT, and the tax burden remains 0. But not […]
-The post Sometimes you pay Reverse Charge in D365 appeared first on ER-Consult.]]></summary>
-        <author>
-            <name>Eugen Glasow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Subscription Billing - Expense Deferrals]]></title>
-        <id>https://www.d365fandom.com/2022/11/subscription-billing-expense-deferrals.html</id>
-        <link href="https://www.d365fandom.com/2022/11/subscription-billing-expense-deferrals.html"/>
-        <updated>2022-11-16T13:44:00.001Z</updated>
-        <summary type="html"><![CDATA[A nice addition to the Subscription billing module is Expense deferrals. It's a subtle addition, and some may not even notice it's there! However, you may see benefit if you are part of an organization that pays for large subscriptions, memberships, or investments upfront and you require a methodology to defer these large expenses into an account then move these expenses from that deferred account into an expense account over a period of time. 
-
-
-This new addition is not quite as obvious as the Revenue deferral piece discussed in the previous blog: Subscription Billing - Revenue Deferrals, but it is very powerful and can be leveraged in any organization! 
-Let's look at how to set up Expense deferrals in Microsoft Dynamics 365 for Finance!
-
-
-Deferral Defaults
-
-
-Similar to the Revenue deferr…]]></summary>
-        <author>
-            <name>D365FandO(m)</name>
         </author>
     </entry>
     <entry>
