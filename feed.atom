@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-11-16T00:54:00.116Z</updated>
+    <updated>2024-11-17T00:58:04.109Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Copilot in D365 HR: Task recording you are out!]]></title>
+        <id>https://365community.online/copilot-in-d365-hr-task-recording-you-are-out</id>
+        <link href="https://365community.online/copilot-in-d365-hr-task-recording-you-are-out"/>
+        <updated>2024-11-16T13:53:36.000Z</updated>
+        <summary type="html"><![CDATA[Those who have worked with Dynamics 365 ERP for some time now will likely know what task recordings are. Luckily if you don't belong to that group: you are very lucky. Task recording was a solution we used as consultants to create guides for end users. There are two different schools of thought: ‍⚕️The caretaker: […]]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Planning to Execution: Effective Dynamics 365 Business Central Implementation Techniques]]></title>
+        <id>https://erpsoftwareblog.com/?p=120845</id>
+        <link href="https://erpsoftwareblog.com/2024/11/dynamics-365-business-central-implementation-steps/"/>
+        <updated>2024-11-16T06:32:00.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+A business is a magnificent structure. To build it successfully, you need a robust foundation and a clear blueprint. Implementing the Dynamics 365 Business Central to drive your business growth […]
+The post From Planning to Execution: Effective Dynamics 365 Business Central Implementation Techniques appeared first on ERP Software Blog.
+How to save up to $20,000 per year with Dynamics 365 Business Central 
+Microsoft Dynamics 365 Business Central ERP Implementation: Ask Yourself ‘Which Features Do I Really Need?’
+ERP vs. CRM Software: How Are They Different?]]></summary>
+        <author>
+            <name>Dynamics Square AU</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Send Sales Invoice, Sales Confirmation and Sales Packing Slip in a Single Email]]></title>
+        <id>https://ax.docentric.com/?p=28083</id>
+        <link href="https://ax.docentric.com/send-sales-invoice-sales-confirmation-and-sales-packing-slip-in-a-single-email/"/>
+        <updated>2024-11-16T01:37:08.000Z</updated>
+        <summary type="html"><![CDATA[I recently got a question about how to send a Sales Invoice, Sales Confirmation, and Sales Packing Slip all in one email. At first, I thought it might require changing some code, but a colleague shared an easier way to do it, and it worked […]
+The post Send Sales Invoice, Sales Confirmation and Sales Packing Slip in a Single Email appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Amir Omanović</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Enhance Efficiency by Automating Manual Data Entry]]></title>
         <id>https://erpsoftwareblog.com/?p=120857</id>
@@ -67,6 +103,16 @@ April 4th News - Microsoft Announces price increases for Dynamics GP]]></summary
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What is Kubernetes (K8s)? Quick & Crisp Explanation #shorts #kubernetes #tech | MindMajix – YouTube]]></title>
+        <id>https://365community.online/what-is-kubernetes-k8s-quick-crisp-explanation-shorts-kubernetes-tech-mindmajix-youtube</id>
+        <link href="https://365community.online/what-is-kubernetes-k8s-quick-crisp-explanation-shorts-kubernetes-tech-mindmajix-youtube"/>
+        <updated>2024-11-15T13:25:00.000Z</updated>
+        <summary type="html"><![CDATA[In this #short video, we break down what is Kubernetes and how it works in a simple and easy-to-understand way. If you’re exploring cloud computing, DevOps, or containerization, Kubernetes is essential for managing containerized applications at scale. Learn how Kubernetes organizes, deploys, and manages applications seamlessly. See which top companies are looking for Kubernetes skills […]]]></summary>
+        <author>
+            <name>365 Community</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Business Central: Suggest Document Lines with AI]]></title>
         <id>https://365community.online/business-central-suggest-document-lines-with-ai</id>
         <link href="https://365community.online/business-central-suggest-document-lines-with-ai"/>
@@ -84,6 +130,16 @@ April 4th News - Microsoft Announces price increases for Dynamics GP]]></summary
         <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I familiarise myself with Microsoft Dynamics 365 Business Central. The mail merge functionality in Business Central is relatively new, […]]]></summary>
         <author>
             <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Achieving Work-Life Balance During the Holiday Season #GetMerry4Holidays]]></title>
+        <id>https://365community.online/achieving-work-life-balance-during-the-holiday-season-getmerry4holidays</id>
+        <link href="https://365community.online/achieving-work-life-balance-during-the-holiday-season-getmerry4holidays"/>
+        <updated>2024-11-15T10:26:26.000Z</updated>
+        <summary type="html"><![CDATA[As the holidays approach, businesses are typically in overdrive, with an increased workload and tighter deadlines. This time of year is especially challenging for startups and mid-sized companies that may have limited resources and fewer staff to spread the sudden influx of work. In our #GetMerry4Holidays series, we’re kicking off with tips on finding a […]]]></summary>
+        <author>
+            <name>Inogic</name>
         </author>
     </entry>
     <entry>
@@ -149,6 +205,16 @@ With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summar
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dev Box Structure Secrets You Won’t Believe Exist – YouTube]]></title>
+        <id>https://365community.online/dev-box-structure-secrets-you-wont-believe-exist-youtube</id>
+        <link href="https://365community.online/dev-box-structure-secrets-you-wont-believe-exist-youtube"/>
+        <updated>2024-11-15T04:00:37.000Z</updated>
+        <summary type="html"><![CDATA[Uncover the secrets of Microsoft Dev Box structure for Dev Center, Resource Group, and Projects in this eye-opening video. Learn the hidden gems that will take your development projects to the next level! Episode Breakdown: 00:00 – Episode Intro 00:51 – Episode Breakdown 01:18 – Dev Center, Resource Group, and Project Structure 03:41 – Catalogue […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
         </author>
     </entry>
     <entry>
