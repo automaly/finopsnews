@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-11-17T00:58:04.109Z</updated>
+    <updated>2024-11-18T00:56:14.689Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Get ready for Microsoft Ignite 2024]]></title>
+        <id>https://365community.online/get-ready-for-microsoft-ignite-2024</id>
+        <link href="https://365community.online/get-ready-for-microsoft-ignite-2024"/>
+        <updated>2024-11-17T14:30:36.000Z</updated>
+        <summary type="html"><![CDATA[Next week Microsoft Ignite 2024 will be held. It’s a hybrid event, where you can attend in-person in Chicago as well as virtually. Attendees traveling to Chicago will be able to enjoy keynotes and other sessions live, along with the benefits of meeting in-person, such as official and unofficial meetups, discussing around the latest announcements […]]]></summary>
+        <author>
+            <name>Carina Claesson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Model-driven app for D365HR]]></title>
+        <id>https://365community.online/model-driven-app-for-d365hr</id>
+        <link href="https://365community.online/model-driven-app-for-d365hr"/>
+        <updated>2024-11-17T12:37:45.000Z</updated>
+        <summary type="html"><![CDATA[As you know the recent Recruitment add-on for Dynamics 365 Human Resources was delivered not to long ago. I've started to play around with it. I'm presenting this series of small articles where I walk you through the navigation and how to start using it. Now we will review how to add candidates. First of […]]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Copilot in D365 HR: Task recording you are out!]]></title>
         <id>https://365community.online/copilot-in-d365-hr-task-recording-you-are-out</id>
@@ -546,6 +566,17 @@ Enhancing Accounts Payable Automation with Intelligent Recognition]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Creating and explaining formulas with Copilot now even easier]]></title>
+        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/creating-and-explaining-formulas-with-copilot-now-even-easier/</id>
+        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/creating-and-explaining-formulas-with-copilot-now-even-easier/"/>
+        <updated>2024-11-12T21:55:55.000Z</updated>
+        <summary type="html"><![CDATA[Power Apps introduces the new 'Create a Formula' feature, making it easier than ever to build and edit Power Fx formulas. Plus, now you can explain partial formulas too!
+The post Creating and explaining formulas with Copilot now even easier appeared first on Microsoft Power Platform Blog.]]></summary>
+        <author>
+            <name>Warren Bryant</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Seven Business Central Distribution Apps from Insight Works]]></title>
         <id>https://erpsoftwareblog.com/?p=120739</id>
         <link href="https://erpsoftwareblog.com/2024/11/seven-business-central-distribution-apps-from-insight-works/"/>
@@ -778,6 +809,17 @@ Chemical Manufacturing; MSDS, Formulas, and Microsoft Dynamics GP
 Supply Chain Management – See Everything Using Microsoft Dynamics GP]]></summary>
         <author>
             <name>Sabre Limited</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Git Integration in Power Platform (preview)]]></title>
+        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/introducing-git-integration-in-power-platform-preview/</id>
+        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/introducing-git-integration-in-power-platform-preview/"/>
+        <updated>2024-11-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Now in public preview, Git Integration provides a streamlined experience for developers and citizen developers to build solutions together using the same development processes and best practices. Fusion teams are more productive with familiar Git functionality available directly within their environment. This native integration provides faster setup and iterations, developer and feature isolation, change tracking
+The post Introducing Git Integration in Power Platform (preview) appeared first on Microsoft Power Platform Blog.]]></summary>
+        <author>
+            <name>Casey Burke and Shan McArthur</name>
         </author>
     </entry>
     <entry>
