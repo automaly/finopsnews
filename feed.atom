@@ -2,10 +2,228 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-11-19T00:54:41.434Z</updated>
+    <updated>2024-11-20T00:54:08.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Optimizing Your Legacy Dynamics AX System(AX2012, AX2009, AX40)]]></title>
+        <id>https://denistrunin.com/ax2012-howtosupport/</id>
+        <link href="https://denistrunin.com/ax2012-howtosupport/"/>
+        <updated>2024-11-19T22:12:03.000Z</updated>
+        <summary type="html"><![CDATA[Optimizing and maintaining a legacy Dynamics AX system can be challenging. This guide provides actionable steps, from technical audits to performance monitoring, helping you keep your system running smoothly.]]></summary>
+        <author>
+            <name>Gatsby RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buyer’s Guide: How To Buy a New ERP Solution]]></title>
+        <id>https://www.encorebusiness.com/?p=65892</id>
+        <link href="https://www.encorebusiness.com/blog/buyers-guide-how-to-buy-a-new-erp-solution/"/>
+        <updated>2024-11-19T20:59:46.000Z</updated>
+        <summary type="html"><![CDATA[Buyer’s Guide: How To Buy a New ERP Solution
+If you’re evaluating a new ERP solution, like Dynamics 365 Business Central, this recorded webinar will walk you through the essential steps and considerations for selecting the right one for your business. Encore Account Executive Darren Atkins will discuss: Evaluating Business Needs Requirements: Functional and Non-Functional Overall Gap-Fit Data Migrations Budgetary Alignment One-time implementation costs...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Darren Atkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manage solution dependencies easily through the refreshed look – Dataverse]]></title>
+        <id>https://365community.online/manage-solution-dependencies-easily-through-the-refreshed-look-dataverse</id>
+        <link href="https://365community.online/manage-solution-dependencies-easily-through-the-refreshed-look-dataverse"/>
+        <updated>2024-11-19T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In Dataverse, solution dependencies are a vital aspect of managing and deploying applications. Dependencies ensure that required components are present for a solution to work seamlessly across environments. However, with complex solutions, understanding and managing these dependencies can become overwhelming. The updated dependencies page is designed to simplify dependency management by… Continue Reading Nishant Rana’s […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 4 Reasons to Upgrade To The Latest Version of Microsoft Dynamics GP]]></title>
+        <id>https://erpsoftwareblog.com/?p=121056</id>
+        <link href="https://erpsoftwareblog.com/2024/11/top-4-reasons-to-upgrade-to-the-latest-version-of-microsoft-dynamics-gp/"/>
+        <updated>2024-11-19T19:37:40.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Upgrading to the latest version of Microsoft Dynamics GP offers a host of benefits that can enhance your business efficiency and keep you ahead in a competitive market. Here are […]
+The post Top 4 Reasons to Upgrade To The Latest Version of Microsoft Dynamics GP appeared first on ERP Software Blog.
+What’s New in Microsoft Dynamics GP 2015?
+Tips to Improve Cash Flow from Accounts Receivable Policies
+Microsoft Dynamics GP Timecard Entry - Overview]]></summary>
+        <author>
+            <name>Mekorma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Business Central Subscription Management Is a Recipe for Success]]></title>
+        <id>https://erpsoftwareblog.com/?p=121042</id>
+        <link href="https://erpsoftwareblog.com/2024/11/why-business-central-subscription-management-is-a-recipe-for-success/"/>
+        <updated>2024-11-19T16:47:16.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The Perfect Blend of Growth and Gratitude Thanksgiving is a time to reflect on what helps your business thrive. For companies relying on recurring revenue models, effective subscription management is […]
+The post Why Business Central Subscription Management Is a Recipe for Success appeared first on ERP Software Blog.
+Learn How To Save Time By Using The "Cancel" Option to Reverse A Posted Sales Invoice
+Streamline Your Make to Order Supply Chain Automation in Dynamics 365
+Create A New Item In Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Michael Intravartolo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Industry-Focused Packaged ERP Implementations: Unlock success with these Benefits, Challenges, and Key Steps]]></title>
+        <id>https://erpsoftwareblog.com/?p=120997</id>
+        <link href="https://erpsoftwareblog.com/2024/11/industry-focused_erp_packaged_implementations/"/>
+        <updated>2024-11-19T15:17:35.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In this article, we'll explore: Packaged ERP Implementations:  What they offer Why Industry Experience Matters? Advantages of an Industry-Focused Implementation Mitigating Potential Challenges with Packaged ERP Implementations Is a Packaged […]
+The post Industry-Focused Packaged ERP Implementations: Unlock success with these Benefits, Challenges, and Key Steps appeared first on ERP Software Blog.
+Software Implementations:  Conform to the Software or Make it Conform to You?
+Scaling up: 6 signs it's time to ditch QuickBooks
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve]]></summary>
+        <author>
+            <name>Stephanie Clark, Elliott Clark Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Salesforce to Dynamics 365 Migration | Simple Guide]]></title>
+        <id>https://erpsoftwareblog.com/?p=120990</id>
+        <link href="https://erpsoftwareblog.com/2024/11/salesforce-to-dynamics-365-migration-simple-guide/"/>
+        <updated>2024-11-19T13:53:02.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+For organizations that want an efficient CRM system that is integrated and is highly scalable, migration from Salesforce to Dynamics 365 can be quite beneficial. The advantages of Dynamics 365 […]
+The post Salesforce to Dynamics 365 Migration | Simple Guide appeared first on ERP Software Blog.
+Microsoft Dynamics CRM and Salesforce Forecasting and Analyses
+An Early Look at Dynamics 365 - One Platform for ERP, CRM, and Applications
+A Wake-up Call - A Game Changer Is on the Way]]></summary>
+        <author>
+            <name>Dynamics Square CA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Architectural Firm Enhances Security, Reduces Operating Costs by 40 Percent with Azure Virtual Desktop]]></title>
+        <id>https://erpsoftwareblog.com/?p=120996</id>
+        <link href="https://erpsoftwareblog.com/2024/11/architectural-firm-enhances-security-reduces-operating-costs-by-40-percent-with-azure-virtual-desktop/"/>
+        <updated>2024-11-19T13:22:47.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+During the Covid epidemic, many companies found their premises systems became severely strapped when employees were forced to work from home. For many, it was a clear call that it […]
+The post Architectural Firm Enhances Security, Reduces Operating Costs by 40 Percent with Azure Virtual Desktop appeared first on ERP Software Blog.
+Effective Business Analytics In or Out of the Cloud
+How Alaska Clean Seas Uses Microsoft Dynamics GP Fixed Assets to Cut Work Time From 7 Days to 2 Hours
+Microsoft Dynamics GP Integration Supports Growing Real Estate Coaching & Training Organization]]></summary>
+        <author>
+            <name>JourneyTEAM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Centralize and Simplify: Unleashing the Power of Document Management System (DMS)]]></title>
+        <id>https://erpsoftwareblog.com/?p=120995</id>
+        <link href="https://erpsoftwareblog.com/2024/11/centralize-and-simplify-unleashing-the-power-of-document-management-system-dms/"/>
+        <updated>2024-11-19T13:15:27.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In a digital-first world, effective document management is no longer optional—it’s essential. Companies generate massive amounts of data today, and managing this information efficiently is crucial for streamlined operations and […]
+The post Centralize and Simplify: Unleashing the Power of Document Management System (DMS) appeared first on ERP Software Blog.
+How to Improve Compliance with a Document Management Solution?
+Why Contract Document Management is Key to Boosting Efficiency
+Unlocking the Power of Workflow Automation in Document Management]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How x2x transformed a Retailer's Operations through POS & ERP Integration]]></title>
+        <id>https://erpsoftwareblog.com/?p=120888</id>
+        <link href="https://erpsoftwareblog.com/2024/11/how-x2x-transformed-a-retailers-operations-through-pos-erp-integration/"/>
+        <updated>2024-11-19T13:12:38.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Implementing integration between Business Point of Sale and Enterprise Resource Planning systems, x2x eCommerce can transform a retailer's operations to include unhampered workflows, increased accuracy with data flow, and also scalable growth in business operations. Here is How x2x transformed a Retailer's Operations through POS & ERP […]
+The post How x2x transformed a Retailer's Operations through POS & ERP Integration appeared first on ERP Software Blog.
+Magento or Shopify – Which eCommerce Platform best suits your Business?
+Why Hybrid Solution for Acumatica & POS Integration?
+Mappings in x2x Acumatica and RMH Integration]]></summary>
+        <author>
+            <name>x2x eCommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Configure Editable Subgrids in Dynamics 365 or Dataverse Forms – YouTube]]></title>
+        <id>https://365community.online/how-to-configure-editable-subgrids-in-dynamics-365-or-dataverse-forms-youtube</id>
+        <link href="https://365community.online/how-to-configure-editable-subgrids-in-dynamics-365-or-dataverse-forms-youtube"/>
+        <updated>2024-11-19T12:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to configure editable subgrids in Dynamics 365 or Dataverse Forms to streamline record management. Editable subgrids allow users to manage related records directly from the parent record form, enhancing efficiency and user experience. This tutorial covers the step-by-step process to add and configure subgrids, ensuring the right settings and permissions are in place […]]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Word Template Mail Merge in Business Central: Create Word Template for Mail Merge]]></title>
+        <id>https://365community.online/word-template-mail-merge-in-business-central-create-word-template-for-mail-merge</id>
+        <link href="https://365community.online/word-template-mail-merge-in-business-central-create-word-template-for-mail-merge"/>
+        <updated>2024-11-19T11:00:44.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I familiarise myself with Microsoft Dynamics 365 Business Central. To create a new Word template there is an assisted […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Autonomous Agents are here! (preview)]]></title>
+        <id>https://365community.online/autonomous-agents-are-here-preview</id>
+        <link href="https://365community.online/autonomous-agents-are-here-preview"/>
+        <updated>2024-11-19T09:06:00.000Z</updated>
+        <summary type="html"><![CDATA[If you have been following any of the announcements from Microsoft around Copilot Studio than you might have heard the term autonomous agents before. For you who have no idea what I am talking about, let me explain what this is. An autonomous agent is an AI driven agent (previously known as Copilot) that can […]]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Studio: Autonomous Agents are here! (preview) – YouTube]]></title>
+        <id>https://365community.online/copilot-studio-autonomous-agents-are-here-preview-youtube</id>
+        <link href="https://365community.online/copilot-studio-autonomous-agents-are-here-preview-youtube"/>
+        <updated>2024-11-19T09:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Copilot Studio: Autonomous Agents are here! (preview) An autonomous agent is an AI driven agent (previously known as Copilot) that can automate business processes by making decisions and completing tasks on its own without needing constant human supervision. In this video I will build an autonomous agent that handles a very simple account onboarding process. […]]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Custom Entity & Add it to a Site Map in Power Apps in MS Dynamics 365 CE – YouTube]]></title>
+        <id>https://365community.online/how-to-create-a-custom-entity-add-it-to-a-site-map-in-power-apps-in-ms-dynamics-365-ce-youtube</id>
+        <link href="https://365community.online/how-to-create-a-custom-entity-add-it-to-a-site-map-in-power-apps-in-ms-dynamics-365-ce-youtube"/>
+        <updated>2024-11-19T09:00:53.000Z</updated>
+        <summary type="html"><![CDATA[This video is a step-by-step guide to understanding and working with entities in Microsoft Dynamics 365 CE. Learn what an entity is, how to create a custom entity, and the process of adding it to a site map using Power Apps. Enhance your knowledge of customizing Dynamics 365 to suit your business needs effortlessly. Whether […]]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auto Assign Leads Without Code Using Lead Scoring & Work Assignment]]></title>
+        <id>https://365community.online/auto-assign-leads-without-code-using-lead-scoring-work-assignment</id>
+        <link href="https://365community.online/auto-assign-leads-without-code-using-lead-scoring-work-assignment"/>
+        <updated>2024-11-19T08:20:00.000Z</updated>
+        <summary type="html"><![CDATA[I’ve written about creating your Lead Scoring models in Customer Insights – Journeys, and also explained how the Lead Scoring Qualification functionality works. I’m not really keen on the Qualification process as it’s not the right approach for everyone and it doesn’t assign Leads to people based on them reaching a specific score. However, if […]]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clone Records in Microsoft Dynamics 365 CRM!]]></title>
+        <id>https://365community.online/clone-records-in-microsoft-dynamics-365-crm</id>
+        <link href="https://365community.online/clone-records-in-microsoft-dynamics-365-crm"/>
+        <updated>2024-11-19T06:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Imagine a customer service team at a busy call center handling a flood of new requests and inquiries. Each record, including service requests and support tickets, requires meticulous manual entry, which can consume up to 40% of an employee’s time and lead to errors. Most of these requests/inquiries are similar in nature, but reps still […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Contact Center – Manage Chat SPAM]]></title>
+        <id>https://365community.online/dynamics-365-contact-center-manage-chat-spam</id>
+        <link href="https://365community.online/dynamics-365-contact-center-manage-chat-spam"/>
+        <updated>2024-11-19T04:25:31.000Z</updated>
+        <summary type="html"><![CDATA[In this post I will suggest some basic steps worth considering if you’re trying to reduce chat spam when using Microsoft’s Dynamics 365 Contact Center. I have previously explained how you should limit access to your chat widget to specific domains. If you haven’t configured your widget to only show from your domains … then […]]]></summary>
+        <author>
+            <name>Neil Parkhurst</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 Ways to Transform Production Scheduling in Business Central]]></title>
         <id>https://erpsoftwareblog.com/?p=120972</id>
@@ -242,6 +460,21 @@ Streamline Your Make to Order Supply Chain Automation in Dynamics 365]]></summar
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A Quick Reference to Dynamics 365 Customer Insights]]></title>
+        <id>https://erpsoftwareblog.com/?p=120986</id>
+        <link href="https://erpsoftwareblog.com/2024/11/dynamics-365-customer-insights/"/>
+        <updated>2024-11-17T07:36:33.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Customer data is the key weapon for any business and managing it properly can help it remain competitive and drive success. Regardless of whether you are a growing business or […]
+The post A Quick Reference to Dynamics 365 Customer Insights appeared first on ERP Software Blog.
+Insight Works Proudly Announces New Partner Acquisitions for March
+Tech Insider Update Reviews Latest Enhancements to Microsoft Technology Stack
+Register Now for JourneyTEAM’s 2021 Business Technology Summit]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Copilot in D365 HR: Task recording you are out!]]></title>
         <id>https://365community.online/copilot-in-d365-hr-task-recording-you-are-out</id>
         <link href="https://365community.online/copilot-in-d365-hr-task-recording-you-are-out"/>
@@ -320,6 +553,21 @@ Real Life Reasons Why Two Manufacturing Companies Replaced Peachtree with Micros
 Stila Cosmetics Selects Dynamics ERP Over Oracle And Sage]]></summary>
         <author>
             <name>Sabre Limited</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 Best CRM Systems in Canada | Features & Benefits]]></title>
+        <id>https://erpsoftwareblog.com/?p=120917</id>
+        <link href="https://erpsoftwareblog.com/2024/11/12-best-crm-systems-in-canada/"/>
+        <updated>2024-11-15T15:23:34.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Customer relationship management (CRM) is an essential movement in industries that emphasizes the importance of integrating clients into all business processes in order to improve effectiveness and profitability. CRM systems […]
+The post 12 Best CRM Systems in Canada | Features & Benefits appeared first on ERP Software Blog.
+How Real Companies are Using Dynamics 365
+Top CRM Consultant in Canada | Best in 2024
+Moving Accounting Functions to Electronic Workflow Saves Countless Hours, Millions of Dollars]]></summary>
+        <author>
+            <name>Dynamics Square CA</name>
         </author>
     </entry>
     <entry>
