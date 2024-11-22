@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-11-21T00:54:31.331Z</updated>
+    <updated>2024-11-22T00:55:17.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 and the Ostrich algorithm]]></title>
+        <id>https://365community.online/dynamics-365-and-the-ostrich-algorithm</id>
+        <link href="https://365community.online/dynamics-365-and-the-ostrich-algorithm"/>
+        <updated>2024-11-21T15:35:47.000Z</updated>
+        <summary type="html"><![CDATA[Through my career, performance have been a returning topic, and I have tried to share as much of my knowledge as possible.  Today I would like to write about the .initValue() method, that is actually more costly than you think. Even it is empty. I did a traceparsing to better understand the performance of inserting […]]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 and the Ostrich algorithm]]></title>
+        <id>http://kurthatlevik.com/?p=4656</id>
+        <link href="https://kurthatlevik.com/2024/11/21/dynamics-365-and-the-ostrich-algorithm/"/>
+        <updated>2024-11-21T15:35:47.000Z</updated>
+        <summary type="html"><![CDATA[Through my career, performance have been a returning topic, and I have tried to share as much of my knowledge as possible.  Today I would like to write about the .initValue() method, that is actually more costly than you think. Even it is empty. I did a traceparsing to better understand the performance of inserting … Continue reading Dynamics 365 and the Ostrich algorithm]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ignite ’24 – Power Platform Governance Announcements]]></title>
+        <id>https://365community.online/ignite-24-power-platform-governance-announcements</id>
+        <link href="https://365community.online/ignite-24-power-platform-governance-announcements"/>
+        <updated>2024-11-21T14:22:32.000Z</updated>
+        <summary type="html"><![CDATA[Being at Microsoft Ignite ’24 in Chicago is an amazing experience. Even MORE amazing are the announcements that the Power Platform Governance team has come out with. I’ve been fortunate enough to have been given early access to some of the features, and they’re really awesome. Below, I’ve summarised what I believe to be the […]]]></summary>
+        <author>
+            <name>thecrmninja</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Word Template Mail Merge in Business Central: Create Mail Merge from Business Central Entity]]></title>
+        <id>https://365community.online/word-template-mail-merge-in-business-central-create-mail-merge-from-business-central-entity</id>
+        <link href="https://365community.online/word-template-mail-merge-in-business-central-create-mail-merge-from-business-central-entity"/>
+        <updated>2024-11-21T11:00:33.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I familiarise myself with Microsoft Dynamics 365 Business Central. As well as creating a Word template from the Word […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[News from Directions EMEA 2024, one week later]]></title>
+        <id>https://365community.online/news-from-directions-emea-2024-one-week-later</id>
+        <link href="https://365community.online/news-from-directions-emea-2024-one-week-later"/>
+        <updated>2024-11-21T09:44:11.000Z</updated>
+        <summary type="html"><![CDATA[Pictures are better than a thousand words! At Direction EMEA 2024 many interesting things were presented, as expected AI was the main focus of the event. Even though I was not physically present, I followed part of the event and collected some pictures where it is possible to understand the news presented and the progress […]]]></summary>
+        <author>
+            <name>Roberto Stefanetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing Resource Allocation with the Resource Search Availability API in Dynamics 365 Field Service]]></title>
+        <id>https://365community.online/optimizing-resource-allocation-with-the-resource-search-availability-api-in-dynamics-365-field-service</id>
+        <link href="https://365community.online/optimizing-resource-allocation-with-the-resource-search-availability-api-in-dynamics-365-field-service"/>
+        <updated>2024-11-21T07:05:03.000Z</updated>
+        <summary type="html"><![CDATA[For any organization using Dynamics 365 Field Service, the ability to efficiently allocate resources can make all the difference in meeting customer demands and maintaining a competitive edge. Dynamics 365 Field Service allows us to leverage the Resource Search Availability API that revolutionizes resource allocation by providing real-time insights into resource availability. This API empowers […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Choosing the Right ERP: Everything Growing Businesses Need to Know]]></title>
         <id>https://erpsoftwareblog.com/?p=121104</id>
@@ -19,6 +79,16 @@ Microsoft Dynamics 365 Business Central is now available! Business without silos
 Self-Service Analytics: Exploring Your ERP Data for Maximum Insights]]></summary>
         <author>
             <name>Velosio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welsh Azure User Group  – November 2024 Event – YouTube]]></title>
+        <id>https://365community.online/welsh-azure-user-group-november-2024-event-youtube</id>
+        <link href="https://365community.online/welsh-azure-user-group-november-2024-event-youtube"/>
+        <updated>2024-11-20T20:38:53.000Z</updated>
+        <summary type="html"><![CDATA[Welsh Azure User Group – November 2024 Event It was the day of our Welsh Azure User Group #WAUG November 2024 meet up and we had yet another two amazing speakers join us. We were joined by the awesome Taiob Ali discussing Migrations of SQL servers into Azure. Then friend of WAUG Jake Walsh joined […]]]></summary>
+        <author>
+            <name>John Lunn</name>
         </author>
     </entry>
     <entry>
@@ -55134,16 +55204,6 @@ public static str getErrorStr(container _cont)
 }]]></summary>
         <author>
             <name>Adventures in Axapta world</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call Data Management in Dynamics 365 Finance and Operations using OData Actions]]></title>
-        <id>http://henrikmarxlarsen.wordpress.com/?p=2886</id>
-        <link href="https://henrikmarxlarsen.wordpress.com/2022/11/22/call-data-management-in-dynamics-365-finance-and-operations-using-odata-actions/"/>
-        <updated>2022-11-22T13:17:18.000Z</updated>
-        <summary type="html"><![CDATA[With OData actions, it is easy to execute data jobs in Dynamics 365 Finance and Operations.]]></summary>
-        <author>
-            <name>Henrik Marx Larsen</name>
         </author>
     </entry>
     <entry>
