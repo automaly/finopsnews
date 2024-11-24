@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-11-23T00:54:17.225Z</updated>
+    <updated>2024-11-24T00:58:27.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OOB: Power Apps + D365 HR]]></title>
+        <id>https://365community.online/oob-power-apps-d365-hr</id>
+        <link href="https://365community.online/oob-power-apps-d365-hr"/>
+        <updated>2024-11-23T19:42:33.000Z</updated>
+        <summary type="html"><![CDATA[After the intro published a week ago: Model-driven app for D365HR I decided to follow up and show you how two solutions can finish each other's processes. This OOB functionality is quite simple and easy to move things from ERP to PP and the other way around. Microsoft describes this add-on as: App that provides […]]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Pages CSP: Starter Settings]]></title>
+        <id>https://365community.online/power-pages-csp-starter-settings</id>
+        <link href="https://365community.online/power-pages-csp-starter-settings"/>
+        <updated>2024-11-23T12:31:09.000Z</updated>
+        <summary type="html"><![CDATA[While working on CSP (Content Security Policy) settings on Power Pages to make the site external connections or loading of external references more restrictive, we can find a few challenges if we restrict all to ‘self’, we will break a lot of out-of-the-box functionality as some fonts, scripts and content are by default hosted outside […]]]></summary>
+        <author>
+            <name>michelcarlo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What’s New in Quality Inspector v7.18 for Business Central?]]></title>
         <id>https://erpsoftwareblog.com/?p=121168</id>
@@ -105,6 +125,16 @@ To upgrade or not to upgrade: the case for moving from NAV to Dynamics 365 Busin
 Microsoft Dynamics 365 Business Central ERP Implementation: Ask Yourself ‘Which Features Do I Really Need?’]]></summary>
         <author>
             <name>Dynamics Square CA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlocking the Power of Azure Arc: Manage, Monitor, and Secure Your Hybrid Cloud – AzBytes – YouTube]]></title>
+        <id>https://365community.online/unlocking-the-power-of-azure-arc-manage-monitor-and-secure-your-hybrid-cloud-azbytes-youtube</id>
+        <link href="https://365community.online/unlocking-the-power-of-azure-arc-manage-monitor-and-secure-your-hybrid-cloud-azbytes-youtube"/>
+        <updated>2024-11-22T14:12:40.000Z</updated>
+        <summary type="html"><![CDATA[Unlocking the Power of Azure Arc: Manage, Monitor, and Secure Your Hybrid Cloud – AzBytes Welcome to another episode of AzBytes! In this video, John and Ty dive into the transformative benefits of Azure Arc, a game-changer for managing, monitoring, and updating on-premises servers. Discover how Azure Arc extends Azure management capabilities to on-premises, multi-cloud, […]]]></summary>
+        <author>
+            <name>John Lunn</name>
         </author>
     </entry>
     <entry>
