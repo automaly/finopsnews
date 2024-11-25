@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-11-24T00:58:27.887Z</updated>
+    <updated>2024-11-25T00:56:03.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Three Big improvements in UML Diagram Generator for Microsoft Dataverse]]></title>
+        <id>https://365community.online/three-big-improvements-in-uml-diagram-generator-for-microsoft-dataverse</id>
+        <link href="https://365community.online/three-big-improvements-in-uml-diagram-generator-for-microsoft-dataverse"/>
+        <updated>2024-11-24T19:59:53.000Z</updated>
+        <summary type="html"><![CDATA[I send a HUGE thanks to three of my fantastic users for these three new great features! Jim Novak at Microsoft got me a big pull request to support – not only just PlantUML – but also DBML.Matt Ritchie at Wesley Mission gave me a tip about supporting packages what I call Groups.@Warp999 suggested that […]]]></summary>
+        <author>
+            <name>Jonas Rapp ᴹᴠᴾ ??</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft BizApps Deutschland Podcast #40]]></title>
+        <id>http://dynamicsax-fico.com/?p=6598</id>
+        <link href="https://dynamicsax-fico.com/2024/11/24/microsoft-bizapps-deutschland-podcast-40/"/>
+        <updated>2024-11-24T17:02:49.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Planning to Execution: Effective Dynamics 365 Business Central Implementation Techniques]]></title>
+        <id>https://erpsoftwareblog.com/?p=121145</id>
+        <link href="https://erpsoftwareblog.com/2024/11/from-planning-to-execution-effective-dynamics-365-business-central-implementation-techniques/"/>
+        <updated>2024-11-24T06:20:59.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+A business is a magnificent structure. To build it successfully, you need a robust foundation and a clear blueprint. Implementing the Dynamics 365 Business Central to drive your business growth […]
+The post From Planning to Execution: Effective Dynamics 365 Business Central Implementation Techniques  appeared first on ERP Software Blog.
+6 Key Benefits of Cloud Computing for SMBs in 2018
+Top Reasons why SMBs Are Investing in Cloud-Based ERP System
+ERP SHERPA Program Provides a Self-Implementation Option for Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Dynamics Square AU</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code to Excel: Export Like a Pro!]]></title>
+        <id>https://365community.online/code-to-excel-export-like-a-pro</id>
+        <link href="https://365community.online/code-to-excel-export-like-a-pro"/>
+        <updated>2024-11-24T01:19:36.000Z</updated>
+        <summary type="html"><![CDATA[Yesterday, I received an interesting task that made me stretch my “developer” muscles. In this case, the task was to export the data to Excel from the client-side code and I was able to master the approach used by Model-Driven Apps natively. Since my research on the subject returned no posts I decided to share […]]]></summary>
+        <author>
+            <name>Andrew Butenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OOB: Power Apps + D365 HR]]></title>
         <id>https://365community.online/oob-power-apps-d365-hr</id>
@@ -110,6 +155,16 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>Don McNulty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lowcode Deployment approaches with Sabjan Sama – YouTube]]></title>
+        <id>https://365community.online/lowcode-deployment-approaches-with-sabjan-sama-youtube</id>
+        <link href="https://365community.online/lowcode-deployment-approaches-with-sabjan-sama-youtube"/>
+        <updated>2024-11-22T15:13:50.000Z</updated>
+        <summary type="html"><![CDATA[Explore power platform deployment approaches, lowcode approach using power platform pipelines. source]]></summary>
+        <author>
+            <name>Scottish Summit</name>
         </author>
     </entry>
     <entry>
