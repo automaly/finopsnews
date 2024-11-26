@@ -2,10 +2,135 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-11-25T00:56:03.596Z</updated>
+    <updated>2024-11-26T00:55:06.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Step-by-Step Guide to Customize Power BI Reports with Brand Colors]]></title>
+        <id>https://erpsoftwareblog.com/?p=120083</id>
+        <link href="https://erpsoftwareblog.com/2024/11/customize-power-bi-reports-with-brand-colors/"/>
+        <updated>2024-11-25T21:08:37.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Step-by-Step Guide to Customize Power BI Reports with Brand Colors Microsoft Power BI is a versatile tool for creating and sharing dynamic, interactive reports. It also offers customization options to […]
+The post Step-by-Step Guide to Customize Power BI Reports with Brand Colors appeared first on ERP Software Blog.
+A Power Platform Success Story: Western Computer Delivers New Automations and Insights
+Top 5 reasons to use Microsoft Power BI
+Ways to collaborate and share reports and dashboards in Power BI]]></summary>
+        <author>
+            <name>ArcherPoint</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Xrm.Utility.getPageContext().input to identity or get parent record details for the Quick Create form – Dataverse / Dynamics 365]]></title>
+        <id>https://365community.online/using-xrm-utility-getpagecontext-input-to-identity-or-get-parent-record-details-for-the-quick-create-form-dataverse-dynamics-365</id>
+        <link href="https://365community.online/using-xrm-utility-getpagecontext-input-to-identity-or-get-parent-record-details-for-the-quick-create-form-dataverse-dynamics-365"/>
+        <updated>2024-11-25T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently we had a requirement to make different sets of fields mandatory and non-mandatory on the Quick Create form for Contact, based on the parent record type it is opened from. Quick Create Form As we cannot have multiple Quick Create Form specified for different forms, we had to use JavaScript to identify the parent […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transforming AP with Business Central: How New View Strategies Can Guide Your Paperless Transition]]></title>
+        <id>https://erpsoftwareblog.com/?p=120860</id>
+        <link href="https://erpsoftwareblog.com/2024/11/transforming-ap-with-business-central-how-new-view-strategies-can-guide-your-paperless-transition/"/>
+        <updated>2024-11-25T16:39:32.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Many businesses still cling to paper-based accounts payable processes, viewing the transition to paperless as a daunting future endeavor rather than an immediate opportunity. Maybe you have towering filing cabinets […]
+The post Transforming AP with Business Central: How New View Strategies Can Guide Your Paperless Transition appeared first on ERP Software Blog.
+Popular Coffee Chain Automates Its Distribution and Financial Processes with Microsoft Dynamics Business Central
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+What is Microsoft Dynamics 365 Business Central? - Webinar]]></summary>
+        <author>
+            <name>New View Strategies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to prevent duplicate contacts in d365 CRM via Plugin(Pre-Operation) with email Validation – YouTube]]></title>
+        <id>https://365community.online/how-to-prevent-duplicate-contacts-in-d365-crm-via-pluginpre-operation-with-email-validation-youtube</id>
+        <link href="https://365community.online/how-to-prevent-duplicate-contacts-in-d365-crm-via-pluginpre-operation-with-email-validation-youtube"/>
+        <updated>2024-11-25T13:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to create a Pre-Operation Plugin in Dynamics 365 CRM to prevent duplicate contacts based on email addresses. In this step-by-step tutorial, we implement a plugin that checks for existing records with the same email and blocks duplicate contact creation. #dynamics365 #crm #email #microsoftsoftware #microsoftdynamics #crmsoftware #techtutorial #plugin #Pre-OperationPlugin #errormessage #duplicateprevention #tutorial #d365crm source]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central App Upgrade: New Features in Quality Inspector v7.18]]></title>
+        <id>https://erpsoftwareblog.com/?p=121190</id>
+        <link href="https://erpsoftwareblog.com/2024/11/business-central-app-upgrade-new-features-in-quality-inspector-v7-18/"/>
+        <updated>2024-11-25T12:08:36.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Insight Works unveils Quality Inspector v7.18 for Business Central, introducing advanced tools to enhance inspection processes, compliance, and operational efficiency.
+The post Business Central App Upgrade: New Features in Quality Inspector v7.18 appeared first on ERP Software Blog.
+Warehouse Insight Now Available for Dynamics 365 Business Central
+How to Choose a Mobile Computer to use with Business Central
+Quote Generation with Product Configurator for Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add Field Controls in MS  Dynamics 365 CE – YouTube]]></title>
+        <id>https://365community.online/how-to-add-field-controls-in-ms-dynamics-365-ce-youtube</id>
+        <link href="https://365community.online/how-to-add-field-controls-in-ms-dynamics-365-ce-youtube"/>
+        <updated>2024-11-25T12:01:06.000Z</updated>
+        <summary type="html"><![CDATA[In this video, we’ll show you how to create a star rating field and a budget input field (using the currency data type) in Model-Driven Power Apps within Dynamics 365 CE. You’ll learn how to implement these fields to capture user feedback and budget data seamlessly in your app. #dynamics365 #powerapps #crmdevelopment #starrating #budget #microsoftdynamics #customfields #techtutorial #dynamics365crm #d365crm #d365ce […]]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Word Template Mail Merge in Business Central: Create Mail Merge from Business Central Using a Word Template]]></title>
+        <id>https://365community.online/word-template-mail-merge-in-business-central-create-mail-merge-from-business-central-using-a-word-template</id>
+        <link href="https://365community.online/word-template-mail-merge-in-business-central-create-mail-merge-from-business-central-using-a-word-template"/>
+        <updated>2024-11-25T11:00:43.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I familiarise myself with Microsoft Dynamics 365 Business Central. With Word templates created, using them is quite easy to […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Traditional AI vs. Modern AI for invoice processing]]></title>
+        <id>http://dynamicsax-fico.com/?p=6937</id>
+        <link href="https://dynamicsax-fico.com/2024/11/25/traditional-ai-vs-modern-ai-for-invoice-processing/"/>
+        <updated>2024-11-25T09:39:43.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why ERP Systems are Critical to the Pharmaceutical Industry's Success?]]></title>
+        <id>https://erpsoftwareblog.com/?p=121196</id>
+        <link href="https://erpsoftwareblog.com/2024/11/why-erp-systems-are-critical-to-the-pharmaceutical-industrys/"/>
+        <updated>2024-11-25T08:15:29.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The pharmaceutical industry is one of the most regulated and fast-evolving sectors, requiring meticulous attention to detail, compliance, and efficiency. To stay competitive while ensuring quality and safety, pharmaceutical businesses […]
+The post Why ERP Systems are Critical to the Pharmaceutical Industry's Success? appeared first on ERP Software Blog.
+Hassle Free Upgrades with Dynamics GP Resellers!
+Are You Getting The Most From Your ERP Solution or Are You On Cruise Control?
+5 Benefits of Having a Certified Microsoft Dynamics GP Partner]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Top 7 ERP Vendors for All Industries in 2025]]></title>
+        <id>https://erpsoftwareblog.com/?p=121194</id>
+        <link href="https://erpsoftwareblog.com/2024/11/the-top-7-erp-vendors-for-all-industries-in-2025/"/>
+        <updated>2024-11-25T07:53:25.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Enterprise Resource Planning (ERP) systems have become the backbone of modern businesses, enabling seamless integration of operations, improved decision-making, and enhanced productivity. In 2024, leading ERP vendors are pushing the […]
+The post The Top 7 ERP Vendors for All Industries in 2025 appeared first on ERP Software Blog.
+Popular Coffee Chain Automates Its Distribution and Financial Processes with Microsoft Dynamics Business Central
+Microsoft Dynamics 365 Business Central vs QuickBooks
+A Comprehensive Guide to Microsoft ERP Solutions for 2024]]></summary>
+        <author>
+            <name>Intelegain Technologies</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Three Big improvements in UML Diagram Generator for Microsoft Dataverse]]></title>
         <id>https://365community.online/three-big-improvements-in-uml-diagram-generator-for-microsoft-dataverse</id>
@@ -59,6 +184,21 @@ ERP SHERPA Program Provides a Self-Implementation Option for Dynamics 365 Busine
         <summary type="html"><![CDATA[After the intro published a week ago: Model-driven app for D365HR I decided to follow up and show you how two solutions can finish each other's processes. This OOB functionality is quite simple and easy to move things from ERP to PP and the other way around. Microsoft describes this add-on as: App that provides […]]]></summary>
         <author>
             <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Power of AI in Dynamics 365 CRM: Unlocking Customer Insights]]></title>
+        <id>https://erpsoftwareblog.com/?p=121202</id>
+        <link href="https://erpsoftwareblog.com/2024/11/ai-in-dynamics-365-crm/"/>
+        <updated>2024-11-23T13:25:50.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Having precise customer insights is a way to earn remunerative revenue. An AI-enabled CRM software in this context can help you understand customers at the granular level, so you can […]
+The post The Power of AI in Dynamics 365 CRM: Unlocking Customer Insights  appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
         </author>
     </entry>
     <entry>
@@ -55494,38 +55634,6 @@ Continue reading ‘Get-D365Module -InDependencyOrder’ »]]></summary>
         <summary type="html"><![CDATA[I know that rebuilding database index is a polarizing topic. Anyway I want to share with you what I´ve recently found. Over the last service updates the Microsoft Dynamics 365 for Finance and Operations database got some handy new stored procedures to e. g. rebuild indexes. You can use those stored procedures on Tier1 environments … Continue reading Rebuild your index on MsDyn365FO Tier1 and Tier2+ environments →]]></summary>
         <author>
             <name>Paul Heisterkamp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get Infolog as a string]]></title>
-        <id>https://alexvoy.blogspot.com/2022/11/get-infolog-as-string.html</id>
-        <link href="https://alexvoy.blogspot.com/2022/11/get-infolog-as-string.html"/>
-        <updated>2022-11-26T23:50:00.002Z</updated>
-        <summary type="html"><![CDATA[/// <summary>
-/// Gets infolog content
-/// </summary>
-/// <returns>infolog string</returns>
-public static str getErrorStr(container _cont)
-{
-	SysInfologEnumerator        enumerator;
-	SysInfologMessageStruct     msgStruct;
-	Exception                   exception;
-	str                         error;
-
-	enumerator = SysInfologEnumerator::newData(_cont);
-
-	while (enumerator.moveNext())
-	{
-		msgStruct = new SysInfologMessageStruct(enumerator.currentMessage());
-		exception = enumerator.currentException();
-
-		error = strfmt('%1 %2', error, msgStruct.message());
-	}
-
-	return error;
-}]]></summary>
-        <author>
-            <name>Adventures in Axapta world</name>
         </author>
     </entry>
     <entry>
