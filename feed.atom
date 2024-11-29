@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-11-28T00:55:43.791Z</updated>
+    <updated>2024-11-29T00:56:05.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Report Migration Options When Upgrading to Business Central Cloud]]></title>
+        <id>https://erpsoftwareblog.com/?p=121351</id>
+        <link href="https://erpsoftwareblog.com/2024/11/report-migration-to-business-central-cloud/"/>
+        <updated>2024-11-28T18:11:54.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Upgrading to Microsoft Dynamics 365 Business Central Cloud often brings challenges, with report migration being a key hurdle. Ensuring seamless transfer of critical data and reports is crucial for a […]
+The post Report Migration Options When Upgrading to Business Central Cloud  appeared first on ERP Software Blog.
+6 Ways to Use AI in Your Business
+Our Journey from Microsoft Dynamics GP to the Business Central Cloud Part 2: Where We're Going
+On-Demand Webinar: Maximize Power BI's Reporting Options]]></summary>
+        <author>
+            <name>Cosmos Data Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI for SMBs: Addressing the Learning Curve, Trust, and Ethics Head-On]]></title>
+        <id>https://erpsoftwareblog.com/?p=121349</id>
+        <link href="https://erpsoftwareblog.com/2024/11/ai-for-smbs-addressing-the-learning-curve-trust-and-ethics-head-on/"/>
+        <updated>2024-11-28T17:14:34.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Artificial Intelligence (AI) is revolutionizing industries, enhancing efficiencies, and providing powerful insights. However, for small and medium-sized businesses (SMBs), adopting AI comes with a unique set of challenges. From understanding complex […]
+The post AI for SMBs: Addressing the Learning Curve, Trust, and Ethics Head-On appeared first on ERP Software Blog.
+Ep 65 | Copilot in Business Central | A Shot of Business Central and A Beer
+Dynamics Copilot: How Six AI Experts Save Hours Every Day
+WebSan Solutions Inc. Invites You to Our Third Annual Interactive Virtual Half-Day Conference: Dynamics Virtual Launchpad!]]></summary>
+        <author>
+            <name>Andrew King, WebSan Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Ways Dynamics 365 Business Central Revolutionizes Your Supply Chain]]></title>
+        <id>https://erpsoftwareblog.com/?p=121344</id>
+        <link href="https://erpsoftwareblog.com/2024/11/7-ways-dynamics-365-business-central-revolutionizes-your-supply-chain/"/>
+        <updated>2024-11-28T13:01:46.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Microsoft Dynamics 365 Business Central is a holistic ERP solution designed to cater to the needs of small to medium-sized businesses. It covers different business operations such as finance, sales, […]
+The post 7 Ways Dynamics 365 Business Central Revolutionizes Your Supply Chain  appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Auto Create Records in D365 CRM using Plugin – YouTube]]></title>
+        <id>https://365community.online/how-to-auto-create-records-in-d365-crm-using-plugin-youtube</id>
+        <link href="https://365community.online/how-to-auto-create-records-in-d365-crm-using-plugin-youtube"/>
+        <updated>2024-11-28T12:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to use a pre-operation plugin in Dynamics 365 to automate the creation of participant records whenever a trial is created. In this step-by-step tutorial, I demonstrate the complete process, including plugin registration and coding tips for seamless integration. This video is perfect for developers and CRM consultants looking to streamline data entry and […]]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud Based ERP vs On-Premise ERP: Which is Best for Your Business?]]></title>
+        <id>https://erpsoftwareblog.com/?p=121341</id>
+        <link href="https://erpsoftwareblog.com/2024/11/cloud-based-erp-vs-on-premise-erp-which-is-best-for-your-business/"/>
+        <updated>2024-11-28T11:01:59.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+A key decision when choosing a new enterprise resource planning (ERP) system is whether to opt for an on-premises solution or a cloud-based alternative. Recent trends underscore a strong move […]
+The post Cloud Based ERP vs On-Premise ERP: Which is Best for Your Business? appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central vs QuickBooks
+Popular Coffee Chain Automates Its Distribution and Financial Processes with Microsoft Dynamics Business Central
+What type of Business central license is right for you?]]></summary>
+        <author>
+            <name>Intelegain Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Manage Products in Dynamics 365]]></title>
+        <id>https://365community.online/how-to-manage-products-in-dynamics-365</id>
+        <link href="https://365community.online/how-to-manage-products-in-dynamics-365"/>
+        <updated>2024-11-28T09:54:42.000Z</updated>
+        <summary type="html"><![CDATA[You can add your product catalogue to Dynamics Sales so that your sales team can browse it and add products to opportunities and orders from it. There are many aspects to consider before you can list products in Dynamics In what quantities do you sell (weight, number, pallet etc) These are Units in Dynamics Do […]]]></summary>
+        <author>
+            <name>Pete Murray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to add Timeline Control to Custom Entity Form in Power Apps & Dynamics 365 CE – YouTube]]></title>
+        <id>https://365community.online/how-to-add-timeline-control-to-custom-entity-form-in-power-apps-dynamics-365-ce-youtube</id>
+        <link href="https://365community.online/how-to-add-timeline-control-to-custom-entity-form-in-power-apps-dynamics-365-ce-youtube"/>
+        <updated>2024-11-28T07:45:01.000Z</updated>
+        <summary type="html"><![CDATA[In this video, you’ll learn how to add the timeline control to a custom entity form in Power Apps within Microsoft Dynamics 365 Customer Engagement (CE). The timeline control allows you to easily track and display activities like emails, appointments, and tasks directly on your custom forms. #dynamics365 #powerapps #customerengagement #TimelineControl #CustomEntityForm #crm #microsoftdynamics #datatracking […]]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Season 3: Scaling New Heights with Dynamics 365 Apps – Your 2025 Roadmap!]]></title>
+        <id>https://365community.online/season-3-scaling-new-heights-with-dynamics-365-apps-your-2025-roadmap</id>
+        <link href="https://365community.online/season-3-scaling-new-heights-with-dynamics-365-apps-your-2025-roadmap"/>
+        <updated>2024-11-28T07:00:37.000Z</updated>
+        <summary type="html"><![CDATA[As the holiday season approaches, it’s the perfect time to simplify and automate your business processes while planning for success in 2025. If your CRM isn’t yet delivering location-based insights, optimized storage, secure document management, seamless communication, timely notifications, or insightful activity visualization, we’ve got you covered! Join us for Season 3 of our Dynamics […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Set up Workload Identity federation for ADO Connection]]></title>
+        <id>https://365community.online/set-up-workload-identity-federation-for-ado-connection</id>
+        <link href="https://365community.online/set-up-workload-identity-federation-for-ado-connection"/>
+        <updated>2024-11-28T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Application ID and client secret were the preferred way of authenticating Azure DevOps (ADO) to a Dataverse instance. For a few months, there has been a new way of doing this part, workload identity federation. This blog post will show you how to set up Workload Identity federation for ADO connection. The service connection we […]]]></summary>
+        <author>
+            <name>Benedikt Bergmann</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Enhancing Manufacturing ERP Systems with AP Automation]]></title>
         <id>https://erpsoftwareblog.com/?p=121322</id>
@@ -56007,27 +56117,6 @@ Let's examine how to get the most out of Azure spend for Tier 1 machines.
 A while ago Denis Trunin wrote an article on Visual Studio performance for F&O. I thought it was a well written and researched article. However, I wanted to see what the limit was on performance per unit of money spent. I also wanted to see what the limits were, in general. If twice as more is twice as better, then 4 times as much must mean 4 times more better, right? We'll be using the DOOM Super Shotgun methodology of 2 is better than 1, and 4 is better than 2. I'll also be likening each part of the article to a map from classic DOOM (1993). For those of you DOOM fans out the…]]></summary>
         <author>
             <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get-D365Module -InDependencyOrder]]></title>
-        <id>https://dev.goshoom.net/?p=9826</id>
-        <link href="https://dev.goshoom.net/2022/11/get-d365module-independencyorder/"/>
-        <updated>2022-11-30T10:49:24.000Z</updated>
-        <summary type="html"><![CDATA[Despite the fact that I built a Powershell module for maintenance tasks of AX 2009 and AX 2012 environments, I’m not much involved in d365fo.tools module. The credit goes to other people, especially Mötz Jensen. Nevertheless I’ve recently added a small feature to Get-D365Module that you might be interested in. Get-D365Module normally returns modules (packages) ...
-Continue reading ‘Get-D365Module -InDependencyOrder’ »]]></summary>
-        <author>
-            <name>Martin Dráb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rebuild your index on MsDyn365FO Tier1 and Tier2+ environments]]></title>
-        <id>http://msdyn365fo.wordpress.com/?p=533</id>
-        <link href="https://msdyn365fo.wordpress.com/2022/11/30/rebuild-your-index-on-msdyn365fo-tier1-and-tier2-environments/"/>
-        <updated>2022-11-30T09:40:22.000Z</updated>
-        <summary type="html"><![CDATA[I know that rebuilding database index is a polarizing topic. Anyway I want to share with you what I´ve recently found. Over the last service updates the Microsoft Dynamics 365 for Finance and Operations database got some handy new stored procedures to e. g. rebuild indexes. You can use those stored procedures on Tier1 environments … Continue reading Rebuild your index on MsDyn365FO Tier1 and Tier2+ environments →]]></summary>
-        <author>
-            <name>Paul Heisterkamp</name>
         </author>
     </entry>
     <entry>
