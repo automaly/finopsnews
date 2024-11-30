@@ -2,10 +2,186 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-11-29T00:56:05.464Z</updated>
+    <updated>2024-11-30T00:54:10.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Canadian HST and GST to be set to ZERO-PERCENT for 2 months over the Holidays]]></title>
+        <id>https://erpsoftwareblog.com/?p=121384</id>
+        <link href="https://erpsoftwareblog.com/2024/11/canadian-hst-and-gst-to-be-set-to-zero-percent-for-2-months-over-the-holidays/"/>
+        <updated>2024-11-29T21:07:16.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Your Dynamics GP Tax Tables may need to be updated based on Canadian government stimulus for an approved a retail tax break (0% HST/GST) down from 13% to 15% sales tax on select items for a two-month period ending Feb 15, 2025.
+The post Canadian HST and GST to be set to ZERO-PERCENT for 2 months over the Holidays appeared first on ERP Software Blog.
+Private Cloud Hosting for Dynamics GP: A Strategic Move for Enhanced Performance and Security in 2024
+Video Recording - Dynamics GP 18.5 What's New in 2023
+April 4th News - Microsoft Announces price increases for Dynamics GP]]></summary>
+        <author>
+            <name>GP Support North</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to filter messages in Azure Service Bus using Logic apps as Sender and Receiver]]></title>
+        <id>https://365community.online/how-to-filter-messages-in-azure-service-bus-using-logic-apps-as-sender-and-receiver</id>
+        <link href="https://365community.online/how-to-filter-messages-in-azure-service-bus-using-logic-apps-as-sender-and-receiver"/>
+        <updated>2024-11-29T19:33:03.000Z</updated>
+        <summary type="html"><![CDATA[Service bus Subscribers can define which messages they want to receive from a topic. These messages are specified in the form of one or more named subscription rules. Each rule consists of a filter condition that selects particular message Correlation Filter: This filter focusses on message`s user and system properties. For instance, in the below screenshot , […]]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to filter messages in Azure Service Bus using Logic apps as Sender and Receiver]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=3659</id>
+        <link href="https://anithasantosh.wordpress.com/2024/11/29/how-to-filter-messages-in-azure-service-bus-using-logic-apps-as-sender-and-receiver/"/>
+        <updated>2024-11-29T19:33:03.000Z</updated>
+        <summary type="html"><![CDATA[Service bus Subscribers can define which messages they want to receive from a topic. These messages are specified in the form of one or more named subscription rules. Each rule consists of a filter condition that selects particular message Correlation Filter: This … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Power Pages Web Application firewall to Rate limit Web API calls]]></title>
+        <id>https://365community.online/using-power-pages-web-application-firewall-to-rate-limit-web-api-calls</id>
+        <link href="https://365community.online/using-power-pages-web-application-firewall-to-rate-limit-web-api-calls"/>
+        <updated>2024-11-29T17:46:11.000Z</updated>
+        <summary type="html"><![CDATA[In some scenarios where you have a custom Power Pages website that leverages the web API for specific pieces of functionality, you might want to add some rate limiting to it so users cannot overuse the API (for example by creating a script to abuse it and running it using chrome developer tools). Enable Web […]]]></summary>
+        <author>
+            <name>michelcarlo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Email Collection Letters without Attached Report in D365FO]]></title>
+        <id>https://ax.docentric.com/?p=29561</id>
+        <link href="https://ax.docentric.com/email-collection-letters-without-attached-report-in-d365fo/"/>
+        <updated>2024-11-29T16:58:43.000Z</updated>
+        <summary type="html"><![CDATA[SSRS framework improved by Docentric offers powerful emailing capabilities, integrated in the process of report posting and printing, supporting execution in batch. There are scenarios such as emailing collection letters or return acknowledgments when you don't need to send an email to the customer with […]
+The post Email Collection Letters without Attached Report in D365FO appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Jovica Zivkovic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365FO Budgeting Module Essentials]]></title>
+        <id>https://erpsoftwareblog.com/?p=120837</id>
+        <link href="https://erpsoftwareblog.com/2024/11/dynamics-365fo-budgeting-module-essentials/"/>
+        <updated>2024-11-29T16:19:22.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The Dynamics 365 Finance and Operations (D365FO) Budgeting Module is a robust tool for efficient financial planning. With this module, organizations can improve budget control, forecasting, and resource allocation. The […]
+The post  Dynamics 365FO Budgeting Module Essentials appeared first on ERP Software Blog.
+Business Central Data Transfer: 10 Tips
+Bank Reconciliation: A Smooth Sailing with Dynamics 365 Finance and Operations
+Accelerating Sales Growth with Dynamics 365 F&O: A Strategic Approach]]></summary>
+        <author>
+            <name>Pharos Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to add Rich Text Control to a field in Dynamics 365 CE – YouTube]]></title>
+        <id>https://365community.online/how-to-add-rich-text-control-to-a-field-in-dynamics-365-ce-youtube</id>
+        <link href="https://365community.online/how-to-add-rich-text-control-to-a-field-in-dynamics-365-ce-youtube"/>
+        <updated>2024-11-29T13:15:00.000Z</updated>
+        <summary type="html"><![CDATA[In this video, you’ll learn how to add a Rich Text control to a field in Dynamics 365 CE using Power Apps. The Rich Text control allows you to format text with features like bold, italics, bullet points, and more, making it easier to capture and display detailed information in your forms. We’ll walk you through the simple […]]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explore Copilot Email Assistance for Effortless, Personalized, and Impactful Email Creation]]></title>
+        <id>https://365community.online/explore-copilot-email-assistance-for-effortless-personalized-and-impactful-email-creation</id>
+        <link href="https://365community.online/explore-copilot-email-assistance-for-effortless-personalized-and-impactful-email-creation"/>
+        <updated>2024-11-29T11:25:54.000Z</updated>
+        <summary type="html"><![CDATA[Introduction As a seller, you often face challenges when trying to write effective emails that resonate with your customers. Crafting the perfect message can be time-consuming and difficult, especially when it comes to deciding on the right structure, tone, or content. These struggles can lead to less engaging customer interactions, missed sales opportunities, and, in […]]]></summary>
+        <author>
+            <name>Inogic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Dynamics 365 Business Central handles incoming web service calls (for dummies).]]></title>
+        <id>https://365community.online/how-dynamics-365-business-central-handles-incoming-web-service-calls-for-dummies</id>
+        <link href="https://365community.online/how-dynamics-365-business-central-handles-incoming-web-service-calls-for-dummies"/>
+        <updated>2024-11-29T11:22:29.000Z</updated>
+        <summary type="html"><![CDATA[In the last two days I was in Assago (Milano) at the WPC Conference, probably the most important IT conference in Italy, where I presented two sessions related to Azure and AI. The conference is absolutely not a Business Central-related conference, but some of the attendees of my Semantic Kernel session were companies and partners […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Word Template Mail Merge in Business Central: Send Email Using a Word Template as an Attachment]]></title>
+        <id>https://365community.online/word-template-mail-merge-in-business-central-send-email-using-a-word-template-as-an-attachment-2</id>
+        <link href="https://365community.online/word-template-mail-merge-in-business-central-send-email-using-a-word-template-as-an-attachment-2"/>
+        <updated>2024-11-29T11:00:27.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I familiarise myself with Microsoft Dynamics 365 Business Central. Another feature of the Word Template functionality in Business Central […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Word Template Mail Merge in Business Central: Send Email Using a Word Template as an Attachment]]></title>
+        <id>https://365community.online/word-template-mail-merge-in-business-central-send-email-using-a-word-template-as-an-attachment</id>
+        <link href="https://365community.online/word-template-mail-merge-in-business-central-send-email-using-a-word-template-as-an-attachment"/>
+        <updated>2024-11-29T11:00:27.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I familiarise myself with Microsoft Dynamics 365 Business Central. Another feature of the Word Template functionality in Business Central […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart Manufacturing Simplified: Harnessing Microsoft Dynamics 365 for Future-Ready Factories]]></title>
+        <id>https://erpsoftwareblog.com/?p=121370</id>
+        <link href="https://erpsoftwareblog.com/2024/11/dynamics-365-for-smart-manufacturing-factories/"/>
+        <updated>2024-11-29T08:18:00.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The manufacturing landscape is undergoing a seismic shift, thanks to the advent of Industry 4.0 and the integration of advanced technologies like Microsoft Dynamics 365. Smart factories, leveraging these tools, are becoming the […]
+The post Smart Manufacturing Simplified: Harnessing Microsoft Dynamics 365 for Future-Ready Factories appeared first on ERP Software Blog.
+Copilot and Dynamics 365 ERP: A Match Made for Efficiency
+Insight Works Unveils Enhanced Order Fulfillment for Dynamics 365
+Is It Time to Embrace Factory 4.0? Navigating the New Industrial Landscape]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central Fall Cleanup]]></title>
+        <id>https://365community.online/business-central-fall-cleanup</id>
+        <link href="https://365community.online/business-central-fall-cleanup"/>
+        <updated>2024-11-29T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lots of customers are in the process to move to that latest and greatest.  Me personally, I’m looking forward to have all our customers on v25, not in the least for the new “Modern Search” ;-). Though – there have been some caveats you have to be aware of.  Things Microsoft is aware of, and […]]]></summary>
+        <author>
+            <name>Waldo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Managing Employee Absence in Dynamics 365 Business Central]]></title>
+        <id>https://paragchapre.com/?p=16105</id>
+        <link href="https://paragchapre.com/managing-employee-absence-in-dynamics-365-business-central/"/>
+        <updated>2024-11-29T05:55:53.000Z</updated>
+        <summary type="html"><![CDATA[Managing employee absence effectively is a crucial aspect of human resources (HR) and payroll management. In Microsoft Dynamics 365 Business Central, tracking and managing employee absences is made efficient through the use of the Absence Registration and Employee Absences pages. These features allow organizations to record, view, and analyze employee absence data, ensuring accurate reporting…]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Auto Create Records in D365 CRM using Plugin – YouTube]]></title>
+        <id>https://365community.online/how-to-auto-create-records-in-d365-crm-using-plugin-youtube-2</id>
+        <link href="https://365community.online/how-to-auto-create-records-in-d365-crm-using-plugin-youtube-2"/>
+        <updated>2024-11-29T05:15:04.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to use a pre-operation plugin in Dynamics 365 to automate the creation of participant records whenever a trial is created. In this step-by-step tutorial, I demonstrate the complete process, including plugin registration and coding tips for seamless integration. This video is perfect for developers and CRM consultants looking to streamline data entry and […]]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Become a ProPilot: Lesson 05 – YouTube]]></title>
+        <id>https://365community.online/become-a-propilot-lesson-05-youtube</id>
+        <link href="https://365community.online/become-a-propilot-lesson-05-youtube"/>
+        <updated>2024-11-29T04:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Leverage Copilots in Dataverse, Power Automate, Canvas Apps, and more. source]]></summary>
+        <author>
+            <name>Victor Dantas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Report Migration Options When Upgrading to Business Central Cloud]]></title>
         <id>https://erpsoftwareblog.com/?p=121351</id>
@@ -940,6 +1116,21 @@ Create a Closed-Loop Analysis, Planning, and Reporting Process
 The 5 Most Often Overlooked Costs of ERP]]></summary>
         <author>
             <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ERP Implementation Fail: Strategies for Success with Dynamics 365 ERP]]></title>
+        <id>https://erpsoftwareblog.com/?p=120974</id>
+        <link href="https://erpsoftwareblog.com/2024/11/erp-implementation-fail-strategies-for-success-with-dynamics-365-erp/"/>
+        <updated>2024-11-21T15:42:17.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+ERP implementation is a significant investment in time and resources. Failure of the project can be a costly setback for any organization. We've all heard horror stories of failed implementations, […]
+The post ERP Implementation Fail: Strategies for Success with Dynamics 365 ERP appeared first on ERP Software Blog.
+ERP Implementation
+Seven Early Warning Signs That It Could Be Time To Change Your ERP Software
+Myth Busters! Debunking Popular Myths About ERP Selection and Implementation]]></summary>
+        <author>
+            <name>Pharos Solutions, Inc.</name>
         </author>
     </entry>
     <entry>
