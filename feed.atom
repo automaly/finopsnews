@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-12-01T01:05:26.445Z</updated>
+    <updated>2024-12-02T00:58:05.636Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Streamlining Financial Services with Document Management Systems]]></title>
+        <id>https://erpsoftwareblog.com/?p=121405</id>
+        <link href="https://erpsoftwareblog.com/2024/12/streamlining-financial-services-with-document-management-systems/"/>
+        <updated>2024-12-01T20:48:53.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Managing a mountain of paperwork in the dynamic world of financial services is a formidable challenge. Contracts, invoices, statements, and reports can overwhelm the most efficient teams. Enter MetaDocs Document Management—a […]
+The post Streamlining Financial Services with Document Management Systems appeared first on ERP Software Blog.
+Transforming Professional Services with Document Management Solution
+How to Improve Compliance with a Document Management Solution?
+Top 5 reasons to move your business to the cloud in 2022]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advent of 2024, Day 1 – Microsoft Azure AI – What is Foundry?]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=10101</id>
+        <link href="https://tomaztsql.wordpress.com/2024/12/01/advent-of-2024-day-1-microsoft-azure-ai-what-is-foundry/"/>
+        <updated>2024-12-01T18:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Azure offers multiple services that enable developers to build amazing AI-powered solutions. Azure AI Foundry brings these services together in a single unified experience for AI development on the Azure cloud platform. Until now, developers needed to work with…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hide Resources from Schedule Board in Project Operations [Quick Tip]]]></title>
+        <id>https://365community.online/hide-resources-from-schedule-board-in-project-operations-quick-tip</id>
+        <link href="https://365community.online/hide-resources-from-schedule-board-in-project-operations-quick-tip"/>
+        <updated>2024-12-01T15:17:14.000Z</updated>
+        <summary type="html"><![CDATA[Here’s how you can quickly hide a Bookable Resource from the Schedule Board in Project Operations The post Hide Resources from Schedule Board in Project Operations [Quick Tip] appeared first on D365 Demystified. Continue Reading priyeshwagh777’s Article on their blog Hide Resources from Schedule Board in Project Operations [Quick Tip] – D365 Demystified Here’s how […]]]></summary>
+        <author>
+            <name>Priyesh Wagh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get a Power Pages site URL dynamically per environment to send emails via Power Automate]]></title>
+        <id>https://365community.online/get-a-power-pages-site-url-dynamically-per-environment-to-send-emails-via-power-automate</id>
+        <link href="https://365community.online/get-a-power-pages-site-url-dynamically-per-environment-to-send-emails-via-power-automate"/>
+        <updated>2024-12-01T10:19:00.000Z</updated>
+        <summary type="html"><![CDATA[When we deploy Power Automate flows that send emails with URLs in the body across environments, it’s never a good practice to have those URLs hardcoded in the body. For the cases where those URLs target a Power Pages site, there are some ways we can make them dynamic per environment, you can think of […]]]></summary>
+        <author>
+            <name>michelcarlo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Strategy: Partnering for Faster Success in Your Business – YouTube]]></title>
+        <id>https://365community.online/ai-strategy-partnering-for-faster-success-in-your-business-youtube</id>
+        <link href="https://365community.online/ai-strategy-partnering-for-faster-success-in-your-business-youtube"/>
+        <updated>2024-12-01T07:00:25.000Z</updated>
+        <summary type="html"><![CDATA[AI Strategy: Partnering for Faster Success in Your Business Building AI from scratch? Avoid costly mistakes. Discover how partnering with AI strategy experts accelerates your success and delivers early wins. Building AI from scratch? Avoid costly mistakes. Discover how partnering with AI strategy experts accelerates your success and delivers early wins. source]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Travel Fun withMicrosoft Copilot Studio]]></title>
+        <id>http://dynamicsax-fico.com/?p=6852</id>
+        <link href="https://dynamicsax-fico.com/2024/12/01/business-travel-fun-withmicrosoft-copilot-studio/"/>
+        <updated>2024-12-01T06:05:33.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Ludwig Reinhard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT Search reviews Inogic’s App Suite for Microsoft Dynamics 365 CRM!]]></title>
         <id>https://365community.online/chatgpt-search-reviews-inogics-app-suite-for-microsoft-dynamics-365-crm</id>
