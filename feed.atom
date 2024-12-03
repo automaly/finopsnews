@@ -2,10 +2,221 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-12-02T00:58:05.636Z</updated>
+    <updated>2024-12-03T00:57:12.060Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HttpClient and certificate validation in Business Central v25]]></title>
+        <id>https://365community.online/httpclient-and-certificate-validation-in-business-central-v25</id>
+        <link href="https://365community.online/httpclient-and-certificate-validation-in-business-central-v25"/>
+        <updated>2024-12-02T22:33:15.000Z</updated>
+        <summary type="html"><![CDATA[You may have heard about a change in Business Central v25 regarding validating remote certificates when calling an external web service. If this is new to you, then please read this blog post from Stefano Demiliani: https://demiliani.com/2024/09/23/dynamics-365-business-central-httpclient-and-remote-certificate-validation-future-changes/ Great, now we are all on the same page: validation… Continue Reading ajk’s Article on their blog HttpClient […]]]></summary>
+        <author>
+            <name>ajkauffmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advent of 2024, Day 2 – Microsoft Azure AI – Working with Azure AI Foundry]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=10113</id>
+        <link href="https://tomaztsql.wordpress.com/2024/12/02/advent-of-2024-day-2-microsoft-azure-ai-working-with-azure-ai-foundry/"/>
+        <updated>2024-12-02T21:12:41.000Z</updated>
+        <summary type="html"><![CDATA[In this Microsoft Azure AI series: Azure AI Foundry is all purpose tool that provides all of the capital ingredients that data scientists would need in order to create, develop and deploy the generative AI applications. The platfrom supports and…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Ways Maintenance Manager for Business Central Saves Asset Headaches]]></title>
+        <id>https://erpsoftwareblog.com/?p=121467</id>
+        <link href="https://erpsoftwareblog.com/2024/12/top-10-ways-maintenance-manager-for-business-central-saves-asset-headaches/"/>
+        <updated>2024-12-02T20:32:46.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Learn how Maintenance Manager enhances asset maintenance in Business Central with top features like proactive scheduling, real-time inventory tracking, and mobile access to improve efficiency and reliability. 
+The post Top 10 Ways Maintenance Manager for Business Central Saves Asset Headaches appeared first on ERP Software Blog.
+License Plating v1.97: Transforming Warehouse Management in Business Central
+Top 10 Reasons to Use Business Central’s License Plating App
+Business Central’s Most Trusted License Plating App, a Five-Star Rating on AppSource]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mekorma Enhances Remote Payment Services with Greater Value, Flexibility, and Security]]></title>
+        <id>https://erpsoftwareblog.com/?p=121459</id>
+        <link href="https://erpsoftwareblog.com/2024/12/mekorma-enhances-remote-payment-services-with-greater-value-flexibility-and-security/"/>
+        <updated>2024-12-02T18:29:24.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Boulder, CO - December 2, 2024 – Mekorma, a trusted leader in AP automation for over 30 years, announces major updates to its Remote Payment Services (RPS) within the Payment […]
+The post Mekorma Enhances Remote Payment Services with Greater Value, Flexibility, and Security appeared first on ERP Software Blog.
+How to Seamlessly Transfer Data from Excel to Microsoft Dynamics GP
+Why Are Microsoft Dynamics GP Customers Moving Their Solution to the Cloud?
+What’s New in Microsoft Dynamics GP 2015?]]></summary>
+        <author>
+            <name>Mekorma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exciting Enhancements to Dynamics 365 Business Central in 2024 and Beyond]]></title>
+        <id>https://erpsoftwareblog.com/?p=121456</id>
+        <link href="https://erpsoftwareblog.com/2024/12/exciting-enhancements-to-dynamics-365-business-central-in-2024-and-beyond/"/>
+        <updated>2024-12-02T18:04:06.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+As we move through 2024, Microsoft continues to innovate and make enhancements to Dynamics 365 Business Central, bringing a host of new features that streamline operations and boost productivity. Let's […]
+The post Exciting Enhancements to Dynamics 365 Business Central in 2024 and Beyond appeared first on ERP Software Blog.
+Self-Service Analytics: Exploring Your ERP Data for Maximum Insights
+A Path to Intelligent Cloud – Learn about Microsoft Dynamics GP and Intelligent Edge
+How a Bookkeeper Can Use Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Express Info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Display Countdown Timer Using Nifty Images In Customer Insights – Journeys]]></title>
+        <id>https://365community.online/display-countdown-timer-using-nifty-images-in-customer-insights-journeys</id>
+        <link href="https://365community.online/display-countdown-timer-using-nifty-images-in-customer-insights-journeys"/>
+        <updated>2024-12-02T17:01:20.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wanted to add a Countdown Timer to your marketing emails? I WISH this feature existed in Customer Insights – Journeys, maybe one day we will get it. For now, you CAN still do this using a really cool 3rd party bit of functionality that I found thanks to a wonderful person I […]]]></summary>
+        <author>
+            <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Analyze Fixed Asset And Subscription Billing In Power BI]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-analyze-fixed-asset-and-subscription-billing-in-power-bi</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-analyze-fixed-asset-and-subscription-billing-in-power-bi"/>
+        <updated>2024-12-02T15:00:14.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 24th of the new functionality in the section is analyze fixed asset and subscription billing […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Signs You Need a New Supply Chain Solution]]></title>
+        <id>https://erpsoftwareblog.com/?p=121434</id>
+        <link href="https://erpsoftwareblog.com/2024/12/10-signs-you-need-a-new-supply-chain-solution/"/>
+        <updated>2024-12-02T14:59:45.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+  In the evolving world of supply chain management, the right technology is critical to staying competitive. Yet, businesses stick with outdated systems that hinder growth and efficiency. Is yourcurrent […]
+The post 10 Signs You Need a New Supply Chain Solution appeared first on ERP Software Blog.
+3 Steps of Forecastability Analysis
+Five Reasons to Work with StockIQ Technologies
+Selecting the Right Demand Planning Software]]></summary>
+        <author>
+            <name>StockIQ Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 Ways Shipping Automation Can Cut Costs for Your Business]]></title>
+        <id>https://erpsoftwareblog.com/?p=121433</id>
+        <link href="https://erpsoftwareblog.com/2024/12/top-5-ways-shipping-automation-can-cut-costs-for-your-business/"/>
+        <updated>2024-12-02T14:31:53.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Shipping operations are a critical part of any business, especially those handling significant logistics, retail, or e-commerce. However, inefficiencies in packaging, tracking, or order fulfillment can escalate costs, creating a […]
+The post Top 5 Ways Shipping Automation Can Cut Costs for Your Business appeared first on ERP Software Blog.
+Enhancing Efficiency with Advanced Packing and Shipping Options
+Streamline Your Shipping with MetaShip’s Advanced Inventory Management Tools
+Packaging Regulations: How MetaWMS Boosts Warehouse Efficiency]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Key Reasons ERP Implementations Go Off the Rails and How to Keep Yours on Track]]></title>
+        <id>https://erpsoftwareblog.com/?p=121398</id>
+        <link href="https://erpsoftwareblog.com/2024/12/5-key-reasons-erp-implementations-go-off-the-rails/"/>
+        <updated>2024-12-02T14:06:32.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Taking the plunge into an ERP implementation can feel like hopping on a rollercoaster—as you get started, you're thrilled about the potential yet unprepared for the bumps ahead. Fast-forward a […]
+The post 5 Key Reasons ERP Implementations Go Off the Rails and How to Keep Yours on Track appeared first on ERP Software Blog.
+ERP Implementation
+Switch to the Cloud and Reduce your Costs
+IRAP DTAPP Funding for Small Business]]></summary>
+        <author>
+            <name>Stephanie Clark, Elliott Clark Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are Scrum Masters Overrated? – YouTube]]></title>
+        <id>https://365community.online/are-scrum-masters-overrated-youtube</id>
+        <link href="https://365community.online/are-scrum-masters-overrated-youtube"/>
+        <updated>2024-12-02T11:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Rethink the role of the scrum master. Two recent events—a thought-provoking article by agile coach Maarten Dalmijn and a leave of absence by Matthew, a beloved scrum master in my team—prompted me to question if scrum masters might be overrated. Comparing scrum teams to sports teams like Ultimate Frisbee, where players self-regulate without referees. Imagine […]]]></summary>
+        <author>
+            <name>Neil Benson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Stay Current With Shopify Connector]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-stay-current-with-shopify-connector</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-stay-current-with-shopify-connector"/>
+        <updated>2024-12-02T11:00:39.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 23rd of the new functionality in the section is stay current with Shopify connector. The […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Escenarios Multiagente: Cómo Transformarán los Proyectos y las Empresas del Futuro]]></title>
+        <id>https://365community.online/escenarios-multiagente-como-transformaran-los-proyectos-y-las-empresas-del-futuro</id>
+        <link href="https://365community.online/escenarios-multiagente-como-transformaran-los-proyectos-y-las-empresas-del-futuro"/>
+        <updated>2024-12-02T10:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Los sistemas multiagente están ganando protagonismo en el ámbito empresarial, ofreciendo una evolución significativa en la manera en que las organizaciones automatizan, escalan y optimizan sus operaciones. Pero, ¿qué significa realmente un escenario multiagente y cómo puede impactar en los proyectos y estrategias empresariales? Este artículo explora el concepto, sus oportunidades,… Continue Reading Javier.Armesto’s Article […]]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: Partner access control to SaaS tenants.]]></title>
+        <id>https://365community.online/dynamics-365-business-central-partner-access-control-to-saas-tenants</id>
+        <link href="https://365community.online/dynamics-365-business-central-partner-access-control-to-saas-tenants"/>
+        <updated>2024-12-02T08:56:01.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics 365 Business Central version 25 introduces a new feature in the environment’s Admin Center panel: Partner Access. By default, all Dynamics 365 Business Central environments are set up to allow all partner access (very partner with a delegated admin relationship with the customer can access every environment in the tenant). With this new feature, […]]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Intersection of Finance and Operations: Driving Business Agility with Dynamics 365]]></title>
+        <id>https://erpsoftwareblog.com/?p=121415</id>
+        <link href="https://erpsoftwareblog.com/2024/12/finance-operations-business-agility-dynamics-365/"/>
+        <updated>2024-12-02T07:57:08.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In a world of constant change and fierce competition, businesses must be more agile than ever to thrive. Success today isn’t just about working harder—it’s about working smarter with tools […]
+The post The Intersection of Finance and Operations: Driving Business Agility with Dynamics 365 appeared first on ERP Software Blog.
+Integrated Planning with deFacto Power Planning - Webinar
+How Cloud ERP Helps Build Strong Supply Chains
+DeFacto Global Named Top-Rated Corporate Performance Management Vendor For 2021]]></summary>
+        <author>
+            <name>Dynamics Square AU</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-Company Sync for Business Central - G/L and Vendor Inserts]]></title>
+        <id>https://erpsoftwareblog.com/?p=121388</id>
+        <link href="https://erpsoftwareblog.com/2024/12/multi-company-sync-for-business-central-g-l-and-vendor-inserts/"/>
+        <updated>2024-12-02T05:20:15.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Inserts of new G/L Accounts and new Vendors are replicated from the Master Company to all other Companies Overview:  The client, who has migrated from Microsoft Solomon to Business Central, […]
+The post Multi-Company Sync for Business Central - G/L and Vendor Inserts appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
+Get More in the Cloud with Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Written by Steve Simon, PDG Consultants, Inc., www.prettydarngood.com.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are Scrum Masters Overrated?]]></title>
+        <id>https://365community.online/are-scrum-masters-overrated</id>
+        <link href="https://365community.online/are-scrum-masters-overrated"/>
+        <updated>2024-12-02T00:42:00.000Z</updated>
+        <summary type="html"><![CDATA[#157. Rethink the role of the scrum master. Two recent events—a thought-provoking article by agile coach Maarten Dalmijn and a leave of absence by Matthew, a beloved scrum master in my team—prompted me to question if scrum masters might be overrated. Comparing scrum teams to sports teams like Ultimate Frisbee, where players self-regulate without referees. […]]]></summary>
+        <author>
+            <name>Neil Benson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Streamlining Financial Services with Document Management Systems]]></title>
         <id>https://erpsoftwareblog.com/?p=121405</id>
@@ -50,6 +261,21 @@ Read more ›]]></summary>
         <summary type="html"><![CDATA[When we deploy Power Automate flows that send emails with URLs in the body across environments, it’s never a good practice to have those URLs hardcoded in the body. For the cases where those URLs target a Power Pages site, there are some ways we can make them dynamic per environment, you can think of […]]]></summary>
         <author>
             <name>michelcarlo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Microsoft Dynamics 365 Used For?]]></title>
+        <id>https://erpsoftwareblog.com/?p=121422</id>
+        <link href="https://erpsoftwareblog.com/2024/12/what-is-microsoft-dynamics-365-used-for/"/>
+        <updated>2024-12-01T09:04:20.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Microsoft Dynamics 365 is a comprehensive suite of business applications designed to streamline operations, enhance customer engagement and help organizations meet their goals. Leveraging cloud technology as its foundation, Dynamics […]
+The post What is Microsoft Dynamics 365 Used For? appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+More Than Just a Name Change: The New Microsoft Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
         </author>
     </entry>
     <entry>
