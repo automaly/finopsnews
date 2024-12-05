@@ -2,10 +2,159 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-12-04T00:57:02.665Z</updated>
+    <updated>2024-12-05T00:57:02.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Advent of 2024, Day 4 – Microsoft Azure AI – Deployment in Azure AI Foundry]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=10142</id>
+        <link href="https://tomaztsql.wordpress.com/2024/12/04/advent-of-2024-day-4-microsoft-azure-ai-deployment-in-azure-ai-foundry/"/>
+        <updated>2024-12-04T21:27:35.000Z</updated>
+        <summary type="html"><![CDATA[In this Microsoft Azure AI series: When you are in Azure AI Foundry, on the left navigation bar, select “Model Catalog”. For this demo, I will be selecting multimodal model “gpt-4” that can work with images and text. Click “>…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deprecation of VAT return direct submission to UK MTD in Dynamics 365 Finance for on-premises deployments]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/12/04/dynamics-365-finance-uk-mtd-vat-integration-deprecation/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/12/04/dynamics-365-finance-uk-mtd-vat-integration-deprecation/"/>
+        <updated>2024-12-04T18:33:02.000Z</updated>
+        <summary type="html"><![CDATA[Since 2019, Dynamics 365 Finance has supported direct system-to-system integration with the web service provided by His Majesty’s Revenue and Customs (HMRC) to submit Value Added Tax (VAT) returns for UK-registered companies under the Making Tax Digital (MTD) project. 
+Due to security requirements, we must modify our implementation approach and can no longer support this integration for on-premises deployments of Dynamics 365 Finance.
+The post Deprecation of VAT return direct submission to UK MTD in Dynamics 365 Finance for on-premises deployments  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Elizaveta Golub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Submit IRS 1099 Forms Electronically To IRIS]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-submit-irs-1099-forms-electronically-to-iris</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-submit-irs-1099-forms-electronically-to-iris"/>
+        <updated>2024-12-04T15:00:46.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 14th of the new functionality in the section is submit IRS 1099 forms electronically to […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 FO Export package using Rest API]]></title>
+        <id>https://kishoredynamics11.blogspot.com/2024/12/d365-fo-export-package-using-rest-api.html</id>
+        <link href="https://kishoredynamics11.blogspot.com/2024/12/d365-fo-export-package-using-rest-api.html"/>
+        <updated>2024-12-04T12:57:00.000Z</updated>
+        <summary type="html"><![CDATA[D365 FO Export package.
+1.Create the export project in Data Management and add the required data entities to the export project.
+
+Start the process:
+2.Trigger the below URL with the required parameters to export the data in package.
+
+You can assign an execution ID, otherwise, the system will generate the ID.
+
+
+URL : 
+
+POST : {Resource}/data/DataManagementDefinitionGroups/Microsoft.Dynamics.DataEntities.ExportToPackage
+Input parameters:
+
+{
+    "definitionGroupId":"<Data project name>",
+    "packageName":"<Name to use for downloaded file.>",
+    "executionId":"<Execution Id if it is a rerun>",
+    "reExecute":<bool>,
+    "legalEntityId":"<Legal entity Id>"
+}
+
+
+
+
+
+
+3.In response, the system will send a 200k response and return the execution ID in the response payload.
+4.In job history, you will find the transaction.
+
+
+
+
+
+Get or Download file:
+5.Trigger getExportedPackageURL to retrieve the package, passing the execution ID as an input parameter.
+URL : 
+POST : {Resource}/data/DataManagementDefinitionGroups/Microsoft.Dynamics.DataEntities.GetExportedPackageUrl
+Input parameters:
+{"executionId":"<Execution Id>"}
+
+
+
+
+
+6.The system will return the temporary blob URL in the value field. By using this URL, you can download the file.
+Output:
+
+
+
+
+
+Get the status:
+7. In some scenarios, the data is huge and the system will take some time to process. In such cases, the above step will not work immediately. Before that, we need to check the status of that transaction.
+8.To get the status of the transaction, trigger the below URL and pass the execution ID as an input parameter.
+URL : 
+POST : {Resource}/data/DataManagementDefinitionGroups/Microsoft.Dynamics.DataEntities.GetExecutionSummaryStatus
+Input parameters:
+{"executionId":"<executionId>"}
+
+
+
+
+
+
+
+Keep Daxing!!]]></summary>
+        <author>
+            <name>Dynamics World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Use Copilot With Agent Capabilities To Automate Sales Order-Taking]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-use-copilot-with-agent-capabilities-to-automate-sales-order-taking</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-use-copilot-with-agent-capabilities-to-automate-sales-order-taking"/>
+        <updated>2024-12-04T11:00:18.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 15th of the new functionality in the section is use Copilot with agent capabilities to […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to master Bulk Deletion in Dynamics 365 | Step-by-Step Solution Guide – YouTube]]></title>
+        <id>https://365community.online/how-to-master-bulk-deletion-in-dynamics-365-step-by-step-solution-guide-youtube</id>
+        <link href="https://365community.online/how-to-master-bulk-deletion-in-dynamics-365-step-by-step-solution-guide-youtube"/>
+        <updated>2024-12-04T11:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to efficiently manage and remove records in Dynamics 365 with the built-in Bulk Deletion feature. In this video, we explore the step-by-step process to configure bulk deletion jobs, automate cleanup tasks, and ensure your data stays organized. #dynamics365 #BulkDeletion #datamanagement #crm #microsoftdynamics #datacleanup #automation #crmmanagement #efficientworkflows #DynamicsTips #tutorial #techtutorial #microsoftsoftware source]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central Codeunit “AFS File Client” – usable with SaaS Token and Shared Key]]></title>
+        <id>https://365community.online/business-central-codeunit-afs-file-client-usable-with-saas-token-and-shared-key</id>
+        <link href="https://365community.online/business-central-codeunit-afs-file-client-usable-with-saas-token-and-shared-key"/>
+        <updated>2024-12-04T10:27:31.000Z</updated>
+        <summary type="html"><![CDATA[I have already talked about it in a previous post, I return to the topic because I find it interesting. In this post I show a scenario in which I use some methods that I consider extremely useful (and all with authorization access via token) to perform some operations on files and directories. Test scenario […]]]></summary>
+        <author>
+            <name>Roberto Stefanetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Las novedades de Business Central para diciembre: ¡Nuestro ERP se viste de Navidad ! ✨😅]]></title>
+        <id>https://365community.online/las-novedades-de-business-central-para-diciembre-nuestro-erp-se-viste-de-navidad-%e2%9c%a8%f0%9f%98%85</id>
+        <link href="https://365community.online/las-novedades-de-business-central-para-diciembre-nuestro-erp-se-viste-de-navidad-%e2%9c%a8%f0%9f%98%85"/>
+        <updated>2024-12-04T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Diciembre llega con su habitual espíritu festivo, y Business Central no es la excepción. Microsoft ha preparado un regalo adelantado para todos sus usuarios con un conjunto de nuevas funcionalidades que prometen mejorar la productividad, optimizar procesos y simplificar la vida de las empresas. Estas novedades, que forman parte de la Wave 2 de 2024, […]]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Subscribe to Trending ERP Topics Newsletter to See Top Posts at Authors on ERP Software Blog]]></title>
         <id>https://erpsoftwareblog.com/?p=121605</id>
@@ -335,6 +484,17 @@ Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></su
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Optimize your email marketing campaigns with advanced analytics features]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/12/02/optimize-your-email-marketing-with-advanced-analytics-features/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/12/02/optimize-your-email-marketing-with-advanced-analytics-features/"/>
+        <updated>2024-12-03T01:03:48.000Z</updated>
+        <summary type="html"><![CDATA[As a marketer, the key to optimize your email performance lies in understanding your customers. Every interaction with a customer is a goldmine of information, revealing critical insights into their behavior, preferences, and engagement patterns. Savvy marketers harness this data to tailor content, enhance customer experiences, and elevate engagement rates. Despite the rise of new
+The post Optimize your email marketing campaigns with advanced analytics features appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Agathe Neulet</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[HttpClient and certificate validation in Business Central v25]]></title>
         <id>https://365community.online/httpclient-and-certificate-validation-in-business-central-v25</id>
         <link href="https://365community.online/httpclient-and-certificate-validation-in-business-central-v25"/>
@@ -408,6 +568,17 @@ How a Bookkeeper Can Use Dynamics 365 Business Central]]></summary>
         <summary type="html"><![CDATA[Have you ever wanted to add a Countdown Timer to your marketing emails? I WISH this feature existed in Customer Insights – Journeys, maybe one day we will get it. For now, you CAN still do this using a really cool 3rd party bit of functionality that I found thanks to a wonderful person I […]]]></summary>
         <author>
             <name>Megan V. Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft is recognized as a Leader in the 2024 Gartner® Magic Quadrant™ for Cloud ERP for Service-Centric and Product-Centric Enterprises]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/12/02/microsoft-is-recognized-as-a-leader-in-the-2024-gartner-magic-quadrant-for-cloud-erp-for-service-centric-enterprises/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/12/02/microsoft-is-recognized-as-a-leader-in-the-2024-gartner-magic-quadrant-for-cloud-erp-for-service-centric-enterprises/"/>
+        <updated>2024-12-02T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft is leader in both Gartner’s Magic Quadrants for Cloud ERP for Service-Centric and Product-Centric Enterprises. 
+The post Microsoft is recognized as a Leader in the 2024 Gartner® Magic Quadrant™ for Cloud ERP for Service-Centric and Product-Centric Enterprises appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Georg Glantschnig</name>
         </author>
     </entry>
     <entry>
