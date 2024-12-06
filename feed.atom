@@ -2,10 +2,166 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2024-12-05T00:57:02.265Z</updated>
+    <updated>2024-12-06T00:56:28.723Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[D365 Deprecation Wishlist]]></title>
+        <id>https://365community.online/d365-deprecation-wishlist</id>
+        <link href="https://365community.online/d365-deprecation-wishlist"/>
+        <updated>2024-12-05T20:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Through the community, I’m constantly talking to and chatting with the very people who have shaped Dynamics 365 into what it is today. I see pride and passion, and I also recognize their personal investments in making Dynamics 365 better and implementing it for customers. They invest deep thought, teamwork, and long hours to create […]]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 Deprecation Wishlist]]></title>
+        <id>http://kurthatlevik.com/?p=4670</id>
+        <link href="https://kurthatlevik.com/2024/12/05/d365-deprecation-wishlist/"/>
+        <updated>2024-12-05T20:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Through the community, I’m constantly talking to and chatting with the very people who have shaped Dynamics 365 into what it is today. I see pride and passion, and I also recognize their personal investments in making Dynamics 365 better and implementing it for customers. They invest deep thought, teamwork, and long hours to create … Continue reading D365 Deprecation Wishlist]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advent of 2024, Day 5 – Microsoft Azure AI – Deployment parameters in Azure AI Foundry]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=10164</id>
+        <link href="https://tomaztsql.wordpress.com/2024/12/05/advent-of-2024-day-5-microsoft-azure-ai-deployment-parameters-in-azure-ai-foundry/"/>
+        <updated>2024-12-05T20:30:54.000Z</updated>
+        <summary type="html"><![CDATA[In this Microsoft Azure AI series: When you are in Azure AI Foundry, and deploying the model, you can select the couple of additional settings. The Instructions and Context, Add your Data and Parameters. Instruction and context Give the model…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Practices for Document Management Software in Financial Services]]></title>
+        <id>https://erpsoftwareblog.com/?p=121693</id>
+        <link href="https://erpsoftwareblog.com/2024/12/top-10-practices-for-document-management-software-in-financial-services/"/>
+        <updated>2024-12-05T20:03:43.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Managing documents efficiently while adhering to stringent regulations is crucial in the financial services industry. MetaDocs, a cutting-edge document management solution integrated with Microsoft Dynamics 365 Business Central, empowers financial […]
+The post Top 10 Practices for Document Management Software in Financial Services appeared first on ERP Software Blog.
+The Rise of Cloud-Based Document Storage: Revolutionizing Document Management Solutions
+Best Practices for Effective MetaDocs and SharePoint Integration
+How to Improve Compliance with a Document Management Solution?]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unleashing the Power of F&SCM Data with Azure Synapse Link for Dataverse]]></title>
+        <id>https://erpsoftwareblog.com/?p=121675</id>
+        <link href="https://erpsoftwareblog.com/2024/12/unleashing-the-power-of-fscm-data-with-azure-synapse-link-for-dataverse/"/>
+        <updated>2024-12-05T15:52:12.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Data is more than just numbers; it's the way that you learn what is working and what isn’t. The problem is that we often have a lot of data, and […]
+The post Unleashing the Power of F&SCM Data with Azure Synapse Link for Dataverse appeared first on ERP Software Blog.
+Should Profit Margins or Cash-Flow Drive Business Decisions?
+Find Mismatches in Less than 5 Minutes - Microsoft Dynamics GP and The Closer for Quick and Easy Reconciliation
+Spreadsheets are Helpful, But You Can’t Rely on Them Forever]]></summary>
+        <author>
+            <name>Boyer &amp;#38; Associates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Use The E-Documents Framework In The Spanish Version]]></title>
+        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-use-the-e-documents-framework-in-the-spanish-version</id>
+        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-use-the-e-documents-framework-in-the-spanish-version"/>
+        <updated>2024-12-05T15:00:22.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 15th of the new functionality in the section is use the e-documents framework in the […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setting Autonumber Seed in a Managed Solution in Power Platform]]></title>
+        <id>https://365community.online/setting-autonumber-seed-in-a-managed-solution-in-power-platform</id>
+        <link href="https://365community.online/setting-autonumber-seed-in-a-managed-solution-in-power-platform"/>
+        <updated>2024-12-05T13:33:40.000Z</updated>
+        <summary type="html"><![CDATA[Some details in the Power Platform are intentionally excluded from the solutions. Still, most of us developers think they are part of them—unless we read enough about the docs (which is boooring).One example is Seed for columns that have the type Autonumber. As far as I know, the seed is not stored in our tables or columns; it […]]]></summary>
+        <author>
+            <name>Jonas Rapp ᴹᴠᴾ ??</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Hide Command Bar Ribbon Buttons in Model-Driven Power Apps & Dynamics 365 CE MSCRM – YouTube]]></title>
+        <id>https://365community.online/how-to-hide-command-bar-ribbon-buttons-in-model-driven-power-apps-dynamics-365-ce-mscrm-youtube</id>
+        <link href="https://365community.online/how-to-hide-command-bar-ribbon-buttons-in-model-driven-power-apps-dynamics-365-ce-mscrm-youtube"/>
+        <updated>2024-12-05T13:30:23.000Z</updated>
+        <summary type="html"><![CDATA[In this video, I’ll show you how to hide command bar buttons easily in Model-driven Power Apps and Dynamics 365 Customer Engagement (CE). This tutorial will guide you step-by-step through the process. Learn how to manage and control the visibility of buttons on the command bar and optimize your app’s user experience. #powerapps #dynamics365 #ModelDrivenApps […]]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Role of ERP Consultant in Successful Implementations]]></title>
+        <id>https://erpsoftwareblog.com/?p=121664</id>
+        <link href="https://erpsoftwareblog.com/2024/12/the-role-of-erp-consultant-in-successful-implementations/"/>
+        <updated>2024-12-05T13:14:44.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+An ERP Consultant assists in managing and implementing Enterprise Resource Planning (ERP) systems for both large organizations and small-to-medium-sized businesses by aiding in resource planning. Their goal is to ensure […]
+The post The Role of ERP Consultant in Successful Implementations appeared first on ERP Software Blog.
+The Top 7 ERP Vendors for All Industries in 2025
+Streamline Your Make to Order Supply Chain Automation in Dynamics 365
+Microsoft Dynamics 365 Business Central vs QuickBooks]]></summary>
+        <author>
+            <name>Intelegain Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Source Codes in Microsoft Dynamics 365 Business Central: Understand Source Codes]]></title>
+        <id>https://365community.online/source-codes-in-microsoft-dynamics-365-business-central-understand-source-codes</id>
+        <link href="https://365community.online/source-codes-in-microsoft-dynamics-365-business-central-understand-source-codes"/>
+        <updated>2024-12-05T11:00:50.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the Source Codes in Microsoft Dynamics 365 Business Central and of the larger ongoing In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I familiarise myself with Microsoft Dynamics […]]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central Extends Asset Life with Maintenance Manager]]></title>
+        <id>https://erpsoftwareblog.com/?p=121471</id>
+        <link href="https://erpsoftwareblog.com/2024/12/business-central-extends-asset-life-with-maintenance-manager/"/>
+        <updated>2024-12-05T10:39:06.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Maintenance Manager by Insight Works integrates seamlessly with Business Central, offering a powerful solution for asset maintenance through proactive scheduling, real-time inventory tracking, and mobile access.
+The post Business Central Extends Asset Life with Maintenance Manager appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Future-Proof Your Finances: Leveraging AI and Automation in Dynamics 365 Finance]]></title>
+        <id>https://erpsoftwareblog.com/?p=121657</id>
+        <link href="https://erpsoftwareblog.com/2024/12/ai-automation-dynamics-365-finance-cfo-solutions/"/>
+        <updated>2024-12-05T09:03:16.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The modern business landscape is marked by uncertainty. Chief Financial Officers (CFOs) face mounting challenges in managing their organization’s finances. From navigating economic uncertainties and adhering to evolving regulatory requirements […]
+The post Future-Proof Your Finances: Leveraging AI and Automation in Dynamics 365 Finance appeared first on ERP Software Blog.
+Microsoft Dynamics Invoice Capture – Key Functionalities And Benefits
+Microsoft Recognized as Visionary in 2021 Magic Quadrant for Cloud Financial Systems
+Microsoft nommée « Visionnaire » pour sa vision technologique des systèmes financiers cloud]]></summary>
+        <author>
+            <name>Dynamics Square AU</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explorando los sistemas multiagente de Microsoft: hacia una IA colaborativa y transformadora]]></title>
+        <id>https://365community.online/explorando-los-sistemas-multiagente-de-microsoft-hacia-una-ia-colaborativa-y-transformadora</id>
+        <link href="https://365community.online/explorando-los-sistemas-multiagente-de-microsoft-hacia-una-ia-colaborativa-y-transformadora"/>
+        <updated>2024-12-05T08:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Los sistemas multiagente están cambiando la forma en que la inteligencia artificial impacta nuestras vidas, y Microsoft está a la vanguardia de este desarrollo. En este artículo, me gustaría explorar la evolución de los sistemas multiagente de Microsoft, tomando como base el artículo recientemente publicado en la TechCommunity de Microsoft: «The Evolution of AI Frameworks:… […]]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Advent of 2024, Day 4 – Microsoft Azure AI – Deployment in Azure AI Foundry]]></title>
         <id>http://tomaztsql.wordpress.com/?p=10142</id>
@@ -30,6 +186,64 @@ The post Deprecation of VAT return direct submission to UK MTD in Dynamics 365 F
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Easily Prepare for Year-End with Dynamics 365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=121622</id>
+        <link href="https://erpsoftwareblog.com/2024/12/easily-prepare-for-year-end-with-dynamics-365-business-central/"/>
+        <updated>2024-12-04T17:47:07.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+As the year draws to a close, businesses face the critical task of wrapping up their financials and preparing for the new fiscal year. To help you navigate this process […]
+The post Easily Prepare for Year-End with Dynamics 365 Business Central appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>TrinSoft, LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effortless Packing and Shipping: How to Simplify Fulfillment with MetaShip]]></title>
+        <id>https://erpsoftwareblog.com/?p=121630</id>
+        <link href="https://erpsoftwareblog.com/2024/12/effortless-packing-and-shipping-how-to-simplify-fulfillment/"/>
+        <updated>2024-12-04T16:12:30.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Efficient packing and shipping processes are the backbone of any thriving business. Managing orders, tracking inventory, and ensuring timely delivery are essential to meeting customer expectations. Yet, for many businesses, […]
+The post Effortless Packing and Shipping: How to Simplify Fulfillment with MetaShip appeared first on ERP Software Blog.
+Boost your Operations with Effortless Packing and Shipping: MetaShip
+Revolutionize Your Shipping Experience with MetaShip for Business Central
+Delivery Management: Carrier Optimization and Shipment Efficiency]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics GP Checklist for 2025]]></title>
+        <id>https://erpsoftwareblog.com/?p=121549</id>
+        <link href="https://erpsoftwareblog.com/2024/12/dynamics-gp-checklist-for-2025/"/>
+        <updated>2024-12-04T16:03:04.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+As we head into 2025, Dynamics GP users must ensure their systems are optimized for the future. A proactive approach helps you avoid disruptions and seize new opportunities. We've put […]
+The post Dynamics GP Checklist for 2025 appeared first on ERP Software Blog.
+How to Set Up Recurring Sales Transactions in Microsoft Dynamics GP
+Identifying Bottlenecks on a SQL Server
+10 Ways To Take Better Care of Your SQL Server]]></summary>
+        <author>
+            <name>Michael Ramatowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 Changes to Canadian Payroll for Dynamics GP]]></title>
+        <id>https://www.encorebusiness.com/?p=66219</id>
+        <link href="https://www.encorebusiness.com/blog/2024-changes-to-canadian-payroll-for-dynamics-gp/"/>
+        <updated>2024-12-04T15:10:37.000Z</updated>
+        <summary type="html"><![CDATA[2024 Changes to Canadian Payroll for Dynamics GP
+The year end tax update for Dynamics GP hasn’t been released yet, but this article covers what we know at this time. We will continue to update this blog as more information becomes available. There are minimal changes from last year. While tax credits and some tax brackets have changed, the significant changes happened last December, so...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Debra Huntly</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Submit IRS 1099 Forms Electronically To IRIS]]></title>
         <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-submit-irs-1099-forms-electronically-to-iris</id>
         <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-submit-irs-1099-forms-electronically-to-iris"/>
@@ -37,6 +251,36 @@ The post Deprecation of VAT return direct submission to UK MTD in Dynamics 365 F
         <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 14th of the new functionality in the section is submit IRS 1099 forms electronically to […]]]></summary>
         <author>
             <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is it Time to Replace Your Outdated Business Technology? 6 Ways to Tell.]]></title>
+        <id>https://erpsoftwareblog.com/?p=121245</id>
+        <link href="https://erpsoftwareblog.com/2024/12/how-to-tell-your-business-technology-is-outdated/"/>
+        <updated>2024-12-04T14:07:28.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+When global IT spending is projected to hit $5.24 trillion a year (Gartner, 2024), advancements in business technology will undoubtedly reshape how organizations operate. Innovations in efficiency, automation, and analytics […]
+The post Is it Time to Replace Your Outdated Business Technology? 6 Ways to Tell. appeared first on ERP Software Blog.
+Obsolete Technology: The Hidden Enemy of Business Growth
+Microsoft Business Central Benefits for Owners
+Is Dynamics 365 Business Central or Finance & Supply Chain Right for My Business?]]></summary>
+        <author>
+            <name>Tigunia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Achieve Financial Goals with Dynamics 365 Business Central or Finance]]></title>
+        <id>https://erpsoftwareblog.com/?p=121576</id>
+        <link href="https://erpsoftwareblog.com/2024/12/achieve-financial-goals-with-dynamics-365-business-central-or-finance/"/>
+        <updated>2024-12-04T14:00:43.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Regardless of size or industry, every organization typically aims for growth as a key strategic goal. However, CFOs and finance leaders often face obstacles like outdated financial systems, manual processes, […]
+The post Achieve Financial Goals with Dynamics 365 Business Central or Finance appeared first on ERP Software Blog.
+Streamlining F&O Process with Microsoft Dynamics 365 finance & operations
+How an Industry-Specific Solution Can Change Your Life
+OLAP Cube vs. Data Warehouse]]></summary>
+        <author>
+            <name>Western Computer</name>
         </author>
     </entry>
     <entry>
@@ -143,6 +387,21 @@ Keep Daxing!!]]></summary>
         <summary type="html"><![CDATA[I have already talked about it in a previous post, I return to the topic because I find it interesting. In this post I show a scenario in which I use some methods that I consider extremely useful (and all with authorization access via token) to perform some operations on files and directories. Test scenario […]]]></summary>
         <author>
             <name>Roberto Stefanetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamline Customer Service with a Customized Dynamics 365 CRM]]></title>
+        <id>https://erpsoftwareblog.com/?p=121529</id>
+        <link href="https://erpsoftwareblog.com/2024/12/customer-service-with-dynamics-365-crm/"/>
+        <updated>2024-12-04T09:19:54.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Customizing Microsoft Dynamics CRM to align with your business needs can significantly enhance your operational efficiency and customer relationship management. In this article, we will explore the best practices for […]
+The post Streamline Customer Service with a Customized Dynamics 365 CRM  appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
         </author>
     </entry>
     <entry>
@@ -1669,6 +1928,21 @@ ERP SHERPA Program Provides a Self-Implementation Option for Dynamics 365 Busine
         <summary type="html"><![CDATA[After the intro published a week ago: Model-driven app for D365HR I decided to follow up and show you how two solutions can finish each other's processes. This OOB functionality is quite simple and easy to move things from ERP to PP and the other way around. Microsoft describes this add-on as: App that provides […]]]></summary>
         <author>
             <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Supply Chain Resilience with Microsoft Dynamics 365 F&SCM]]></title>
+        <id>https://erpsoftwareblog.com/?p=121647</id>
+        <link href="https://erpsoftwareblog.com/2024/11/mastering-supply-chain-resilience-with-microsoft-dynamics-365-fscm/"/>
+        <updated>2024-11-23T17:55:44.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Resilience, or the agility to change your business to adapt to real-world challenges can make or break you. We all learned a big lesson in rolling with the changes when […]
+The post Mastering Supply Chain Resilience with Microsoft Dynamics 365 F&SCM appeared first on ERP Software Blog.
+Best strategies, insights and techniques for a successful eCommerce implementation
+What, No Coffee Stains? SmartBOL Removes All Bill of Lading Paperwork
+Benefits of Voice Automation in Dynamics 365 for Warehouse Management]]></summary>
+        <author>
+            <name>Boyer &amp;#38; Associates</name>
         </author>
     </entry>
     <entry>
