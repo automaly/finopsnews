@@ -2,10 +2,290 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-05-21T02:33:51.018Z</updated>
+    <updated>2026-05-22T02:35:47.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Sales: The CRM Solution for Microsoft Dynamics 365]]></title>
+        <id>https://365community.online/dynamics-365-sales-the-crm-solution-for-microsoft-dynamics-365</id>
+        <link href="https://365community.online/dynamics-365-sales-the-crm-solution-for-microsoft-dynamics-365"/>
+        <updated>2026-05-22T01:49:11.000Z</updated>
+        <summary type="html"><![CDATA[Think your CRM is just a fancy address book? The truth is, many teams still wrestle with manual logging and repetitive admin work instead of actually selling. Before we roll initiative, hit Subscribe so these ecosystem hacks auto-deploy to your feed—no patch window required. Now imagine this instead: your CRM whispering the next best move, […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replace Measures in Power BI: DAX Calculation in Desktop]]></title>
+        <id>https://365community.online/replace-measures-in-power-bi-dax-calculation-in-desktop</id>
+        <link href="https://365community.online/replace-measures-in-power-bi-dax-calculation-in-desktop"/>
+        <updated>2026-05-21T22:10:29.000Z</updated>
+        <summary type="html"><![CDATA[Ever stared at a Power BI model with 500 measures, all named like a toddler smashing a keyboard? That endless scroll of “what-does-this-even-mean” is a special kind of pain. If you want fewer helpdesk tickets about broken reports, hit subscribe now—future you will thank you when it’s cleanup time. The good news? Power BI now […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Inventory Counts Take So Long in Business Central (And What to Do About It)]]></title>
+        <id>https://erpsoftwareblog.com/?p=147983</id>
+        <link href="https://erpsoftwareblog.com/2026/05/fix-slow-inventory-counts-in-business-central/"/>
+        <updated>2026-05-21T20:00:35.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Listen to the Podcast Your team shuts down receiving, locks the warehouse doors, and spends the next two days counting everything from raw materials to half-finished production orders. When it's […]
+The post Why Inventory Counts Take So Long in Business Central (And What to Do About It) appeared first on ERP Software Blog.
+Benefits of Automatic Collection Efforts in Business Central
+Vendor Data in Accounts Payable: Best Management Practices
+Transform Your Business Central Operations at Community Summit North America 2025]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blueprints Gallery Is Now Available in WordPress Studio]]></title>
+        <id>https://365community.online/blueprints-gallery-is-now-available-in-wordpress-studio</id>
+        <link href="https://365community.online/blueprints-gallery-is-now-available-in-wordpress-studio"/>
+        <updated>2026-05-21T19:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Discovering and launching reusable WordPress environments in WordPress Studio just got easier: the Blueprints Gallery is now available in the Studio desktop app. For custom or community Blueprints, using them in Studio often meant bringing in a configuration from outside the app, whether through a URL, ZIP file, JSON configuration, or GitHub example. Now, with […]]]></summary>
+        <author>
+            <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Governance Policies Were Not Built for AI with Christian Buckley [MVP]]]></title>
+        <id>https://365community.online/your-governance-policies-were-not-built-for-ai-with-christian-buckley-mvp</id>
+        <link href="https://365community.online/your-governance-policies-were-not-built-for-ai-with-christian-buckley-mvp"/>
+        <updated>2026-05-21T18:32:02.000Z</updated>
+        <summary type="html"><![CDATA[Artificial Intelligence is rapidly transforming the Microsoft 365 ecosystem. Organizations everywhere are deploying Microsoft Copilot, experimenting with AI agents, automating workflows, and integrating intelligent systems into their daily operations. But while companies are rushing toward AI adoption, most are overlooking one critical reality: their governance policies were never designed for AI. In this episode of […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside WordPress.com’s Security Response to the Essential Plugin Attack]]></title>
+        <id>https://365community.online/inside-wordpress-coms-security-response-to-the-essential-plugin-attack</id>
+        <link href="https://365community.online/inside-wordpress-coms-security-response-to-the-essential-plugin-attack"/>
+        <updated>2026-05-21T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Running a WordPress site should not mean carrying the full weight of security operations yourself. On WordPress.com, security is handled at the platform level through continuous scanning, managed infrastructure, virtual patches, backups, and human-led response. The Essential Plugin supply chain attack is one example of what that looks like in practice. When malicious code was […]]]></summary>
+        <author>
+            <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Real Cost of Manual SPA Management]]></title>
+        <id>https://erpsoftwareblog.com/?p=148100</id>
+        <link href="https://erpsoftwareblog.com/2026/05/the-real-cost-of-manual-spa-management/"/>
+        <updated>2026-05-21T16:56:32.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Manual SPA and chargeback processes continue to create revenue leakage, claim disputes, pricing inconsistencies, and operational inefficiencies for distributors. Explore where the real breakdown happens and how a structured approach […]
+The post The Real Cost of Manual SPA Management appeared first on ERP Software Blog.
+The Silent Margin Killer What Unmanaged SPAs and Chargebacks Are Really Costing Wholesale Distributors
+How DynaRent industry-specific Microsoft Dynamics PowerApps help your business thrive
+What do you need to gain complete control of how you manage equipment rental projects?]]></summary>
+        <author>
+            <name>Vyas Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why MetaWMS Is the Best Choice for Small Business Warehouse Management]]></title>
+        <id>https://erpsoftwareblog.com/?p=148094</id>
+        <link href="https://erpsoftwareblog.com/2026/05/metawms-is-the-best-choice-for-small-business-warehouse-management/"/>
+        <updated>2026-05-21T15:45:57.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Small businesses do not need more complexity in their warehouse. They need clarity, speed, accuracy, and control. That is exactly where MetaWMS stands out. Built on Microsoft Dynamics 365 Business […]
+The post Why MetaWMS Is the Best Choice for Small Business Warehouse Management appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Andrew Scotts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Makes a Modern Retail POS System Worth the Investment?]]></title>
+        <id>https://erpsoftwareblog.com/?p=148048</id>
+        <link href="https://erpsoftwareblog.com/2026/05/what-makes-a-modern-retail-pos-system-worth-the-investment/"/>
+        <updated>2026-05-21T15:00:57.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Retail has changed dramatically over the last decade and you might be wondering, what makes a modern retail POS system worth the investment? Well for starters, customers now expect seamless […]
+The post What Makes a Modern Retail POS System Worth the Investment? appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Qixas Group</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Achievement Unlocked: Your WordPress.com Milestones Now Have a Home]]></title>
+        <id>https://365community.online/achievement-unlocked-your-wordpress-com-milestones-now-have-a-home</id>
+        <link href="https://365community.online/achievement-unlocked-your-wordpress-com-milestones-now-have-a-home"/>
+        <updated>2026-05-21T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s a special kind of satisfaction in seeing your progress add up. The first post you publish. The first comment that turns into a conversation. The day you realize you’ve shown up all week—not because you had to, but because you wanted to. Now WordPress.com has a place to celebrate those moments: Achievements. Achievements are […]]]></summary>
+        <author>
+            <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secure Web Applications on Microsoft Azure: App Service Basics]]></title>
+        <id>https://365community.online/secure-web-applications-on-microsoft-azure-app-service-basics</id>
+        <link href="https://365community.online/secure-web-applications-on-microsoft-azure-app-service-basics"/>
+        <updated>2026-05-21T14:57:20.000Z</updated>
+        <summary type="html"><![CDATA[In today’s digital world, password security poses significant risks. Recent statistics reveal alarming trends: weak passwords contribute to 30% of global data breaches, and 81% of company breaches arise from poor password practices. With 80% of breaches linked to passwords, it’s clear that traditional methods fail to protect sensitive information. As such, many organizations are […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Sales Order Agents Could Reduce Manual Processing in Business Central?]]></title>
+        <id>https://erpsoftwareblog.com/?p=148091</id>
+        <link href="https://erpsoftwareblog.com/2026/05/how-ai-sales-order-agents-could-reduce-manual-processing-in-business-central/"/>
+        <updated>2026-05-21T13:39:12.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Manual sales order processing has long been one of the most repetitive and time-consuming tasks inside ERP systems. Even organizations using modern platforms like Microsoft Dynamics 365 Business Central often […]
+The post How AI Sales Order Agents Could Reduce Manual Processing in Business Central? appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dynamics Square USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Cloud MES Features That Give Manufacturers Real-Time Shop Floor Visibility]]></title>
+        <id>https://erpsoftwareblog.com/?p=148087</id>
+        <link href="https://erpsoftwareblog.com/2026/05/cloud-mes-features-shop-floor-visibility/"/>
+        <updated>2026-05-21T13:12:15.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Manufacturers are under constant pressure to do more with less. Customers expect shorter lead times, labor shortages continue to impact production, and supply chain disruptions still create daily challenges for […]
+The post 10 Cloud MES Features That Give Manufacturers Real-Time Shop Floor Visibility appeared first on ERP Software Blog.
+Insight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Business Central at BCUG/NAVUG Summit in Phoenix
+Warehouse Insight Now Available for Dynamics 365 Business Central
+Shop Floor Insight: An Effective MES (Manufacturing Execution System) Choice]]></summary>
+        <author>
+            <name>ISE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Podcast Belongs With Your Blog and Newsletter]]></title>
+        <id>https://365community.online/your-podcast-belongs-with-your-blog-and-newsletter</id>
+        <link href="https://365community.online/your-podcast-belongs-with-your-blog-and-newsletter"/>
+        <updated>2026-05-21T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re launching Jetpack Podcast, a new way to publish, distribute, and grow a podcast from the same site as your blog and newsletter. If you’re on WordPress.com, it’s already in your dashboard in your Jetpack menu. Here’s a quick walkthrough: You can start a podcast for free. We’ll help you set up your show, get […]]]></summary>
+        <author>
+            <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ERP vs CRM: How Dynamics 365 Covers Both]]></title>
+        <id>https://erpsoftwareblog.com/?p=148065</id>
+        <link href="https://erpsoftwareblog.com/2026/05/erp-vs-crm-how-dynamics-365-covers-both/"/>
+        <updated>2026-05-21T12:43:51.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Nowadays, managing a business involves monitoring the business, finances, sales, and customer relationships, which means employing a large number of tools, which do not integrate with each other. This is when enterprise software like ERP […]
+The post ERP vs CRM: How Dynamics 365 Covers Both appeared first on ERP Software Blog.
+Tech Insider Update Reviews Latest Enhancements to Microsoft Technology Stack
+Register Now for JourneyTEAM’s 2021 Business Technology Summit
+3 Financial Services Firms Implement D365 ERP Amid Economic Uncertainty]]></summary>
+        <author>
+            <name>Beyond Key</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a Sales Team Increased Conversions by 40% with Better Territory Management]]></title>
+        <id>https://365community.online/how-a-sales-team-increased-conversions-by-40-with-better-territory-management</id>
+        <link href="https://365community.online/how-a-sales-team-increased-conversions-by-40-with-better-territory-management"/>
+        <updated>2026-05-21T12:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Key Takeaways 1.       Territory problems are invisible without a map. Overlaps and imbalances rarely show up in reports. They only become visible when your CRM data is plotted geographically. 2.       A broken territory structure affects everything downstream. Routing, scheduling, and lead allocation all suffer when boundaries are unclear. Fix the structure, and everything else follows. […]]]></summary>
+        <author>
+            <name>365 Community Online</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot in Business Central 2026: AI-Powered ERP for Smarter Daily Operations]]></title>
+        <id>https://erpsoftwareblog.com/?p=148057</id>
+        <link href="https://erpsoftwareblog.com/2026/05/copilot-in-business-central-2026-ai-powered-erp-for-smarter-daily-operations/"/>
+        <updated>2026-05-21T12:10:57.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+As ERP technology continues to advance, artificial intelligence is becoming an increasingly important part of the user experience. In 2026, Microsoft Dynamics 365 Business Central is expanding its AI capabilities […]
+The post Copilot in Business Central 2026: AI-Powered ERP for Smarter Daily Operations appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>Logan Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Helps Finance Teams Work Faster in Microsoft Dynamics 365 ERP]]></title>
+        <id>https://erpsoftwareblog.com/?p=148076</id>
+        <link href="https://erpsoftwareblog.com/2026/05/how-ai-helps-finance-teams-work-faster-in-microsoft-dynamics-365-erp/"/>
+        <updated>2026-05-21T12:10:32.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Finance teams are not struggling because they lack data. They are struggling because too much time is spent processing, validating, reviewing, and organizing that data before meaningful decisions can even […]
+The post How AI Helps Finance Teams Work Faster in Microsoft Dynamics 365 ERP appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Visionet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Composable ERP 2026: Why Businesses Are Replacing Traditional ERP Systems]]></title>
+        <id>https://erpsoftwareblog.com/?p=147923</id>
+        <link href="https://erpsoftwareblog.com/2026/05/composable-erp-2026-why-businesses-are-replacing-traditional-erp-systems/"/>
+        <updated>2026-05-21T12:05:00.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Introduction ‘Composable ERP’ is the new buzzword in the world of ERP. But it is not just a trend; it is a strategic mindset. In simpler terms, it is an […]
+The post Composable ERP 2026: Why Businesses Are Replacing Traditional ERP Systems appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Intech Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Cut Escalations With Sentiment Routing in D365 Contact Ce…]]></title>
+        <id>https://365community.online/how-to-cut-escalations-with-sentiment-routing-in-d365-contact-ce</id>
+        <link href="https://365community.online/how-to-cut-escalations-with-sentiment-routing-in-d365-contact-ce"/>
+        <updated>2026-05-21T11:33:31.000Z</updated>
+        <summary type="html"><![CDATA[What if your contact center could recognize a frustrated customer before they even said a word? That’s not science fiction—it’s sentiment analytics at work inside Dynamics 365 Contact Center. Before we roll initiative on today’s patch boss, hit subscribe so these briefings auto-deploy to your queue instead of waiting on hold. Here’s how it works: […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Paying to Collect Payment: Why Business Central Finance Teams Are Still Stuck in Manual Payment Operations]]></title>
+        <id>https://erpsoftwareblog.com/?p=148066</id>
+        <link href="https://erpsoftwareblog.com/2026/05/stop-paying-to-collect-payment-why-business-central-finance-teams-are-still-stuck-in-manual-payment-operations/"/>
+        <updated>2026-05-21T09:56:42.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+For many businesses running Microsoft Dynamics 365 Business Central, payment collection appears modern on the surface. Customers can pay online, payment providers are connected, and invoices move through the system […]
+The post Stop Paying to Collect Payment: Why Business Central Finance Teams Are Still Stuck in Manual Payment Operations appeared first on ERP Software Blog.
+AP Wellness: Streamline Your Accounts Payable
+Mekorma Payment Hub v0.9: New Features for Business Central
+Winning the AP Game with Mekorma Embedded Solutions]]></summary>
+        <author>
+            <name>Bluefort</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Microsoft Dynamics 365 Business Central Scalable Enough for Growing Distributors?]]></title>
+        <id>https://erpsoftwareblog.com/?p=148062</id>
+        <link href="https://erpsoftwareblog.com/2026/05/is-microsoft-dynamics-365-business-central-scalable-enough-for-growing-distributors/"/>
+        <updated>2026-05-21T06:53:02.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+When distribution businesses evaluate a new ERP, the critical question isn’t just whether it works today, but whether it will survive the next wave of growth. Adding locations, expanding SKUs, […]
+The post Is Microsoft Dynamics 365 Business Central Scalable Enough for Growing Distributors? appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
+Create a Closed-Loop Analysis, Planning, and Reporting Process
+Get More in the Cloud with Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>ACE Micro, LLC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[When Your Equipment Has No Voice in Business Central]]></title>
         <id>https://erpsoftwareblog.com/?p=147972</id>
@@ -199,6 +479,17 @@ Are You Getting The Most From Your ERP Solution or Are You On Cruise Control?
 5 Benefits of Having a Certified Microsoft Dynamics GP Partner]]></summary>
         <author>
             <name>eOne Solutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlocking safer customer communications with Data Sensitivity Labels in Email]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=202231</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/05/19/unlocking-safer-customer-communications-with-data-sensitivity-labels-in-email/"/>
+        <updated>2026-05-19T15:26:27.000Z</updated>
+        <summary type="html"><![CDATA[Data Sensitivity Labels for Emails bring classification and protection directly into customer service workflows, so service representatives can work confidently without slowing down.
+The post Unlocking safer customer communications with Data Sensitivity Labels in Email appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Ramnath Srinivasan, Megha Gupta, Harish Tyagi and Saurabh Gupta</name>
         </author>
     </entry>
     <entry>
@@ -111394,388 +111685,6 @@ How Effective Supply Chain Forecasting and Planning Can Drive Transformational C
 The post Create a data maintenance strategy for Dynamics 365 finance and operations data (part two) appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Tina van Heerden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DynamicsMinds 2024: Simplify the Creation (Design) of Common Warehouse Documents and Labels]]></title>
-        <id>https://ax.docentric.com/?p=28829</id>
-        <link href="https://ax.docentric.com/dynamicsminds-2024-simplify-the-creation-of-common-warehouse-documents-and-labels/"/>
-        <updated>2024-05-22T14:04:50.000Z</updated>
-        <summary type="html"><![CDATA[In every warehouse, various documents and labels are created to support the operations. Every business likes to have its own templates, so these documents are always modified to the customer's needs. In this session, we will demonstrate the most typical warehouse processes with a focus […]
-The post DynamicsMinds 2024: Simplify the Creation (Design) of Common Warehouse Documents and Labels appeared first on Docentric AX.]]></summary>
-        <author>
-            <name>Miha Vuk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Cloud Flows are Automatically Defined in Dataverse Solutions]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-cloud-flows-are-automatically-defined-in-dataverse-solutions</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-cloud-flows-are-automatically-defined-in-dataverse-solutions"/>
-        <updated>2024-05-22T14:00:13.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ultimate SC-100 Cybersecurity Architect Exam Guide – YouTube]]></title>
-        <id>https://365community.online/ultimate-sc-100-cybersecurity-architect-exam-guide-youtube</id>
-        <link href="https://365community.online/ultimate-sc-100-cybersecurity-architect-exam-guide-youtube"/>
-        <updated>2024-05-22T11:30:34.000Z</updated>
-        <summary type="html"><![CDATA[Looking to ace the SC-100 Cybersecurity Architect Exam? Our ultimate guide covers how to design solutions aligned with cloud adoption and well-architected frameworks. Master the key concepts and pass with […]]]></summary>
-        <author>
-            <name>shabaz darr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Should You Consider Dynamics 365 Finance and Operations Implementation?]]></title>
-        <id>https://erpsoftwareblog.com/?p=106963</id>
-        <link href="https://erpsoftwareblog.com/2024/05/dynamics-365-finance-and-operations-implementation/"/>
-        <updated>2024-05-22T10:09:50.000Z</updated>
-        <summary type="html"><![CDATA[In the past decade or so, customer needs and preferences have changed rapidly as they have shifted to digitalization. Businesses are also harnessing the power of new-age technologies to stay […]
-The post Why Should You Consider Dynamics 365 Finance and Operations Implementation? appeared first on ERP Software Blog.
-PLM-ERP Integration for Dynamics 365: What's The To-Increase Implementation Process?
-Physical Rental Quantity in DynaRent for D365: Analyzing Inventory in Real-Time
-Anywhere for Rental: Benefits of our Scanning Solution in Dynamics 365]]></summary>
-        <author>
-            <name>Dynamics Square USA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Manage Unpublished Solution-Aware Cloud Flows Using Admin APIs]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-manage-unpublished-solution-aware-cloud-flows-using-admin-apis</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-manage-unpublished-solution-aware-cloud-flows-using-admin-apis"/>
-        <updated>2024-05-22T10:00:22.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finance firm tightens document security with automatic Dynamics 365 CRM – SharePoint permission syncing!]]></title>
-        <id>https://365community.online/finance-firm-tightens-document-security-with-automatic-dynamics-365-crm-sharepoint-permission-syncing</id>
-        <link href="https://365community.online/finance-firm-tightens-document-security-with-automatic-dynamics-365-crm-sharepoint-permission-syncing"/>
-        <updated>2024-05-22T09:51:05.000Z</updated>
-        <summary type="html"><![CDATA[Findango Finance, provides financial services to small and midsize firms having trouble getting money from regular banks in Spain. They offer services such as lines of credit, loans, and discounted […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DynamicsMinds 2024: Where Is Electronic Reporting Today and What Has Changed]]></title>
-        <id>https://ax.docentric.com/?p=28850</id>
-        <link href="https://ax.docentric.com/dynamicsminds-2024-where-is-electronic-reporting-today-and-what-has-changed/"/>
-        <updated>2024-05-22T09:15:48.000Z</updated>
-        <summary type="html"><![CDATA[In this session, we will review how Electronic Reporting has evolved over the last five years. We will discuss what was missing initially and how Microsoft has continued to add features and see them in short demos. We will also discuss what we are still […]
-The post DynamicsMinds 2024: Where Is Electronic Reporting Today and What Has Changed appeared first on Docentric AX.]]></summary>
-        <author>
-            <name>Albin Lotric</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Days of Knowledge & BCTechDays coming up soon!]]></title>
-        <id>https://365community.online/days-of-knowledge-bctechdays-coming-up-soon</id>
-        <link href="https://365community.online/days-of-knowledge-bctechdays-coming-up-soon"/>
-        <updated>2024-05-22T06:44:02.000Z</updated>
-        <summary type="html"><![CDATA[I recently realized I forgot to share the amazing conferences happening right now: the “Days of Knowledge” series and BC TechDays. I’m a bit ashamed because it’s always such an […]]]></summary>
-        <author>
-            <name>Waldo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Benefits of Automotive eCommerce Solutions: Accelerating Your Business Engine]]></title>
-        <id>https://erpsoftwareblog.com/?p=106959</id>
-        <link href="https://erpsoftwareblog.com/2024/05/benefits-of-automotive-ecommerce-solutions-accelerating-your-business-engine/"/>
-        <updated>2024-05-22T05:45:45.000Z</updated>
-        <summary type="html"><![CDATA[The automotive industry is undergoing a significant transformation on a global scale. The rise of electric vehicles is reshaping the industry, while the way auto parts and accessories are sold […]
-The post Benefits of Automotive eCommerce Solutions: Accelerating Your Business Engine appeared first on ERP Software Blog.
-How DynaRent industry-specific Microsoft Dynamics PowerApps help your business thrive
-How mobility, IoT, and ERP can connect crane operators with back-office planning and management
-How sustainability can make equipment maintenance profitable]]></summary>
-        <author>
-            <name>i95Dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Local development with Power Pages Copilot and Github Copilot in VS Code – Lesson 19 – YouTube]]></title>
-        <id>https://365community.online/local-development-with-power-pages-copilot-and-github-copilot-in-vs-code-lesson-19-youtube</id>
-        <link href="https://365community.online/local-development-with-power-pages-copilot-and-github-copilot-in-vs-code-lesson-19-youtube"/>
-        <updated>2024-05-22T04:30:07.000Z</updated>
-        <summary type="html"><![CDATA[Local development with Power Pages Copilot and Github Copilot in VS Code (Oleksandr Olashin) Instagram zero to hero academy – / fromzerotoh. . Instagram thevictordantas – / thevictorda. . twitter […]]]></summary>
-        <author>
-            <name>Victor Dantas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bypass execution of specific plugin (step) using BypassBusinessLogicExecutionStepIds parameter – Dynamics 365 / Dataverse]]></title>
-        <id>https://365community.online/bypass-execution-of-specific-plugin-step-using-bypassbusinesslogicexecutionstepids-parameter-dynamics-365-dataverse</id>
-        <link href="https://365community.online/bypass-execution-of-specific-plugin-step-using-bypassbusinesslogicexecutionstepids-parameter-dynamics-365-dataverse"/>
-        <updated>2024-05-21T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The BypassBusinessLogicExecutionStepIds optional parameter or request header value allows us to bypass a specific plugin step by passing its GUID, irrespective of whether it is synchronous or asynchronous, unlike the […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a data maintenance strategy for Dynamics 365 finance and operations data (part one)]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/05/21/create-a-data-maintenance-strategy-for-dynamics-365-finance-and-operations-data-part-one/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/05/21/create-a-data-maintenance-strategy-for-dynamics-365-finance-and-operations-data-part-one/"/>
-        <updated>2024-05-21T17:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Data maintenance—understanding what data needs to be stored where and for how long—can seem like an overwhelming task. Cleanup routines can help, but a good data maintenance strategy will make sure that you’re using your storage effectively and avoiding overages.
-The post Create a data maintenance strategy for Dynamics 365 finance and operations data (part one) appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Tina van Heerden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elevating email efficiency using Copilot in Dynamics 365 Sales and the rich text editor]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/05/21/elevating-email-efficiency-using-copilot-in-dynamics-365-sales-and-the-rich-text-editor/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/05/21/elevating-email-efficiency-using-copilot-in-dynamics-365-sales-and-the-rich-text-editor/"/>
-        <updated>2024-05-21T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In today's digital-first environment, effective communication is crucial for maintaining strong business relationships and driving sales success
-The post Elevating email efficiency using Copilot in Dynamics 365 Sales and the rich text editor  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Aditya Naik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Business Central: monitoring field changes with telemetry is better…]]></title>
-        <id>https://365community.online/dynamics-365-business-central-monitoring-field-changes-with-telemetry-is-better</id>
-        <link href="https://365community.online/dynamics-365-business-central-monitoring-field-changes-with-telemetry-is-better"/>
-        <updated>2024-05-21T15:50:19.000Z</updated>
-        <summary type="html"><![CDATA[In a traditional Dynamics 365 Business Central project, expecially when the customer is a large company, it’s quite often requested to monitor the changes of some important or sensitive fields […]]]></summary>
-        <author>
-            <name>Stefano Demiliani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Apps is making it easier for developers to build with Microsoft Copilot and each other]]></title>
-        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-is-making-it-easier-for-developers-to-build-with-microsoft-copilot-and-each-other/</id>
-        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/power-apps-is-making-it-easier-for-developers-to-build-with-microsoft-copilot-and-each-other/"/>
-        <updated>2024-05-21T15:30:59.000Z</updated>
-        <summary type="html"><![CDATA[Power Apps is now used by more than 25 million users every month, with an increasing number of those apps delivered by dedicated teams of professionals. We’re investing in the end-to-end experience of these developer teams, bringing together Copilot and human collaborators to be able to deliver impactful and scalable apps faster than ever. 
-The post Power Apps is making it easier for developers to build with Microsoft Copilot and each other appeared first on Microsoft Power Platform Blog.]]></summary>
-        <author>
-            <name>Ryan Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlock new levels of productivity with Microsoft Dataverse and Microsoft Copilot Studio]]></title>
-        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/unlock-new-levels-of-productivity-with-microsoft-dataverse-and-microsoft-copilot-studio/</id>
-        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/unlock-new-levels-of-productivity-with-microsoft-dataverse-and-microsoft-copilot-studio/"/>
-        <updated>2024-05-21T15:30:54.000Z</updated>
-        <summary type="html"><![CDATA[Enhancing your AI business strategy with Microsoft Copilot Studio and Microsoft Dataverse enables organizations to simplify the complex data integration, third-party data extensibility, and security guardrails organizations must have in place to assist in the implementation and adoption of AI.
-The post Unlock new levels of productivity with Microsoft Dataverse and Microsoft Copilot Studio appeared first on Microsoft Power Platform Blog.]]></summary>
-        <author>
-            <name>Nirav Shah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI-Powered ERP Systems]]></title>
-        <id>https://erpsoftwareblog.com/?p=106906</id>
-        <link href="https://erpsoftwareblog.com/2024/05/ai-powered-erp-systems/"/>
-        <updated>2024-05-21T15:21:39.000Z</updated>
-        <summary type="html"><![CDATA[Data-driven business landscapes drive organizations towards AI-powered ERP systems for streamlining operations, optimizing processes, and gaining a competitive edge. This article explores the potential of AI-driven ERP systems, their key […]
-The post AI-Powered ERP Systems appeared first on ERP Software Blog.
-Profitez de la plateforme intuitive et conviviale de Microsoft Dynamics 365 Business Central
-Product Recommendation Engine: Use AI in D365 to Recommend Products to Rental Customers
-Transforming Manufacturing Efficiency and Innovation: OpenAI's Breakthrough Contribution]]></summary>
-        <author>
-            <name>x2x eCommerce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Worst Time to Implement Compensation Management Software]]></title>
-        <id>https://erpsoftwareblog.com/?p=106744</id>
-        <link href="https://erpsoftwareblog.com/2024/05/when-to-implement-compensation-management-software/"/>
-        <updated>2024-05-21T14:33:13.000Z</updated>
-        <summary type="html"><![CDATA[Are You Delaying Your Compensation Management Software Implementation? Prior to a new ERP implementation, your consultant will ask you whether you would prefer to roll out your ERP all at […]
-The post The Worst Time to Implement Compensation Management Software appeared first on ERP Software Blog.
-GPS tracking of your equipment in DynaRent
-Asset value-added work orders in DynaRent
-How to monitor your open tasks easily in DynaRent]]></summary>
-        <author>
-            <name>EthoTech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Cancel all Flow Runs for a Version of a Flow]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-cancel-all-flow-runs-for-a-version-of-a-flow</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-cancel-all-flow-runs-for-a-version-of-a-flow"/>
-        <updated>2024-05-21T14:00:08.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From chickens and rugby to Aberdeen – YouTube]]></title>
-        <id>https://365community.online/from-chickens-and-rugby-to-aberdeen-youtube-2</id>
-        <link href="https://365community.online/from-chickens-and-rugby-to-aberdeen-youtube-2"/>
-        <updated>2024-05-21T13:09:50.000Z</updated>
-        <summary type="html"><![CDATA[This episode we are talking to @garyraife about rugby, chickens and his first time at #ScottishSummit. Scottish Summit 2024 is happening on 18th and 19th October at Aberdeen P&J Live. […]]]></summary>
-        <author>
-            <name>Scottish Summit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Streamlined Text and Document Categorization with Entity Extraction in Power Automate]]></title>
-        <id>https://365community.online/streamlined-text-and-document-categorization-with-entity-extraction-in-power-automate</id>
-        <link href="https://365community.online/streamlined-text-and-document-categorization-with-entity-extraction-in-power-automate"/>
-        <updated>2024-05-21T10:34:42.000Z</updated>
-        <summary type="html"><![CDATA[The tools of AI Builder help you find important information in text. They organize this info into categories that make sense for your business needs. There are two types: prebuilt […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Create a Flow on a File in Teams]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-create-a-flow-on-a-file-in-teams</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-create-a-flow-on-a-file-in-teams"/>
-        <updated>2024-05-21T10:00:13.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Predefined Placeholder Access In Customer Insights – Journeys]]></title>
-        <id>https://365community.online/predefined-placeholder-access-in-customer-insights-journeys</id>
-        <link href="https://365community.online/predefined-placeholder-access-in-customer-insights-journeys"/>
-        <updated>2024-05-21T07:30:00.000Z</updated>
-        <summary type="html"><![CDATA[One of the cool things you can use in Emails in Realtime Marketing (in the Customer Insights – Journeys) app is personalisation. Accessing data is pretty simple, and Microsoft have […]]]></summary>
-        <author>
-            <name>Megan V. Walker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Business Central – All About Companies?]]></title>
-        <id>https://365community.online/business-central-all-about-companies</id>
-        <link href="https://365community.online/business-central-all-about-companies"/>
-        <updated>2024-05-21T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Hi, Do you know everything about Companies with Business central? Give this a try and let us know in comments if you learned something new. Regards,Saurav Dhyanihttps://bit.ly/SubscribeSauravYouTube Continue Reading Saurav […]]]></summary>
-        <author>
-            <name>Saurav Dhyani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhancing User Experience with InstructionalText Property in Microsoft Dynamics 365 Business Central]]></title>
-        <id>https://365community.online/enhancing-user-experience-with-instructionaltext-property-in-microsoft-dynamics-365-business-central</id>
-        <link href="https://365community.online/enhancing-user-experience-with-instructionaltext-property-in-microsoft-dynamics-365-business-central"/>
-        <updated>2024-05-21T02:59:37.000Z</updated>
-        <summary type="html"><![CDATA[In today’s fast-paced business environment, clear and efficient communication within ERP systems is essential. Microsoft Dynamics 365 Business Central offers a plethora of features to enhance user experience, one of […]]]></summary>
-        <author>
-            <name>Amol Salvi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using BypassBusinessLogicExecution Parameter (Preview) to bypass Custom Sync and Async Logic (Plugin and Workflow) – Dataverse / Dynamics 365]]></title>
-        <id>https://365community.online/using-bypassbusinesslogicexecution-parameter-preview-to-bypass-custom-sync-and-async-logic-plugin-and-workflow-dataverse-dynamics-365</id>
-        <link href="https://365community.online/using-bypassbusinesslogicexecution-parameter-preview-to-bypass-custom-sync-and-async-logic-plugin-and-workflow-dataverse-dynamics-365"/>
-        <updated>2024-05-20T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Using the new BypassBusinessLogicExecution parameter we can bypass both sync as well as asynchronous custom logic (i.e. sync / async custom plugin and custom workflow registered), unlike the BypassCustomPluginExecution parameter […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Use a Simplified OData Editor in Actions like Get Items and Get Files]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-a-simplified-odata-editor-in-actions-like-get-items-and-get-files</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-a-simplified-odata-editor-in-actions-like-get-items-and-get-files"/>
-        <updated>2024-05-20T14:00:35.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrating Chatbot Preview Control in Canvas App – YouTube]]></title>
-        <id>https://365community.online/integrating-chatbot-preview-control-in-canvas-app-youtube</id>
-        <link href="https://365community.online/integrating-chatbot-preview-control-in-canvas-app-youtube"/>
-        <updated>2024-05-20T12:02:51.000Z</updated>
-        <summary type="html"><![CDATA[Integrating Chatbot Preview Control in Canvas App source]]></summary>
-        <author>
-            <name>Deepesh Somani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Use Copy-Paste for Container Actions Like Scope, Condition, and Apply to Each]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-copy-paste-for-container-actions-like-scope-condition-and-apply-to-each</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-copy-paste-for-container-actions-like-scope-condition-and-apply-to-each"/>
-        <updated>2024-05-20T10:00:49.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Route Optimization using maps with Dynamics 365 for Field Reps – Save Time, Fuel, and probably a client!]]></title>
-        <id>https://365community.online/route-optimization-using-maps-with-dynamics-365-for-field-reps-save-time-fuel-and-probably-a-client</id>
-        <link href="https://365community.online/route-optimization-using-maps-with-dynamics-365-for-field-reps-save-time-fuel-and-probably-a-client"/>
-        <updated>2024-05-20T09:44:53.000Z</updated>
-        <summary type="html"><![CDATA[Being punctual for a client meeting is one of the most crucial goals for sales and service field reps. It is a common business problem that field reps spend more […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From chickens and rugby to Aberdeen – YouTube]]></title>
-        <id>https://365community.online/from-chickens-and-rugby-to-aberdeen-youtube</id>
-        <link href="https://365community.online/from-chickens-and-rugby-to-aberdeen-youtube"/>
-        <updated>2024-05-20T09:01:26.000Z</updated>
-        <summary type="html"><![CDATA[his episode we are talking to @garyraife about rugby, chickens and his first time at #ScottishSummit. cottish Summit 2024 is happening on 18th and 19th October at Aberdeen P&J Live. […]]]></summary>
-        <author>
-            <name>Scottish Summit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Model Driven App Advanced Settings – New look]]></title>
-        <id>https://365community.online/model-driven-app-advanced-settings-new-look</id>
-        <link href="https://365community.online/model-driven-app-advanced-settings-new-look"/>
-        <updated>2024-05-20T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We all knew it was a matter of time before the old UI would be replaced, and soon we are one major step closer to being rid of everything old […]]]></summary>
-        <author>
-            <name>Thomas Sandsør</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attach an Excel file in #msdyn365bc Email.]]></title>
-        <id>https://365community.online/attach-an-excel-file-in-msdyn365bc-email</id>
-        <link href="https://365community.online/attach-an-excel-file-in-msdyn365bc-email"/>
-        <updated>2024-05-20T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Hi Readers, In the tutorial we discuss how to attach an excel file in Business Central E-mail. With this process if your scenario requires to add Excel file in email […]]]></summary>
-        <author>
-            <name>Saurav Dhyani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Convert a Personal Dashboard to a System Dashboard]]></title>
-        <id>https://365community.online/how-to-convert-a-personal-dashboard-to-a-system-dashboard</id>
-        <link href="https://365community.online/how-to-convert-a-personal-dashboard-to-a-system-dashboard"/>
-        <updated>2024-05-20T01:45:00.000Z</updated>
-        <summary type="html"><![CDATA[In any CRM implementation, it is not uncommon for team managers and experienced users to begin creating their own dashboards for their team. However, this kind of personal dashboard poses […]]]></summary>
-        <author>
-            <name>Chad Althaus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New and Retired Microsoft Dynamics 365 Certifications]]></title>
-        <id>https://365community.online/new-and-retired-microsoft-dynamics-365-certifications</id>
-        <link href="https://365community.online/new-and-retired-microsoft-dynamics-365-certifications"/>
-        <updated>2024-05-19T08:29:09.000Z</updated>
-        <summary type="html"><![CDATA[I have posted an article related to the Microsoft Dynamics 365 Certifications long back and now Microsoft has shared the new update on these certifications. Below are the updates related […]]]></summary>
-        <author>
-            <name>Arun Potti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2’nd #bcopendiscussion – Exploring New Features in Business Central 24.]]></title>
-        <id>https://365community.online/2nd-bcopendiscussion-exploring-new-features-in-business-central-24</id>
-        <link href="https://365community.online/2nd-bcopendiscussion-exploring-new-features-in-business-central-24"/>
-        <updated>2024-05-19T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Hi All, We have restarted #bcopendiscussion. With 2024 Season we started with What’s new in Business Central 2024. You can join future meetings, following this link. Register for upcoming event, […]]]></summary>
-        <author>
-            <name>Saurav Dhyani</name>
         </author>
     </entry>
     <entry>
