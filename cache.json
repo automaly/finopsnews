@@ -38750,16 +38750,6 @@
           "wordCount": 4565,
           "title": "How to Eliminate the Headache of Variable Pay Processing",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ethotech-eliminate-headaches-banner.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=107006",
-          "author": "Catapult",
-          "description": "Dynamics 365 Business Central has revolutionized the way SMBs manage their operations. By streamlining processes, automating workflows, and providing live, data-driven insights, medium-sized businesses now have the tools they need […]\nThe post Why a Dynamics 365 CRM Integration will Enhance Your Business Central Solution appeared first on ERP Software Blog.\nASPIRE22 Aims to Provide Roadmap, Resources for Digital Journey\nHow Mobile WMS reduces overhead for remote facilities?\nUnlocking Seamless Order Fulfillment in Dynamics 365 Business Central",
-          "link": "https://erpsoftwareblog.com/2024/05/why-a-dynamics-365-crm-integration-will-enhance-your-business-central-solution/",
-          "publishedOn": "2024-05-23T18:27:50.000Z",
-          "wordCount": 5010,
-          "title": "Why a Dynamics 365 CRM Integration will Enhance Your Business Central Solution",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/BusinessCentral-CRM-Integration-FeaturedIm.jpg"
         }
       ]
     },
@@ -40115,6 +40105,111 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/why-simplicity-wins-in-microsoft-365-with-evi-van-der-velden-mvp",
+          "author": "Mirko Peters",
+          "description": "In this episode of the m365.fm podcast, Mirko Peters sits down with Microsoft MVP Evi van der Velden to discuss one of the most underestimated topics in modern IT: simplicity. Together, they explore Microsoft 365 governance, Copilot adoption, metadata, SharePoint, user adoption, digital stress, AI readiness, and why organizations often make technology far more complicated […]",
+          "link": "https://365community.online/why-simplicity-wins-in-microsoft-365-with-evi-van-der-velden-mvp",
+          "publishedOn": "2026-05-23T09:05:50.000Z",
+          "wordCount": 2722,
+          "title": "Why Simplicity Wins in Microsoft 365 with Evi van der Velden [MVP]",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/05/c89430ac20f79a64ad137de54f18d317.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/power-bi-in-microsoft-365-embedded-analytics-fabric-how-to-finally-kill-data-silos",
+          "author": "Mirko Peters",
+          "description": "Power BI in Microsoft 365, embedded analytics in Teams/Excel/PowerPoint/Outlook/SharePoint, context switching, data silos and governance – this episode is for people searching “Power BI in Microsoft 365”, “embedded analytics in Teams”, “connect Excel to Power BI dataset”, “data silos vs Fabric OneLake” or “why intranet reporting fails users”. If your data feels scattered across 47 […]",
+          "link": "https://365community.online/power-bi-in-microsoft-365-embedded-analytics-fabric-how-to-finally-kill-data-silos",
+          "publishedOn": "2026-05-22T19:36:18.000Z",
+          "wordCount": 2562,
+          "title": "Power BI in Microsoft 365: Embedded Analytics, Fabric & How To Finally Kill Data Silos",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/365CommOnl-By-Proximo-3-Light-scaled.png"
+        },
+        {
+          "id": "https://365community.online/beyond-built-in-enabling-external-models-for-smarter-agents",
+          "author": "Anitha Santosh",
+          "description": "In my previous post, I explained about enabling MCP server in D365FO. Initially I had an option for OpenAI models like GPT-* (GPT-4.1, GPT-5etc) The orchestration model is the core engine your agent relies on for reasoning, coordinating actions, and generating responses. The model you choose has a direct impact on the quality, accuracy, and […]",
+          "link": "https://365community.online/beyond-built-in-enabling-external-models-for-smarter-agents",
+          "publishedOn": "2026-05-22T17:03:00.000Z",
+          "wordCount": 2141,
+          "title": "Beyond Built‑In: Enabling External Models for Smarter Agents",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/05/Beyond-Built%E2%80%91In-Enabling-External-Models-for-Smarter-Agents.png?fit=413%2C596&ssl=1"
+        },
+        {
+          "id": "https://365community.online/secure-scalable-governed-power-platform-best-practices-with-craig-white-mvp",
+          "author": "Mirko Peters",
+          "description": "In this episode of the m365.fm podcast, Mirko Peters sits down with Craig White, double Microsoft MVP, AI Platform Lead, governance specialist, and co-host of the Power Platform Panic Room podcast. With more than twenty years of experience across SQL Server, SharePoint, Microsoft 365, Power Platform, and Copilot Studio, Craig shares deep insights into governance, […]",
+          "link": "https://365community.online/secure-scalable-governed-power-platform-best-practices-with-craig-white-mvp",
+          "publishedOn": "2026-05-22T16:10:08.000Z",
+          "wordCount": 2754,
+          "title": "Secure, Scalable, Governed: Power Platform Best Practices with Craig White [MVP]",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/05/e73dd0245083c6c0436fba96faa96483.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/turn-your-blog-posts-into-podcast-episodes",
+          "author": "Belinda Allen",
+          "description": "Some readers love settling in with a post. Others catch up while walking, commuting, cooking, or working through a long list of tabs. Posts to Podcast gives your audience another way to keep up with what you publish. Starting today, WordPress.com bloggers can turn recent posts into AI-generated podcast episodes directly from their dashboard. Choose […]",
+          "link": "https://365community.online/turn-your-blog-posts-into-podcast-episodes",
+          "publishedOn": "2026-05-22T15:31:00.000Z",
+          "wordCount": 2261,
+          "title": "Turn Your Blog Posts Into Podcast Episodes",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/05/Turn-Your-Blog-Posts-Into-Podcast-Episodes.png?fit=1200%2C800&ssl=1"
+        },
+        {
+          "id": "https://365community.online/conversation-trace-in-copilot-studio",
+          "author": "Vivian Voss",
+          "description": "When something in your agent gives the wrong answer or behaves unexpectedly, the conversation trace is your first stop. Not the topic editor. The execution panel on the left side If you've used the testing canvas for live testing (covered in the previous post), you already know the left side shows topic transitions as they […]",
+          "link": "https://365community.online/conversation-trace-in-copilot-studio",
+          "publishedOn": "2026-05-22T15:12:00.000Z",
+          "wordCount": 3027,
+          "title": "Conversation trace in Copilot Studio",
+          "enclosure": {
+            "url": "https://storage.ghost.io/c/4f/a4/4fa45b00-d231-4bd3-91ad-2c910225838e/content/media/2026/05/Screen-Recording-2026-05-22-at-13.21.03.mp4",
+            "length": "5773654",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/05/photo-1562255510-81104e9a3ea1.jpeg?fit=2000%2C1333&ssl=1"
+        },
+        {
+          "id": "https://365community.online/wordpress-com-changelog-launch-a-podcast-and-update-your-friends",
+          "author": "Belinda Allen",
+          "description": "May 8 – May 21, 2026 If things have felt a little busier around WordPress.com these past two weeks, there’s a good reason: we shipped a lot, including a new home for your podcast, a weekly letter for close friends, and a new Mac app that uses your site context, so you can get more […]",
+          "link": "https://365community.online/wordpress-com-changelog-launch-a-podcast-and-update-your-friends-2",
+          "publishedOn": "2026-05-22T13:45:00.000Z",
+          "wordCount": 2623,
+          "title": "WordPress.com Changelog: Launch a Podcast and Update Your Friends",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/05/WordPresscom-Changelog-Launch-a-Podcast-and-Update-Your-Friends.jpg?fit=1200%2C756&ssl=1"
+        },
+        {
+          "id": "https://365community.online/wordpress-com-changelog-launch-a-podcast-and-update-your-friends",
+          "author": "Belinda Allen",
+          "description": "May 8 – May 21, 2026 If things have felt a little busier around WordPress.com these past two weeks, there’s a good reason: we shipped a lot, including a new home for your podcast, a weekly letter for close friends, and a new Mac app that uses your site context, so you can get more […]",
+          "link": "https://365community.online/wordpress-com-changelog-launch-a-podcast-and-update-your-friends-2",
+          "publishedOn": "2026-05-22T13:45:00.000Z",
+          "wordCount": 2623,
+          "title": "WordPress.com Changelog: Launch a Podcast and Update Your Friends",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/05/WordPresscom-Changelog-Launch-a-Podcast-and-Update-Your-Friends.jpg?fit=1200%2C756&ssl=1"
+        },
+        {
+          "id": "https://365community.online/azure-cloud-adoption-framework-caf-guide",
+          "author": "Mirko Peters",
+          "description": "Script 38: The Azure CAF Nobody Follows (But Should) 1. Introduction We’re promised six clean stages in Azure’s Cloud Adoption Framework: Strategy, Plan, Ready, Adopt, Govern, Manage. Sounds simple, right? Microsoft technically frames CAF as foundational phases plus ongoing operational disciplines, but let’s be honest — everyone just wants to know what breaks in the […]",
+          "link": "https://365community.online/azure-cloud-adoption-framework-caf-guide",
+          "publishedOn": "2026-05-22T12:32:22.000Z",
+          "wordCount": 5633,
+          "title": "Azure Cloud Adoption Framework (CAF) Guide",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/05/1779453142_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-run-sharepoint-agent-access-insights-reports-with-powershell-macos-windows-11",
+          "author": "Ragnar Heil",
+          "description": "Copilot agents are quietly accessing your SharePoint sites right now. Do you know which ones — and what they’re reading? Microsoft recently introduced the Agent Access Insights Report as part of SharePoint Advanced Management. It shows every declarative agent interacting with your SharePoint and OneDrive content: how often, on which sites, and under what governance […]",
+          "link": "https://365community.online/how-to-run-sharepoint-agent-access-insights-reports-with-powershell-macos-windows-11",
+          "publishedOn": "2026-05-22T11:58:00.000Z",
+          "wordCount": 2511,
+          "title": "How to Run SharePoint Agent Access Insights Reports with PowerShell (macOS & Windows 11)",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/05/image-10-1024x83.png?fit=1024%2C83&ssl=1"
+        },
         {
           "id": "https://365community.online/dynamics-365-sales-the-crm-solution-for-microsoft-dynamics-365",
           "author": "Mirko Peters",
@@ -80054,86 +80149,6 @@
           "wordCount": 3395,
           "title": "Integrating Bootstrap With React – YouTube",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/1718791696_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-automate-with-ease-using-the-ai-recorder",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-automate-with-ease-using-the-ai-recorder",
-          "publishedOn": "2024-05-23T14:00:19.000Z",
-          "wordCount": 3297,
-          "title": "New Functionality In Microsoft Power Automate 2024 Wave 1: Automate With Ease Using the AI Recorder",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-troubleshoot-with-copilot-for-cloud-flows-execution",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-troubleshoot-with-copilot-for-cloud-flows-execution",
-          "publishedOn": "2024-05-23T10:00:45.000Z",
-          "wordCount": 3297,
-          "title": "New Functionality In Microsoft Power Automate 2024 Wave 1: Troubleshoot with Copilot for Cloud Flows Execution",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/mvp-journey-and-the-impact-of-power-platform-communities-with-nati-turtledove-youtube",
-          "author": "NZ365Guy",
-          "description": "MVP Journey and the Impact of Power Platform Communities with Nati Turtledove Send me a Text Message here (https://www.buzzsprout.com/twilio/text_messages/1796418/open_sms) FULL SHOW NOTES https://podcast.nz365guy.com/554 Have you ever wondered how a barefoot […]",
-          "link": "https://365community.online/mvp-journey-and-the-impact-of-power-platform-communities-with-nati-turtledove-youtube",
-          "publishedOn": "2024-05-23T09:17:08.000Z",
-          "wordCount": 3825,
-          "title": "MVP Journey and the Impact of Power Platform Communities with Nati Turtledove – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/1716476461_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/are-you-ready-for-the-most-mystical-conference-of-the-year",
-          "author": "Stefano Demiliani",
-          "description": "3 days until DynamicsMinds 2024 in Portoroz (Slovenia) starts, a 4 days community conference covering Microsoft Dynamics 365 and Power Platform world in full in a mystical atmosphere based on […]",
-          "link": "https://365community.online/are-you-ready-for-the-most-mystical-conference-of-the-year",
-          "publishedOn": "2024-05-23T08:03:57.000Z",
-          "wordCount": 3261,
-          "title": "Are you ready for the most mystical conference of the year?",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/Are-you-ready-for-the-most-mystical-conference-of-the.png?fit=1200%2C637&ssl=1"
-        },
-        {
-          "id": "https://365community.online/days-of-knowledge-central",
-          "author": "Renato Fajdiga",
-          "description": "Days of Knowledge Central 2024 In less than 2 weeks there is another great conference from the Days of Knowledge series. Days of Knowledge Central event is one of the […]",
-          "link": "https://365community.online/days-of-knowledge-central",
-          "publishedOn": "2024-05-23T06:00:34.000Z",
-          "wordCount": 3240,
-          "title": "Days of Knowledge – Central",
-          "imageUrl": "https://365community.online/wp-content/uploads/2024/05/Days-of-Knowledge-â-Central.png"
-        },
-        {
-          "id": "https://365community.online/114th-bcopendiscussion-chatgpt-api-and-business-central",
-          "author": "Saurav Dhyani",
-          "description": "Hi Readers, This session was one of the most watched sessions as we deeply discussed in ChatGPT Integration with Business Central. Enjoy! Regards,Saurav Dhyanihttps://bit.ly/SubscribeSauravYouTube Continue Reading Saurav Dhyani’s Article on […]",
-          "link": "https://365community.online/114th-bcopendiscussion-chatgpt-api-and-business-central",
-          "publishedOn": "2024-05-23T05:30:00.000Z",
-          "wordCount": 3165,
-          "title": "114’th bcopendiscussion – ChatGPT API and Business Central.",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/114th-bcopendiscussion-ChatGPT-API-and-Business-Central.jpeg?fit=480%2C360&ssl=1"
-        },
-        {
-          "id": "https://365community.online/welsh-azure-user-group-may-2024-event-youtube",
-          "author": "John Lunn",
-          "description": "Welsh Azure User Group – May 2024 Event It was the day of our Welsh Azure User Group #WAUG May 2024 meet up and we had yet another two amazing […]",
-          "link": "https://365community.online/welsh-azure-user-group-may-2024-event-youtube",
-          "publishedOn": "2024-05-22T19:58:01.000Z",
-          "wordCount": 3434,
-          "title": "Welsh Azure User Group – May 2024 Event – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/1716496133_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/welsh-azure-user-group-may-2024-meet-up",
-          "author": "John Lunn",
-          "description": "It was the day of our Welsh Azure User Group #WAUG May 2024 meet up and we had yet another two amazing speakers join us. We were joined by Rhydian […]",
-          "link": "https://365community.online/welsh-azure-user-group-may-2024-meet-up",
-          "publishedOn": "2024-05-22T19:52:07.000Z",
-          "wordCount": 3236,
-          "title": "Welsh Azure User Group May 2024 Meet Up!",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/Welsh-Azure-User-Group-May-2024-Meet-Up.jpg?fit=1200%2C675&ssl=1"
         }
       ]
     },
@@ -82015,6 +82030,16 @@
       "feedUrl": "http://atomicax.com/rss.xml",
       "siteUrl": "https://www.atomicax.com/frontpage",
       "articles": [
+        {
+          "id": "1737 at https://www.atomicax.com",
+          "author": "Nathan Clouse",
+          "description": "The title “All Quiet on the LCS Front” draws inspiration from All Quiet on the Western Front, where silence is less a sign of peace and more an indication that an era is quietly fading away. That same feeling exists in the ongoing evolution of Finance & Operations ALM. Lifecycle Services (LCS) still powers critical workloads and remains familiar territory for many teams, but the strategic center of gravity is steadily shifting toward the Power Platform Admin Center (PPAC). Governance, environment administration, security, and platform management are increasingly converging into the broader Power Platform ecosystem, signaling not a sudden replacement of LCS, but a gradual transition into a new operational model for F&O. LCS is now in twilight. It's end has arrived.\nIn this series of articles, we'll look to the future with PPAC and what new capabilities we have and what scenarios those new capabilities unlock.",
+          "link": "https://www.atomicax.com/content/all-quiet-lcs-front",
+          "publishedOn": "2026-05-23T19:03:10.000Z",
+          "wordCount": 876,
+          "title": "All quiet on the LCS front",
+          "imageUrl": null
+        },
         {
           "id": "1735 at https://www.atomicax.com",
           "author": "Nathan Clouse",
@@ -85075,26 +85100,6 @@
           "wordCount": 2315,
           "title": "Announcing Dynamics 365 Contact Center – a Copilot-first cloud contact center to transform service experiences",
           "imageUrl": "https://blogs.microsoft.com/wp-content/uploads/prod/2024/06/20647-MSFT-CCaaS-thumbnail-1024x576.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/05/23/unlocking-efficiency-dynamics-365-field-service-integration-for-seamless-operations/",
-          "author": "Jason Cohen",
-          "description": "We are thrilled to announce the general availability of the integration between Dynamics 365 Field Service and Dynamics 365 Finance as well as Supply Chain Management. This powerful integration ensures that the work of frontline workers, service managers, and dispatchers are seamlessly synced with the financial and supply chain heart of your business. Let’s explore some of the details of this native integration.  \nThe post Unlocking efficiency: Dynamics 365 Field Service integration for seamless operations  appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/05/23/unlocking-efficiency-dynamics-365-field-service-integration-for-seamless-operations/",
-          "publishedOn": "2024-05-23T19:59:37.000Z",
-          "wordCount": 3391,
-          "title": "Unlocking efficiency: Dynamics 365 Field Service integration for seamless operations",
-          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2023/05/CLO17_corporateOffice_010.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/05/23/leveraging-copilot-in-dynamics-365-sales-to-prepare-for-sales-meetings/",
-          "author": "Aditya Naik",
-          "description": "In today’s rapidly evolving sales environment, staying ahead of the curve is more crucial than ever. \nThe post Leveraging Copilot in Dynamics 365 Sales to prepare for sales meeting appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/05/23/leveraging-copilot-in-dynamics-365-sales-to-prepare-for-sales-meetings/",
-          "publishedOn": "2024-05-23T17:30:00.000Z",
-          "wordCount": 2976,
-          "title": "Leveraging Copilot in Dynamics 365 Sales to prepare for sales meeting",
-          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/05/MSC24-India-business-Adobe-550638570-rgb-scaled.jpg"
         }
       ]
     },
@@ -86358,18 +86363,7 @@
       "title": "Juan Antonio Tomás",
       "feedUrl": "https://jatomas.com/feed/",
       "siteUrl": "https://jatomas.com",
-      "articles": [
-        {
-          "id": "https://jatomas.com/?p=2041",
-          "author": "ja.tomas",
-          "description": "A estas alturas, todos sabemos de la importancia que tiene el uso de Tablas Virtuales o Virtual Tables (aka Virtual Entities) en en Dynamics 365 Finance and Operations apps. Quizá uno de los usos más comunes y conocidos es el de utilizar Dynamics 365 F&O como origen de datos en Power Apps de tipo lienzo… \nRead",
-          "link": "https://jatomas.com/2024/05/24/activacion-automatica-de-virtual-tables-en-d365fo/",
-          "publishedOn": "2024-05-24T10:09:11.000Z",
-          "wordCount": 1996,
-          "title": "Activación automática de Virtual Tables en D365F&O",
-          "imageUrl": "https://i0.wp.com/jatomas.com/wp-content/uploads/2024/05/activar-virtual-tables-automatico.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Microsoft Dynamics 365 Blog",
