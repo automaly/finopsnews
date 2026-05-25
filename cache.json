@@ -40106,6 +40106,66 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/secure-by-design-ai-protecting-mlops-in-the-microsoft-cloud-with-martin-dimovski-mvp-mct",
+          "author": "Mirko Peters",
+          "description": "In this episode of the m365.fm podcast, Mirko Peters sits down with Microsoft MVP, MCT, cloud security expert, and community leader Martin Dimovski to explore one of the most important topics in modern enterprise IT: securing AI workloads and MLOps environments inside the Microsoft Cloud. Together, they dive deep into secure-by-design architecture, AI security risks, […]",
+          "link": "https://365community.online/secure-by-design-ai-protecting-mlops-in-the-microsoft-cloud-with-martin-dimovski-mvp-mct",
+          "publishedOn": "2026-05-25T01:05:27.000Z",
+          "wordCount": 2699,
+          "title": "Secure-by-Design AI: Protecting MLOps in the Microsoft Cloud with Martin Dimovski [MVP-MCT]",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/05/2f1a5cb84f89a1f18949df8af8032543.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/ai-anxiety-in-the-modern-workplace-with-janet-robb",
+          "author": "Mirko Peters",
+          "description": "In this deeply human and thought-provoking episode of the m365.fm podcast, Mirko Peters sits down with workplace transformation expert Janet Robb to discuss one of the biggest hidden challenges of the AI revolution: anxiety. While most conversations around AI focus on productivity, automation, Copilot, prompts, and innovation, this episode focuses on the emotional reality many […]",
+          "link": "https://365community.online/ai-anxiety-in-the-modern-workplace-with-janet-robb",
+          "publishedOn": "2026-05-24T21:15:47.000Z",
+          "wordCount": 2769,
+          "title": "AI Anxiety in the Modern Workplace with Janet Robb",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/05/3fde7cb32b13a41045eaa691a120d258.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/stop-studying-for-md-102-%f0%9f%a4%af-7-insider-hacks-to-pass-microsoft-intune-exam-fast-2026-guide-youtube",
+          "author": "shabaz darr",
+          "description": "🚨 Struggling to pass the MD-102 exam? You’re not alone. Most candidates fail because they study the WRONG way. In this video, I break down the 7 insider hacks that helped me pass the MD-102: Microsoft Endpoint Administrator exam by focusing on real-world Microsoft Intune, Autopilot, and Defender for Endpoint skills — not just theory. […]",
+          "link": "https://365community.online/stop-studying-for-md-102-%f0%9f%a4%af-7-insider-hacks-to-pass-microsoft-intune-exam-fast-2026-guide-youtube",
+          "publishedOn": "2026-05-24T10:31:59.000Z",
+          "wordCount": 2153,
+          "title": "Stop Studying for MD-102! 🤯 7 Insider Hacks to Pass Microsoft Intune Exam FAST (2026 Guide) – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/05/1779660288_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/azure-just-killed-free-internet-access-%f0%9f%98%b3-private-subnets-explained-nat-gateway-required-youtube",
+          "author": "shabaz darr",
+          "description": "🚨 Azure Networking just changed FOREVER… and most people don’t realise it yet. Microsoft has officially removed default outbound internet access for new deployments — meaning your Azure VMs and workloads will NOT reach the internet unless you design for it. In this video, I break down:✅ What Azure changed (Private by Default networking)✅ Why […]",
+          "link": "https://365community.online/azure-just-killed-free-internet-access-%f0%9f%98%b3-private-subnets-explained-nat-gateway-required-youtube",
+          "publishedOn": "2026-05-24T06:17:59.000Z",
+          "wordCount": 2127,
+          "title": "Azure Just Killed Free Internet Access 😳 | Private Subnets Explained (NAT Gateway Required!) – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/05/1779673466_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/inside-enterprise-security-ad-tiering-privileged-access-with-viktor-hedberg-mvp",
+          "author": "Mirko Peters",
+          "description": "In this episode of the m365.fm podcast, Mirko Peters sits down with cybersecurity expert Viktor Hedberg to explore one of the most critical — and misunderstood — areas of enterprise IT security: Active Directory tiering, privileged access, identity protection, and defending modern hybrid environments. With years of experience in incident response, offensive security, Active Directory […]",
+          "link": "https://365community.online/inside-enterprise-security-ad-tiering-privileged-access-with-viktor-hedberg-mvp",
+          "publishedOn": "2026-05-24T03:51:32.000Z",
+          "wordCount": 2725,
+          "title": "Inside Enterprise Security: AD Tiering & Privileged Access with Viktor Hedberg [MVP",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/05/13746b817bb6d94c0b03f623efb9d37d.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/all-quiet-on-the-lcs-front",
+          "author": "Nathan Clouse",
+          "description": "The title “All Quiet on the LCS Front” draws inspiration from All Quiet on the Western Front, where silence is less a sign of peace and more an indication that an era is quietly fading away. That same feeling exists in the ongoing evolution of Finance & Operations ALM. Lifecycle Services (LCS) still powers critical […]",
+          "link": "https://365community.online/all-quiet-on-the-lcs-front",
+          "publishedOn": "2026-05-23T19:03:00.000Z",
+          "wordCount": 2038,
+          "title": "All quiet on the LCS front",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/365CommOnl-By-Proximo-3-Light-scaled.png"
+        },
+        {
           "id": "https://365community.online/why-simplicity-wins-in-microsoft-365-with-evi-van-der-velden-mvp",
           "author": "Mirko Peters",
           "description": "In this episode of the m365.fm podcast, Mirko Peters sits down with Microsoft MVP Evi van der Velden to discuss one of the most underestimated topics in modern IT: simplicity. Together, they explore Microsoft 365 governance, Copilot adoption, metadata, SharePoint, user adoption, digital stress, AI readiness, and why organizations often make technology far more complicated […]",

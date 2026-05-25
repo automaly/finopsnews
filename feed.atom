@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-05-24T02:31:23.800Z</updated>
+    <updated>2026-05-25T02:39:49.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Secure-by-Design AI: Protecting MLOps in the Microsoft Cloud with Martin Dimovski [MVP-MCT]]]></title>
+        <id>https://365community.online/secure-by-design-ai-protecting-mlops-in-the-microsoft-cloud-with-martin-dimovski-mvp-mct</id>
+        <link href="https://365community.online/secure-by-design-ai-protecting-mlops-in-the-microsoft-cloud-with-martin-dimovski-mvp-mct"/>
+        <updated>2026-05-25T01:05:27.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of the m365.fm podcast, Mirko Peters sits down with Microsoft MVP, MCT, cloud security expert, and community leader Martin Dimovski to explore one of the most important topics in modern enterprise IT: securing AI workloads and MLOps environments inside the Microsoft Cloud. Together, they dive deep into secure-by-design architecture, AI security risks, […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Anxiety in the Modern Workplace with Janet Robb]]></title>
+        <id>https://365community.online/ai-anxiety-in-the-modern-workplace-with-janet-robb</id>
+        <link href="https://365community.online/ai-anxiety-in-the-modern-workplace-with-janet-robb"/>
+        <updated>2026-05-24T21:15:47.000Z</updated>
+        <summary type="html"><![CDATA[In this deeply human and thought-provoking episode of the m365.fm podcast, Mirko Peters sits down with workplace transformation expert Janet Robb to discuss one of the biggest hidden challenges of the AI revolution: anxiety. While most conversations around AI focus on productivity, automation, Copilot, prompts, and innovation, this episode focuses on the emotional reality many […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Studying for MD-102! 🤯 7 Insider Hacks to Pass Microsoft Intune Exam FAST (2026 Guide) – YouTube]]></title>
+        <id>https://365community.online/stop-studying-for-md-102-%f0%9f%a4%af-7-insider-hacks-to-pass-microsoft-intune-exam-fast-2026-guide-youtube</id>
+        <link href="https://365community.online/stop-studying-for-md-102-%f0%9f%a4%af-7-insider-hacks-to-pass-microsoft-intune-exam-fast-2026-guide-youtube"/>
+        <updated>2026-05-24T10:31:59.000Z</updated>
+        <summary type="html"><![CDATA[🚨 Struggling to pass the MD-102 exam? You’re not alone. Most candidates fail because they study the WRONG way. In this video, I break down the 7 insider hacks that helped me pass the MD-102: Microsoft Endpoint Administrator exam by focusing on real-world Microsoft Intune, Autopilot, and Defender for Endpoint skills — not just theory. […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Just Killed Free Internet Access 😳 | Private Subnets Explained (NAT Gateway Required!) – YouTube]]></title>
+        <id>https://365community.online/azure-just-killed-free-internet-access-%f0%9f%98%b3-private-subnets-explained-nat-gateway-required-youtube</id>
+        <link href="https://365community.online/azure-just-killed-free-internet-access-%f0%9f%98%b3-private-subnets-explained-nat-gateway-required-youtube"/>
+        <updated>2026-05-24T06:17:59.000Z</updated>
+        <summary type="html"><![CDATA[🚨 Azure Networking just changed FOREVER… and most people don’t realise it yet. Microsoft has officially removed default outbound internet access for new deployments — meaning your Azure VMs and workloads will NOT reach the internet unless you design for it. In this video, I break down:✅ What Azure changed (Private by Default networking)✅ Why […]]]></summary>
+        <author>
+            <name>shabaz darr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside Enterprise Security: AD Tiering & Privileged Access with Viktor Hedberg [MVP]]></title>
+        <id>https://365community.online/inside-enterprise-security-ad-tiering-privileged-access-with-viktor-hedberg-mvp</id>
+        <link href="https://365community.online/inside-enterprise-security-ad-tiering-privileged-access-with-viktor-hedberg-mvp"/>
+        <updated>2026-05-24T03:51:32.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of the m365.fm podcast, Mirko Peters sits down with cybersecurity expert Viktor Hedberg to explore one of the most critical — and misunderstood — areas of enterprise IT security: Active Directory tiering, privileged access, identity protection, and defending modern hybrid environments. With years of experience in incident response, offensive security, Active Directory […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[All quiet on the LCS front]]></title>
         <id>1737 at https://www.atomicax.com</id>
@@ -13,6 +63,16 @@
         <updated>2026-05-23T19:03:10.000Z</updated>
         <summary type="html"><![CDATA[The title “All Quiet on the LCS Front” draws inspiration from All Quiet on the Western Front, where silence is less a sign of peace and more an indication that an era is quietly fading away. That same feeling exists in the ongoing evolution of Finance & Operations ALM. Lifecycle Services (LCS) still powers critical workloads and remains familiar territory for many teams, but the strategic center of gravity is steadily shifting toward the Power Platform Admin Center (PPAC). Governance, environment administration, security, and platform management are increasingly converging into the broader Power Platform ecosystem, signaling not a sudden replacement of LCS, but a gradual transition into a new operational model for F&O. LCS is now in twilight. It's end has arrived.
 In this series of articles, we'll look to the future with PPAC and what new capabilities we have and what scenarios those new capabilities unlock.]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All quiet on the LCS front]]></title>
+        <id>https://365community.online/all-quiet-on-the-lcs-front</id>
+        <link href="https://365community.online/all-quiet-on-the-lcs-front"/>
+        <updated>2026-05-23T19:03:00.000Z</updated>
+        <summary type="html"><![CDATA[The title “All Quiet on the LCS Front” draws inspiration from All Quiet on the Western Front, where silence is less a sign of peace and more an indication that an era is quietly fading away. That same feeling exists in the ongoing evolution of Finance & Operations ALM. Lifecycle Services (LCS) still powers critical […]]]></summary>
         <author>
             <name>Nathan Clouse</name>
         </author>
