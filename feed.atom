@@ -2,10 +2,230 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-05-25T02:39:49.565Z</updated>
+    <updated>2026-05-26T02:29:34.084Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Probability Shift: How AI is Rewriting Power Platform Design]]></title>
+        <id>https://365community.online/the-probability-shift-how-ai-is-rewriting-power-platform-design</id>
+        <link href="https://365community.online/the-probability-shift-how-ai-is-rewriting-power-platform-design"/>
+        <updated>2026-05-25T23:08:28.000Z</updated>
+        <summary type="html"><![CDATA[Most Power Platform automations are failing for one simple reason: they were built for a world that no longer exists. Traditional low-code systems depend on rigid “if-then” logic, clean data, and predictable inputs. But modern enterprise data is chaotic, unstructured, and constantly changing. The result is what many organizations are experiencing right now — brittle […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlock the Power of Your Data: Microsoft Fabric for Dynamics 365 BC and F&O]]></title>
+        <id>https://erpsoftwareblog.com/?p=148266</id>
+        <link href="https://erpsoftwareblog.com/2026/05/ktl-microsoft-fabric/"/>
+        <updated>2026-05-25T21:10:51.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Your business runs on data. Every transaction in Microsoft Dynamics 365 Business Central or Finance and Operations tells a story about your customers, your operations, and your bottom line. But […]
+The post Unlock the Power of Your Data: Microsoft Fabric for Dynamics 365 BC and F&O appeared first on ERP Software Blog.
+Dynamics 365 Finance versus Dynamics 365 Business Central Functionality
+Streamline Your Make to Order Supply Chain Automation in Dynamics 365
+Case Study: Embracing ClickLearn as a corporate Dynamics 365 training platform]]></summary>
+        <author>
+            <name>Timothy Lally</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migrating from Dynamics GP to Dynamics 365 BC : The Smart Way]]></title>
+        <id>https://erpsoftwareblog.com/?p=148025</id>
+        <link href="https://erpsoftwareblog.com/2026/05/migrating-from-dynamics-gp-to-dynamics-365-bc-the-smart-way/"/>
+        <updated>2026-05-25T21:00:11.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Migrating from Dynamics GP to Dynamics 365 BC (Business Central) is not simply a technical upgrade. For finance and operations teams, it is an opportunity to modernize reporting, simplify financial […]
+The post Migrating from Dynamics GP to Dynamics 365 BC : The Smart Way appeared first on ERP Software Blog.
+From Dynamics GP to Business Central: Tackling Common Migration Pain Points
+Dynamics GP to Dynamics 365 BC: 7 Steps for a Smooth Migration
+5 Steps to a Successful Implementation of Your New Accounting System]]></summary>
+        <author>
+            <name>Western Computer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 BC: Ongoing Training is Key to Long-Term Success]]></title>
+        <id>https://erpsoftwareblog.com/?p=148053</id>
+        <link href="https://erpsoftwareblog.com/2026/05/dynamics-365-bc-ongoing-training-is-key-to-long-term-success/"/>
+        <updated>2026-05-25T21:00:09.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Companies may assume a Microsoft Dynamics 365 BC implementation is complete once the system goes live. Go-live is only the beginning. Long-term ERP success depends on how well employees continue […]
+The post Dynamics 365 BC: Ongoing Training is Key to Long-Term Success appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+More Than Just a Name Change: The New Microsoft Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Innovia Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Receiving Dock Is Where Warehouse Process Discipline Breaks Down. Here's How to Fix It in Business Central.]]></title>
+        <id>https://erpsoftwareblog.com/?p=148004</id>
+        <link href="https://erpsoftwareblog.com/2026/05/fix-receiving-dock-errors-business-central/"/>
+        <updated>2026-05-25T20:02:30.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Ask any warehouse manager where errors are most likely to occur, and the receiving dock is likely to come up quickly. It's not because the people working there are careless. […]
+The post The Receiving Dock Is Where Warehouse Process Discipline Breaks Down. Here's How to Fix It in Business Central. appeared first on ERP Software Blog.
+Vendor Data in Accounts Payable: Best Management Practices
+From Quote to Shipment: Will the Sales Order Agent and Order Ship Express Replace You?
+Parcel, LTL & FTL Shipping in Business Central: Rate Shop, Automate & Optimize]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Fabric: Comprehensive Guide to Features & Analytics]]></title>
+        <id>https://365community.online/microsoft-fabric-comprehensive-guide-to-features-analytics</id>
+        <link href="https://365community.online/microsoft-fabric-comprehensive-guide-to-features-analytics"/>
+        <updated>2026-05-25T19:28:37.000Z</updated>
+        <summary type="html"><![CDATA[1. Introduction Here’s a fun corporate trick: Microsoft managed to confuse half the industry by slapping the word “house” on anything with a data label. But here’s what you’ll actually get out of the next few minutes: we’ll nail down what OneLake really is, when to use a Warehouse versus a Lakehouse, and why Delta […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Troubleshooting Hidden Dependency Errors in Dynamics 365 and Dataverse]]></title>
+        <id>https://365community.online/troubleshooting-hidden-dependency-errors-in-dynamics-365-and-dataverse</id>
+        <link href="https://365community.online/troubleshooting-hidden-dependency-errors-in-dynamics-365-and-dataverse"/>
+        <updated>2026-05-25T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently, while cleaning up some old customizations in Dynamics 365, we came across an interesting dependency issue that was not immediately obvious from the user interface. What initially looked like a simple Business Process Flow deletion turned into a deeper investigation into how Dataverse manages published dependencies internally. While trying to delete a BPF, Dataverse […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Buying Software, Start Buying Outcomes – YouTube]]></title>
+        <id>https://365community.online/stop-buying-software-start-buying-outcomes-youtube</id>
+        <link href="https://365community.online/stop-buying-software-start-buying-outcomes-youtube"/>
+        <updated>2026-05-25T18:24:52.000Z</updated>
+        <summary type="html"><![CDATA[Stop Buying Software, Start Buying Outcomes Get featured on the show by leaving us a Voice Mail: https://bit.ly/MIPVM    This episode dives into why large CRM and ERP projects keep failing and how AI is reshaping consulting, software delivery, and platform decisions. The core insight is simple. Organisations fail when they buy software instead of […]]]></summary>
+        <author>
+            <name>NZ365Guy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DynamicsCon 2026: Ask the MVPs Finance Panel Highlights — Payables Agent Spotlight]]></title>
+        <id>https://erpsoftwareblog.com/?p=148214</id>
+        <link href="https://erpsoftwareblog.com/2026/05/dynamicscon-2026-ask-the-mvps-finance-panel-highlights-payables-agent-spotlight/"/>
+        <updated>2026-05-25T17:20:04.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+What’s more valuable than a feature overview? Actual lessons from real Business Central power users that are running the capability in question.  At this year’s DynamicsCon 2026, during the Ask […]
+The post DynamicsCon 2026: Ask the MVPs Finance Panel Highlights — Payables Agent Spotlight appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Mount Evans Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Episode 1: Introduction to AI Agents & Modern Architectures – YouTube]]></title>
+        <id>https://365community.online/episode-1-introduction-to-ai-agents-modern-architectures-youtube</id>
+        <link href="https://365community.online/episode-1-introduction-to-ai-agents-modern-architectures-youtube"/>
+        <updated>2026-05-25T17:03:16.000Z</updated>
+        <summary type="html"><![CDATA[Episode 1: Introduction to AI Agents & Modern Architectures]]></summary>
+        <author>
+            <name>Rafsan Huseynov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M365 Backup Isn’t Enough: The Case for Isolated Vault Architecture]]></title>
+        <id>https://365community.online/m365-backup-isnt-enough-the-case-for-isolated-vault-architecture</id>
+        <link href="https://365community.online/m365-backup-isnt-enough-the-case-for-isolated-vault-architecture"/>
+        <updated>2026-05-25T15:50:37.000Z</updated>
+        <summary type="html"><![CDATA[Most IT leaders still believe Microsoft 365 native redundancy equals protection. It doesn’t. High Availability was designed to keep services running, not to recover your business after a destructive attack. The same synchronization engine that delivers collaboration at cloud speed can also replicate corruption, ransomware, and deletion events instantly across your environment. In 2026, the […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Which Finance Dashboards Should You Automate First in Business Central?]]></title>
+        <id>https://erpsoftwareblog.com/?p=148186</id>
+        <link href="https://erpsoftwareblog.com/2026/05/which-finance-dashboards-should-you-automate-first-in-business-central/"/>
+        <updated>2026-05-25T12:32:38.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+If your finance team is still exporting data from Business Central to build reports in Excel, you’re not alone. But it’s also a sign your reporting process is doing more […]
+The post Which Finance Dashboards Should You Automate First in Business Central? appeared first on ERP Software Blog.
+How can Microsoft Dynamics track more Financial Data in the Cloud in 2018?
+How does Microsoft Dynamics reporting of data offer Accountability Today?
+Self-Service Analytics: Exploring Your ERP Data for Maximum Insights]]></summary>
+        <author>
+            <name>Data Courage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Enterprises Should Govern Microsoft Copilot]]></title>
+        <id>https://365community.online/how-enterprises-should-govern-microsoft-copilot</id>
+        <link href="https://365community.online/how-enterprises-should-govern-microsoft-copilot"/>
+        <updated>2026-05-25T12:10:29.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Copilot is not just another productivity tool. It is a structural stress test for your entire Microsoft 365 environment. Most organizations still operate under a legacy “open by default” mindset built for human navigation, but AI changes the equation completely. Copilot can surface sensitive files, forgotten SharePoint content, orphaned Teams channels, and years of […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Splitting CSVs in Logic Apps]]></title>
+        <id>https://erpsoftwareblog.com/?p=148178</id>
+        <link href="https://erpsoftwareblog.com/2026/05/stop-splitting-csvs-in-logic-apps/"/>
+        <updated>2026-05-25T11:19:42.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+When building enterprise integrations, handling flat files like CSVs is almost a rite of passage. But what looks like a simple text-parsing task can quickly turn into a production nightmare. […]
+The post Stop Splitting CSVs in Logic Apps appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dan Kosanovic, Reach International</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unified Social Media Dashboard for Dynamics 365 Powered by Microsoft Fabric]]></title>
+        <id>https://erpsoftwareblog.com/?p=148169</id>
+        <link href="https://erpsoftwareblog.com/2026/05/unified-social-media-dashboard-for-dynamics-365-powered-by-microsoft-fabric/"/>
+        <updated>2026-05-25T10:48:25.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+A campaign goes viral on social media. Engagement spikes within hours. Leads start entering the CRM. Website traffic surges. Marketing teams celebrate performance numbers while sales teams continue working without […]
+The post Unified Social Media Dashboard for Dynamics 365 Powered by Microsoft Fabric appeared first on ERP Software Blog.
+How ChatGPT and Microsoft Copilot Boost Productivity
+Build a Microsoft Copilot AI-First Go-to-Market Strategy for FY26
+Microsoft Solutions Partner Sycor Americas Celebrates its 25th Anniversary]]></summary>
+        <author>
+            <name>DynaTech Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Too Many Places for Notes: Navigating OneNote, Loop, Copilot, and More with Karinne Diamond Bessette [MVP]]]></title>
+        <id>https://365community.online/too-many-places-for-notes-navigating-onenote-loop-copilot-and-more-with-karinne-diamond-bessette-mvp</id>
+        <link href="https://365community.online/too-many-places-for-notes-navigating-onenote-loop-copilot-and-more-with-karinne-diamond-bessette-mvp"/>
+        <updated>2026-05-25T08:29:37.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of the m365.fm podcast, Mirko Peters sits down with Microsoft MVP, educator, technical storyteller, and community leader Karinne Diamond Bessette to explore one of the biggest productivity challenges in the modern workplace: information chaos. Between OneNote, Loop, Teams, Copilot, Planner, Whiteboard, Outlook, and SharePoint, employees today have more places than ever to […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 F&O API Survival: Azure AD Auth, OData Endpoints & How To Ditch Fragile ERP Integrations]]></title>
+        <id>https://365community.online/d365-fo-api-survival-azure-ad-auth-odata-endpoints-how-to-ditch-fragile-erp-integrations</id>
+        <link href="https://365community.online/d365-fo-api-survival-azure-ad-auth-odata-endpoints-how-to-ditch-fragile-erp-integrations"/>
+        <updated>2026-05-25T04:51:07.000Z</updated>
+        <summary type="html"><![CDATA[D365 Finance & Operations API, Azure AD auth, OData endpoints, custom services, Dataverse dual‑write, managed identity and token‑based security – this episode is for people searching “D365 F&O API OData”, “authenticate to Dynamics 365 F&O with Azure AD”, “client credentials vs managed identity D365”, “Dataverse dual write vs direct API”, “secure D365 ERP integration” or […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“What’s Your Team Size?” A Simple Question That Revealed Where ERP Consulting Is Heading]]></title>
+        <id>https://365community.online/whats-your-team-size-a-simple-question-that-revealed-where-erp-consulting-is-heading</id>
+        <link href="https://365community.online/whats-your-team-size-a-simple-question-that-revealed-where-erp-consulting-is-heading"/>
+        <updated>2026-05-25T04:50:00.000Z</updated>
+        <summary type="html"><![CDATA[During a conversation at Directions Asia 2026, someone casually asked me a question that almost every consulting professional hears at conferences and networking events: “What’s your team size?” Normally, this is a very straightforward question. For years in the ERP industry, team size has often been associated with capability, scalability, and delivery strength. Larger projects […]]]></summary>
+        <author>
+            <name>Amol Salvi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Secure-by-Design AI: Protecting MLOps in the Microsoft Cloud with Martin Dimovski [MVP-MCT]]]></title>
         <id>https://365community.online/secure-by-design-ai-protecting-mlops-in-the-microsoft-cloud-with-martin-dimovski-mvp-mct</id>
