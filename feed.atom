@@ -2,10 +2,255 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-05-26T02:29:34.084Z</updated>
+    <updated>2026-05-27T02:39:04.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Stop Syncing Folders: Why SharePoint Shortcuts Are Breaking Your Enterprise Data Strategy]]></title>
+        <id>https://365community.online/stop-syncing-folders-why-sharepoint-shortcuts-are-breaking-your-enterprise-data-strategy</id>
+        <link href="https://365community.online/stop-syncing-folders-why-sharepoint-shortcuts-are-breaking-your-enterprise-data-strategy"/>
+        <updated>2026-05-27T01:04:15.000Z</updated>
+        <summary type="html"><![CDATA[Most organizations still believe syncing SharePoint libraries directly into File Explorer is the best way to give users easy access to files. It feels familiar. It feels productive. But beneath the convenience lies one of the most overlooked architectural problems inside modern Microsoft 365 environments. Folder syncing is quietly creating data sprawl, governance chaos, security […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insight Works Expands Global Reseller Network with Five New Microsoft Partners in April 2026]]></title>
+        <id>https://erpsoftwareblog.com/?p=148272</id>
+        <link href="https://erpsoftwareblog.com/2026/05/insight-works-expands-global-reseller-network-with-five-new-microsoft-partners-in-april-2026/"/>
+        <updated>2026-05-26T20:35:23.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+New partnerships extend Business Central expertise into Japan, the Netherlands, the United Kingdom, and Canada. Insight Works, an Independent Software Vendor specializing in Microsoft Dynamics 365 Business Central apps for […]
+The post Insight Works Expands Global Reseller Network with Five New Microsoft Partners in April 2026 appeared first on ERP Software Blog.
+Warehouse Insight Now Available for Dynamics 365 Business Central
+Optimize your Distribution Process with Advanced Warehouse Management System
+How to Choose a Mobile Computer to use with Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Smarter Employee Expense Management with Copilot, Power Apps, and EasyEXP365]]></title>
+        <id>https://erpsoftwareblog.com/?p=148346</id>
+        <link href="https://erpsoftwareblog.com/2026/05/build-smarter-employee-expense-management-with-copilot-power-apps-and-easyexp365/"/>
+        <updated>2026-05-26T20:31:56.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Building employee expense management apps faster is only part of the equation. The real value comes when workflow automation and ERP integration work together seamlessly. Our latest blog explores how […]
+The post Build Smarter Employee Expense Management with Copilot, Power Apps, and EasyEXP365 appeared first on ERP Software Blog.
+New Years Resolutions for Accounts Payable in GP
+Fast Growing Midstream Energy Company Automates Accounts Payable Invoice Approvals
+Modernize Your Legacy Systems]]></summary>
+        <author>
+            <name>DynamicPoint</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Mid-Market Manufacturers Automate Supplier Performance Tracking in Dynamics 365 Without Custom ERP Reports]]></title>
+        <id>https://erpsoftwareblog.com/?p=148275</id>
+        <link href="https://erpsoftwareblog.com/2026/05/how-mid-market-manufacturers-automate-supplier-performance-tracking-in-dynamics-365-without-custom-erp-reports/"/>
+        <updated>2026-05-26T20:17:23.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+If you run Dynamics 365 Supply Chain Management or Business Central, you already have the underlying data: purchase order lines, receipt confirmations, invoice matching records. What you probably don't have […]
+The post How Mid-Market Manufacturers Automate Supplier Performance Tracking in Dynamics 365 Without Custom ERP Reports appeared first on ERP Software Blog.
+Additional Apps/Modules that accelerate the benefits of Business Central
+Your guide to choosing the best eCommerce solution: breaking down the ROI
+IEMs with Rental Distribution: The why and how of integrating multiple ERP systems]]></summary>
+        <author>
+            <name>Leverage AI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project Budget Management in Microsoft Dynamics 365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=148287</id>
+        <link href="https://erpsoftwareblog.com/2026/05/project-budget-management-in-microsoft-dynamics-365-business-central/"/>
+        <updated>2026-05-26T17:08:34.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Professional services firms running Microsoft Dynamics 365 Business Central consistently rank project budgeting as their top pain point and for good reason. Microsoft Dynamics 365 Business Central handles cost tracking […]
+The post Project Budget Management in Microsoft Dynamics 365 Business Central appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>OMZY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visit PayTrace at Scaling New Heights 2026 to Learn About Embedded Payments]]></title>
+        <id>https://erpsoftwareblog.com/?p=148292</id>
+        <link href="https://erpsoftwareblog.com/2026/05/visit-paytrace-at-scaling-new-heights-2026/"/>
+        <updated>2026-05-26T16:35:09.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+PayTrace is returning to the Scaling New Heights conference this year as a silver sponsor. A leading accounting technology event, Scaling New Heights attracts over a thousand QuickBooks ProAdvisors, and other […]
+The post Visit PayTrace at Scaling New Heights 2026 to Learn About Embedded Payments appeared first on ERP Software Blog.
+B2B vs. B2C eCommerce: What's the difference and why does it matter?
+Avoid Payroll & Payment Pitfalls
+Manage Multiple Revenue Streams and Invoices for Rental in Dynamics 365]]></summary>
+        <author>
+            <name>Mary Miller, PayTrace</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parenteral Drug Manufacturing: Opportunities, Challenges, and Solutions]]></title>
+        <id>https://erpsoftwareblog.com/?p=130398</id>
+        <link href="https://erpsoftwareblog.com/2026/05/parenteral-drug-manufacturing-opportunities-challenges-and-solutions/"/>
+        <updated>2026-05-26T15:58:14.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+CDMOs that invest in the right capabilities, comply with new regulations, and embrace digital technologies are poised for sustainable growth in this explosive market. Monoclonal antibodies, mRNA vaccines, complex oncology […]
+The post Parenteral Drug Manufacturing: Opportunities, Challenges, and Solutions appeared first on ERP Software Blog.
+Did You Get the Memo?  Automotive Production Part Suppliers Face Challenges in Getting and Interpreting Their Mail
+4 Ways Formula Manufacturers Can Use ERP Software to Reduce Inventory Shrinkage
+Material Tracking Systems – Sometimes Smaller is Better than Bigger]]></summary>
+        <author>
+            <name>STAEDEAN</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Generic MES Solutions Fail Discrete Manufacturers]]></title>
+        <id>https://erpsoftwareblog.com/?p=148295</id>
+        <link href="https://erpsoftwareblog.com/2026/05/why-generic-mes-solutions-fail-discrete-manufacturers/"/>
+        <updated>2026-05-26T15:36:23.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Manufacturers are investing heavily in digital transformation, automation, and real-time production visibility. But many mid-sized discrete manufacturers still end up frustrated after implementing MES software. Why? Because many MES platforms […]
+The post Why Generic MES Solutions Fail Discrete Manufacturers appeared first on ERP Software Blog.
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Insight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Business Central at BCUG/NAVUG Summit in Phoenix
+Warehouse Insight Now Available for Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>ISE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best ERP Solutions for Multi-Property Hotel Management]]></title>
+        <id>https://erpsoftwareblog.com/?p=148160</id>
+        <link href="https://erpsoftwareblog.com/2026/05/best-erp-solutions-for-multi-property-hotel-management/"/>
+        <updated>2026-05-26T15:00:40.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Let's face it, hotel managers are no longer simply managing bookings and guest check-ins—they are managing multi-property operations, fluctuating occupancy rates, staffing shortages, guest expectations, and rising operational costs across […]
+The post Best ERP Solutions for Multi-Property Hotel Management appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Qixas Group</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Deprecating RSAT: What D365 F&O Teams Must Do Before May 2027]]></title>
+        <id>https://erpsoftwareblog.com/?p=148241</id>
+        <link href="https://erpsoftwareblog.com/2026/05/microsoft-deprecating-rsat-d365-alternative/"/>
+        <updated>2026-05-26T14:35:29.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Microsoft deprecating RSAT is now official. The Regression Suite Automation Tool (RSAT) will reach end of support on May 15, 2027, after which Microsoft will no longer provide maintenance, bug […]
+The post Microsoft Deprecating RSAT: What D365 F&O Teams Must Do Before May 2027 appeared first on ERP Software Blog.
+Microsoft Solutions Partner Sycor Americas Celebrates its 25th Anniversary
+Top Five Ways Sycor.Rental Leverages AI and Dynamics 365 for Superior ROI in Equipment Rental
+From Fragmented Systems to Unified Finance: Why Enterprises Are Standardizing on Dynamics 365 Finance]]></summary>
+        <author>
+            <name>TheTestMart</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to send Emails from Power Apps using Outlook | Step by Step Tutorial – YouTube]]></title>
+        <id>https://365community.online/how-to-send-emails-from-power-apps-using-outlook-step-by-step-tutorial-youtube</id>
+        <link href="https://365community.online/how-to-send-emails-from-power-apps-using-outlook-step-by-step-tutorial-youtube"/>
+        <updated>2026-05-26T13:46:07.000Z</updated>
+        <summary type="html"><![CDATA[Want to send emails directly from Power Apps using Outlook? ✨ In this beginner-friendly Power Apps tutorial, learn how to connect Office 365 Outlook and use it to send emails directly from a Canvas App. In this Power Apps Canvas App tutorial, you’ll learn: ✔ How to connect Office 365 Outlook in Power Apps ✔ […]]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Single Consultant with AI Can Now Deliver Enterprise-Level ERP Operations]]></title>
+        <id>https://365community.online/a-single-consultant-with-ai-can-now-deliver-enterprise-level-erp-operations</id>
+        <link href="https://365community.online/a-single-consultant-with-ai-can-now-deliver-enterprise-level-erp-operations"/>
+        <updated>2026-05-26T12:10:00.000Z</updated>
+        <summary type="html"><![CDATA[There was a time when enterprise ERP operations automatically meant large teams, long implementation cycles, and layers of operational dependency. A typical ERP engagement often involved multiple functional consultants, technical developers, support coordinators, reporting specialists, testers, infrastructure teams, and external auditors. Every phase of the project depended heavily on manpower. If the business wanted faster […]]]></summary>
+        <author>
+            <name>Amol Salvi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The CoE toolkit is dead, Long Live Managed Environments!]]></title>
+        <id>https://365community.online/the-coe-toolkit-is-dead-long-live-managed-environments</id>
+        <link href="https://365community.online/the-coe-toolkit-is-dead-long-live-managed-environments"/>
+        <updated>2026-05-26T10:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Possibly a slightly drastic headline, but let me explain the background to this. I’ve been working with the Power Platform CoE toolkit for over 6 years, with using it to educate and help customers with their Power Platform governance journey. Though it’s never been an ‘official’ Microsoft product (ie it’s not supported at all), the […]]]></summary>
+        <author>
+            <name>thecrmninja</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Data Leak Scare? Use Purview DSPM to See What Really Hap…]]></title>
+        <id>https://365community.online/copilot-data-leak-scare-use-purview-dspm-to-see-what-really-hap</id>
+        <link href="https://365community.online/copilot-data-leak-scare-use-purview-dspm-to-see-what-really-hap"/>
+        <updated>2026-05-26T10:22:36.000Z</updated>
+        <summary type="html"><![CDATA[Summary Imagine your security operations center (SOC) waking up to an alert: “Copilot accessed a confidential file.” It’s not a phishing email, not malware, not a brute force attack — it’s AI doing what it’s designed to do, but in your data space. In this episode, I explore that tense battleground: can your SOC team […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Integrate Shopify with Dynamics 365 Finance & Operations for Unified Commerce]]></title>
+        <id>https://erpsoftwareblog.com/?p=148285</id>
+        <link href="https://erpsoftwareblog.com/2026/05/how-to-integrate-shopify-with-dynamics-365-finance-operations-for-unified-commerce/"/>
+        <updated>2026-05-26T09:42:18.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In many mid-market eCommerce setups, Shopify order processing starts becoming difficult to manage as volume grows, and ERP integration is still partially manual.  Someone on the operations team is often still keying […]
+The post How to Integrate Shopify with Dynamics 365 Finance & Operations for Unified Commerce appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>i95Dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Dynamics 365 Quality Evaluation Agent: A Complete Breakdown]]></title>
+        <id>https://365community.online/understanding-the-dynamics-365-quality-evaluation-agent-a-complete-breakdown</id>
+        <link href="https://365community.online/understanding-the-dynamics-365-quality-evaluation-agent-a-complete-breakdown"/>
+        <updated>2026-05-26T07:38:00.000Z</updated>
+        <summary type="html"><![CDATA[There is another member of the Dynamics 365 Customer Service/Contact Center agents that I haven’t had a chance to introduce to you yet. You’re probably already familiar with the Case Management Agent, Intent Agent and Customer Knowledge Agent which I have written articles about previously. In this article I am going to discuss the Quality […]]]></summary>
+        <author>
+            <name>Dian Taylor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Cowork: The Future of AI Collaboration in Microsoft 365 with Vesa “Vesku” Nopanen [MVP]]]></title>
+        <id>https://365community.online/copilot-cowork-the-future-of-ai-collaboration-in-microsoft-365-with-vesa-vesku-nopanen-mvp</id>
+        <link href="https://365community.online/copilot-cowork-the-future-of-ai-collaboration-in-microsoft-365-with-vesa-vesku-nopanen-mvp"/>
+        <updated>2026-05-26T06:42:08.000Z</updated>
+        <summary type="html"><![CDATA[The workplace is changing faster than ever — and AI is now becoming part of the team. In this episode of the M365 FM podcast, Mirko Peters sits down with Microsoft MVP Vesa “Vesku” Nopanen to explore how Microsoft Copilot, AI agents, Loop, and Copilot Pages are reshaping collaboration inside Microsoft 365. From practical adoption […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Mid-Sized Enterprises Need Agentic ERP Now]]></title>
+        <id>https://erpsoftwareblog.com/?p=148280</id>
+        <link href="https://erpsoftwareblog.com/2026/05/why-mid-sized-enterprises-need-agentic-erp-now/"/>
+        <updated>2026-05-26T06:19:32.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Mid-sized enterprises (SMEs) are at a unique crossroads. They often operate with limited resources, yet face growing complexity and increasing competition in their industries. While their agility allows them to outmaneuver larger players in some cases, it also presents […]
+The post Why Mid-Sized Enterprises Need Agentic ERP Now  appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dax software solutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Power Pages: License Options, Limits and Alternatives]]></title>
+        <id>https://365community.online/microsoft-power-pages-license-options-limits-and-alternatives</id>
+        <link href="https://365community.online/microsoft-power-pages-license-options-limits-and-alternatives"/>
+        <updated>2026-05-26T02:46:35.000Z</updated>
+        <summary type="html"><![CDATA[Summary You know that sinking feeling when your Power Pages form refuses to validate and the error messages feel basically useless? That’s exactly the pain we’re tackling in this episode. I walk you through how to use VS Code + GitHub Copilot (with the @powerpages context) to push past Power Pages limits, simplify validation, and […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Probability Shift: How AI is Rewriting Power Platform Design]]></title>
         <id>https://365community.online/the-probability-shift-how-ai-is-rewriting-power-platform-design</id>
@@ -274,6 +519,86 @@ Microsoft Solutions Partner Sycor Americas Celebrates its 25th Anniversary]]></s
         <summary type="html"><![CDATA[In this episode of the m365.fm podcast, Mirko Peters sits down with cybersecurity expert Viktor Hedberg to explore one of the most critical — and misunderstood — areas of enterprise IT security: Active Directory tiering, privileged access, identity protection, and defending modern hybrid environments. With years of experience in incident response, offensive security, Active Directory […]]]></summary>
         <author>
             <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 - DevOps Variable Groups]]></title>
+        <id>1742 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/content/5-devops-variable-groups"/>
+        <updated>2026-05-23T19:45:15.000Z</updated>
+        <summary type="html"><![CDATA[Part 5: Configure Variable Groups
+In Azure DevOps, a variable group is a reusable collection of configuration values and secrets (like API keys, URLs, or environment settings) that can be shared across multiple pipelines and releases. Variable groups store the credentials and configuration that pipelines need at runtime. You'll create three groups — one for authentication, one for Teams notifications, and one for environment options. Teams is optional but I thought it would be helpful if my pipelines were sending me teams messages in a channel dedicated to it's activity rather than emailing me. Variable groups can optionally be backed by an Azure Key Vault to store variable values if you'd prefer they not be stored in DevOps.Using a Key Vault is considered best practice but if setting in a…]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 - Extension and NuGet feeds]]></title>
+        <id>1741 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/content/4-extension-and-nuget-feeds"/>
+        <updated>2026-05-23T19:36:58.000Z</updated>
+        <summary type="html"><![CDATA[Before creating any pipelines, you need two marketplace extensions and a NuGet feed containing the X++ compiler packages. This article gets those in place.
+Step 1: Install Required Extensions
+Your Azure DevOps organization needs two extensions from the Visual Studio Marketplace.
+Power Platform Build Tools
+Provides: PowerPlatformToolInstaller@2, PowerPlatformDeployPackage@2, pac CLI
+Go to: Power Platform Build Tools
+Click Get it free
+Select your Azure DevOps organization
+Click Install
+Dynamics 365 Finance and Operations Tools
+Provides: XppUpdateModelVersion@0, XppCreatePackage@2
+Go to: Dynamics 365 Finance and Operations Tools
+Click Get it free
+Select your Azure DevOps organization
+Click Install
+You can verify both are installed at:
+Organization settings > Extensions
+Step 2: Create an Azure…]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 - Pre-requisites and App Registrations]]></title>
+        <id>1740 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/content/3-pre-requisites-and-app-registrations"/>
+        <updated>2026-05-23T19:35:28.000Z</updated>
+        <summary type="html"><![CDATA[Part 3: Prerequisites and Entra ID App Registration
+This article walks you through setting up the service principal that powers automated CI/CD for Dynamics 365 Finance and Operations using PPAC APIs and Azure DevOps.
+By the end of this article, you'll have a service principal that can manage Power Platform environments and deploy packages - the foundation everything else builds on. For this article, we can think of the SPN as a robot account—this process builds its ID card (app registration), password (secret), and workspace permissions (F&O access). Also, when working with secret, never commit them to source control of any sort. This is a mistake you will make, if you haven't already, but once its stored in plane text somewhere, you'll have to rotate the secret to a new value. Additional…]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2 - What is a service principal]]></title>
+        <id>1739 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/content/2-what-service-principal"/>
+        <updated>2026-05-23T19:32:01.000Z</updated>
+        <summary type="html"><![CDATA[What is a Service Principal?
+Before we register anything or create credentials, let's review what a service principal actually is and why automation needs one.
+The Analogy: A Robot User
+Think of a service principal (SPN) as a robot user. It has its own identity, its own credentials, and its own permissions - but there's no human behind it. It logs in, does its job, and never forgets a step. This user, called an S2S User in Dataverse, allows a non-person account to log in and have access to APIs and various other resources. S2S means server-to-server so this is created for non-human actors to perform various tasks ( meaning automations ) with no UI component.
+In the LCS world, you log into the portal with your personal or service account to deploy packages. That works when one person deploy…]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1 - How is PPAC different from LCS]]></title>
+        <id>1738 at https://www.atomicax.com</id>
+        <link href="https://www.atomicax.com/content/1-how-ppac-different-lcs"/>
+        <updated>2026-05-23T19:23:20.000Z</updated>
+        <summary type="html"><![CDATA[The twilight of LCS
+How This Is Different from LCS
+If you've been building and deploying D365 Finance and Operations using Lifecycle Services, you already know the rhythm: write X++ in Visual Studio, build on a dedicated build VM, upload the deployable package to LCS, click through the portal to apply it to an environment. It works, but every step requires a human clicking buttons in a browser or something similar. It worked but its clunky.
+This series replaces that workflow with something fundamentally different. Before we get into the how, let's understand the why.
+The LCS Paradigm
+With LCS, the infrastructure looks like this:
+Build VM - A dedicated virtual machine (often a Tier 1 cloud-hosted environment) that compiles your X++ code. You pay for it whether it's building or sitting idle.…]]></summary>
+        <author>
+            <name>Nathan Clouse</name>
         </author>
     </entry>
     <entry>
