@@ -2,10 +2,203 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-05-27T02:39:04.805Z</updated>
+    <updated>2026-05-28T02:25:33.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Stop Using Folders: The Future of Graph-Based Architecture]]></title>
+        <id>https://365community.online/stop-using-folders-the-future-of-graph-based-architecture</id>
+        <link href="https://365community.online/stop-using-folders-the-future-of-graph-based-architecture"/>
+        <updated>2026-05-28T01:17:13.000Z</updated>
+        <summary type="html"><![CDATA[For decades, enterprises built their digital workplaces around folders, directories, and deeply nested hierarchies. The assumption was simple: if information was organized into the right structure, people would always be able to find it. But in 2026, that assumption is collapsing under the weight of modern data complexity. Work no longer starts with navigation. It […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simplify BOM Creation & Configuration Management in Dynamics 365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=148236</id>
+        <link href="https://erpsoftwareblog.com/2026/05/bom-creation-configuration-in-business-central/"/>
+        <updated>2026-05-27T20:39:50.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Managing complex product configurations and accurately generating BOMs and routings can be manual and error-prone. This topic is most relevant for manufacturing and assemble-to-order business roles seeking clarity on streamlining […]
+The post Simplify BOM Creation & Configuration Management in Dynamics 365 Business Central appeared first on ERP Software Blog.
+Warehouse Insight Now Available for Dynamics 365 Business Central
+Optimize your Distribution Process with Advanced Warehouse Management System
+How to Choose a Mobile Computer to use with Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond the Buzzwords: Practical AI in Microsoft Dynamics 365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=148147</id>
+        <link href="https://erpsoftwareblog.com/2026/05/beyond-the-buzzwords-practical-ai-in-microsoft-dynamics-365-business-central/"/>
+        <updated>2026-05-27T20:28:31.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Artificial Intelligence (AI) is everywhere right now. From flashy headlines to bold promises, it can be difficult for business leaders to separate hype from reality — especially when evaluating ERP […]
+The post Beyond the Buzzwords: Practical AI in Microsoft Dynamics 365 Business Central appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>iCepts Technology Group, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Week 9 Updates : Free Microsoft Dynamics 365 Finance and SCM Course]]></title>
+        <id>http://exploredynamics365.home.blog/?p=3108</id>
+        <link href="https://exploredynamics365.home.blog/2026/05/28/week-9-updates-free-microsoft-dynamics-365-finance-and-scm-course/"/>
+        <updated>2026-05-27T19:03:45.000Z</updated>
+        <summary type="html"><![CDATA[9 weeks in. 47 videos published. Still free. This week — we closed the Order to Cash cycle. And we made sure both Finance and SCM consultants understood every single step. Most SCM consultants know how to create a sales order. Few can explain what happens in the ledger when the invoice gets posted. Most […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How KTL Solutions Deploys Microsoft Dynamics 365 Business Central in GCC and GCC High Government Clouds]]></title>
+        <id>https://erpsoftwareblog.com/?p=148396</id>
+        <link href="https://erpsoftwareblog.com/2026/05/ktl-solutions-dynamics-business-central-gcc-gcc-high/"/>
+        <updated>2026-05-27T17:52:13.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+  Government agencies and contractors operating under strict federal compliance requirements need an ERP platform that meets the highest standards for data security and sovereignty. KTL Solutions helps public sector […]
+The post How KTL Solutions Deploys Microsoft Dynamics 365 Business Central in GCC and GCC High Government Clouds appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics GP For Government Agencies And Contracts
+Three Prevalent Trends for ERP Software: SaaS, Vertical Focus, and Mobility]]></summary>
+        <author>
+            <name>KTL Solutions, Inc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Outgrowing QuickBooks: A Podcast on When Businesses Outgrow Their Systems]]></title>
+        <id>https://erpsoftwareblog.com/?p=148391</id>
+        <link href="https://erpsoftwareblog.com/2026/05/outgrowing-quickbooks-a-podcast-on-when-businesses-outgrow-their-systems/"/>
+        <updated>2026-05-27T16:31:56.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+At some point, every growing business starts to feel it. The reports take longer to pull. Teams rely on spreadsheets to “fill the gaps.” Finance spends more time reconciling numbers […]
+The post Outgrowing QuickBooks: A Podcast on When Businesses Outgrow Their Systems appeared first on ERP Software Blog.
+A Guide to A Stress-Free Tax Season for AP
+Winning the AP Game with Mekorma Embedded Solutions
+Vendor Data in Accounts Payable: Best Management Practices]]></summary>
+        <author>
+            <name>Admiral Consulting Group</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 Canadian Payroll Tax Update for Dynamics GP]]></title>
+        <id>https://www.encorebusiness.com/?p=73538</id>
+        <link href="https://www.encorebusiness.com/blog/2026-canadian-payroll-tax-update-for-dynamics-gp/"/>
+        <updated>2026-05-27T16:30:20.000Z</updated>
+        <summary type="html"><![CDATA[2026 Canadian Payroll Tax Update for Dynamics GP
+There will be a tax update for July 2026. The only provincial changes are in British Columbia, Newfoundland and Labrador, and Prince Edward Island. There are no federal changes, making this tax update optional for Dynamics GP Canadian payroll users unless it affects you provincially. Key Changes Provincial British Columbia These changes are effective January...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Debra Huntly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Southeast Swim School cuts month-end close to under one day with Multi-Entity Management.]]></title>
+        <id>https://erpsoftwareblog.com/?p=148362</id>
+        <link href="https://erpsoftwareblog.com/2026/05/southeast-swim-school-cuts-month-end-close-to-under-one-day-with-multi-entity-management/"/>
+        <updated>2026-05-27T16:25:09.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Southeast Swim School is a franchisee of Big Blue Swim School, a fast-growing organization focused on teaching children to swim through a proven, family-friendly model. Southeast Swim School is a […]
+The post Southeast Swim School cuts month-end close to under one day with Multi-Entity Management. appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Binary Stream</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shaping the Future of Work with Fabio Bonolo MVP]]></title>
+        <id>https://365community.online/shaping-the-future-of-work-with-fabio-bonolo-mvp</id>
+        <link href="https://365community.online/shaping-the-future-of-work-with-fabio-bonolo-mvp"/>
+        <updated>2026-05-27T14:05:53.000Z</updated>
+        <summary type="html"><![CDATA[The future of work is evolving faster than ever before, and in this exciting episode of the M365 podcast, Microsoft MVP Fabio Bonolo joins Mirko Peters for an in-depth conversation about AI, Microsoft Copilot, modern workplace transformation, productivity, leadership, and the rapidly changing world of work. Fabio brings a unique mix of technical expertise, business […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boost Your Rental Business with Microsoft Dynamics 365 & Sycor.Rental]]></title>
+        <id>https://erpsoftwareblog.com/?p=148302</id>
+        <link href="https://erpsoftwareblog.com/2026/05/boost-your-rental-business-with-microsoft-dynamics-365-sycor-rental/"/>
+        <updated>2026-05-27T13:15:57.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Boost Your Rental Business with Microsoft Dynamics 365 & Sycor.Rental Key Article Takeaways: Elimination of Data Silos: Integrating front-end rental operations with back-end financial and supply chain management into a […]
+The post Boost Your Rental Business with Microsoft Dynamics 365 & Sycor.Rental appeared first on ERP Software Blog.
+How ChatGPT and Microsoft Copilot Boost Productivity
+Dynamics 365 F&O: Why it is the Best Choice for Your supply Chain Operations
+Top Five Ways Sycor.Rental Leverages AI and Dynamics 365 for Superior ROI in Equipment Rental]]></summary>
+        <author>
+            <name>Sycor Americas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power BI or Excel for Controllers? A Practical Guide to Modern Reporting (And Why You Don’t Have to Choose)]]></title>
+        <id>https://erpsoftwareblog.com/?p=148381</id>
+        <link href="https://erpsoftwareblog.com/2026/05/power-bi-or-excel-for-controllers-a-practical-guide-to-modern-reporting-and-why-you-dont-have-to-choose/"/>
+        <updated>2026-05-27T12:29:15.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Your board wants dashboards. IT suggests Power BI. But when month end arrives, you are still working in Excel. Sound familiar? If you are a controller, this is not a […]
+The post Power BI or Excel for Controllers? A Practical Guide to Modern Reporting (And Why You Don’t Have to Choose) appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>Thomas Werkhoven</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Lync to Teams: Carsten Lund Meilbak on the Evolution of Collaboration]]></title>
+        <id>https://365community.online/from-lync-to-teams-carsten-lund-meilbak-on-the-evolution-of-collaboration</id>
+        <link href="https://365community.online/from-lync-to-teams-carsten-lund-meilbak-on-the-evolution-of-collaboration"/>
+        <updated>2026-05-27T10:15:46.000Z</updated>
+        <summary type="html"><![CDATA[The world of enterprise communication has transformed dramatically over the last two decades — from traditional PBX systems and on-premises infrastructure to cloud collaboration, AI-powered meetings, and Microsoft Teams. In this episode of the M365 FM podcast, Mirko Peters is joined by Microsoft Teams MVP Carsten Lund Meilbak for an in-depth conversation about the evolution […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Choose the Right ERP: Interactive Decision Tree]]></title>
+        <id>https://erpsoftwareblog.com/?p=148373</id>
+        <link href="https://erpsoftwareblog.com/2026/05/how-to-choose-the-right-erp-interactive-decision-tree/"/>
+        <updated>2026-05-27T08:47:03.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The ERP you choose can be a nightmare if it’s the wrong fit. A poor fit is a system that is more complex than the task, in addition to the upfront investment. Employees develop […]
+The post How to Choose the Right ERP: Interactive Decision Tree appeared first on ERP Software Blog.
+Business Technology Summit 2020 – Improve Your ERP
+Keep Up With A Nation That's On The Move
+ASPIRE22 Aims to Provide Roadmap, Resources for Digital Journey]]></summary>
+        <author>
+            <name>Beyond Key</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing the Hybrid Workplace with Onyinye Madubuko MVP]]></title>
+        <id>https://365community.online/designing-the-hybrid-workplace-with-onyinye-madubuko-mvp</id>
+        <link href="https://365community.online/designing-the-hybrid-workplace-with-onyinye-madubuko-mvp"/>
+        <updated>2026-05-27T06:32:22.000Z</updated>
+        <summary type="html"><![CDATA[The future of work is no longer a distant concept — it is happening right now. In this powerful episode of the M365 podcast, Microsoft MVP Onyinye Madubuko joins Mirko Peters to explore how organizations can successfully design hybrid workplaces that improve collaboration, employee experience, and productivity using Microsoft 365, Microsoft Teams, Viva Insights, and […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My AB‑730 Certification Experience: How I Prepared, What I Learned, and Tips for You]]></title>
+        <id>https://365community.online/my-ab-730-certification-experience-how-i-prepared-what-i-learned-and-tips-for-you</id>
+        <link href="https://365community.online/my-ab-730-certification-experience-how-i-prepared-what-i-learned-and-tips-for-you"/>
+        <updated>2026-05-27T05:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Clearing the AB‑730: AI Business Professional certification has been one of the most rewarding learning experiences in my AI journey. This exam is designed for professionals who want to understand how to use Microsoft Copilot, Agentic AI, and AI‑driven business workflows to solve real‑world problems. In this post, I’m sharing my preparation path, key takeaways, […]]]></summary>
+        <author>
+            <name>Arun Potti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stop Syncing Folders: Why SharePoint Shortcuts Are Breaking Your Enterprise Data Strategy]]></title>
         <id>https://365community.online/stop-syncing-folders-why-sharepoint-shortcuts-are-breaking-your-enterprise-data-strategy</id>
@@ -59,6 +252,26 @@ Your guide to choosing the best eCommerce solution: breaking down the ROI
 IEMs with Rental Distribution: The why and how of integrating multiple ERP systems]]></summary>
         <author>
             <name>Leverage AI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using RetrieveDependenciesForDeleteRequest to find and delete hidden dependencies (Dataverse/ Dynamics 365)]]></title>
+        <id>https://365community.online/using-retrievedependenciesfordeleterequest-to-find-and-delete-hidden-dependencies-dataverse-dynamics-365</id>
+        <link href="https://365community.online/using-retrievedependenciesfordeleterequest-to-find-and-delete-hidden-dependencies-dataverse-dynamics-365"/>
+        <updated>2026-05-26T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Please refer to the post below, which provides a clear explanation of how RetrieveDependenciesForDeleteRequest works and how it can be used to identify dependencies. Original Post https://nishantrana.me/2026/05/27/using-retrievedependenciesfordeleterequest-to-find-and-delete-hidden-dependencies-dataverse-dynamics-365/]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Write: a new way to post, built for writers]]></title>
+        <id>https://365community.online/introducing-write-a-new-way-to-post-built-for-writers</id>
+        <link href="https://365community.online/introducing-write-a-new-way-to-post-built-for-writers"/>
+        <updated>2026-05-26T17:18:00.000Z</updated>
+        <summary type="html"><![CDATA[One page. A blinking cursor. The formatting you need and nothing you don’t. That’s Write: a new, focused writing surface built into WordPress.com. In last year’s Creators survey, “simplify the editor” was the single most-requested improvement from the people already publishing on WordPress.com. So we built it. Write started as a plugin by Jamie Marsland, […]]]></summary>
+        <author>
+            <name>Belinda Allen</name>
         </author>
     </entry>
     <entry>
@@ -119,6 +332,16 @@ Insight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Bu
 Warehouse Insight Now Available for Dynamics 365 Business Central]]></summary>
         <author>
             <name>ISE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress 7.0 Has Arrived: Here’s Everything You Need to Know]]></title>
+        <id>https://365community.online/wordpress-7-0-has-arrived-heres-everything-you-need-to-know</id>
+        <link href="https://365community.online/wordpress-7-0-has-arrived-heres-everything-you-need-to-know"/>
+        <updated>2026-05-26T15:04:00.000Z</updated>
+        <summary type="html"><![CDATA[WordPress 7.0 “Armstrong” has landed. This major release makes WordPress more connected and easier to shape around the way you work.  WordPress 7.0 includes both immediate editor improvements and deeper foundational changes. Some improvements are visible right away, like visual revisions, responsive controls, and a cleaner dashboard. Others work behind the scenes are more foundational, […]]]></summary>
+        <author>
+            <name>Belinda Allen</name>
         </author>
     </entry>
     <entry>
@@ -630,6 +853,21 @@ In this series of articles, we'll look to the future with PPAC and what new capa
         <summary type="html"><![CDATA[In this episode of the m365.fm podcast, Mirko Peters sits down with Microsoft MVP Evi van der Velden to discuss one of the most underestimated topics in modern IT: simplicity. Together, they explore Microsoft 365 governance, Copilot adoption, metadata, SharePoint, user adoption, digital stress, AI readiness, and why organizations often make technology far more complicated […]]]></summary>
         <author>
             <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real Estate Marketplace App Development Solutions for Modern Agencies]]></title>
+        <id>https://erpsoftwareblog.com/?p=148417</id>
+        <link href="https://erpsoftwareblog.com/2026/05/real-estate-marketplace-app-development-solutions-for-modern-agencies/"/>
+        <updated>2026-05-22T21:18:29.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The real estate market has seen a lot of changes in the past few years. Today's buyers don't want to rely on just in-person visits, manual follow-ups, or disjointed property […]
+The post Real Estate Marketplace App Development Solutions for Modern Agencies appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Albert Smith</name>
         </author>
     </entry>
     <entry>
@@ -112256,19 +112494,6 @@ Refunding Customers is Automated in Microsoft Dynamics GP
 Microsoft Dynamics GP:  Turn Your Vision into Reality]]></summary>
         <author>
             <name>EthoTech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Customize Word Invoice Formats in Dynamics 365 Business Central]]></title>
-        <id>https://www.encorebusiness.com/?p=47265</id>
-        <link href="https://www.encorebusiness.com/blog/how-to-customize-word-invoice-formats-in-dynamics-365-business-central/"/>
-        <updated>2024-05-28T14:18:25.000Z</updated>
-        <summary type="html"><![CDATA[How to Customize Word Invoice Formats in Dynamics 365 Business Central
-Dynamics 365 Business Central users can make basic customizations for reports in Word format, including posted sales invoices, sales orders, purchase order reports, etc. Although it is simple to customize your files, mistakes are easy to make and difficult to correct. I have helped dozens of clients customize their files and streamline their invoice templates....
-Read Next: 18 Warning Signs Your Business Need the Cloud
-This post first appeared first on Encore Business Solutions.]]></summary>
-        <author>
-            <name>Abhishek Jain</name>
         </author>
     </entry>
     <entry>
