@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-05-28T02:25:33.730Z</updated>
+    <updated>2026-05-29T02:30:14.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI-First ERP Partner for CIOs: How to Evaluate Business Central + Fabric + Agents with Governance and Process Integrity]]></title>
+        <id>https://erpsoftwareblog.com/?p=142207</id>
+        <link href="https://erpsoftwareblog.com/2026/05/ai-first-erp-partner-for-cios-how-to-evaluate-business-central-fabric-agents-with-governance-and-process-integrity/"/>
+        <updated>2026-05-28T21:52:17.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+TL;DR For CIOs, “AI-first” in Business Central is not about flashy agents, it’s about governance, security, and process integrity at scale. The right partner protects least privilege, enforces auditability, defines […]
+The post AI-First ERP Partner for CIOs: How to Evaluate Business Central + Fabric + Agents with Governance and Process Integrity appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Technology Management Concepts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We love Dynamics GP, but are also uniquely qualified for BETTER GP to BC migrations]]></title>
+        <id>https://erpsoftwareblog.com/?p=148452</id>
+        <link href="https://erpsoftwareblog.com/2026/05/we-love-dynamics-gp-but-are-also-uniquely-qualified-for-better-gp-to-bc-migrations/"/>
+        <updated>2026-05-28T20:49:52.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Modernizing ERP Before the Clock Runs Out. Our GP Support North team at Endeavor4 loves Dynamics GP and is the Safe Haven for Dynamics GP (Great Plains) users BOTH before […]
+The post We love Dynamics GP, but are also uniquely qualified for BETTER GP to BC migrations appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
+Create a Closed-Loop Analysis, Planning, and Reporting Process]]></summary>
+        <author>
+            <name>GP Support North</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insight Works Adds Mobile Device Management to Warehouse Insight and WMS Express]]></title>
+        <id>https://erpsoftwareblog.com/?p=148239</id>
+        <link href="https://erpsoftwareblog.com/2026/05/suremdm-device-management-warehouse-insight-business-central/"/>
+        <updated>2026-05-28T20:01:06.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+SureMDM integration makes deploying Android warehouse scanners dramatically easier for Business Central users Insight Works, a leading provider of warehouse and manufacturing apps for Microsoft Dynamics 365 Business Central, today […]
+The post Insight Works Adds Mobile Device Management to Warehouse Insight and WMS Express appeared first on ERP Software Blog.
+Warehouse Insight Now Available for Dynamics 365 Business Central
+Optimize your Distribution Process with Advanced Warehouse Management System
+How to Choose a Mobile Computer to use with Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Can Dynamics 365 F&SCM Help You Relocate Inventory to a New Site?]]></title>
+        <id>https://erpsoftwareblog.com/?p=148364</id>
+        <link href="https://erpsoftwareblog.com/2026/05/how-can-dynamics-365-fscm-help-you-relocate-inventory-to-a-new-site/"/>
+        <updated>2026-05-28T19:17:33.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+   Microsoft Dynamics 365 helps businesses relocate inventory to a new site by supporting transfer orders, warehouse setup, item updates, inventory tracking, reconciliation, and reporting. Because a site relocation can […]
+The post How Can Dynamics 365 F&SCM Help You Relocate Inventory to a New Site? appeared first on ERP Software Blog.
+How ChatGPT and Microsoft Copilot Boost Productivity
+GS1 Standards Boost Efficiency in D365 Supply Chain
+Dynamics 365 F&O: Why it is the Best Choice for Your supply Chain Operations]]></summary>
+        <author>
+            <name>Pharos Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Risk of Patch-Forward Strategies in Troubled D365 Implementations]]></title>
+        <id>https://erpsoftwareblog.com/?p=148442</id>
+        <link href="https://erpsoftwareblog.com/2026/05/the-risk-of-patch-forward-strategies-in-troubled-d365-implementations/"/>
+        <updated>2026-05-28T16:50:29.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Every troubled Dynamics 365 Finance and Operations implementation reaches a moment where the team is asked to choose between two postures: keep patching to hold the line, or pause to […]
+The post The Risk of Patch-Forward Strategies in Troubled D365 Implementations appeared first on ERP Software Blog.
+Want to provide equipment and its status directly to each depot manager and take proper action immediately?
+Parcel for Microsoft Dynamics 365 Finance and Operations
+ISVs in D365FO – The solution to the customization conundrum]]></summary>
+        <author>
+            <name>Steven Settle, Ryse Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 Electronic Signatures: One of the Most Underrated Security Features]]></title>
+        <id>https://kurthatlevik.com/?p=5236</id>
+        <link href="https://kurthatlevik.com/2026/05/28/d365-electronic-signatures-one-of-the-most-underrated-security-features/"/>
+        <updated>2026-05-28T13:12:01.000Z</updated>
+        <summary type="html"><![CDATA[I got the inspiration of this post from the DynamicsMinds session “Log It Like It’s Hot : Smarter Change Tracking in D365FO by Johan Persson and André Arnaud de Calavon. When discussing security in Dynamics 365, most conversations quickly end up around roles, duties, privileges, segregation of duties, and access levels. All important topics. But … Continue reading D365 Electronic Signatures: One of the Most Underrated Security Features]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why CFOs Need AI-Powered Collections in Business Central Now]]></title>
+        <id>https://erpsoftwareblog.com/?p=148405</id>
+        <link href="https://erpsoftwareblog.com/2026/05/why-cfos-need-ai-powered-collections-in-business-central-now/"/>
+        <updated>2026-05-28T13:07:33.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+CFOs and finance leaders are at a unique crossroads. They are under pressure to protect cash flow and shorten DSO, yet their accounts receivable teams remain bogged down in manual […]
+The post Why CFOs Need AI-Powered Collections in Business Central Now appeared first on ERP Software Blog.
+Why We Care So Much About Your Business Central Journey
+Start Collecting Sales Tax In Under 5 minutes in Dynamics 365 Business Central
+Microsoft Dynamics 365 CRM For Non-Profit Organizations]]></summary>
+        <author>
+            <name>KTL Solutions, Inc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stop Using Folders: The Future of Graph-Based Architecture]]></title>
         <id>https://365community.online/stop-using-folders-the-future-of-graph-based-architecture</id>
@@ -112466,34 +112566,6 @@ Pitfalls to Avoid as you Transition your Business Software to the Cloud
 Eight signs your business has outgrown Microsoft Dynamics GP]]></summary>
         <author>
             <name>Western Computer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Budgeting for a New ERP Purchase]]></title>
-        <id>https://erpsoftwareblog.com/?p=106431</id>
-        <link href="https://erpsoftwareblog.com/2024/05/budgeting-for-a-new-erp-purchase/"/>
-        <updated>2024-05-29T14:18:23.000Z</updated>
-        <summary type="html"><![CDATA[How to Budget for a New ERP Software Purchase Implementing an Enterprise Resource Planning (ERP) solution is crucial for successful digital transformation and is often one of the most significant […]
-The post Budgeting for a New ERP Purchase appeared first on ERP Software Blog.
-SAP, Oracle, and Microsoft Dynamics Go Head to Head in ERP Software Implementation Benchmark
-7 Steps to Selecting the Right Accounting Software
-NEW White Paper:  Automated Product Recalls are Critical to Protecting Your Brand and Corporate Image]]></summary>
-        <author>
-            <name>ArcherPoint</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Eliminate the Headache of Variable Pay Processing]]></title>
-        <id>https://erpsoftwareblog.com/?p=107129</id>
-        <link href="https://erpsoftwareblog.com/2024/05/how-to-eliminate-the-headache-of-variable-pay-processing/"/>
-        <updated>2024-05-29T11:15:43.000Z</updated>
-        <summary type="html"><![CDATA[You Deserve Easier Variable Pay Processes That’s why it is odd that many ERPs, including Microsoft Dynamics GP and Business Central, deliver only a minimalist built-in solution for managing your […]
-The post How to Eliminate the Headache of Variable Pay Processing appeared first on ERP Software Blog.
-Microsoft Dynamics GP Home Page – Your One Stop Shop for Everything!
-Refunding Customers is Automated in Microsoft Dynamics GP
-Microsoft Dynamics GP:  Turn Your Vision into Reality]]></summary>
-        <author>
-            <name>EthoTech</name>
         </author>
     </entry>
     <entry>
