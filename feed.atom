@@ -2,10 +2,215 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-05-29T02:30:14.037Z</updated>
+    <updated>2026-05-30T02:14:43.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Cowork IQ Implementation: Architecting Scalable Knowledge Graphs for Modern Hybrid Workforces]]></title>
+        <id>https://365community.online/microsoft-cowork-iq-implementation-architecting-scalable-knowledge-graphs-for-modern-hybrid-workforces</id>
+        <link href="https://365community.online/microsoft-cowork-iq-implementation-architecting-scalable-knowledge-graphs-for-modern-hybrid-workforces"/>
+        <updated>2026-05-29T23:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Most organizations believe they have an AI problem when the real issue is their knowledge architecture. Microsoft Copilot deployments are exposing a deeper enterprise challenge: organizations cannot reliably structure, govern, connect, or retrieve the knowledge they already own. Employees still spend enormous amounts of time searching across SharePoint, Teams, OneDrive, emails, project workspaces, and disconnected […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central Quotes and Production BOMs: Why They Don’t Match]]></title>
+        <id>https://erpsoftwareblog.com/?p=148255</id>
+        <link href="https://erpsoftwareblog.com/2026/05/business-central-quotes-and-production-boms-why-they-dont-match/"/>
+        <updated>2026-05-29T20:49:01.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Listen to the Podcast Business Central Quotes and Production BOMs: Why They Don't Match There is a version of this story in nearly every Business Central manufacturing business that builds […]
+The post Business Central Quotes and Production BOMs: Why They Don’t Match appeared first on ERP Software Blog.
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Insight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Business Central at BCUG/NAVUG Summit in Phoenix
+Warehouse Insight Now Available for Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merrick Hardwoods Gains Over $100K in Efficiencies with Tigunia’s Business Central Cloud Migration and IT Partnership]]></title>
+        <id>https://erpsoftwareblog.com/?p=148440</id>
+        <link href="https://erpsoftwareblog.com/2026/05/merrick-hardwoods/"/>
+        <updated>2026-05-29T20:14:00.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+"With Tigunia, I can take a vacation for the first time in three years and know operations will keep running smoothly."  John White, IT Manager, Merrick Hardwoods  The Problem  Merrick […]
+The post Merrick Hardwoods Gains Over $100K in Efficiencies with Tigunia’s Business Central Cloud Migration and IT Partnership appeared first on ERP Software Blog.
+Get More in the Cloud with Dynamics 365 Business Central
+Strategic Mindset for a Successful ERP implementation
+Insight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Business Central at BCUG/NAVUG Summit in Phoenix]]></summary>
+        <author>
+            <name>Tigunia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure AI Foundry: Building AI Solutions with Microsoft Azure]]></title>
+        <id>https://365community.online/azure-ai-foundry-building-ai-solutions-with-microsoft-azure</id>
+        <link href="https://365community.online/azure-ai-foundry-building-ai-solutions-with-microsoft-azure"/>
+        <updated>2026-05-29T19:19:52.000Z</updated>
+        <summary type="html"><![CDATA[Summary Working with The Azure AI Foundry Trap — Why Most Fail Fast is about navigating the sweet line between demo magic and production disaster. In this episode, I expose the places where Foundry rollouts collapse — not because the tech is flawed, but because teams skip essential grounding, observability, and governance. We dive into […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Email Queue Management Matters in Microsoft Dynamics 365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=148098</id>
+        <link href="https://erpsoftwareblog.com/2026/05/why-email-queue-management-matters-in-microsoft-dynamics-365-business-central/"/>
+        <updated>2026-05-29T17:41:45.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+For many organizations using Business Central, automated emails play a major role in daily operations. Payment confirmations, invoice notifications, customer portal alerts, collections reminders, and workflow communications are constantly being […]
+The post Why Email Queue Management Matters in Microsoft Dynamics 365 Business Central appeared first on ERP Software Blog.
+B2B vs. B2C eCommerce: What's the difference and why does it matter?
+Avoid Payroll & Payment Pitfalls
+Manage Multiple Revenue Streams and Invoices for Rental in Dynamics 365]]></summary>
+        <author>
+            <name>Sabrina Zimara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Still Running Your Rental Business on Software That Can’t Scale?]]></title>
+        <id>https://erpsoftwareblog.com/?p=148526</id>
+        <link href="https://erpsoftwareblog.com/2026/05/still-running-your-rental-business-on-software-that-cant-scale/"/>
+        <updated>2026-05-29T16:06:49.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+For many equipment rental companies, long-used rental management systems have quietly shifted into a state of slow updates, limited enhancements, and unclear product roadmaps.  When a platform stops evolving, it eventually slides into “maintenance mode,” a […]
+The post Still Running Your Rental Business on Software That Can’t Scale? appeared first on ERP Software Blog.
+Request a Free Consultation: Discover How D365 Finance & Operations Can Transform Your Finance Operations
+Microsoft Solutions Partner Sycor Americas Celebrates its 25th Anniversary
+Top Five Ways Sycor.Rental Leverages AI and Dynamics 365 for Superior ROI in Equipment Rental]]></summary>
+        <author>
+            <name>STAEDEAN</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving Warehouse Efficiency with BC and Power BI]]></title>
+        <id>https://erpsoftwareblog.com/?p=148537</id>
+        <link href="https://erpsoftwareblog.com/2026/05/improving-warehouse-efficiency-with-bc-and-power-bi/"/>
+        <updated>2026-05-29T16:05:37.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Most warehouse problems look like execution problems. A pick goes to the wrong bin, a shipment goes out late, a cycle count comes back with discrepancies no one can explain. […]
+The post Improving Warehouse Efficiency with BC and Power BI appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>ACE Micro, LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ERP Modernization Without the Chaos with Alicia King [MVP]]]></title>
+        <id>https://365community.online/erp-modernization-without-the-chaos-with-alicia-king-mvp</id>
+        <link href="https://365community.online/erp-modernization-without-the-chaos-with-alicia-king-mvp"/>
+        <updated>2026-05-29T15:35:56.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise Resource Planning (ERP) modernization is no longer just a technology initiative — it is a business transformation journey that directly impacts people, processes, culture, and long-term growth. In this episode of the M365 FM Podcast, Mirko Peters sits down with Alicia King, Microsoft MVP, Pre-Sales Engineering Director at RSM US LLP, speaker, and ERP […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customer Portal for Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=148520</id>
+        <link href="https://erpsoftwareblog.com/2026/05/customer-portal-for-business-central/"/>
+        <updated>2026-05-29T13:55:32.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+How Growing Businesses Can Build a Customer Portal with Power Pages and Business Central for Less Than You Think Building a Customer Portal for Business Central has become essential for […]
+The post Customer Portal for Business Central appeared first on ERP Software Blog.
+Mekorma Payment Hub v1.0 for Business Central is here!
+Responsible AP Automation: Empowering Teams, Not Replacing Them
+Embedded AP Solutions vs Integrated: What’s Right for Your Team?]]></summary>
+        <author>
+            <name>KTL Solutions, Inc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-Powered Microsoft Dynamics 365 ERP: 8 Ways Businesses Are Improving Operations]]></title>
+        <id>https://erpsoftwareblog.com/?p=148517</id>
+        <link href="https://erpsoftwareblog.com/2026/05/ai-powered-microsoft-dynamics-365-erp-8-ways-businesses-are-improving-operations/"/>
+        <updated>2026-05-29T12:09:35.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+As businesses face increasing pressure to move faster, operate leaner, and make smarter decisions. Artificial Intelligence (AI) is rapidly becoming a strategic necessity rather than an emerging technology experiment. Yet […]
+The post AI-Powered Microsoft Dynamics 365 ERP: 8 Ways Businesses Are Improving Operations appeared first on ERP Software Blog.
+Transforming Manufacturing Efficiency and Innovation: OpenAI's Breakthrough Contribution
+Heads Up: Successful Forecasting and Demand Planning with AGR
+WebSan Solutions Inc. Invites You to Our Third Annual Interactive Virtual Half-Day Conference: Dynamics Virtual Launchpad!]]></summary>
+        <author>
+            <name>Synoptek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Twin Builder (Preview) in Microsoft Fabric Real-Time Intelligence]]></title>
+        <id>https://365community.online/digital-twin-builder-preview-in-microsoft-fabric-real-time-intelligence</id>
+        <link href="https://365community.online/digital-twin-builder-preview-in-microsoft-fabric-real-time-intelligence"/>
+        <updated>2026-05-29T11:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Summary Exploring Microsoft Fabric’s Digital Twin means asking: is it finally the tool that tames messy data — or just another layer of complexity? In this episode, I walk through what the Digital Twin Builder (in Fabric’s Real-Time Intelligence) promises, how it plugs into OneLake, and whether it truly simplifies modeling, mapping, and dashboards — […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Financial Services Teams Use Dynamics 365 Maps for Field Sales and Route Optimization]]></title>
+        <id>https://365community.online/how-financial-services-teams-use-dynamics-365-maps-for-field-sales-and-route-optimization</id>
+        <link href="https://365community.online/how-financial-services-teams-use-dynamics-365-maps-for-field-sales-and-route-optimization"/>
+        <updated>2026-05-29T11:09:00.000Z</updated>
+        <summary type="html"><![CDATA[MRT Financial Services already had the data inside Microsoft Dynamics 365. What they did not have was visibility into how geography was affecting sales coverage, recovery routes, lead response time, and expansion planning. The company had been growing steadily for six years, with three regional offices, a field sales team of forty, a recovery division, […]]]></summary>
+        <author>
+            <name>365 Community Online</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Cowork for Dynamics 365 ERP]]></title>
+        <id>https://www.paragchapre.com/?p=16945</id>
+        <link href="https://www.paragchapre.com/copilot-cowork-for-dynamics-365-erp/"/>
+        <updated>2026-05-29T09:23:01.000Z</updated>
+        <summary type="html"><![CDATA[What Is Copilot Cowork? Copilot Cowork is an intelligent agentic orchestrator designed to help organizations accomplish complex business tasks by connecting and coordinating data across multiple systems. Built within the Microsoft ecosystem, Copilot Cowork enables users to work seamlessly with ERP data, emails, documents, meetings, and other Microsoft 365 services through a single conversational experience.…]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using the Variable Inspector in Copilot Studio]]></title>
+        <id>https://365community.online/using-the-variable-inspector-in-copilot-studio</id>
+        <link href="https://365community.online/using-the-variable-inspector-in-copilot-studio"/>
+        <updated>2026-05-29T08:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Variables are the quiet killers in Copilot Studio agents. The topic logic looks correct, the conditions look correct, the flow looks correct, but the agent still does the wrong thing because a variable is null or holds a string when the condition expects a number or was never set because an action failed silently three […]]]></summary>
+        <author>
+            <name>Vivian Voss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power BI Dataflows: Microsoft Learn Guide to Create a Dataflow]]></title>
+        <id>https://365community.online/power-bi-dataflows-microsoft-learn-guide-to-create-a-dataflow</id>
+        <link href="https://365community.online/power-bi-dataflows-microsoft-learn-guide-to-create-a-dataflow"/>
+        <updated>2026-05-29T08:06:43.000Z</updated>
+        <summary type="html"><![CDATA[Summary Running Is Your Dataflow Reusable—or a One-Trick Disaster? as a short, inflexible pipeline is risky. In this episode, I dig into how many “working” dataflows are secretly ticking time bombs—fragile against schema drift, hardcoding, and scale. I share a 60-second checklist you can run on yours right now to see if it’s durable or […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Grounded Copilot: Building a Trusted Foundation for Enterprise AI]]></title>
+        <id>https://365community.online/the-grounded-copilot-building-a-trusted-foundation-for-enterprise-ai</id>
+        <link href="https://365community.online/the-grounded-copilot-building-a-trusted-foundation-for-enterprise-ai"/>
+        <updated>2026-05-29T04:27:01.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Copilot gives answers that sound confident, polished, and intelligent. But in many enterprise environments, those answers are still incomplete, generic, or entirely wrong. The problem usually is not the model itself. The problem is grounding.In this episode, Mirko Peters breaks down the hidden architecture problem behind enterprise AI deployments and explains why most organizations […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Graph API Discovery Rewrites the Rules of Enterprise Semantic Search Performance]]></title>
+        <id>https://365community.online/how-graph-api-discovery-rewrites-the-rules-of-enterprise-semantic-search-performance</id>
+        <link href="https://365community.online/how-graph-api-discovery-rewrites-the-rules-of-enterprise-semantic-search-performance"/>
+        <updated>2026-05-28T23:16:52.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise search is broken — and most organizations still don’t realize why. The problem is no longer storage. It’s no longer indexing. And it’s definitely no longer about adding more servers to your search infrastructure. The real issue is latency between reality and discoverability. In this episode of the M365FM Podcast, we explore why traditional […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI-First ERP Partner for CIOs: How to Evaluate Business Central + Fabric + Agents with Governance and Process Integrity]]></title>
         <id>https://erpsoftwareblog.com/?p=142207</id>
@@ -49,6 +254,16 @@ Optimize your Distribution Process with Advanced Warehouse Management System
 How to Choose a Mobile Computer to use with Business Central]]></summary>
         <author>
             <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Studio and Azure AI Foundry: Which AI Solution is Right?]]></title>
+        <id>https://365community.online/copilot-studio-and-azure-ai-foundry-which-ai-solution-is-right</id>
+        <link href="https://365community.online/copilot-studio-and-azure-ai-foundry-which-ai-solution-is-right"/>
+        <updated>2026-05-28T19:36:42.000Z</updated>
+        <summary type="html"><![CDATA[The main difference between Copilot Studio and Azure AI Foundry comes from who uses them and how much control they need. If you work in a business team, want quick results, and prefer a low-code tool, Copilot Studio fits your needs. If you are a developer or data scientist who builds custom AI models, Azure […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
         </author>
     </entry>
     <entry>
@@ -144,6 +359,16 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>iCepts Technology Group, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Week 9 Updates : Free Microsoft Dynamics 365 Finance and SCM Course]]></title>
+        <id>http://exploredynamics365.home.blog/?p=3108</id>
+        <link href="https://exploredynamics365.home.blog/2026/05/28/week-9-updates-free-microsoft-dynamics-365-finance-and-scm-course/"/>
+        <updated>2026-05-27T19:03:45.000Z</updated>
+        <summary type="html"><![CDATA[9 weeks in. 47 videos published. Still free. This week — we closed the Order to Cash cycle. And we made sure both Finance and SCM consultants understood every single step. Most SCM consultants know how to create a sales order. Few can explain what happens in the ledger when the invoice gets posted. Most […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
         </author>
     </entry>
     <entry>
@@ -112500,72 +112725,6 @@ What You Need to Know About the E-invoice Exchange Market Pilot
 How to Manage Intermodal Dimensional Inventory with Software Embedded in D365]]></summary>
         <author>
             <name>Dynamics Square UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update Child Records in a One:Many Relationship in Dynamics 365 CRM]]></title>
-        <id>https://www.encorebusiness.com/?p=41069</id>
-        <link href="https://www.encorebusiness.com/blog/update-child-records-in-a-onemany-relationship-in-d365-crm/"/>
-        <updated>2024-05-30T14:06:56.000Z</updated>
-        <summary type="html"><![CDATA[Update Child Records in a One:Many Relationship in Dynamics 365 CRM
-In Dynamics 365 CRM applications like Sales and Field Service, it’s common to want to automatically update multiple contacts based on a change to an account or to make automatic changes to other kinds of records in any “parent-child” relationship. I have helped multiple clients with a tried-and-tested customization for this need because there is...
-Read Next: 18 Warning Signs Your Business Need the Cloud
-This post first appeared first on Encore Business Solutions.]]></summary>
-        <author>
-            <name>Youngha Kim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revolutionize Your Construction Projects with MetaConstructX: Business Central]]></title>
-        <id>https://erpsoftwareblog.com/?p=107113</id>
-        <link href="https://erpsoftwareblog.com/2024/05/revolutionize-your-construction-projects-with-metaconstructx/"/>
-        <updated>2024-05-29T18:06:45.000Z</updated>
-        <summary type="html"><![CDATA[In the ever-evolving world of construction, effective management of project budgets, costs, and cashflow are critical to success. As projects become more complex and competitive pressures mount, having a robust, […]
-The post Revolutionize Your Construction Projects with MetaConstructX: Business Central appeared first on ERP Software Blog.
-Transform Construction with MetaConstructX's Mobile Working Access Efficiency
-Enhancing Construction Management with Dynamics 365 Business Central
-Optimizing Resource Allocation in Construction Using Business Central]]></summary>
-        <author>
-            <name>MetaOption LLC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buy One, Get One Promotions: Maximizing the Benefits]]></title>
-        <id>https://erpsoftwareblog.com/?p=107213</id>
-        <link href="https://erpsoftwareblog.com/2024/05/buy-one-get-one-promotions-maximizing-the-benefits/"/>
-        <updated>2024-05-29T16:54:37.000Z</updated>
-        <summary type="html"><![CDATA[Buy One, Get One (BOGO) promotions are a powerful pricing strategy widely used in retail to boost sales, clear inventory, and attract new customers. Imagine offering a free pair of […]
-The post Buy One, Get One Promotions: Maximizing the Benefits appeared first on ERP Software Blog.
-Dynamics GP - Capable To Promise: Make a Promise You Can Keep
-Harvesting the Benefits of Microsoft Dynamics GP
-Service Based Architecture: A True Game Changer for Dynamics GP 2015]]></summary>
-        <author>
-            <name>Mark Rockwell, Rockton Software</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Code View in Power Apps Studio (Public Preview)]]></title>
-        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/introducing-code-view-in-power-apps-studio-public-preview/</id>
-        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/introducing-code-view-in-power-apps-studio-public-preview/"/>
-        <updated>2024-05-29T16:12:00.000Z</updated>
-        <summary type="html"><![CDATA[The goal of fusion development is to create an environment where Citizen Developers, Professional developers (aka code-first) and IT Professional can collaborate seamlessly. We want to create great experience for makers creating an app for the first time and for code-first developers that want to have the transparency of the source code for their Power Apps. We
-The post Introducing Code View in Power Apps Studio (Public Preview) appeared first on Microsoft Power Platform Blog.]]></summary>
-        <author>
-            <name>Marcel Ferreira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics GP vs. Dynamics 365 for Productivity]]></title>
-        <id>https://erpsoftwareblog.com/?p=107024</id>
-        <link href="https://erpsoftwareblog.com/2024/05/dynamics-gp-vs-dynamics-365-for-productivity/"/>
-        <updated>2024-05-29T15:20:46.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Dynamics GP has been a solid workhorse ERP solution for decades and certainly earned its place in Microsoft's stable of top ERP products. However, technology continues to evolve. Now […]
-The post Dynamics GP vs. Dynamics 365 for Productivity appeared first on ERP Software Blog.
-How Microsoft Intelligent Edge Enhances On-Premises ERP Solutions
-Pitfalls to Avoid as you Transition your Business Software to the Cloud
-Eight signs your business has outgrown Microsoft Dynamics GP]]></summary>
-        <author>
-            <name>Western Computer</name>
         </author>
     </entry>
     <entry>
