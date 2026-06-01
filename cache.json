@@ -40381,6 +40381,106 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/model-driven-apps-in-power-platform-a-microsoft-power-apps-guide",
+          "author": "Mirko Peters",
+          "description": "Summary Running Model-Driven Apps: The Unsung Power Platform Hero isn’t about flashy UI — it’s about building secure, stable, production-ready apps that stand the test of change. In this episode, I show you how I take a blank Dataverse table and convert it into a themed, role-aware application with custom forms, views, relationships, security, and […]",
+          "link": "https://365community.online/model-driven-apps-in-power-platform-a-microsoft-power-apps-guide",
+          "publishedOn": "2026-06-01T01:00:30.000Z",
+          "wordCount": 5742,
+          "title": "Model-Driven Apps in Power Platform: A Microsoft Power Apps Guide",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1780275630_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/connect-power-bi-desktop-to-sharepoint-folder",
+          "author": "Mirko Peters",
+          "description": "Connecting your SharePoint data to Power BI dashboards is simple and efficient. You can turn SharePoint chaos into clear, actionable insights using Microsoft Power BI. Many users report these benefits when they connect SharePoint: Quick move from data review to real decisions Dashboards on both web and mobile Alerts when data updates Strong data security […]",
+          "link": "https://365community.online/connect-power-bi-desktop-to-sharepoint-folder",
+          "publishedOn": "2026-05-31T21:34:17.000Z",
+          "wordCount": 7841,
+          "title": "Connect Power BI Desktop to SharePoint Folder",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/05/1780263258_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/agent-365-shadow-ai-the-human-in-the-loop",
+          "author": "Ragnar Heil",
+          "description": "Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]",
+          "link": "https://365community.online/agent-365-shadow-ai-the-human-in-the-loop",
+          "publishedOn": "2026-05-31T21:30:15.000Z",
+          "wordCount": 2180,
+          "title": "Agent 365, Shadow AI & the Human in the Loop",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/12277-1739310479611-1dbbfa3ac5786.jpg?fit=400%2C400&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-extend-sharepoint-with-ai-skills",
+          "author": "Marcin Siewnicki",
+          "description": "Microsoft released Skills for Copilot in SharePoint. This is a brand new feature dedicated to reusable tasks related to data stored in SharePoint. You can create your own skills, save them on a site, and then use them whenever you need them. Let’s try to create one! Introduction Copilot in SharePoint (formerly AI in SharePoint) […]",
+          "link": "https://365community.online/how-to-extend-sharepoint-with-ai-skills",
+          "publishedOn": "2026-05-31T21:13:00.000Z",
+          "wordCount": 1919,
+          "title": "How to extend SharePoint with AI Skills",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/365CommOnl-By-Proximo-3-Light-scaled.png"
+        },
+        {
+          "id": "https://365community.online/human-in-the-loop-why-effectiveness-beats-productivity-in-the-agentic-era-of-microsoft-365",
+          "author": "Ragnar Heil",
+          "description": "In Episode 29 of Guardians of M365 Governance, Christian Buckley, Joy Apple, and I went off-script. No guest, just a laundry list of the governance topics keeping us up at night. The thread that tied it all together: as Agent 365 matures and shadow AI spreads, the most important governance control isn’t a setting. It’s […]",
+          "link": "https://365community.online/human-in-the-loop-why-effectiveness-beats-productivity-in-the-agentic-era-of-microsoft-365",
+          "publishedOn": "2026-05-31T19:30:00.000Z",
+          "wordCount": 2700,
+          "title": "Human in the Loop: Why Effectiveness Beats Productivity in the Agentic Era of Microsoft 365",
+          "imageUrl": "https://365community.online/wp-content/uploads/2025/12/365CommOnl-By-Proximo-3-Light-scaled.png"
+        },
+        {
+          "id": "https://365community.online/sql-vs-t-sql-understanding-the-differences",
+          "author": "Mirko Peters",
+          "description": "Summary Don’t wait on IT for every report — learn how How T-SQL Saves You From Begging IT gives you the power to ask your own data questions. In this episode, I strip away the mystique around SQL and T-SQL, show you that SELECT is safe and non-destructive, and teach you how to move from […]",
+          "link": "https://365community.online/sql-vs-t-sql-understanding-the-differences",
+          "publishedOn": "2026-05-31T18:06:17.000Z",
+          "wordCount": 5988,
+          "title": "SQL vs T-SQL: Understanding the Differences",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/05/1780250777_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-pro-code-edge-architecting-copilot-plugins-with-azure-functions-for-developers",
+          "author": "Mirko Peters",
+          "description": "Microsoft Copilot can reason, summarize, and interact with enterprise data, but when real business logic enters the picture, many organizations quickly discover the limitations of standard connectors and low-code workflows. Complex orchestration, multi-system validation, advanced calculations, and enterprise-grade integrations often push Power Platform beyond its comfort zone.In this episode of M365 FM, we explore how […]",
+          "link": "https://365community.online/the-pro-code-edge-architecting-copilot-plugins-with-azure-functions-for-developers",
+          "publishedOn": "2026-05-31T14:29:46.000Z",
+          "wordCount": 2647,
+          "title": "The Pro-Code Edge: Architecting Copilot Plugins with Azure Functions for Developers",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/05/0dcaca4c577e30b3712f101209935d68.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/power-bi-alerts-with-data-activator-in-microsoft-fabric",
+          "author": "Mirko Peters",
+          "description": "Let’s be real—Power BI alerts are like Clippy: “It looks like you’re trying to stay informed… but let me waste your time first!” Who decided restricting alerts to dashboards was a smart move anyway? Probably the same squad that thought Cortana was going to beat Siri. Follow the M365.Show LinkedIn page for livestreams with MVPs—because […]",
+          "link": "https://365community.online/power-bi-alerts-with-data-activator-in-microsoft-fabric",
+          "publishedOn": "2026-05-31T11:00:16.000Z",
+          "wordCount": 5480,
+          "title": "Power BI Alerts with Data Activator in Microsoft Fabric",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/05/1780225216_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-model-is-the-vulnerability-securing-copilot-with-entra-id-and-zero-trust",
+          "author": "Mirko Peters",
+          "description": "Microsoft Copilot is transforming how organizations access, analyze, and act on information. But while most security conversations focus on AI models, hallucinations, and prompt engineering, the real risk often lives somewhere else entirely. The model is not the vulnerability. The vulnerability is the identity layer, the permissions model, and the governance framework sitting underneath it.In […]",
+          "link": "https://365community.online/the-model-is-the-vulnerability-securing-copilot-with-entra-id-and-zero-trust",
+          "publishedOn": "2026-05-31T07:18:59.000Z",
+          "wordCount": 2644,
+          "title": "The Model is the Vulnerability: Securing Copilot with Entra ID and Zero Trust",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/05/0c52cc111cab98a05093622a1b490aa8.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/power-bi-data-modeling-with-star-schema-and-power-query",
+          "author": "Mirko Peters",
+          "description": "Summary Running The Star Schema Trick All Pros Use means giving your Power BI / data model the structure that performance engines expect — instead of letting it devolve into “digital spaghetti.” In this episode, I explain why flattening everything into a giant table feels easy at first, but drags your reports into slowness and […]",
+          "link": "https://365community.online/power-bi-data-modeling-with-star-schema-and-power-query",
+          "publishedOn": "2026-05-30T23:56:52.000Z",
+          "wordCount": 5822,
+          "title": "Power BI: Data Modeling with Star Schema and Power Query",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/05/1780185412_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
           "id": "https://365community.online/microsoft-cowork-iq-implementation-architecting-scalable-knowledge-graphs-for-modern-hybrid-workforces",
           "author": "Mirko Peters",
           "description": "Most organizations believe they have an AI problem when the real issue is their knowledge architecture. Microsoft Copilot deployments are exposing a deeper enterprise challenge: organizations cannot reliably structure, govern, connect, or retrieve the knowledge they already own. Employees still spend enormous amounts of time searching across SharePoint, Teams, OneDrive, emails, project workspaces, and disconnected […]",
@@ -81495,16 +81595,6 @@
           "wordCount": 3436,
           "title": "Power up (App) your D365FO Electronic Reportings",
           "imageUrl": "https://fernitudela.dev/wp-content/uploads/2024/06/53760536177_337eacaac1_o-1.jpg?w=1200"
-        },
-        {
-          "id": "http://fernitudela.dev/?p=1443",
-          "author": "Fernando Tudela Desantes",
-          "description": "As you all may know, RCS (Regulatory Configuration Service) is being deprecated as the Electronic Reporting objects repository. No new provisioning of RCS environments from 10.0.39, and Microsoft will fully shut down it by the 1st of August of 2024. The new repository is nothing more and nothing less than the good Dataverse, so how do we migrate our ERs? keep reading to have the full picture of the process. … More Migrate RCS Electronic Reportings (ER) to Dataverse: Step-by-Step Guide",
-          "link": "https://fernitudela.dev/2024/06/01/migrate-rcs-electronic-reportings-er-to-dataverse-step-by-step-guide/",
-          "publishedOn": "2024-06-01T11:38:44.000Z",
-          "wordCount": 4937,
-          "title": "Migrate RCS Electronic Reportings (ER) to Dataverse: Step-by-Step Guide",
-          "imageUrl": "https://fernitudela.dev/wp-content/uploads/2024/06/featured-image.png?w=1200"
         }
       ]
     },

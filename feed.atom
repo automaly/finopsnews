@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-05-31T02:40:31.215Z</updated>
+    <updated>2026-06-01T02:50:09.852Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Model-Driven Apps in Power Platform: A Microsoft Power Apps Guide]]></title>
+        <id>https://365community.online/model-driven-apps-in-power-platform-a-microsoft-power-apps-guide</id>
+        <link href="https://365community.online/model-driven-apps-in-power-platform-a-microsoft-power-apps-guide"/>
+        <updated>2026-06-01T01:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Summary Running Model-Driven Apps: The Unsung Power Platform Hero isn’t about flashy UI — it’s about building secure, stable, production-ready apps that stand the test of change. In this episode, I show you how I take a blank Dataverse table and convert it into a themed, role-aware application with custom forms, views, relationships, security, and […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connect Power BI Desktop to SharePoint Folder]]></title>
+        <id>https://365community.online/connect-power-bi-desktop-to-sharepoint-folder</id>
+        <link href="https://365community.online/connect-power-bi-desktop-to-sharepoint-folder"/>
+        <updated>2026-05-31T21:34:17.000Z</updated>
+        <summary type="html"><![CDATA[Connecting your SharePoint data to Power BI dashboards is simple and efficient. You can turn SharePoint chaos into clear, actionable insights using Microsoft Power BI. Many users report these benefits when they connect SharePoint: Quick move from data review to real decisions Dashboards on both web and mobile Alerts when data updates Strong data security […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent 365, Shadow AI & the Human in the Loop]]></title>
+        <id>https://365community.online/agent-365-shadow-ai-the-human-in-the-loop</id>
+        <link href="https://365community.online/agent-365-shadow-ai-the-human-in-the-loop"/>
+        <updated>2026-05-31T21:30:15.000Z</updated>
+        <summary type="html"><![CDATA[Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to extend SharePoint with AI Skills]]></title>
+        <id>https://365community.online/how-to-extend-sharepoint-with-ai-skills</id>
+        <link href="https://365community.online/how-to-extend-sharepoint-with-ai-skills"/>
+        <updated>2026-05-31T21:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft released Skills for Copilot in SharePoint. This is a brand new feature dedicated to reusable tasks related to data stored in SharePoint. You can create your own skills, save them on a site, and then use them whenever you need them. Let’s try to create one! Introduction Copilot in SharePoint (formerly AI in SharePoint) […]]]></summary>
+        <author>
+            <name>Marcin Siewnicki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Human in the Loop: Why Effectiveness Beats Productivity in the Agentic Era of Microsoft 365]]></title>
+        <id>https://365community.online/human-in-the-loop-why-effectiveness-beats-productivity-in-the-agentic-era-of-microsoft-365</id>
+        <link href="https://365community.online/human-in-the-loop-why-effectiveness-beats-productivity-in-the-agentic-era-of-microsoft-365"/>
+        <updated>2026-05-31T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In Episode 29 of Guardians of M365 Governance, Christian Buckley, Joy Apple, and I went off-script. No guest, just a laundry list of the governance topics keeping us up at night. The thread that tied it all together: as Agent 365 matures and shadow AI spreads, the most important governance control isn’t a setting. It’s […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL vs T-SQL: Understanding the Differences]]></title>
+        <id>https://365community.online/sql-vs-t-sql-understanding-the-differences</id>
+        <link href="https://365community.online/sql-vs-t-sql-understanding-the-differences"/>
+        <updated>2026-05-31T18:06:17.000Z</updated>
+        <summary type="html"><![CDATA[Summary Don’t wait on IT for every report — learn how How T-SQL Saves You From Begging IT gives you the power to ask your own data questions. In this episode, I strip away the mystique around SQL and T-SQL, show you that SELECT is safe and non-destructive, and teach you how to move from […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pro-Code Edge: Architecting Copilot Plugins with Azure Functions for Developers]]></title>
+        <id>https://365community.online/the-pro-code-edge-architecting-copilot-plugins-with-azure-functions-for-developers</id>
+        <link href="https://365community.online/the-pro-code-edge-architecting-copilot-plugins-with-azure-functions-for-developers"/>
+        <updated>2026-05-31T14:29:46.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Copilot can reason, summarize, and interact with enterprise data, but when real business logic enters the picture, many organizations quickly discover the limitations of standard connectors and low-code workflows. Complex orchestration, multi-system validation, advanced calculations, and enterprise-grade integrations often push Power Platform beyond its comfort zone.In this episode of M365 FM, we explore how […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power BI Alerts with Data Activator in Microsoft Fabric]]></title>
+        <id>https://365community.online/power-bi-alerts-with-data-activator-in-microsoft-fabric</id>
+        <link href="https://365community.online/power-bi-alerts-with-data-activator-in-microsoft-fabric"/>
+        <updated>2026-05-31T11:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Let’s be real—Power BI alerts are like Clippy: “It looks like you’re trying to stay informed… but let me waste your time first!” Who decided restricting alerts to dashboards was a smart move anyway? Probably the same squad that thought Cortana was going to beat Siri. Follow the M365.Show LinkedIn page for livestreams with MVPs—because […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Model is the Vulnerability: Securing Copilot with Entra ID and Zero Trust]]></title>
+        <id>https://365community.online/the-model-is-the-vulnerability-securing-copilot-with-entra-id-and-zero-trust</id>
+        <link href="https://365community.online/the-model-is-the-vulnerability-securing-copilot-with-entra-id-and-zero-trust"/>
+        <updated>2026-05-31T07:18:59.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Copilot is transforming how organizations access, analyze, and act on information. But while most security conversations focus on AI models, hallucinations, and prompt engineering, the real risk often lives somewhere else entirely. The model is not the vulnerability. The vulnerability is the identity layer, the permissions model, and the governance framework sitting underneath it.In […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power BI: Data Modeling with Star Schema and Power Query]]></title>
+        <id>https://365community.online/power-bi-data-modeling-with-star-schema-and-power-query</id>
+        <link href="https://365community.online/power-bi-data-modeling-with-star-schema-and-power-query"/>
+        <updated>2026-05-30T23:56:52.000Z</updated>
+        <summary type="html"><![CDATA[Summary Running The Star Schema Trick All Pros Use means giving your Power BI / data model the structure that performance engines expect — instead of letting it devolve into “digital spaghetti.” In this episode, I explain why flattening everything into a giant table feels easy at first, but drags your reports into slowness and […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Cowork IQ Implementation: Architecting Scalable Knowledge Graphs for Modern Hybrid Workforces]]></title>
         <id>https://365community.online/microsoft-cowork-iq-implementation-architecting-scalable-knowledge-graphs-for-modern-hybrid-workforces</id>
@@ -112467,16 +112567,6 @@ The post Use Copilot to Summarize Data for Employee Self-Service in Dynamics 365
 Read more ›]]></summary>
         <author>
             <name>tomaztsql</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Migrate RCS Electronic Reportings (ER) to Dataverse: Step-by-Step Guide]]></title>
-        <id>http://fernitudela.dev/?p=1443</id>
-        <link href="https://fernitudela.dev/2024/06/01/migrate-rcs-electronic-reportings-er-to-dataverse-step-by-step-guide/"/>
-        <updated>2024-06-01T11:38:44.000Z</updated>
-        <summary type="html"><![CDATA[As you all may know, RCS (Regulatory Configuration Service) is being deprecated as the Electronic Reporting objects repository. No new provisioning of RCS environments from 10.0.39, and Microsoft will fully shut down it by the 1st of August of 2024. The new repository is nothing more and nothing less than the good Dataverse, so how do we migrate our ERs? keep reading to have the full picture of the process. … More Migrate RCS Electronic Reportings (ER) to Dataverse: Step-by-Step Guide]]></summary>
-        <author>
-            <name>Fernando Tudela Desantes</name>
         </author>
     </entry>
     <entry>
