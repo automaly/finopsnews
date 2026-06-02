@@ -2,10 +2,210 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-06-01T02:50:09.852Z</updated>
+    <updated>2026-06-02T02:47:08.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Is Microsoft 365 Copilot Worth It? A Deep Dive]]></title>
+        <id>https://365community.online/is-microsoft-365-copilot-worth-it-a-deep-dive</id>
+        <link href="https://365community.online/is-microsoft-365-copilot-worth-it-a-deep-dive"/>
+        <updated>2026-06-02T01:52:18.000Z</updated>
+        <summary type="html"><![CDATA[Summary Running Why Leadership Thinks Copilot Is Useless (And Where the Numbers Back Them Up) feels like standing between two worlds: the marketing hype about AI changing everything, and leadership asking, “So where are the results?” In this episode, I tackle the harsh reality behind adoption dashboards: many leaders judge Copilot’s value by sign-in metrics […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Automate: Automate Approval Workflow Creation]]></title>
+        <id>https://365community.online/power-automate-automate-approval-workflow-creation</id>
+        <link href="https://365community.online/power-automate-automate-approval-workflow-creation"/>
+        <updated>2026-06-01T22:17:09.000Z</updated>
+        <summary type="html"><![CDATA[Summary Running Your Power Automate Approval Flow is more than just pressing “Start and wait for an approval” — it’s about building a workflow that’s resilient, auditable, and flexible. In this episode, I dig into how to design approval flows that don’t break when someone is out, need rework paths, or you want a clean […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insight Works Releases Graphical Scheduler v2.2 for Microsoft Dynamics 365 Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=148268</id>
+        <link href="https://erpsoftwareblog.com/2026/06/insight-works-releases-graphical-scheduler-v2-2-for-microsoft-dynamics-365-business-central/"/>
+        <updated>2026-06-01T20:06:47.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Insight Works has released Graphical Scheduler v2.2 for Business Central, adding Double Zoom In and Double Zoom Out actions for faster timeline navigation. The update also introduces smarter style defaults […]
+The post Insight Works Releases Graphical Scheduler v2.2 for Microsoft Dynamics 365 Business Central appeared first on ERP Software Blog.
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Insight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Business Central at BCUG/NAVUG Summit in Phoenix
+Warehouse Insight Now Available for Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Velosio Acquires Domain 6 to Strengthen Enterprise Delivery and Deepen Microsoft Ecosystem Alignment]]></title>
+        <id>https://erpsoftwareblog.com/?p=148588</id>
+        <link href="https://erpsoftwareblog.com/2026/06/velosio-acquires-domain-6-to-strengthen-enterprise-delivery-and-deepen-microsoft-ecosystem-alignment/"/>
+        <updated>2026-06-01T19:00:20.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+ATLANTA, GA  — 6/1/2026 — Velosio, a Microsoft Inner Circle partner with over 30 years of Microsoft ecosystem expertise, announced today the acquisition of Domain 6, a respected Microsoft consultancy […]
+The post Velosio Acquires Domain 6 to Strengthen Enterprise Delivery and Deepen Microsoft Ecosystem Alignment appeared first on ERP Software Blog.
+Dynamics 365 Tutorials Help You Get up and Running Fast
+Dynamics 365 for Finance and Operations Goes Mobile
+Microsoft Dynamics 365 Overview]]></summary>
+        <author>
+            <name>Domain 6 Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure DevOps vs GitHub: Choosing What’s Right for You]]></title>
+        <id>https://365community.online/azure-devops-vs-github-choosing-whats-right-for-you</id>
+        <link href="https://365community.online/azure-devops-vs-github-choosing-whats-right-for-you"/>
+        <updated>2026-06-01T18:43:41.000Z</updated>
+        <summary type="html"><![CDATA[When you compare GitHub vs Azure DevOps and Microsoft Fabric, you see that deployment ownership depends on how each platform manages your code, artifacts, access, and governance. Microsoft platforms give you clear control over each layer. As a technical leader, you must understand how Microsoft handles these aspects to maintain security and compliance. The table […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing the New RunJobForSandbox Option in Bulk Delete Jobs (Preview) – Dataverse / Dynamics 365]]></title>
+        <id>https://365community.online/testing-the-new-runjobforsandbox-option-in-bulk-delete-jobs-preview-dataverse-dynamics-365</id>
+        <link href="https://365community.online/testing-the-new-runjobforsandbox-option-in-bulk-delete-jobs-preview-dataverse-dynamics-365"/>
+        <updated>2026-06-01T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft recently introduced a preview feature for Dataverse Bulk Delete Jobs that provides additional control over bulk delete processing. One of the new options available when creating a bulk delete job through the API is RunJobForSandbox. According to the documentation, this option is intended to control sandbox processing during bulk delete operations, which could be […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Mid-Sized Organizations Can Unlock ERP Efficiency with the Business Central MCP Server]]></title>
+        <id>https://erpsoftwareblog.com/?p=148591</id>
+        <link href="https://erpsoftwareblog.com/2026/06/how-mid-sized-organizations-can-unlock-erp-efficiency-with-the-business-central-mcp-server/"/>
+        <updated>2026-06-01T16:00:57.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The Business Central MCP Server is a Microsoft-built integration layer that connects AI tools like Microsoft Copilot Studio, GitHub Copilot, Claude, and ChatGPT directly to your Dynamics 365 Business Central […]
+The post How Mid-Sized Organizations Can Unlock ERP Efficiency with the Business Central MCP Server appeared first on ERP Software Blog.
+ERP Migration to Business Central: Strategic Guide for Mid-Market CFOs
+Copilot and Dynamics 365 ERP: A Match Made for Efficiency
+WebSan Solutions Inc. Invites You to Our Third Annual Interactive Virtual Half-Day Conference: Dynamics Virtual Launchpad!]]></summary>
+        <author>
+            <name>KTL Solutions, Inc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling Copilot Studio in the Enterprise with Isha Kapoor [MVP]]]></title>
+        <id>https://365community.online/scaling-copilot-studio-in-the-enterprise-with-isha-kapoor-mvp</id>
+        <link href="https://365community.online/scaling-copilot-studio-in-the-enterprise-with-isha-kapoor-mvp"/>
+        <updated>2026-06-01T15:09:09.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of the M365 Podcast, host Mirko Peters sits down with Microsoft MVP and Copilot Engineer Isha Kapoor for an in-depth conversation about one of the most important topics facing organizations today: how to successfully scale Microsoft Copilot Studio in large enterprise environments.While many demonstrations of AI agents and Copilot Studio focus on […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boosting Retention: Managing Execution History in Logic Apps Standard]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=4533</id>
+        <link href="https://anithasantosh.wordpress.com/2026/06/01/boosting-retention-managing-execution-history-in-logic-apps-standard/"/>
+        <updated>2026-06-01T15:01:24.000Z</updated>
+        <summary type="html"><![CDATA[If you’re using Logic Apps Standard, you’ll notice that the execution history (runs) is retained for 90 days. Having a longer retention period would be helpful for POC or demo scenarios, especially when customer responses are delayed or when you … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boosting Retention: Managing Execution History in Logic Apps Standard]]></title>
+        <id>https://365community.online/boosting-retention-managing-execution-history-in-logic-apps-standard</id>
+        <link href="https://365community.online/boosting-retention-managing-execution-history-in-logic-apps-standard"/>
+        <updated>2026-06-01T15:01:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’re using Logic Apps Standard, you’ll notice that the execution history (runs) is retained for 90 days. Having a longer retention period would be helpful for POC or demo scenarios, especially when customer responses are delayed or when you need to review historical runs. Is there a way to extend the retention period beyond […]]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Your AI Coworker]]></title>
+        <id>https://365community.online/teaching-your-ai-coworker</id>
+        <link href="https://365community.online/teaching-your-ai-coworker"/>
+        <updated>2026-06-01T12:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Monday AI Dispatch | June 1, 2026 Two of the most significant agentic AI platforms available right now, Claude Cowork from Anthropic and Copilot Cowork from Microsoft, both support custom skills and can be seen as an AI Coworker. That’s not a coincidence. It’s where enterprise AI is heading: from tools that respond to tools […]]]></summary>
+        <author>
+            <name>Peter Petersen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Allocate Shared Costs Among Tenants with Dynamics 365 Property Management]]></title>
+        <id>https://erpsoftwareblog.com/?p=148398</id>
+        <link href="https://erpsoftwareblog.com/2026/06/how-to-allocate-shared-costs-among-tenants-with-dynamics-365-property-management/"/>
+        <updated>2026-06-01T11:52:36.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Property management billing requires more than charging each tenant for individual utility usage. Many property expenses are shared across apartments, units, buildings, or contracts, which means the billing system needs […]
+The post How to Allocate Shared Costs Among Tenants with Dynamics 365 Property Management appeared first on ERP Software Blog.
+Don’t Stop the Flow: Managing a Job Shop
+Insight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Business Central at BCUG/NAVUG Summit in Phoenix
+Canadian Payroll for Dynamics NAV and 365 Business Central]]></summary>
+        <author>
+            <name>Maris Drone, SkyBill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Copilot for Data Quality: Data Insights with Copilot]]></title>
+        <id>https://365community.online/microsoft-365-copilot-for-data-quality-data-insights-with-copilot</id>
+        <link href="https://365community.online/microsoft-365-copilot-for-data-quality-data-insights-with-copilot"/>
+        <updated>2026-06-01T11:32:26.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Copilot Fails when poor data quality disrupts its transformative impact on your daily work. You can see this problem in real time—Gartner predicts that 30% of generative AI projects will get abandoned by 2025 because of issues with data quality. When you use Copilot, strong data helps you resolve security incidents faster and focus […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Smart Factory Is Evolving: Industrial IoT, Fabric, and Agentic AI in Manufacturing – YouTube]]></title>
+        <id>https://365community.online/the-smart-factory-is-evolving-industrial-iot-fabric-and-agentic-ai-in-manufacturing-youtube</id>
+        <link href="https://365community.online/the-smart-factory-is-evolving-industrial-iot-fabric-and-agentic-ai-in-manufacturing-youtube"/>
+        <updated>2026-06-01T11:01:08.000Z</updated>
+        <summary type="html"><![CDATA[The Smart Factory Is Evolving: Industrial IoT, Fabric, and Agentic AI in Manufacturing Unlock the future of manufacturing with Industrial IoT, Microsoft Fabric, and Agentic AI! In this episode, John and Ty break down how smart factories are evolving from siloed data to unified, intelligent operations. Discover how leading manufacturers are using real-time data, cloud […]]]></summary>
+        <author>
+            <name>John Lunn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Business Case for D365 Finance That Boards Approve]]></title>
+        <id>https://erpsoftwareblog.com/?p=148574</id>
+        <link href="https://erpsoftwareblog.com/2026/06/how-to-build-a-business-case-for-d365-finance-that-boards-approve/"/>
+        <updated>2026-06-01T10:59:19.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The Approval Problem Nobody Talks About You already know your finance systems are holding the business back. Month-end close takes too long. Reporting is a patchwork of Excel files and […]
+The post How to Build a Business Case for D365 Finance That Boards Approve appeared first on ERP Software Blog.
+Fireworks and Marching Bands at Summit 2016. Really.
+A Wake-up Call - A Game Changer Is on the Way
+Hosting Microsoft Dynamics in the Cloud - evaluating IaaS, PaaS and SaaS]]></summary>
+        <author>
+            <name>Dynamics Square UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SANOTO S710 vs. SHOKZ OpenSwim Pro — Head-to-Head Review: Which Swimming Headphone Wins?]]></title>
+        <id>https://365community.online/sanoto-s710-vs-shokz-openswim-pro-head-to-head-review-which-swimming-headphone-wins</id>
+        <link href="https://365community.online/sanoto-s710-vs-shokz-openswim-pro-head-to-head-review-which-swimming-headphone-wins"/>
+        <updated>2026-06-01T10:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction The market for waterproof sports headphones has grown significantly, and two models stand out at very different price points: the SANOTO S710 (~€59, Amazon Affiliate Link) and the SHOKZ OpenSwim Pro (~€229, Amazon Affiliate Link). Both are designed for swimming and aquatic sports, both feature built-in MP3 storage for underwater playback, and both use some form of bone […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why ERP Alone Is No Longer Enough for Enterprises: The Need for ERP and Data Platform Integration]]></title>
+        <id>https://erpsoftwareblog.com/?p=148566</id>
+        <link href="https://erpsoftwareblog.com/2026/06/why-erp-alone-is-no-longer-enough-for-enterprises-the-need-for-erp-and-data-platform-integration/"/>
+        <updated>2026-06-01T06:21:44.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Introduction  Until now, ERP has been the safest bet for accurate, efficient, and scalable business operations. It has served as the single source of truth. Converted chaos into order. Delivered expected results.   But not […]
+The post Why ERP Alone Is No Longer Enough for Enterprises: The Need for ERP and Data Platform Integration appeared first on ERP Software Blog.
+Spreadsheets are Helpful, But You Can’t Rely on Them Forever
+No More Late Nights for Year End Reporting
+My Three, No My FOUR, Favorite New Features in Management Reporter 2012]]></summary>
+        <author>
+            <name>Intech Systems</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Model-Driven Apps in Power Platform: A Microsoft Power Apps Guide]]></title>
         <id>https://365community.online/model-driven-apps-in-power-platform-a-microsoft-power-apps-guide</id>
@@ -67,6 +267,21 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Customer Experience Transformation with Agentic CRM]]></title>
+        <id>https://erpsoftwareblog.com/?p=148557</id>
+        <link href="https://erpsoftwareblog.com/2026/05/customer-experience-transformation-with-agentic-crm/"/>
+        <updated>2026-05-31T16:41:23.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In today's fast-paced business environment, customer expectations are evolving faster than ever before. Customers demand personalized, timely, and relevant interactions across all touchpoints. Traditional Customer Relationship Management (CRM) systems are no longer enough to meet these growing expectations.  […]
+The post Customer Experience Transformation with Agentic CRM  appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>DAX Software Solutions</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Pro-Code Edge: Architecting Copilot Plugins with Azure Functions for Developers]]></title>
         <id>https://365community.online/the-pro-code-edge-architecting-copilot-plugins-with-azure-functions-for-developers</id>
         <link href="https://365community.online/the-pro-code-edge-architecting-copilot-plugins-with-azure-functions-for-developers"/>
@@ -74,6 +289,17 @@
         <summary type="html"><![CDATA[Microsoft Copilot can reason, summarize, and interact with enterprise data, but when real business logic enters the picture, many organizations quickly discover the limitations of standard connectors and low-code workflows. Complex orchestration, multi-system validation, advanced calculations, and enterprise-grade integrations often push Power Platform beyond its comfort zone.In this episode of M365 FM, we explore how […]]]></summary>
         <author>
             <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The user with this email does not exist in Microsoft Entra ID]]></title>
+        <id>https://dynamicspedia.com/?p=20310</id>
+        <link href="https://dynamicspedia.com/2026/05/the-user-with-this-email-does-not-exist-in-microsoft-entra-id/"/>
+        <updated>2026-05-31T12:40:53.000Z</updated>
+        <summary type="html"><![CDATA[The title of this blog is an error that you may encounter when maintaining users in Microsoft Dynamics 365 Finance and Operations. In this blog, I will explain when this error will be triggered, how it might impact your licensing reports, and how to solve this error. The error explained Each user who will be […]
+The post The user with this email does not exist in Microsoft Entra ID appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
         </author>
     </entry>
     <entry>
@@ -394,6 +620,21 @@ Parcel for Microsoft Dynamics 365 Finance and Operations
 ISVs in D365FO – The solution to the customization conundrum]]></summary>
         <author>
             <name>Steven Settle, Ryse Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Resources to Prepare for the Next Business Central Release Wave]]></title>
+        <id>https://erpsoftwareblog.com/?p=148401</id>
+        <link href="https://erpsoftwareblog.com/2026/05/3-resources-to-prepare-for-the-next-business-central-release-wave/"/>
+        <updated>2026-05-28T13:57:10.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In April and October of each year, Microsoft rolls out a scheduled set of updates—implementing new features, functionality improvements, and navigation changes across their applications—as one large “release wave.” Microsoft […]
+The post 3 Resources to Prepare for the Next Business Central Release Wave appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
+More Than Just a Name Change: The New Microsoft Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Syvantis Technologies, Inc.</name>
         </author>
     </entry>
     <entry>
@@ -112556,115 +112797,6 @@ Empowering Professional Services with Microsoft Dynamics 365 Business Central]]>
 The post Use Copilot to Summarize Data for Employee Self-Service in Dynamics 365 Human Resources appeared first on Parag Chapre.]]></summary>
         <author>
             <name>paragchapre@gmail.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simple custom colour palettes with R ggplot graphs]]></title>
-        <id>http://tomaztsql.wordpress.com/?p=9986</id>
-        <link href="https://tomaztsql.wordpress.com/2024/06/02/simple-custom-colour-palettes-with-r-ggplot-graphs/"/>
-        <updated>2024-06-02T09:44:55.000Z</updated>
-        <summary type="html"><![CDATA[A simple, yet effective way to set your colour palette in R using ggplot library. After that, we can start “chaining” ggplot graphs. Scatter plot Barchart / Histogram Boxplot 3.14 chart Finally custom colours! As always, the complete code is…
-Read more ›]]></summary>
-        <author>
-            <name>tomaztsql</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unveiling the Power of Dynamics 365 for Marketing's Email Designer]]></title>
-        <id>https://erpsoftwareblog.com/?p=107300</id>
-        <link href="https://erpsoftwareblog.com/2024/06/the-power-of-dynamics-365-for-marketings-email-designer/"/>
-        <updated>2024-06-01T11:00:12.000Z</updated>
-        <summary type="html"><![CDATA[In the fast-paced world of digital marketing, email remains one of the most potent tools for engaging with customers. To maximize the impact of your email campaigns, you need an […]
-The post Unveiling the Power of Dynamics 365 for Marketing's Email Designer appeared first on ERP Software Blog.
-Maximizing Marketing Potential with Dynamics 365: A Comprehensive Guide
-How Digital Marketing Creates Attraction for eCommerce Sellers?
-Register Now for JourneyTEAM’s 2021 Business Technology Summit]]></summary>
-        <author>
-            <name>MetaOption LLC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POS Card Payments in Dynamics 365 BC Revolutionize Retail]]></title>
-        <id>https://erpsoftwareblog.com/?p=107061</id>
-        <link href="https://erpsoftwareblog.com/2024/05/pos-card-payments-in-dynamics-365-bc-revolutionize-retail/"/>
-        <updated>2024-05-31T19:45:24.000Z</updated>
-        <summary type="html"><![CDATA[Now, retailers can effortlessly accept POS card payments via Counter Sales BC, the secure, dependable card-present solution designed specifically for Microsoft Dynamics 365 BC. Use your preferred payment terminal—there is […]
-The post POS Card Payments in Dynamics 365 BC Revolutionize Retail appeared first on ERP Software Blog.
-Dynamics 365 Business Central and Industry-Tailored Functionality
-Don’t Stop the Flow: Managing a Job Shop
-Get More in the Cloud with Dynamics 365 Business Central]]></summary>
-        <author>
-            <name>Red Maple</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Businesses Choose Microsoft Dynamics Business Central]]></title>
-        <id>https://erpsoftwareblog.com/?p=107157</id>
-        <link href="https://erpsoftwareblog.com/2024/05/why-businesses-choose-microsoft-dynamics-business-central/"/>
-        <updated>2024-05-31T19:38:51.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Dynamics has long been a leader in ERP software solutions. Their solutions have helped business leaders stay ahead of the curve with efficiency, accuracy, security, business intelligence, and collaboration. […]
-The post Why Businesses Choose Microsoft Dynamics Business Central appeared first on ERP Software Blog.
-Dynamics 365 Business Central and Industry-Tailored Functionality
-Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
-Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve]]></summary>
-        <author>
-            <name>Innovia Consulting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Up Your Warehouse with the Latest Mobile WMS Features]]></title>
-        <id>https://erpsoftwareblog.com/?p=107291</id>
-        <link href="https://erpsoftwareblog.com/2024/05/power-up-your-warehouse-with-the-latest-mobile-wms-features/"/>
-        <updated>2024-05-31T17:35:49.000Z</updated>
-        <summary type="html"><![CDATA[Warehouse management just got a whole lot more efficient! Recent updates to Mobile Warehouse Management Systems (Mobile WMS) bring exciting new features that can transform your operations. Let’s dive into what’s new […]
-The post Power Up Your Warehouse with the Latest Mobile WMS Features appeared first on ERP Software Blog.
-Why Your Warehouse Needs a Mobile Warehouse Management Solution (WMS) in 2024
-Everything you need to know about Warehouse Order Picking Methods
-Scalable Solutions: How Business Central Warehouse Management adapts to growing businesses]]></summary>
-        <author>
-            <name>MetaOption LLC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Feature Announcement - Rockton Pricing Management Now Includes Data Sync]]></title>
-        <id>https://erpsoftwareblog.com/?p=107232</id>
-        <link href="https://erpsoftwareblog.com/2024/05/new-feature-announcement-rockton-software-data-sync/"/>
-        <updated>2024-05-31T17:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Rockton Software is excited to share the newest and highly-anticipated feature of Rockton Pricing Management (RPM) – Data Sync. Data Sync is a powerful new feature that leverages Azure LogicApps […]
-The post New Feature Announcement - Rockton Pricing Management Now Includes Data Sync appeared first on ERP Software Blog.
-Four Ways Field Service Management Can Help Your Business
-"Big Data" Provides Big Opportunities
-Are repetitive customer service tasks impeding productivity?]]></summary>
-        <author>
-            <name>Mark Rockwell, Rockton Software</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scale Your Business with Tensoft SemiOps Cloud Platform]]></title>
-        <id>https://www.erpsoftwareblog.com/?p=64947</id>
-        <link href="https://erpsoftwareblog.com/2024/05/scale-your-business-with-tensoft-semiops-cloud-platform/"/>
-        <updated>2024-05-31T15:55:48.000Z</updated>
-        <summary type="html"><![CDATA[First released in 2001, Tensoft SemiOps (formerly called “Tensoft FSM”) has helped hundreds of companies in the semiconductor industry scale their operations. Some of our clients have grown to ship […]
-The post Scale Your Business with Tensoft SemiOps Cloud Platform appeared first on ERP Software Blog.
-What's Missing in Traditional ERP Inventory Systems for Semiconductor Manufacturers?
-Why Fabless Semiconductor Companies Rely on Tensoft SemiOps: 3 Minute Video
-Demand Management for Distributors: What’s It Good For?]]></summary>
-        <author>
-            <name>Tensoft Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Power BI Dashboards in Microsoft Business Central]]></title>
-        <id>https://erpsoftwareblog.com/?p=107221</id>
-        <link href="https://erpsoftwareblog.com/2024/05/creating-power-bi-dashboards-in-microsoft-business-central/"/>
-        <updated>2024-05-31T15:55:14.000Z</updated>
-        <summary type="html"><![CDATA[How to get better reporting by Creating Power BI Dashboards in Microsoft Business Central is easier than you may think. Microsoft Power BI is a powerful reporting and analytics tool […]
-The post Creating Power BI Dashboards in Microsoft Business Central appeared first on ERP Software Blog.
-Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
-Create a Closed-Loop Analysis, Planning, and Reporting Process
-Get More in the Cloud with Dynamics 365 Business Central]]></summary>
-        <author>
-            <name>iCepts Technology Group, Inc.</name>
         </author>
     </entry>
     <entry>
