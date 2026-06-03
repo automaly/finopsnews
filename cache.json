@@ -6,6 +6,36 @@
       "siteUrl": "https://automaly.com/posts/",
       "articles": [
         {
+          "id": "https://automaly.com/posts/admin-unlocked-managing-d365-ppac-era/",
+          "author": "luan52@outlook.com (Hi there, this is Max Nguyen)",
+          "description": "Finance & Operations administration has moved from Lifecycle Services to the Power Platform admin center. A field guide to what changed, the migration timeline, the three environment types, the easier go-live path, and what to do about it.",
+          "link": "https://automaly.com/posts/admin-unlocked-managing-d365-ppac-era/",
+          "publishedOn": "2026-05-28T00:00:00.000Z",
+          "wordCount": 1307,
+          "title": "Admin, Unlocked: Managing D365 in the PPAC Era",
+          "imageUrl": "https://automaly.com/img/ripples.svg"
+        },
+        {
+          "id": "https://automaly.com/posts/build-agents-fabric-copilot-studio/",
+          "author": "luan52@outlook.com (Hi there, this is Max Nguyen)",
+          "description": "How Microsoft Fabric, Business Performance Analytics, and Copilot Studio turn Dynamics 365 and Power Platform data into AI agents you can ask questions of — from Fabric Link vs Synapse Link to building a data agent end to end.",
+          "link": "https://automaly.com/posts/build-agents-fabric-copilot-studio/",
+          "publishedOn": "2026-05-28T00:00:00.000Z",
+          "wordCount": 1272,
+          "title": "Build Agents with Microsoft Fabric & Copilot Studio",
+          "imageUrl": "https://automaly.com/img/ripples.svg"
+        },
+        {
+          "id": "https://automaly.com/posts/power-platform-innovation-apps-automation-portals/",
+          "author": "luan52@outlook.com (Hi there, this is Max Nguyen)",
+          "description": "How Power Apps, Power Automate, and Power Pages turn low-code into something you describe in plain language and run with AI agents — covering generative pages, hyperautomation, and agentic portals.",
+          "link": "https://automaly.com/posts/power-platform-innovation-apps-automation-portals/",
+          "publishedOn": "2026-05-28T00:00:00.000Z",
+          "wordCount": 1284,
+          "title": "Power Platform: Innovation across Apps, Automation & Portals",
+          "imageUrl": "https://automaly.com/img/ripples.svg"
+        },
+        {
           "id": "https://automaly.com/posts/2026-03-27-the-requested-performance-counter-is-not-a-custom-counter/",
           "author": "luan52@outlook.com (Hi there, this is Max Nguyen)",
           "description": "How to fix the ‘The Requested Performance Counter is not a Custom Counter’ error in Dynamics 365 F&O one-box VHD environments by re-registering instrumentation DLLs and rebuilding Windows Performance Counters.",
@@ -40380,6 +40410,106 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/adaptive-cards-in-microsoft-teams",
+          "author": "Mirko Peters",
+          "description": "Adaptive Cards can turn your Teams notifications into interactive messages that actually help you get work done. Picture this: you open Teams and see a flood of alerts—so many that you barely notice the important ones. You feel distracted and lose focus. Customizing notifications matters for your productivity. Smaller, smarter notifications help you avoid context […]",
+          "link": "https://365community.online/adaptive-cards-in-microsoft-teams",
+          "publishedOn": "2026-06-03T02:43:38.000Z",
+          "wordCount": 8515,
+          "title": "Adaptive Cards in Microsoft Teams",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1780454618_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-purview-data-governance-learn-the-basics",
+          "author": "Mirko Peters",
+          "description": "Summary Running The Info Architect’s Guide to Surviving Purview without proper structure is like turning your tenant over to a blindfolded rule enforcer. In this episode, I walk you through how Purview enforces retention, classification, and content lifecycle across Microsoft 365 — whether your content is ready or not. You’ll learn the risks of misconfigured […]",
+          "link": "https://365community.online/microsoft-purview-data-governance-learn-the-basics",
+          "publishedOn": "2026-06-02T23:01:27.000Z",
+          "wordCount": 5929,
+          "title": "Microsoft Purview Data Governance: Learn the Basics",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1780441287_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/spfx-issue-sharepoint-list-data-not-updating-in-microsoft-framework",
+          "author": "Mirko Peters",
+          "description": "You know how frustrating it feels when live updates stop working in your SharePoint projects. Real-time data integration keeps your team productive and helps you make smart moves fast. Microsoft’s sharepoint framework gives you the power to build dynamic, responsive solutions that keep everyone on the same page. Take a look at how real-time insights […]",
+          "link": "https://365community.online/spfx-issue-sharepoint-list-data-not-updating-in-microsoft-framework",
+          "publishedOn": "2026-06-02T19:26:23.000Z",
+          "wordCount": 7749,
+          "title": "SPFx Issue: SharePoint List Data Not Updating in Microsoft Framework",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1780428384_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/dataverse-web-api-returning-record-data-during-create-using-prefer-returnrepresentation",
+          "author": "Nishant Rana",
+          "description": "When creating records using the Dataverse Web API, the default behavior is to return a successful response without including the record data in the response body. A standard create request does provide access to the newly created record’s GUID through the OData-EntityId response header. However, if we need additional column values from the newly created […]",
+          "link": "https://365community.online/dataverse-web-api-returning-record-data-during-create-using-prefer-returnrepresentation",
+          "publishedOn": "2026-06-02T18:35:00.000Z",
+          "wordCount": 1977,
+          "title": "Dataverse Web API: Returning Record Data During Create Using Prefer: return=representation",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/Dataverse-Web-API-Returning-Record-Data-During-Create-Using-Prefer.png?fit=765%2C314&ssl=1"
+        },
+        {
+          "id": "https://365community.online/2-june-2026-youtube",
+          "author": "Madan Mohan Maharana",
+          "description": "2 June 2026 source",
+          "link": "https://365community.online/2-june-2026-youtube",
+          "publishedOn": "2026-06-02T17:23:54.000Z",
+          "wordCount": 1878,
+          "title": "2 June 2026 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1780429693_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/from-low-code-to-pro-code-the-rise-of-power-apps-code-apps-with-carike-botha-mvp",
+          "author": "Mirko Peters",
+          "description": "The Power Platform is entering a new era.For years, Power Apps has been known as one of Microsoft’s flagship low-code platforms, enabling citizen developers and business users to build applications without traditional software development skills. But with the arrival of Power Apps Code Apps, AI-assisted development, GitHub integration, and modern frameworks like React and Vue, […]",
+          "link": "https://365community.online/from-low-code-to-pro-code-the-rise-of-power-apps-code-apps-with-carike-botha-mvp",
+          "publishedOn": "2026-06-02T16:10:57.000Z",
+          "wordCount": 2787,
+          "title": "From Low-Code to Pro-Code- The Rise of Power Apps Code Apps with Carike Botha [MVP]",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/cccc00c2c1dcebaa584de93078f0ce25.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/draw-shapes-on-maps-in-power-apps-step-by-step-tutorial-youtube",
+          "author": "Manish chauhan",
+          "description": "Want to learn how to draw shapes on maps in Power Apps? In this beginner-friendly Power Apps tutorial, learn how to use Map Control to create and display shapes like polygons and boundaries directly inside a Canvas App. In this Power Apps Canvas App tutorial, you’ll learn: ✔ How to insert Map Control in Power […]",
+          "link": "https://365community.online/draw-shapes-on-maps-in-power-apps-step-by-step-tutorial-youtube",
+          "publishedOn": "2026-06-02T14:41:14.000Z",
+          "wordCount": 2164,
+          "title": "Draw Shapes on Maps in Power Apps || Step-by-Step Tutorial – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1780432155_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/perform-fabric-ci-cd-securely-in-github-with-openid-connect-and-fab-deploy",
+          "author": "Kevin Chant",
+          "description": "This post shows how you can perform Fabric CI/CD securely in GitHub with OpenID Connect and fab deploy. As visualized below. To clarify, OpenID Connect (OIDC) extends OAuth 2.0 to provide identity verification and allows GitHub Actions to securely authenticate to cloud providers using short-lived tokens instead of stored secrets. Fab deploy is a new […]",
+          "link": "https://365community.online/perform-fabric-ci-cd-securely-in-github-with-openid-connect-and-fab-deploy",
+          "publishedOn": "2026-06-02T12:38:00.000Z",
+          "wordCount": 1979,
+          "title": "Perform Fabric CI/CD securely in GitHub with OpenID Connect and fab deploy",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/Flow-to-perform-Fabric-CICD-securely-in-GitHub-with-OpenID-Connect-and-fab-deploy-1.jpg?fit=892%2C286&ssl=1"
+        },
+        {
+          "id": "https://365community.online/standard-private-or-shared-channels-in-microsoft-teams-a-how-to-guide",
+          "author": "Mirko Peters",
+          "description": "You encounter real differences when you use standard, private, and shared channels in Microsoft Teams. Each channel type controls who can join conversations and access files. Selecting the right channel impacts how your team works together and keeps your information safe. Microsoft Teams lets you organize discussions and documents to match your needs. You unlock […]",
+          "link": "https://365community.online/standard-private-or-shared-channels-in-microsoft-teams-a-how-to-guide",
+          "publishedOn": "2026-06-02T12:36:43.000Z",
+          "wordCount": 9001,
+          "title": "Standard, private, or shared channels in Microsoft Teams: A How-To Guide",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1780403803_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-environment-variables-work-in-power-apps-code-apps-youtube",
+          "author": "Power Squared",
+          "description": "How Environment Variables Work in Power Apps Code Apps",
+          "link": "https://365community.online/how-environment-variables-work-in-power-apps-code-apps-youtube",
+          "publishedOn": "2026-06-02T10:45:22.000Z",
+          "wordCount": 1905,
+          "title": "How Environment Variables Work in Power Apps Code Apps – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1780416169_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
         {
           "id": "https://365community.online/is-microsoft-365-copilot-worth-it-a-deep-dive",
           "author": "Mirko Peters",
@@ -83726,16 +83856,6 @@
           "wordCount": 3798,
           "title": "D365 – Will 10.0.41 be the release where Copilot shows it value?",
           "imageUrl": "https://kurthatlevik.com/wp-content/uploads/2010/12/kurt.jpg?w=200"
-        },
-        {
-          "id": "http://kurthatlevik.com/?p=4588",
-          "author": "Kurt Hatlevik",
-          "description": "Have you ever wondered about the versioning numbering in the Dynamics 365 Commerce? Here is a small explanation. If you have a version like 9.49.24030.9, this means 9 – Main release number.49 – This is the number that increments for each service release. Like 10.0.39, 10.0.40 etc. .24 – This is the year of the … Continue reading D365 Commerce versioning",
-          "link": "https://kurthatlevik.com/2024/06/03/d365-commerce-versioning/",
-          "publishedOn": "2024-06-03T12:39:42.000Z",
-          "wordCount": 3704,
-          "title": "D365 Commerce versioning",
-          "imageUrl": "https://kurthatlevik.com/wp-content/uploads/2024/06/image-1.png"
         }
       ]
     },
@@ -86723,6 +86843,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=3113",
+          "author": "Saurabh Bharti",
+          "description": "10 weeks in. 53 videos published. Still free. This week — we close the inventory chapter. And open a new one. Here’s something most consultants never fully understand. Inventory transactions don’t just move stock. Every adjustment. Every transfer. Every journal. Creates a financial impact. And at month end — if you haven’t set it up […]",
+          "link": "https://exploredynamics365.home.blog/2026/06/02/week-10-updates-free-microsoft-dynamics-365-finance-and-scm-course/",
+          "publishedOn": "2026-06-02T18:20:03.000Z",
+          "wordCount": 3620,
+          "title": "Week 10 Updates : Free Microsoft Dynamics 365 Finance and SCM Course",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=3108",
           "author": "Saurabh Bharti",
           "description": "9 weeks in. 47 videos published. Still free. This week — we closed the Order to Cash cycle. And we made sure both Finance and SCM consultants understood every single step. Most SCM consultants know how to create a sales order. Few can explain what happens in the ledger when the invoice gets posted. Most […]",
@@ -88706,16 +88836,6 @@
           "wordCount": 2323,
           "title": "Creating Free Text Invoice in Dynamics 365 Finance and Operations Using Power Platform",
           "imageUrl": "https://paragchapre.com/wp-content/uploads/2024/06/Free-text-invoice.png"
-        },
-        {
-          "id": "https://paragchapre.com/?p=13150",
-          "author": "paragchapre@gmail.com",
-          "description": "Use Copilot to Summarize Data for Employee Self-Service in Dynamics 365 Human Resources. Streamline time-off management and enhance efficiency.\nThe post Use Copilot to Summarize Data for Employee Self-Service in Dynamics 365 Human Resources appeared first on Parag Chapre.",
-          "link": "https://paragchapre.com/copilot-employee-self-service-dynamics-365-human-resources/",
-          "publishedOn": "2024-06-03T03:55:45.000Z",
-          "wordCount": 2113,
-          "title": "Use Copilot to Summarize Data for Employee Self-Service in Dynamics 365 Human Resources",
-          "imageUrl": "https://paragchapre.com/wp-content/uploads/2024/06/Use-Copilot-to-Summarize-Data-for-Employee-Self-Service.png"
         }
       ]
     },

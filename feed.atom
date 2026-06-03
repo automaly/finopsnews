@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-06-02T02:47:08.173Z</updated>
+    <updated>2026-06-03T02:55:40.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Adaptive Cards in Microsoft Teams]]></title>
+        <id>https://365community.online/adaptive-cards-in-microsoft-teams</id>
+        <link href="https://365community.online/adaptive-cards-in-microsoft-teams"/>
+        <updated>2026-06-03T02:43:38.000Z</updated>
+        <summary type="html"><![CDATA[Adaptive Cards can turn your Teams notifications into interactive messages that actually help you get work done. Picture this: you open Teams and see a flood of alerts—so many that you barely notice the important ones. You feel distracted and lose focus. Customizing notifications matters for your productivity. Smaller, smarter notifications help you avoid context […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Purview Data Governance: Learn the Basics]]></title>
+        <id>https://365community.online/microsoft-purview-data-governance-learn-the-basics</id>
+        <link href="https://365community.online/microsoft-purview-data-governance-learn-the-basics"/>
+        <updated>2026-06-02T23:01:27.000Z</updated>
+        <summary type="html"><![CDATA[Summary Running The Info Architect’s Guide to Surviving Purview without proper structure is like turning your tenant over to a blindfolded rule enforcer. In this episode, I walk you through how Purview enforces retention, classification, and content lifecycle across Microsoft 365 — whether your content is ready or not. You’ll learn the risks of misconfigured […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPFx Issue: SharePoint List Data Not Updating in Microsoft Framework]]></title>
+        <id>https://365community.online/spfx-issue-sharepoint-list-data-not-updating-in-microsoft-framework</id>
+        <link href="https://365community.online/spfx-issue-sharepoint-list-data-not-updating-in-microsoft-framework"/>
+        <updated>2026-06-02T19:26:23.000Z</updated>
+        <summary type="html"><![CDATA[You know how frustrating it feels when live updates stop working in your SharePoint projects. Real-time data integration keeps your team productive and helps you make smart moves fast. Microsoft’s sharepoint framework gives you the power to build dynamic, responsive solutions that keep everyone on the same page. Take a look at how real-time insights […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dataverse Web API: Returning Record Data During Create Using Prefer: return=representation]]></title>
+        <id>https://365community.online/dataverse-web-api-returning-record-data-during-create-using-prefer-returnrepresentation</id>
+        <link href="https://365community.online/dataverse-web-api-returning-record-data-during-create-using-prefer-returnrepresentation"/>
+        <updated>2026-06-02T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[When creating records using the Dataverse Web API, the default behavior is to return a successful response without including the record data in the response body. A standard create request does provide access to the newly created record’s GUID through the OData-EntityId response header. However, if we need additional column values from the newly created […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Week 10 Updates : Free Microsoft Dynamics 365 Finance and SCM Course]]></title>
+        <id>http://exploredynamics365.home.blog/?p=3113</id>
+        <link href="https://exploredynamics365.home.blog/2026/06/02/week-10-updates-free-microsoft-dynamics-365-finance-and-scm-course/"/>
+        <updated>2026-06-02T18:20:03.000Z</updated>
+        <summary type="html"><![CDATA[10 weeks in. 53 videos published. Still free. This week — we close the inventory chapter. And open a new one. Here’s something most consultants never fully understand. Inventory transactions don’t just move stock. Every adjustment. Every transfer. Every journal. Creates a financial impact. And at month end — if you haven’t set it up […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2 June 2026 – YouTube]]></title>
+        <id>https://365community.online/2-june-2026-youtube</id>
+        <link href="https://365community.online/2-june-2026-youtube"/>
+        <updated>2026-06-02T17:23:54.000Z</updated>
+        <summary type="html"><![CDATA[2 June 2026 source]]></summary>
+        <author>
+            <name>Madan Mohan Maharana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Low-Code to Pro-Code- The Rise of Power Apps Code Apps with Carike Botha [MVP]]]></title>
+        <id>https://365community.online/from-low-code-to-pro-code-the-rise-of-power-apps-code-apps-with-carike-botha-mvp</id>
+        <link href="https://365community.online/from-low-code-to-pro-code-the-rise-of-power-apps-code-apps-with-carike-botha-mvp"/>
+        <updated>2026-06-02T16:10:57.000Z</updated>
+        <summary type="html"><![CDATA[The Power Platform is entering a new era.For years, Power Apps has been known as one of Microsoft’s flagship low-code platforms, enabling citizen developers and business users to build applications without traditional software development skills. But with the arrival of Power Apps Code Apps, AI-assisted development, GitHub integration, and modern frameworks like React and Vue, […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Draw Shapes on Maps in Power Apps || Step-by-Step Tutorial – YouTube]]></title>
+        <id>https://365community.online/draw-shapes-on-maps-in-power-apps-step-by-step-tutorial-youtube</id>
+        <link href="https://365community.online/draw-shapes-on-maps-in-power-apps-step-by-step-tutorial-youtube"/>
+        <updated>2026-06-02T14:41:14.000Z</updated>
+        <summary type="html"><![CDATA[Want to learn how to draw shapes on maps in Power Apps? In this beginner-friendly Power Apps tutorial, learn how to use Map Control to create and display shapes like polygons and boundaries directly inside a Canvas App. In this Power Apps Canvas App tutorial, you’ll learn: ✔ How to insert Map Control in Power […]]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perform Fabric CI/CD securely in GitHub with OpenID Connect and fab deploy]]></title>
+        <id>https://365community.online/perform-fabric-ci-cd-securely-in-github-with-openid-connect-and-fab-deploy</id>
+        <link href="https://365community.online/perform-fabric-ci-cd-securely-in-github-with-openid-connect-and-fab-deploy"/>
+        <updated>2026-06-02T12:38:00.000Z</updated>
+        <summary type="html"><![CDATA[This post shows how you can perform Fabric CI/CD securely in GitHub with OpenID Connect and fab deploy. As visualized below. To clarify, OpenID Connect (OIDC) extends OAuth 2.0 to provide identity verification and allows GitHub Actions to securely authenticate to cloud providers using short-lived tokens instead of stored secrets. Fab deploy is a new […]]]></summary>
+        <author>
+            <name>Kevin Chant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Standard, private, or shared channels in Microsoft Teams: A How-To Guide]]></title>
+        <id>https://365community.online/standard-private-or-shared-channels-in-microsoft-teams-a-how-to-guide</id>
+        <link href="https://365community.online/standard-private-or-shared-channels-in-microsoft-teams-a-how-to-guide"/>
+        <updated>2026-06-02T12:36:43.000Z</updated>
+        <summary type="html"><![CDATA[You encounter real differences when you use standard, private, and shared channels in Microsoft Teams. Each channel type controls who can join conversations and access files. Selecting the right channel impacts how your team works together and keeps your information safe. Microsoft Teams lets you organize discussions and documents to match your needs. You unlock […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Environment Variables Work in Power Apps Code Apps – YouTube]]></title>
+        <id>https://365community.online/how-environment-variables-work-in-power-apps-code-apps-youtube</id>
+        <link href="https://365community.online/how-environment-variables-work-in-power-apps-code-apps-youtube"/>
+        <updated>2026-06-02T10:45:22.000Z</updated>
+        <summary type="html"><![CDATA[How Environment Variables Work in Power Apps Code Apps]]></summary>
+        <author>
+            <name>Power Squared</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is Microsoft 365 Copilot Worth It? A Deep Dive]]></title>
         <id>https://365community.online/is-microsoft-365-copilot-worth-it-a-deep-dive</id>
@@ -670,6 +780,36 @@ Microsoft Dynamics 365 CRM For Non-Profit Organizations]]></summary>
         <summary type="html"><![CDATA[For decades, enterprises built their digital workplaces around folders, directories, and deeply nested hierarchies. The assumption was simple: if information was organized into the right structure, people would always be able to find it. But in 2026, that assumption is collapsing under the weight of modern data complexity. Work no longer starts with navigation. It […]]]></summary>
         <author>
             <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Admin, Unlocked: Managing D365 in the PPAC Era]]></title>
+        <id>https://automaly.com/posts/admin-unlocked-managing-d365-ppac-era/</id>
+        <link href="https://automaly.com/posts/admin-unlocked-managing-d365-ppac-era/"/>
+        <updated>2026-05-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Finance & Operations administration has moved from Lifecycle Services to the Power Platform admin center. A field guide to what changed, the migration timeline, the three environment types, the easier go-live path, and what to do about it.]]></summary>
+        <author>
+            <name>luan52@outlook.com (Hi there, this is Max Nguyen)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Agents with Microsoft Fabric & Copilot Studio]]></title>
+        <id>https://automaly.com/posts/build-agents-fabric-copilot-studio/</id>
+        <link href="https://automaly.com/posts/build-agents-fabric-copilot-studio/"/>
+        <updated>2026-05-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How Microsoft Fabric, Business Performance Analytics, and Copilot Studio turn Dynamics 365 and Power Platform data into AI agents you can ask questions of — from Fabric Link vs Synapse Link to building a data agent end to end.]]></summary>
+        <author>
+            <name>luan52@outlook.com (Hi there, this is Max Nguyen)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Platform: Innovation across Apps, Automation & Portals]]></title>
+        <id>https://automaly.com/posts/power-platform-innovation-apps-automation-portals/</id>
+        <link href="https://automaly.com/posts/power-platform-innovation-apps-automation-portals/"/>
+        <updated>2026-05-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How Power Apps, Power Automate, and Power Pages turn low-code into something you describe in plain language and run with AI agents — covering generative pages, hyperautomation, and agentic portals.]]></summary>
+        <author>
+            <name>luan52@outlook.com (Hi there, this is Max Nguyen)</name>
         </author>
     </entry>
     <entry>
@@ -112737,16 +112877,6 @@ Achieving ROI with a Best-of-Breed Warehouse Management Solution (WMS)]]></summa
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[D365 Commerce versioning]]></title>
-        <id>http://kurthatlevik.com/?p=4588</id>
-        <link href="https://kurthatlevik.com/2024/06/03/d365-commerce-versioning/"/>
-        <updated>2024-06-03T12:39:42.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered about the versioning numbering in the Dynamics 365 Commerce? Here is a small explanation. If you have a version like 9.49.24030.9, this means 9 – Main release number.49 – This is the number that increments for each service release. Like 10.0.39, 10.0.40 etc. .24 – This is the year of the … Continue reading D365 Commerce versioning]]></summary>
-        <author>
-            <name>Kurt Hatlevik</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Top 10 Tips for Maximizing Order Fulfillment in Dynamics 365 Business Central]]></title>
         <id>https://erpsoftwareblog.com/?p=107118</id>
         <link href="https://erpsoftwareblog.com/2024/06/top-10-tips-for-maximizing-order-fulfillment-in-dynamics-365-business-central/"/>
@@ -112786,17 +112916,6 @@ A Comprehensive Guide on How to Use the Warehouse Item Journal
 Empowering Professional Services with Microsoft Dynamics 365 Business Central]]></summary>
         <author>
             <name>MetaOption LLC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use Copilot to Summarize Data for Employee Self-Service in Dynamics 365 Human Resources]]></title>
-        <id>https://paragchapre.com/?p=13150</id>
-        <link href="https://paragchapre.com/copilot-employee-self-service-dynamics-365-human-resources/"/>
-        <updated>2024-06-03T03:55:45.000Z</updated>
-        <summary type="html"><![CDATA[Use Copilot to Summarize Data for Employee Self-Service in Dynamics 365 Human Resources. Streamline time-off management and enhance efficiency.
-The post Use Copilot to Summarize Data for Employee Self-Service in Dynamics 365 Human Resources appeared first on Parag Chapre.]]></summary>
-        <author>
-            <name>paragchapre@gmail.com</name>
         </author>
     </entry>
     <entry>
