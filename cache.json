@@ -40411,6 +40411,111 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/no-code-vs-low-code-vs-pro-code-which-approach-is-right-for-you",
+          "author": "Mirko Peters",
+          "description": "You want your apps to stay safe in a digital world that changes fast. Pro-code development usually gives you stronger security because you control every detail. No-code security makes app building easy for everyone, but you may rely on what the platform offers. Each method has strengths and weaknesses. No-code now plays a big role […]",
+          "link": "https://365community.online/no-code-vs-low-code-vs-pro-code-which-approach-is-right-for-you",
+          "publishedOn": "2026-06-04T00:53:22.000Z",
+          "wordCount": 7259,
+          "title": "No-Code vs Low-Code vs Pro-Code: Which Approach Is Right for You?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1780534402_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/clean-vs-dirty-code-best-practices-for-dev-software",
+          "author": "Mirko Peters",
+          "description": "You want results fast. Dirty code often gets you there before anyone else. In the world of startups, you feel the pressure to move quickly and show progress. Clean code sounds great in theory, but does it actually slow your development? Many people in programming struggle with this question every day. Maybe it is time […]",
+          "link": "https://365community.online/clean-vs-dirty-code-best-practices-for-dev-software",
+          "publishedOn": "2026-06-03T21:12:51.000Z",
+          "wordCount": 7184,
+          "title": "Clean vs. Dirty Code: Best Practices for Dev & Software",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1780521171_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/smart-manufacturing-week-nec-03-06-26-birmingham-youtube",
+          "author": "John Lunn",
+          "description": "Smart Manufacturing Week NEC 03.06.26 – Birmingham source",
+          "link": "https://365community.online/smart-manufacturing-week-nec-03-06-26-birmingham-youtube",
+          "publishedOn": "2026-06-03T20:28:03.000Z",
+          "wordCount": 1895,
+          "title": "Smart Manufacturing Week NEC 03.06.26 – Birmingham – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1780536849_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/leading-ai-delivering-transformation-and-building-community-with-areti-iles-mvp",
+          "author": "Mirko Peters",
+          "description": "In this episode of the M365 FM Podcast, Mirko Peters welcomes Areti Iles, Microsoft MVP, Head of Professional Services at Telefonica Tech’s AI Business Solutions Division, community leader, mentor, conference organizer, and one of the most respected voices in AI governance, compliance, Dynamics 365, and Power Platform. Together, they explore enterprise transformation, Agentic AI, leadership, […]",
+          "link": "https://365community.online/leading-ai-delivering-transformation-and-building-community-with-areti-iles-mvp",
+          "publishedOn": "2026-06-03T17:29:11.000Z",
+          "wordCount": 2823,
+          "title": "Leading AI, Delivering Transformation, and Building Community with Areti Iles [MVP]",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/bdb673dbc4e48fced74872c39febd010.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/master-linq-to-sql-and-ef-core-null-semantics-explained",
+          "author": "Mirko Peters",
+          "description": "You can use LINQ to SQL from Microsoft to connect your .NET applications directly to relational databases. This approach makes your data access efficient and type-safe. The framework lets you write LINQ queries in C# or VB.NET, mapping database tables to objects and providing compile-time checking. Developers find LINQ technology helpful for both new projects […]",
+          "link": "https://365community.online/master-linq-to-sql-and-ef-core-null-semantics-explained",
+          "publishedOn": "2026-06-03T13:51:15.000Z",
+          "wordCount": 8699,
+          "title": "Master LINQ to SQL and EF Core Null Semantics Explained",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1780494675_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/agent-evaluation-in-copilot-studio",
+          "author": "Vivian Voss",
+          "description": "Agent Evaluation is a new(ish) feature in Copilot Studio. So new, that it went generally available first in March 2026. It's the first built-in tool in Copilot Studio that lets you run repeatable test suites against your agent so you don't just open the chat window and hope you covered everything 😄. What's it actually […]",
+          "link": "https://365community.online/agent-evaluation-in-copilot-studio",
+          "publishedOn": "2026-06-03T10:20:00.000Z",
+          "wordCount": 3932,
+          "title": "Agent Evaluation in Copilot Studio",
+          "enclosure": {
+            "url": "https://storage.ghost.io/c/4f/a4/4fa45b00-d231-4bd3-91ad-2c910225838e/content/media/2026/06/Screen-Recording-2026-06-03-at-11.40.59.mp4",
+            "length": "3890238",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/photo-1484480974693-6ca0a78fb36b.jpeg?fit=2000%2C1331&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-fabric-domains-organize-data-with-a-data-mesh",
+          "author": "Mirko Peters",
+          "description": "You want a solution that brings order to your organization’s data. Microsoft Fabric Domains give each business unit real ownership and control, so your teams can manage their information without waiting for IT. This structure improves data discovery and governance while adapting as your company grows. Think about the challenges you face with scattered data […]",
+          "link": "https://365community.online/microsoft-fabric-domains-organize-data-with-a-data-mesh",
+          "publishedOn": "2026-06-03T10:11:16.000Z",
+          "wordCount": 9081,
+          "title": "Microsoft Fabric Domains: Organize Data with a Data Mesh",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1780481477_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/github-dev-day-key-takeaways",
+          "author": "Kieran Holmes",
+          "description": "Photo by Roman Synkevych on Unsplash I recently attended a GitHub Copilot Dev days event on the 11th of May that focused on AI-assisted coding. Across three sessions, ranging from hands-on usage of Copilot to repository automation, the common theme was clear: Copilot is no longer just about writing code faster, but about changing how we […]",
+          "link": "https://365community.online/github-dev-day-key-takeaways",
+          "publishedOn": "2026-06-03T08:16:00.000Z",
+          "wordCount": 3088,
+          "title": "GitHub Dev Day Key Takeaways",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/GitHub-Dev-Day-Key-Takeaways.jpeg?fit=1024%2C669&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-architecture-of-ai-movies-copilot-seedance-higgsfield",
+          "author": "Mirko Peters",
+          "description": "AI video generation is moving far beyond simple prompts.Most creators approach AI filmmaking by treating every tool as an isolated experience. They generate images in one platform, create video in another, and hope everything magically works together. The result is familiar to anyone experimenting with AI movies today: characters change appearance between shots, motion becomes […]",
+          "link": "https://365community.online/the-architecture-of-ai-movies-copilot-seedance-higgsfield",
+          "publishedOn": "2026-06-03T06:23:10.000Z",
+          "wordCount": 2821,
+          "title": "The Architecture of AI Movies: Copilot, Seedance & Higgsfield",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/2634578e95571f6a86c66859797f8215.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/automating-posting-periods-in-business-central-with-date-formulas",
+          "author": "Saurav Dhyani",
+          "description": "Hi Reader, In this series, we will talk about all new features in Business Central 2026 release Wave 1. Sorry for delay, I was busy with personal family stuff. But I can guarantee that we will cover each and every feature. If you want to discuss something discussed first, please specify in comments.  Read Complete […]",
+          "link": "https://365community.online/automating-posting-periods-in-business-central-with-date-formulas",
+          "publishedOn": "2026-06-03T05:30:00.000Z",
+          "wordCount": 1969,
+          "title": "Automating Posting Periods in Business Central with Date Formulas",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/Automating-Posting-Periods-in-Business-Central-with-Date-Formulas.png?fit=1200%2C630&ssl=1"
+        },
+        {
           "id": "https://365community.online/adaptive-cards-in-microsoft-teams",
           "author": "Mirko Peters",
           "description": "Adaptive Cards can turn your Teams notifications into interactive messages that actually help you get work done. Picture this: you open Teams and see a flood of alerts—so many that you barely notice the important ones. You feel distracted and lose focus. Customizing notifications matters for your productivity. Smaller, smarter notifications help you avoid context […]",
