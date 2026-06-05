@@ -40411,6 +40411,106 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/cloud-computing-security-common-issues-and-risk",
+          "author": "Mirko Peters",
+          "description": "You can stop most cloud computing problems with good planning. You also need cost controls, security, backup, and monitoring. It is important to see what is happening in your system. A clear migration strategy is very important for success. This is true when you move to Microsoft Azure. The right strategy links technical goals to […]",
+          "link": "https://365community.online/cloud-computing-security-common-issues-and-risk",
+          "publishedOn": "2026-06-04T23:09:47.000Z",
+          "wordCount": 6953,
+          "title": "Cloud Computing Security: Common Issues and Risk",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1780614588_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/debug-quantum-programs-with-vs-code-azure-quantum",
+          "author": "Mirko Peters",
+          "description": "The Azure Quantum Development Kit helps you make, test, and run quantum programs. You can use these tools on simulators and real hardware. Microsoft is a leader in quantum computing. They give you an open-source quantum development kit. It works with Q#, Qiskit, and OpenQASM. This makes it simple to use programming languages you know. […]",
+          "link": "https://365community.online/debug-quantum-programs-with-vs-code-azure-quantum",
+          "publishedOn": "2026-06-04T19:20:14.000Z",
+          "wordCount": 5451,
+          "title": "Debug Quantum Programs with VS Code & Azure Quantum",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1780600815_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/wordpress-7-0-has-arrived-heres-everything-you-need-to-know-2",
+          "author": "Belinda Allen",
+          "description": "WordPress 7.0 “Armstrong” has landed. This major release makes WordPress more connected and easier to shape around the way you work.  WordPress 7.0 includes both immediate editor improvements and deeper foundational changes. Some improvements are visible right away, like visual revisions, responsive controls, and a cleaner dashboard. Others work behind the scenes are more foundational, […]",
+          "link": "https://365community.online/wordpress-7-0-has-arrived-heres-everything-you-need-to-know-2",
+          "publishedOn": "2026-06-04T16:39:00.000Z",
+          "wordCount": 2965,
+          "title": "WordPress 7.0 Has Arrived: Here’s Everything You Need to Know",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/05/WordPress-70-Has-Arrived-Heres-Everything-You-Need-to-Know.png?fit=1200%2C800&ssl=1"
+        },
+        {
+          "id": "https://365community.online/azure-deploy-asp-net-boilerplate-app-with-azure-functions",
+          "author": "Mirko Peters",
+          "description": "You can make your app faster with azure boilerplate code. This boilerplate stops you from doing the same setup again and again. It lets you spend more time on important code. Azure App Service is a managed platform. It helps you handle your work easily. You use azure to build, deploy, and grow your projects […]",
+          "link": "https://365community.online/azure-deploy-asp-net-boilerplate-app-with-azure-functions",
+          "publishedOn": "2026-06-04T15:37:10.000Z",
+          "wordCount": 6450,
+          "title": "Azure: Deploy ASP.NET Boilerplate App with Azure Functions",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1780587430_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/sharepoint-information-architecture-best-practices-guide",
+          "author": "Mirko Peters",
+          "description": "You use SharePoint in Microsoft 365 to boost teamwork and manage documents with ease. Over 250,000 organizations depend on SharePoint, including more than 85% of Fortune 500 companies. You organize content and streamline access by applying information architecture. This approach shapes global navigation, hub structure, metadata, and search experiences. You avoid mapped drives and choose […]",
+          "link": "https://365community.online/sharepoint-information-architecture-best-practices-guide",
+          "publishedOn": "2026-06-04T11:49:11.000Z",
+          "wordCount": 7978,
+          "title": "SharePoint Information Architecture: Best Practices Guide",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1780573752_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-construction-companies-use-dynamics-365-maps-to-improve-field-operations",
+          "author": null,
+          "description": "The construction industry runs on precision, timelines, resource allocation, and coordination across sites that are often spread across cities, regions, or even countries. A missed site visit, a poorly planned route, or an unmonitored field crew can cascade into costly delays. Yet for most construction companies, field operations are still managed through spreadsheets, phone calls, […]",
+          "link": "https://365community.online/how-construction-companies-use-dynamics-365-maps-to-improve-field-operations",
+          "publishedOn": "2026-06-04T10:51:00.000Z",
+          "wordCount": 3214,
+          "title": "How Construction Companies Use Dynamics 365 Maps to Improve Field Operations",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/Construction-blog-june-26.jpg?fit=1400%2C800&ssl=1"
+        },
+        {
+          "id": "https://365community.online/net-10-ai-integration-new-features-and-visual-studio-improvement",
+          "author": "Mirko Peters",
+          "description": "icrosoft’s AI-first plan gives smarter tools to your work. AI-powered agents finish simple jobs quickly. Tools make reports in hours, not weeks. You make apps in one place. You can switch providers, add custom middleware, and check usage easily. Feature Description Provider flexibility Switch between AI providers without code changes Middleware pipeline Add caching, logging, […]",
+          "link": "https://365community.online/net-10-ai-integration-new-features-and-visual-studio-improvement",
+          "publishedOn": "2026-06-04T08:11:53.000Z",
+          "wordCount": 6502,
+          "title": ".NET 10: AI Integration, New Features, and Visual Studio Improvement",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1780560713_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-i-passed-microsoft-ai-transformation-leader-ab-731-certification",
+          "author": "Arun Potti",
+          "description": "Introduction I’m excited to share my journey of successfully clearing the Microsoft AI Transformation Leader (AB‑731) certification. This certification focuses on enabling professionals to drive AI-led transformation, align business strategy with AI, and implement responsible AI practices. In this blog, I’ll walk you through: The resources I used My preparation strategy Key learnings Tips to […]",
+          "link": "https://365community.online/how-i-passed-microsoft-ai-transformation-leader-ab-731-certification",
+          "publishedOn": "2026-06-04T07:35:00.000Z",
+          "wordCount": 3778,
+          "title": "How I Passed Microsoft AI Transformation Leader (AB‑731) Certification?",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/image-2.png?fit=1199%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-build-2026-what-hr-actually-needs-to-know",
+          "author": "Ana Inés Urrutia",
+          "description": "I was catching up with Microsoft Build 2026 and I want to be honest with you: this wasn’t a normal year. The announcements that dropped in San Francisco were not incremental feature updates. They were a direction, a clear, unmistakable signal about what enterprise work looks like in two to three years. Three of those […]",
+          "link": "https://365community.online/microsoft-build-2026-what-hr-actually-needs-to-know",
+          "publishedOn": "2026-06-04T06:16:00.000Z",
+          "wordCount": 1982,
+          "title": "Microsoft Build 2026: What HR actually needs to know",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/Microsoft-Build-2026-What-HR-actually-needs-to-know.jpg?fit=1000%2C533&ssl=1"
+        },
+        {
+          "id": "https://365community.online/my-microsoft-copilot-is-now-jarvis-this-is-how-i-built-it",
+          "author": "Mirko Peters",
+          "description": "Most people are using Microsoft Copilot completely wrong.They treat it as a smarter search engine, a better chatbot, or a productivity feature tucked away inside Outlook, Teams, or Word. They ask a question, get an answer, and move on to the next task.But that’s not JARVIS.In this episode of M365 FM, Mirko Peters explores how […]",
+          "link": "https://365community.online/my-microsoft-copilot-is-now-jarvis-this-is-how-i-built-it",
+          "publishedOn": "2026-06-04T04:31:35.000Z",
+          "wordCount": 2812,
+          "title": "My Microsoft Copilot is now JARVIS: This is how I built it",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/f647fa46e718fbb183a7aa50a0a34ad0.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
           "id": "https://365community.online/no-code-vs-low-code-vs-pro-code-which-approach-is-right-for-you",
           "author": "Mirko Peters",
           "description": "You want your apps to stay safe in a digital world that changes fast. Pro-code development usually gives you stronger security because you control every detail. No-code security makes app building easy for everyone, but you may rely on what the platform offers. Each method has strengths and weaknesses. No-code now plays a big role […]",
@@ -83997,6 +84097,36 @@
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
         {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/03/email-classification-dynamics-365-case-quality/",
+          "author": "Soham Ghosh, Saurabh Gupta and Harish Tyagi",
+          "description": "Email classification in Dynamics 365 ensures only meaningful customer emails become cases. Reduce noise, improve triage, and boost service productivity.\nThe post Try Email Classification in Dynamics 365 Customer Service appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/03/email-classification-dynamics-365-case-quality/",
+          "publishedOn": "2026-06-03T15:00:00.000Z",
+          "wordCount": 5586,
+          "title": "Try Email Classification in Dynamics 365 Customer Service",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2025/10/AdobeStock_413881238-1024x683.jpeg"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/02/unified-financial-model-service-work-dynamics-365/",
+          "author": "Valerie Horvath",
+          "description": "Learn how Dynamics 365 unifies field service and project financials, enabling real-time profitability tracking, accurate billing, and connected service delivery.\nThe post Managing Complex Service Work with Financial Clarity appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/02/unified-financial-model-service-work-dynamics-365/",
+          "publishedOn": "2026-06-02T18:00:00.000Z",
+          "wordCount": 6484,
+          "title": "Managing Complex Service Work with Financial Clarity",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2025/09/AdobeStock_1612820088-scaled.jpeg"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/01/quality-evaluation-framework-customer-email/",
+          "author": "Shruti Phanse and Harish Tyagi",
+          "description": "The Quality Evaluation Agent (QEA) in Dynamics 365 Customer Service now supports email evaluations, available in Public Preview. The same structured evaluation framework that powers consistent, automated quality assessments across cases and conversations now extends to customer-facing emails. This expansion brings greater trust, transparency, and accountability to another critical communication channel.\nThe post Public Preview: Quality Evaluation Agent Extends Quality Oversight to Email appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/01/quality-evaluation-framework-customer-email/",
+          "publishedOn": "2026-06-01T10:00:00.000Z",
+          "wordCount": 5373,
+          "title": "Public Preview: Quality Evaluation Agent Extends Quality Oversight to Email",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/05/AdobeStock_361302823-scaled.jpeg"
+        },
+        {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=202231",
           "author": "Ramnath Srinivasan, Megha Gupta, Harish Tyagi and Saurabh Gupta",
           "description": "Data Sensitivity Labels for Emails bring classification and protection directly into customer service workflows, so service representatives can work confidently without slowing down.\nThe post Unlocking safer customer communications with Data Sensitivity Labels in Email appeared first on Microsoft Dynamics 365 Blog.",
@@ -86255,16 +86385,6 @@
           "wordCount": 2769,
           "title": "Transition from unified routing diagnostics to Azure Application Insights",
           "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2015/02/227244_5F00_healthcare_2D00_customerservice2.png"
-        },
-        {
-          "id": "https://blogs.microsoft.com/blog/2024/06/04/announcing-dynamics-365-contact-center-a-copilot-first-cloud-contact-center-to-transform-service-experiences/?OCID=d365home",
-          "author": "Jeff Comstock",
-          "description": "Today we are thrilled to announce the latest milestone in our journey towards modernizing customer service: Microsoft Dynamics 365 Contact Center, a Copilot-first contact center solution that delivers generative AI to every customer engagement channel.\nThe post Announcing Dynamics 365 Contact Center – a Copilot-first cloud contact center to transform service experiences appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://blogs.microsoft.com/blog/2024/06/04/announcing-dynamics-365-contact-center-a-copilot-first-cloud-contact-center-to-transform-service-experiences/?OCID=d365home",
-          "publishedOn": "2024-06-04T15:52:00.000Z",
-          "wordCount": 2315,
-          "title": "Announcing Dynamics 365 Contact Center – a Copilot-first cloud contact center to transform service experiences",
-          "imageUrl": "https://blogs.microsoft.com/wp-content/uploads/prod/2024/06/20647-MSFT-CCaaS-thumbnail-1024x576.jpg"
         }
       ]
     },
@@ -86460,6 +86580,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/blog-feed/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=3113",
+          "author": "Saurabh Bharti",
+          "description": "10 weeks in. 53 videos published. Still free. This week — we close the inventory chapter. And open a new one. Here’s something most consultants never fully understand. Inventory transactions don’t just move stock. Every adjustment. Every transfer. Every journal. Creates a financial impact. And at month end — if you haven’t set it up […]",
+          "link": "https://exploredynamics365.home.blog/2026/06/02/week-10-updates-free-microsoft-dynamics-365-finance-and-scm-course/",
+          "publishedOn": "2026-06-02T18:20:03.000Z",
+          "wordCount": 3620,
+          "title": "Week 10 Updates : Free Microsoft Dynamics 365 Finance and SCM Course",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=3108",
           "author": "Saurabh Bharti",
@@ -89401,16 +89531,6 @@
           "wordCount": 2660,
           "title": "Print a custom product label: a Template solution in Process Guide Framework, with detours",
           "imageUrl": "https://erconsult.eu/wp-content/uploads/2024/06/PrintProductLabel.png"
-        },
-        {
-          "id": "https://erconsult.eu/?p=8239",
-          "author": "Eugen Glasow",
-          "description": "The SysExtension framework in Dynamics 365 for Supply Chain Management often fails to recognize newly created classes due to intensive caching of class IDs and attributes. This issue persists even after rebuilding the solution and performing an IISRESET. The solution is to clear the SysExtension factory cache by executing a specific command in the browser, which forces a rescan of the inherited classes.\nThe post SysFlushAOD: Refresh SysExtension cache in D365FO appeared first on ER-Consult.",
-          "link": "https://erconsult.eu/blog/sysflushaod-refresh-sysextension-cache-in-d365fo/",
-          "publishedOn": "2024-06-05T13:09:08.000Z",
-          "wordCount": 1738,
-          "title": "SysFlushAOD: Refresh SysExtension cache in D365FO",
-          "imageUrl": "https://erconsult.eu/wp-content/uploads/2018/08/D365FO_Jachhammer.png"
         }
       ]
     },
@@ -90372,16 +90492,6 @@
           "wordCount": 2746,
           "title": "Develop a tenant environment strategy to adopt Power Platform at scale",
           "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2023/12/Microsoft-logo_rgb_c-gray_950-1.webp"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-power-apps-may-2024-feature-update/",
-          "author": "Clay Wesener",
-          "description": "Welcome to the Power Apps monthly feature update! We will use this blog to share a summary of product, community, and learning updates from throughout the month so you can access it in one easy place. This month we’ve got a great set of updates for Makers, Admins, and users across Power Apps, Dataverse and\nThe post What’s new: Power Apps May 2024 Feature Update appeared first on Microsoft Power Platform Blog.",
-          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-power-apps-may-2024-feature-update/",
-          "publishedOn": "2024-06-04T16:48:00.000Z",
-          "wordCount": 4758,
-          "title": "What’s new: Power Apps May 2024 Feature Update",
-          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/06/Fieldsuggestions.png"
         }
       ]
     },
