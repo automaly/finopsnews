@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-06-05T02:38:00.132Z</updated>
+    <updated>2026-06-06T02:26:33.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Power Platform: Limitations and Limits]]></title>
+        <id>https://365community.online/microsoft-power-platform-limitations-and-limits</id>
+        <link href="https://365community.online/microsoft-power-platform-limitations-and-limits"/>
+        <updated>2026-06-06T01:00:20.000Z</updated>
+        <summary type="html"><![CDATA[You rely on the power platform to automate tasks and drive results. Suddenly, you notice slow data sync or confusing error messages. These issues often trace back to power platform limits. Many users struggle with the licensing model, which can cause unexpected costs. You may also find the platform’s complexity overwhelming, especially in large organizations […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OWASP Top 10: Security Guide and .NET Development]]></title>
+        <id>https://365community.online/owasp-top-10-security-guide-and-net-development</id>
+        <link href="https://365community.online/owasp-top-10-security-guide-and-net-development"/>
+        <updated>2026-06-05T21:17:30.000Z</updated>
+        <summary type="html"><![CDATA[WEBVTT 100:00:00.080 –> 00:00:02.160If you’ve ever thought your net app is safe just 200:00:02.200 –> 00:00:04.519because you’re running the latest framework, this might be the 300:00:04.559 –> 00:00:07.919wake up call you didn’t expect. O wasp’s upcoming update 400:00:07.960 –> 00:00:11.679emphasizes changes worth rethinking in your architecture. In this video, 500:00:11.720 –> 00:00:14.439you’ll see which O […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steps to Microsoft 365 Copilot Extensibility with Gautam Sheth [MVP]]]></title>
+        <id>https://365community.online/steps-to-microsoft-365-copilot-extensibility-with-gautam-sheth-mvp</id>
+        <link href="https://365community.online/steps-to-microsoft-365-copilot-extensibility-with-gautam-sheth-mvp"/>
+        <updated>2026-06-05T17:35:03.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of the M365 Show, host Mirko Peters sits down with Gautam Sheth, a five-time Microsoft MVP, Microsoft 365 developer, open-source contributor, and one of the key maintainers behind some of the most widely used community tools in the Microsoft ecosystem. Gautam has spent years helping organizations build, automate, and extend Microsoft 365 […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure: Bicep vs. ARM Template vs. Terraform for Infrastructure]]></title>
+        <id>https://365community.online/azure-bicep-vs-arm-template-vs-terraform-for-infrastructure</id>
+        <link href="https://365community.online/azure-bicep-vs-arm-template-vs-terraform-for-infrastructure"/>
+        <updated>2026-06-05T13:55:15.000Z</updated>
+        <summary type="html"><![CDATA[If you use ARM Templates, you probably notice how quickly complexity builds up. The rigid structure often slows your work and limits your ability to adapt in fast-changing cloud environments. Modern tools like Azure Bicep, Terraform, and Pulumi give you more flexibility and help you work faster. ARM Templates work well for Azure-focused projects, but […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ultimate Map Integration for Microsoft Dynamics 365]]></title>
+        <id>https://365community.online/the-ultimate-map-integration-for-microsoft-dynamics-365</id>
+        <link href="https://365community.online/the-ultimate-map-integration-for-microsoft-dynamics-365"/>
+        <updated>2026-06-05T11:48:00.000Z</updated>
+        <summary type="html"><![CDATA[If you have just started using Microsoft Dynamics 365, or have been using it for a while but feel like something is missing, here is something worth knowing. Your CRM is full of location data. Every account, contact, lead, and opportunity has an address. Right now, all of that geographic intelligence is sitting in a […]]]></summary>
+        <author>
+            <name>365 Community Online</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unit Test vs Integration Test: Key Differences in Testing]]></title>
+        <id>https://365community.online/unit-test-vs-integration-test-key-differences-in-testing</id>
+        <link href="https://365community.online/unit-test-vs-integration-test-key-differences-in-testing"/>
+        <updated>2026-06-05T10:18:22.000Z</updated>
+        <summary type="html"><![CDATA[You need to know the key differences between unit, integration, and frontend testing. Unit testing checks if one part of your code works by itself. Integration testing makes sure different parts of your app work together. Frontend testing looks at everything from the user’s point of view. The table below shows how each kind of […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Copilot’s AI Credits Pool: A Survival Guide for Users, Admins, and Teams]]></title>
+        <id>https://365community.online/github-copilots-ai-credits-pool-a-survival-guide-for-users-admins-and-teams</id>
+        <link href="https://365community.online/github-copilots-ai-credits-pool-a-survival-guide-for-users-admins-and-teams"/>
+        <updated>2026-06-05T07:03:00.000Z</updated>
+        <summary type="html"><![CDATA[I got burned more than once by AI quotas. Claude Code’s 5-hour window hitting in the middle of a critical fix. GitHub Copilot’s weekly cap throttling me before a demo. The frustration wasn’t the limit itself — it was discovering it at the worst possible moment, with no warning that the wall was approaching. So […]]]></summary>
+        <author>
+            <name>Allan De Castro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I building a Synthetic Market for M365 Strategy]]></title>
+        <id>https://365community.online/i-building-a-synthetic-market-for-m365-strategy</id>
+        <link href="https://365community.online/i-building-a-synthetic-market-for-m365-strategy"/>
+        <updated>2026-06-05T06:36:24.000Z</updated>
+        <summary type="html"><![CDATA[What if you could test every major Microsoft 365 decision before making it?What if you could simulate governance changes, Copilot deployments, security investments, automation initiatives, and organizational transformation strategies before spending a single dollar?In this episode of M365 FM, Mirko Peters explores a groundbreaking approach to Microsoft 365 strategy: building a synthetic market of digital […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Copilot Studio? Complete 2026 Overview for Dynamics 365 Consultants – YouTube]]></title>
+        <id>https://365community.online/what-is-copilot-studio-complete-2026-overview-for-dynamics-365-consultants-youtube</id>
+        <link href="https://365community.online/what-is-copilot-studio-complete-2026-overview-for-dynamics-365-consultants-youtube"/>
+        <updated>2026-06-05T06:17:36.000Z</updated>
+        <summary type="html"><![CDATA[In this video, we explore Microsoft Copilot Studio from a Dynamics 365 consultant’s perspective. If you’re confused about the difference between Copilot, Microsoft 365 Copilot, and Copilot Studio, this video explains everything in simple terms and shows how Copilot Studio fits into the Microsoft ecosystem.   You’ll learn: ✅ What Copilot Studio is ✅ How […]]]></summary>
+        <author>
+            <name>Manish chauhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Entity Framework Core Performance: Optimizing EF Core Query Speed]]></title>
+        <id>https://365community.online/entity-framework-core-performance-optimizing-ef-core-query-speed</id>
+        <link href="https://365community.online/entity-framework-core-performance-optimizing-ef-core-query-speed"/>
+        <updated>2026-06-05T02:50:19.000Z</updated>
+        <summary type="html"><![CDATA[You may encounter performance issues when using Entity Framework as your object-relational mapper. These performance issues can cause your apps to run slowly and become less effective. Common causes include incorrect settings, slow bulk operations, and excessive memory usage when tracking many entities. Default change tracking can quickly consume resources. Utilizing methods like AsNoTracking can […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cloud Computing Security: Common Issues and Risk]]></title>
         <id>https://365community.online/cloud-computing-security-common-issues-and-risk</id>
@@ -112867,28 +112967,6 @@ How to move from Microsoft Dynamics GP to Business Central in a few easy steps
 Steps involves in Dynamics GP to Business Central Migration]]></summary>
         <author>
             <name>Accountnet, Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transition from unified routing diagnostics to Azure Application Insights]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/06/05/transition-from-unified-routing-diagnostics-to-azure-application-insights/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/06/05/transition-from-unified-routing-diagnostics-to-azure-application-insights/"/>
-        <updated>2024-06-05T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As of May 9, 2024, we are phasing out unified routing diagnostics and integrating its capabilities into Azure Application Insights. 
-The post Transition from unified routing diagnostics to Azure Application Insights appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Prathmesh Todakar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Develop a tenant environment strategy to adopt Power Platform at scale]]></title>
-        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/develop-a-tenant-environment-strategy-to-adopt-power-platform-at-scale/</id>
-        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/develop-a-tenant-environment-strategy-to-adopt-power-platform-at-scale/"/>
-        <updated>2024-06-05T16:57:00.000Z</updated>
-        <summary type="html"><![CDATA[We are thrilled to announce the release of our latest white paper, “Develop a tenant environment strategy to adopt Power Platform at scale”, available now on Microsoft Learn. This comprehensive guidance is designed to help organizations effectively manage and optimize their Power Platform environments, ensuring they can leverage the full potential of their Power Platform investments.
-The post Develop a tenant environment strategy to adopt Power Platform at scale appeared first on Microsoft Power Platform Blog.]]></summary>
-        <author>
-            <name>Robert Standefer</name>
         </author>
     </entry>
     <entry>
