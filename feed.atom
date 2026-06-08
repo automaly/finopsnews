@@ -2,10 +2,111 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-06-07T02:44:13.636Z</updated>
+    <updated>2026-06-08T02:47:43.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Power Platform Governance: Best Practices & Security]]></title>
+        <id>https://365community.online/power-platform-governance-best-practices-security</id>
+        <link href="https://365community.online/power-platform-governance-best-practices-security"/>
+        <updated>2026-06-08T02:20:03.000Z</updated>
+        <summary type="html"><![CDATA[You can set up power platform governance for lasting success by building clear policies, assigning responsibilities, and monitoring your environments consistently. Structured governance helps you manage the Microsoft Power Platform safely and efficiently. Without these controls, you may face risks like overprivileged access, poor data classification, or misconfigured DLP policies. Consider the table below, which […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Full Stack vs Specialized Developer: Which Path Is Best?]]></title>
+        <id>https://365community.online/full-stack-vs-specialized-developer-which-path-is-best</id>
+        <link href="https://365community.online/full-stack-vs-specialized-developer-which-path-is-best"/>
+        <updated>2026-06-07T22:41:38.000Z</updated>
+        <summary type="html"><![CDATA[You might think full-stack skills should shine in Microsoft Teams App Development, but teams often hesitate to use them. Developers face rapid changes in SDKs and unclear migration paths. You can feel exhausted by the constant updates and risk losing confidence in the platform. Mastering full-stack skills takes time and energy, and you may find […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Architecture: Build Reliable & Resilient Cloud Systems]]></title>
+        <id>https://365community.online/azure-architecture-build-reliable-resilient-cloud-systems</id>
+        <link href="https://365community.online/azure-architecture-build-reliable-resilient-cloud-systems"/>
+        <updated>2026-06-07T19:18:41.000Z</updated>
+        <summary type="html"><![CDATA[You may wonder why Azure Solutions Break even when you follow best practices. Often, hidden and systemic issues—not just surface misconfigurations—cause these challenges. Azure places a strong focus on trust, so customers expect systems to stay reliable, even during disruptions. If you want to build true trust with your customers, you must look beyond quick […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teams Catch Up – YouTube]]></title>
+        <id>https://365community.online/microsoft-teams-catch-up-youtube</id>
+        <link href="https://365community.online/microsoft-teams-catch-up-youtube"/>
+        <updated>2026-06-07T18:35:16.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Teams Catch Up]]></summary>
+        <author>
+            <name>Peter Petersen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is the Teams Catch Up Feature and How Does It Work?]]></title>
+        <id>https://365community.online/what-is-the-teams-catch-up-feature-and-how-does-it-work</id>
+        <link href="https://365community.online/what-is-the-teams-catch-up-feature-and-how-does-it-work"/>
+        <updated>2026-06-07T17:20:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve ever unlocked your phone after a few hours away and been greeted by a wall of Teams notifications across a dozen different chats, channels, and meeting threads. The new Catch Up feature in Microsoft Teams mobile is rolling out now, and it’s designed to solve one of the most common pain points for […]]]></summary>
+        <author>
+            <name>Peter Petersen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Little useless-useful R functions – Ulam Prime Spiral]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=11162</id>
+        <link href="https://tomaztsql.wordpress.com/2026/06/07/little-useless-useful-r-functions-ulam-prime-spiral/"/>
+        <updated>2026-06-07T17:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Stanislaw Ulam, Los Alamos, 1963 was bored in a meeting and he started dooddling integers in a spiral and circled the primes. Diagonal lines appeared. He later showed it to Martin Gardner, to Ulam surprise, Gardner published his findings in…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Engineered Copilot for 3.5 Million Pages: The Epstein Files Challenge]]></title>
+        <id>https://365community.online/i-engineered-copilot-for-3-5-million-pages-the-epstein-files-challenge</id>
+        <link href="https://365community.online/i-engineered-copilot-for-3-5-million-pages-the-epstein-files-challenge"/>
+        <updated>2026-06-07T15:51:35.000Z</updated>
+        <summary type="html"><![CDATA[Three and a half million pages. Two thousand videos. One hundred and eighty thousand images. Most people assume that once you connect Microsoft Copilot to a massive dataset, the answers simply appear. The reality is very different.In this episode of the M365 FM Podcast, we go deep into the engineering challenges behind building a retrieval […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Azure Machine Learning vs Altair?]]></title>
+        <id>https://365community.online/microsoft-azure-machine-learning-vs-altair-2</id>
+        <link href="https://365community.online/microsoft-azure-machine-learning-vs-altair-2"/>
+        <updated>2026-06-07T12:08:16.000Z</updated>
+        <summary type="html"><![CDATA[It’s 1975. You’re staring at a beige metal box called the Altair 8800. To make it do anything, you flip tiny switches and wait for blinking lights. By the end of this video, you’ll see how those same design habits translate into practical value today—helping you cost‑optimize, automate, and reason more clearly about Microsoft 365, […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agentic AI in DevOps: Autonomous AI Agents & Automation]]></title>
+        <id>https://365community.online/agentic-ai-in-devops-autonomous-ai-agents-automation</id>
+        <link href="https://365community.online/agentic-ai-in-devops-autonomous-ai-agents-automation"/>
+        <updated>2026-06-07T08:31:35.000Z</updated>
+        <summary type="html"><![CDATA[You now see a dramatic shift in DevOps as agentic AI takes center stage. With autonomous, adaptive, and intelligent automation, agentic AI devops changes how you work. m365.fm’s Agentic AI stands out as a leader. Many organizations see returns of over 100% after deploying these systems. You can automate repetitive tasks and speed up innovation. […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Trumpify Your Copilot: A Masterclass in Hallucination]]></title>
+        <id>https://365community.online/how-to-trumpify-your-copilot-a-masterclass-in-hallucination</id>
+        <link href="https://365community.online/how-to-trumpify-your-copilot-a-masterclass-in-hallucination"/>
+        <updated>2026-06-07T04:50:08.000Z</updated>
+        <summary type="html"><![CDATA[Everyone talks about hallucinations as if they’re a model problem. They blame GPT-4, Claude, Gemini, or whatever large language model happens to be in the spotlight this week. They tweak prompts, add more tokens, experiment with different temperatures, and hope the problem magically disappears.But what if hallucinations aren’t a model problem at all?What if your […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Azure CLI vs PowerShell: Microsoft Azure Command-Line Tools]]></title>
         <id>https://365community.online/azure-cli-vs-powershell-microsoft-azure-command-line-tools</id>
@@ -113313,16 +113414,6 @@ How to Choose a Mobile Computer to use with Business Central
 Quote Generation with Product Configurator for Business Central]]></summary>
         <author>
             <name>Insight Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GA of D365F&O 10.0.40]]></title>
-        <id>http://anithasantosh.wordpress.com/?p=3491</id>
-        <link href="https://anithasantosh.wordpress.com/2024/06/07/ga-of-d365fo-10-0-40/"/>
-        <updated>2024-06-07T21:31:14.000Z</updated>
-        <summary type="html"><![CDATA[In my previous article , I have mentioned about the preview features of 10.0.40 This post gives an overview of the features includes with GA. Copilot in finance and operations apps for developers Feature name : Extend Copilot with client … Continue reading →]]></summary>
-        <author>
-            <name>AnithaEswaran</name>
         </author>
     </entry>
     <entry>
