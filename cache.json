@@ -40461,6 +40461,106 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/microsoft-365-copilot-connector-overview",
+          "author": "Mirko Peters",
+          "description": "You can unlock new possibilities for your organization with Microsoft 365 Copilot Connectors. These connectors link Microsoft Copilot to external data sources, moving information into Microsoft Graph for powerful semantic indexing. This connection gives you a unified view of your data and makes knowledge discovery much easier. IT professionals often use Copilot Connectors for tasks […]",
+          "link": "https://365community.online/microsoft-365-copilot-connector-overview",
+          "publishedOn": "2026-06-09T00:18:13.000Z",
+          "wordCount": 7480,
+          "title": "Microsoft 365 Copilot Connector: Overview",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1780964293_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/why-companies-fail-to-use-ai-effectively-adoption-challenges",
+          "author": "Mirko Peters",
+          "description": "You might expect microsoft copilot or microsoft 365 copilot to boost productivity overnight, but many organizations face adoption gaps because the real challenge lies in your strategy, not the tool. The instant productivity myth often hides deeper issues, such as ignoring data-driven adoption and failing to build a culture of innovation. If your ai or […]",
+          "link": "https://365community.online/why-companies-fail-to-use-ai-effectively-adoption-challenges",
+          "publishedOn": "2026-06-08T20:39:56.000Z",
+          "wordCount": 6989,
+          "title": "Why Companies Fail to Use AI Effectively: Adoption Challenges",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1780951196_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/why-i-switched-to-the-articona-3x4k-usb-c-docking-station-and-wont-go-back",
+          "author": "Ragnar Heil",
+          "description": "If you’re working with a MacBook and multiple external monitors, you’ve probably run into the same frustrations I did. Let me save you some time. For a while, I was using the Logitech Logi Dock as my central hub. It’s a solid piece of hardware — clean design, good audio integration, and it genuinely simplifies […]",
+          "link": "https://365community.online/why-i-switched-to-the-articona-3x4k-usb-c-docking-station-and-wont-go-back",
+          "publishedOn": "2026-06-08T19:05:00.000Z",
+          "wordCount": 2529,
+          "title": "Why I Switched to the ARTICONA 3×4K USB-C Docking Station — And Won’t Go Back",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1eb2fbc8e58940cdae8d20f605f1c511-1024x456.png?fit=1024%2C456&ssl=1"
+        },
+        {
+          "id": "https://365community.online/open-a-power-automate-flow-for-edit-without-fixing-broken-connections-first",
+          "author": "Nishant Rana",
+          "description": "While reviewing Power Automate flows recently, we ran into an issue where we could not open a flow in edit mode When opening the flow, Power Automate displayed the “This flow will connect to” screen and requested that we fix one or more connections before proceeding. In our case, the flow contained an Office 365 […]",
+          "link": "https://365community.online/open-a-power-automate-flow-for-edit-without-fixing-broken-connections-first",
+          "publishedOn": "2026-06-08T18:35:00.000Z",
+          "wordCount": 1979,
+          "title": "Open a Power Automate Flow for Edit Without Fixing Broken Connections First",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/Open-a-Power-Automate-Flow-for-Edit-Without-Fixing-Broken.png?fit=756%2C252&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-carry-on-that-finally-got-it-right-my-articona-compact-trolley-review",
+          "author": "Ragnar Heil",
+          "description": "I’ve been on a lot of flights and trains recently. Family trips to Barcelona, client visits across Germany, conferences and events — my travel schedule is packed, and carry-on luggage is something I’ve quietly obsessed over for years. Too big, and you’re gate-checking it and losing 30 minutes at baggage claim. Too flimsy, and you’re […]",
+          "link": "https://365community.online/the-carry-on-that-finally-got-it-right-my-articona-compact-trolley-review",
+          "publishedOn": "2026-06-08T18:02:00.000Z",
+          "wordCount": 2639,
+          "title": "The Carry-On That Finally Got It Right: My ARTICONA Compact Trolley Review",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/IMG_5572-768x1024.jpeg?fit=768%2C1024&ssl=1"
+        },
+        {
+          "id": "https://365community.online/from-ai-hype-to-business-value-with-kayode-ajayi-mvp",
+          "author": "Mirko Peters",
+          "description": "Artificial Intelligence is everywhere. Every conference keynote, every technology roadmap, every boardroom discussion, and nearly every software announcement seems to revolve around AI. Yet despite the excitement, many organizations are still asking the same question: How do we move beyond AI experimentation and actually create measurable business value?In this episode of the M365 Podcast, host […]",
+          "link": "https://365community.online/from-ai-hype-to-business-value-with-kayode-ajayi-mvp",
+          "publishedOn": "2026-06-08T17:02:11.000Z",
+          "wordCount": 3022,
+          "title": "From AI Hype to Business Value with Kayode Ajayi [MVP]",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/82d32a55b54f2c33c5c9d80a12c75aa9.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-365-data-governance-closing-the-gap",
+          "author": "Mirko Peters",
+          "description": "The real governance gap in Microsoft 365 arises when organizations fail to maintain ongoing oversight of how users share, store, and secure information. This gap exposes critical risks, as seen in recent audit failures and widespread lack of visibility. Microsoft Teams often reveals these problems, especially with channel visibility and permission management. The impact is […]",
+          "link": "https://365community.online/microsoft-365-data-governance-closing-the-gap",
+          "publishedOn": "2026-06-08T13:21:13.000Z",
+          "wordCount": 9385,
+          "title": "Microsoft 365 Data Governance: Closing the Gap",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1780924873_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/click-comment-done-a-better-client-feedback-loop-with-studio-code",
+          "author": "Belinda Allen",
+          "description": "I had a great talk with an agency partner, Marco from Arsnova, at the WordPress.com booth at WordCamp Europe a few days ago. Halfway through the conversation, I realized the feature I reach for almost every day would erase one of the most tedious parts of an agency’s job: chasing down client edits one screenshot […]",
+          "link": "https://365community.online/click-comment-done-a-better-client-feedback-loop-with-studio-code",
+          "publishedOn": "2026-06-08T10:35:00.000Z",
+          "wordCount": 2393,
+          "title": "Click, Comment, Done: A Better Client Feedback Loop with Studio Code",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/Click-Comment-Done-A-Better-Client-Feedback-Loop-with-Studio.png?fit=1200%2C756&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-purview-information-protection-overview",
+          "author": "Mirko Peters",
+          "description": "You face constant challenges in protecting sensitive data within microsoft 365. Many organizations struggle when their Microsoft MIP Rollout falls short, leaving a gap between perceived safety and real security. You may feel confident about your microsoft environment, but hidden risks remain. Microsoft Purview Information Protection gives you tools to classify and protect data. Take […]",
+          "link": "https://365community.online/microsoft-purview-information-protection-overview",
+          "publishedOn": "2026-06-08T09:37:24.000Z",
+          "wordCount": 7748,
+          "title": "Microsoft Purview Information Protection Overview",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1780911444_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-shadow-data-blindspot-mapping-what-you-cant-see-with-purview",
+          "author": "Mirko Peters",
+          "description": "Your data map is supposed to show everything.Yet in most organizations, it only shows the data someone remembered to register.It doesn’t show the forgotten storage account a project team created two years ago. It doesn’t show the customer records copied into a personal OneDrive folder for “temporary analysis.” It doesn’t show abandoned development databases populated […]",
+          "link": "https://365community.online/the-shadow-data-blindspot-mapping-what-you-cant-see-with-purview",
+          "publishedOn": "2026-06-08T06:00:27.000Z",
+          "wordCount": 3146,
+          "title": "The Shadow Data Blindspot: Mapping What You Can’t See with Purview",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/bc6076d5ee3511cab935b92525a75dc5.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
           "id": "https://365community.online/power-platform-governance-best-practices-security",
           "author": "Mirko Peters",
           "description": "You can set up power platform governance for lasting success by building clear policies, assigning responsibilities, and monitoring your environments consistently. Structured governance helps you manage the Microsoft Power Platform safely and efficiently. Without these controls, you may face risks like overprivileged access, poor data classification, or misconfigured DLP policies. Consider the table below, which […]",

@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-06-08T02:47:43.928Z</updated>
+    <updated>2026-06-09T02:14:22.177Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Copilot Connector: Overview]]></title>
+        <id>https://365community.online/microsoft-365-copilot-connector-overview</id>
+        <link href="https://365community.online/microsoft-365-copilot-connector-overview"/>
+        <updated>2026-06-09T00:18:13.000Z</updated>
+        <summary type="html"><![CDATA[You can unlock new possibilities for your organization with Microsoft 365 Copilot Connectors. These connectors link Microsoft Copilot to external data sources, moving information into Microsoft Graph for powerful semantic indexing. This connection gives you a unified view of your data and makes knowledge discovery much easier. IT professionals often use Copilot Connectors for tasks […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Companies Fail to Use AI Effectively: Adoption Challenges]]></title>
+        <id>https://365community.online/why-companies-fail-to-use-ai-effectively-adoption-challenges</id>
+        <link href="https://365community.online/why-companies-fail-to-use-ai-effectively-adoption-challenges"/>
+        <updated>2026-06-08T20:39:56.000Z</updated>
+        <summary type="html"><![CDATA[You might expect microsoft copilot or microsoft 365 copilot to boost productivity overnight, but many organizations face adoption gaps because the real challenge lies in your strategy, not the tool. The instant productivity myth often hides deeper issues, such as ignoring data-driven adoption and failing to build a culture of innovation. If your ai or […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why I Switched to the ARTICONA 3×4K USB-C Docking Station — And Won’t Go Back]]></title>
+        <id>https://365community.online/why-i-switched-to-the-articona-3x4k-usb-c-docking-station-and-wont-go-back</id>
+        <link href="https://365community.online/why-i-switched-to-the-articona-3x4k-usb-c-docking-station-and-wont-go-back"/>
+        <updated>2026-06-08T19:05:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’re working with a MacBook and multiple external monitors, you’ve probably run into the same frustrations I did. Let me save you some time. For a while, I was using the Logitech Logi Dock as my central hub. It’s a solid piece of hardware — clean design, good audio integration, and it genuinely simplifies […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open a Power Automate Flow for Edit Without Fixing Broken Connections First]]></title>
+        <id>https://365community.online/open-a-power-automate-flow-for-edit-without-fixing-broken-connections-first</id>
+        <link href="https://365community.online/open-a-power-automate-flow-for-edit-without-fixing-broken-connections-first"/>
+        <updated>2026-06-08T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[While reviewing Power Automate flows recently, we ran into an issue where we could not open a flow in edit mode When opening the flow, Power Automate displayed the “This flow will connect to” screen and requested that we fix one or more connections before proceeding. In our case, the flow contained an Office 365 […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Carry-On That Finally Got It Right: My ARTICONA Compact Trolley Review]]></title>
+        <id>https://365community.online/the-carry-on-that-finally-got-it-right-my-articona-compact-trolley-review</id>
+        <link href="https://365community.online/the-carry-on-that-finally-got-it-right-my-articona-compact-trolley-review"/>
+        <updated>2026-06-08T18:02:00.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been on a lot of flights and trains recently. Family trips to Barcelona, client visits across Germany, conferences and events — my travel schedule is packed, and carry-on luggage is something I’ve quietly obsessed over for years. Too big, and you’re gate-checking it and losing 30 minutes at baggage claim. Too flimsy, and you’re […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From AI Hype to Business Value with Kayode Ajayi [MVP]]]></title>
+        <id>https://365community.online/from-ai-hype-to-business-value-with-kayode-ajayi-mvp</id>
+        <link href="https://365community.online/from-ai-hype-to-business-value-with-kayode-ajayi-mvp"/>
+        <updated>2026-06-08T17:02:11.000Z</updated>
+        <summary type="html"><![CDATA[Artificial Intelligence is everywhere. Every conference keynote, every technology roadmap, every boardroom discussion, and nearly every software announcement seems to revolve around AI. Yet despite the excitement, many organizations are still asking the same question: How do we move beyond AI experimentation and actually create measurable business value?In this episode of the M365 Podcast, host […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Data Governance: Closing the Gap]]></title>
+        <id>https://365community.online/microsoft-365-data-governance-closing-the-gap</id>
+        <link href="https://365community.online/microsoft-365-data-governance-closing-the-gap"/>
+        <updated>2026-06-08T13:21:13.000Z</updated>
+        <summary type="html"><![CDATA[The real governance gap in Microsoft 365 arises when organizations fail to maintain ongoing oversight of how users share, store, and secure information. This gap exposes critical risks, as seen in recent audit failures and widespread lack of visibility. Microsoft Teams often reveals these problems, especially with channel visibility and permission management. The impact is […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Click, Comment, Done: A Better Client Feedback Loop with Studio Code]]></title>
+        <id>https://365community.online/click-comment-done-a-better-client-feedback-loop-with-studio-code</id>
+        <link href="https://365community.online/click-comment-done-a-better-client-feedback-loop-with-studio-code"/>
+        <updated>2026-06-08T10:35:00.000Z</updated>
+        <summary type="html"><![CDATA[I had a great talk with an agency partner, Marco from Arsnova, at the WordPress.com booth at WordCamp Europe a few days ago. Halfway through the conversation, I realized the feature I reach for almost every day would erase one of the most tedious parts of an agency’s job: chasing down client edits one screenshot […]]]></summary>
+        <author>
+            <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Purview Information Protection Overview]]></title>
+        <id>https://365community.online/microsoft-purview-information-protection-overview</id>
+        <link href="https://365community.online/microsoft-purview-information-protection-overview"/>
+        <updated>2026-06-08T09:37:24.000Z</updated>
+        <summary type="html"><![CDATA[You face constant challenges in protecting sensitive data within microsoft 365. Many organizations struggle when their Microsoft MIP Rollout falls short, leaving a gap between perceived safety and real security. You may feel confident about your microsoft environment, but hidden risks remain. Microsoft Purview Information Protection gives you tools to classify and protect data. Take […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Shadow Data Blindspot: Mapping What You Can’t See with Purview]]></title>
+        <id>https://365community.online/the-shadow-data-blindspot-mapping-what-you-cant-see-with-purview</id>
+        <link href="https://365community.online/the-shadow-data-blindspot-mapping-what-you-cant-see-with-purview"/>
+        <updated>2026-06-08T06:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Your data map is supposed to show everything.Yet in most organizations, it only shows the data someone remembered to register.It doesn’t show the forgotten storage account a project team created two years ago. It doesn’t show the customer records copied into a personal OneDrive folder for “temporary analysis.” It doesn’t show abandoned development databases populated […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Power Platform Governance: Best Practices & Security]]></title>
         <id>https://365community.online/power-platform-governance-best-practices-security</id>
