@@ -2,10 +2,208 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-06-11T02:47:32.582Z</updated>
+    <updated>2026-06-12T02:44:28.511Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Is Fidesic the Best AP Automation for Microsoft Dynamics GP and D365 Business Central?]]></title>
+        <id>https://erpsoftwareblog.com/?p=149149</id>
+        <link href="https://erpsoftwareblog.com/2026/06/is-fidesic-the-best-ap-automation-for-microsoft-dynamics-gp-and-d365-business-central/"/>
+        <updated>2026-06-11T20:58:48.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Fidesic is the top AP automation platform for organizations running Microsoft Dynamics GP and D365 Business Central, earning its position through deep native ERP integration, true customization, and a team […]
+The post Is Fidesic the Best AP Automation for Microsoft Dynamics GP and D365 Business Central? appeared first on ERP Software Blog.
+Considering a Microsoft Dynamics GP to D365 Business Central Migration?
+BroadPoint Expands Nonprofit ERP Offering to Benefit Nonprofits With Strategic Acquisition
+How Can Microsoft Dynamics enable better data access with powerful Financial Reporting?]]></summary>
+        <author>
+            <name>Fidesic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jim Lawrence Ironworks: Achieving Warehouse Accuracy and Production Visibility with Business Central and Insight Works Apps]]></title>
+        <id>https://erpsoftwareblog.com/?p=149125</id>
+        <link href="https://erpsoftwareblog.com/2026/06/jim-lawrence-ironworks-achieving-warehouse-accuracy-and-production-visibility-with-business-central-and-insight-works-apps/"/>
+        <updated>2026-06-11T20:23:27.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Download the pdf About Jim Lawrence Ironworks Jim Lawrence Ironworks designs, manufactures, and sells interior fittings from its workshops in Hadleigh, Suffolk. The company designs and hand-finishes a wide range […]
+The post Jim Lawrence Ironworks: Achieving Warehouse Accuracy and Production Visibility with Business Central and Insight Works Apps appeared first on ERP Software Blog.
+Achieving ROI Through Mobile Inventory Automation
+Achieving ROI with a Best-of-Breed Warehouse Management Solution (WMS)
+How construction equipment rental businesses can add dealership to their portfolio]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Custom Data Entities not visible in UDE after deployment]]></title>
+        <id>https://alexvoy.blogspot.com/2026/06/custom-data-entities-not-visible-in-ude.html</id>
+        <link href="https://alexvoy.blogspot.com/2026/06/custom-data-entities-not-visible-in-ude.html"/>
+        <updated>2026-06-11T20:23:11.184Z</updated>
+        <summary type="html"><![CDATA[I experienced the same problem as explained here https://community.dynamics.com/forums/thread/details/?threadid=1b8af6ce-8502-f111-8406-7c1e525b1dbf
+After some check it turned out that my new custom data entities have been added with label references instead of their actual text values (in English). This seems to be the culprit. 
+I cannot see my DEs in the list after refreshing it. And even when I added them manually no fields mappings were generated.
+Once I manually changes their values in ENTITYNAME, they appeared after refreshing and I was able to generate field mappings.
+So, if you have similar issues, connect to your UDE SQL DB, check the names.
+
+
+SELECT DE.* FROM dbo.DMFENTITY AS DE
+
+WHERE de.targetentity like 'YourCustomTableEntity'
+
+
+And fix it by a simple command.
+
+
+update DMFENTITY
+set entityname = 'My custom table entity'
+WHERE targetentity like 'YourCustomTableEntity']]></summary>
+        <author>
+            <name>Adventures in Axapta world</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reducing Administrative Overhead in Microsoft Dynamics 365 Business Central via Pre-Built FSM Connectors]]></title>
+        <id>https://erpsoftwareblog.com/?p=149011</id>
+        <link href="https://erpsoftwareblog.com/2026/06/reducing-administrative-overhead-in-microsoft-dynamics-365-business-central-via-pre-built-fsm-connectors/"/>
+        <updated>2026-06-11T19:20:41.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+For a deeper look at how closing the Business Central field service gap can impact cost, TCO, and ROI, download Praxedo’s full white paper: Beyond the Add-on: Why Best-of-Breed FSM […]
+The post Reducing Administrative Overhead in Microsoft Dynamics 365 Business Central via Pre-Built FSM Connectors appeared first on ERP Software Blog.
+Comparing AP Solutions: Mekorma vs. BILL
+Embedded AP Solutions vs Integrated: What’s Right for Your Team?
+Simplifying Rebate Management: Moving Beyond Excel Spreadsheets]]></summary>
+        <author>
+            <name>Praxedo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elevating Form Usability with Smarter Data Visibility:FastTab Summary in D365FO:]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=4554</id>
+        <link href="https://anithasantosh.wordpress.com/2026/06/11/elevating-form-usability-with-smarter-data-visibilityfasttab-summary-in-d365fo/"/>
+        <updated>2026-06-11T18:24:01.000Z</updated>
+        <summary type="html"><![CDATA[FastTab Summary is one of those subtle but powerful features in D365FO that significantly improves form usability. By surfacing key information directly on collapsed FastTabs, users can quickly scan important data without expanding every section. This small enhancement can dramatically … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inventory Management System Examples: Features, Benefits, and Industry Use Cases]]></title>
+        <id>https://erpsoftwareblog.com/?p=149133</id>
+        <link href="https://erpsoftwareblog.com/2026/06/inventory-management-system-examples-features-benefits-and-industry-use-cases/"/>
+        <updated>2026-06-11T18:11:05.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Inventory plays a huge role in business success. Whether a company sells clothes, electronics, medicine, food, raw materials, or office supplies, it must know what is in stock, where it […]
+The post Inventory Management System Examples: Features, Benefits, and Industry Use Cases appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are Your Biggest Costs Solving Your Biggest Problems?]]></title>
+        <id>https://erpsoftwareblog.com/?p=149122</id>
+        <link href="https://erpsoftwareblog.com/2026/06/are-your-biggest-costs-solving-your-biggest-problems/"/>
+        <updated>2026-06-11T14:56:54.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The Question Every Business Leader Should Ask Most organizations closely monitor their expenses. They track labor costs, software subscriptions, infrastructure spending, consulting fees, and operational overhead. Every budget cycle focuses […]
+The post Are Your Biggest Costs Solving Your Biggest Problems?  appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dax software solutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eliminate Business Central Warehouse Posting Delays]]></title>
+        <id>https://erpsoftwareblog.com/?p=147568</id>
+        <link href="https://erpsoftwareblog.com/2026/06/eliminate-business-central-warehouse-posting-delays/"/>
+        <updated>2026-06-11T14:46:38.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Lasted Updated: June 2026 Four dock doors. Three receiving clerks. One posting slot. That's the math that's been quietly grinding distribution centers down for years. Microsoft Dynamics 365 Business Central’s […]
+The post Eliminate Business Central Warehouse Posting Delays appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
+Getting in Tune with the Shop Floor with Microsoft Dynamics 365 for Manufacturing
+How Microsoft Dynamics 365 Can Transform Your Manufacturing Business]]></summary>
+        <author>
+            <name>CAL Business Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Artificial Intelligence… Really? And Why Is AI Everywhere Now?]]></title>
+        <id>https://erpsoftwareblog.com/?p=149112</id>
+        <link href="https://erpsoftwareblog.com/2026/06/why-is-ai-everywhere-now/"/>
+        <updated>2026-06-11T14:14:42.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Milestones in AI History That Shaped the Future As of 2025, AI has been around for about 70 years. Long before it became the buzzword of today, AI goes as […]
+The post What Is Artificial Intelligence… Really? And Why Is AI Everywhere Now? appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Vffice Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Safe D365 Environment Replication Protects Partner Margins]]></title>
+        <id>https://erpsoftwareblog.com/?p=149111</id>
+        <link href="https://erpsoftwareblog.com/2026/06/how-safe-d365-environment-replication-protects-partner-margins/"/>
+        <updated>2026-06-11T14:08:52.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Safe D365 environment replication protects partner margins by reducing rework, preventing unstable test environments, and eliminating the delivery risk that uncontrolled clones introduce into D365 Finance and Operations projects. Margin […]
+The post How Safe D365 Environment Replication Protects Partner Margins appeared first on ERP Software Blog.
+Overcome Tax Management Challenges by Leveraging Microsoft Dynamics 365 Automation
+The Product-as-a-Service advantage — a potential game-changer for equipment manufacturers
+Integrated Planning with deFacto Power Planning - Webinar]]></summary>
+        <author>
+            <name>Steven Settle, Ryse Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Your Business Drowning in Data? Simple Guide to Microsoft Fabric]]></title>
+        <id>https://erpsoftwareblog.com/?p=149085</id>
+        <link href="https://erpsoftwareblog.com/2026/06/is-your-business-drowning-in-data-simple-guide-to-microsoft-fabric/"/>
+        <updated>2026-06-11T09:54:50.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Let’s start with a simple question. How many hours did your team spend this week copying and pasting numbers into spreadsheets? For business leaders in manufacturing, retail or distribution, the […]
+The post Is Your Business Drowning in Data? Simple Guide to Microsoft Fabric appeared first on ERP Software Blog.
+Custom Tech Solutions for Salesforce with Microsoft Power Platform
+Microsoft Dynamics 365 Customer Insights: 6 Reasons to Switch
+Introducing deFacto POWER Planning]]></summary>
+        <author>
+            <name>Intech Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Configure Business Central for Manufacturing: A Complete Setup Guide]]></title>
+        <id>https://erpsoftwareblog.com/?p=149037</id>
+        <link href="https://erpsoftwareblog.com/2026/06/how-to-configure-business-central-for-manufacturing/"/>
+        <updated>2026-06-11T09:31:47.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Getting Business Central live for manufacturing is not just an installation task. The configuration decisions you make during setup on item cards, BOMs, routings, planning parameters, and costing directly shape […]
+The post How to Configure Business Central for Manufacturing: A Complete Setup Guide appeared first on ERP Software Blog.
+5 Steps to a Successful Implementation of Your New Accounting System
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
+        <author>
+            <name>Folio3 Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Conversation Orchestration in Dynamics 365 Contact Center]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=202335</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/10/conversation-orchestration-dynamics-365-contact-center/"/>
+        <updated>2026-06-11T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Conversation Orchestration in Dynamics 365 Contact Center enables real-time decisioning, dynamic prioritization, and intelligent automation across every customer interaction.
+The post Introducing Conversation Orchestration in Dynamics 365 Contact Center  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Kumar Ashutosh (Ashu) and Saurabh Jain</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Chatbots for Enterprise: Use Cases and Best Practices]]></title>
         <id>https://365community.online/ai-chatbots-for-enterprise-use-cases-and-best-practices</id>
@@ -113833,104 +114031,6 @@ Can your business spend less on sales tax compliance?
 Connect with Avalara at Community Summit NA]]></summary>
         <author>
             <name>Avalara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Comprehensive Guide to Microsoft Cloud for Nonprofit]]></title>
-        <id>https://erpsoftwareblog.com/?p=107729</id>
-        <link href="https://erpsoftwareblog.com/2024/06/microsoft-cloud-for-nonprofit-guide/"/>
-        <updated>2024-06-12T12:11:24.000Z</updated>
-        <summary type="html"><![CDATA[A study by National Council of Nonprofits revealed that only 18% of the nonprofit organizations had all the data they needed and used it in almost every decision they made. […]
-The post A Comprehensive Guide to Microsoft Cloud for Nonprofit appeared first on ERP Software Blog.
-New White Paper: 25 Brilliant Ideas to Outsmart Your Competition with Microsoft Dynamics ERP
-NEW White Paper:  Automated Product Recalls are Critical to Protecting Your Brand and Corporate Image
-What We Predict From Microsoft Dynamics ERP in 2015]]></summary>
-        <author>
-            <name>Dynamics Square USA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Cash Flow Problems Caused by Microsoft Dynamics GP Commission Tools]]></title>
-        <id>https://erpsoftwareblog.com/?p=107705</id>
-        <link href="https://erpsoftwareblog.com/2024/06/3-cash-flow-problems-caused-by-microsoft-dynamics-gp-commission-tools/"/>
-        <updated>2024-06-12T11:15:19.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Dynamics GP commission tools may be working against you With the tight margins in today’s ever-changing business landscape, it is now more important than ever to make sure any […]
-The post 3 Cash Flow Problems Caused by Microsoft Dynamics GP Commission Tools appeared first on ERP Software Blog.
-Use This Playbook to Create a Commission Payment Plan That Wins Every Time
-19 Limitations in Microsoft Dynamics GP Variable Compensation Capabilities
-Business intelligence - its contagious!]]></summary>
-        <author>
-            <name>EthoTech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Cloud Technology Simplifies Complexities and Secures Data in Financial Services?]]></title>
-        <id>https://erpsoftwareblog.com/?p=107726</id>
-        <link href="https://erpsoftwareblog.com/2024/06/how-cloud-technology-simplifies-complexities-and-secures-data-in-financial-services/"/>
-        <updated>2024-06-12T08:55:50.000Z</updated>
-        <summary type="html"><![CDATA[The financial services industry pulsates with intricate processes, mammoth data volumes, and an unwavering commitment to security. In this dynamic landscape, traditional IT infrastructure often struggles to keep pace, weighed […]
-The post How Cloud Technology Simplifies Complexities and Secures Data in Financial Services? appeared first on ERP Software Blog.
-Valor Brands Puts its Trust in OmniVue’s Hosted Microsoft Dynamics Solution
-NetSuite vs. Microsoft Dynamics GP:  Truth, Consequences, and Industry Analysis – Oh My!
-Run Your Business, Not Your Technology]]></summary>
-        <author>
-            <name>Dynamics Square UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Use MFA in a Dynamics 365 Payment Portal]]></title>
-        <id>https://erpsoftwareblog.com/?p=107451</id>
-        <link href="https://erpsoftwareblog.com/2024/06/how-to-use-mfa-in-a-dynamics-365-payment-portal/"/>
-        <updated>2024-06-12T00:01:44.000Z</updated>
-        <summary type="html"><![CDATA[Security: everyone wants it, but with hacking, trolling, ransomware, and cybercrime rising, some companies may fear losing the battle. We see headlines and warnings about the risks inherent in using […]
-The post How To Use MFA in a Dynamics 365 Payment Portal appeared first on ERP Software Blog.
-Taming the DCAA Beast: How Microsoft Dynamics 365 Finance Can Simplify Compliance
-Why Should You Consider Dynamics 365 Finance and Operations Implementation?
-Increase your to-order close rates with online quote configuration (with webinar recording)]]></summary>
-        <author>
-            <name>Red Maple</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Companies Need an  Accountant To Implement Microsoft Dynamics]]></title>
-        <id>https://erpsoftwareblog.com/?p=107581</id>
-        <link href="https://erpsoftwareblog.com/2024/06/why-companies-need-an-accountant-to-implement-microsoft-dynamics/"/>
-        <updated>2024-06-11T23:55:06.000Z</updated>
-        <summary type="html"><![CDATA[When hiring a Microsoft Dynamics GP or Business Central consultant, what is more important, technical or accounting skills? The answer is both. If you look at the websites of a […]
-The post Why Companies Need an  Accountant To Implement Microsoft Dynamics appeared first on ERP Software Blog.
-Dynamics 365 Business Central and Industry-Tailored Functionality
-Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
-Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve]]></summary>
-        <author>
-            <name>DLD Business Solutions, Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tablets vs. Mobile Computers: What’s best for Business Central?]]></title>
-        <id>https://erpsoftwareblog.com/?p=107689</id>
-        <link href="https://erpsoftwareblog.com/2024/06/tablets-vs-mobile-computers-whats-best-for-business-central/"/>
-        <updated>2024-06-11T19:37:27.000Z</updated>
-        <summary type="html"><![CDATA[The question of choosing “Tablets versus Mobile Computers” is a commonly asked one that directly impacts inventory management efficiency and data processing, especially for Microsoft Dynamics 365 Business Central users.
-The post Tablets vs. Mobile Computers: What’s best for Business Central? appeared first on ERP Software Blog.
-“Readers Digest” Version of the LEAN Enterprise
-Everything is Taxable until Proven Otherwise
-Baker’s Dozen of WMS (Warehouse Management System) Acronyms Defined]]></summary>
-        <author>
-            <name>Insight Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compare 5 Awesome eCommerce Add-Ons for Microsoft Dynamics 365 Business Central]]></title>
-        <id>https://erpsoftwareblog.com/?p=107603</id>
-        <link href="https://erpsoftwareblog.com/2024/06/compare-5-awesome-ecommerce-add-ons-for-microsoft-dynamics-365-business-central/"/>
-        <updated>2024-06-11T18:58:50.000Z</updated>
-        <summary type="html"><![CDATA[Does your business sell online? You can lay a strong foundation for growth with Microsoft Dynamics 365 Business Central. However, leveraging additional tools alongside Microsoft Dynamics 365 Business Central is […]
-The post Compare 5 Awesome eCommerce Add-Ons for Microsoft Dynamics 365 Business Central appeared first on ERP Software Blog.
-Dynamics 365 Business Central and Industry-Tailored Functionality
-Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
-Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve]]></summary>
-        <author>
-            <name>ERP Software Blog Writer</name>
         </author>
     </entry>
     <entry>
