@@ -40601,6 +40601,106 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/microsoft-365-copilot-training",
+          "author": "Mirko Peters",
+          "description": "You no longer need to rely on static manuals or scheduled workshops to master Microsoft 365. Microsoft Copilot uses AI to deliver real-time, in-the-flow learning that adapts as you work. When you use Copilot, you receive embedded, contextual guidance that helps you complete tasks faster and boosts productivity. “I just completed a task in Word […]",
+          "link": "https://365community.online/microsoft-365-copilot-training",
+          "publishedOn": "2026-06-15T00:38:31.000Z",
+          "wordCount": 7453,
+          "title": "Microsoft 365 Copilot Training",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1781483911_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/jira-and-microsoft-teams-integration-atlassian-support-for-your-team",
+          "author": "Mirko Peters",
+          "description": "You can now transform IT support by integrating Jira Service Management with Microsoft Teams. This integration lets you submit tickets directly in Teams, which speeds up issue resolution and keeps you focused on your work. You stay in the flow of conversation while your IT team manages requests without switching tools. See how this boosts […]",
+          "link": "https://365community.online/jira-and-microsoft-teams-integration-atlassian-support-for-your-team",
+          "publishedOn": "2026-06-14T20:52:24.000Z",
+          "wordCount": 7698,
+          "title": "Jira and Microsoft Teams Integration: Atlassian Support for Your Team",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1781470344_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-copilot-adoption-fails-why-how-to-fix-it",
+          "author": "Mirko Peters",
+          "description": "You may wonder why Microsoft Copilot Fails to meet expectations for many users. High costs, confusing licensing, and complex onboarding often prevent you from seeing immediate value. Many employees do not realize they have access to Microsoft Copilot or lack the skills to use it well. Concerns about data quality, privacy, and output accuracy also […]",
+          "link": "https://365community.online/microsoft-copilot-adoption-fails-why-how-to-fix-it",
+          "publishedOn": "2026-06-14T17:19:08.000Z",
+          "wordCount": 6499,
+          "title": "Microsoft Copilot Adoption Fails: Why & How to Fix It",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1781457548_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-365-guest-access-governance-and-user-management",
+          "author": "Mirko Peters",
+          "description": "You need strong guest account governance in Microsoft 365 to keep your data safe. Unchecked guest accounts can lead to a silent guest pile-up, exposing your 365 environment to risk. Many organizations overlook guest user management, which can create compliance issues and make it hard to track who has access. With proper guest management and […]",
+          "link": "https://365community.online/microsoft-365-guest-access-governance-and-user-management",
+          "publishedOn": "2026-06-14T13:38:28.000Z",
+          "wordCount": 8052,
+          "title": "Microsoft 365 Guest Access Governance and User Management",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1781444309_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/scale-ai-with-microsoft-365-copilot-and-agents",
+          "author": "Mirko Peters",
+          "description": "You see the need to scale ai in your microsoft 365 environment grow every day. Recent studies show that microsoft 365 copilot boosts productivity—employees save time and work faster on documents. EY’s adoption of copilot has sparked transformation in both employee performance and client service. Microsoft Copilot Agents give you control and oversight, helping your […]",
+          "link": "https://365community.online/scale-ai-with-microsoft-365-copilot-and-agents",
+          "publishedOn": "2026-06-14T09:50:32.000Z",
+          "wordCount": 7186,
+          "title": "Scale AI with Microsoft 365 Copilot and Agents",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1781430632_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-death-of-the-dropdown-why-manual-tagging-is-killing-your-governance",
+          "author": "Mirko Peters",
+          "description": "or years, organizations believed metadata governance was a training problem.If users understood the taxonomy better, governance would improve.If the dropdown lists were clearer, metadata quality would improve.If more communication and documentation were provided, compliance would improve.But what if the problem was never the user?What if the real problem is that governance logic was placed in […]",
+          "link": "https://365community.online/the-death-of-the-dropdown-why-manual-tagging-is-killing-your-governance",
+          "publishedOn": "2026-06-14T06:04:35.000Z",
+          "wordCount": 2962,
+          "title": "The Death of the Dropdown: Why Manual Tagging is Killing Your Governance",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/f5a5886831e033d1cd7c79e163d4ff21.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/manage-microsoft-365-with-powershell",
+          "author": "Mirko Peters",
+          "description": "PowerShell gives you powerful tools to manage Microsoft 365. With PowerShell, you automate tasks and gain advanced control over your Microsoft environment. You complete user administration, automate license assignments, and monitor security across your Microsoft 365 tenant with speed and accuracy. PowerShell reduces manual effort, scales with your needs, and helps you handle complex Microsoft […]",
+          "link": "https://365community.online/manage-microsoft-365-with-powershell",
+          "publishedOn": "2026-06-13T13:33:39.000Z",
+          "wordCount": 8535,
+          "title": "Manage Microsoft 365 with PowerShell",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1781357620_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/stairway-to-dataverse-heaven-governance-business-skills",
+          "author": "Angeliki Patsiavou",
+          "description": "In the last blog post, I covered how Copilot Studio really accesses Dataverse through various lenses with the Dataverse Knowledge Source, Dataverse Connector and Dataverse MCP Server. From the way the core model works, to the way inputs and outputs are managed, schema awareness, CRUD support and bound/ unbound actions. Here is what the summary […]",
+          "link": "https://365community.online/stairway-to-dataverse-heaven-governance-business-skills",
+          "publishedOn": "2026-06-13T13:27:00.000Z",
+          "wordCount": 3080,
+          "title": "Stairway to Dataverse Heaven – Governance & Business Skills",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/d7196d_d22e51a11e9e47f4ad1c2494f2779947mv2.gif?fit=500%2C296&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-365-task-management-planner-vs-microsoft-planner",
+          "author": "Mirko Peters",
+          "description": "You often feel lost in the M365 Task Jungle when you try to manage tasks across microsoft 365. Many users struggle to decide which microsoft tool fits their needs. You might wonder which microsoft 365 task management tool supports your workflow best. Task Management Explained helps you understand each microsoft option. Consider your team and […]",
+          "link": "https://365community.online/microsoft-365-task-management-planner-vs-microsoft-planner",
+          "publishedOn": "2026-06-13T10:05:39.000Z",
+          "wordCount": 10801,
+          "title": "Microsoft 365 Task Management: Planner vs Microsoft Planner",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1781345140_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-365-task-management-planner-vs-microsoft-planner-2",
+          "author": "Mirko Peters",
+          "description": "You often feel lost in the M365 Task Jungle when you try to manage tasks across microsoft 365. Many users struggle to decide which microsoft tool fits their needs. You might wonder which microsoft 365 task management tool supports your workflow best. Task Management Explained helps you understand each microsoft option. Consider your team and […]",
+          "link": "https://365community.online/microsoft-365-task-management-planner-vs-microsoft-planner-2",
+          "publishedOn": "2026-06-13T10:05:39.000Z",
+          "wordCount": 10800,
+          "title": "Microsoft 365 Task Management: Planner vs Microsoft Planner",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1781345140_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
           "id": "https://365community.online/microsoft-places-exposes-the-hybrid-work-mess-how-to-fix-empty-offices-random-on-site-days-and-broken-hybrid-coordination",
           "author": "Mirko Peters",
           "description": "Microsoft Places Exposes the Hybrid Work MessYou show up at the office and realize you’re the only one there—or you stay home and discover the meeting was in‑person after all. Hybrid work was supposed to bring flexibility, but without coordination it has turned into a scheduling lottery that wastes time, space and energy for everyone […]",

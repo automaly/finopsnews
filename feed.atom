@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-06-14T02:48:49.258Z</updated>
+    <updated>2026-06-15T02:53:20.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Copilot Training]]></title>
+        <id>https://365community.online/microsoft-365-copilot-training</id>
+        <link href="https://365community.online/microsoft-365-copilot-training"/>
+        <updated>2026-06-15T00:38:31.000Z</updated>
+        <summary type="html"><![CDATA[You no longer need to rely on static manuals or scheduled workshops to master Microsoft 365. Microsoft Copilot uses AI to deliver real-time, in-the-flow learning that adapts as you work. When you use Copilot, you receive embedded, contextual guidance that helps you complete tasks faster and boosts productivity. “I just completed a task in Word […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jira and Microsoft Teams Integration: Atlassian Support for Your Team]]></title>
+        <id>https://365community.online/jira-and-microsoft-teams-integration-atlassian-support-for-your-team</id>
+        <link href="https://365community.online/jira-and-microsoft-teams-integration-atlassian-support-for-your-team"/>
+        <updated>2026-06-14T20:52:24.000Z</updated>
+        <summary type="html"><![CDATA[You can now transform IT support by integrating Jira Service Management with Microsoft Teams. This integration lets you submit tickets directly in Teams, which speeds up issue resolution and keeps you focused on your work. You stay in the flow of conversation while your IT team manages requests without switching tools. See how this boosts […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot Adoption Fails: Why & How to Fix It]]></title>
+        <id>https://365community.online/microsoft-copilot-adoption-fails-why-how-to-fix-it</id>
+        <link href="https://365community.online/microsoft-copilot-adoption-fails-why-how-to-fix-it"/>
+        <updated>2026-06-14T17:19:08.000Z</updated>
+        <summary type="html"><![CDATA[You may wonder why Microsoft Copilot Fails to meet expectations for many users. High costs, confusing licensing, and complex onboarding often prevent you from seeing immediate value. Many employees do not realize they have access to Microsoft Copilot or lack the skills to use it well. Concerns about data quality, privacy, and output accuracy also […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Guest Access Governance and User Management]]></title>
+        <id>https://365community.online/microsoft-365-guest-access-governance-and-user-management</id>
+        <link href="https://365community.online/microsoft-365-guest-access-governance-and-user-management"/>
+        <updated>2026-06-14T13:38:28.000Z</updated>
+        <summary type="html"><![CDATA[You need strong guest account governance in Microsoft 365 to keep your data safe. Unchecked guest accounts can lead to a silent guest pile-up, exposing your 365 environment to risk. Many organizations overlook guest user management, which can create compliance issues and make it hard to track who has access. With proper guest management and […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scale AI with Microsoft 365 Copilot and Agents]]></title>
+        <id>https://365community.online/scale-ai-with-microsoft-365-copilot-and-agents</id>
+        <link href="https://365community.online/scale-ai-with-microsoft-365-copilot-and-agents"/>
+        <updated>2026-06-14T09:50:32.000Z</updated>
+        <summary type="html"><![CDATA[You see the need to scale ai in your microsoft 365 environment grow every day. Recent studies show that microsoft 365 copilot boosts productivity—employees save time and work faster on documents. EY’s adoption of copilot has sparked transformation in both employee performance and client service. Microsoft Copilot Agents give you control and oversight, helping your […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Death of the Dropdown: Why Manual Tagging is Killing Your Governance]]></title>
+        <id>https://365community.online/the-death-of-the-dropdown-why-manual-tagging-is-killing-your-governance</id>
+        <link href="https://365community.online/the-death-of-the-dropdown-why-manual-tagging-is-killing-your-governance"/>
+        <updated>2026-06-14T06:04:35.000Z</updated>
+        <summary type="html"><![CDATA[or years, organizations believed metadata governance was a training problem.If users understood the taxonomy better, governance would improve.If the dropdown lists were clearer, metadata quality would improve.If more communication and documentation were provided, compliance would improve.But what if the problem was never the user?What if the real problem is that governance logic was placed in […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manage Microsoft 365 with PowerShell]]></title>
+        <id>https://365community.online/manage-microsoft-365-with-powershell</id>
+        <link href="https://365community.online/manage-microsoft-365-with-powershell"/>
+        <updated>2026-06-13T13:33:39.000Z</updated>
+        <summary type="html"><![CDATA[PowerShell gives you powerful tools to manage Microsoft 365. With PowerShell, you automate tasks and gain advanced control over your Microsoft environment. You complete user administration, automate license assignments, and monitor security across your Microsoft 365 tenant with speed and accuracy. PowerShell reduces manual effort, scales with your needs, and helps you handle complex Microsoft […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stairway to Dataverse Heaven – Governance & Business Skills]]></title>
+        <id>https://365community.online/stairway-to-dataverse-heaven-governance-business-skills</id>
+        <link href="https://365community.online/stairway-to-dataverse-heaven-governance-business-skills"/>
+        <updated>2026-06-13T13:27:00.000Z</updated>
+        <summary type="html"><![CDATA[In the last blog post, I covered how Copilot Studio really accesses Dataverse through various lenses with the Dataverse Knowledge Source, Dataverse Connector and Dataverse MCP Server. From the way the core model works, to the way inputs and outputs are managed, schema awareness, CRUD support and bound/ unbound actions. Here is what the summary […]]]></summary>
+        <author>
+            <name>Angeliki Patsiavou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Task Management: Planner vs Microsoft Planner]]></title>
+        <id>https://365community.online/microsoft-365-task-management-planner-vs-microsoft-planner</id>
+        <link href="https://365community.online/microsoft-365-task-management-planner-vs-microsoft-planner"/>
+        <updated>2026-06-13T10:05:39.000Z</updated>
+        <summary type="html"><![CDATA[You often feel lost in the M365 Task Jungle when you try to manage tasks across microsoft 365. Many users struggle to decide which microsoft tool fits their needs. You might wonder which microsoft 365 task management tool supports your workflow best. Task Management Explained helps you understand each microsoft option. Consider your team and […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Task Management: Planner vs Microsoft Planner]]></title>
+        <id>https://365community.online/microsoft-365-task-management-planner-vs-microsoft-planner-2</id>
+        <link href="https://365community.online/microsoft-365-task-management-planner-vs-microsoft-planner-2"/>
+        <updated>2026-06-13T10:05:39.000Z</updated>
+        <summary type="html"><![CDATA[You often feel lost in the M365 Task Jungle when you try to manage tasks across microsoft 365. Many users struggle to decide which microsoft tool fits their needs. You might wonder which microsoft 365 task management tool supports your workflow best. Task Management Explained helps you understand each microsoft option. Consider your team and […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Places Exposes the Hybrid Work Mess: How to Fix Empty Offices, Random On‑Site Days and Broken Hybrid Coordination]]></title>
         <id>https://365community.online/microsoft-places-exposes-the-hybrid-work-mess-how-to-fix-empty-offices-random-on-site-days-and-broken-hybrid-coordination</id>
