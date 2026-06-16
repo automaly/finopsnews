@@ -2,10 +2,121 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-06-15T02:53:20.631Z</updated>
+    <updated>2026-06-16T02:54:28.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Task Management]]></title>
+        <id>https://365community.online/microsoft-365-task-management</id>
+        <link href="https://365community.online/microsoft-365-task-management"/>
+        <updated>2026-06-16T01:45:40.000Z</updated>
+        <summary type="html"><![CDATA[You might feel buried under Microsoft 365 Tasks. Managing your work can seem impossible when you face so many apps at once. You juggle tools such as: Microsoft To Do Microsoft Planner Tasks in Microsoft Teams Microsoft Lists Microsoft Bookings This mix can confuse anyone. You are not alone in this struggle. With the right […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SharePoint Knowledge Management: Best Practices & Examples]]></title>
+        <id>https://365community.online/sharepoint-knowledge-management-best-practices-examples</id>
+        <link href="https://365community.online/sharepoint-knowledge-management-best-practices-examples"/>
+        <updated>2026-06-15T22:00:33.000Z</updated>
+        <summary type="html"><![CDATA[You set up effective knowledge management in SharePoint by organizing content with clear navigation, using lifecycle management to keep information current, and applying strong metadata. If you ignore these steps, SharePoint can become a digital junkyard with lost files or disorganized content. You may face complexity in setup, poor search results, and challenges with maintenance. […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How We Successfully Removed the Resco Woodford Managed Solution from Dynamics 365 Field Service]]></title>
+        <id>https://365community.online/how-we-successfully-removed-the-resco-woodford-managed-solution-from-dynamics-365-field-service</id>
+        <link href="https://365community.online/how-we-successfully-removed-the-resco-woodford-managed-solution-from-dynamics-365-field-service"/>
+        <updated>2026-06-15T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently, we needed to remove the legacy Resco MobileCRM (Woodford) managed solution from a Dynamics 365 Field Service environment. Although the uninstall initially appeared straightforward, when we attempted to uninstall the Woodford solution, Dynamics 365 displayed a list of dependencies that needed to be addressed before. The dependencies included references from model-driven apps, site maps, […]]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-5 in Microsoft 365 Copilot: The AI Future is Here]]></title>
+        <id>https://365community.online/gpt-5-in-microsoft-365-copilot-the-ai-future-is-here</id>
+        <link href="https://365community.online/gpt-5-in-microsoft-365-copilot-the-ai-future-is-here"/>
+        <updated>2026-06-15T18:20:22.000Z</updated>
+        <summary type="html"><![CDATA[With Copilot GPT-5 in Microsoft 365, you unlock a new level of productivity thanks to advanced Copilot GPT-5 features. This intelligent AI assistant understands your intent and adapts to your unique workflow, minimizing micro-frictions and helping you work more efficiently across Word, Excel, PowerPoint, and Outlook. Copilot GPT-5 features empower you with smart suggestions that […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Multi-Agent AI Systems with Copilot Studio: From Ideas to Intelligent Automation with David Lorenzo Lopez [MVP]]]></title>
+        <id>https://365community.online/building-multi-agent-ai-systems-with-copilot-studio-from-ideas-to-intelligent-automation-with-david-lorenzo-lopez-mvp</id>
+        <link href="https://365community.online/building-multi-agent-ai-systems-with-copilot-studio-from-ideas-to-intelligent-automation-with-david-lorenzo-lopez-mvp"/>
+        <updated>2026-06-15T14:51:02.000Z</updated>
+        <summary type="html"><![CDATA[Artificial Intelligence is rapidly evolving from simple chatbots into sophisticated multi-agent systems capable of automating complex business processes, collaborating across services, and delivering real business value. In this episode of the M365 Podcast, Mirko Peters sits down with Microsoft MVP David Lorenzo Lopez to explore the future of intelligent automation and how organizations can leverage […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does the Deny Permission Impact User Licensing in D365FSC?]]></title>
+        <id>https://alexdmeyer.com/?p=3991</id>
+        <link href="https://alexdmeyer.com/2026/06/15/how-does-the-deny-permission-impact-user-licensing-in-d365fsc/"/>
+        <updated>2026-06-15T13:47:20.000Z</updated>
+        <summary type="html"><![CDATA[The ‘Deny’ permission can be an extremely powerful tool to ensure compliance within D365FSC, but what impact does it have on licensing? I wrote about this topic a few years ago but figured it was time to revisit this with the new licensing methodology within D365FSC. Testing Scenarios For my testing I wanted to find […]
+The post How Does the Deny Permission Impact User Licensing in D365FSC? appeared first on Alex Meyer.]]></summary>
+        <author>
+            <name>Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does the Deny Permission Impact User Licensing in D365FSC?]]></title>
+        <id>https://365community.online/how-does-the-deny-permission-impact-user-licensing-in-d365fsc</id>
+        <link href="https://365community.online/how-does-the-deny-permission-impact-user-licensing-in-d365fsc"/>
+        <updated>2026-06-15T13:47:00.000Z</updated>
+        <summary type="html"><![CDATA[The ‘Deny’ permission can be an extremely powerful tool to ensure compliance within D365FSC, but what impact does it have on licensing? I wrote about this topic a few years ago but figured it was time to revisit this with the new licensing methodology within D365FSC. Testing Scenarios For my testing I wanted to find […]]]></summary>
+        <author>
+            <name>Alex Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teams: Team or Channel Missing/Disappeared]]></title>
+        <id>https://365community.online/microsoft-teams-team-or-channel-missing-disappeared</id>
+        <link href="https://365community.online/microsoft-teams-team-or-channel-missing-disappeared"/>
+        <updated>2026-06-15T11:06:26.000Z</updated>
+        <summary type="html"><![CDATA[You may feel overwhelmed by changes in Microsoft 365, especially after the recent updates to Microsoft Teams. When familiar tabs move or the layout shifts, you might worry about losing important data or slowing down your work. Many organizations find success when they use tools that support collaboration and protect information at the same time. […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Copilot Deployment: Addressing the Failures & Problems]]></title>
+        <id>https://365community.online/microsoft-365-copilot-deployment-addressing-the-failures-problems</id>
+        <link href="https://365community.online/microsoft-365-copilot-deployment-addressing-the-failures-problems"/>
+        <updated>2026-06-15T07:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Many people believe that a technical deployment means success. You might see high login numbers or full Teams channels and think your M365 Rollout is complete. True progress goes deeper. Real adoption requires a shift in how people work together and share ideas. Take a moment to consider your own m365 journey. Are you seeing […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Rise of Private LoRA: Architecting Secure AI on Proprietary Data]]></title>
+        <id>https://365community.online/the-rise-of-private-lora-architecting-secure-ai-on-proprietary-data</id>
+        <link href="https://365community.online/the-rise-of-private-lora-architecting-secure-ai-on-proprietary-data"/>
+        <updated>2026-06-15T04:14:28.000Z</updated>
+        <summary type="html"><![CDATA[Everyone is talking about AI adoption. Far fewer are talking about AI sovereignty. Organizations have rushed to deploy Microsoft Copilot, Azure OpenAI, ChatGPT Enterprise, Claude, Gemini, and dozens of AI-powered productivity tools. The results have been impressive. Productivity has increased. Development cycles have accelerated. Knowledge discovery has improved. But beneath the excitement lies a growing […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Smarter AI Agents in Business Central: Lessons from My Optimization Journey]]></title>
+        <id>https://365community.online/building-smarter-ai-agents-in-business-central-lessons-from-my-optimization-journey</id>
+        <link href="https://365community.online/building-smarter-ai-agents-in-business-central-lessons-from-my-optimization-journey"/>
+        <updated>2026-06-15T04:06:00.000Z</updated>
+        <summary type="html"><![CDATA[As AI agents become part of everyday development workflows, one topic is becoming increasingly important: how efficiently those agents use AI resources. Recent changes across AI developer platforms have made consumption, efficiency, and cost management a bigger consideration for teams building AI-powered solutions. This made me look more closely at something I was already experiencing […]]]></summary>
+        <author>
+            <name>Amol Salvi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Copilot Training]]></title>
         <id>https://365community.online/microsoft-365-copilot-training</id>
@@ -113992,41 +114103,6 @@ What is Cloud ERP and What are the Benefits?
 Top 5 Microsoft Dynamics 365 Business Central Features]]></summary>
         <author>
             <name>Written by Steve Simon, PDG Consultants, Inc., www.prettydarngood.com.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BatchRetryable Individual Task Modeled Batch Job Example]]></title>
-        <id>1698 at https://www.atomicax.com</id>
-        <link href="https://www.atomicax.com/blog-entry/batchretryable-individual-task-modeled-batch-job-example"/>
-        <updated>2024-06-15T01:16:48.000Z</updated>
-        <summary type="html"><![CDATA[BatchRetryable Individual Task Modeled Batch Job Example
-
-
-
-
-
-
-06/14/24
-
-
-
-
-
-
-
-
-
-
-
-
-    
-Batch      
-Individual Task Modeling      
-
-BatchRetryable With lots of Individual tasks from 1 batch job
-I recently presented at DynamicsMinds on batch jobs and how to design them for specific types of workloads. There was interest in code samples so this in one of those code samples talking about Individual task modeling with a review. Individual task modeling is an approach in task management and scheduling where each work item or unit of work is represented as a separate, individual task. This means that instead of grouping multiple work items into a single task, each work item gets its own distinct task. What this means when modeling tasks, we will create a task for each work item, resulting in a …]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
         </author>
     </entry>
     <entry>
