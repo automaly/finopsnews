@@ -2,10 +2,128 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-06-17T02:51:15.714Z</updated>
+    <updated>2026-06-18T02:46:28.954Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Growing Businesses Need Custom AI Agents in Business Central Now]]></title>
+        <id>https://erpsoftwareblog.com/?p=149382</id>
+        <link href="https://erpsoftwareblog.com/2026/06/why-growing-businesses-need-custom-ai-agents-in-business-central-now/"/>
+        <updated>2026-06-17T21:33:14.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Growing mid-sized organizations sit at a unique crossroads. They have outgrown the manual processes that carried them through their early years, yet they rarely have the headcount or the development […]
+The post Why Growing Businesses Need Custom AI Agents in Business Central Now appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
+Create a Closed-Loop Analysis, Planning, and Reporting Process
+How can Microsoft Dynamics track more Financial Data in the Cloud in 2018?]]></summary>
+        <author>
+            <name>KTL Solutions, Inc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The formal parameter was not declared as an output parameter – D365FO Error after DB restore]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=4627</id>
+        <link href="https://anithasantosh.wordpress.com/2026/06/17/the-formal-parameter-was-not-declared-as-an-output-parameter-d365fo-error-after-db-restore/"/>
+        <updated>2026-06-17T20:07:09.000Z</updated>
+        <summary type="html"><![CDATA[After the database restore, we might face the following error ‘The formal parameter was not declared as an OUTPUT parameter, but the actual parameter passed in the requested output’ Given below one error where it says something about ‘getNumInternalWithNoBlocking’ Few … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Counting Inventory in Business Central: Faster Counts, Fewer Errors]]></title>
+        <id>https://erpsoftwareblog.com/?p=149289</id>
+        <link href="https://erpsoftwareblog.com/2026/06/counting-inventory-in-business-central-faster-counts-fewer-errors-2/"/>
+        <updated>2026-06-17T19:53:26.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+  Inventory counting in Business Central can be inefficient when multiple count teams and complex inventory tracking are involved. This discussion highlights ways to streamline the full cycle count process, […]
+The post Counting Inventory in Business Central: Faster Counts, Fewer Errors appeared first on ERP Software Blog.
+License Plating v1.97: Transforming Warehouse Management in Business Central
+Top 10 Reasons to Use Business Central’s License Plating App
+Business Central’s Most Trusted License Plating App, a Five-Star Rating on AppSource]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silent Imports, Loud Insights — How DIXF Telemetry + App Insights Transform D365FO Diagnostics]]></title>
+        <id>http://anithasantosh.wordpress.com/?p=4584</id>
+        <link href="https://anithasantosh.wordpress.com/2026/06/17/d365fo-troubleshooters-radar-how-application-insights-exposes-hidden-failures/"/>
+        <updated>2026-06-17T17:39:43.000Z</updated>
+        <summary type="html"><![CDATA[In my earlier post ,I had given a walkthrough of configuring Telemetry in D365FO and tracing the logs in Application Insights. With the latest update from Microsoft on DMF Telemtry , I digged deeper to understand how to gain deeper … Continue reading →]]></summary>
+        <author>
+            <name>AnithaEswaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is It Safe to Connect Claude to Microsoft 365?]]></title>
+        <id>https://erpsoftwareblog.com/?p=149371</id>
+        <link href="https://erpsoftwareblog.com/2026/06/claude-to-microsoft-365/"/>
+        <updated>2026-06-17T15:39:47.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+A practical risk review and path forward Connecting Claude to Microsoft 365 doesn't introduce a traditional security hole. What it does is change your data exposure model. The real risk […]
+The post Is It Safe to Connect Claude to Microsoft 365? appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dan Kosanovic, Reach International</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resolving Microsoft.Dynamics.CAP.Iris.Connectors.Exceptions.DSSidecarOperationException UDE]]></title>
+        <id>https://www.paragchapre.com/?p=16955</id>
+        <link href="https://www.paragchapre.com/dssidecaroperationexception-dbsync-error-ude/"/>
+        <updated>2026-06-17T15:15:32.000Z</updated>
+        <summary type="html"><![CDATA[Introduction While working with Unified Developer Experience (UDE) environments in Microsoft Dynamics 365 Finance & Operations, developers may occasionally encounter database synchronization issues during package deployment. Recently, after deploying a new UDE environment with Version 47, I experienced a package failure when attempting to deploy custom models. The package deployment process failed with a database…]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manage Supply Chain Disruption With Dynamics 365 BC]]></title>
+        <id>https://erpsoftwareblog.com/?p=149195</id>
+        <link href="https://erpsoftwareblog.com/2026/06/manage-supply-chain-disruption-with-dynamics-365-bc/"/>
+        <updated>2026-06-17T14:25:25.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+A modern supply chain solution for Dynamics 365 BC helps businesses make smarter inventory decisions, improve forecasting accuracy, and respond more effectively to changing market conditions. As supply chain disruptions […]
+The post Manage Supply Chain Disruption With Dynamics 365 BC appeared first on ERP Software Blog.
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Don’t Stop the Flow: Managing a Job Shop
+Get More in the Cloud with Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Netstock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Driving Real Productivity with Microsoft Copilot]]></title>
+        <id>https://www.encorebusiness.com/?p=73623</id>
+        <link href="https://www.encorebusiness.com/blog/driving-real-productivity-with-microsoft-copilot/"/>
+        <updated>2026-06-17T14:21:24.000Z</updated>
+        <summary type="html"><![CDATA[Driving Real Productivity with Microsoft Copilot
+Many organizations already have Microsoft 365 Copilot turned on, yet are still waiting to see a real impact. The expectation is that once AI is available in familiar tools like Outlook and Excel, productivity should improve. But in practice, that improvement is not immediately realized. This isn’t happening because these tools are not useful, but because...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Tracey Santos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Real Cost of Custom Business Central–Dataverse Integrations]]></title>
+        <id>https://erpsoftwareblog.com/?p=149363</id>
+        <link href="https://erpsoftwareblog.com/2026/06/the-real-cost-of-custom-business-central-dataverse-integrations/"/>
+        <updated>2026-06-17T13:42:04.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+When organizations first connect Microsoft Dynamics 365 Business Central and Dataverse, the goal is usually straightforward: move data between systems so finance, sales, operations, and customer-facing teams can work more […]
+The post The Real Cost of Custom Business Central–Dataverse Integrations appeared first on ERP Software Blog.
+Heads Up: Successful Forecasting and Demand Planning with AGR
+Benefits of Automatic Collection Efforts in Business Central
+Vendor Data in Accounts Payable: Best Management Practices]]></summary>
+        <author>
+            <name>Bluefort</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Warehouse and Inventory Moves for Microsoft Dynamics 365 Business Central]]></title>
         <id>https://erpsoftwareblog.com/?p=149142</id>
@@ -114476,45 +114594,6 @@ The post Ernst & Young reinvents sales globally with Microsoft Dynamics 365 appe
         <summary type="html"><![CDATA[Integrating Bootstrap With React “Learn how to seamlessly integrate Bootstrap, the popular front-end framework, with React to enhance your web development projects! In this hands-on tutorial, we’ll cover step-by-step instructions […]]]></summary>
         <author>
             <name>Sourav Raj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ultimate Comparison: Dynamics GP vs Business Central]]></title>
-        <id>https://erpsoftwareblog.com/?p=107861</id>
-        <link href="https://erpsoftwareblog.com/2024/06/the-ultimate-comparison-dynamics-gp-vs-business-central/"/>
-        <updated>2024-06-17T21:53:58.000Z</updated>
-        <summary type="html"><![CDATA[In today's rapidly evolving business landscape, choosing the right ERP solution is crucial for maximizing efficiency and staying ahead of the competition. A frequent deciding factor for numerous organizations is […]
-The post The Ultimate Comparison: Dynamics GP vs Business Central appeared first on ERP Software Blog.
-Learn How To Save Time By Using The "Cancel" Option to Reverse A Posted Sales Invoice
-Create A New Item In Dynamics 365 Business Central
-Webinar Recap: Everyone's Turning on Dynamics GP - Here's What You Can Do]]></summary>
-        <author>
-            <name>Solution Systems, Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Field Service announces the new Crew Allocation Tool, which enables the “Morning Shuffle”]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/06/17/dynamics-365-field-service-announces-new-crew-allocation-tool-enabling-morning-shuffle/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/06/17/dynamics-365-field-service-announces-new-crew-allocation-tool-enabling-morning-shuffle/"/>
-        <updated>2024-06-17T21:51:39.000Z</updated>
-        <summary type="html"><![CDATA[Being able to efficiently and effectively manage your resources is key to Dynamics 365 Field Service. Today, we introduce a new Crew Allocation Tool to streamline the process of making single-day membership changes to all your crews. We’ve heard from users that it can be tedious to manually go into crew records, take a resource
-The post Dynamics 365 Field Service announces the new Crew Allocation Tool, which enables the “Morning Shuffle”  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Michael Kelleher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolving Trends in the Medical Equipment Rental Industry Drive the Need for the Right Software]]></title>
-        <id>https://erpsoftwareblog.com/?p=107858</id>
-        <link href="https://erpsoftwareblog.com/2024/06/evolving-trends-in-the-medical-equipment-rental-industry-drive-the-need-for-the-right-software/"/>
-        <updated>2024-06-17T19:20:23.000Z</updated>
-        <summary type="html"><![CDATA[In the ever-evolving healthcare landscape, the importance of access to quality medical equipment cannot be overstated. From hospitals to home care settings, the demand for medical equipment rental services is […]
-The post Evolving Trends in the Medical Equipment Rental Industry Drive the Need for the Right Software appeared first on ERP Software Blog.
-Challenges and Opportunities in the Equipment Rental Industry in 2024
-Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
-Advanced Budgeting, Reporting and Consolidates Empowering Dynamics 365 Business Central]]></summary>
-        <author>
-            <name>Open Door Technology</name>
         </author>
     </entry>
     <entry>
