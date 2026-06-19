@@ -40766,6 +40766,106 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/teams-recording-how-compliance-recording-apis-bots-and-legal-hold-turn-your-calls-into-defensible-evidence-instead-of-risky-mp4-files",
+          "author": "Mirko Peters",
+          "description": "Stop Trusting Basic Teams Recording If you’re relying on basic Microsoft Teams recordings and default retention, you have a dangerous gap between what you think is compliant and what regulators or legal teams will actually accept. The “Record” button feels safe—files show up in OneDrive or SharePoint, transcripts exist, everyone relaxes—but the moment you face […]",
+          "link": "https://365community.online/teams-recording-how-compliance-recording-apis-bots-and-legal-hold-turn-your-calls-into-defensible-evidence-instead-of-risky-mp4-files",
+          "publishedOn": "2026-06-19T03:20:25.000Z",
+          "wordCount": 2608,
+          "title": "Teams Recording: How Compliance Recording APIs, Bots, and Legal Hold Turn Your Calls into Defensible Evidence Instead of Risky MP4 Files",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/02/2d05ada54eb10659ee1e4715a3e3ab4a.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/ai-powered-apps-with-azure-openai-and-power-platform-how-to-design-real-architectures-that-survive-beyond-the-demo",
+          "author": "Mirko Peters",
+          "description": "Most “AI‑powered” Power Platform demos quietly skip the hard parts: scale, performance, and keeping sensitive data under control once real users start hammering the app. In this episode, we walk through what those demos leave out and show how Azure OpenAI, Power Apps, Power Automate, and Azure API Management actually fit together in production—so your […]",
+          "link": "https://365community.online/ai-powered-apps-with-azure-openai-and-power-platform-how-to-design-real-architectures-that-survive-beyond-the-demo",
+          "publishedOn": "2026-06-18T23:41:43.000Z",
+          "wordCount": 2587,
+          "title": "AI‑Powered Apps with Azure OpenAI and Power Platform: How to Design Real Architectures That Survive Beyond the Demo",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/01/4ae19dcf20501f818d801b46c3f36cb9.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/m365-fm-podcast",
+          "author": "Mirko Peters",
+          "description": "As Seen In Practical Microsoft 365 Knowledge You Can Apply M365.fm provides structured, practical guidance to help you understand and implement Microsoft 365, Copilot, Teams, Power Platform, and Security in real-world scenarios. Instead of focusing on theory, we explain how Microsoft technologies work in practice — including architecture, governance, automation, and security considerations. Our goal […]",
+          "link": "https://365community.online/m365-fm-podcast",
+          "publishedOn": "2026-06-18T19:55:08.000Z",
+          "wordCount": 2147,
+          "title": "M365 FM Podcast",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/0369ca99d59bb23cd0fa1a5a43874243.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/futureproofing-your-career-in-the-age-of-ai-with-sarah-jones",
+          "author": "Mirko Peters",
+          "description": "Artificial Intelligence is transforming industries, redefining job roles, and forcing professionals to rethink how they build successful careers. In this episode of the M365 Podcast, Mirko Peters sits down with Sarah Jones, technology recruiter, career coach, freelancer, and community advocate, to explore what it really takes to stay relevant in an AI-driven world.With more than […]",
+          "link": "https://365community.online/futureproofing-your-career-in-the-age-of-ai-with-sarah-jones",
+          "publishedOn": "2026-06-18T16:23:46.000Z",
+          "wordCount": 2678,
+          "title": "Futureproofing Your Career in the Age of AI with Sarah Jones",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/db61300f8bd2fd063ec2687597d2df98.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/data-governance-interview-questions-2026-data-governance-grc-interview-questions-mindmajix-youtube",
+          "author": null,
+          "description": "Ace your Data Governance interview. This video covers Data Governance interview questions and answers for freshers and experienced candidates. Learn about key components, data quality and integrity, data classification, frameworks, GDPR and CCPA and more. We’ll cover everything from basic to advanced and scenario-based questions to help you clear Data Governance GRC interview. 🔥 Join […]",
+          "link": "https://365community.online/data-governance-interview-questions-2026-data-governance-grc-interview-questions-mindmajix-youtube",
+          "publishedOn": "2026-06-18T13:57:05.000Z",
+          "wordCount": 2312,
+          "title": "Data Governance Interview Questions 2026 | Data Governance GRC Interview Questions | MindMajix – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1781828789_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/dynamics-365-business-central-using-al-mcp-server-from-github-copilot-cli",
+          "author": "Stefano Demiliani",
+          "description": "Microsoft now provides a way to have the AL tools available on every CLI-based agentic tool using a standalone process over the MCP protocol using AL MCP server. The AL MCP Server is a standalone Model Context Protocol (MCP) server that exposes AL development tools (like building, compiling, publishing, symbol search, diagnostics, and more) to […]",
+          "link": "https://365community.online/dynamics-365-business-central-using-al-mcp-server-from-github-copilot-cli",
+          "publishedOn": "2026-06-18T13:01:00.000Z",
+          "wordCount": 2325,
+          "title": "Dynamics 365 Business Central: using AL MCP Server from GitHub Copilot CLI.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/Dynamics-365-Business-Central-using-AL-MCP-Server-from-GitHub.png?fit=808%2C417&ssl=1"
+        },
+        {
+          "id": "https://365community.online/from-project-online-to-ai-powered-project-delivery-the-evolution-of-dynamics-365-project-operations-with-joe-griffin-mvp",
+          "author": "Mirko Peters",
+          "description": "In this insightful episode of the M365 Podcast, host Mirko Peters welcomes Joe Griffin, Microsoft MVP, CEO of proMX UK, Microsoft Certified Trainer, and one of the most recognized experts in Dynamics 365 Project Operations. With more than 40 Microsoft certifications covering Dynamics 365, Power Platform, Azure, Artificial Intelligence, and the broader Microsoft Cloud ecosystem, […]",
+          "link": "https://365community.online/from-project-online-to-ai-powered-project-delivery-the-evolution-of-dynamics-365-project-operations-with-joe-griffin-mvp",
+          "publishedOn": "2026-06-18T12:48:22.000Z",
+          "wordCount": 2738,
+          "title": "From Project Online to AI-Powered Project Delivery: The Evolution of Dynamics 365 Project Operations with Joe Griffin [MVP]",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/797ed2791003d1b4b9f521ef5d7723aa.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/how-to-prepare-for-a-quickbooks-to-business-central-migration",
+          "author": "Pete Murray",
+          "description": "Preparing for a QuickBooks to Business Central migration means getting your data, your team and your decisions in order before the technical work starts, so the project runs to plan and people actually use the new system once it’s live. Most migrations that disappoint don’t fail on technology. They fail on preparation and people. The […]",
+          "link": "https://365community.online/how-to-prepare-for-a-quickbooks-to-business-central-migration",
+          "publishedOn": "2026-06-18T09:14:00.000Z",
+          "wordCount": 4899,
+          "title": "How to prepare for a QuickBooks to Business Central migration",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/Rushed-implementation-vs-structured-foundation.webp?fit=800%2C495&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-architects-guide-to-mcp-building-the-connectivity-layer-for-microsoft-ai-agents",
+          "author": "Mirko Peters",
+          "description": "In this episode of the M365.fm podcast, we take a deep architectural dive into one of the most important developments in the AI ecosystem: the Model Context Protocol (MCP). While much of the industry focuses on models, prompts, copilots, and reasoning capabilities, the reality is that AI agents are only as powerful as the systems […]",
+          "link": "https://365community.online/the-architects-guide-to-mcp-building-the-connectivity-layer-for-microsoft-ai-agents",
+          "publishedOn": "2026-06-18T09:10:15.000Z",
+          "wordCount": 2844,
+          "title": "The Architect’s Guide to MCP: Building the Connectivity Layer for Microsoft AI Agents",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/8500acf239fe32ee7cdbab355c07db46.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/full-stack-net-ai-developer-roadmap-2026-youtube",
+          "author": "Sourav Raj",
+          "description": "Full-Stack .NET AI Developer Roadmap 2026 Full-Stack .NET AI Developer Roadmap 2026 1️⃣ Master C#, OOP, SQL Server & Problem Solving 2️⃣ Learn ASP.NET Core, Web APIs & Entity Framework Core 3️⃣ Build modern UIs with React/Angular & Tailwind CSS 4️⃣ Deploy and scale applications on Azure 5️⃣ Integrate AI, LLMs & Azure AI Services […]",
+          "link": "https://365community.online/full-stack-net-ai-developer-roadmap-2026-youtube",
+          "publishedOn": "2026-06-18T04:43:01.000Z",
+          "wordCount": 2057,
+          "title": "Full-Stack .NET AI Developer Roadmap 2026 – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1781776145_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
           "id": "https://365community.online/microsoft-365-task-management",
           "author": "Mirko Peters",
           "description": "You might feel buried under Microsoft 365 Tasks. Managing your work can seem impossible when you face so many apps at once. You juggle tools such as: Microsoft To Do Microsoft Planner Tasks in Microsoft Teams Microsoft Lists Microsoft Bookings This mix can confuse anyone. You are not alone in this struggle. With the right […]",
@@ -82494,106 +82594,6 @@
           "wordCount": 3439,
           "title": "Welsh Azure User Group  – June 2024 Event – YouTube",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/1718900187_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/why-you-should-plan-to-migrate-from-gp",
-          "author": "Ian Grieve",
-          "description": "With the future of Microsoft Dynamics GP now being more limited than it was, with the announcement of the end of licence sales to new customers starting with perpetual licences […]",
-          "link": "https://365community.online/why-you-should-plan-to-migrate-from-gp",
-          "publishedOn": "2024-06-19T14:00:22.000Z",
-          "wordCount": 3250,
-          "title": "Why You Should Plan to Migrate from GP",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/challenge-your-skills-sc-100-microsoft-cybersecurity-exam-prep-youtube",
-          "author": "shabaz darr",
-          "description": "Get ready to challenge your cybersecurity skills with SC 100 Microsoft Exam Prep! Learn how to use Azure policy to address security and compliance with a helpful demo in this […]",
-          "link": "https://365community.online/challenge-your-skills-sc-100-microsoft-cybersecurity-exam-prep-youtube",
-          "publishedOn": "2024-06-19T11:00:37.000Z",
-          "wordCount": 3194,
-          "title": "Challenge Your Skills: SC 100 Microsoft Cybersecurity Exam Prep – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/1718869564_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-purchasing-how-do-i-override-vat-on-a-purchase-invoice",
-          "author": "Ian Grieve",
-          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Purchasing), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]",
-          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-purchasing-how-do-i-override-vat-on-a-purchase-invoice",
-          "publishedOn": "2024-06-19T10:00:16.000Z",
-          "wordCount": 3283,
-          "title": "In Microsoft Dynamics 365 Business Central (Purchasing), how do I… Override VAT on a Purchase Invoice",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/In-Microsoft-Dynamics-365-Business-Central-Purchasing-how-do-I….png?fit=1092%2C431&ssl=1"
-        },
-        {
-          "id": "https://365community.online/xrmtoolbox-autonumberupdater-new-statuscode-filter",
-          "author": "Andreas Cieslik",
-          "description": "Mayank Pujara’s AutoNumberUpdater plugin for the XrmToolBox is a great tool to add missing auto number values to an auto number field for an entity/table. In his blog you can […]",
-          "link": "https://365community.online/xrmtoolbox-autonumberupdater-new-statuscode-filter",
-          "publishedOn": "2024-06-19T09:59:00.000Z",
-          "wordCount": 3208,
-          "title": "XrmToolBox: AutoNumberUpdater – new StatusCode filter",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/XrmToolBox-AutoNumberUpdater-new-StatusCode-filter.png?fit=745%2C279&ssl=1"
-        },
-        {
-          "id": "https://365community.online/exploring-access-management-using-power-automate-flows-in-dynamics-365",
-          "author": "Inogic",
-          "description": "In Dynamics, managing access to sensitive data is handled through security measures such as role-based permissions. Security roles and access management play a significant role in ensuring that the right […]",
-          "link": "https://365community.online/exploring-access-management-using-power-automate-flows-in-dynamics-365",
-          "publishedOn": "2024-06-19T08:59:36.000Z",
-          "wordCount": 3528,
-          "title": "Exploring Access Management using Power Automate Flows in Dynamics 365",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/Access-Management-using-Power-Automate-Flows-in-dynamics-365.png?fit=1200%2C686&ssl=1"
-        },
-        {
-          "id": "https://365community.online/project-and-resources-in-different-time-zones-within-project-dynamics-365-project-operations",
-          "author": "Nishant Rana",
-          "description": "Came across below insightful post, while looking for details on Calendar Template / Work Template. Continue Reading Nishant Rana’s Article on their blog Project and Resources in different Time zones […]",
-          "link": "https://365community.online/project-and-resources-in-different-time-zones-within-project-dynamics-365-project-operations",
-          "publishedOn": "2024-06-19T05:00:00.000Z",
-          "wordCount": 3225,
-          "title": "Project and Resources in different Time zones within Project – Dynamics 365 Project Operations",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/Project-and-Resources-in-different-Time-zones-within-Project-–.jpg?fit=1200%2C799&ssl=1"
-        },
-        {
-          "id": "https://365community.online/azure-managed-grafana-for-dynamics-365-business-central-telemetry-its-time-to-upgrade",
-          "author": "Stefano Demiliani",
-          "description": "About two years ago at Directions EMEA 2022 I did a demo on exposing Dynamics 365 Business Central telemetry with Azure Managed Grafana (a fully managed service for analytics and […]",
-          "link": "https://365community.online/azure-managed-grafana-for-dynamics-365-business-central-telemetry-its-time-to-upgrade",
-          "publishedOn": "2024-06-18T15:03:34.000Z",
-          "wordCount": 3285,
-          "title": "Azure Managed Grafana for Dynamics 365 Business Central telemetry? It’s time to upgrade.",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/Azure-Managed-Grafana-for-Dynamics-365-Business-Central-telemetry-Its.png?fit=1200%2C236&ssl=1"
-        },
-        {
-          "id": "https://365community.online/add-dataverse-knowledge-to-a-custom-copilot-using-copilot-studio",
-          "author": "Dian Taylor",
-          "description": "Not too long ago we saw a complete user interface refresh in Copilot Studio, and a lot of new features that were announced during Microsoft’s Build event. One of the […]",
-          "link": "https://365community.online/add-dataverse-knowledge-to-a-custom-copilot-using-copilot-studio",
-          "publishedOn": "2024-06-18T12:23:57.000Z",
-          "wordCount": 3254,
-          "title": "Add Dataverse knowledge to a Custom Copilot using Copilot Studio",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
-        },
-        {
-          "id": "https://365community.online/skills-required-for-become-reactjs-developer-react-tutorial-youtube",
-          "author": "Sourav Raj",
-          "description": "Skills required for become ReactJS Developer| React Tutorial Interested in becoming a ReactJS developer? This video is your ultimate guide to mastering the skills needed to excel in React development! […]",
-          "link": "https://365community.online/skills-required-for-become-reactjs-developer-react-tutorial-youtube",
-          "publishedOn": "2024-06-18T12:00:50.000Z",
-          "wordCount": 3399,
-          "title": "Skills required for become ReactJS Developer| React Tutorial – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/1718776780_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/integrating-bootstrap-with-react-youtube",
-          "author": "Sourav Raj",
-          "description": "Integrating Bootstrap With React “Learn how to seamlessly integrate Bootstrap, the popular front-end framework, with React to enhance your web development projects! In this hands-on tutorial, we’ll cover step-by-step instructions […]",
-          "link": "https://365community.online/integrating-bootstrap-with-react-youtube",
-          "publishedOn": "2024-06-18T10:27:43.000Z",
-          "wordCount": 3395,
-          "title": "Integrating Bootstrap With React – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/1718791696_maxresdefault.jpg?fit=1200%2C675&ssl=1"
         }
       ]
     },
@@ -83250,16 +83250,6 @@
           "wordCount": 3385,
           "title": "Clean Code in X++ – Dynamics User Group India",
           "imageUrl": "https://fernitudela.dev/wp-content/uploads/2024/07/1718273132920.jpg"
-        },
-        {
-          "id": "http://fernitudela.dev/?p=1558",
-          "author": "Fernando Tudela Desantes",
-          "description": "Here you are the video of my session with Goran Arsovsky in the Dynamics Minds event, where we presented the solution to run ERs from code  + a new set of APIs to run them dynamically from everywhere, all shown in a Power App that served as an example to visually see how easy and powerful it is. … More Power up (App) your D365FO Electronic Reportings",
-          "link": "https://fernitudela.dev/2024/06/19/power-up-app-your-d365fo-electronic-reportings/",
-          "publishedOn": "2024-06-19T08:38:22.000Z",
-          "wordCount": 3436,
-          "title": "Power up (App) your D365FO Electronic Reportings",
-          "imageUrl": "https://fernitudela.dev/wp-content/uploads/2024/06/53760536177_337eacaac1_o-1.jpg?w=1200"
         }
       ]
     },
@@ -87585,26 +87575,6 @@
           "wordCount": 4264,
           "title": "AI summarization in Dynamics 365 synthesizes and simplifies complex data",
           "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/06/CLO22_Factory_002-1024x683.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/06/18/announcing-unlimited-application-installs-in-dynamics-365-customer-insights/",
-          "author": "Autumn Arbury",
-          "description": "We’re excited to announce unlimited application installs when starting with Dynamics 365 Customer Insights, an improvement to our license definition and installation management experience. As of June 30, 2024 we’ve removed application installation limits for Customer Insights–Journeys (real-time journeys only) and Customer Insights–Data. Previous application installations had restrictions of four per base license of the\nThe post Announcing unlimited application installs in Dynamics 365 Customer Insights appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/06/18/announcing-unlimited-application-installs-in-dynamics-365-customer-insights/",
-          "publishedOn": "2024-06-18T15:59:00.000Z",
-          "wordCount": 2991,
-          "title": "Announcing unlimited application installs in Dynamics 365 Customer Insights",
-          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2023/10/CLO22_HybridWork_056_1200.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/06/18/ernst-young-reinvents-sales-globally-with-microsoft-dynamics-365/",
-          "author": "Bryan Goode",
-          "description": "For Ernst & Young Limited (EY), one of the “Big Four” of the largest accounting firms worldwide, their sales transformation journey started with Microsoft Dynamics 365 Sales. \nThe post Ernst & Young reinvents sales globally with Microsoft Dynamics 365 appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/06/18/ernst-young-reinvents-sales-globally-with-microsoft-dynamics-365/",
-          "publishedOn": "2024-06-18T15:00:00.000Z",
-          "wordCount": 3841,
-          "title": "Ernst & Young reinvents sales globally with Microsoft Dynamics 365",
-          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/02/MSFT_D365_FEB22_320382_Blog_Blogheader_240223_V02_1200.png"
         }
       ]
     },
@@ -91722,16 +91692,6 @@
           "wordCount": 3070,
           "title": "Work with complex data models in an ERD view assisted by Copilot",
           "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/06/Data-workspace-ERD.png"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/through-the-looking-glass-power-apps-and-realwear/",
-          "author": "Arijit Basu",
-          "description": "Today we’re thrilled to announce the availability of Microsoft Power Apps public preview on RealWear devices and the RealWear Marketplace. The ability to build and deploy custom solutions for frontline professionals on RealWear devices is another step in our vision to empower every individual on the planet.\nThe post Through the looking glass: Power Apps and RealWear appeared first on Microsoft Power Platform Blog.",
-          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/through-the-looking-glass-power-apps-and-realwear/",
-          "publishedOn": "2024-06-19T15:00:00.000Z",
-          "wordCount": 3243,
-          "title": "Through the looking glass: Power Apps and RealWear",
-          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/06/Screenshot-2024-05-30-at-09.50.01.png"
         }
       ]
     },
