@@ -39410,26 +39410,6 @@
           "wordCount": 4868,
           "title": "Building the Bridge for Business Central Integrations",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/BC-Integrations-II.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=107963",
-          "author": "GP Support North",
-          "description": "Dynamics GP Productivity with Built-In Automated Workflows come with Dynamics GP (Great Plains), learn how to configure GP yourself to set these workflows up.  Also included are recommendations for an add-on to attach documents in GP AP workflow.\nThe post Boost Your Dynamics GP Productivity with Built-In Automated Workflows appeared first on ERP Software Blog.\nUpdated forecast for the Dynamics GP 18.6 (GP 2024) release from Microsoft\nEnhancing Efficiency and Security with an Up-to-Date Dynamics GP in 2024\nDynamics GP Support Inquiries or Horror Stories?",
-          "link": "https://erpsoftwareblog.com/2024/06/boost-your-dynamics-gp-productivity-with-built-in-automated-workflows/",
-          "publishedOn": "2024-06-21T14:01:20.000Z",
-          "wordCount": 4322,
-          "title": "Boost Your Dynamics GP Productivity with Built-In Automated Workflows",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/AP-Workflow2.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=107953",
-          "author": "Insight Works",
-          "description": "Insight Works grows their reseller network by adding nine new Microsoft Partners, enhancing global manufacturing and distribution solutions.\nThe post Insight Works Welcomes Nine New Microsoft Partners to Strengthen Global Solutions appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
-          "link": "https://erpsoftwareblog.com/2024/06/insight-works-welcomes-nine-new-microsoft-partners-to-strengthen-global-solutions/",
-          "publishedOn": "2024-06-20T22:21:15.000Z",
-          "wordCount": 3721,
-          "title": "Insight Works Welcomes Nine New Microsoft Partners to Strengthen Global Solutions",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/02.Insight-Works-Authorized-Reseller.png"
         }
       ]
     },
@@ -40765,6 +40745,76 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/microsoft-fabric-dp-600-analytics-engineer-training-step-4-of-4-2",
+          "author": "Mirko Peters",
+          "description": "In a world that increasingly values data privacy, I found myself reflecting on a conversation with a financial services client recently. They were concerned about who could access their sensitive sales data. It struck me how many organizations overlook the importance of robust security measures like row-level security (RLS), often waiting for a breach to […]",
+          "link": "https://365community.online/microsoft-fabric-dp-600-analytics-engineer-training-step-4-of-4-2",
+          "publishedOn": "2026-06-20T23:33:52.000Z",
+          "wordCount": 6698,
+          "title": "Microsoft Fabric DP-600 Analytics Engineer Training Step 4 of 4:…",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1781998432_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-teams-governance-how-to-drive-real-collaboration-and-business-success",
+          "author": "Mirko Peters",
+          "description": "Without a clear governance framework, Microsoft Teams quickly becomes a chaos of uncontrolled channels, unmanaged data, and frustrated users. Teams governance is the strategic foundation that separates organizations that scale collaboration from those that struggle with sprawl, compliance gaps, and failed adoption. This episode explores how effective Teams governance drives real collaboration, business success, and […]",
+          "link": "https://365community.online/microsoft-teams-governance-how-to-drive-real-collaboration-and-business-success",
+          "publishedOn": "2026-06-20T19:53:54.000Z",
+          "wordCount": 2345,
+          "title": "Microsoft Teams Governance: How to Drive Real Collaboration and Business Success",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/fa7be1060d8c21d5c140e65cface2afe.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/private-rag-isnt-enough-the-missing-layer-between-data-sovereignty-and-data-security",
+          "author": "Mirko Peters",
+          "description": "Everyone is talking about Private RAG.Organizations invest heavily in self-hosted vector databases, sovereign cloud environments, private infrastructure, and regional data residency controls. They focus on where data lives, how it moves, and whether it remains inside specific geographic boundaries.But there is a critical question that almost nobody asks.What happens to permissions when documents leave their […]",
+          "link": "https://365community.online/private-rag-isnt-enough-the-missing-layer-between-data-sovereignty-and-data-security",
+          "publishedOn": "2026-06-20T16:13:54.000Z",
+          "wordCount": 2812,
+          "title": "Private RAG Isn’t Enough: The Missing Layer Between Data Sovereignty and Data Security",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/ca4926d3f590abc399e41d038df53d09.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/want-to-become-an-azure-ai-developer-youtube",
+          "author": "Sourav Raj",
+          "description": "Want to become an Azure AI Developer? Want to become an Azure AI Developer? AI is changing the way software is built. If you learn Azure AI, cloud technologies, and modern development skills, you’ll be ready for the future. 📌 Watch this reel to learn the roadmap step by step. 💾 Save it for later. […]",
+          "link": "https://365community.online/want-to-become-an-azure-ai-developer-youtube",
+          "publishedOn": "2026-06-20T13:12:48.000Z",
+          "wordCount": 2059,
+          "title": "Want to become an Azure AI Developer? – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1781987439_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-copilot-cybersecurity-how-ai-protects-your-data-from-cyber-threats",
+          "author": "Mirko Peters",
+          "description": "Cyber threats are evolving faster than most security teams can respond — and AI is now on both sides of that battle. Microsoft Copilot for Security brings AI-powered threat detection, real-time incident response, and data protection directly into your Microsoft 365 environment. This episode explores how Microsoft Copilot actively protects your organization’s sensitive data from […]",
+          "link": "https://365community.online/microsoft-copilot-cybersecurity-how-ai-protects-your-data-from-cyber-threats",
+          "publishedOn": "2026-06-20T12:35:51.000Z",
+          "wordCount": 2355,
+          "title": "Microsoft Copilot & Cybersecurity: How AI Protects Your Data from Cyber Threats",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/6bbe4f8c7482a6fe4ef934d44db61867.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/power-bi-models-that-fail-root-causes-real-consequences-how-to-fix-them",
+          "author": "Mirko Peters",
+          "description": "Most Power BI models don’t fail because of bad data — they fail because of bad design. Poor planning, unclear business objectives, over-complicated schemas, and a lack of data modeling expertise are the four root causes behind underperforming Power BI projects. If your reports are slow, your stakeholders are confused, or your dashboards aren’t driving […]",
+          "link": "https://365community.online/power-bi-models-that-fail-root-causes-real-consequences-how-to-fix-them",
+          "publishedOn": "2026-06-20T08:55:30.000Z",
+          "wordCount": 2367,
+          "title": "Power BI Models That Fail: Root Causes, Real Consequences & How to Fix Them",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/03/ee3a2dfdc65826b676f5e56579495d65.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/your-sharepoint-data-is-a-liability-fixing-the-metadata-gap",
+          "author": "Mirko Peters",
+          "description": "SharePoint has become the backbone of information management for countless organizations, storing everything from contracts and policies to invoices, project documentation, and business-critical records. Yet beneath the surface of many Microsoft 365 environments lies a hidden problem that continues to grow with every uploaded file. The issue is not storage capacity, search performance, or even […]",
+          "link": "https://365community.online/your-sharepoint-data-is-a-liability-fixing-the-metadata-gap",
+          "publishedOn": "2026-06-20T05:19:54.000Z",
+          "wordCount": 2789,
+          "title": "Your SharePoint Data is a Liability: Fixing the Metadata Gap",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/91777177af4be61235606437a98e34b4.jpg?fit=1200%2C630&ssl=1"
+        },
         {
           "id": "https://365community.online/citizen-developers-power-platform-why-empowering-your-team-drives-business-results",
           "author": "Mirko Peters",
@@ -82519,116 +82569,6 @@
           "wordCount": 3216,
           "title": "Copilot Studio – New Style Voice BOTs",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/Copilot-Studio-–-New-Style-Voice-BOTs.png?fit=1024%2C1024&ssl=1"
-        },
-        {
-          "id": "https://365community.online/madic-dynamics-knowledge-hub-webinars-upgrading-to-business-central",
-          "author": "Ian Grieve",
-          "description": "In our most recent webinar here at MADIC dynamics, we took a look at Upgrading (to) Business Central. If you want to catch up on this webinar, you can do […]",
-          "link": "https://365community.online/madic-dynamics-knowledge-hub-webinars-upgrading-to-business-central",
-          "publishedOn": "2024-06-21T14:00:42.000Z",
-          "wordCount": 3246,
-          "title": "MADIC dynamics Knowledge Hub Webinars: Upgrading to Business Central",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/sorting-in-data-structure-dsa-tutorial-youtube",
-          "author": "Sourav Raj",
-          "description": "Sorting in Data Structure| DSA Tutorial In this video series, we dive deep into the core concepts and implementation details of various sorting algorithms, including bubble sort, insertion sort, selection […]",
-          "link": "https://365community.online/sorting-in-data-structure-dsa-tutorial-youtube",
-          "publishedOn": "2024-06-21T13:06:15.000Z",
-          "wordCount": 3413,
-          "title": "Sorting in Data Structure| DSA Tutorial – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/1719008689_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/create-brand-profiles-in-customer-insights-journeys-to-create-cohesive-brand-experiences",
-          "author": "Inogic",
-          "description": "In this blog, we will learn about one of the new features introduced by Microsoft in Dynamics 365 in 2024 Release Wave 1, i.e., the creation of Brand Profiles. Each […]",
-          "link": "https://365community.online/create-brand-profiles-in-customer-insights-journeys-to-create-cohesive-brand-experiences",
-          "publishedOn": "2024-06-21T12:10:07.000Z",
-          "wordCount": 3548,
-          "title": "Create Brand Profiles in Customer Insights – Journeys to Create Cohesive Brand Experiences",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/Create-Brand-Profiles-in-Dynamics-365-Customer-Insights.png?fit=1200%2C686&ssl=1"
-        },
-        {
-          "id": "https://365community.online/automate-scheduling-for-field-service-reps-with-competency-allocation-within-dynamics-365",
-          "author": "Inogic",
-          "description": "The world of field service revolves around efficiency. Every minute saved is a minute gained for more jobs completed, happier customers, and a healthier bottom line. But to truly be […]",
-          "link": "https://365community.online/automate-scheduling-for-field-service-reps-with-competency-allocation-within-dynamics-365",
-          "publishedOn": "2024-06-21T12:00:27.000Z",
-          "wordCount": 3468,
-          "title": "Automate scheduling for Field Service Reps with ‘Competency Allocation’ within Dynamics 365",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/Maplytics-Blog-8.png?fit=1200%2C686&ssl=1"
-        },
-        {
-          "id": "https://365community.online/the-dark-side-of-cyber-security-certification-youtube",
-          "author": "shabaz darr",
-          "description": "In this video, we explore the dark side of cyber security certification and discuss how to design cloud, hybrid, and multi-cloud access strategies for the SC-100 exam. Get ready to […]",
-          "link": "https://365community.online/the-dark-side-of-cyber-security-certification-youtube",
-          "publishedOn": "2024-06-21T11:23:44.000Z",
-          "wordCount": 3192,
-          "title": "The Dark Side of Cyber Security Certification – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/1719056205_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-sales-how-do-i-assign-number-series-in-sales",
-          "author": "Ian Grieve",
-          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Sales), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]",
-          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-sales-how-do-i-assign-number-series-in-sales",
-          "publishedOn": "2024-06-21T10:00:05.000Z",
-          "wordCount": 3275,
-          "title": "In Microsoft Dynamics 365 Business Central (Sales), how do I… Assign Number Series in Sales",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/In-Microsoft-Dynamics-365-Business-Central-Sales-how-do-I….png?fit=1176%2C792&ssl=1"
-        },
-        {
-          "id": "https://365community.online/business-central-migrate-sift-to-ncci-technology",
-          "author": "Roberto Stefanetti",
-          "description": "Business Central migrate SIFT to NCCI Technology Understand the Context: Migrating from SumIndexField Technology (SIFT) to Nonclustered Columnstore Indexes (NCCIs) SIFT keys are maintained when data is inserted, updated, or deleted in a […]",
-          "link": "https://365community.online/business-central-migrate-sift-to-ncci-technology",
-          "publishedOn": "2024-06-21T07:41:28.000Z",
-          "wordCount": 3232,
-          "title": "Business Central migrate SIFT to NCCI Technology",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
-        },
-        {
-          "id": "https://365community.online/microsoft-dynamics-365-sales-summer-vibes",
-          "author": "jarmesto",
-          "description": "Summer is filled with moments of relaxation, and what better time to review the latest updates for Microsoft Dynamics 365 Sales? The main goals outlined in the document are to […]",
-          "link": "https://365community.online/microsoft-dynamics-365-sales-summer-vibes",
-          "publishedOn": "2024-06-21T07:14:00.000Z",
-          "wordCount": 3216,
-          "title": "Microsoft Dynamics 365 Sales : Summer Vibes",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/1718958872_Microsoft-Dynamics-365-Sales-Summer-Vibes.jpeg?fit=1024%2C1024&ssl=1"
-        },
-        {
-          "id": "https://365community.online/cybersecurity-quiz-series-test-your-knowledge-with-mindmajix-part-10-10-youtube",
-          "author": "Jaya Sri",
-          "description": "“Are you ready to challenge your cybersecurity knowledge? Join MindMajix for an engaging and educational quiz series that covers essential concepts, trends, and threats in cybersecurity. Subscribe now and stay […]",
-          "link": "https://365community.online/cybersecurity-quiz-series-test-your-knowledge-with-mindmajix-part-10-10-youtube",
-          "publishedOn": "2024-06-21T04:30:14.000Z",
-          "wordCount": 3185,
-          "title": "Cybersecurity Quiz Series | Test Your Knowledge with MindMajix ! Part 10/10 – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/1719009188_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/torne-se-um-citizen-developer-aula-4-youtube",
-          "author": "Victor Dantas",
-          "description": "Torne-se um Citizen Developer – Aula 4 source",
-          "link": "https://365community.online/torne-se-um-citizen-developer-aula-4-youtube",
-          "publishedOn": "2024-06-20T20:29:43.000Z",
-          "wordCount": 3129,
-          "title": "Torne-se um Citizen Developer – Aula 4 – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/1718946588_maxresdefault_live.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/expense-reports-dates-tbd",
-          "author": "Sarang Kusare",
-          "description": "Expense Creation Date = Document Date in the GL Transaction Date (when the expenses occurred) = Project Date in the sub-ledger GL Posting Date will be equal to Transaction […]",
-          "link": "https://365community.online/expense-reports-dates-tbd",
-          "publishedOn": "2024-06-20T15:33:00.000Z",
-          "wordCount": 3214,
-          "title": "Expense Reports Dates (TBD)",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
         }
       ]
     },
@@ -89929,16 +89869,6 @@
           "wordCount": 18504,
           "title": "Remind Your Customers About Unsettled Invoice Amounts",
           "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/06/D365Blog_CustAccStatementWithOpenInvoices_Title.jpg"
-        },
-        {
-          "id": "https://ax.docentric.com/?p=28680",
-          "author": "Miha Vuk",
-          "description": "In your daily operations you certainly want to avoid all errors and if they do occur, you want to be informed promptly and precisely and solve the errors as soon as possible. When working with periodic batch jobs with standard D365FO you often run into […]\nThe post Batch job alerts and export (large untruncated) batch job logs appeared first on Docentric AX.",
-          "link": "https://ax.docentric.com/batch-job-alerts-and-export-large-untruncated-batch-job-logs/",
-          "publishedOn": "2024-06-21T08:40:43.000Z",
-          "wordCount": 11944,
-          "title": "Batch job alerts and export (large untruncated) batch job logs",
-          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/06/D365Blog_Batch_job_alerts_and_export_large_untruncated_batch-job-logs_main.png"
         }
       ]
     },
@@ -91737,16 +91667,6 @@
           "wordCount": 3425,
           "title": "GA of many long time Preview features",
           "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/06/Screenshot-2024-06-20-182948-1024x885.webp"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/work-with-complex-data-models-in-an-erd-view-assisted-by-copilot/",
-          "author": "Travis Shu",
-          "description": "Introducing the new ERD-view data experience that streamlines the management of complex data models with Copilot assistance. \nThe post Work with complex data models in an ERD view assisted by Copilot appeared first on Microsoft Power Platform Blog.",
-          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/work-with-complex-data-models-in-an-erd-view-assisted-by-copilot/",
-          "publishedOn": "2024-06-20T16:48:29.000Z",
-          "wordCount": 3070,
-          "title": "Work with complex data models in an ERD view assisted by Copilot",
-          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/06/Data-workspace-ERD.png"
         }
       ]
     },
