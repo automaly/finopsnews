@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-06-21T02:52:16.365Z</updated>
+    <updated>2026-06-22T02:54:47.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Fabric DP-600 Analytics Engineer Training Step 1 of 4:…]]></title>
+        <id>https://365community.online/microsoft-fabric-dp-600-analytics-engineer-training-step-1-of-4-2</id>
+        <link href="https://365community.online/microsoft-fabric-dp-600-analytics-engineer-training-step-1-of-4-2"/>
+        <updated>2026-06-22T01:37:11.000Z</updated>
+        <summary type="html"><![CDATA[✅ Can Microsoft Teams Be Used for Project Management? Yes – Microsoft Teams can be used as a complete project management platform when it is configured correctly. While many organizations only use Teams for chat and meetings, its real power comes from its deep integration with Microsoft Planner, Microsoft Lists, SharePoint, and Power Automate. When […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Death of the Generalist Bot: Why Your Copilot Needs a Mixture of Experts]]></title>
+        <id>https://365community.online/the-death-of-the-generalist-bot-why-your-copilot-needs-a-mixture-of-experts</id>
+        <link href="https://365community.online/the-death-of-the-generalist-bot-why-your-copilot-needs-a-mixture-of-experts"/>
+        <updated>2026-06-21T21:52:43.000Z</updated>
+        <summary type="html"><![CDATA[Most organizations are building AI the same way.One copilot.One interface.One large model expected to handle every request.At first glance, the approach feels simple, scalable, and easy to govern. But as AI adoption accelerates, many organizations are discovering that the generalist AI model creates hidden costs, inconsistent quality, governance challenges, and growing operational complexity.In this episode […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Latency vs. Logic: Engineering High-Stakes Hybrid Events in M365]]></title>
+        <id>https://365community.online/latency-vs-logic-engineering-high-stakes-hybrid-events-in-m365</id>
+        <link href="https://365community.online/latency-vs-logic-engineering-high-stakes-hybrid-events-in-m365"/>
+        <updated>2026-06-21T06:54:16.000Z</updated>
+        <summary type="html"><![CDATA[Hybrid work has fundamentally changed how organizations build culture, foster collaboration, and create meaningful employee experiences. Yet many virtual events still feel transactional, disconnected, and forgettable. In this episode of the M365 FM Podcast, we explore the future of immersive collaboration inside Microsoft 365 and uncover what it really takes to engineer successful high-stakes hybrid […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Fabric DP-600 Analytics Engineer Training Step 2 of 4:…]]></title>
+        <id>https://365community.online/microsoft-fabric-dp-600-analytics-engineer-training-step-2-of-4-2</id>
+        <link href="https://365community.online/microsoft-fabric-dp-600-analytics-engineer-training-step-2-of-4-2"/>
+        <updated>2026-06-21T03:15:44.000Z</updated>
+        <summary type="html"><![CDATA[Imagine your boss assigning you the crucial task of extracting data from Amazon S3, transforming it using Python, and loading it into a fabric data warehouse. If the thought brings on a wave of anxiety about choosing the right ingestion method, you’re not alone. In today’s blog, we’ll unravel the complexities of data ingestion within […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Fabric DP-600 Analytics Engineer Training Step 4 of 4:…]]></title>
         <id>https://365community.online/microsoft-fabric-dp-600-analytics-engineer-training-step-4-of-4-2</id>
@@ -114452,53 +114492,6 @@ The post Navigate Dynamics 365 F&O using Copilot appeared first on Dynamicspedia
         <summary type="html"><![CDATA[Recently one of my LinkedIn contacts reached out with an excellent question about Microsoft’s Omnichannel for Customer Service and Copilot Studio BOTs …. “With a new style Copilot Studio voice […]]]></summary>
         <author>
             <name>Neil Parkhurst</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If else statement in C Programming – YouTube]]></title>
-        <id>https://365community.online/if-else-statement-in-c-programming-youtube</id>
-        <link href="https://365community.online/if-else-statement-in-c-programming-youtube"/>
-        <updated>2024-06-22T10:55:31.000Z</updated>
-        <summary type="html"><![CDATA[If else statement in C Programming Welcome to our C Programming tutorial series! In this video, we dive deep into the essential if…else statement. If you’re just starting out or […]]]></summary>
-        <author>
-            <name>Sourav Raj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copilot Studio – New Style Voice BOTs]]></title>
-        <id>https://365community.online/copilot-studio-new-style-voice-bots</id>
-        <link href="https://365community.online/copilot-studio-new-style-voice-bots"/>
-        <updated>2024-06-22T06:05:23.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft have recently published updates to the voice channel which allow us to use the newer style Copilot BOTs in voice scenarios. In this post I will explore some of […]]]></summary>
-        <author>
-            <name>Neil Parkhurst</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Importing a bacpac file to a development box SQL]]></title>
-        <id>https://alexvoy.blogspot.com/2024/06/importing-bacpac-file-to-development.html</id>
-        <link href="https://alexvoy.blogspot.com/2024/06/importing-bacpac-file-to-development.html"/>
-        <updated>2024-06-21T21:52:00.006Z</updated>
-        <summary type="html"><![CDATA[Just to memorize some steps to import a database from a bacpac file.
-
-Download and run the DacFramework.msi installer for Windows
-Put the backup.bacpac file close to the SQL database, say, in the root folder on disk G:
-Run the bat file. 
-
-
-
-
-@echo Importing a bacpac data to SQL database
-c:
-cd C:\Program Files\Microsoft SQL Server\160\DAC\bin
-SqlPackage.exe /a:import /sf:G:\backup.bacpac /tsn:localhost /tdn:AxDB_Restored /p:CommandTimeout=1200 /TargetTrustServerCertificate:True
-pause
-
-
-
-Take note about the last option: without it importing fails with the following error.]]></summary>
-        <author>
-            <name>Adventures in Axapta world</name>
         </author>
     </entry>
     <entry>

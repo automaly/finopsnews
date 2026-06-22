@@ -40746,6 +40746,46 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/microsoft-fabric-dp-600-analytics-engineer-training-step-1-of-4-2",
+          "author": "Mirko Peters",
+          "description": "✅ Can Microsoft Teams Be Used for Project Management? Yes – Microsoft Teams can be used as a complete project management platform when it is configured correctly. While many organizations only use Teams for chat and meetings, its real power comes from its deep integration with Microsoft Planner, Microsoft Lists, SharePoint, and Power Automate. When […]",
+          "link": "https://365community.online/microsoft-fabric-dp-600-analytics-engineer-training-step-1-of-4-2",
+          "publishedOn": "2026-06-22T01:37:11.000Z",
+          "wordCount": 2526,
+          "title": "Microsoft Fabric DP-600 Analytics Engineer Training Step 1 of 4:…",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1782092231_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
+          "id": "https://365community.online/the-death-of-the-generalist-bot-why-your-copilot-needs-a-mixture-of-experts",
+          "author": "Mirko Peters",
+          "description": "Most organizations are building AI the same way.One copilot.One interface.One large model expected to handle every request.At first glance, the approach feels simple, scalable, and easy to govern. But as AI adoption accelerates, many organizations are discovering that the generalist AI model creates hidden costs, inconsistent quality, governance challenges, and growing operational complexity.In this episode […]",
+          "link": "https://365community.online/the-death-of-the-generalist-bot-why-your-copilot-needs-a-mixture-of-experts",
+          "publishedOn": "2026-06-21T21:52:43.000Z",
+          "wordCount": 2837,
+          "title": "The Death of the Generalist Bot: Why Your Copilot Needs a Mixture of Experts",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/90104132f9b5b7ec43a71dabc3c64645.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/latency-vs-logic-engineering-high-stakes-hybrid-events-in-m365",
+          "author": "Mirko Peters",
+          "description": "Hybrid work has fundamentally changed how organizations build culture, foster collaboration, and create meaningful employee experiences. Yet many virtual events still feel transactional, disconnected, and forgettable. In this episode of the M365 FM Podcast, we explore the future of immersive collaboration inside Microsoft 365 and uncover what it really takes to engineer successful high-stakes hybrid […]",
+          "link": "https://365community.online/latency-vs-logic-engineering-high-stakes-hybrid-events-in-m365",
+          "publishedOn": "2026-06-21T06:54:16.000Z",
+          "wordCount": 2729,
+          "title": "Latency vs. Logic: Engineering High-Stakes Hybrid Events in M365",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/c21ea2b37dcf8bdf270a9215f0d835f2.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-fabric-dp-600-analytics-engineer-training-step-2-of-4-2",
+          "author": "Mirko Peters",
+          "description": "Imagine your boss assigning you the crucial task of extracting data from Amazon S3, transforming it using Python, and loading it into a fabric data warehouse. If the thought brings on a wave of anxiety about choosing the right ingestion method, you’re not alone. In today’s blog, we’ll unravel the complexities of data ingestion within […]",
+          "link": "https://365community.online/microsoft-fabric-dp-600-analytics-engineer-training-step-2-of-4-2",
+          "publishedOn": "2026-06-21T03:15:44.000Z",
+          "wordCount": 6008,
+          "title": "Microsoft Fabric DP-600 Analytics Engineer Training Step 2 of 4:…",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/1782011745_maxresdefault.jpg?fit=1280%2C720&ssl=1"
+        },
+        {
           "id": "https://365community.online/microsoft-fabric-dp-600-analytics-engineer-training-step-4-of-4-2",
           "author": "Mirko Peters",
           "description": "In a world that increasingly values data privacy, I found myself reflecting on a conversation with a financial services client recently. They were concerned about who could access their sensitive sales data. It struck me how many organizations overlook the importance of robust security measures like row-level security (RLS), often waiting for a breach to […]",
@@ -82549,26 +82589,6 @@
           "wordCount": 3232,
           "title": "Copilot Studio – DTMF Only Mode in IVR",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/Copilot-Studio-–-DTMF-Only-Mode-in-IVR.png?fit=1024%2C1024&ssl=1"
-        },
-        {
-          "id": "https://365community.online/if-else-statement-in-c-programming-youtube",
-          "author": "Sourav Raj",
-          "description": "If else statement in C Programming Welcome to our C Programming tutorial series! In this video, we dive deep into the essential if…else statement. If you’re just starting out or […]",
-          "link": "https://365community.online/if-else-statement-in-c-programming-youtube",
-          "publishedOn": "2024-06-22T10:55:31.000Z",
-          "wordCount": 3437,
-          "title": "If else statement in C Programming – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/1719270165_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/copilot-studio-new-style-voice-bots",
-          "author": "Neil Parkhurst",
-          "description": "Microsoft have recently published updates to the voice channel which allow us to use the newer style Copilot BOTs in voice scenarios. In this post I will explore some of […]",
-          "link": "https://365community.online/copilot-studio-new-style-voice-bots",
-          "publishedOn": "2024-06-22T06:05:23.000Z",
-          "wordCount": 3216,
-          "title": "Copilot Studio – New Style Voice BOTs",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/06/Copilot-Studio-–-New-Style-Voice-BOTs.png?fit=1024%2C1024&ssl=1"
         }
       ]
     },
@@ -88884,16 +88904,6 @@
           "wordCount": 2101,
           "title": "How to fix Admin account after refreshing data base in your dev box",
           "imageUrl": null
-        },
-        {
-          "id": "https://alexvoy.blogspot.com/2024/06/importing-bacpac-file-to-development.html",
-          "author": null,
-          "description": "Just to memorize some steps to import a database from a bacpac file.\n\nDownload and run the DacFramework.msi installer for Windows\nPut the backup.bacpac file close to the SQL database, say, in the root folder on disk G:\nRun the bat file. \n\n\n\n\n@echo Importing a bacpac data to SQL database\nc:\ncd C:\\Program Files\\Microsoft SQL Server\\160\\DAC\\bin\nSqlPackage.exe /a:import /sf:G:\\backup.bacpac /tsn:localhost /tdn:AxDB_Restored /p:CommandTimeout=1200 /TargetTrustServerCertificate:True\npause\n\n\n\nTake note about the last option: without it importing fails with the following error.",
-          "link": "https://alexvoy.blogspot.com/2024/06/importing-bacpac-file-to-development.html",
-          "publishedOn": "2024-06-21T21:52:00.006Z",
-          "wordCount": 2080,
-          "title": "Importing a bacpac file to a development box SQL",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgnHTE5w3mYPJy55dR4u-7qGssIL32X6o6urKSvwPopvQCf38Or2xjqmB0DBtpSwP4RnTP26bvjlfLQUSuyggKvkyhD5a7kZSQ_pYuUexD5-iGmRS6iLqM00MWJJVKm-sMIaIbm_bNE9KFvZK96yfTS83k86ekG1tgsy1cblTJGi6GCO92PMpTnLBkj-Ag=w1200-h630-p-k-no-nu"
         }
       ]
     },
