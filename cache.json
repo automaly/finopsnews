@@ -524,6 +524,16 @@
       "siteUrl": "https://d365fotechexpert.blogspot.com/",
       "articles": [
         {
+          "id": "https://d365fotechexpert.blogspot.com/2026/06/inactive-vendor-blocking-enhancement.html",
+          "author": null,
+          "description": "Purpose\nThe purpose of this document is to describe the design and implementation of the Automatic Blocking of Inactive Vendors functionality in Microsoft Dynamics 365 Finance and Operations (D365FO).\nThis enhancement automates the identification and blocking of inactive vendors based on configurable business rules, eliminating the need for manual vendor maintenance. The solution introduces a configurable batch process that evaluates vendor inactivity using the latest vendor transaction date and automatically updates the vendor blocking status.\nThis functionality can be used for:\nVendor Blocking status to \"All\" for eligible inactive vendors.\n\nProviding parameter-based filtering using Vendor Groups and specific Vendors.\nProduct\nMicrosoft Dynamics 365 Finance and Operations (D365FO)\nDevelopm…",
+          "link": "https://d365fotechexpert.blogspot.com/2026/06/inactive-vendor-blocking-enhancement.html",
+          "publishedOn": "2026-06-25T10:54:35.287Z",
+          "wordCount": 6501,
+          "title": "Inactive Vendor Blocking Enhancement with Automated Email Notification",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiSUST3bXR1W250-9HPejALkK73EREvB1rVxo4bu5NJy24zDEJrY1aX44DoqyxZZhfIhZDS6iz6CKnK3G-F6OvEGJlpo65c1p22rxNG_VfENJFF3v4_RJNCytN0QTj6Q0AKrCTPWIYVlHhEl7r_72C3hZJxrEUP1tjdM3ZwmSOk1hMC7IIOCEnBmIR2LvE=w1200-h630-p-k-no-nu"
+        },
+        {
           "id": "https://d365fotechexpert.blogspot.com/2026/06/check-whether-original-transaction-has.html",
           "author": null,
           "description": "Purpose\nThe purpose of this document is to demonstrate how to identify whether an original transaction associated with a voucher contains any document attachments in Microsoft Dynamics 365 Finance and Operations.\nThis functionality can be useful when:\n\nDisplaying an attachment indicator in Voucher Transactions form.\n\nEnabling users to quickly identify transactions that have supporting documents attached.\n\n\nExtending voucher inquiry forms with attachment status.\n\nProduct\nMicrosoft Dynamics 365 Finance and Operations (D365FO)\nDevelopment Approach\nThe solution leverages the standard D365FO framework classes:\nGeneralJournalEntry\n\nGeneralJournalAccountEntry\n\nOriginalDocuments\n\nTmpLedgerBase\n\nDocuRef\n\nThe logic follows the same approach used by the standard Voucher Transactions > Original Docume…",
@@ -90466,16 +90476,6 @@
           "wordCount": 2240,
           "title": "Health and Safety with Dynamics 365 Human Resources",
           "imageUrl": "https://paragchapre.com/wp-content/uploads/2024/08/Health-and-safety-in-Dynamics-365-Human-Resources.png"
-        },
-        {
-          "id": "https://thepixelcurve.com/wp/techwix/2024/05/22/quantum-sensing-for-gravity-cartography-2/",
-          "author": "Parag Chapre",
-          "description": "In order to write the perfect blog post, you need to break your content up into paragraphs. While most blog posts use paragraphs, few use them well. Take the time to put links in your blog post...",
-          "link": "https://paragchapre.com/machine-learning-basics-everyone-should-know/",
-          "publishedOn": "2024-06-26T05:17:27.000Z",
-          "wordCount": 3396,
-          "title": "Machine Learning Basics Everyone Should Know",
-          "imageUrl": null
         }
       ]
     },
