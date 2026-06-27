@@ -85502,6 +85502,26 @@
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
         {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=202395",
+          "author": "Darya Mazandarany and Deva Rajamohan",
+          "description": "The Microsoft 2026 Work Trend Index is clear: the constraint on transformation is not people, but the gap between what employees can do and what organizations are built to support.\nThe post Customer experience leadership in the age of AI: A new operating model with Dynamics 365 appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/06/22/customer-experience-leadership-in-the-age-of-ai-a-new-operating-model-with-dynamics-365/",
+          "publishedOn": "2026-06-22T15:00:00.000Z",
+          "wordCount": 6775,
+          "title": "Customer experience leadership in the age of AI: A new operating model with Dynamics 365",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/06/team-meeting-collaboration-office-project-planning-1024x576.png"
+        },
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=202503",
+          "author": "Alan Ross",
+          "description": "Workforce engagement management in Dynamics 365 helps service organizations plan, manage, and improve performance across customer service reps and AI agents. With forecasting, scheduling, real-time adherence, AI Agent Estimator, quality evaluation, governance, and coaching capabilities built into the service platform, teams can create a more connected and responsive operating model.\nThe post Optimize workforce operations across people and AI agents with Dynamics 365 appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/22/workforce-engagement-management-dynamics-3/",
+          "publishedOn": "2026-06-22T15:00:00.000Z",
+          "wordCount": 6577,
+          "title": "Optimize workforce operations across people and AI agents with Dynamics 365",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/06/AdobeStock_2059153319-scaled.jpeg"
+        },
+        {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=202520",
           "author": "Heer Patel and Jonathan Baker",
           "description": "Field Service Mobile just got smarter.\nThe post What’s New in Dynamics 365 Field Service Mobile appeared first on Microsoft Dynamics 365 Blog.",
@@ -87780,16 +87800,6 @@
           "wordCount": 3061,
           "title": "Use expanded Copilot for Service capabilities in your CRM",
           "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/02/MSFT_M365_FEB23_320727_Blog_Blogheader_240227_V03_1200.png"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/06/26/discover-the-power-of-copilot-in-dynamics-365-project-operations-for-faster-time-entry/",
-          "author": "Rupa Mantravadi",
-          "description": "For service-centric organizations, Dynamics 365 Project Operations, enriched with Copilot capabilities, is the key to managing the entire lifecycle effectively—from initial client engagement to project completion and beyond.\nThe post Discover the power of Copilot in Dynamics 365 Project Operations for faster time entry appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/06/26/discover-the-power-of-copilot-in-dynamics-365-project-operations-for-faster-time-entry/",
-          "publishedOn": "2024-06-26T15:00:00.000Z",
-          "wordCount": 3579,
-          "title": "Discover the power of Copilot in Dynamics 365 Project Operations for faster time entry",
-          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/06/D365_Blog_Lifestyle_Abstract-08.png"
         }
       ]
     },
@@ -90059,16 +90069,6 @@
           "wordCount": 14275,
           "title": "Open Address in Google Maps with Two Clicks",
           "imageUrl": null
-        },
-        {
-          "id": "https://ax.docentric.com/?p=28794",
-          "author": "Slobodan Vucicevic",
-          "description": "Keeping customers updated on their unpaid invoices is key for timely payments and maintaining healthy relationships 😀. In Dynamics 365 for Finance and Operations (D365FO), the standard Customer account statement report helps by showing both settled and unsettled payments. Usually, these statements are emailed to […]\nThe post Remind Your Customers About Unsettled Invoice Amounts appeared first on Docentric AX.",
-          "link": "https://ax.docentric.com/remind-your-customers-about-unsettled-invoice-amounts/",
-          "publishedOn": "2024-06-27T13:10:47.000Z",
-          "wordCount": 18504,
-          "title": "Remind Your Customers About Unsettled Invoice Amounts",
-          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/06/D365Blog_CustAccStatementWithOpenInvoices_Title.jpg"
         }
       ]
     },
@@ -90742,6 +90742,16 @@
       "feedUrl": "https://erconsult.eu/feed/",
       "siteUrl": "https://erconsult.eu/",
       "articles": [
+        {
+          "id": "https://erconsult.eu/?p=10841",
+          "author": "Eugen Glasow",
+          "description": "The French e-invoicing reform requires classifying invoices as Goods (\"G\"), Services (\"S\"), or Mixed (\"M\"). By analyzing UNECE standard unit codes in the electronic output, we can reliably automate this classification. This method successfully filters out ancillary shipping charges while correctly identifying true mixed-mode transactions directly from the XML payload.\nThe post Biens ou Services ou Mixte? appeared first on ER-Consult.",
+          "link": "https://erconsult.eu/blog/biens-ou-services-ou-mixte/",
+          "publishedOn": "2026-06-26T15:19:26.000Z",
+          "wordCount": 2149,
+          "title": "Biens ou Services ou Mixte?",
+          "imageUrl": "https://erconsult.eu/wp-content/uploads/2024/09/Austrian_EInvoice.png"
+        },
         {
           "id": "https://erconsult.eu/?p=10624",
           "author": "Eugen Glasow",
