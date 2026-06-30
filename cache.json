@@ -1311,16 +1311,6 @@
           "wordCount": 4653,
           "title": "Schedule generator with R",
           "imageUrl": "https://tomaztsql.wordpress.com/wp-content/uploads/2024/07/image-1.png?w=334"
-        },
-        {
-          "id": "http://tomaztsql.wordpress.com/?p=10010",
-          "author": "tomaztsql",
-          "description": "Let’s play with some dragons. Dragons from the Jurassic park or the board game dungeon and dragons. The algorithm is a fractal curve of Hausdorff dimension 2. One starts with one segment. In each iteration the number of segments is…\nRead more ›",
-          "link": "https://tomaztsql.wordpress.com/2024/06/30/little-useless-useful-r-functions-dragon-curve/",
-          "publishedOn": "2024-06-30T14:23:48.000Z",
-          "wordCount": 4399,
-          "title": "Little useless-useful R functions – Dragon curve",
-          "imageUrl": "https://tomaztsql.wordpress.com/wp-content/uploads/2024/06/image-7.png"
         }
       ]
     },
@@ -83922,6 +83912,16 @@
       "siteUrl": "https://anithasantosh.wordpress.com",
       "articles": [
         {
+          "id": "http://anithasantosh.wordpress.com/?p=4653",
+          "author": "AnithaEswaran",
+          "description": "Most of us are now familiar with UDE, USE, and UPE in the D365FO ecosystem. While the foundational setup for these environments remains largely consistent, the screens, navigation paths, and configuration touchpoints continue to evolve with each platform update. This … Continue reading →",
+          "link": "https://anithasantosh.wordpress.com/2026/06/29/the-ultimate-ude-playbook-setting-up-unified-development-for-modern-d365fo-projects/",
+          "publishedOn": "2026-06-29T20:18:54.000Z",
+          "wordCount": 4225,
+          "title": "The Ultimate UDE Playbook — Setting Up Unified Development for Modern D365FO Projects",
+          "imageUrl": "https://anithasantosh.wordpress.com/wp-content/uploads/2026/06/image-78.png"
+        },
+        {
           "id": "http://anithasantosh.wordpress.com/?p=4627",
           "author": "AnithaEswaran",
           "description": "After the database restore, we might face the following error ‘The formal parameter was not declared as an OUTPUT parameter, but the actual parameter passed in the requested output’ Given below one error where it says something about ‘getNumInternalWithNoBlocking’ Few … Continue reading →",
@@ -89819,26 +89819,6 @@
           "wordCount": 12917,
           "title": "D365FO SysLastValue Framework Simplified",
           "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/08/D365Blog_D365FO_SysLastValue_Framework_Simplified.jpg"
-        },
-        {
-          "id": "https://ax.docentric.com/?p=28876",
-          "author": "Slobodan Vucicevic",
-          "description": "When you access customer or vendor details in Dynamics 365 for Finance and Operations (D365FO), their addresses are listed like this: “456 Peach Road, San Diego, CA 92114, USA”. This is great if you're familiar with San Diego, but if you're in Europe, for example, […]\nThe post Open Address in Google Maps with Right-Click in D365FO appeared first on Docentric AX.",
-          "link": "https://ax.docentric.com/open-address-in-google-maps-with-right-click-in-d365fo/",
-          "publishedOn": "2024-06-30T08:27:49.000Z",
-          "wordCount": 14312,
-          "title": "Open Address in Google Maps with Right-Click in D365FO",
-          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/06/D365Blog_open_address_in_googlemaps_with_two_clicks.png"
-        },
-        {
-          "id": "https://ax.docentric.com/?p=28876",
-          "author": "Slobodan Vucicevic",
-          "description": "When you access customer or vendor details in Dynamics 365 for Finance and Operations (D365FO), their addresses listed like this: “456 Peach Road, San Diego, CA 92114, USA”. This is great if you're familiar with San Diego, but if you're in Europe, for example, it […]\nThe post Open Address in Google Maps with Two Clicks appeared first on Docentric AX.",
-          "link": "https://ax.docentric.com/open-address-in-google-maps-with-two-clicks/",
-          "publishedOn": "2024-06-30T08:27:49.000Z",
-          "wordCount": 14275,
-          "title": "Open Address in Google Maps with Two Clicks",
-          "imageUrl": null
         }
       ]
     },
@@ -89847,6 +89827,16 @@
       "feedUrl": "https://paragchapre.com/feed/",
       "siteUrl": "https://www.paragchapre.com",
       "articles": [
+        {
+          "id": "https://www.paragchapre.com/?p=16993",
+          "author": "Parag Chapre",
+          "description": "A new way to streamline approval governance In today’s fast-moving organizations, managing financial approvals and signing authorities is more critical and complex than ever. Many organizations using Dynamics 365 Finance & Operations still rely on fragmented solutions or manual processes to track signing limits. This often leads to inefficiencies, lack of visibility, and governance risks.…",
+          "link": "https://www.paragchapre.com/signing-limit-app-dynamics-365-finance-operations/",
+          "publishedOn": "2026-06-29T06:30:10.000Z",
+          "wordCount": 4433,
+          "title": "Introducing Signing Limit App: A smarter way to manage signing authority in Dynamics 365 Finance and Operations",
+          "imageUrl": "https://www.paragchapre.com/wp-content/uploads/2026/06/Signing-Limit-App.webp"
+        },
         {
           "id": "https://www.paragchapre.com/?p=16955",
           "author": "Parag Chapre",
