@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-06-30T02:35:34.798Z</updated>
+    <updated>2026-07-01T02:41:53.329Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot Adoption: What Actually Works]]></title>
+        <id>https://365community.online/microsoft-copilot-adoption-what-actually-works</id>
+        <link href="https://365community.online/microsoft-copilot-adoption-what-actually-works"/>
+        <updated>2026-07-01T02:11:43.000Z</updated>
+        <summary type="html"><![CDATA[Artificial Intelligence has moved beyond experimentation and into the heart of modern business. Yet while organizations are investing heavily in Microsoft Copilot, many struggle to achieve meaningful adoption and measurable business value. Simply assigning licenses is no longer enough. Successful AI transformation requires governance, training, executive sponsorship, security, and a well-defined adoption strategy that helps […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use Managed DevOps Pools for Microsoft Fabric deployments]]></title>
+        <id>https://365community.online/use-managed-devops-pools-for-microsoft-fabric-deployments</id>
+        <link href="https://365community.online/use-managed-devops-pools-for-microsoft-fabric-deployments"/>
+        <updated>2026-06-30T08:36:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post I show how you can use Managed DevOps Pools for Microsoft Fabric deployments. Which can be beneficial for a variety of reasons, including the ability to access secure Azure Key Vaults with firewall enabled. Like in the below diagram. This post is based on my previous post where I showed how to […]]]></summary>
+        <author>
+            <name>Kevin Chant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“the waldo way”]]></title>
+        <id>https://365community.online/the-waldo-way</id>
+        <link href="https://365community.online/the-waldo-way"/>
+        <updated>2026-06-29T21:51:00.000Z</updated>
+        <summary type="html"><![CDATA[So.. I need a Mandalorian helmet for this one .. wait .. I HAVE one! You know the line they keep repeating: “this is the way“. And the funny thing about Mandalorians is .. they never actually question it. It’s “creed”. You do it because.. well .. that’s the way. End of discussion. And lately I caught […]]]></summary>
+        <author>
+            <name>Waldo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Ultimate UDE Playbook — Setting Up Unified Development for Modern D365FO Projects]]></title>
         <id>http://anithasantosh.wordpress.com/?p=4653</id>
@@ -17,6 +47,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Building a Business Central AI Documentation Assistant: Turning Metadata into Business Knowledge]]></title>
+        <id>https://365community.online/building-a-business-central-ai-documentation-assistant-turning-metadata-into-business-knowledge</id>
+        <link href="https://365community.online/building-a-business-central-ai-documentation-assistant-turning-metadata-into-business-knowledge"/>
+        <updated>2026-06-29T07:18:00.000Z</updated>
+        <summary type="html"><![CDATA[While exploring different AI possibilities around Business Central, I started looking at another area where consultants spend a considerable amount of time — documentation. During implementations and support activities, I noticed that the information required for documentation is usually already available. The solution is built, the processes are defined, and the technical details exist within […]]]></summary>
+        <author>
+            <name>Amol Salvi</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Introducing Signing Limit App: A smarter way to manage signing authority in Dynamics 365 Finance and Operations]]></title>
         <id>https://www.paragchapre.com/?p=16993</id>
         <link href="https://www.paragchapre.com/signing-limit-app-dynamics-365-finance-operations/"/>
@@ -24,6 +64,46 @@
         <summary type="html"><![CDATA[A new way to streamline approval governance In today’s fast-moving organizations, managing financial approvals and signing authorities is more critical and complex than ever. Many organizations using Dynamics 365 Finance & Operations still rely on fragmented solutions or manual processes to track signing limits. This often leads to inefficiencies, lack of visibility, and governance risks.…]]></summary>
         <author>
             <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The End of Data Entry: Why Your Business Logic is Moving to Agents]]></title>
+        <id>https://365community.online/the-end-of-data-entry-why-your-business-logic-is-moving-to-agents</id>
+        <link href="https://365community.online/the-end-of-data-entry-why-your-business-logic-is-moving-to-agents"/>
+        <updated>2026-06-28T00:37:37.000Z</updated>
+        <summary type="html"><![CDATA[For decades, enterprise software was built around a simple idea: store information in a central system and make it available when people need it. CRM systems stored customer data. ERP platforms stored transactions. Finance systems stored invoices. Organizations invested billions of dollars building systems of record designed to become the single source of truth. But […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Putting Governance in Charge of Adoption by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace]]></title>
+        <id>https://365community.online/stop-putting-governance-in-charge-of-adoption-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace</id>
+        <link href="https://365community.online/stop-putting-governance-in-charge-of-adoption-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace"/>
+        <updated>2026-06-28T00:36:21.000Z</updated>
+        <summary type="html"><![CDATA[Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Putting Governance in Charge of Adoption by Ragnar365 Nuggets: Microsoft 365 AI-powered Workplace]]></title>
+        <id>https://365community.online/stop-putting-governance-in-charge-of-adoption-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace-2</id>
+        <link href="https://365community.online/stop-putting-governance-in-charge-of-adoption-by-ragnar365-nuggets-microsoft-365-ai-powered-workplace-2"/>
+        <updated>2026-06-28T00:36:21.000Z</updated>
+        <summary type="html"><![CDATA[Episode 17 of “Guardians of Microsoft 365 Governance” featured hosts MVPs Christian Buckley, Joy Apple and Ragnar Heil discussing Copilot Studio governance with guest Matthias Einig, CEO of Rencore. Agent Sprawl Crisis: Organizations are experiencing explosive growth in Copilot Studio agents – one customer already has 20,000 agents in just six months. Unlike traditional M365 […]]]></summary>
+        <author>
+            <name>Ragnar Heil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Feature Clips: Turn Posts Into Social-ready Video]]></title>
+        <id>https://365community.online/introducing-feature-clips-turn-posts-into-social-ready-video</id>
+        <link href="https://365community.online/introducing-feature-clips-turn-posts-into-social-ready-video"/>
+        <updated>2026-06-26T18:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Your words deserve more than one place to land. A great post can reach readers on your site and viewers on the platforms where short-form video thrives, including Instagram Reels, TikTok, and YouTube Shorts. Until now, doing both usually meant opening another tool, learning video editing, or getting in front of a camera. Feature Clips […]]]></summary>
+        <author>
+            <name>Belinda Allen</name>
         </author>
     </entry>
     <entry>
@@ -83,6 +163,16 @@ Are You Getting The Most From Your ERP Solution or Are You On Cruise Control?
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Collaboration with OneDrive vs. Teams vs. SharePoint]]></title>
+        <id>https://365community.online/collaboration-with-onedrive-vs-teams-vs-sharepoint</id>
+        <link href="https://365community.online/collaboration-with-onedrive-vs-teams-vs-sharepoint"/>
+        <updated>2026-06-26T13:42:00.000Z</updated>
+        <summary type="html"><![CDATA[One of the most common challenges I see across organizations isn’t a lack of technology, it’s confusion about which tool to use when relating to collaboration. Microsoft 365 gives us an incredibly powerful ecosystem. But with tools like OneDrive, Teams, SharePoint—and now the evolving Copilot landscape people often ask: “Where should this live?”“Which tool should […]]]></summary>
+        <author>
+            <name>Peter Petersen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[5 Reasons US Based Dynamics 365 Partners Should Attend Directions EMEA 2026]]></title>
         <id>https://erpsoftwareblog.com/?p=150161</id>
         <link href="https://erpsoftwareblog.com/2026/06/5-reasons-us-based-dynamics-365-partners-should-attend-directions-emea-2026/"/>
@@ -110,6 +200,16 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>HSO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#MapsAroundTheWorld: Maps Are Hard, Memes Are Forever]]></title>
+        <id>https://365community.online/mapsaroundtheworld-maps-are-hard-memes-are-forever</id>
+        <link href="https://365community.online/mapsaroundtheworld-maps-are-hard-memes-are-forever"/>
+        <updated>2026-06-26T10:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome back to the second instalment of our #MapsAroundTheWorld blog series! If Part 1 had you laughing at Santorini tourists, confused Canadians, and the very real scale of Africa, then buckle up, because the internet has not run out of map-based chaos just yet. Team Maplytics is back with another round of geography memes, global […]]]></summary>
+        <author>
+            <name>365 Community Online</name>
         </author>
     </entry>
     <entry>
@@ -200,6 +300,17 @@ ISVs in D365FO – The solution to the customization conundrum
 Why an Insurance Broker’s Finance Team Chose Dynamics 365]]></summary>
         <author>
             <name>Binary Stream</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolutionizing customer support with autonomous email resolution]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/25/autonomous-email-resolution-dynamics-365/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/25/autonomous-email-resolution-dynamics-365/"/>
+        <updated>2026-06-25T15:19:38.000Z</updated>
+        <summary type="html"><![CDATA[Autonomous Email Resolution is a generative AI-powered capability that helps service teams resolve customer emails end to end. It understands the customer’s request, identifies the intent, determines whether the required information is available, and generates a resolution-ready response using enterprise knowledge, configured instructions, connectors, and custom agents.
+The post Revolutionizing customer support with autonomous email resolution appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Ramnath Srinivasan, Saurabh Gupta and Harish Tyagi</name>
         </author>
     </entry>
     <entry>
@@ -114021,56 +114132,6 @@ Decoding the Warehouse: Serial vs. Batch Numbers and Why They Matter]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Business Central 24 – priority of jobs queues within the job queue category]]></title>
-        <id>https://365community.online/business-central-24-priority-of-jobs-queues-within-the-job-queue-category</id>
-        <link href="https://365community.online/business-central-24-priority-of-jobs-queues-within-the-job-queue-category"/>
-        <updated>2024-07-01T12:51:49.000Z</updated>
-        <summary type="html"><![CDATA[Business Central 24 – priority of jobs queues within the job queue category “Priority” field in job queue is no longer supported since Dynamics NAV 15. Previously it was possible […]]]></summary>
-        <author>
-            <name>Roberto Stefanetti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Utilize Copilot for Extracting Answers from SharePoint Sales Documents]]></title>
-        <id>https://365community.online/utilize-copilot-for-extracting-answers-from-sharepoint-sales-documents</id>
-        <link href="https://365community.online/utilize-copilot-for-extracting-answers-from-sharepoint-sales-documents"/>
-        <updated>2024-07-01T12:21:04.000Z</updated>
-        <summary type="html"><![CDATA[As I am part of a technical startup’s sales team, getting quick information is crucial for client meetings. Recently, during a presentation, a potential client asked, “Can you provide details […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Financial), how do I… Create a New Fiscal Year]]></title>
-        <id>https://365community.online/in-microsoft-dynamics-365-business-central-financial-how-do-i-create-a-new-fiscal-year</id>
-        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-financial-how-do-i-create-a-new-fiscal-year"/>
-        <updated>2024-07-01T10:00:13.000Z</updated>
-        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Financial), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Customize the Schedule Board to show bookable resource attribute – Dynamics 365 Field Service]]></title>
-        <id>https://365community.online/customize-the-schedule-board-to-show-bookable-resource-attribute-dynamics-365-field-service</id>
-        <link href="https://365community.online/customize-the-schedule-board-to-show-bookable-resource-attribute-dynamics-365-field-service"/>
-        <updated>2024-07-01T04:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Below we can see the resource cell template (or view) applied that defines the images, values, and fields displayed for the resource in the Schedule Board. Now suppose we want […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Session at Kohinoor Grammar School & College]]></title>
-        <id>https://365community.online/my-session-at-kohinoor-grammar-school-college</id>
-        <link href="https://365community.online/my-session-at-kohinoor-grammar-school-college"/>
-        <updated>2024-07-01T00:13:35.000Z</updated>
-        <summary type="html"><![CDATA[Last Friday, June 28, 2024, I presented “App Development with Power Platform” at Kohinoor Grammar School & College in Faisalabad, Pakistan. It was a wonderful gathering of around 100 youngsters. […]]]></summary>
-        <author>
-            <name>Yawer Iqbal</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AP Automation in Microsoft Dynamics 365 Business Central with Rillion]]></title>
         <id>https://erpsoftwareblog.com/?p=107836</id>
         <link href="https://erpsoftwareblog.com/2024/06/ap-automation-in-microsoft-dynamics-365-business-central-with-rillion/"/>
@@ -114082,36 +114143,6 @@ Dynamics 365 Business Central and Industry-Tailored Functionality
 Pitfall #6 – AP Automation for Microsoft Dynamics]]></summary>
         <author>
             <name>Rillion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI’s Impact on Industries and the Future of AI in Healthcare – YouTube]]></title>
-        <id>https://365community.online/ais-impact-on-industries-and-the-future-of-ai-in-healthcare-youtube</id>
-        <link href="https://365community.online/ais-impact-on-industries-and-the-future-of-ai-in-healthcare-youtube"/>
-        <updated>2024-06-30T21:33:31.000Z</updated>
-        <summary type="html"><![CDATA[AI’s Impact on Industries and the Future of AI in Healthcare The conversation covers the post-event reflections on Dynamics Minds, the experience of attending the event, and the panel discussion […]]]></summary>
-        <author>
-            <name>NZ365Guy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Helping Me – Helping You]]></title>
-        <id>https://365community.online/helping-me-helping-you</id>
-        <link href="https://365community.online/helping-me-helping-you"/>
-        <updated>2024-06-30T12:17:48.000Z</updated>
-        <summary type="html"><![CDATA[Starting up a business? Nope. Well, I have my own small company – we all have one, of course, mostly for fun, and it is clearly dormant. Don’t you have […]]]></summary>
-        <author>
-            <name>Jonas Rapp ᴹᴠᴾ ??</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BatchRetryable Top Picking Batch Job Example]]></title>
-        <id>https://365community.online/batchretryable-top-picking-batch-job-example</id>
-        <link href="https://365community.online/batchretryable-top-picking-batch-job-example"/>
-        <updated>2024-06-29T20:09:40.000Z</updated>
-        <summary type="html"><![CDATA[BatchRetryable Top Picking Batch Job Example 06/29/24 BatchRetryable Top Picking Batch Job Example I recently presented at DynamicsMinds on batch jobs and how to design them for specific types of workloads. There […]]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
         </author>
     </entry>
     <entry>
@@ -114143,406 +114174,6 @@ BatchRetryable Top Picking Batch Job Example
 I recently presented at DynamicsMinds on batch jobs and how to design them for specific types of workloads. There was interest in code samples so this in one of those code samples talking about Top Picking with a review. Top picking is a method of creating a list of work that is stored in a table then "picking" from the "top" of it. You can think of it as a queue with mutliple consumers popping stuff from the queue to process. We're not using a real queue but we're getting very similar results. In prior articles, I used an analogy of a highway. While other batch job design methods maybe make use of the different lanes on the highway in different ways by used some kind of met…]]></summary>
         <author>
             <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D365 HR Benefits statements, why and how.]]></title>
-        <id>https://365community.online/d365-hr-benefits-statements-why-and-how</id>
-        <link href="https://365community.online/d365-hr-benefits-statements-why-and-how"/>
-        <updated>2024-06-29T19:37:39.000Z</updated>
-        <summary type="html"><![CDATA[One of the cool features we have within Dynamics 365 Human Resources is the Benefits statement. According to Microsoft official documentation benefits statements are: How can you get into the […]]]></summary>
-        <author>
-            <name>Ana Inés Urrutia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Working with AI Prompts]]></title>
-        <id>https://365community.online/working-with-ai-prompts</id>
-        <link href="https://365community.online/working-with-ai-prompts"/>
-        <updated>2024-06-28T21:33:47.000Z</updated>
-        <summary type="html"><![CDATA[One of the things that makes me happy and boosts my mood – believe it or not – is to find innovative ways to do things and alternatives to the […]]]></summary>
-        <author>
-            <name>Ana Inés Urrutia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 5 Java Interview Questions For Intermediate | MindMajix  #javacodinginterviewquestions #shorts – YouTube]]></title>
-        <id>https://365community.online/top-5-java-interview-questions-for-intermediate-mindmajix-javacodinginterviewquestions-shorts-youtube</id>
-        <link href="https://365community.online/top-5-java-interview-questions-for-intermediate-mindmajix-javacodinginterviewquestions-shorts-youtube"/>
-        <updated>2024-06-28T12:00:31.000Z</updated>
-        <summary type="html"><![CDATA[In this short video, we have covered the most frequently asked top 5 Java Interview Questions For Intermediate candidates. Ensure to prepare for these questions before your Java interview. Check […]]]></summary>
-        <author>
-            <name>Jaya Sri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automating Customer Enquiry Handling with Dynamics 365 and Power Platform Connectors in Copilot Studio]]></title>
-        <id>https://365community.online/automating-customer-enquiry-handling-with-dynamics-365-and-power-platform-connectors-in-copilot-studio</id>
-        <link href="https://365community.online/automating-customer-enquiry-handling-with-dynamics-365-and-power-platform-connectors-in-copilot-studio"/>
-        <updated>2024-06-28T11:47:58.000Z</updated>
-        <summary type="html"><![CDATA[In today’s digital age, providing a seamless and efficient way for customers to submit enquiries or complaints via a company’s website is essential for maintaining customer satisfaction. Integrating this process […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use ‘current location’ to Plot and Analyze data on a map integrated within Dynamics 365 CRM]]></title>
-        <id>https://365community.online/use-current-location-to-plot-and-analyze-data-on-a-map-integrated-within-dynamics-365-crm</id>
-        <link href="https://365community.online/use-current-location-to-plot-and-analyze-data-on-a-map-integrated-within-dynamics-365-crm"/>
-        <updated>2024-06-28T10:39:03.000Z</updated>
-        <summary type="html"><![CDATA[Getting to view your data on a map in the form of coloured pushpins is a luxury. It is said to reduce the time spent on analysis by at least […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Torne-se um Citizen Developer – Aula 6 – YouTube]]></title>
-        <id>https://365community.online/torne-se-um-citizen-developer-aula-6-youtube</id>
-        <link href="https://365community.online/torne-se-um-citizen-developer-aula-6-youtube"/>
-        <updated>2024-06-28T10:03:50.000Z</updated>
-        <summary type="html"><![CDATA[Torne-se um Citizen Developer – Aula 6 source]]></summary>
-        <author>
-            <name>Victor Dantas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Financial), how do I… Understand Accounting Periods and Fiscal Years]]></title>
-        <id>https://365community.online/in-microsoft-dynamics-365-business-central-financial-how-do-i-understand-accounting-periods-and-fiscal-years</id>
-        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-financial-how-do-i-understand-accounting-periods-and-fiscal-years"/>
-        <updated>2024-06-28T10:00:38.000Z</updated>
-        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Financial), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Handling Business Central Telemetry like a boss: my Azure Data Explorer dashboard]]></title>
-        <id>https://365community.online/handling-business-central-telemetry-like-a-boss-my-azure-data-explorer-dashboard</id>
-        <link href="https://365community.online/handling-business-central-telemetry-like-a-boss-my-azure-data-explorer-dashboard"/>
-        <updated>2024-06-28T09:37:14.000Z</updated>
-        <summary type="html"><![CDATA[You might have seen it, you might haven even been there – but in any case: this year, at BCTechDays, I did a session about “Telemetry”.  And since BCTechDays posts […]]]></summary>
-        <author>
-            <name>Waldo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekly Update #143 – 28th June 2024 – YouTube]]></title>
-        <id>https://365community.online/weekly-update-143-28th-june-2024-youtube</id>
-        <link href="https://365community.online/weekly-update-143-28th-june-2024-youtube"/>
-        <updated>2024-06-28T07:48:09.000Z</updated>
-        <summary type="html"><![CDATA[Weekly Update #143 – 28th June 2024 Tune in as I explore the latest Azure updates from the past week. Enjoyed the podcast? Consider buying me a coffee to show […]]]></summary>
-        <author>
-            <name>Sarah Lean ???????</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BatchRetryable Bundled Batch Job Example]]></title>
-        <id>https://365community.online/batchretryable-bundled-batch-job-example</id>
-        <link href="https://365community.online/batchretryable-bundled-batch-job-example"/>
-        <updated>2024-06-28T01:20:25.000Z</updated>
-        <summary type="html"><![CDATA[BatchRetryable Bundled Batch Job Example 06/27/24 BatchRetryable Bundled Batch Job Example I recently presented at DynamicsMinds on batch jobs and how to design them for specific types of workloads. There was interest […]]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Powershell to Deploy a PPAC UNO Environment]]></title>
-        <id>https://365community.online/powershell-to-deploy-a-ppac-uno-environment</id>
-        <link href="https://365community.online/powershell-to-deploy-a-ppac-uno-environment"/>
-        <updated>2024-06-28T00:55:59.000Z</updated>
-        <summary type="html"><![CDATA[Submitted by Nathan Clouse on 06/27/24. Last modified:  06/27/24 PowerShell Script to Deploy an UNO Environment Below is a PowerShell script to deploy a unified developer environment for F&O. But […]]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Administration), how do I… Access Business Central]]></title>
-        <id>https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-access-business-central</id>
-        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-access-business-central"/>
-        <updated>2024-06-27T10:00:40.000Z</updated>
-        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design Patterns: Factory Method]]></title>
-        <id>https://365community.online/design-patterns-factory-method</id>
-        <link href="https://365community.online/design-patterns-factory-method"/>
-        <updated>2024-06-27T09:53:32.000Z</updated>
-        <summary type="html"><![CDATA[Photo by Aleksandr Popov via Unsplash Welcome to the second instalment in my design patterns series, in which I’ll be sharing what I’ve learned about the Factory Method design pattern. Click […]]]></summary>
-        <author>
-            <name>Kieran Holmes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Empower Healthcare CRMs with Streamlined Dynamics 365 Data & Better Patient Care with Click2Clone]]></title>
-        <id>https://365community.online/empower-healthcare-crms-with-streamlined-dynamics-365-data-better-patient-care-with-click2clone</id>
-        <link href="https://365community.online/empower-healthcare-crms-with-streamlined-dynamics-365-data-better-patient-care-with-click2clone"/>
-        <updated>2024-06-27T08:49:44.000Z</updated>
-        <summary type="html"><![CDATA[Healthcare organizations are increasingly turning to Microsoft Dynamics 365 CRM to enhance their operational efficiency and patient care capabilities. CRM offers a robust platform for managing patient information, streamlining administrative […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎉Celebrating a milestone: Becoming a Microsoft Most Valuable Professional (MVP)]]></title>
-        <id>https://365community.online/%f0%9f%8e%89celebrating-a-milestone-becoming-a-microsoft-most-valuable-professional-mvp</id>
-        <link href="https://365community.online/%f0%9f%8e%89celebrating-a-milestone-becoming-a-microsoft-most-valuable-professional-mvp"/>
-        <updated>2024-06-27T08:00:55.000Z</updated>
-        <summary type="html"><![CDATA[Hello all, Since June 2024, I can call myself a Microsoft Most Valuable Professional (MVP) in Microsoft Intune. This is not just any title you can get. After 2 previous […]]]></summary>
-        <author>
-            <name>Jeroen Burgerhout</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Novedades para Copilot for Sales en Teams]]></title>
-        <id>https://365community.online/novedades-para-copilot-for-sales-en-teams</id>
-        <link href="https://365community.online/novedades-para-copilot-for-sales-en-teams"/>
-        <updated>2024-06-27T07:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Junio trae nuevas mejoras también para Copilot for Sales en Teams. Copilot for Sales en Teams quizá esta eclipsado por el despliegue de capacidades en Outlook pero el potencial de […]]]></summary>
-        <author>
-            <name>jarmesto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to get the Flow Run URL in the Power Automate?]]></title>
-        <id>https://365community.online/how-to-get-the-flow-run-url-in-the-power-automate</id>
-        <link href="https://365community.online/how-to-get-the-flow-run-url-in-the-power-automate"/>
-        <updated>2024-06-27T06:54:56.000Z</updated>
-        <summary type="html"><![CDATA[There might be a situation where we need to use the flow run URL, to see the Flow Run Status and if it is failed, using this we can easily […]]]></summary>
-        <author>
-            <name>Arun Potti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nailing it, with Sara Fennah – YouTube]]></title>
-        <id>https://365community.online/nailing-it-with-sara-fennah-youtube-2</id>
-        <link href="https://365community.online/nailing-it-with-sara-fennah-youtube-2"/>
-        <updated>2024-06-26T13:05:55.000Z</updated>
-        <summary type="html"><![CDATA[In this episode we chat with MCT and MVP Sarah Fennah about her involvment in Scottish Summit past, present and future. And of course, the legendary pub quiz. Scottish Summit […]]]></summary>
-        <author>
-            <name>Scottish Summit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Business Central: Partner Sandbox Environments clarifications]]></title>
-        <id>https://365community.online/dynamics-365-business-central-partner-sandbox-environments-clarifications</id>
-        <link href="https://365community.online/dynamics-365-business-central-partner-sandbox-environments-clarifications"/>
-        <updated>2024-06-26T13:02:04.000Z</updated>
-        <summary type="html"><![CDATA[More than two years ago I wrote this post explaining the concept of Partner Sandbox Environments and providing the link to use in order to ask for its activation. This […]]]></summary>
-        <author>
-            <name>Stefano Demiliani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dell Boomi Full Course | Part 5 – Dell Boomi XML, Hierarchy, Structures | MindMajix – YouTube]]></title>
-        <id>https://365community.online/dell-boomi-full-course-part-5-dell-boomi-xml-hierarchy-structures-mindmajix-youtube</id>
-        <link href="https://365community.online/dell-boomi-full-course-part-5-dell-boomi-xml-hierarchy-structures-mindmajix-youtube"/>
-        <updated>2024-06-26T12:00:47.000Z</updated>
-        <summary type="html"><![CDATA[In this Dell Boomi full course for beginners you will learn all the concepts of Dell Boomi from scratch. In this particular Dell Boomi training video you will learn about […]]]></summary>
-        <author>
-            <name>Jaya Sri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Convert speech to text using Azure Speech service in Power Automate Flow]]></title>
-        <id>https://365community.online/convert-speech-to-text-using-azure-speech-service-in-power-automate-flow</id>
-        <link href="https://365community.online/convert-speech-to-text-using-azure-speech-service-in-power-automate-flow"/>
-        <updated>2024-06-26T10:26:29.000Z</updated>
-        <summary type="html"><![CDATA[Azure provides Speech Services that let developers add advanced speech features to achieve complex functionality, including Speech-to-Text. With Azure Speech Services, we can convert speech to text.  In this blog […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Administration), how do I… Create Relationships Between Number Series]]></title>
-        <id>https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-create-relationships-between-number-series</id>
-        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-create-relationships-between-number-series"/>
-        <updated>2024-06-26T10:00:38.000Z</updated>
-        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Novedades en Copilot for Sales en Outlook]]></title>
-        <id>https://365community.online/novedades-en-copilot-for-sales-en-outlook</id>
-        <link href="https://365community.online/novedades-en-copilot-for-sales-en-outlook"/>
-        <updated>2024-06-26T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Al igual que en Dynamics 365 Sales en Copilot For Sales también tenemos novedades veraniegas. Este nuevo conjunto de actualizaciones proporciona a los usuarios una gama ampliada de herramientas y […]]]></summary>
-        <author>
-            <name>jarmesto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Import Sequence Number attribute in Dataverse]]></title>
-        <id>https://365community.online/import-sequence-number-attribute-in-dataverse</id>
-        <link href="https://365community.online/import-sequence-number-attribute-in-dataverse"/>
-        <updated>2024-06-26T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Import Sequence Number is an internal field (whole number), that acts as a unique identifier of the data import or data migration that created this record that ensures data consistency […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copilot in Business Central : Suggest lines on sales documents.]]></title>
-        <id>https://365community.online/copilot-in-business-central-suggest-lines-on-sales-documents</id>
-        <link href="https://365community.online/copilot-in-business-central-suggest-lines-on-sales-documents"/>
-        <updated>2024-06-25T16:35:43.000Z</updated>
-        <summary type="html"><![CDATA[One of the new features of Copilot in Business Central is the sales line suggestions. With them, we can quickly obtain proposals for sales lines using natural language. Now, as […]]]></summary>
-        <author>
-            <name>jarmesto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Custom Document Validation using AI Builder within Power Pages]]></title>
-        <id>https://365community.online/custom-document-validation-using-ai-builder-within-power-pages</id>
-        <link href="https://365community.online/custom-document-validation-using-ai-builder-within-power-pages"/>
-        <updated>2024-06-25T10:37:51.000Z</updated>
-        <summary type="html"><![CDATA[Power Pages is a component of Microsoft’s Power Platform, designed to enable users to build, manage, and host modern, secure, and responsive business websites with minimal coding. It integrates seamlessly […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Torne-se um Citizen Developer – Aula 5 – YouTube]]></title>
-        <id>https://365community.online/torne-se-um-citizen-developer-aula-5-youtube</id>
-        <link href="https://365community.online/torne-se-um-citizen-developer-aula-5-youtube"/>
-        <updated>2024-06-25T10:05:41.000Z</updated>
-        <summary type="html"><![CDATA[Torne-se um Citizen Developer – Aula 5 source]]></summary>
-        <author>
-            <name>Victor Dantas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Administration), how do I… Understand Relationships Between Number Series]]></title>
-        <id>https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-understand-relationships-between-number-series</id>
-        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-understand-relationships-between-number-series"/>
-        <updated>2024-06-25T10:00:39.000Z</updated>
-        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Restore deleted Dataverse rows with the Recycle Bin(preview)]]></title>
-        <id>https://365community.online/restore-deleted-dataverse-rows-with-the-recycle-binpreview</id>
-        <link href="https://365community.online/restore-deleted-dataverse-rows-with-the-recycle-binpreview"/>
-        <updated>2024-06-25T08:11:00.000Z</updated>
-        <summary type="html"><![CDATA[Any organization that uses any type of system may at some point in time need to delete records or rows from their database(s). This can be for various reasons, like […]]]></summary>
-        <author>
-            <name>Dian Taylor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Restore deleted Dataverse rows with the Recycle Bin(preview) – YouTube]]></title>
-        <id>https://365community.online/restore-deleted-dataverse-rows-with-the-recycle-binpreview-youtube</id>
-        <link href="https://365community.online/restore-deleted-dataverse-rows-with-the-recycle-binpreview-youtube"/>
-        <updated>2024-06-25T08:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Restore deleted Dataverse rows with the Recycle Bin(preview) Sometimes you might need to reverse a deletion and restore/recover data that was deleted. If your organization is using Dataverse to build […]]]></summary>
-        <author>
-            <name>Dian Taylor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Display Custom Message When Marketing Form Blocked By Browser]]></title>
-        <id>https://365community.online/display-custom-message-when-marketing-form-blocked-by-browser</id>
-        <link href="https://365community.online/display-custom-message-when-marketing-form-blocked-by-browser"/>
-        <updated>2024-06-25T07:30:00.000Z</updated>
-        <summary type="html"><![CDATA[I love our community that blogs about and shares content on the Power Platform. It’s awesome having others there who are able to help or we can collaborate with. Amey […]]]></summary>
-        <author>
-            <name>Megan V. Walker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Installation of one or more roles, role services, or features failed. Error: 0x800f0954]]></title>
-        <id>https://365community.online/installation-of-one-or-more-roles-role-services-or-features-failed-error-0x800f0954</id>
-        <link href="https://365community.online/installation-of-one-or-more-roles-role-services-or-features-failed-error-0x800f0954"/>
-        <updated>2024-06-24T15:14:13.000Z</updated>
-        <summary type="html"><![CDATA[Installation of one or more roles, role services, or features failed. Error: 0x800f0954 06/24/24 LBD Installation of one or more roles, role services, or features failed. Error: 0x800f0954 when configuration […]]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Release of D365FO Admin Toolkit v1.5]]></title>
-        <id>https://365community.online/new-release-of-d365fo-admin-toolkit-v1-5</id>
-        <link href="https://365community.online/new-release-of-d365fo-admin-toolkit-v1-5"/>
-        <updated>2024-06-24T14:29:37.000Z</updated>
-        <summary type="html"><![CDATA[It’s time for another release of the D365FO Admin Toolkit, we are now on version 1.5! Version 1.5 Release D365FO Admin Toolkit v1.5 Release D365FO Admin Toolkit GitHub Note: This […]]]></summary>
-        <author>
-            <name>Alex Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Innovative Access Control Strategies – YouTube]]></title>
-        <id>https://365community.online/innovative-access-control-strategies-youtube</id>
-        <link href="https://365community.online/innovative-access-control-strategies-youtube"/>
-        <updated>2024-06-24T14:20:36.000Z</updated>
-        <summary type="html"><![CDATA[Learn innovative access control strategies for securing AD DS and designing IAM solutions for the sc-100 exam in this comprehensive video guide. Episode Breakdown – 00:00 – Episode Intro 00:56 […]]]></summary>
-        <author>
-            <name>shabaz darr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redirect AVD URL with a static web app]]></title>
-        <id>https://365community.online/redirect-avd-url-with-a-static-web-app</id>
-        <link href="https://365community.online/redirect-avd-url-with-a-static-web-app"/>
-        <updated>2024-06-24T12:16:04.000Z</updated>
-        <summary type="html"><![CDATA[When you read the title like this, you think "That could be pretty handy!". So that's why I put it in writing. I had this a recent customer, where I […]]]></summary>
-        <author>
-            <name>Jeroen Burgerhout</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[European Power Platform Conference (EPPC) 2024 Highlights: Announcements, Updates and Brussels!]]></title>
-        <id>https://365community.online/european-power-platform-conference-eppc-2024-highlights-announcements-updates-and-brussels</id>
-        <link href="https://365community.online/european-power-platform-conference-eppc-2024-highlights-announcements-updates-and-brussels"/>
-        <updated>2024-06-24T12:06:16.000Z</updated>
-        <summary type="html"><![CDATA[This time, let’s do things differently! We are thrilled to announce that we are back at one of the biggest yearly Power Platform events for the amazing Power Platform Community […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copilot en Business Central : Sugerencias de líneas venta.]]></title>
-        <id>https://365community.online/copilot-en-business-central-sugerencias-de-lineas-venta</id>
-        <link href="https://365community.online/copilot-en-business-central-sugerencias-de-lineas-venta"/>
-        <updated>2024-06-24T10:00:43.000Z</updated>
-        <summary type="html"><![CDATA[Una de las nuevas características de Copilot en Business Central son la sugerencias de líneas de venta. Con ellas podemos obtener usando lenguaje natural propuestas de líneas venta rápidamente. Ahora […]]]></summary>
-        <author>
-            <name>jarmesto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Administration), how do I… Understand the Master Data Management]]></title>
-        <id>https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-understand-the-master-data-management</id>
-        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-administration-how-do-i-understand-the-master-data-management"/>
-        <updated>2024-06-24T10:00:10.000Z</updated>
-        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Administration), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use Recycle Bin to restore deleted records (Preview)– Dataverse / Dynamics 365]]></title>
-        <id>https://365community.online/use-recycle-bin-to-restore-deleted-records-preview-dataverse-dynamics-365</id>
-        <link href="https://365community.online/use-recycle-bin-to-restore-deleted-records-preview-dataverse-dynamics-365"/>
-        <updated>2024-06-24T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[To enable the feature, log in to Power Platform Admin Center https://admin.powerplatform.microsoft.com/environments Environment >> Settings >> Features and enable it We can specify 30 days as the maximum recovery time. […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copilot Studio – DTMF Only Mode in IVR]]></title>
-        <id>https://365community.online/copilot-studio-dtmf-only-mode-in-ivr</id>
-        <link href="https://365community.online/copilot-studio-dtmf-only-mode-in-ivr"/>
-        <updated>2024-06-23T05:26:20.000Z</updated>
-        <summary type="html"><![CDATA[Recently one of my LinkedIn contacts reached out with an excellent question about Microsoft’s Omnichannel for Customer Service and Copilot Studio BOTs …. “With a new style Copilot Studio voice […]]]></summary>
-        <author>
-            <name>Neil Parkhurst</name>
         </author>
     </entry>
     <entry>
