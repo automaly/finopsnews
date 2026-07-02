@@ -40936,6 +40936,16 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/d365-hr-4-features-you-can-use-today-5-to-mark-your-calendar-for",
+          "author": "Ana Inés Urrutia",
+          "description": "The 2026 Release Wave 1 has been rolling out since April, so this isn’t a “what’s new” preview anymore. Some of it is already in your hands. Some is still on the way. So let’s split it honestly: what you can actually try today, and what’s worth putting on the calendar. The theme across both […]",
+          "link": "https://365community.online/d365-hr-4-features-you-can-use-today-5-to-mark-your-calendar-for",
+          "publishedOn": "2026-07-01T05:33:00.000Z",
+          "wordCount": 2010,
+          "title": "D365 HR: 4 features you can use today, 5 to mark your calendar for",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/07/D365-HR-4-features-you-can-use-today-5-to.png?fit=2500%2C1406&ssl=1"
+        },
+        {
           "id": "https://365community.online/microsoft-copilot-adoption-what-actually-works",
           "author": "Mirko Peters",
           "description": "Artificial Intelligence has moved beyond experimentation and into the heart of modern business. Yet while organizations are investing heavily in Microsoft Copilot, many struggle to achieve meaningful adoption and measurable business value. Simply assigning licenses is no longer enough. Successful AI transformation requires governance, training, executive sponsorship, security, and a well-defined adoption strategy that helps […]",
@@ -40944,6 +40954,16 @@
           "wordCount": 2849,
           "title": "Microsoft Copilot Adoption: What Actually Works",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/07/914780fa7b3bc99df95a0551a3994e82.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/devsecops-governance-part-3-implementing-dynamic-application-security-testing-dast-in-build",
+          "author": "Kieran Holmes",
+          "description": "DevSecOps Governance (Part 3): Implementing Dynamic Application Security Testing (DAST) in Build Pipelines Photo by Bernd 📷 Dittrich on Unsplash Following on from my original blog ‘When “Shift‑Left” Leaves the Back Door Open: Why Governance Matters More Than Ever‘ this is part 3 of a 3 part follow up series where I’ll discuss practical tools and […]",
+          "link": "https://365community.online/devsecops-governance-part-3-implementing-dynamic-application-security-testing-dast-in-build",
+          "publishedOn": "2026-06-30T11:35:00.000Z",
+          "wordCount": 3303,
+          "title": "DevSecOps Governance (Part 3): Implementing Dynamic Application Security Testing (DAST) in Build…",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/07/DevSecOps-Governance-Part-3-Implementing-Dynamic-Application-Security-Testing-DAST.jpeg?fit=1024%2C683&ssl=1"
         },
         {
           "id": "https://365community.online/use-managed-devops-pools-for-microsoft-fabric-deployments",
@@ -40966,6 +40986,16 @@
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/the-waldo-way.png?fit=629%2C657&ssl=1"
         },
         {
+          "id": "https://365community.online/the-ultimate-ude-playbook-setting-up-unified-development-for-modern-d365fo-projects",
+          "author": "Anitha Santosh",
+          "description": "Most of us are now familiar with UDE, USE, and UPE in the D365FO ecosystem. While the foundational setup for these environments remains largely consistent, the screens, navigation paths, and configuration touchpoints continue to evolve with each platform update. This post revisits the end‑to‑end setup of the Unified Development Environment in D365FO — a timely […]",
+          "link": "https://365community.online/the-ultimate-ude-playbook-setting-up-unified-development-for-modern-d365fo-projects",
+          "publishedOn": "2026-06-29T20:18:00.000Z",
+          "wordCount": 2876,
+          "title": "The Ultimate UDE Playbook — Setting Up Unified Development for Modern D365FO Projects",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/07/The-Ultimate-UDE-Playbook-%E2%80%94-Setting-Up-Unified-Development-for.png?fit=473%2C950&ssl=1"
+        },
+        {
           "id": "https://365community.online/building-a-business-central-ai-documentation-assistant-turning-metadata-into-business-knowledge",
           "author": "Amol Salvi",
           "description": "While exploring different AI possibilities around Business Central, I started looking at another area where consultants spend a considerable amount of time — documentation. During implementations and support activities, I noticed that the information required for documentation is usually already available. The solution is built, the processes are defined, and the technical details exist within […]",
@@ -40974,6 +41004,16 @@
           "wordCount": 1952,
           "title": "Building a Business Central AI Documentation Assistant: Turning Metadata into Business Knowledge",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/06/Building-a-Business-Central-AI-Documentation-Assistant-Turning-Metadata-into.png?fit=1536%2C1024&ssl=1"
+        },
+        {
+          "id": "https://365community.online/vendor-supplier-portal-solution-streamline-supplier-management-crmjetty-youtube",
+          "author": "CRM Jetty",
+          "description": "Vendor & Supplier Portal Solution | Streamline Supplier Management | CRMJetty Managing a large network of vendors and suppliers shouldn’t mean endless follow-up emails and manual paperwork. CRMJetty’s Vendor & Supplier Portal gives your suppliers secure, self-service access to everything they need — while giving your team back its time. In this video, see how […]",
+          "link": "https://365community.online/vendor-supplier-portal-solution-streamline-supplier-management-crmjetty-youtube",
+          "publishedOn": "2026-06-28T08:24:46.000Z",
+          "wordCount": 2288,
+          "title": "Vendor & Supplier Portal Solution | Streamline Supplier Management | CRMJetty – YouTube",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/07/1782873941_maxresdefault.jpg?fit=1280%2C720&ssl=1"
         },
         {
           "id": "https://365community.online/the-end-of-data-entry-why-your-business-logic-is-moving-to-agents",
@@ -84609,16 +84649,6 @@
           "wordCount": 804,
           "title": "The Book of Batch Jobs",
           "imageUrl": null
-        },
-        {
-          "id": "1703 at https://www.atomicax.com",
-          "author": "Nathan Clouse",
-          "description": "BatchRetryable Top Picking Batch Job Example\n\n\n\n\n\n\n06/29/24\n\n\n\n\n\n\n\n\n\n\n\n\nBatchRetryable Top Picking Batch Job Example\nI recently presented at DynamicsMinds on batch jobs and how to design them for specific types of workloads. There was interest in code samples so this in one of those code samples talking about Top Picking with a review. Top picking is a method of creating a list of work that is stored in a table then \"picking\" from the \"top\" of it. You can think of it as a queue with mutliple consumers popping stuff from the queue to process. We're not using a real queue but we're getting very similar results. In prior articles, I used an analogy of a highway. While other batch job design methods maybe make use of the different lanes on the highway in different ways by used some kind of met…",
-          "link": "https://www.atomicax.com/blog-entry/batchretryable-top-picking-batch-job-example",
-          "publishedOn": "2024-06-29T20:09:40.000Z",
-          "wordCount": 1743,
-          "title": "BatchRetryable Top Picking Batch Job Example",
-          "imageUrl": null
         }
       ]
     },
@@ -87390,16 +87420,6 @@
           "wordCount": 3673,
           "title": "Omni-channel real-time personalization with Dynamics 365 Customer Insights and Optimizely",
           "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/02/CLO22_TechOffice_022-1024x794.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/07/01/microsoft-dynamics-365-contact-center-is-now-generally-available/",
-          "author": "Jeff Comstock",
-          "description": "Today, we are excited to announce that Dynamics 365 Contact Center is generally available, offering a complete but fully-composable solution for contact centers. \nThe post Microsoft Dynamics 365 Contact Center is now generally available  appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/07/01/microsoft-dynamics-365-contact-center-is-now-generally-available/",
-          "publishedOn": "2024-07-01T15:00:00.000Z",
-          "wordCount": 3330,
-          "title": "Microsoft Dynamics 365 Contact Center is now generally available",
-          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/07/MSFT_D365_JUN26_351074_Blog_Blogheader_240626_V3-social-6.27.png"
         }
       ]
     },
@@ -91242,16 +91262,6 @@
           "wordCount": 4420,
           "title": "What’s new in Power Apps: June 2024 Feature Update",
           "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/07/CopilotERD.gif"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/build-apps-as-a-team-with-live-coauthoring/",
-          "author": "Clay Wesener",
-          "description": "Today, we are thrilled to announce the much-anticipated Canvas Coauthoring experience is entering Preview and is now available for the public worldwide, including sovereign clouds. Coauthoring will bring a new level of collaboration and productivity to Power Apps developers.\nThe post Build apps as a team with live coauthoring appeared first on Microsoft Power Platform Blog.",
-          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/build-apps-as-a-team-with-live-coauthoring/",
-          "publishedOn": "2024-07-01T22:26:17.000Z",
-          "wordCount": 2829,
-          "title": "Build apps as a team with live coauthoring",
-          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/07/CanvasCoauthDemoGIF.gif"
         }
       ]
     },

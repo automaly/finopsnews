@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-07-01T02:41:53.329Z</updated>
+    <updated>2026-07-02T02:31:01.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[D365 HR: 4 features you can use today, 5 to mark your calendar for]]></title>
+        <id>https://365community.online/d365-hr-4-features-you-can-use-today-5-to-mark-your-calendar-for</id>
+        <link href="https://365community.online/d365-hr-4-features-you-can-use-today-5-to-mark-your-calendar-for"/>
+        <updated>2026-07-01T05:33:00.000Z</updated>
+        <summary type="html"><![CDATA[The 2026 Release Wave 1 has been rolling out since April, so this isn’t a “what’s new” preview anymore. Some of it is already in your hands. Some is still on the way. So let’s split it honestly: what you can actually try today, and what’s worth putting on the calendar. The theme across both […]]]></summary>
+        <author>
+            <name>Ana Inés Urrutia</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Copilot Adoption: What Actually Works]]></title>
         <id>https://365community.online/microsoft-copilot-adoption-what-actually-works</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[Artificial Intelligence has moved beyond experimentation and into the heart of modern business. Yet while organizations are investing heavily in Microsoft Copilot, many struggle to achieve meaningful adoption and measurable business value. Simply assigning licenses is no longer enough. Successful AI transformation requires governance, training, executive sponsorship, security, and a well-defined adoption strategy that helps […]]]></summary>
         <author>
             <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevSecOps Governance (Part 3): Implementing Dynamic Application Security Testing (DAST) in Build…]]></title>
+        <id>https://365community.online/devsecops-governance-part-3-implementing-dynamic-application-security-testing-dast-in-build</id>
+        <link href="https://365community.online/devsecops-governance-part-3-implementing-dynamic-application-security-testing-dast-in-build"/>
+        <updated>2026-06-30T11:35:00.000Z</updated>
+        <summary type="html"><![CDATA[DevSecOps Governance (Part 3): Implementing Dynamic Application Security Testing (DAST) in Build Pipelines Photo by Bernd 📷 Dittrich on Unsplash Following on from my original blog ‘When “Shift‑Left” Leaves the Back Door Open: Why Governance Matters More Than Ever‘ this is part 3 of a 3 part follow up series where I’ll discuss practical tools and […]]]></summary>
+        <author>
+            <name>Kieran Holmes</name>
         </author>
     </entry>
     <entry>
@@ -47,6 +67,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Ultimate UDE Playbook — Setting Up Unified Development for Modern D365FO Projects]]></title>
+        <id>https://365community.online/the-ultimate-ude-playbook-setting-up-unified-development-for-modern-d365fo-projects</id>
+        <link href="https://365community.online/the-ultimate-ude-playbook-setting-up-unified-development-for-modern-d365fo-projects"/>
+        <updated>2026-06-29T20:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Most of us are now familiar with UDE, USE, and UPE in the D365FO ecosystem. While the foundational setup for these environments remains largely consistent, the screens, navigation paths, and configuration touchpoints continue to evolve with each platform update. This post revisits the end‑to‑end setup of the Unified Development Environment in D365FO — a timely […]]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Building a Business Central AI Documentation Assistant: Turning Metadata into Business Knowledge]]></title>
         <id>https://365community.online/building-a-business-central-ai-documentation-assistant-turning-metadata-into-business-knowledge</id>
         <link href="https://365community.online/building-a-business-central-ai-documentation-assistant-turning-metadata-into-business-knowledge"/>
@@ -64,6 +94,16 @@
         <summary type="html"><![CDATA[A new way to streamline approval governance In today’s fast-moving organizations, managing financial approvals and signing authorities is more critical and complex than ever. Many organizations using Dynamics 365 Finance & Operations still rely on fragmented solutions or manual processes to track signing limits. This often leads to inefficiencies, lack of visibility, and governance risks.…]]></summary>
         <author>
             <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vendor & Supplier Portal Solution | Streamline Supplier Management | CRMJetty – YouTube]]></title>
+        <id>https://365community.online/vendor-supplier-portal-solution-streamline-supplier-management-crmjetty-youtube</id>
+        <link href="https://365community.online/vendor-supplier-portal-solution-streamline-supplier-management-crmjetty-youtube"/>
+        <updated>2026-06-28T08:24:46.000Z</updated>
+        <summary type="html"><![CDATA[Vendor & Supplier Portal Solution | Streamline Supplier Management | CRMJetty Managing a large network of vendors and suppliers shouldn’t mean endless follow-up emails and manual paperwork. CRMJetty’s Vendor & Supplier Portal gives your suppliers secure, self-service access to everything they need — while giving your team back its time. In this video, see how […]]]></summary>
+        <author>
+            <name>CRM Jetty</name>
         </author>
     </entry>
     <entry>
@@ -114068,17 +114108,6 @@ Switch to the Cloud and Reduce your Costs]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build apps as a team with live coauthoring]]></title>
-        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/build-apps-as-a-team-with-live-coauthoring/</id>
-        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/build-apps-as-a-team-with-live-coauthoring/"/>
-        <updated>2024-07-01T22:26:17.000Z</updated>
-        <summary type="html"><![CDATA[Today, we are thrilled to announce the much-anticipated Canvas Coauthoring experience is entering Preview and is now available for the public worldwide, including sovereign clouds. Coauthoring will bring a new level of collaboration and productivity to Power Apps developers.
-The post Build apps as a team with live coauthoring appeared first on Microsoft Power Platform Blog.]]></summary>
-        <author>
-            <name>Clay Wesener</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Transform Your Business with ERP for the Real Estate Industry]]></title>
         <id>https://erpsoftwareblog.com/?p=108137</id>
         <link href="https://erpsoftwareblog.com/2024/07/erp-for-real-estate-industry/"/>
@@ -114107,17 +114136,6 @@ Beyond The Brochure – What Really Matters To Dynamics Users?]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Dynamics 365 Contact Center is now generally available]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/07/01/microsoft-dynamics-365-contact-center-is-now-generally-available/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/07/01/microsoft-dynamics-365-contact-center-is-now-generally-available/"/>
-        <updated>2024-07-01T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, we are excited to announce that Dynamics 365 Contact Center is generally available, offering a complete but fully-composable solution for contact centers. 
-The post Microsoft Dynamics 365 Contact Center is now generally available  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Jeff Comstock</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Streamline Your Warehouse with Efficient Cycle Counting in MetaWMS]]></title>
         <id>https://erpsoftwareblog.com/?p=108131</id>
         <link href="https://erpsoftwareblog.com/2024/07/streamline-your-warehouse-with-efficient-cycle-counting-in-metawms/"/>
@@ -114143,37 +114161,6 @@ Dynamics 365 Business Central and Industry-Tailored Functionality
 Pitfall #6 – AP Automation for Microsoft Dynamics]]></summary>
         <author>
             <name>Rillion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BatchRetryable Top Picking Batch Job Example]]></title>
-        <id>1703 at https://www.atomicax.com</id>
-        <link href="https://www.atomicax.com/blog-entry/batchretryable-top-picking-batch-job-example"/>
-        <updated>2024-06-29T20:09:40.000Z</updated>
-        <summary type="html"><![CDATA[BatchRetryable Top Picking Batch Job Example
-
-
-
-
-
-
-06/29/24
-
-
-
-
-
-
-
-
-
-
-
-
-BatchRetryable Top Picking Batch Job Example
-I recently presented at DynamicsMinds on batch jobs and how to design them for specific types of workloads. There was interest in code samples so this in one of those code samples talking about Top Picking with a review. Top picking is a method of creating a list of work that is stored in a table then "picking" from the "top" of it. You can think of it as a queue with mutliple consumers popping stuff from the queue to process. We're not using a real queue but we're getting very similar results. In prior articles, I used an analogy of a highway. While other batch job design methods maybe make use of the different lanes on the highway in different ways by used some kind of met…]]></summary>
-        <author>
-            <name>Nathan Clouse</name>
         </author>
     </entry>
     <entry>
