@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-07-04T02:04:34.649Z</updated>
+    <updated>2026-07-05T02:12:57.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
@@ -128,6 +128,28 @@ The post Dynamics 365: View license requirement per object appeared first on Dyn
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Microsoft 365 and Dynamics 365 now provide a unified customer service experience]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=202663</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/30/service-agent-general-availability/"/>
+        <updated>2026-06-30T18:01:27.000Z</updated>
+        <summary type="html"><![CDATA[Service Agent is now generally available, helping customer service teams understand issues, find answers, and take action from one Copilot experience. Built on Microsoft 365 Copilot and Dynamics 365, Service Agent unifies customer, case, and knowledge context while enabling AI-powered actions that improve productivity across the service workflow.
+The post Microsoft 365 and Dynamics 365 now provide a unified customer service experience appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Alan Ross</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing the Onboarding Agent in Dynamics 365 Human Resources]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=202615</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/30/onboarding-agent-dynamics-365-human-resources/"/>
+        <updated>2026-06-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Now in public preview, the Onboarding Agent delivers a connected experience that helps streamline onboarding activities. The solution helps new hires ramp up faster, build connections, and stay engaged from day one. It works directly within Microsoft Teams, allowing employees to stay in the flow of work. It also writes data back to Dynamics 365 Human Resources, keeping records up to date.
+The post Introducing the Onboarding Agent in Dynamics 365 Human Resources appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Ramappa Magadum</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DevSecOps Governance (Part 3): Implementing Dynamic Application Security Testing (DAST) in Build…]]></title>
         <id>https://365community.online/devsecops-governance-part-3-implementing-dynamic-application-security-testing-dast-in-build</id>
         <link href="https://365community.online/devsecops-governance-part-3-implementing-dynamic-application-security-testing-dast-in-build"/>
@@ -175,6 +197,17 @@ The post Dynamics 365: View license requirement per object appeared first on Dyn
         <summary type="html"><![CDATA[Most of us are now familiar with UDE, USE, and UPE in the D365FO ecosystem. While the foundational setup for these environments remains largely consistent, the screens, navigation paths, and configuration touchpoints continue to evolve with each platform update. This post revisits the end‑to‑end setup of the Unified Development Environment in D365FO — a timely […]]]></summary>
         <author>
             <name>Anitha Santosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Commerce introduces agentic capabilities with Model Context Protocol (MCP)]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=202648</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/06/29/dynamics-365-commerce-introduces-agentic-capabilities-with-model-context-protocol-mcp/"/>
+        <updated>2026-06-29T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Dynamics 365 Commerce MCP server enables AI agents to connect securely with retail operations, inventory, pricing, checkout, and fulfillment through the open Model Context Protocol (MCP). Organizations can build conversational and autonomous commerce experiences without creating custom integrations.
+The post Dynamics 365 Commerce introduces agentic capabilities with Model Context Protocol (MCP) appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Anupama Raju and Ashish Harchwani</name>
         </author>
     </entry>
     <entry>
