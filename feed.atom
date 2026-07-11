@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-07-10T02:05:56.218Z</updated>
+    <updated>2026-07-11T01:52:21.594Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Workflow Approval App with Leave Request Approval]]></title>
+        <id>https://www.paragchapre.com/?p=17149</id>
+        <link href="https://www.paragchapre.com/leave-request-approval-dynamics-365/"/>
+        <updated>2026-07-10T13:02:31.000Z</updated>
+        <summary type="html"><![CDATA[Introduction Organizations today require fast, secure, and mobile-friendly approval processes to keep business operations running efficiently. Traditional workflow approvals often require users to access multiple systems, resulting in delays, missed approvals, and reduced productivity. The Workflow Approval App was developed as a customized business solution to simplify and centralize workflow approvals across the organization. The…]]></summary>
+        <author>
+            <name>Parag Chapre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond the French e-invoice: E-Reporting]]></title>
+        <id>https://erconsult.eu/?p=10893</id>
+        <link href="https://erconsult.eu/blog/beyond-the-french-e-invoice-e-reporting/"/>
+        <updated>2026-07-10T11:15:55.000Z</updated>
+        <summary type="html"><![CDATA[France's e-invoicing reform goes far beyond exchanging XML invoices. Besides invoice lifecycle tracking, companies must prepare for e-reporting of B2C and international transactions through dedicated Payments and Transactions XML flows. This article explains the requirements, the ERP challenges in Dynamics 365 Finance, and how ER-Consult addresses them.
+The post Beyond the French e-invoice: E-Reporting appeared first on ER-Consult.]]></summary>
+        <author>
+            <name>Eugen Glasow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Business Central Drop Shipments: What Changed in 2026 Release Wave 1?]]></title>
         <id>https://erpsoftwareblog.com/?p=150973</id>

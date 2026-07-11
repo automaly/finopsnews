@@ -89983,6 +89983,16 @@
       "siteUrl": "https://www.paragchapre.com",
       "articles": [
         {
+          "id": "https://www.paragchapre.com/?p=17149",
+          "author": "Parag Chapre",
+          "description": "Introduction Organizations today require fast, secure, and mobile-friendly approval processes to keep business operations running efficiently. Traditional workflow approvals often require users to access multiple systems, resulting in delays, missed approvals, and reduced productivity. The Workflow Approval App was developed as a customized business solution to simplify and centralize workflow approvals across the organization. The…",
+          "link": "https://www.paragchapre.com/leave-request-approval-dynamics-365/",
+          "publishedOn": "2026-07-10T13:02:31.000Z",
+          "wordCount": 4039,
+          "title": "Dynamics 365 Workflow Approval App with Leave Request Approval",
+          "imageUrl": "https://www.paragchapre.com/wp-content/uploads/2026/07/Leave-request-approval-app.png"
+        },
+        {
           "id": "https://www.paragchapre.com/?p=16993",
           "author": "Parag Chapre",
           "description": "A new way to streamline approval governance In today’s fast-moving organizations, managing financial approvals and signing authorities is more critical and complex than ever. Many organizations using Dynamics 365 Finance & Operations still rely on fragmented solutions or manual processes to track signing limits. This often leads to inefficiencies, lack of visibility, and governance risks.…",
@@ -90647,6 +90657,16 @@
       "feedUrl": "https://erconsult.eu/feed/",
       "siteUrl": "https://erconsult.eu/",
       "articles": [
+        {
+          "id": "https://erconsult.eu/?p=10893",
+          "author": "Eugen Glasow",
+          "description": "France's e-invoicing reform goes far beyond exchanging XML invoices. Besides invoice lifecycle tracking, companies must prepare for e-reporting of B2C and international transactions through dedicated Payments and Transactions XML flows. This article explains the requirements, the ERP challenges in Dynamics 365 Finance, and how ER-Consult addresses them.\nThe post Beyond the French e-invoice: E-Reporting appeared first on ER-Consult.",
+          "link": "https://erconsult.eu/blog/beyond-the-french-e-invoice-e-reporting/",
+          "publishedOn": "2026-07-10T11:15:55.000Z",
+          "wordCount": 2397,
+          "title": "Beyond the French e-invoice: E-Reporting",
+          "imageUrl": "https://erconsult.eu/wp-content/uploads/2026/07/French_E-Reporting_Diagram.png"
+        },
         {
           "id": "https://erconsult.eu/?p=10841",
           "author": "Eugen Glasow",
