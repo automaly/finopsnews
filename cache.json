@@ -505,16 +505,6 @@
           "wordCount": 3480,
           "title": "D365FO Integration: Event-Based Exports to External Web Services",
           "imageUrl": "https://denistrunin.com/static/97c2c8d2c14c164b236c5b09978c3191/a842e/logo.png"
-        },
-        {
-          "id": "https://denistrunin.com/integration-outboundsftp/",
-          "author": null,
-          "description": "This blog post describes how to implement various scenarios for periodic data export from D365FO to a file and uploading it to SFTP server.",
-          "link": "https://denistrunin.com/integration-outboundsftp/",
-          "publishedOn": "2024-07-12T22:12:03.000Z",
-          "wordCount": 2710,
-          "title": "Implement Periodic Data Export from D365FO to SFTP",
-          "imageUrl": "https://denistrunin.com/static/e52a35437e42aaa9e8aa754f4f722c9b/46991/logo.png"
         }
       ]
     },
@@ -1301,16 +1291,6 @@
           "wordCount": 5025,
           "title": "Data engineering functions on large datasets in Microsoft Fabric",
           "imageUrl": "https://tomaztsql.wordpress.com/wp-content/uploads/2024/09/image-1.png"
-        },
-        {
-          "id": "http://tomaztsql.wordpress.com/?p=9972",
-          "author": "tomaztsql",
-          "description": "This sample R code is an implementation one of possible solutions for generating timetable schedule. The proposed solution is based on methods of evolutionary computing, and it uses (1+1) evolutionary strategy and simulated hardening. The success of solution is estimated…\nRead more ›",
-          "link": "https://tomaztsql.wordpress.com/2024/07/13/schedule-generator-with-r/",
-          "publishedOn": "2024-07-13T12:01:05.000Z",
-          "wordCount": 4653,
-          "title": "Schedule generator with R",
-          "imageUrl": "https://tomaztsql.wordpress.com/wp-content/uploads/2024/07/image-1.png?w=334"
         }
       ]
     },
@@ -40120,46 +40100,6 @@
           "wordCount": 4342,
           "title": "Top 10 Ways to Maximize Your Job Shop Efficiency with Business Central",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Shop-Floor-Insight-250-2.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=108486",
-          "author": "PartnerTalks",
-          "description": "In a recent masterclass, 10-time Microsoft Dynamics 365 MVP Rick McCutcheon hosted Microsoft sales veteran Chuck Ingram and AI specialist William Hawkins. Together, they guided attendees through the best ways […]\nThe post How to Sell AI & Microsoft Copilots appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
-          "link": "https://erpsoftwareblog.com/2024/07/how-to-sell-ai-microsoft-copilots/",
-          "publishedOn": "2024-07-12T19:35:59.000Z",
-          "wordCount": 4270,
-          "title": "How to Sell AI & Microsoft Copilots",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/How-to-Sell-Copilot-AI-Thumbnail-300x168.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=108272",
-          "author": "Netstock",
-          "description": "In today's competitive markets, companies must provide excellent service while keeping costs down, and inventory management plays a vital role in both customer service and cost containment. However, many businesses […]\nThe post Inventory Management in Microsoft Dynamics 365 with Netstock appeared first on ERP Software Blog.\nMaking Inventory Counts Less Painful\nUsing Dynamics 365 Business Central in the Cloud: One Year Later\nHow Much Cash is Locked in Your Warehouse?",
-          "link": "https://erpsoftwareblog.com/2024/07/inventory-management-in-microsoft-dynamics-365-with-netstock/",
-          "publishedOn": "2024-07-12T18:13:42.000Z",
-          "wordCount": 4275,
-          "title": "Inventory Management in Microsoft Dynamics 365 with Netstock",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2024-07-Inventory-Management-with-Netstock-and-Microsoft-Dynamics-365_1200-x-628.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=108465",
-          "author": "MetaOption LLC",
-          "description": "The automotive industry is undergoing a rapid transformation, driven by technological advancements, changing consumer preferences, and increasing competition. To stay ahead, automotive businesses should optimize operations, enhance customer experiences, and make […]\nThe post Transforming the Automotive Industry with Dynamics 365 Business Central appeared first on ERP Software Blog.\nHow Business Central in the Cloud Can Help You Scale & Thrive\n5 Ways Business Central Can Boosts Your Project Management in 2024\nEmpowering Professional Services with Microsoft Dynamics 365 Business Central",
-          "link": "https://erpsoftwareblog.com/2024/07/transforming-the-automotive-industry-with-dynamics-365-business-central/",
-          "publishedOn": "2024-07-12T14:06:15.000Z",
-          "wordCount": 4005,
-          "title": "Transforming the Automotive Industry with Dynamics 365 Business Central",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-145.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=108458",
-          "author": "Dynamics Square UK",
-          "description": "Is your once-reliable on-premise ERP system feeling more like an anchor than a  driver of growth?  In today's dynamic business climate, where agility is king,  traditional ERP solutions can become […]\nThe post Is Your ERP System Holding You Back? Upgrade to the Cloud for Success? appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
-          "link": "https://erpsoftwareblog.com/2024/07/is-your-erp-system-holding-you-back-upgrade-to-the-cloud-for-success/",
-          "publishedOn": "2024-07-12T14:00:08.000Z",
-          "wordCount": 4662,
-          "title": "Is Your ERP System Holding You Back? Upgrade to the Cloud for Success?",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/erp-implementation-1.webp"
         }
       ]
     },
@@ -41417,16 +41357,6 @@
           "wordCount": 1956,
           "title": "Using Excel Layouts to Run Reports in Dynamics 365 Business Central",
           "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/12/D365BC-Img.png"
-        },
-        {
-          "id": "https://www.encorebusiness.com/?p=62957",
-          "author": "Brennan Senos",
-          "description": "Dynamics 365 Business Central Essentials vs Premium: Choosing the Right License\nThe main difference between Dynamics 365 Business Central’s Essentials and Premium license types is that Premium contains more powerful manufacturing and service management functionality. However, it can be confusing to sort out exactly how these differences match up to your company’s specific processes and needs. This license-type decision is one of the most common issues...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
-          "link": "https://www.encorebusiness.com/blog/d365-business-central-essentials-vs-premium/",
-          "publishedOn": "2024-07-11T14:13:56.000Z",
-          "wordCount": 1997,
-          "title": "Dynamics 365 Business Central Essentials vs Premium: Choosing the Right License",
-          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/D365BC-Img.png"
         }
       ]
     },
