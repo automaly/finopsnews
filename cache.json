@@ -1327,6 +1327,56 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=151236",
+          "author": "Syvantis Technologies, Inc.",
+          "description": "xxx\nWith each release wave, Microsoft steers its business applications into the future as they imagine it. While AI-powered capabilities continue to expand in this first release wave of 2026, it’s […]\nThe post Business Central 2026 Release Wave 1 features: Ecommerce, supply chain, and everything in between appeared first on ERP Software Blog.\nWhen Business Central Customization Makes Sense\nhat 10 Years of ERP Evolution Can Teach Us\nWhy Manufacturers Need ERP and eCommerce Integration",
+          "link": "https://erpsoftwareblog.com/2026/07/business-central-2026-release-wave-1-features/",
+          "publishedOn": "2026-07-16T21:55:10.000Z",
+          "wordCount": 7887,
+          "title": "Business Central 2026 Release Wave 1 features: Ecommerce, supply chain, and everything in between",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Blog-Featured-Image-820x600-1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=151242",
+          "author": "KTL Solutions, Inc",
+          "description": "xxx\nFinance leaders running Microsoft Dynamics GP are at a decision point they did not choose. Microsoft stopped selling new perpetual licenses for Dynamics GP in April 2025 and ended new […]\nThe post How Finance Leaders Can Migrate GL Data From Dynamics GP to Business Central appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/07/dynamics-gp-to-business-central-migration-2/",
+          "publishedOn": "2026-07-16T17:13:35.000Z",
+          "wordCount": 9180,
+          "title": "How Finance Leaders Can Migrate GL Data From Dynamics GP to Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/gp-to-bc-migration-240.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=151217",
+          "author": "Insight Works",
+          "description": "xxx\nWhen orders are piling up and your team is manually cross-checking sales orders against inventory, time spent figuring out what can ship is time not spent actually shipping. Business Central’s native tools […]\nThe post Webinar: Know What You Can Ship Today: Order Fulfillment in Business Central appeared first on ERP Software Blog.\nWarehouse Insight Now Available for Dynamics 365 Business Central\nOptimize your Distribution Process with Advanced Warehouse Management System\nHow to Choose a Mobile Computer to use with Business Central",
+          "link": "https://erpsoftwareblog.com/2026/07/webinar-know-what-you-can-ship-today-order-fulfillment-in-business-central/",
+          "publishedOn": "2026-07-16T16:16:06.000Z",
+          "wordCount": 7349,
+          "title": "Webinar: Know What You Can Ship Today: Order Fulfillment in Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/OFW-Webinar-NA-Hor.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=151232",
+          "author": "Dax software solutions",
+          "description": "xxx\nCopilot has crossed the line from novelty to standard business tooling. Current adoption data shows more than 20 million paid seats in use and adoption across over 90% of the […]\nThe post Copilot in Dynamics 365: Practical Use Cases That Actually Pay Off appeared first on ERP Software Blog.\nFast ROI For Manufacturing Companies And Distributors From Your ERP\nMicrosoft Dynamics on the iPad – Extend Your Investment\nMake your Employees Happy with User-Friendly ERP Software for Manufacturing",
+          "link": "https://erpsoftwareblog.com/2026/07/copilot-in-dynamics-365-practical-use-cases-that-actually-pay-off/",
+          "publishedOn": "2026-07-16T12:00:20.000Z",
+          "wordCount": 7618,
+          "title": "Copilot in Dynamics 365: Practical Use Cases That Actually Pay Off",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/magnific_copilot_hEoBRsjvqL.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=151228",
+          "author": "Dynamics Square USA",
+          "description": "xxx\nMicrosoft Dynamics 365 Business Central pricing follows a per-user, per-month subscription model with two main license tiers. As of the most recent update effective November 1, 2025, Essentials runs $80 per […]\nThe post Business Central Pricing and Licensing Guide (2026) appeared first on ERP Software Blog.\nHow to Reduce Microsoft Licensing Costs\nWhen Business Central Customization Makes Sense\n5 Steps to a Successful Implementation of Your New Accounting System",
+          "link": "https://erpsoftwareblog.com/2026/07/business-central-pricing-and-licensing-guide/",
+          "publishedOn": "2026-07-16T06:23:49.000Z",
+          "wordCount": 7703,
+          "title": "Business Central Pricing and Licensing Guide (2026)",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ChatGPT-Image-Jul-16-2026-11_52_54-AM.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=151180",
           "author": "Insight Works",
           "description": "xxx\nWhen a worker needs to know what is in a bin, the answer should be one scan away. Warehouse Insight's Bin Content application lets workers scan any bin barcode and […]\nThe post Bin Content Inquiry for Microsoft Dynamics 365 Business Central appeared first on ERP Software Blog.\nLicense Plating v1.97: Transforming Warehouse Management in Business Central\nTop 10 Reasons to Use Business Central’s License Plating App\nBusiness Central’s Most Trusted License Plating App, a Five-Star Rating on AppSource",
@@ -40210,26 +40260,6 @@
           "wordCount": 7260,
           "title": "2024 Digital Transformation and Dynamics 365 for Software Companies",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/digital-transformation.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=108558",
-          "author": "MetaOption LLC",
-          "description": "The construction industry is undergoing a digital transformation, driven by the need for increased efficiency, productivity, and data-driven decision-making. MetaConstructX, powered by MetaOption, is at the forefront of this revolution, offering […]\nThe post MetaConstructX: Revolutionizing Construction with Business Central appeared first on ERP Software Blog.\nRevolutionize Your Construction Projects with MetaConstructX: Business Central\nEnhancing Construction Management with Dynamics 365 Business Central\nTransform Construction with MetaConstructX's Mobile Working Access Efficiency",
-          "link": "https://erpsoftwareblog.com/2024/07/metaconstructx-revolutionizing-construction-with-business-central/",
-          "publishedOn": "2024-07-17T13:21:09.000Z",
-          "wordCount": 3947,
-          "title": "MetaConstructX: Revolutionizing Construction with Business Central",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-1-96.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=108523",
-          "author": "ClickLearn",
-          "description": "Success in modern business isn’t just about implementing the latest technology – it’s about ensuring that employees can effectively use that technology to drive business goals. The 5 Moments of […]\nThe post Maximizing Software ROI with the 5 Moments of Need Model appeared first on ERP Software Blog.\nBest strategies, insights and techniques for a successful eCommerce implementation\nHassle Free Upgrades with Dynamics GP Resellers!\nAre You Getting The Most From Your ERP Solution or Are You On Cruise Control?",
-          "link": "https://erpsoftwareblog.com/2024/07/maximizing-software-roi-with-the-5-moments-of-need-model/",
-          "publishedOn": "2024-07-16T15:33:39.000Z",
-          "wordCount": 4288,
-          "title": "Maximizing Software ROI with the 5 Moments of Need Model",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/workflow-learning-clicklearn.jpeg"
         }
       ]
     },
@@ -40238,6 +40268,16 @@
       "feedUrl": "https://www.encorebusiness.com/blog/feed/",
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
+        {
+          "id": "https://www.encorebusiness.com/?p=34755",
+          "author": "Malcolm Knox",
+          "description": "Microsoft 365 Business Basic vs Business Standard vs Business Premium\nFor organizations with fewer than 300 employees, Microsoft has a set of Microsoft Office 365 plans known as the “Business” editions. There are three options within Microsoft 365 Business: Microsoft 365 Business Basic, Microsoft 365 Business Standard, and Microsoft 365 Business Premium. Each provides core productivity and collaboration tools at an accessible price point. In...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/o365-business-premium-vs-business-essentials/",
+          "publishedOn": "2026-07-16T15:11:49.000Z",
+          "wordCount": 2362,
+          "title": "Microsoft 365 Business Basic vs Business Standard vs Business Premium",
+          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2020/05/M365-License-Comparison-LI-scaled.png"
+        },
         {
           "id": "https://www.encorebusiness.com/?p=73623",
           "author": "Tracey Santos",
@@ -41467,16 +41507,6 @@
           "wordCount": 1585,
           "title": "Encore Care Support | Priority Levels",
           "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2021/11/Encore-Care-Img.png"
-        },
-        {
-          "id": "https://www.encorebusiness.com/?p=62979",
-          "author": "The Encore Team",
-          "description": "Sage Intacct vs Dynamics 365 Business Central: Breaking Down the Differences\nWe often talk with customers choosing between Sage Intacct and Microsoft Dynamics 365 Business Central. This comparison comes up especially often for companies on the older Sage 300 solution who are looking to move to a next-generation ERP in the cloud. Either Sage Intacct or Dynamics 365 Business Central may be the best choice for...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
-          "link": "https://www.encorebusiness.com/blog/sage-intacct-vs-dynamics-365-business-central-breaking-down-the-differences/",
-          "publishedOn": "2024-07-17T11:13:23.000Z",
-          "wordCount": 2205,
-          "title": "Sage Intacct vs Dynamics 365 Business Central: Breaking Down the Differences",
-          "imageUrl": "https://www.encorebusiness.com/wp-content/uploads/2024/07/Sage-vs-D365-BC.png"
         }
       ]
     },
@@ -41485,6 +41515,106 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/platform-engineering-simply-explained",
+          "author": "Mirko Peters",
+          "description": "For years, DevOps promised to break down the barriers between development and operations by giving teams greater ownership over the software they build. While the idea was powerful, reality became far more complicated. Developers suddenly found themselves responsible not only for writing code, but also for Kubernetes, Terraform, CI/CD pipelines, cloud networking, monitoring, security, secret […]",
+          "link": "https://365community.online/platform-engineering-simply-explained",
+          "publishedOn": "2026-07-16T23:02:54.000Z",
+          "wordCount": 2598,
+          "title": "Platform Engineering – Simply Explained",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/07/376a86e090e07efd2dee0f73f23af4f6.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/azure-ai-foundry-simply-explained",
+          "author": "Mirko Peters",
+          "description": "Artificial Intelligence is evolving faster than almost any other technology, and with new models, frameworks, and AI services appearing almost every month, it’s becoming increasingly difficult to know where to start. Microsoft has also renamed and expanded its AI platform several times—from Cognitive Services to Azure AI Services, Azure AI Studio, Azure AI Foundry, and […]",
+          "link": "https://365community.online/azure-ai-foundry-simply-explained",
+          "publishedOn": "2026-07-16T19:25:45.000Z",
+          "wordCount": 2490,
+          "title": "Azure AI Foundry – Simply Explained",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/07/78ab305eb8c53c15fe5983a11943650a.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/ditch-the-power-apps-maker-portal",
+          "author": "Nick Doelman",
+          "description": "Are you a maker, a low-code developer, a builder? Do you want to be ten times more productive when you build Canvas apps, model-driven apps, Power Automate flows, and Power Pages? I’m going to show you a set of tools that will do exactly that. This is different from what you’re used to. But if […]",
+          "link": "https://365community.online/ditch-the-power-apps-maker-portal",
+          "publishedOn": "2026-07-16T16:59:00.000Z",
+          "wordCount": 4355,
+          "title": "Ditch the Power Apps maker portal!",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/07/Ditch-the-Power-Apps-maker-portal.png?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-purview-simply-explained",
+          "author": "Mirko Peters",
+          "description": "Protecting your network is no longer enough to protect your business. Modern organizations store sensitive information across Microsoft 365, Azure, SharePoint, OneDrive, Teams, Exchange, file servers, cloud platforms, and even AI-powered applications like Microsoft 365 Copilot. Once someone has legitimate access, traditional infrastructure security can no longer control how that data is used or shared. […]",
+          "link": "https://365community.online/microsoft-purview-simply-explained",
+          "publishedOn": "2026-07-16T16:15:40.000Z",
+          "wordCount": 2558,
+          "title": "Microsoft Purview – Simply Explained",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/07/e1b98dbfa5239b8470fd9e5b41324bcd.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/microsoft-entra-permissions-management-simply-explained",
+          "author": "Mirko Peters",
+          "description": "Cloud security isn’t just about protecting user accounts anymore. Modern organizations manage thousands of identities across Microsoft Azure, Amazon Web Services (AWS), and Google Cloud Platform (GCP). Every user, service principal, workload, application, and automation account receives permissions over time, and those permissions rarely get removed. This silent growth of unnecessary privileges is known as […]",
+          "link": "https://365community.online/microsoft-entra-permissions-management-simply-explained",
+          "publishedOn": "2026-07-16T12:52:52.000Z",
+          "wordCount": 2363,
+          "title": "Microsoft Entra Permissions Management – Simply Explained",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/07/59525c5444de984da20a15c3bf4d8c82.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/your-crm-speaks-english-your-team-doesnt-lets-fix-that",
+          "author": null,
+          "description": "Consider this scenario- Your company has just expanded into Germany. Big move. Champagne was popped. A very confident slide deck was presented to leadership, and then your new German sales team opens Dynamics 365, looks at the map interface entirely in English, and collectively does the very German thing of saying nothing, going very quiet, […]",
+          "link": "https://365community.online/your-crm-speaks-english-your-team-doesnt-lets-fix-that",
+          "publishedOn": "2026-07-16T12:29:00.000Z",
+          "wordCount": 3215,
+          "title": "Your CRM Speaks English. Your Team Doesn’t. Let’s Fix That.",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/07/Your-CRM-Speaks-English.-Your-Team-Doesnt.-Lets-Fix-That.jpg?fit=1400%2C800&ssl=1"
+        },
+        {
+          "id": "https://365community.online/azure-load-balancer-simply-explained",
+          "author": "Mirko Peters",
+          "description": "Every application starts small. A single virtual machine serves your website, processes customer requests, and handles all incoming traffic. At first, everything works perfectly. But as your user base grows, traffic spikes, maintenance windows, or unexpected server failures quickly expose a major weakness—your entire application depends on one machine. In this episode of m365.fm, we […]",
+          "link": "https://365community.online/azure-load-balancer-simply-explained",
+          "publishedOn": "2026-07-16T09:44:50.000Z",
+          "wordCount": 2346,
+          "title": "Azure Load Balancer — Simply Explained",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/07/ce6173eaa8e81c78a6a316b506d37cb4.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/azure-firewall-simply-explained",
+          "author": "Mirko Peters",
+          "description": "Securing a traditional office network was relatively straightforward—you installed a physical firewall at the edge of your network and inspected everything entering or leaving your building. But cloud computing completely changes that model. Applications are distributed across regions, users connect from anywhere in the world, and workloads communicate constantly with each other. In this episode […]",
+          "link": "https://365community.online/azure-firewall-simply-explained",
+          "publishedOn": "2026-07-16T06:25:50.000Z",
+          "wordCount": 2334,
+          "title": "Azure Firewall – Simply Explained",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/07/895788679b0697f87097a9f50c28993f.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/azure-policy-simply-explained",
+          "author": "Mirko Peters",
+          "description": "As organizations move to the cloud, governance becomes one of the biggest challenges they face. In traditional datacenters, infrastructure teams reviewed every server request before anything was deployed. In Azure, developers and administrators can provision resources instantly through the portal, APIs, Infrastructure as Code, or automation tools. Without guardrails, this flexibility can quickly lead to […]",
+          "link": "https://365community.online/azure-policy-simply-explained",
+          "publishedOn": "2026-07-16T02:42:12.000Z",
+          "wordCount": 2336,
+          "title": "Azure Policy – Simply Explained",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/07/99124fcf6292e252b9a91825e96123e0.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/what-an-ai-powered-donor-management-solution-taught-me-about-the-future-of-the-not-for-profit-sector",
+          "author": "Saurav Dhyani",
+          "description": "Over the past few years, I have had the opportunity to work with a number of not-for-profit organisations across healthcare, disability services and community support sectors. Whilst each organisation has its own unique challenges, they often have more in common than they realise. Almost all are operating under increasing demand, facing pressure to demonstrate outcomes, […]",
+          "link": "https://365community.online/what-an-ai-powered-donor-management-solution-taught-me-about-the-future-of-the-not-for-profit-sector",
+          "publishedOn": "2026-07-16T02:04:00.000Z",
+          "wordCount": 2900,
+          "title": "What an AI-Powered Donor Management Solution Taught Me About the Future of the Not-for-Profit Sector",
+          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/07/What-an-AI-Powered-Donor-Management-Solution-Taught-Me-About-the.png?fit=1200%2C630&ssl=1"
+        },
         {
           "id": "https://365community.online/everything-microsoft-didnt-tell-you-about-teams-with-everything-microsoft-didnt-tell-you-about-teams-with-josh-blalock-mvp",
           "author": "Mirko Peters",
@@ -82299,706 +82429,6 @@
           "wordCount": 3254,
           "title": "New Functionality In Microsoft Power Automate 2024 Wave 1: Use Process Mining Microsoft 365 Personal Recommendations",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/from-psychology-to-customer-insights-journeys-with-kelly-simpson-youtube-2",
-          "author": "Scottish Summit",
-          "description": "With Scottish Summit 2024 approaching we spoke to community star and marketing mastermind Kelly Simpson about how she started her career and Microsoft community activity. source",
-          "link": "https://365community.online/from-psychology-to-customer-insights-journeys-with-kelly-simpson-youtube-2",
-          "publishedOn": "2024-07-17T13:36:07.000Z",
-          "wordCount": 3110,
-          "title": "From Psychology, to Customer Insights – Journeys with Kelly Simpson – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1721279870_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/avoid-mistakes-in-on-premises-identity-governance-youtube",
-          "author": "shabaz darr",
-          "description": "Learn how to avoid mistakes in on-premises identity governance and prepare for the SC-100 exam with our expert tips and insights. Perfect for those looking to enhance their skills in […]",
-          "link": "https://365community.online/avoid-mistakes-in-on-premises-identity-governance-youtube",
-          "publishedOn": "2024-07-17T11:30:22.000Z",
-          "wordCount": 3174,
-          "title": "Avoid Mistakes in On-Premises Identity Governance – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1721264744_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-flows-with-connections-from-users-in-copilot-studio",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-flows-with-connections-from-users-in-copilot-studio",
-          "publishedOn": "2024-07-17T10:00:23.000Z",
-          "wordCount": 3212,
-          "title": "New Functionality In Microsoft Power Automate 2024 Wave 1: Use Flows with Connections from Users in Copilot Studio",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/oob-model-driven-app-within-d365-hr",
-          "author": "Ana Inés Urrutia",
-          "description": "Release notes were shared a couple of days ago, and I'm beyond happy to share the following news with you: WE HAVE A RECRUITMENT PIECE BUILT IN POWER PLATFORM! Who […]",
-          "link": "https://365community.online/oob-model-driven-app-within-d365-hr",
-          "publishedOn": "2024-07-17T09:47:12.000Z",
-          "wordCount": 3196,
-          "title": "OOB: Model-driven app within D365 HR.",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/OOB-Model-driven-app-within-D365-HR.png?fit=1000%2C563&ssl=1"
-        },
-        {
-          "id": "https://365community.online/how-to-integrate-power-apps-with-microsoft-planner-using-microsoft-teams",
-          "author": "Inogic",
-          "description": "This blog will thoroughly explore the seamless integration of Power Apps with Microsoft Planner to effectively create and assign tasks to users within your organization using Microsoft Teams. The vast […]",
-          "link": "https://365community.online/how-to-integrate-power-apps-with-microsoft-planner-using-microsoft-teams",
-          "publishedOn": "2024-07-17T08:45:27.000Z",
-          "wordCount": 3496,
-          "title": "How to Integrate Power Apps with Microsoft Planner using Microsoft Teams",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/integrate-Power-Apps-with-Microsoft-Planner.png?fit=1200%2C686&ssl=1"
-        },
-        {
-          "id": "https://365community.online/model-driven-apps-openalertdialog-code-snippet",
-          "author": "Arun Potti",
-          "description": "We quite often use the alert to display a dialog, which contains a message and a button. In this article, will explain about the syntax and with an example. Syntax: […]",
-          "link": "https://365community.online/model-driven-apps-openalertdialog-code-snippet",
-          "publishedOn": "2024-07-17T00:31:48.000Z",
-          "wordCount": 3212,
-          "title": "Model-driven Apps – openAlertDialog – Code Snippet",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/power-platform-tools.png?fit=256%2C256&ssl=1"
-        },
-        {
-          "id": "https://365community.online/dynamics-365-business-central-v25-whats-coming-for-developers",
-          "author": "Stefano Demiliani",
-          "description": "Microsoft has publicly announced today the plans for the 2024 Wave 2 release of their Dynamics 365 and Power Platform products. Lots of interesting features are coming also for Dynamics […]",
-          "link": "https://365community.online/dynamics-365-business-central-v25-whats-coming-for-developers",
-          "publishedOn": "2024-07-16T20:03:26.000Z",
-          "wordCount": 3219,
-          "title": "Dynamics 365 Business Central v25: what’s coming for developers.",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Dynamics-365-Business-Central-v25-whats-coming-for-developers.jpg?fit=394%2C362&ssl=1"
-        },
-        {
-          "id": "https://365community.online/set-an-app-model-driven-or-canvas-app-as-a-startup-app-power-apps-mobile",
-          "author": "Nishant Rana",
-          "description": "Microsoft has introduced a new feature, through which we can now specify a particular app as a start-up app, that will open up when we launch the Power Apps mobile, […]",
-          "link": "https://365community.online/set-an-app-model-driven-or-canvas-app-as-a-startup-app-power-apps-mobile",
-          "publishedOn": "2024-07-16T18:35:00.000Z",
-          "wordCount": 3265,
-          "title": "Set an app (Model-driven or Canvas App) as a startup app – Power Apps Mobile",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Set-an-app-Model-driven-or-Canvas-App-as-a-startup.jpeg?fit=1200%2C799&ssl=1"
-        },
-        {
-          "id": "https://365community.online/comparing-security-between-d365fo-versions",
-          "author": "Alex Meyer",
-          "description": "With Microsoft on a true ‘one version’ solution for Dynamics 365, it can become extremely important to ensure change management practices are followed during updates. I have previously released a […]",
-          "link": "https://365community.online/comparing-security-between-d365fo-versions",
-          "publishedOn": "2024-07-16T16:44:39.000Z",
-          "wordCount": 3170,
-          "title": "Comparing Security Between D365FO Versions",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Comparing-Security-Between-D365FO-Versions.png?fit=222%2C447&ssl=1"
-        },
-        {
-          "id": "https://365community.online/2024-wave-2-dynamics-365-sales",
-          "author": "Dian Taylor",
-          "description": "Well, folks, Microsoft is at it again! They’ve just dropped some serious coolness with the 2024 wave 2 release notes, hot off the press just 90 minutes ago! I’m stoked […]",
-          "link": "https://365community.online/2024-wave-2-dynamics-365-sales",
-          "publishedOn": "2024-07-16T16:20:43.000Z",
-          "wordCount": 3209,
-          "title": "2024 Wave 2: Dynamics 365 Sales",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
-        },
-        {
-          "id": "https://365community.online/release-wave-2-2024-customer-insights-data",
-          "author": "Malin Martnes",
-          "description": "Release wave 2 2024 is out, let’s take a look at the features that’ll come until March 2025 for Customer Insights – Data. PP is Public Preview and GA is […]",
-          "link": "https://365community.online/release-wave-2-2024-customer-insights-data",
-          "publishedOn": "2024-07-16T15:43:11.000Z",
-          "wordCount": 3222,
-          "title": "Release wave 2 2024 – Customer Insights – Data",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Release-wave-2-2024-–-Customer-Insights-–-Data.png?fit=780%2C440&ssl=1"
-        },
-        {
-          "id": "https://365community.online/release-wave-2-2024-customer-insights-journeys",
-          "author": "Malin Martnes",
-          "description": "It’s that time of the year again, release wave 2 2024 is out! There are several things that originally was in the wave 1 release, but been pushed to this […]",
-          "link": "https://365community.online/release-wave-2-2024-customer-insights-journeys",
-          "publishedOn": "2024-07-16T15:39:35.000Z",
-          "wordCount": 3226,
-          "title": "Release wave 2 2024 – Customer Insights – Journeys",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Release-wave-2-2024-–-Customer-Insights-–-Journeys.png?fit=780%2C435&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-generate-descriptions-for-cloud-flows-using-ai",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-generate-descriptions-for-cloud-flows-using-ai",
-          "publishedOn": "2024-07-16T14:00:42.000Z",
-          "wordCount": 3250,
-          "title": "New Functionality In Microsoft Power Automate 2024 Wave 1: Generate Descriptions for Cloud Flows using AI",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-recommendations-to-reassign-orphaned-cloud-flows",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-recommendations-to-reassign-orphaned-cloud-flows",
-          "publishedOn": "2024-07-16T10:00:10.000Z",
-          "wordCount": 3244,
-          "title": "New Functionality In Microsoft Power Automate 2024 Wave 1: Recommendations to Reassign Orphaned Cloud Flows",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/indulge-like-an-expert-with-maps-integrated-within-dynamics-365-using-knowyourmaplytics",
-          "author": "Inogic",
-          "description": "Microsoft Dynamics 365 is a powerful CRM platform that helps businesses manage customer interactions, sales pipelines, and marketing efforts. The most powerful tool when coupled with location intelligence can benefit […]",
-          "link": "https://365community.online/indulge-like-an-expert-with-maps-integrated-within-dynamics-365-using-knowyourmaplytics",
-          "publishedOn": "2024-07-16T07:03:44.000Z",
-          "wordCount": 3492,
-          "title": "Indulge like an Expert with Maps Integrated within Dynamics 365 using #KnowYourMaplytics",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Indulge-like-an-expert-with-maps-integrated-within-Dynamics-365.png?fit=1200%2C686&ssl=1"
-        },
-        {
-          "id": "https://365community.online/azure-arc-agent-troubleshooting-guide-youtube",
-          "author": "Sarah Lean ???????",
-          "description": "Azure Arc Agent Troubleshooting Guide This video explores how to troubleshoot issues with the Azure Arc agent. If you are looking for any of the commands I mention in the […]",
-          "link": "https://365community.online/azure-arc-agent-troubleshooting-guide-youtube",
-          "publishedOn": "2024-07-16T07:01:00.000Z",
-          "wordCount": 3274,
-          "title": "Azure Arc Agent Troubleshooting Guide – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1721125848_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/mobile-offline-profile-select-columns-to-be-downloaded-dynamics-365-model-driven-apps",
-          "author": "Nishant Rana",
-          "description": "With this new feature (preview) now we can specify the columns to be downloaded on mobile devices for offline use. Select edit for the Model-driven app. Select Settings and select […]",
-          "link": "https://365community.online/mobile-offline-profile-select-columns-to-be-downloaded-dynamics-365-model-driven-apps",
-          "publishedOn": "2024-07-16T00:00:00.000Z",
-          "wordCount": 3257,
-          "title": "Mobile Offline Profile – Select columns to be downloaded (Dynamics 365 / Model-driven apps)",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Mobile-Offline-Profile-–-Select-columns-to-be-downloaded-Dynamics.jpeg?fit=867%2C583&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-copilot-with-french-language",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-copilot-with-french-language",
-          "publishedOn": "2024-07-15T14:00:19.000Z",
-          "wordCount": 3250,
-          "title": "New Functionality In Microsoft Power Automate 2024 Wave 1: Use Copilot with French Language",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/visualizing-data-models-with-copilot-in-an-erd-view",
-          "author": "Inogic",
-          "description": "Exploring the capabilities of Copilot Studio within Microsoft Dynamics and Power Platform opens up new avenues for enhancing business application development. A critical aspect of this process involves constructing intricate […]",
-          "link": "https://365community.online/visualizing-data-models-with-copilot-in-an-erd-view",
-          "publishedOn": "2024-07-15T12:17:02.000Z",
-          "wordCount": 3470,
-          "title": "Visualizing Data Models with Copilot in an ERD View",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Visualizing-Data-Models-with-Copilot-in-an-ERD-View.png?fit=1200%2C686&ssl=1"
-        },
-        {
-          "id": "https://365community.online/auto-create-and-draft-territories-with-territory-management-for-efficient-field-services-within-dynamics-365",
-          "author": "Inogic",
-          "description": "Maplytics has been a constant manufacturer of unique features that innovate the way marketing and sales approach field sales and field service. Territory Management is a leading example in defining […]",
-          "link": "https://365community.online/auto-create-and-draft-territories-with-territory-management-for-efficient-field-services-within-dynamics-365",
-          "publishedOn": "2024-07-15T11:42:31.000Z",
-          "wordCount": 3441,
-          "title": "Auto Create and Draft Territories with Territory Management for efficient Field Services within Dynamics 365!",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Maplytics-Blog-4-1.png?fit=1200%2C686&ssl=1"
-        },
-        {
-          "id": "https://365community.online/the-dark-truth-behind-design-identity-governance-youtube",
-          "author": "shabaz darr",
-          "description": "Discover the dark truth behind design identity governance in this eye-opening video. Learn about the SC-100 exam and designing a solution for secure identity governance solutions. Episode Breakdown – 00:00 […]",
-          "link": "https://365community.online/the-dark-truth-behind-design-identity-governance-youtube",
-          "publishedOn": "2024-07-15T11:30:30.000Z",
-          "wordCount": 3161,
-          "title": "The Dark Truth Behind Design Identity Governance – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1721076448_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/create-a-custom-connector-for-power-automate-power-apps",
-          "author": "Priyesh Wagh",
-          "description": "This post will help you get around building your first Custom Connector in Power Platform and Power Apps! Continue Reading priyeshwagh777’s Article on their blog Create a Custom Connector For […]",
-          "link": "https://365community.online/create-a-custom-connector-for-power-automate-power-apps",
-          "publishedOn": "2024-07-15T10:52:54.000Z",
-          "wordCount": 3144,
-          "title": "Create a Custom Connector For Power Automate & Power Apps",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Create-a-Custom-Connector-For-Power-Automate-amp-Power-Apps.png?fit=1200%2C773&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-create-ai-flows-in-power-automate",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-create-ai-flows-in-power-automate",
-          "publishedOn": "2024-07-15T10:00:48.000Z",
-          "wordCount": 3252,
-          "title": "New Functionality In Microsoft Power Automate 2024 Wave 1: Create AI Flows in Power Automate",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/dynamics-365-business-central-and-power-automate-connector-create-modify-delete-triggers-things-to-know",
-          "author": "Stefano Demiliani",
-          "description": "Power Automate (and as I always say in this case, Azure Logic Apps too) has a great connector for Dynamics 365 Business Central that permits you to interact with triggers […]",
-          "link": "https://365community.online/dynamics-365-business-central-and-power-automate-connector-create-modify-delete-triggers-things-to-know",
-          "publishedOn": "2024-07-15T09:29:44.000Z",
-          "wordCount": 3248,
-          "title": "Dynamics 365 Business Central and Power Automate Connector: create, modify, delete triggers things to know.",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1721035868_Dynamics-365-Business-Central-and-Power-Automate-Connector-create-modify.png?fit=1200%2C878&ssl=1"
-        },
-        {
-          "id": "https://365community.online/copy-dataverse-contact-phone-numbers-across-different-environments-based-on-contact-e-mail-address-using-power-automate",
-          "author": "michelcarlo",
-          "description": "Sometimes we can easily use manually triggered Power Automate Flows as ‘mini-scripts’, to run actions in bulk, such as creating/modifying data.  I recently came across the need to sync a […]",
-          "link": "https://365community.online/copy-dataverse-contact-phone-numbers-across-different-environments-based-on-contact-e-mail-address-using-power-automate",
-          "publishedOn": "2024-07-15T08:04:00.000Z",
-          "wordCount": 3383,
-          "title": "Copy Dataverse contact phone numbers across different environments based on Contact e-mail address using Power Automate",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/syncflow-1.png?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/http-trigger-azure-function-authorization-types-simplified-d365-demystified",
-          "author": "Priyesh Wagh",
-          "description": "Here’ how you can quickly understand what are the different Authorization Levels to be set while working with HTTP Azure Functions. Continue Reading priyeshwagh777’s Article on their blog HTTP Trigger […]",
-          "link": "https://365community.online/http-trigger-azure-function-authorization-types-simplified-d365-demystified",
-          "publishedOn": "2024-07-14T10:10:34.000Z",
-          "wordCount": 3142,
-          "title": "HTTP Trigger Azure Function Authorization Types simplified | D365 Demystified",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/HTTP-Trigger-Azure-Function-Authorization-Types-simplified-D365-Demystified.png?fit=1040%2C1020&ssl=1"
-        },
-        {
-          "id": "https://365community.online/dell-boomi-full-course-part-7-process-call-in-boomi-mindmajix-youtube",
-          "author": "Jaya Sri",
-          "description": "In this Dell Boomi full course for beginners you will learn all the concepts of Dell Boomi from scratch. In this particular Dell Boomi training video you will learn about […]",
-          "link": "https://365community.online/dell-boomi-full-course-part-7-process-call-in-boomi-mindmajix-youtube",
-          "publishedOn": "2024-07-13T12:00:14.000Z",
-          "wordCount": 3372,
-          "title": "Dell Boomi Full Course | Part 7 – Process Call in Boomi | MindMajix – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1721029602_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/sending-a-journey-using-rss-feeds-topics-in-realtime-marketing",
-          "author": "Megan V. Walker",
-          "description": "Back at the start of 2022, when Realtime Journeys and Triggers were just getting started, I wrote a post all about D365 Real-time Marketing, RSS Feeds & Subscription Centres. It […]",
-          "link": "https://365community.online/sending-a-journey-using-rss-feeds-topics-in-realtime-marketing",
-          "publishedOn": "2024-07-12T14:39:00.000Z",
-          "wordCount": 3201,
-          "title": "Sending A Journey Using RSS Feeds & Topics In Realtime Marketing",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Sending-A-Journey-Using-RSS-Feeds-amp-Topics-In-Realtime.jpg?fit=960%2C641&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-workflows-on-calendar-events-in-teams-and-outlook",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-workflows-on-calendar-events-in-teams-and-outlook",
-          "publishedOn": "2024-07-12T14:00:42.000Z",
-          "wordCount": 3273,
-          "title": "New Functionality In Microsoft Power Automate 2024 Wave 1: Use Workflows on Calendar Events in Teams and Outlook",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/innovative-designs-for-privileged-access-revealed-youtube",
-          "author": "shabaz darr",
-          "description": "Get a sneak peek of innovative designs for privileged access in this video! A must-watch for anyone preparing for the SC-100 exam on enterprise access models. Episode Breakdown – 00:00 […]",
-          "link": "https://365community.online/innovative-designs-for-privileged-access-revealed-youtube",
-          "publishedOn": "2024-07-12T11:30:05.000Z",
-          "wordCount": 3125,
-          "title": "Innovative Designs for Privileged Access Revealed – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1720807546_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-generative-ai-to-achieve-a-process-in-ai-flows",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-generative-ai-to-achieve-a-process-in-ai-flows",
-          "publishedOn": "2024-07-12T10:00:01.000Z",
-          "wordCount": 3281,
-          "title": "New Functionality In Microsoft Power Automate 2024 Wave 1: Use Generative AI to Achieve a Process in AI Flows",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/weekly-update-145-12th-july-2024-youtube",
-          "author": "Sarah Lean ???????",
-          "description": "Weekly Update #145 – 12th July 2024 Tune in as I explore the latest Azure updates from the past week. Enjoyed the podcast? Consider buying me a coffee to show […]",
-          "link": "https://365community.online/weekly-update-145-12th-july-2024-youtube",
-          "publishedOn": "2024-07-12T08:45:21.000Z",
-          "wordCount": 3138,
-          "title": "Weekly Update #145 – 12th July 2024 – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1720824362_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/cleaning-up-media-orphans-with-the-data-administration-tool-in-business-central",
-          "author": "Waldo",
-          "description": "Did you ever wonder how to delete Media Orphans in Business Central? Even more – did you know that Media Orphans are a real thing – and can consume a […]",
-          "link": "https://365community.online/cleaning-up-media-orphans-with-the-data-administration-tool-in-business-central",
-          "publishedOn": "2024-07-12T06:00:00.000Z",
-          "wordCount": 3218,
-          "title": "Cleaning up Media Orphans with the Data Administration tool in Business Central",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Cleaning-up-Media-Orphans-with-the-Data-Administration-tool-in.png?fit=327%2C243&ssl=1"
-        },
-        {
-          "id": "https://365community.online/torne-se-um-citizen-developer-aula-10-youtube",
-          "author": "Victor Dantas",
-          "description": "Torne-se um Citizen Developer – Aula 10 source",
-          "link": "https://365community.online/torne-se-um-citizen-developer-aula-10-youtube",
-          "publishedOn": "2024-07-11T20:29:38.000Z",
-          "wordCount": 3081,
-          "title": "Torne-se um Citizen Developer – Aula 10 – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1720764457_maxresdefault_live.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/selenium-interview-question-answer-how-to-click-hyperlink-in-selenium-seleniuminterview-shorts-youtube",
-          "author": "Jaya Sri",
-          "description": "In this video you will learn frequently asked Selenium interview question and answer that is how to click hyperlink in Selenium. For top 50 Selenium interview questions and answers visit […]",
-          "link": "https://365community.online/selenium-interview-question-answer-how-to-click-hyperlink-in-selenium-seleniuminterview-shorts-youtube",
-          "publishedOn": "2024-07-11T13:00:17.000Z",
-          "wordCount": 3164,
-          "title": "Selenium Interview Question & Answer: How to Click Hyperlink in Selenium? #seleniuminterview #shorts – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1720822564_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-financial-how-do-i-understand-why-you-can-post-to-a-closed-year",
-          "author": "Ian Grieve",
-          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Financial), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]",
-          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-financial-how-do-i-understand-why-you-can-post-to-a-closed-year",
-          "publishedOn": "2024-07-11T10:00:14.000Z",
-          "wordCount": 3270,
-          "title": "In Microsoft Dynamics 365 Business Central (Financial), how do I… Understand Why You Can Post to a Closed Year",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/replace-the-copilot-added-to-the-site-with-another-copilot-available-in-microsoft-copilot-studio",
-          "author": "Inogic",
-          "description": "Power Pages Site Copilot offers quick and efficient assistance to your site visitors and users, resolving issues and answering questions directly on your website. In today’s digital world, businesses often […]",
-          "link": "https://365community.online/replace-the-copilot-added-to-the-site-with-another-copilot-available-in-microsoft-copilot-studio",
-          "publishedOn": "2024-07-11T07:19:08.000Z",
-          "wordCount": 3504,
-          "title": "Replace the copilot added to the site with another copilot available in Microsoft Copilot Studio",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Replace-the-copilot-added-to-the-site-with-another-copilot-available-in-Microsoft-Copilot-Studio.png?fit=1200%2C686&ssl=1"
-        },
-        {
-          "id": "https://365community.online/mvp-renewed-again-9-in-a-row",
-          "author": "Roberto Stefanetti",
-          "description": "“Aloha my dear MVPs!Today is the day of your MVP renewals, and I’m excited like you and especially for you!” MVP renewed again, #9 in a row! …the MVP blue […]",
-          "link": "https://365community.online/mvp-renewed-again-9-in-a-row",
-          "publishedOn": "2024-07-11T06:57:43.000Z",
-          "wordCount": 3188,
-          "title": "MVP renewed again, #9 in a row!",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
-        },
-        {
-          "id": "https://365community.online/perform-age-calculation-using-formula-columns-in-dataverse-dynamics-365",
-          "author": "Nishant Rana",
-          "description": "Below we have created a new field of Data Type Formula and Formula Data Type as Whole Number Specify the following formula. RoundDown(DateDiff(birthdate, UTCNow(), TimeUnit.Days) / 365.25, 0) Below we […]",
-          "link": "https://365community.online/perform-age-calculation-using-formula-columns-in-dataverse-dynamics-365",
-          "publishedOn": "2024-07-10T18:32:00.000Z",
-          "wordCount": 3246,
-          "title": "Perform Age calculation using Formula Columns in Dataverse / Dynamics 365",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Perform-Age-calculation-using-Formula-Columns-in-Dataverse-Dynamics.jpeg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/create-your-first-custom-copilot-for-customer-service-hub-part-2-authentication",
-          "author": "Priyesh Wagh",
-          "description": "This is second part to the blog to create your first customer Copilot for Customer Service Hub. Continue Reading priyeshwagh777’s Article on their blog Create your first custom Copilot for […]",
-          "link": "https://365community.online/create-your-first-custom-copilot-for-customer-service-hub-part-2-authentication",
-          "publishedOn": "2024-07-10T12:46:12.000Z",
-          "wordCount": 3154,
-          "title": "Create your first custom Copilot for Customer Service Hub – Part 2 | Authentication",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1720623418_Create-your-first-custom-Copilot-for-Customer-Service-Hub-–.png?fit=1075%2C1199&ssl=1"
-        },
-        {
-          "id": "https://365community.online/improving-sales-efficiency-with-copilot-ai-summaries-for-dynamics-365-crm-records-preview",
-          "author": "Inogic",
-          "description": "In today’s fast-paced business environment, leveraging technology to streamline processes and enhance efficiency is crucial. One such tool revolutionizing how sales teams operate is the Co-Pilot feature in Dynamics 365 […]",
-          "link": "https://365community.online/improving-sales-efficiency-with-copilot-ai-summaries-for-dynamics-365-crm-records-preview",
-          "publishedOn": "2024-07-10T12:32:20.000Z",
-          "wordCount": 3489,
-          "title": "Improving Sales Efficiency with Copilot AI Summaries for Dynamics 365 CRM records (Preview)",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Technical-blog-3.png?fit=1200%2C686&ssl=1"
-        },
-        {
-          "id": "https://365community.online/sc-100-topic-6-part-4-unveiling-secure-identities-youtube",
-          "author": "shabaz darr",
-          "description": "Learn how to design a solution to manage secrets, keys, certificates, and secure identities in SC 100 Topic 6 Part 4. Watch now for expert tips and insights! Episode breakdown: […]",
-          "link": "https://365community.online/sc-100-topic-6-part-4-unveiling-secure-identities-youtube",
-          "publishedOn": "2024-07-10T11:30:08.000Z",
-          "wordCount": 3168,
-          "title": "SC 100 Topic 6 Part 4: Unveiling Secure Identities – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1720627768_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/how-to-use-a-recurring-integration-endpoint-to-import-data",
-          "author": "Nathan Clouse",
-          "description": "How to use a recurring Integration Endpoint to Import Data 07/10/24 Integration How to use a recurring Integration Endpoint for importing data Recurring Integration Endpoints for Finance and Operations are  […]",
-          "link": "https://365community.online/how-to-use-a-recurring-integration-endpoint-to-import-data",
-          "publishedOn": "2024-07-10T10:36:30.000Z",
-          "wordCount": 3210,
-          "title": "How to use a recurring Integration Endpoint to Import Data",
-          "imageUrl": "https://365community.online/wp-content/uploads/2024/07/How-To-Use-A-Recurring-Integration-Endpoint.png"
-        },
-        {
-          "id": "https://365community.online/how-to-use-a-recurring-integration-endpoint",
-          "author": "Nathan Clouse",
-          "description": "How To Use A Recurring Integration Endpoint 07/10/24 Integration How to use a recurring Integration Endpoint for importing data Recurring Integration Endpoints for Finance and Operations are  an interesting option […]",
-          "link": "https://365community.online/how-to-use-a-recurring-integration-endpoint",
-          "publishedOn": "2024-07-10T10:36:30.000Z",
-          "wordCount": 3197,
-          "title": "How To Use A Recurring Integration Endpoint",
-          "imageUrl": "https://365community.online/wp-content/uploads/2024/07/How-To-Use-A-Recurring-Integration-Endpoint.png"
-        },
-        {
-          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-financial-how-do-i-stop-people-posting-to-a-closed-fiscal-year",
-          "author": "Ian Grieve",
-          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Financial), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]",
-          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-financial-how-do-i-stop-people-posting-to-a-closed-fiscal-year",
-          "publishedOn": "2024-07-10T10:00:25.000Z",
-          "wordCount": 3262,
-          "title": "In Microsoft Dynamics 365 Business Central (Financial), how do I… Stop People Posting to a Closed Fiscal Year",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/prevent-prompt-injections-in-your-azure-openai-and-copilots-implementations",
-          "author": "Stefano Demiliani",
-          "description": "If any of you have ever developed Windows or Web applications connected to a SQL database in C# or other similar languages, you will surely have heard of sql injection. […]",
-          "link": "https://365community.online/prevent-prompt-injections-in-your-azure-openai-and-copilots-implementations",
-          "publishedOn": "2024-07-10T09:39:55.000Z",
-          "wordCount": 3229,
-          "title": "Prevent prompt injections in your Azure OpenAI and Copilots implementations.",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Prevent-prompt-injections-in-your-Azure-OpenAI-and-Copilots-implementations.png?fit=1200%2C837&ssl=1"
-        },
-        {
-          "id": "https://365community.online/power-pages-devtools-extension",
-          "author": "Nick Doelman",
-          "description": "Microsoft Power Pages allows you to build powerful web applications using a variety of components, tools and development languages. However, building websites using server-side markup languages like Liquid sometimes can […]",
-          "link": "https://365community.online/power-pages-devtools-extension",
-          "publishedOn": "2024-07-09T18:46:35.000Z",
-          "wordCount": 3181,
-          "title": "Power Pages DevTools extension",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Power-Pages-DevTools-extension.png?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-release-of-d365fo-admin-toolkit-v1-6",
-          "author": "Alex Meyer",
-          "description": "We’ve had some great community contributions to get us to v1.6 of the D365FO Admin Utility! D365FO Admin Toolkit v1.6 D365O Admin Toolkit v1.6 Release D365FO Admin Toolkit GitHub Note: […]",
-          "link": "https://365community.online/new-release-of-d365fo-admin-toolkit-v1-6",
-          "publishedOn": "2024-07-09T14:59:34.000Z",
-          "wordCount": 3183,
-          "title": "New Release of D365FO Admin Toolkit v1.6",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/New-Release-of-D365FO-Admin-Toolkit-v16.png?fit=228%2C447&ssl=1"
-        },
-        {
-          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-financial-how-do-i-close-the-income-statement",
-          "author": "Ian Grieve",
-          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Financial), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]",
-          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-financial-how-do-i-close-the-income-statement",
-          "publishedOn": "2024-07-09T10:00:20.000Z",
-          "wordCount": 3237,
-          "title": "In Microsoft Dynamics 365 Business Central (Financial), how do I… Close the Income Statement",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1720527031_In-Microsoft-Dynamics-365-Business-Central-Financial-how-do-I….png?fit=600%2C673&ssl=1"
-        },
-        {
-          "id": "https://365community.online/add-existing-repository-to-github-desktop-github-desktop-tutorial-2024-youtube",
-          "author": "Sarah Lean ???????",
-          "description": "Add existing repository to GitHub Desktop | GitHub Desktop Tutorial 2024 In this video I explain how to add an existing local repository to GitHub Desktop. Join this channel to […]",
-          "link": "https://365community.online/add-existing-repository-to-github-desktop-github-desktop-tutorial-2024-youtube",
-          "publishedOn": "2024-07-09T07:02:00.000Z",
-          "wordCount": 3150,
-          "title": "Add existing repository to GitHub Desktop | GitHub Desktop Tutorial 2024 – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1720523963_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/resolving-the-generic-sql-error-on-column-definition-update-in-dataverse",
-          "author": "Mehdi El Amri",
-          "description": "Recently, I encountered a frustrating error while trying to modify the length of a text field in Dataverse. The error message was: “Sql error: Generic SQL error. CRM ErrorCode: -2147204784 […]",
-          "link": "https://365community.online/resolving-the-generic-sql-error-on-column-definition-update-in-dataverse",
-          "publishedOn": "2024-07-08T23:21:37.000Z",
-          "wordCount": 3251,
-          "title": "Resolving the Generic SQL Error on Column Definition Update in Dataverse",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1720491543_Resolving-the-Generic-SQL-Error-on-Column-Definition-Update-in.png?fit=1200%2C927&ssl=1"
-        },
-        {
-          "id": "https://365community.online/torne-se-um-citizen-developer-aula-9-youtube",
-          "author": "Victor Dantas",
-          "description": "Torne-se um Citizen Developer – Aula 9 source",
-          "link": "https://365community.online/torne-se-um-citizen-developer-aula-9-youtube",
-          "publishedOn": "2024-07-08T20:29:53.000Z",
-          "wordCount": 3076,
-          "title": "Torne-se um Citizen Developer – Aula 9 – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1720493571_maxresdefault_live.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/using-homogenous-batch-bulk-operation-messages-for-improved-performance-data-migration-dataverse",
-          "author": "Nishant Rana",
-          "description": "As we all are aware Microsoft has introduced Bulk Operation messages in the platform. Now we could use the same in our SSIS Package that uses KingswaySoft’s SSIS Integration Toolkit […]",
-          "link": "https://365community.online/using-homogenous-batch-bulk-operation-messages-for-improved-performance-data-migration-dataverse",
-          "publishedOn": "2024-07-08T18:35:00.000Z",
-          "wordCount": 3253,
-          "title": "Using Homogenous Batch / Bulk operation messages for improved performance – Data Migration / Dataverse",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Using-Homogenous-Batch-Bulk-operation-messages-for-improved-performance.jpg?fit=1200%2C799&ssl=1"
-        },
-        {
-          "id": "https://365community.online/navigating-the-roles-of-solution-architects-and-enterprise-architects-youtube",
-          "author": "NZ365Guy",
-          "description": "Navigating the Roles of Solution Architects and Enterprise Architects Send me a Text Message here (https://www.buzzsprout.com/twilio/text_messages/1796418/open_sms) FULL SHOW NOTES https://podcast.nz365guy.com/567 Discover the critical distinctions between solution architects and enterprise architects […]",
-          "link": "https://365community.online/navigating-the-roles-of-solution-architects-and-enterprise-architects-youtube",
-          "publishedOn": "2024-07-08T18:22:38.000Z",
-          "wordCount": 3608,
-          "title": "Navigating the Roles of Solution Architects and Enterprise Architects – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1720488912_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/create-your-first-custom-copilot-for-customer-service-hub-part-1",
-          "author": "Priyesh Wagh",
-          "description": "Here’s how you can create your first Copilot for Customer Service Hub Continue Reading priyeshwagh777’s Article on their blog Create your first custom Copilot for Customer Service Hub – Part […]",
-          "link": "https://365community.online/create-your-first-custom-copilot-for-customer-service-hub-part-1",
-          "publishedOn": "2024-07-08T14:05:08.000Z",
-          "wordCount": 3134,
-          "title": "Create your first custom Copilot for Customer Service Hub – Part 1",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Create-your-first-custom-Copilot-for-Customer-Service-Hub-–.png?fit=1200%2C527&ssl=1"
-        },
-        {
-          "id": "https://365community.online/how-to-create-a-youtube-video",
-          "author": "Peter Ramer",
-          "description": "As part of writing articles, I typically create a YouTube video that covers the same content. I have found that some people like to read articles while others like to […]",
-          "link": "https://365community.online/how-to-create-a-youtube-video",
-          "publishedOn": "2024-07-08T13:00:00.000Z",
-          "wordCount": 3178,
-          "title": "How To Create A YouTube Video",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/How-To-Create-A-YouTube-Video.png?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/surprising-iam-design-solutions-unveiled-sc100-exam-youtube",
-          "author": "shabaz darr",
-          "description": "Get ready to be surprised by the innovative IAM design solutions unveiled in the SC-100 Exam. Learn about modern authentication and authorization strategies that will enhance your security protocols. Episode […]",
-          "link": "https://365community.online/surprising-iam-design-solutions-unveiled-sc100-exam-youtube",
-          "publishedOn": "2024-07-08T11:30:31.000Z",
-          "wordCount": 3166,
-          "title": "Surprising IAM Design Solutions Unveiled – SC100 Exam! – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1720446736_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-financial-how-do-i-close-a-fiscal-year",
-          "author": "Ian Grieve",
-          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Financial), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]",
-          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-financial-how-do-i-close-a-fiscal-year",
-          "publishedOn": "2024-07-08T10:00:42.000Z",
-          "wordCount": 3242,
-          "title": "In Microsoft Dynamics 365 Business Central (Financial), how do I… Close a Fiscal Year",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1720436963_In-Microsoft-Dynamics-365-Business-Central-Financial-how-do-I….png?fit=1177%2C332&ssl=1"
-        },
-        {
-          "id": "https://365community.online/unified-routing-capacity-profiles-and-work-classification",
-          "author": "Neil Parkhurst",
-          "description": "I recently had a requirement to route conversations differently to agents based on the skills we’d classified for the work item. In this post I will explain this concept. There […]",
-          "link": "https://365community.online/unified-routing-capacity-profiles-and-work-classification",
-          "publishedOn": "2024-07-08T07:52:26.000Z",
-          "wordCount": 3183,
-          "title": "Unified Routing – Capacity Profiles and Work Classification",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Unified-Routing-–-Capacity-Profiles-and-Work-Classification.jpg?fit=800%2C1200&ssl=1"
-        },
-        {
-          "id": "https://365community.online/how-to-create-instant-plugins-using-dataverse-accelerator-app-youtube",
-          "author": "Manish chauhan",
-          "description": "Welcome to our channel! In this video, we’ll demonstrate how to create Instant Plugins using the Dataverse Accelerator App. Instant Plugins are a versatile and powerful tool that can be […]",
-          "link": "https://365community.online/how-to-create-instant-plugins-using-dataverse-accelerator-app-youtube",
-          "publishedOn": "2024-07-08T04:39:50.000Z",
-          "wordCount": 3162,
-          "title": "How to Create Instant Plugins Using Dataverse Accelerator App – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1720419007_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/how-to-create-an-automated-plugin-using-the-dataverse-accelerator-app-youtube",
-          "author": "Manish chauhan",
-          "description": "Welcome to our channel! In this video, we’ll walk you through the process of creating an automated plugin using the Dataverse Accelerator App. Whether you’re a seasoned developer or just […]",
-          "link": "https://365community.online/how-to-create-an-automated-plugin-using-the-dataverse-accelerator-app-youtube",
-          "publishedOn": "2024-07-08T04:23:43.000Z",
-          "wordCount": 3187,
-          "title": "How to Create an Automated Plugin Using the Dataverse Accelerator App – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1720433781_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/database-inserts-code-table-comparison",
-          "author": "Nathan Clouse",
-          "description": "Submitted by Nathan Clouse on 07/07/24. Last modified:  07/07/24 Tags:  performance Database Inserts – Primary Table Comparison between dev box and Sandbox Environment In a previous article, I wrote about […]",
-          "link": "https://365community.online/database-inserts-code-table-comparison",
-          "publishedOn": "2024-07-08T03:07:43.000Z",
-          "wordCount": 3182,
-          "title": "Database Inserts – Code Table Comparison",
-          "imageUrl": "https://365community.online/wp-content/uploads/2024/07/Database-Inserts-Code-Table-Comparison.png"
-        },
-        {
-          "id": "https://365community.online/java-interview-question-what-is-the-purpose-of-pull-request-in-github-javainterview-shorts-youtube",
-          "author": "Jaya Sri",
-          "description": "In this video we discussed most frequently asked Java Interview Question and Answer that is what is the purpose of Pull request in GitHub. The answer for this question is, […]",
-          "link": "https://365community.online/java-interview-question-what-is-the-purpose-of-pull-request-in-github-javainterview-shorts-youtube",
-          "publishedOn": "2024-07-06T13:00:19.000Z",
-          "wordCount": 3217,
-          "title": "Java Interview Question: What is the Purpose of Pull Request in GitHub? #javainterview #shorts – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1720386203_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/the-book-of-batch-jobs",
-          "author": "Nathan Clouse",
-          "description": "I created a collection of articles on Finance and Operations (F&O) batch jobs to have a comprehensive resource for understanding and optimizing batch processing. This compilation includes guides on configuring […]",
-          "link": "https://365community.online/the-book-of-batch-jobs",
-          "publishedOn": "2024-07-06T01:48:48.000Z",
-          "wordCount": 3180,
-          "title": "The Book of Batch Jobs",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
-        },
-        {
-          "id": "https://365community.online/tutorial-how-to-rename-dynamics-365-ce-environment-url-and-name-youtube",
-          "author": "Manish chauhan",
-          "description": "Learn step-by-step how to easily rename your Dynamics 365 Customer Engagement (CE) environment URL and Name in this comprehensive tutorial. Whether you’re rebranding or need a more descriptive name, follow […]",
-          "link": "https://365community.online/tutorial-how-to-rename-dynamics-365-ce-environment-url-and-name-youtube",
-          "publishedOn": "2024-07-05T19:08:29.000Z",
-          "wordCount": 3145,
-          "title": "Tutorial: How to Rename Dynamics 365 CE Environment URL and Name – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1720220511_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/personalize-your-power-pages-portal-with-custom-sign-out-redirects",
-          "author": "Inogic",
-          "description": "Recently, we had a requirement regarding the Power Pages Portal where the website was a customer website and there were multiple Web Pages present. So, whenever the user logs out […]",
-          "link": "https://365community.online/personalize-your-power-pages-portal-with-custom-sign-out-redirects",
-          "publishedOn": "2024-07-05T10:29:21.000Z",
-          "wordCount": 3497,
-          "title": "Personalize Your Power Pages Portal with Custom Sign-Out Redirects",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Personalize-Your-Power-Pages-Portal.png?fit=1200%2C686&ssl=1"
-        },
-        {
-          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-financial-how-do-i-understand-the-recommended-steps-for-closing-a-period",
-          "author": "Ian Grieve",
-          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Financial), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… […]",
-          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-financial-how-do-i-understand-the-recommended-steps-for-closing-a-period",
-          "publishedOn": "2024-07-05T10:00:10.000Z",
-          "wordCount": 3258,
-          "title": "In Microsoft Dynamics 365 Business Central (Financial), how do I… Understand the Recommended Steps for Closing a Period",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/zero-to-hero-torne-se-um-citizen-developer-aula-08-youtube-2",
-          "author": "Victor Dantas",
-          "description": "Zero To Hero – Torne se um Citizen Developer – Aula 08 source",
-          "link": "https://365community.online/zero-to-hero-torne-se-um-citizen-developer-aula-08-youtube-2",
-          "publishedOn": "2024-07-05T09:36:36.000Z",
-          "wordCount": 3100,
-          "title": "Zero To Hero – Torne se um Citizen Developer – Aula 08 – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1720220380_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/weekly-update-144-5th-july-2024-youtube",
-          "author": "Sarah Lean ???????",
-          "description": "Weekly Update #144 – 5th July 2024 Tune in as I explore the latest Azure updates from the past week. Enjoyed the podcast? Consider buying me a coffee to show […]",
-          "link": "https://365community.online/weekly-update-144-5th-july-2024-youtube",
-          "publishedOn": "2024-07-05T06:19:29.000Z",
-          "wordCount": 3140,
-          "title": "Weekly Update #144 – 5th July 2024 – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1720220641_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/how-to-create-a-teams-avatar-from-photo",
-          "author": "Marcin Siewnicki",
-          "description": "Do you want to make your Teams Avatar look similar to you without a long manual customization process? With the latest Avatars feature, you can take your photo or take […]",
-          "link": "https://365community.online/how-to-create-a-teams-avatar-from-photo",
-          "publishedOn": "2024-07-04T21:52:16.000Z",
-          "wordCount": 3200,
-          "title": "How to create a Teams Avatar from photo",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
         }
       ]
     },
@@ -83953,16 +83383,6 @@
           "wordCount": 4044,
           "title": "New Release of D365FO Admin Toolkit v1.7",
           "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2024/08/1.png"
-        },
-        {
-          "id": "https://alexdmeyer.com/?p=3268",
-          "author": "Alex",
-          "description": "With Microsoft on a true ‘one version’ solution for Dynamics 365, it can become extremely important to ensure change management practices are followed during updates. I have previously released a tool that could potentially help with this process and I wanted to walk through how this can be done. Extract Configuration Settings Because of my […]\nThe post Comparing Security Between D365FO Versions appeared first on Alex Meyer.",
-          "link": "https://alexdmeyer.com/2024/07/16/comparing-security-between-d365fo-versions/",
-          "publishedOn": "2024-07-16T16:44:39.000Z",
-          "wordCount": 4178,
-          "title": "Comparing Security Between D365FO Versions",
-          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2024/07/1-1.png"
         }
       ]
     },
@@ -85626,6 +85046,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=202802",
+          "author": "Andrew Clear",
+          "description": "Microsoft is expanding scheduling choices in Dynamics 365 Field Service with the Solvares VISITOUR accelerator. The solution adds advanced scheduling optimization, predictive route planning, and continuous intraday re-optimization for complex field service operations.\nThe post Expanding scheduling choice in Dynamics 365 Field Service with Solvares’ VISITOUR accelerator appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/07/14/dynamics-365-field-service-scheduling-optimization-solvares-visitour/",
+          "publishedOn": "2026-07-14T16:18:46.000Z",
+          "wordCount": 5737,
+          "title": "Expanding scheduling choice in Dynamics 365 Field Service with Solvares’ VISITOUR accelerator",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2025/09/AdobeStock_1612820088-scaled.jpeg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=202756",
           "author": "Madhuri Somara, Peter Bian and Saurabh Gupta",
@@ -87955,16 +87385,6 @@
           "wordCount": 3736,
           "title": "5 steps for becoming AI-ready in field service",
           "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/07/D365_355244_Blog_240716_1200.png"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/07/16/2024-release-wave-2-plans-for-microsoft-dynamics-365-and-microsoft-power-platform-now-available/",
-          "author": "Ryan Darby Martin",
-          "description": "On July 16, 2024, we published the 2024 release wave 2 plans for Microsoft Dynamics 365 and Microsoft Power Platform.\nThe post 2024 release wave 2 plans for Microsoft Dynamics 365 and Microsoft Power Platform now available  appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/07/16/2024-release-wave-2-plans-for-microsoft-dynamics-365-and-microsoft-power-platform-now-available/",
-          "publishedOn": "2024-07-16T16:00:00.000Z",
-          "wordCount": 4661,
-          "title": "2024 release wave 2 plans for Microsoft Dynamics 365 and Microsoft Power Platform now available",
-          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/07/D365_351372_BLOG_240704-7.5-social-image.png"
         }
       ]
     },
