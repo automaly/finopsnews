@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-07-18T01:44:19.066Z</updated>
+    <updated>2026-07-19T01:52:23.787Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
@@ -35,6 +35,16 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Azure Backup – Simply Explained]]></title>
+        <id>https://365community.online/azure-backup-simply-explained</id>
+        <link href="https://365community.online/azure-backup-simply-explained"/>
+        <updated>2026-07-17T15:23:13.000Z</updated>
+        <summary type="html"><![CDATA[Azure Backup is Microsoft’s fully managed cloud backup service that protects your virtual machines, databases, file shares, disks, and even on-premises servers without requiring backup servers, tapes, or complex infrastructure. Instead of maintaining expensive backup hardware and manually rotating storage media, Azure Backup automatically creates secure recovery points inside Azure that can be restored whenever […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Microsoft Dynamics GP (Great Plains) PSTL Tools: One of the Most Powerful (and Underused) Features in Your ERP]]></title>
         <id>https://erpsoftwareblog.com/?p=151313</id>
         <link href="https://erpsoftwareblog.com/2026/07/microsoft-dynamics-gp-pstl-tools/"/>
@@ -50,6 +60,16 @@ Auto Populate Account Descriptions and 7 other Great GP Tips!
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[WordPress.com Changelog: A Resizable Editor and Sharper Image Cropping]]></title>
+        <id>https://365community.online/wordpress-com-changelog-a-resizable-editor-and-sharper-image-cropping</id>
+        <link href="https://365community.online/wordpress-com-changelog-a-resizable-editor-and-sharper-image-cropping"/>
+        <updated>2026-07-17T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[July 3 – 16, 2026 Welcome back to the WordPress.com changelog! You’ll find some helpful updates to the editing experience in this stretch: you can now size the editor to any screen width, crop images more precisely, and flip and rotate icons — plus the usual round of reliability fixes. Create and publish Size your […]]]></summary>
+        <author>
+            <name>Belinda Allen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The ‘duty-name’ trap in F&SCM’s segregation of duties rules]]></title>
         <id>https://erpsoftwareblog.com/?p=151305</id>
         <link href="https://erpsoftwareblog.com/2026/07/the-duty-name-trap-in-fscms-segregation-of-duties-rules/"/>
@@ -62,6 +82,16 @@ The Evolution of Scheduling for Process Manufacturers
 Warehouse Management System (WMS) Considerations When Selecting ERP Software]]></summary>
         <author>
             <name>2-Controlware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Kubernetes Service (AKS) – Simply Explained]]></title>
+        <id>https://365community.online/azure-kubernetes-service-aks-simply-explained</id>
+        <link href="https://365community.online/azure-kubernetes-service-aks-simply-explained"/>
+        <updated>2026-07-17T11:39:07.000Z</updated>
+        <summary type="html"><![CDATA[Azure Kubernetes Service (AKS) is Microsoft’s fully managed Kubernetes platform that makes it easier to deploy, manage, and scale containerized applications in Azure. Instead of building and maintaining your own Kubernetes cluster, Microsoft operates the control plane while you focus on deploying your applications. AKS combines the power of open-source Kubernetes with deep Azure integrations, […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
         </author>
     </entry>
     <entry>
@@ -208,6 +238,46 @@ Microsoft Partners with Solver for Cloud Planning and Reporting – What Does It
 3 Finance Leaders Share Top Pick for Business Central Reporting]]></summary>
         <author>
             <name>Thomas Werkhoven, Exsion365</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft AI Agent Harness – Simply Explained]]></title>
+        <id>https://365community.online/microsoft-ai-agent-harness-simply-explained</id>
+        <link href="https://365community.online/microsoft-ai-agent-harness-simply-explained"/>
+        <updated>2026-07-17T06:21:18.000Z</updated>
+        <summary type="html"><![CDATA[Writing the perfect AI prompt used to be the goal of every AI developer. But as businesses began asking AI to perform increasingly complex tasks—analyzing code, researching topics, coordinating workflows, and automating business processes—it became clear that prompts alone were no longer enough. Large Language Models are excellent at reasoning, but they cannot reliably manage […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Email Posted Sales Shipments and Return Receipts in Business Central 2026 Wave 1.]]></title>
+        <id>https://365community.online/how-to-email-posted-sales-shipments-and-return-receipts-in-business-central-2026-wave-1</id>
+        <link href="https://365community.online/how-to-email-posted-sales-shipments-and-return-receipts-in-business-central-2026-wave-1"/>
+        <updated>2026-07-17T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi All, Business Central 2026 Wave 1 adds email delivery, PDF generation, and attachment management for Posted Sales Shipments and Posted Return Receipts. Introduction Customer communication often extends beyond invoices. Many organizations need to provide shipment confirmations immediately after products leave the warehouse and share return documentation when goods are received back. Before this release, […]]]></summary>
+        <author>
+            <name>Saurav Dhyani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why I Stopped Treating AI Like a Tool in Business Central]]></title>
+        <id>https://365community.online/why-i-stopped-treating-ai-like-a-tool-in-business-central</id>
+        <link href="https://365community.online/why-i-stopped-treating-ai-like-a-tool-in-business-central"/>
+        <updated>2026-07-17T05:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Like many people exploring Artificial Intelligence, I initially looked at AI as another productivity tool. My goal was simple: find ways to work faster, reduce repetitive tasks, and improve the quality of my deliverables. I started experimenting with AI to write documentation, review AL code, generate UAT scenarios, summarize meetings, explain Business Central functionality, and […]]]></summary>
+        <author>
+            <name>Amol Salvi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Arc – Simply Explained]]></title>
+        <id>https://365community.online/azure-arc-simply-explained</id>
+        <link href="https://365community.online/azure-arc-simply-explained"/>
+        <updated>2026-07-17T02:38:13.000Z</updated>
+        <summary type="html"><![CDATA[Modern IT environments rarely exist in a single cloud. Most organizations run Windows and Linux servers across on-premises data centers, Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform (GCP), branch offices, and edge locations. Unfortunately, every environment introduces its own management portal, security tools, monitoring platform, and patching process. The result is fragmented operations, […]]]></summary>
+        <author>
+            <name>Mirko Peters</name>
         </author>
     </entry>
     <entry>
@@ -114339,297 +114409,6 @@ Microsoft Dynamics GP ou Microsoft Dynamics 365 Business Central : quelle soluti
         <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-trigger-attended-desktop-flows-in-picture-in-picture-mode-through-the-power-automate-console</id>
         <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-trigger-attended-desktop-flows-in-picture-in-picture-mode-through-the-power-automate-console"/>
         <updated>2024-07-19T14:00:08.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9 Essential Inventory Features in Dynamics 365 Business Central]]></title>
-        <id>https://erpsoftwareblog.com/?p=108299</id>
-        <link href="https://erpsoftwareblog.com/2024/07/9-essential-inventory-features-in-dynamics-365-business-central/"/>
-        <updated>2024-07-19T12:13:44.000Z</updated>
-        <summary type="html"><![CDATA[Effective inventory management lies at the heart of operational efficiency and customer satisfaction for businesses of all sizes. In today's dynamic market environment, leveraging robust ERP solutions like Microsoft Dynamics […]
-The post 9 Essential Inventory Features in Dynamics 365 Business Central appeared first on ERP Software Blog.
-Get More in the Cloud with Dynamics 365 Business Central
-Custom Backgrounds in Microsoft Teams and How to set up Your ERP Company Images
-Top 3 reasons WithoutWire™ (WoW) is Not Your Daddy’s Warehouse Management System (WMS)]]></summary>
-        <author>
-            <name>Kwixand Solutions Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is an Exception Test in Selenium? Selenium Interview Question #shorts | MindMajix – YouTube]]></title>
-        <id>https://365community.online/what-is-an-exception-test-in-selenium-selenium-interview-question-shorts-mindmajix-youtube</id>
-        <link href="https://365community.online/what-is-an-exception-test-in-selenium-selenium-interview-question-shorts-mindmajix-youtube"/>
-        <updated>2024-07-19T12:00:37.000Z</updated>
-        <summary type="html"><![CDATA[In this video you will learn frequently asked Selenium interview question and answer that is what is an exception test in Selenium. For top 50 Selenium interview questions and answers […]]]></summary>
-        <author>
-            <name>Jaya Sri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Business Central Transformation: Quality Control with Quality Inspector v7.16]]></title>
-        <id>https://erpsoftwareblog.com/?p=108635</id>
-        <link href="https://erpsoftwareblog.com/2024/07/business-central-transformation-quality-control-with-quality-inspector-v7-16/"/>
-        <updated>2024-07-19T11:54:21.000Z</updated>
-        <summary type="html"><![CDATA[Quality Inspector v7.16 for Business Central offers enhanced efficiency, automation, and data management with new quality control features.
-The post Business Central Transformation: Quality Control with Quality Inspector v7.16 appeared first on ERP Software Blog.
-Warehouse Insight Now Available for Dynamics 365 Business Central
-How to Choose a Mobile Computer to use with Business Central
-Quote Generation with Product Configurator for Business Central]]></summary>
-        <author>
-            <name>Insight Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Expert SC-100 Exam Design Solutions for SecOps – YouTube]]></title>
-        <id>https://365community.online/expert-sc-100-exam-design-solutions-for-secops-youtube</id>
-        <link href="https://365community.online/expert-sc-100-exam-design-solutions-for-secops-youtube"/>
-        <updated>2024-07-19T11:30:13.000Z</updated>
-        <summary type="html"><![CDATA[Learn expert SC-100 exam design solutions for SecOps in this video. Get an introduction to SecOps and design hybrid SecOps capabilities with our helpful tips! Episode breakdown – 00:00 – […]]]></summary>
-        <author>
-            <name>shabaz darr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to get Environment Variable Value in Dynamics 365 CE using JavaScript?]]></title>
-        <id>https://365community.online/how-to-get-environment-variable-value-in-dynamics-365-ce-using-javascript</id>
-        <link href="https://365community.online/how-to-get-environment-variable-value-in-dynamics-365-ce-using-javascript"/>
-        <updated>2024-07-19T11:18:12.000Z</updated>
-        <summary type="html"><![CDATA[We might have got a scenario to use the Environment Variable Value in the JavaScript in Dynamics 365 CE. In this article, will explain about retrieving the Environment Variable current […]]]></summary>
-        <author>
-            <name>Arun Potti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wave 2 2024 Customer Insights Journey Chat With Amey Holden]]></title>
-        <id>https://365community.online/wave-2-2024-customer-insights-journey-chat-with-amey-holden</id>
-        <link href="https://365community.online/wave-2-2024-customer-insights-journey-chat-with-amey-holden"/>
-        <updated>2024-07-19T11:15:15.000Z</updated>
-        <summary type="html"><![CDATA[The release notes for Dynamics 365 Wave 2 2024 have been published. My good friend Amey Holden and I got together to chat about each proposed change or new feature […]]]></summary>
-        <author>
-            <name>Megan V. Walker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Import Records in Dynamics 365 CRM Solutions]]></title>
-        <id>https://www.encorebusiness.com/?p=62996</id>
-        <link href="https://www.encorebusiness.com/blog/how-to-import-records-d365-crm/"/>
-        <updated>2024-07-19T11:13:30.000Z</updated>
-        <summary type="html"><![CDATA[How to Import Records in Dynamics 365 CRM Solutions
-When you need to add or change a large number of leads, contacts, or other records in Dynamics 365 CRM, you can save time by using the import functionality. This feature is often used by, for instance, salespeople just getting back from an in-person event with a spreadsheet full of new prospects or contacts. In...
-Read Next: 18 Warning Signs Your Business Need the Cloud
-This post first appeared first on Encore Business Solutions.]]></summary>
-        <author>
-            <name>Justin Pethick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wave 2 2024 Customer Insights Journey Chat With Amey Holden – YouTube]]></title>
-        <id>https://365community.online/wave-2-2024-customer-insights-journey-chat-with-amey-holden-youtube</id>
-        <link href="https://365community.online/wave-2-2024-customer-insights-journey-chat-with-amey-holden-youtube"/>
-        <updated>2024-07-19T11:04:57.000Z</updated>
-        <summary type="html"><![CDATA[Wave 2 2024 Customer Insights Journey Chat With Amey Holden The release notes for Dynamics 365 Wave 2 2024 have been published. My good friend Amey Holden and I got […]]]></summary>
-        <author>
-            <name>Megan V. Walker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Platform 2024 release wave 2]]></title>
-        <id>https://365community.online/power-platform-2024-release-wave-2</id>
-        <link href="https://365community.online/power-platform-2024-release-wave-2"/>
-        <updated>2024-07-19T11:02:15.000Z</updated>
-        <summary type="html"><![CDATA[Written by wilmeralcivar88@gmail.com The 2024 Wave 2 release for Power Platform brings significant enhancements, including the ability to restore deleted records, integrate Dataverse with Microsoft Fabric for advanced data analysis, […]]]></summary>
-        <author>
-            <name>Wilmer Alcivar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webinar: Define, Scope, & Plan Projects efficiently with Microsoft Dynamics 365 Project Operations!]]></title>
-        <id>https://365community.online/webinar-define-scope-plan-projects-efficiently-with-microsoft-dynamics-365-project-operations</id>
-        <link href="https://365community.online/webinar-define-scope-plan-projects-efficiently-with-microsoft-dynamics-365-project-operations"/>
-        <updated>2024-07-19T10:46:09.000Z</updated>
-        <summary type="html"><![CDATA[Guess Who Am I? I can generate project plans, allow managers to assign tasks to team members, and allocate the proper resources. I match resources like consultants, analysts, and designers […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero to Hero: Torne-se um Citizen Developer – Aula 12 – YouTube]]></title>
-        <id>https://365community.online/zero-to-hero-torne-se-um-citizen-developer-aula-12-youtube</id>
-        <link href="https://365community.online/zero-to-hero-torne-se-um-citizen-developer-aula-12-youtube"/>
-        <updated>2024-07-19T10:09:14.000Z</updated>
-        <summary type="html"><![CDATA[Zero to Hero: Torne-se um Citizen Developer – Aula 12 source]]></summary>
-        <author>
-            <name>Victor Dantas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Use Copilot in Automation Center to Analyze Cloud Flow Runs]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-copilot-in-automation-center-to-analyze-cloud-flow-runs</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-copilot-in-automation-center-to-analyze-cloud-flow-runs"/>
-        <updated>2024-07-19T10:00:38.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Business Central: subfolding AL symbols]]></title>
-        <id>https://365community.online/dynamics-365-business-central-subfolding-al-symbols</id>
-        <link href="https://365community.online/dynamics-365-business-central-subfolding-al-symbols"/>
-        <updated>2024-07-19T09:58:40.000Z</updated>
-        <summary type="html"><![CDATA[This is a very quick post, borned from a training I had today with a partner. When showing a demo related to integrating some Azure services into Dynamics 365 Business […]]]></summary>
-        <author>
-            <name>Stefano Demiliani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekly Update #146 – 19th July 2024 – YouTube]]></title>
-        <id>https://365community.online/weekly-update-146-19th-july-2024-youtube</id>
-        <link href="https://365community.online/weekly-update-146-19th-july-2024-youtube"/>
-        <updated>2024-07-19T06:14:50.000Z</updated>
-        <summary type="html"><![CDATA[Weekly Update #146 – 19th July 2024 Tune in as I explore the latest Azure updates from the past week. Enjoyed the podcast? Consider buying me a coffee to show […]]]></summary>
-        <author>
-            <name>Sarah Lean ???????</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Practices for VAR and ISV Co-Sell Relationships]]></title>
-        <id>https://erpsoftwareblog.com/?p=108605</id>
-        <link href="https://erpsoftwareblog.com/2024/07/best-practices-for-var-and-isv-co-sell-relationships/"/>
-        <updated>2024-07-18T19:14:08.000Z</updated>
-        <summary type="html"><![CDATA[We all know that VARs and ISVs can drive mutual growth and success by working together. However, establishing and nurturing relationships between organizations requires strategic engagement, rigorous onboarding, effective co-selling […]
-The post Best Practices for VAR and ISV Co-Sell Relationships appeared first on ERP Software Blog.
-Microsoft makes training options available for Dynamics GP easy and convenient.
-Google for the perfect Microsoft Dynamics GP (Great Plains) Partner for you!
-Hassle Free Upgrades with Dynamics GP Resellers!]]></summary>
-        <author>
-            <name>PartnerTalks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fast Cloud Reporting for Business Central]]></title>
-        <id>https://erpsoftwareblog.com/?p=108593</id>
-        <link href="https://erpsoftwareblog.com/2024/07/fast-cloud-reporting-for-business-central/"/>
-        <updated>2024-07-18T18:26:43.000Z</updated>
-        <summary type="html"><![CDATA[Get Fast Cloud Reporting for Business Central: Get Cosmos! Reporting for Microsoft Business Central doesn’t have to be slow and cumbersome to get the critical information your company needs.  In […]
-The post Fast Cloud Reporting for Business Central appeared first on ERP Software Blog.
-Webinar: Get Fast Excel-Based Reporting for Microsoft Business Central
-Webinar-The Future of Reporting and Analytics for Microsoft Business Central
-Exploring ERP: Fixed Assets in Microsoft Business Central]]></summary>
-        <author>
-            <name>iCepts Technology Group, Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's New in Microsoft Dynamics 365 Business Central 2024 Release Wave 2]]></title>
-        <id>https://erpsoftwareblog.com/?p=108572</id>
-        <link href="https://erpsoftwareblog.com/2024/07/whats-new-in-microsoft-dynamics-365-business-central-2024-release-wave-2/"/>
-        <updated>2024-07-18T18:24:07.000Z</updated>
-        <summary type="html"><![CDATA[The Microsoft Dynamics 365 Business Central 2024 Release Wave 2 Plan has arrived! Below is a quick summary of the plan, but you can get all the details here. This […]
-The post What's New in Microsoft Dynamics 365 Business Central 2024 Release Wave 2 appeared first on ERP Software Blog.
-Dynamics 365 Business Central and Industry-Tailored Functionality
-Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
-Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve]]></summary>
-        <author>
-            <name>TrinSoft, LLC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Controlling Resource Eligibility and Job Tasks with MetaPro]]></title>
-        <id>https://erpsoftwareblog.com/?p=108597</id>
-        <link href="https://erpsoftwareblog.com/2024/07/controlling-resource-eligibility-and-job-tasks-with-metapro/"/>
-        <updated>2024-07-18T16:40:06.000Z</updated>
-        <summary type="html"><![CDATA[In the dynamic world of professional services, the efficiency and precision of resource management are paramount. MetaPro, a comprehensive module that integrates seamlessly with MetaConstructX and Business Central, brings transformative capabilities to your […]
-The post Controlling Resource Eligibility and Job Tasks with MetaPro appeared first on ERP Software Blog.
-5 Ways Business Central Can Boosts Your Project Management in 2024
-Mastering Project Costs: How MetaPro Streamlines Job Costing for Professional Services
-Customization Magic: Unleash the Potential of Business Central with MetaPro]]></summary>
-        <author>
-            <name>MetaOption LLC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build intelligent and scalable solutions with Microsoft Power Apps and Microsoft Power Platform]]></title>
-        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/build-intelligent-and-scalable-solutions-with-power-apps-and-microsoft-power-platform/</id>
-        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/build-intelligent-and-scalable-solutions-with-power-apps-and-microsoft-power-platform/"/>
-        <updated>2024-07-18T16:40:00.000Z</updated>
-        <summary type="html"><![CDATA[In this blog post and the accompanying demo video, we want to highlight what is possible with Microsoft Power Apps and Microsoft Power Platform today and how this development platform enables organizations to build intelligent solutions at an enterprise scale.
-The post Build intelligent and scalable solutions with Microsoft Power Apps and Microsoft Power Platform  appeared first on Microsoft Power Platform Blog.]]></summary>
-        <author>
-            <name>Clay Wesener and Marek Lutz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SharePoint Action – Add an attachment – YouTube]]></title>
-        <id>https://365community.online/sharepoint-action-add-an-attachment-youtube</id>
-        <link href="https://365community.online/sharepoint-action-add-an-attachment-youtube"/>
-        <updated>2024-07-18T15:34:59.000Z</updated>
-        <summary type="html"><![CDATA[In this video, I look at the SharePoint action, add an attachment. How this action works, and how you can use it. Blog: https://www.mattcollinsjones.co.uk Twitter/X: https://twitter.com/D365geek LinkedIn: https://www.linkedin.com/in/mattcollins-jones/ Email: dynamics365geek@gmail.com […]]]></summary>
-        <author>
-            <name>Matt Collins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Trigger Attended Desktop Flows in Picture-in-Picture]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-trigger-attended-desktop-flows-in-picture-in-picture</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-trigger-attended-desktop-flows-in-picture-in-picture"/>
-        <updated>2024-07-18T14:00:02.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Encore Care Support | Priority Levels]]></title>
-        <id>https://www.encorebusiness.com/?p=39689</id>
-        <link href="https://www.encorebusiness.com/blog/encore-care-priority-levels/"/>
-        <updated>2024-07-18T13:46:29.000Z</updated>
-        <summary type="html"><![CDATA[Encore Care Support | Priority Levels
-Our dedicated support and sustainment program, Encore Care, is a valuable service we offer to our Microsoft Dynamics, Dynamics 365, and Microsoft 365 clients that goes beyond the standard break/fix approach to support. Encore Care has been built as an accessible way to assist you with your day to day needs and issues. Our dedicated...
-Read Next: 18 Warning Signs Your Business Need the Cloud
-This post first appeared first on Encore Business Solutions.]]></summary>
-        <author>
-            <name>Scott Murn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Pages: Uploading BIG attachments!]]></title>
-        <id>https://365community.online/power-pages-uploading-big-attachments</id>
-        <link href="https://365community.online/power-pages-uploading-big-attachments"/>
-        <updated>2024-07-18T12:33:43.000Z</updated>
-        <summary type="html"><![CDATA[One of the weaker features in Power Pages has been the ability to upload large files through a website. Now in preview, the Power Pages team has added a new […]]]></summary>
-        <author>
-            <name>Nick Doelman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Create and Edit Expressions with Copilot]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-create-and-edit-expressions-with-copilot</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-create-and-edit-expressions-with-copilot"/>
-        <updated>2024-07-18T10:00:29.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Business Central 2024 Wave 2 – what is planned]]></title>
-        <id>https://365community.online/business-central-2024-wave-2-what-is-planned</id>
-        <link href="https://365community.online/business-central-2024-wave-2-what-is-planned"/>
-        <updated>2024-07-17T16:02:07.000Z</updated>
-        <summary type="html"><![CDATA[Business Central 2024 Wave 2 – what is planned The 2024 release wave 2 plan covers all new functionalities planned to be delivered to market from October 2024 to March […]]]></summary>
-        <author>
-            <name>Roberto Stefanetti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Use Process Mining Microsoft 365 Personal Recommendations]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-process-mining-microsoft-365-personal-recommendations</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-process-mining-microsoft-365-personal-recommendations"/>
-        <updated>2024-07-17T14:00:52.000Z</updated>
         <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
         <author>
             <name>Ian Grieve</name>
