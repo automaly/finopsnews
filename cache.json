@@ -514,6 +514,16 @@
       "siteUrl": "https://d365fotechexpert.blogspot.com/",
       "articles": [
         {
+          "id": "https://d365fotechexpert.blogspot.com/2026/07/understanding-direct-sql-query.html",
+          "author": null,
+          "description": "Introduction\n\nX++ is very powerful and has SQL like statements that can be used to interact with data.\n\nSelect data: Select the data to view or modify.\n\nselect statement – Fetch records.\n\nInsert data: Add one or more new records to a table.\n\ninsert and doInsert methods – Insert one record at a time.\n\ninsert_recordset, RecordInsertList.insertDatabase, and RecordSortedList.insertDatabase methods – Insert multiple records at the same time.\n\nUpdate data: Modify the data in existing table records.\n\nupdate and doUpdate methods – Update one record at a time.\n\nupdate_recordset statement – Update multiple records at the same time.\n1)\n\n\n\nclass RunDirectSqlSelect\n{\n    public static void main(Args _args)\n    {\n        UserConnection                  connection = new UserConnection();\n        Statemen…",
+          "link": "https://d365fotechexpert.blogspot.com/2026/07/understanding-direct-sql-query.html",
+          "publishedOn": "2026-07-20T17:31:38.151Z",
+          "wordCount": 5723,
+          "title": "Understanding Direct SQL Query Execution in D365 FO X++",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjm7cACnaV3fqSNEsu4wSOxK3uWuycaVlpffcfgFDiTS6Ht7q-rZfwcgFO1Ojy-oXGBd1W3pZWopl-TMll_zEEL41E5jGSwY0TW_4QnOnVWTzQKEpi3Ay7bNUl07KUi2vGFHRRq1Ha5B9LVI81UU2w04dM_zyvoDltGl2EkPoeIX3zVz5C3r3sihYZG580=w1200-h630-p-k-no-nu"
+        },
+        {
           "id": "https://d365fotechexpert.blogspot.com/2026/06/inactive-vendor-blocking-enhancement.html",
           "author": null,
           "description": "Purpose\nThe purpose of this document is to describe the design and implementation of the Automatic Blocking of Inactive Vendors functionality in Microsoft Dynamics 365 Finance and Operations (D365FO).\nThis enhancement automates the identification and blocking of inactive vendors based on configurable business rules, eliminating the need for manual vendor maintenance. The solution introduces a configurable batch process that evaluates vendor inactivity using the latest vendor transaction date and automatically updates the vendor blocking status.\nThis functionality can be used for:\nVendor Blocking status to \"All\" for eligible inactive vendors.\n\nProviding parameter-based filtering using Vendor Groups and specific Vendors.\nProduct\nMicrosoft Dynamics 365 Finance and Operations (D365FO)\nDevelopm…",
@@ -1326,6 +1336,86 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=151222",
+          "author": "Insight Works",
+          "description": "xxx\nListen to the Podcast Walk through a working warehouse, and you will count more than one kind of device. A receiving clerk scans cartons on a compact handheld. A forklift […]\nThe post Matching the Mobile WMS Interface to the Worker in Microsoft Dynamics 365 Business Central appeared first on ERP Software Blog.\nWarehouse Insight Now Available for Dynamics 365 Business Central\nOptimize your Distribution Process with Advanced Warehouse Management System\nHow to Choose a Mobile Computer to use with Business Central",
+          "link": "https://erpsoftwareblog.com/2026/07/matching-the-mobile-wms-interface-to-the-worker-in-microsoft-dynamics-365-business-central/",
+          "publishedOn": "2026-07-20T21:08:39.000Z",
+          "wordCount": null,
+          "title": "Matching the Mobile WMS Interface to the Worker in Microsoft Dynamics 365 Business Central",
+          "imageUrl": null
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=151395",
+          "author": "Jennifer Muniz",
+          "description": "xxx\nReplace Excel Budgeting Without the Chaos Why Finance Teams Have Outgrown Spreadsheets and What Comes Next For decades, Excel has been the budgeting tool of choice for finance teams. And […]\nThe post Why Finance Teams Have Outgrown Spreadsheets and What Comes Next appeared first on ERP Software Blog.\nSelf-Service Analytics: Exploring Your ERP Data for Maximum Insights\nCase Study: Embracing ClickLearn as a corporate Dynamics 365 training platform\n3 Ways Dynamics eShop’s Point of Sale System Stands Out",
+          "link": "https://erpsoftwareblog.com/2026/07/why-finance-teams-have-outgrown-spreadsheets-and-what-comes-next/",
+          "publishedOn": "2026-07-20T19:27:38.000Z",
+          "wordCount": null,
+          "title": "Why Finance Teams Have Outgrown Spreadsheets and What Comes Next",
+          "imageUrl": null
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=151370",
+          "author": "Leverage AI",
+          "description": "xxx\nIf you're running Microsoft Dynamics 365 Business Central at a mid-market distributor, you've probably lived this nightmare: a supplier sends a delivery confirmation email, you manually re-key it into Business […]\nThe post Procurement Automation in Microsoft Dynamics 365 Business Central: Moving Beyond Manual PO Workflows for Industrial Distributors appeared first on ERP Software Blog.\nInsight Works Unveils Enhanced Order Fulfillment for Dynamics 365\nBenefits of Automatic Collection Efforts in Business Central\nKey Trends for Accounts Payable in 2025",
+          "link": "https://erpsoftwareblog.com/2026/07/procurement-automation-in-microsoft-dynamics-365-business-central-moving-beyond-manual-po-workflows-for-industrial-distributors/",
+          "publishedOn": "2026-07-20T15:48:52.000Z",
+          "wordCount": null,
+          "title": "Procurement Automation in Microsoft Dynamics 365 Business Central: Moving Beyond Manual PO Workflows for Industrial Distributors",
+          "imageUrl": null
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=151371",
+          "author": "Admiral Consulting Group",
+          "description": "xxx\nWelcome to our July newsletter! This month, we're sharing updates and tips to help you get more from your Microsoft solutions and discover new ways to work smarter. Meet the […]\nThe post Admiral Consulting Groups July Newsletter! appeared first on ERP Software Blog.\nAutomated Vendor Validation: Secure and Simplify AP Compliance\n$950/year Early Access to Mekorma Payment Hub for BC Ends in April 2025\nTop Business Intelligence trends for equipment rental, leasing, and services companies",
+          "link": "https://erpsoftwareblog.com/2026/07/admiral-consulting-groups-july-newsletter/",
+          "publishedOn": "2026-07-20T14:57:30.000Z",
+          "wordCount": null,
+          "title": "Admiral Consulting Groups July Newsletter!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=151366",
+          "author": "Stephanie E. Clark",
+          "description": "xxx\nA packaged start is smart. Whether it grows with you or stalls comes down to one thing: process. QUICK ANSWER A packaged Business Central implementation is an efficient, lower-cost way […]\nThe post Packaged Business Central Implementation: The Difference Between a Foundation and a Ceiling appeared first on ERP Software Blog.\nWhat’s New in Microsoft Dynamics GP 2015?\nSink or Swim: Why a Phased Rollout for ERP Implementation is Best\nSelecting the Right ERP: Cloud or On-premises?",
+          "link": "https://erpsoftwareblog.com/2026/07/packaged-business-central-implementation/",
+          "publishedOn": "2026-07-20T12:48:44.000Z",
+          "wordCount": null,
+          "title": "Packaged Business Central Implementation: The Difference Between a Foundation and a Ceiling",
+          "imageUrl": null
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=151359",
+          "author": "Dynamics Square UK",
+          "description": "xxx\nIf your business relies on spreadsheets, struggles with inaccurate inventory, experiences delayed reporting, or uses disconnected systems, it may be time for a new ERP system. A modern cloud ERP […]\nThe post How Do I Know If My Business Needs a New ERP System? appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/07/how-do-i-know-if-my-business-needs-a-new-erp-system/",
+          "publishedOn": "2026-07-20T11:06:04.000Z",
+          "wordCount": null,
+          "title": "How Do I Know If My Business Needs a New ERP System?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=151358",
+          "author": "Volt Technologies",
+          "description": "xxx\nFashion brands don't just manage products, they manage thousands of product variants. A single collection can quickly expand into hundreds or even thousands of SKUs when you account for sizes, […]\nThe post Dynamics 365 Business Central for Fashion Brands: Simplify Variants, Inventory & Margins appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/07/business-central-fashion-erp/",
+          "publishedOn": "2026-07-20T10:57:39.000Z",
+          "wordCount": null,
+          "title": "Dynamics 365 Business Central for Fashion Brands: Simplify Variants, Inventory & Margins",
+          "imageUrl": null
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=151355",
+          "author": "i95Dev",
+          "description": "xxx\nManufacturers rarely decide to integrate Shopify with Business Central because they want another technology project. They do it because everyday operations become harder than they should be. Online orders get entered twice, inventory […]\nThe post Why Manufacturers Choose Shopify and Business Central for Modern B2B Ecommerce appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/07/why-manufacturers-choose-shopify-and-business-central-for-modern-b2b-ecommerce/",
+          "publishedOn": "2026-07-20T05:46:34.000Z",
+          "wordCount": null,
+          "title": "Why Manufacturers Choose Shopify and Business Central for Modern B2B Ecommerce",
+          "imageUrl": null
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=151330",
           "author": "Dynamics Square USA",
@@ -40200,16 +40290,6 @@
           "wordCount": 4184,
           "title": "Boost your Operations with Effortless Packing and Shipping: MetaShip",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-4-8.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=117253",
-          "author": "Wade Tetsuka",
-          "description": "Article excerpt: “A 2023 report from Insider Intelligence reveals that card-not-present (CNP) fraud is expected to result in $9.49 billion in total losses in 2023. Moreover, CNP fraud is projected […]\nThe post The Perils of Storing Credit Card Data in Your ERP appeared first on ERP Software Blog.\n7 Reasons USTPay is the Preferred Payment Solution\nLearn How To Save Time By Using The \"Cancel\" Option to Reverse A Posted Sales Invoice\nStart Collecting Sales Tax In Under 5 minutes in Dynamics 365 Business Central",
-          "link": "https://erpsoftwareblog.com/2024/07/the-perils-of-storing-credit-card-data-in-your-erp/",
-          "publishedOn": "2024-07-20T17:20:26.000Z",
-          "wordCount": 4368,
-          "title": "The Perils of Storing Credit Card Data in Your ERP",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Screenshot-2024-08-02-at-11.21.58 AM-625x483.png"
         }
       ]
     },
@@ -40218,6 +40298,16 @@
       "feedUrl": "https://www.encorebusiness.com/blog/feed/",
       "siteUrl": "https://www.encorebusiness.com/blog/",
       "articles": [
+        {
+          "id": "https://www.encorebusiness.com/?p=73801",
+          "author": "Justin Song",
+          "description": "Power BI MCP Servers Are Transforming Analytics with AI\nThe next evolution of business intelligence is here, bringing AI-powered, conversational access to enterprise data through Power BI MCP servers. As a senior BI analyst, I’ve helped organizations get more value from their data with Power BI, and I see MCP servers as an exciting advancement that makes analytics more accessible through AI. The Next...\nRead Next: 18 Warning Signs Your Business Need the Cloud\nThis post first appeared first on Encore Business Solutions.",
+          "link": "https://www.encorebusiness.com/blog/power-bi-mcp-servers-transforming-analytics-with-ai/",
+          "publishedOn": "2026-07-20T14:47:39.000Z",
+          "wordCount": null,
+          "title": "Power BI MCP Servers Are Transforming Analytics with AI",
+          "imageUrl": null
+        },
         {
           "id": "https://www.encorebusiness.com/?p=73746",
           "author": "Mike Lamb",
@@ -82940,6 +83030,16 @@
       "siteUrl": "https://alexdmeyer.com/",
       "articles": [
         {
+          "id": "https://alexdmeyer.com/?p=4028",
+          "author": "Alex",
+          "description": "I’ve written about the License Usage Summary report before as this is a key part of performing any license assessment within the User Security Governance functionality in D365FSC. One license report feature that was removed / deprecated in a previous version was the license reporting on the ‘View Permissions’ report at the object level. This […]\nThe post User Security Governance – Security Object License Report appeared first on Alex Meyer.",
+          "link": "https://alexdmeyer.com/2026/07/20/user-security-governance-security-object-license-report/",
+          "publishedOn": "2026-07-20T15:33:53.000Z",
+          "wordCount": 4200,
+          "title": "User Security Governance – Security Object License Report",
+          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2026/07/1.png"
+        },
+        {
           "id": "https://alexdmeyer.com/?p=4007",
           "author": "Alex",
           "description": "If you’ve spent any time building custom security in Dynamics 365 Finance & Supply Chain Management, you know that assigning Read access to an object means you have the ability to view the record but cannot create new records and can’t edit or delete the record. But are there some forms that don’t follow this […]\nThe post The D365FSC Security Configuration Form: When “Read” Doesn’t Mean Read appeared first on Alex Meyer.",
@@ -87877,6 +87977,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=3132",
+          "author": "Arvind Bharti",
+          "description": "Overview In Part 1, we understood why Quality Management is essential for every manufacturing organization and how Microsoft Dynamics 365 Finance & Operations helps automate the quality inspection process. Before the system can automatically create a Quality Order, we must first configure the master data that drives the entire Quality Management framework. Think of these […]",
+          "link": "https://exploredynamics365.home.blog/2026/07/20/configuring-the-pre-requisite-master-data-for-quality-management-in-microsoft-dynamics-365-finance-operations-part-2/",
+          "publishedOn": "2026-07-20T08:03:03.000Z",
+          "wordCount": 4340,
+          "title": "Configuring the Pre-requisite Master Data for Quality Management in D365 F&SCM – Part 2",
+          "imageUrl": "https://i0.wp.com/exploredynamics365.home.blog/wp-content/uploads/2026/07/colorful-modern-designer-linkedin-banner-presentation-3.jpg?fit=1200%2C675&ssl=1"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=3121",
           "author": "Arvind Bharti",
