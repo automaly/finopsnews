@@ -638,6 +638,16 @@
       "siteUrl": "https://tomaztsql.wordpress.com",
       "articles": [
         {
+          "id": "http://tomaztsql.wordpress.com/?p=11182",
+          "author": "tomaztsql",
+          "description": "We all were presented with this problem – water jug problem, which – in the time of Football world cup 2026 – can be translated to any liquid. *hint hint* But the riddle is as logical as mathematical. With mathematics…\nRead more ›",
+          "link": "https://tomaztsql.wordpress.com/2026/07/21/little-useless-useful-r-functions-jug-solver-with-bezouts-identity/",
+          "publishedOn": "2026-07-21T19:15:27.000Z",
+          "wordCount": 5202,
+          "title": "Little useless-useful R functions – Jug solver with Bezout’s Identity",
+          "imageUrl": "https://tomaztsql.wordpress.com/wp-content/uploads/2026/07/water_jug_puzzle_solver-1.gif"
+        },
+        {
           "id": "http://tomaztsql.wordpress.com/?p=11162",
           "author": "tomaztsql",
           "description": "Stanislaw Ulam, Los Alamos, 1963 was bored in a meeting and he started dooddling integers in a spiral and circled the primes. Diagonal lines appeared. He later showed it to Martin Gardner, to Ulam surprise, Gardner published his findings in…\nRead more ›",
@@ -1336,6 +1346,61 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=151476",
+          "author": "Logan Consulting",
+          "description": "xxx\nArtificial intelligence is changing the way organizations engage with customers. Early AI tools focused mainly on automating repetitive tasks, but today's technology goes further, helping businesses understand customer behavior, anticipate needs, and deliver more […]\nThe post AI That Understands Customers, Not Just Automating Tasks appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/07/ai-that-understands-customers-not-just-automating-tasks/",
+          "publishedOn": "2026-07-21T21:33:20.000Z",
+          "wordCount": 7130,
+          "title": "AI That Understands Customers, Not Just Automating Tasks",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/images.jpeg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=151401",
+          "author": "Insight Works",
+          "description": "xxx\nInsight Works, an Independent Software Vendor specializing in Microsoft Dynamics 365 Business Central apps for manufacturing and distribution businesses, has added 15 new Microsoft Partners to its global reseller network […]\nThe post Insight Works Adds 15 New Microsoft Partners to Global Reseller Network in June 2026 appeared first on ERP Software Blog.\nWarehouse Insight Now Available for Dynamics 365 Business Central\nOptimize your Distribution Process with Advanced Warehouse Management System\nHow to Choose a Mobile Computer to use with Business Central",
+          "link": "https://erpsoftwareblog.com/2026/07/insight-works-adds-15-new-microsoft-partners-to-global-reseller-network-in-june-2026/",
+          "publishedOn": "2026-07-21T19:47:23.000Z",
+          "wordCount": 7679,
+          "title": "Insight Works Adds 15 New Microsoft Partners to Global Reseller Network in June 2026",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/15-New-Partners.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=151425",
+          "author": "Binary Stream",
+          "description": "xxx\nSubscription renewals shouldn’t require a person standing watch. Especially if you’re already handling recurring revenue in Microsoft Dynamics 365 Finance. But in most organizations, that’s exactly what happens; someone has […]\nThe post Watch Demo: AI-powered contract Renewal Agent for Dynamics 365 Finance. appeared first on ERP Software Blog.\nFireworks and Marching Bands at Summit 2016. Really.\nA Wake-up Call - A Game Changer Is on the Way\nHosting Microsoft Dynamics in the Cloud - evaluating IaaS, PaaS and SaaS",
+          "link": "https://erpsoftwareblog.com/2026/07/watch-demo-ai-powered-contract-renewal-agent-for-dynamics-365-finance/",
+          "publishedOn": "2026-07-21T15:28:50.000Z",
+          "wordCount": 7151,
+          "title": "Watch Demo: AI-powered contract Renewal Agent for Dynamics 365 Finance.",
+          "enclosure": {
+            "url": "https://erpsoftwareblog.com/wp-content/uploads/AI-Renewal-agent-Architecture-video.mp4",
+            "length": "46346851",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Screenshot-2026-07-21-083402.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=151151",
+          "author": "Znode",
+          "description": "xxx\nManufacturers and distributors connecting B2B ecommerce with Dynamics 365 need a clear plan for where products, pricing, and orders will be managed. Dynamics 365 can remain the system of record […]\nThe post Dynamics 365 B2B Ecommerce: How to Manage Products, Pricing, and Orders appeared first on ERP Software Blog.\nThe Benefits of Single-Stack E-Commerce for Dynamics ERPs\nTop equipment-driven rental trend: Get online to expand presence and profits\nHow to Use Dynamics ERP Data to Efficiently Manage Web Store Inventory",
+          "link": "https://erpsoftwareblog.com/2026/07/dynamics-365-b2b-ecommerce-how-to-manage-products-pricing-and-orders/",
+          "publishedOn": "2026-07-21T14:18:15.000Z",
+          "wordCount": 8942,
+          "title": "Dynamics 365 B2B Ecommerce: How to Manage Products, Pricing, and Orders",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2026-07-Dynamics-365-B2B-Ecommerce-How-to-Manage-Products-Pricing-and-Orders_2.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=151415",
+          "author": "Folio3 Dynamics",
+          "description": "xxx\nFor a lot of mid-size food manufacturers, Microsoft Dynamics 365 Business Central handles the job well enough, right up until a pallet of whole hams or a percentage-based formula turns […]\nThe post Is Business Central Enough for Food Manufacturing? Recipes, Batch, Catch Weight & Yield appeared first on ERP Software Blog.\nHow to Reduce Microsoft Licensing Costs\nWhen Business Central Customization Makes Sense\n5 Steps to a Successful Implementation of Your New Accounting System",
+          "link": "https://erpsoftwareblog.com/2026/07/is-business-central-enough-for-food-manufacturing-recipes-batch-catch-weight-yield/",
+          "publishedOn": "2026-07-21T13:03:14.000Z",
+          "wordCount": 8102,
+          "title": "Is Business Central Enough for Food Manufacturing? Recipes, Batch, Catch Weight & Yield",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/End-to-End-Implementation-Roadmap-for-Microsoft-Dynamics-365-FO-8-625x352.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=151222",
           "author": "Insight Works",
@@ -40270,26 +40335,6 @@
           "wordCount": 7315,
           "title": "AI-Powered Automation: Microsoft Dynamics 365 Copilot Revolutionizes Business Processes",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=108669",
-          "author": "Insight Works",
-          "description": "Streamlining Picks in Business Central: Enhance warehouse efficiency and accuracy with Warehouse Insight, transforming inventory management.\nThe post Streamlining Picks in Business Central with Warehouse Insight appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
-          "link": "https://erpsoftwareblog.com/2024/07/streamlining-picks-in-business-central-with-warehouse-insight/",
-          "publishedOn": "2024-07-22T10:32:42.000Z",
-          "wordCount": 4067,
-          "title": "Streamlining Picks in Business Central with Warehouse Insight",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Warehouse-Insight-250-3.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=108693",
-          "author": "MetaOption LLC",
-          "description": "In the fast-paced world of logistics and supply chain management, efficiency is the name of the game. The ability to pack and ship products swiftly and accurately can make or […]\nThe post Boost your Operations with Effortless Packing and Shipping: MetaShip appeared first on ERP Software Blog.\nEmpowering Professional Services with Microsoft Dynamics 365 Business Central\nHow much time does a Business Central implementation take?\nUnlocking Order Fulfillment Excellence: Managing Backorders in Business Central",
-          "link": "https://erpsoftwareblog.com/2024/07/boost-your-operations-with-effortless-packing-and-shipping/",
-          "publishedOn": "2024-07-21T18:48:28.000Z",
-          "wordCount": 4184,
-          "title": "Boost your Operations with Effortless Packing and Shipping: MetaShip",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-4-8.jpg"
         }
       ]
     },
@@ -83005,16 +83050,6 @@
           "wordCount": 3961,
           "title": "Use of Methods in D365FO Electronic Reporting Explained. Table vs Table Records & Class vs Object.",
           "imageUrl": "https://fernitudela.dev/wp-content/uploads/2024/09/featured-image.png?w=1200"
-        },
-        {
-          "id": "http://fernitudela.dev/?p=1586",
-          "author": "Fernando Tudela Desantes",
-          "description": "In a previous post, I explained how I did to migrate all the existing ERs of a project to Dataverse. But what about the new ER reports or versions created after that? After months of not knowing what the new development/deployment cycle will look like due to the deprecation of RCS and the move to Dataverse, we finally have an answer! There is a new functionality to streamline the process of uploading to the Dataverse repository your Electronic Reporting objects right after you have developed and tested them in your development environment! That way you will be able to easily distribute them to all the different environments and also keep all your reports in one place, making easier to avoid ending up having divergent versions of the same report. \n\nThis functionality is included into the Upload into repository (that it normally worked so-so), but that now is a live safer/changer for all the ER developers that want to do the things correctly and use a Repository. … More Upload your Electronic Reporting objects to Dataverse solution automatically – How the new ALM in ER will look like.",
-          "link": "https://fernitudela.dev/2024/07/22/upload-your-electronic-reporting-objects-to-dataverse-solution-automatically-how-the-new-alm-in-er-will-look-like/",
-          "publishedOn": "2024-07-22T10:08:11.000Z",
-          "wordCount": 3979,
-          "title": "Upload your Electronic Reporting objects to Dataverse solution automatically – How the new ALM in ER will look like.",
-          "imageUrl": "https://fernitudela.dev/wp-content/uploads/2024/07/featured-image-1.png?w=1200"
         }
       ]
     },
@@ -87560,6 +87595,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/blog-feed/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=3132",
+          "author": "Arvind Bharti",
+          "description": "Overview In Part 1, we understood why Quality Management is essential for every manufacturing organization and how Microsoft Dynamics 365 Finance & Operations helps automate the quality inspection process. Before the system can automatically create a Quality Order, we must first configure the master data that drives the entire Quality Management framework. Think of these […]",
+          "link": "https://exploredynamics365.home.blog/2026/07/20/configuring-the-pre-requisite-master-data-for-quality-management-in-microsoft-dynamics-365-finance-operations-part-2/",
+          "publishedOn": "2026-07-20T08:03:03.000Z",
+          "wordCount": 4340,
+          "title": "Configuring the Pre-requisite Master Data for Quality Management in D365 F&SCM – Part 2",
+          "imageUrl": "https://i0.wp.com/exploredynamics365.home.blog/wp-content/uploads/2026/07/colorful-modern-designer-linkedin-banner-presentation-3.jpg?fit=1200%2C675&ssl=1"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=3121",
           "author": "Arvind Bharti",
