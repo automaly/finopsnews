@@ -85042,6 +85042,16 @@
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
         {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=202817",
+          "author": "Mike Morton",
+          "description": "AI agents are only as capable as the tools, skills, and information they can reach. In sales, the intelligence that drives great decisions—buying signals, conversation insights, market and account context—often lives outside the customer relationships management (CRM). Getting it into the flow of work has traditionally meant costly integrations or data-duplication projects only the largest companies could sustain.\nThe post Extending agentic Microsoft Dynamics 365 Sales with MCP appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/07/21/extending-agentic-microsoft-dynamics-365-sales-with-mcp/",
+          "publishedOn": "2026-07-21T16:00:00.000Z",
+          "wordCount": 6562,
+          "title": "Extending agentic Microsoft Dynamics 365 Sales with MCP",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/07/CLO20_ConferenceRoom_003-scaled.jpg"
+        },
+        {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=202767",
           "author": "Mike Morton",
           "description": "Customers expect a single, continuous relationship with your brand. One where every interaction feels informed and connected.\nThe post Customer insights, reimagined: The intelligence layer powering agentic customer experience appeared first on Microsoft Dynamics 365 Blog.",
@@ -87390,16 +87400,6 @@
           "wordCount": 3578,
           "title": "Introducing Traceability add-in for Dynamics 365 Supply Chain Management",
           "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/05/image.png"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/07/22/5-steps-for-becoming-ai-ready-in-field-service/",
-          "author": "Safiyyah O’Quinn",
-          "description": "The era of AI came upon us quickly, and many business leaders are scrambling to determine AI strategies that provide the best way forward for their employees and customers alike. The 2024 Microsoft Work Trend Index shows that 79% of leaders agree that their company needs to adopt AI to stay competitive; however, 60% of leaders worry that their organization lacks a plan and a vision for implementing AI.\nThe post 5 steps for becoming AI-ready in field service appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/07/22/5-steps-for-becoming-ai-ready-in-field-service/",
-          "publishedOn": "2024-07-22T15:00:00.000Z",
-          "wordCount": 3736,
-          "title": "5 steps for becoming AI-ready in field service",
-          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/07/D365_355244_Blog_240716_1200.png"
         }
       ]
     },
