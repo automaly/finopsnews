@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-07-24T01:54:40.300Z</updated>
+    <updated>2026-07-25T01:53:33.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Performance Timer: Complete Guide for Troubleshooting Slow Performance - D365 F&O]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2026/07/performance-timer-in-d365-f.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2026/07/performance-timer-in-d365-f.html"/>
+        <updated>2026-07-24T10:02:48.502Z</updated>
+        <summary type="html"><![CDATA[The Microsoft article gives only a high-level overview. Below is a more practical explanation that you can use for learning, troubleshooting, or knowledge-sharing sessions in D365 Finance & Operations.
+Reference: Microsoft Learn - Performance Timer Performance timer - Finance & Operations | Dynamics 365 | Microsoft Learn
+
+What is Performance Timer in D365 FO?
+Performance Timer is a built-in diagnostic tool used to identify whether a performance issue is occurring on:
+
+Client side (browser rendering)
+Server side (X++ execution)
+Database side (SQL queries)
+Network communication
+
+It helps developers and consultants quickly understand where time is being spent when opening forms, posting journals, running reports, or executing customizations
+
+
+How to Open Performance Timer
+Add the following pa…]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Resource Planning: A Competitive Advantage for Professional Services Firms Using Microsoft Dynamics 365 Business Central]]></title>
         <id>https://erpsoftwareblog.com/?p=151665</id>
@@ -49,6 +74,17 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>Dax software solutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics 365: An agent-ready business applications platform]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=202870</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/07/23/microsoft-dynamics-365-an-agent-ready-business-applications-platform/"/>
+        <updated>2026-07-23T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Instead of integrating AI around enterprise resource planning (ERP), organizations can bring agents into the flow of work, where business decisions and transactions already happen.
+The post Microsoft Dynamics 365: An agent-ready business applications platform appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Cecilia Flombaum</name>
         </author>
     </entry>
     <entry>
@@ -114541,27 +114577,6 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Analysis Engine Now Generally Available!]]></title>
-        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/new-analysis-engine-now-generally-available/</id>
-        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/new-analysis-engine-now-generally-available/"/>
-        <updated>2024-07-25T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re thrilled to announce that the New Analysis Engine is now generally available (GA)! If you are facing performance issues in loading or editing a canvas app, consider enabling the New Analysis Engine setting.
-The post New Analysis Engine Now Generally Available!  appeared first on Microsoft Power Platform Blog.]]></summary>
-        <author>
-            <name>Mansi Malik and McCall Saltzman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Pages: Set up OKTA as an identity provider]]></title>
-        <id>https://365community.online/power-pages-set-up-okta-as-an-identity-provider</id>
-        <link href="https://365community.online/power-pages-set-up-okta-as-an-identity-provider"/>
-        <updated>2024-07-25T12:27:41.000Z</updated>
-        <summary type="html"><![CDATA[If you have configured a Power Pages website, chances are that you will require external users to sign in to be able to access certain information. Things like their own […]]]></summary>
-        <author>
-            <name>Nick Doelman</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Elevating Business Central: Seamless Integration of Code 39 Barcodes]]></title>
         <id>https://erpsoftwareblog.com/?p=108748</id>
         <link href="https://erpsoftwareblog.com/2024/07/elevating-business-central-seamless-integration-of-code-39-barcodes/"/>
@@ -114573,56 +114588,6 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>Insight Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Use the New Desktop Flow Running Timeout Property]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-the-new-desktop-flow-running-timeout-property</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-the-new-desktop-flow-running-timeout-property"/>
-        <updated>2024-07-25T10:00:41.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master prompt engineer with Microsoft Designer]]></title>
-        <id>https://365community.online/master-prompt-engineer-with-microsoft-designer</id>
-        <link href="https://365community.online/master-prompt-engineer-with-microsoft-designer"/>
-        <updated>2024-07-25T07:30:14.000Z</updated>
-        <summary type="html"><![CDATA[Prompt engineering is one of the must-have skills at this point, but let's start from scratch: what TF is prompt engineering? That is more or less the idea, however, it's […]]]></summary>
-        <author>
-            <name>Ana Inés Urrutia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Explore and test Dataverse in the Web API playground (preview)?]]></title>
-        <id>https://365community.online/how-to-explore-and-test-dataverse-in-the-web-api-playground-preview</id>
-        <link href="https://365community.online/how-to-explore-and-test-dataverse-in-the-web-api-playground-preview"/>
-        <updated>2024-07-25T05:39:43.000Z</updated>
-        <summary type="html"><![CDATA[The API Playground is a pre-authenticated software testing environment designed to enable creators to interact swiftly and efficiently with the Microsoft Dataverse Web API. This web application facilitates developers in […]]]></summary>
-        <author>
-            <name>Arun Potti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extracting Subfolder Details from Parent Directory using logic apps]]></title>
-        <id>https://365community.online/extracting-subfolder-details-from-parent-directory-using-logic-apps</id>
-        <link href="https://365community.online/extracting-subfolder-details-from-parent-directory-using-logic-apps"/>
-        <updated>2024-07-24T19:46:58.000Z</updated>
-        <summary type="html"><![CDATA[I was working on a SharePoint integration that involved multiple subfolders within a parent folder. Files could be dropped into any of these subfolders, and the trigger needed to detect […]]]></summary>
-        <author>
-            <name>Anitha Santosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extracting Subfolder Details from Parent Directory using logic apps]]></title>
-        <id>http://anithasantosh.wordpress.com/?p=3493</id>
-        <link href="https://anithasantosh.wordpress.com/2024/07/24/extracting-subfolder-details-from-parent-directory-using-logic-apps/"/>
-        <updated>2024-07-24T19:46:58.000Z</updated>
-        <summary type="html"><![CDATA[I was working on a SharePoint integration that involved multiple subfolders within a parent folder. Files could be dropped into any of these subfolders, and the trigger needed to detect the folder name to create a corresponding document in D365FO. … Continue reading →]]></summary>
-        <author>
-            <name>AnithaEswaran</name>
         </author>
     </entry>
     <entry>
@@ -114654,16 +114619,6 @@ Should You Attend AXUG or D365UG for Summit Phoenix?]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Power Pages Table Permissions: Configure permissions to see records from child Accounts]]></title>
-        <id>https://365community.online/power-pages-table-permissions-configure-permissions-to-see-records-from-child-accounts</id>
-        <link href="https://365community.online/power-pages-table-permissions-configure-permissions-to-see-records-from-child-accounts"/>
-        <updated>2024-07-24T17:25:37.000Z</updated>
-        <summary type="html"><![CDATA[Table permissions is a feature that allows you to control who can view, edit, or delete Dataverse records from a Power Pages site.  Power Pages allows to easily configure table […]]]></summary>
-        <author>
-            <name>michelcarlo</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Create Custom Business Central Inventory Reports]]></title>
         <id>https://erpsoftwareblog.com/?p=108624</id>
         <link href="https://erpsoftwareblog.com/2024/07/how-to-create-custom-business-central-inventory-reports/"/>
@@ -114675,16 +114630,6 @@ What is a Microsoft Cloud Services Provider and their Benefits?
 Upgrade your Business from QuickBooks to Dynamics 365 Business Central]]></summary>
         <author>
             <name>Cosmos Data Technologies</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Use New Excel Actions in Power Automate for Desktop]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-new-excel-actions-in-power-automate-for-desktop</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-new-excel-actions-in-power-automate-for-desktop"/>
-        <updated>2024-07-24T14:00:10.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
         </author>
     </entry>
     <entry>

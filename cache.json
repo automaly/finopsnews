@@ -514,6 +514,16 @@
       "siteUrl": "https://d365fotechexpert.blogspot.com/",
       "articles": [
         {
+          "id": "https://d365fotechexpert.blogspot.com/2026/07/performance-timer-in-d365-f.html",
+          "author": null,
+          "description": "The Microsoft article gives only a high-level overview. Below is a more practical explanation that you can use for learning, troubleshooting, or knowledge-sharing sessions in D365 Finance & Operations.\nReference: Microsoft Learn - Performance Timer Performance timer - Finance & Operations | Dynamics 365 | Microsoft Learn\n\nWhat is Performance Timer in D365 FO?\nPerformance Timer is a built-in diagnostic tool used to identify whether a performance issue is occurring on:\n\nClient side (browser rendering)\nServer side (X++ execution)\nDatabase side (SQL queries)\nNetwork communication\n\nIt helps developers and consultants quickly understand where time is being spent when opening forms, posting journals, running reports, or executing customizations\n\n\nHow to Open Performance Timer\nAdd the following pa…",
+          "link": "https://d365fotechexpert.blogspot.com/2026/07/performance-timer-in-d365-f.html",
+          "publishedOn": "2026-07-24T10:02:48.502Z",
+          "wordCount": 5693,
+          "title": "Performance Timer: Complete Guide for Troubleshooting Slow Performance - D365 F&O",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgnFB6mYKWyrP3gGf2egdAIaSEwqmPOn4OFwXZliWSu7KHFVWQmKHrviDE1_scf9ZFwmKuOIR0TH5ZBLfNf1gIyoMp_Qxo5DKEcQB62CdmLCNJ4xtsMjelggL5j0bjuqnVcSxvOVRSNwMHL4bQVKTfndjKmr9tALPjbeTkosLwS8uO28SlQQtLwwFAosGU=w1200-h630-p-k-no-nu"
+        },
+        {
           "id": "https://d365fotechexpert.blogspot.com/2026/07/understanding-direct-sql-query.html",
           "author": null,
           "description": "Introduction\n\nX++ is very powerful and has SQL like statements that can be used to interact with data.\n\nSelect data: Select the data to view or modify.\n\nselect statement – Fetch records.\n\nInsert data: Add one or more new records to a table.\n\ninsert and doInsert methods – Insert one record at a time.\n\ninsert_recordset, RecordInsertList.insertDatabase, and RecordSortedList.insertDatabase methods – Insert multiple records at the same time.\n\nUpdate data: Modify the data in existing table records.\n\nupdate and doUpdate methods – Update one record at a time.\n\nupdate_recordset statement – Update multiple records at the same time.\n1)\n\n\n\nclass RunDirectSqlSelect\n{\n    public static void main(Args _args)\n    {\n        UserConnection                  connection = new UserConnection();\n        Statemen…",
@@ -82389,76 +82399,6 @@
           "wordCount": 3272,
           "title": "New Functionality In Microsoft Power Automate 2024 Wave 1: Scale Faster with Power Automate Process Mining Thin Client App",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/power-pages-set-up-okta-as-an-identity-provider",
-          "author": "Nick Doelman",
-          "description": "If you have configured a Power Pages website, chances are that you will require external users to sign in to be able to access certain information. Things like their own […]",
-          "link": "https://365community.online/power-pages-set-up-okta-as-an-identity-provider",
-          "publishedOn": "2024-07-25T12:27:41.000Z",
-          "wordCount": 3205,
-          "title": "Power Pages: Set up OKTA as an identity provider",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Power-Pages-Set-up-OKTA-as-an-identity-provider.png?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-the-new-desktop-flow-running-timeout-property",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-the-new-desktop-flow-running-timeout-property",
-          "publishedOn": "2024-07-25T10:00:41.000Z",
-          "wordCount": 3265,
-          "title": "New Functionality In Microsoft Power Automate 2024 Wave 1: Use the New Desktop Flow Running Timeout Property",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/master-prompt-engineer-with-microsoft-designer",
-          "author": "Ana Inés Urrutia",
-          "description": "Prompt engineering is one of the must-have skills at this point, but let's start from scratch: what TF is prompt engineering? That is more or less the idea, however, it's […]",
-          "link": "https://365community.online/master-prompt-engineer-with-microsoft-designer",
-          "publishedOn": "2024-07-25T07:30:14.000Z",
-          "wordCount": 3180,
-          "title": "Master prompt engineer with Microsoft Designer",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Master-prompt-engineer-with-Microsoft-Designer.png?fit=1000%2C563&ssl=1"
-        },
-        {
-          "id": "https://365community.online/how-to-explore-and-test-dataverse-in-the-web-api-playground-preview",
-          "author": "Arun Potti",
-          "description": "The API Playground is a pre-authenticated software testing environment designed to enable creators to interact swiftly and efficiently with the Microsoft Dataverse Web API. This web application facilitates developers in […]",
-          "link": "https://365community.online/how-to-explore-and-test-dataverse-in-the-web-api-playground-preview",
-          "publishedOn": "2024-07-25T05:39:43.000Z",
-          "wordCount": 3225,
-          "title": "How to Explore and test Dataverse in the Web API playground (preview)?",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/dataverse_1600x1600.png?fit=680%2C680&ssl=1"
-        },
-        {
-          "id": "https://365community.online/extracting-subfolder-details-from-parent-directory-using-logic-apps",
-          "author": "Anitha Santosh",
-          "description": "I was working on a SharePoint integration that involved multiple subfolders within a parent folder. Files could be dropped into any of these subfolders, and the trigger needed to detect […]",
-          "link": "https://365community.online/extracting-subfolder-details-from-parent-directory-using-logic-apps",
-          "publishedOn": "2024-07-24T19:46:58.000Z",
-          "wordCount": 3216,
-          "title": "Extracting Subfolder Details from Parent Directory using logic apps",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Extracting-Subfolder-Details-from-Parent-Directory-using-logic-apps.png?fit=926%2C443&ssl=1"
-        },
-        {
-          "id": "https://365community.online/power-pages-table-permissions-configure-permissions-to-see-records-from-child-accounts",
-          "author": "michelcarlo",
-          "description": "Table permissions is a feature that allows you to control who can view, edit, or delete Dataverse records from a Power Pages site.  Power Pages allows to easily configure table […]",
-          "link": "https://365community.online/power-pages-table-permissions-configure-permissions-to-see-records-from-child-accounts",
-          "publishedOn": "2024-07-24T17:25:37.000Z",
-          "wordCount": 3365,
-          "title": "Power Pages Table Permissions: Configure permissions to see records from child Accounts",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/tablepermissions.png?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-new-excel-actions-in-power-automate-for-desktop",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-use-new-excel-actions-in-power-automate-for-desktop",
-          "publishedOn": "2024-07-24T14:00:10.000Z",
-          "wordCount": 3271,
-          "title": "New Functionality In Microsoft Power Automate 2024 Wave 1: Use New Excel Actions in Power Automate for Desktop",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
         }
       ]
     },
@@ -84050,16 +83990,6 @@
           "wordCount": 3147,
           "title": "Logic apps Standard – Parameterization",
           "imageUrl": "https://anithasantosh.wordpress.com/wp-content/uploads/2024/07/image-15.png"
-        },
-        {
-          "id": "http://anithasantosh.wordpress.com/?p=3493",
-          "author": "AnithaEswaran",
-          "description": "I was working on a SharePoint integration that involved multiple subfolders within a parent folder. Files could be dropped into any of these subfolders, and the trigger needed to detect the folder name to create a corresponding document in D365FO. … Continue reading →",
-          "link": "https://anithasantosh.wordpress.com/2024/07/24/extracting-subfolder-details-from-parent-directory-using-logic-apps/",
-          "publishedOn": "2024-07-24T19:46:58.000Z",
-          "wordCount": 3204,
-          "title": "Extracting Subfolder Details from Parent Directory using logic apps",
-          "imageUrl": "https://anithasantosh.wordpress.com/wp-content/uploads/2024/07/image-10.png"
         }
       ]
     },
@@ -85086,6 +85016,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=202870",
+          "author": "Cecilia Flombaum",
+          "description": "Instead of integrating AI around enterprise resource planning (ERP), organizations can bring agents into the flow of work, where business decisions and transactions already happen.\nThe post Microsoft Dynamics 365: An agent-ready business applications platform appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/07/23/microsoft-dynamics-365-an-agent-ready-business-applications-platform/",
+          "publishedOn": "2026-07-23T16:00:00.000Z",
+          "wordCount": 6803,
+          "title": "Microsoft Dynamics 365: An agent-ready business applications platform",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/07/ai-powered-business-insights-analytics-dashboard-enterprise-teams-1024x576.png"
+        },
         {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=202817",
           "author": "Mike Morton",
@@ -91327,16 +91267,6 @@
           "wordCount": 2906,
           "title": "Use Copilot to filter to quickly filter, sort, and search canvas app galleries with SharePoint lists",
           "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/07/Copilot-adorner.webp"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/new-analysis-engine-now-generally-available/",
-          "author": "Mansi Malik and McCall Saltzman",
-          "description": "We’re thrilled to announce that the New Analysis Engine is now generally available (GA)! If you are facing performance issues in loading or editing a canvas app, consider enabling the New Analysis Engine setting.\nThe post New Analysis Engine Now Generally Available!  appeared first on Microsoft Power Platform Blog.",
-          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/new-analysis-engine-now-generally-available/",
-          "publishedOn": "2024-07-25T13:00:00.000Z",
-          "wordCount": 2966,
-          "title": "New Analysis Engine Now Generally Available!",
-          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/07/comparison-speed-1.gif"
         }
       ]
     },
