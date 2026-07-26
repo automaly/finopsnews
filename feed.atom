@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-07-25T01:53:33.388Z</updated>
+    <updated>2026-07-26T01:58:05.954Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
@@ -29,6 +29,36 @@ How to Open Performance Timer
 Add the following pa…]]></summary>
         <author>
             <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP Snippets: Data Types]]></title>
+        <id>https://365community.online/php-snippets-data-types</id>
+        <link href="https://365community.online/php-snippets-data-types"/>
+        <updated>2026-07-24T10:00:49.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the series where I will be covering the basics of developing in PHP. PHP supports a number of data types which are used to store different kinds of values; understanding data types is important as…]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Most Business Central AI Projects Will Fail]]></title>
+        <id>https://365community.online/why-most-business-central-ai-projects-will-fail</id>
+        <link href="https://365community.online/why-most-business-central-ai-projects-will-fail"/>
+        <updated>2026-07-24T05:40:01.000Z</updated>
+        <summary type="html"><![CDATA[Artificial Intelligence is everywhere. Every week there are new language models, Copilot announcements, AI agents, and demonstrations showing how quickly the technology is evolving. Within the Business Central community, we’re seeing AI used for documentation, AL code generation, support assistants,…]]></summary>
+        <author>
+            <name>Amol Salvi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Business Central 2026 Improves Item Variant Management with Pictures and Attributes.]]></title>
+        <id>https://365community.online/how-business-central-2026-improves-item-variant-management-with-pictures-and-attributes</id>
+        <link href="https://365community.online/how-business-central-2026-improves-item-variant-management-with-pictures-and-attributes"/>
+        <updated>2026-07-24T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi All,Business Central 2026 introduces variant pictures and variant-specific attributes, helping users identify products faster and maintain more accurate product information. Introduction Many organizations sell products that differ only by characteristics such as color, size, material, packaging, or style. While…]]></summary>
+        <author>
+            <name>Saurav Dhyani</name>
         </author>
     </entry>
     <entry>
@@ -59,6 +89,16 @@ Automated Vendor Validation: Secure and Simplify AP Compliance
 $950/year Early Access to Mekorma Payment Hub for BC Ends in April 2025]]></summary>
         <author>
             <name>Jennifer Muniz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Becoming a Microsoft Most Valuable Professional (MVP)]]></title>
+        <id>https://365community.online/becoming-a-microsoft-most-valuable-professional-mvp</id>
+        <link href="https://365community.online/becoming-a-microsoft-most-valuable-professional-mvp"/>
+        <updated>2026-07-23T17:23:16.000Z</updated>
+        <summary type="html"><![CDATA[This week’s post is a little different from my usual content. I promise the next ones will get back to being technical. Prefer to watch instead of read? Here is the full video: A question I get asked a lot…]]></summary>
+        <author>
+            <name>Nick Doelman</name>
         </author>
     </entry>
     <entry>
@@ -130,6 +170,16 @@ Heads Up: Successful Forecasting and Demand Planning with AGR
 WebSan Solutions Inc. Invites You to Our Third Annual Interactive Virtual Half-Day Conference: Dynamics Virtual Launchpad!]]></summary>
         <author>
             <name>Bluefort</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overview of the Clever Warehousing Apps: Series Index]]></title>
+        <id>https://365community.online/overview-of-the-clever-warehousing-apps-series-index</id>
+        <link href="https://365community.online/overview-of-the-clever-warehousing-apps-series-index"/>
+        <updated>2026-07-23T10:00:08.000Z</updated>
+        <summary type="html"><![CDATA[This article is part of the series, where I am taking an initial look at the extensions created by Clever Dynamics for Microsoft Dynamics 365 Business Central. Microsoft Dynamics 365 Business Central provides solid foundations for inventory and warehouse management,…]]></summary>
+        <author>
+            <name>Ian Grieve</name>
         </author>
     </entry>
     <entry>
@@ -328,6 +378,16 @@ With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summar
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Excel Snippets: CONCAT Function]]></title>
+        <id>https://365community.online/excel-snippets-concat-function</id>
+        <link href="https://365community.online/excel-snippets-concat-function"/>
+        <updated>2026-07-22T10:00:24.000Z</updated>
+        <summary type="html"><![CDATA[I might not post many Excel snippets, but I’m collecting them into a small series to make them easy to find. CONCAT is the modern replacement for the CONCATENATE function, which has been deprecated. CONCAT works in the same way…]]></summary>
+        <author>
+            <name>Ian Grieve</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How AI Helps Wholesale Businesses Predict Demand More Accurately]]></title>
         <id>https://erpsoftwareblog.com/?p=151521</id>
         <link href="https://erpsoftwareblog.com/2026/07/how-ai-helps-wholesale-businesses-predict-demand-more-accurately/"/>
@@ -507,6 +567,16 @@ When Business Central Customization Makes Sense
         <summary type="html"><![CDATA[[ad_1] Welcome to another episode of Knowledge Nuggets with Mirko Peters. In this episode, we’re exploring Microsoft Graph Connectors, now increasingly referred to as Microsoft Copilot Connectors. While Microsoft 365 Copilot can search emails, Teams chats, SharePoint, and OneDrive out of the box, most organizations store critical business information in systems like Salesforce, ServiceNow, Jira, […]]]></summary>
         <author>
             <name>Mirko Peters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ClassicPress Plugin Development: Add a Checkbox to an Options Page]]></title>
+        <id>https://365community.online/classicpress-plugin-development-add-a-checkbox-to-an-options-page</id>
+        <link href="https://365community.online/classicpress-plugin-development-add-a-checkbox-to-an-options-page"/>
+        <updated>2026-07-21T10:00:20.000Z</updated>
+        <summary type="html"><![CDATA[This post is part of the series in which I am going to look at both best practice for developing plugins and how I approach some requirements as well as some of the functions I commonly use. Text fields and…]]></summary>
+        <author>
+            <name>Ian Grieve</name>
         </author>
     </entry>
     <entry>
@@ -114426,56 +114496,6 @@ Warehouse Insight Now Available for Dynamics 365 Business Central]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fear Not: SC 100 Exam Data Protection Tactics – YouTube]]></title>
-        <id>https://365community.online/fear-not-sc-100-exam-data-protection-tactics-youtube</id>
-        <link href="https://365community.online/fear-not-sc-100-exam-data-protection-tactics-youtube"/>
-        <updated>2024-07-26T11:30:11.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to protect your SC 100 exam data with M365 Security tactics. Evaluate your security posture with these essential tips. Episode Breakdown: 00:00 – Episode Intro 00:48 – Episode […]]]></summary>
-        <author>
-            <name>shabaz darr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Use Reminders to Stop Losing Leads in Dynamics]]></title>
-        <id>https://365community.online/how-to-use-reminders-to-stop-losing-leads-in-dynamics</id>
-        <link href="https://365community.online/how-to-use-reminders-to-stop-losing-leads-in-dynamics"/>
-        <updated>2024-07-26T11:05:54.000Z</updated>
-        <summary type="html"><![CDATA[There are many ways to keep on top of leads in Dynamics. Your choice of technique will depend on a few things Your team size – do you need a […]]]></summary>
-        <author>
-            <name>Pete Murray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unboxing my FTRSA Swag box – YouTube]]></title>
-        <id>https://365community.online/unboxing-my-ftrsa-swag-box-youtube</id>
-        <link href="https://365community.online/unboxing-my-ftrsa-swag-box-youtube"/>
-        <updated>2024-07-26T10:31:11.000Z</updated>
-        <summary type="html"><![CDATA[In this video I unbox the Fasttrack Recognised Solution Architect award box. I show people what other FTRSA’s get in the award box, sent by the wonderful people at Microsoft. […]]]></summary>
-        <author>
-            <name>Matt Collins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Manage Subscription Billing and Revenue and Expense Recognition]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-manage-subscription-billing-and-revenue-and-expense-recognition</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-manage-subscription-billing-and-revenue-and-expense-recognition"/>
-        <updated>2024-07-26T10:00:09.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhanced ‘Selected Row’ Trigger Now Available in Power Automate]]></title>
-        <id>https://365community.online/enhanced-selected-row-trigger-now-available-in-power-automate</id>
-        <link href="https://365community.online/enhanced-selected-row-trigger-now-available-in-power-automate"/>
-        <updated>2024-07-26T09:44:05.000Z</updated>
-        <summary type="html"><![CDATA[We’re excited to witness the return of an enhanced ‘When a record is selected’ trigger in Power Automate, that was previously deprecated. The community has eagerly awaited its comeback ever […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Role of Dynamics 365 Business Central in Enhancing Customer Relationship Management]]></title>
         <id>https://erpsoftwareblog.com/?p=108840</id>
         <link href="https://erpsoftwareblog.com/2024/07/role-of-dynamics-365-business-central-in-enhancing-crm/"/>
@@ -114487,36 +114507,6 @@ Strengthen Your Technology by Integrating ERP With CRM
 How can Microsoft Dynamics track more Financial Data in the Cloud in 2018?]]></summary>
         <author>
             <name>Dynamics Square USA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[API playground feature not available in Dataverse Accelerator App?]]></title>
-        <id>https://365community.online/api-playground-feature-not-available-in-dataverse-accelerator-app</id>
-        <link href="https://365community.online/api-playground-feature-not-available-in-dataverse-accelerator-app"/>
-        <updated>2024-07-26T07:00:33.000Z</updated>
-        <summary type="html"><![CDATA[In my last article, I had discussed about API Playground feature in Dataverse Accelerator App, and I have another environment, where I cannot see this feature. Followed the below steps […]]]></summary>
-        <author>
-            <name>Arun Potti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero to Hero: Torne-se um Citizen Developer – Aula 14 – YouTube]]></title>
-        <id>https://365community.online/zero-to-hero-torne-se-um-citizen-developer-aula-14-youtube-3</id>
-        <link href="https://365community.online/zero-to-hero-torne-se-um-citizen-developer-aula-14-youtube-3"/>
-        <updated>2024-07-25T20:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Zero to Hero: Torne-se um Citizen Developer – Aula 14 source]]></summary>
-        <author>
-            <name>Victor Dantas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero to Hero: Torne-se um Citizen Developer – Aula 14 – YouTube]]></title>
-        <id>https://365community.online/zero-to-hero-torne-se-um-citizen-developer-aula-14-youtube-2</id>
-        <link href="https://365community.online/zero-to-hero-torne-se-um-citizen-developer-aula-14-youtube-2"/>
-        <updated>2024-07-25T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Zero to Hero: Torne-se um Citizen Developer – Aula 14 source]]></summary>
-        <author>
-            <name>Victor Dantas</name>
         </author>
     </entry>
     <entry>
@@ -114534,26 +114524,6 @@ Microsoft Dynamics ERP for Distribution/Manufacturing Industry]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Logic apps Standard – Parameterization]]></title>
-        <id>https://365community.online/logic-apps-standard-parameterization</id>
-        <link href="https://365community.online/logic-apps-standard-parameterization"/>
-        <updated>2024-07-25T17:11:17.000Z</updated>
-        <summary type="html"><![CDATA[In Logic Apps Standard, parameters play a crucial role in creating dynamic, flexible, and reusable workflows. Parameters enable the reuse of workflows by allowing you to define values that can […]]]></summary>
-        <author>
-            <name>Anitha Santosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logic apps Standard – Parameterization]]></title>
-        <id>http://anithasantosh.wordpress.com/?p=3519</id>
-        <link href="https://anithasantosh.wordpress.com/2024/07/25/logic-apps-standard-parameterization/"/>
-        <updated>2024-07-25T17:11:17.000Z</updated>
-        <summary type="html"><![CDATA[In Logic Apps Standard, parameters play a crucial role in creating dynamic, flexible, and reusable workflows. Parameters enable the reuse of workflows by allowing you to define values that can be changed without modifying the workflow’s structure. By centralizing common … Continue reading →]]></summary>
-        <author>
-            <name>AnithaEswaran</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Master Planning in Dynamics 365 Finance & Operations]]></title>
         <id>https://www.encorebusiness.com/?p=50813</id>
         <link href="https://www.encorebusiness.com/blog/master-planning-in-dynamics-365-finance-and-operations/"/>
@@ -114564,16 +114534,6 @@ Read Next: 18 Warning Signs Your Business Need the Cloud
 This post first appeared first on Encore Business Solutions.]]></summary>
         <author>
             <name>Kailey Acuña</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 1: Scale Faster with Power Automate Process Mining Thin Client App]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-scale-faster-with-power-automate-process-mining-thin-client-app</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-scale-faster-with-power-automate-process-mining-thin-client-app"/>
-        <updated>2024-07-25T14:00:41.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
         </author>
     </entry>
     <entry>

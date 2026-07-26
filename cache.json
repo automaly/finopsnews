@@ -41726,6 +41726,66 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/php-snippets-data-types",
+          "author": "Ian Grieve",
+          "description": "This post is part of the series where I will be covering the basics of developing in PHP. PHP supports a number of data types which are used to store different kinds of values; understanding data types is important as…",
+          "link": "https://365community.online/php-snippets-data-types",
+          "publishedOn": "2026-07-24T10:00:49.000Z",
+          "wordCount": 1591,
+          "title": "PHP Snippets: Data Types",
+          "imageUrl": "https://www.azurecurve.co.uk/wp-content/uploads/2021/06/azurecurve_logo_ramblings_ogt.png"
+        },
+        {
+          "id": "https://365community.online/why-most-business-central-ai-projects-will-fail",
+          "author": "Amol Salvi",
+          "description": "Artificial Intelligence is everywhere. Every week there are new language models, Copilot announcements, AI agents, and demonstrations showing how quickly the technology is evolving. Within the Business Central community, we’re seeing AI used for documentation, AL code generation, support assistants,…",
+          "link": "https://365community.online/why-most-business-central-ai-projects-will-fail",
+          "publishedOn": "2026-07-24T05:40:01.000Z",
+          "wordCount": 4171,
+          "title": "Why Most Business Central AI Projects Will Fail",
+          "imageUrl": "https://bcaihub.com/wp-content/uploads/2026/07/image-4.png"
+        },
+        {
+          "id": "https://365community.online/how-business-central-2026-improves-item-variant-management-with-pictures-and-attributes",
+          "author": "Saurav Dhyani",
+          "description": "Hi All,Business Central 2026 introduces variant pictures and variant-specific attributes, helping users identify products faster and maintain more accurate product information. Introduction Many organizations sell products that differ only by characteristics such as color, size, material, packaging, or style. While…",
+          "link": "https://365community.online/how-business-central-2026-improves-item-variant-management-with-pictures-and-attributes",
+          "publishedOn": "2026-07-24T05:30:00.000Z",
+          "wordCount": 6741,
+          "title": "How Business Central 2026 Improves Item Variant Management with Pictures and Attributes.",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaLoVCieIHyQOhZIQCxemfFsANvqPfbTD8J1ccfZE9yC8IAzl8cibglljvgZjwnM-O85lfUM_cEGAonTRc3jt0Uyi1lXLX5fbfbEw7kPbONBn9MrHcwPcN_2gJaf-O7XjHROYD6NGBx0Rh3YoRquLrWXlhkDV8tp5YSoeRwKQdSWjmRpacED8Dn0jXXGo/w1200-h630-p-k-no-nu/ChatGPT%20Image%20Jun%201,%202026,%2012_51_15%20AM.png"
+        },
+        {
+          "id": "https://365community.online/becoming-a-microsoft-most-valuable-professional-mvp",
+          "author": "Nick Doelman",
+          "description": "This week’s post is a little different from my usual content. I promise the next ones will get back to being technical. Prefer to watch instead of read? Here is the full video: A question I get asked a lot…",
+          "link": "https://365community.online/becoming-a-microsoft-most-valuable-professional-mvp",
+          "publishedOn": "2026-07-23T17:23:16.000Z",
+          "wordCount": 7278,
+          "title": "Becoming a Microsoft Most Valuable Professional (MVP)",
+          "imageUrl": "https://readyxrm.blog/wp-content/uploads/2026/07/00-featured-mvp-title.jpg"
+        },
+        {
+          "id": "https://365community.online/overview-of-the-clever-warehousing-apps-series-index",
+          "author": "Ian Grieve",
+          "description": "This article is part of the series, where I am taking an initial look at the extensions created by Clever Dynamics for Microsoft Dynamics 365 Business Central. Microsoft Dynamics 365 Business Central provides solid foundations for inventory and warehouse management,…",
+          "link": "https://365community.online/overview-of-the-clever-warehousing-apps-series-index",
+          "publishedOn": "2026-07-23T10:00:08.000Z",
+          "wordCount": 1780,
+          "title": "Overview of the Clever Warehousing Apps: Series Index",
+          "imageUrl": "https://www.azurecurve.co.uk/wp-content/uploads/2021/06/azurecurve_logo_ramblings_ogt.png"
+        },
+        {
+          "id": "https://365community.online/excel-snippets-concat-function",
+          "author": "Ian Grieve",
+          "description": "I might not post many Excel snippets, but I’m collecting them into a small series to make them easy to find. CONCAT is the modern replacement for the CONCATENATE function, which has been deprecated. CONCAT works in the same way…",
+          "link": "https://365community.online/excel-snippets-concat-function",
+          "publishedOn": "2026-07-22T10:00:24.000Z",
+          "wordCount": 1692,
+          "title": "Excel Snippets: CONCAT Function",
+          "imageUrl": "https://www.azurecurve.co.uk/wp-content/uploads/2021/06/azurecurve_logo_ramblings_ogt.png"
+        },
+        {
           "id": "https://365community.online/custom-form-submission-validation-in-dynamics-365-customer-insights-journeys-inside-the-validation-pipeline-and-the-ms_captcha_solution-error",
           "author": "Nishant Rana",
           "description": "While implementing custom form submission validation (server side validation) for Dynamics 365 Customer Insights – Journeys Real-Time Marketing forms, we came across the following error, “Required params cannot be null or empty –ms_captcha_solutionms_captcha_typems_captcha_flow_id” after enabling the data-validate-submission attribute on the…",
@@ -41764,6 +41824,16 @@
           "wordCount": 2667,
           "title": "Microsoft Graph Connectors – Simply Explained",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2026/07/1acce12a338ef3c89f81756aba68f53d.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "id": "https://365community.online/classicpress-plugin-development-add-a-checkbox-to-an-options-page",
+          "author": "Ian Grieve",
+          "description": "This post is part of the series in which I am going to look at both best practice for developing plugins and how I approach some requirements as well as some of the functions I commonly use. Text fields and…",
+          "link": "https://365community.online/classicpress-plugin-development-add-a-checkbox-to-an-options-page",
+          "publishedOn": "2026-07-21T10:00:20.000Z",
+          "wordCount": 1985,
+          "title": "ClassicPress Plugin Development: Add a Checkbox to an Options Page",
+          "imageUrl": "https://www.azurecurve.co.uk/wp-content/uploads/2021/06/azurecurve_logo_ramblings_ogt.png"
         },
         {
           "id": "https://365community.online/from-ai-hype-to-ai-harness-engineering-building-ai-that-people-can-actually-trust-with-alan-buscaglia-mvp-from-gentleman-programming",
@@ -82299,106 +82369,6 @@
           "wordCount": 3268,
           "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Enable Sustainability Features for Integrations with APIs",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/fear-not-sc-100-exam-data-protection-tactics-youtube",
-          "author": "shabaz darr",
-          "description": "Learn how to protect your SC 100 exam data with M365 Security tactics. Evaluate your security posture with these essential tips. Episode Breakdown: 00:00 – Episode Intro 00:48 – Episode […]",
-          "link": "https://365community.online/fear-not-sc-100-exam-data-protection-tactics-youtube",
-          "publishedOn": "2024-07-26T11:30:11.000Z",
-          "wordCount": 3160,
-          "title": "Fear Not: SC 100 Exam Data Protection Tactics – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1721996276_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/how-to-use-reminders-to-stop-losing-leads-in-dynamics",
-          "author": "Pete Murray",
-          "description": "There are many ways to keep on top of leads in Dynamics. Your choice of technique will depend on a few things Your team size – do you need a […]",
-          "link": "https://365community.online/how-to-use-reminders-to-stop-losing-leads-in-dynamics",
-          "publishedOn": "2024-07-26T11:05:54.000Z",
-          "wordCount": 3198,
-          "title": "How To Use Reminders to Stop Losing Leads in Dynamics",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/How-To-Use-Reminders-to-Stop-Losing-Leads-in-Dynamics.png?fit=697%2C334&ssl=1"
-        },
-        {
-          "id": "https://365community.online/unboxing-my-ftrsa-swag-box-youtube",
-          "author": "Matt Collins",
-          "description": "In this video I unbox the Fasttrack Recognised Solution Architect award box. I show people what other FTRSA’s get in the award box, sent by the wonderful people at Microsoft. […]",
-          "link": "https://365community.online/unboxing-my-ftrsa-swag-box-youtube",
-          "publishedOn": "2024-07-26T10:31:11.000Z",
-          "wordCount": 3098,
-          "title": "Unboxing my FTRSA Swag box – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1722077417_maxresdefault.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-manage-subscription-billing-and-revenue-and-expense-recognition",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-manage-subscription-billing-and-revenue-and-expense-recognition",
-          "publishedOn": "2024-07-26T10:00:09.000Z",
-          "wordCount": 3272,
-          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Manage Subscription Billing and Revenue and Expense Recognition",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/enhanced-selected-row-trigger-now-available-in-power-automate",
-          "author": "Inogic",
-          "description": "We’re excited to witness the return of an enhanced ‘When a record is selected’ trigger in Power Automate, that was previously deprecated. The community has eagerly awaited its comeback ever […]",
-          "link": "https://365community.online/enhanced-selected-row-trigger-now-available-in-power-automate",
-          "publishedOn": "2024-07-26T09:44:05.000Z",
-          "wordCount": 3483,
-          "title": "Enhanced ‘Selected Row’ Trigger Now Available in Power Automate",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Enhanced-Selected-Row-Trigger.png?fit=1200%2C686&ssl=1"
-        },
-        {
-          "id": "https://365community.online/api-playground-feature-not-available-in-dataverse-accelerator-app",
-          "author": "Arun Potti",
-          "description": "In my last article, I had discussed about API Playground feature in Dataverse Accelerator App, and I have another environment, where I cannot see this feature. Followed the below steps […]",
-          "link": "https://365community.online/api-playground-feature-not-available-in-dataverse-accelerator-app",
-          "publishedOn": "2024-07-26T07:00:33.000Z",
-          "wordCount": 3229,
-          "title": "API playground feature not available in Dataverse Accelerator App?",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/dataverse_1600x1600.png?fit=680%2C680&ssl=1"
-        },
-        {
-          "id": "https://365community.online/zero-to-hero-torne-se-um-citizen-developer-aula-14-youtube-3",
-          "author": "Victor Dantas",
-          "description": "Zero to Hero: Torne-se um Citizen Developer – Aula 14 source",
-          "link": "https://365community.online/zero-to-hero-torne-se-um-citizen-developer-aula-14-youtube-3",
-          "publishedOn": "2024-07-25T20:30:01.000Z",
-          "wordCount": 3102,
-          "title": "Zero to Hero: Torne-se um Citizen Developer – Aula 14 – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1721966346_maxresdefault_live.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/zero-to-hero-torne-se-um-citizen-developer-aula-14-youtube-2",
-          "author": "Victor Dantas",
-          "description": "Zero to Hero: Torne-se um Citizen Developer – Aula 14 source",
-          "link": "https://365community.online/zero-to-hero-torne-se-um-citizen-developer-aula-14-youtube-2",
-          "publishedOn": "2024-07-25T20:30:00.000Z",
-          "wordCount": 3099,
-          "title": "Zero to Hero: Torne-se um Citizen Developer – Aula 14 – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1721949716_maxresdefault_live.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/logic-apps-standard-parameterization",
-          "author": "Anitha Santosh",
-          "description": "In Logic Apps Standard, parameters play a crucial role in creating dynamic, flexible, and reusable workflows. Parameters enable the reuse of workflows by allowing you to define values that can […]",
-          "link": "https://365community.online/logic-apps-standard-parameterization",
-          "publishedOn": "2024-07-25T17:11:17.000Z",
-          "wordCount": 3187,
-          "title": "Logic apps Standard – Parameterization",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Logic-apps-Standard-–-Parameterization.png?fit=529%2C310&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-scale-faster-with-power-automate-process-mining-thin-client-app",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 1 series in which I am taking a look at the new functionality introduced in Microsoft […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-1-scale-faster-with-power-automate-process-mining-thin-client-app",
-          "publishedOn": "2024-07-25T14:00:41.000Z",
-          "wordCount": 3272,
-          "title": "New Functionality In Microsoft Power Automate 2024 Wave 1: Scale Faster with Power Automate Process Mining Thin Client App",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
         }
       ]
     },
@@ -83980,16 +83950,6 @@
           "wordCount": 3171,
           "title": "D365FO Document Management with Sharepoint",
           "imageUrl": "https://anithasantosh.wordpress.com/wp-content/uploads/2024/07/image-23.png"
-        },
-        {
-          "id": "http://anithasantosh.wordpress.com/?p=3519",
-          "author": "AnithaEswaran",
-          "description": "In Logic Apps Standard, parameters play a crucial role in creating dynamic, flexible, and reusable workflows. Parameters enable the reuse of workflows by allowing you to define values that can be changed without modifying the workflow’s structure. By centralizing common … Continue reading →",
-          "link": "https://anithasantosh.wordpress.com/2024/07/25/logic-apps-standard-parameterization/",
-          "publishedOn": "2024-07-25T17:11:17.000Z",
-          "wordCount": 3147,
-          "title": "Logic apps Standard – Parameterization",
-          "imageUrl": "https://anithasantosh.wordpress.com/wp-content/uploads/2024/07/image-15.png"
         }
       ]
     },
