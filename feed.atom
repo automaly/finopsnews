@@ -2,10 +2,226 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-07-28T01:47:32.577Z</updated>
+    <updated>2026-07-29T01:49:57.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Makes a Successful B2B Ecommerce Website for Dynamics 365 Users?]]></title>
+        <id>https://erpsoftwareblog.com/?p=151483</id>
+        <link href="https://erpsoftwareblog.com/2026/07/what-makes-a-successful-b2b-ecommerce-website-for-dynamics-365-users/"/>
+        <updated>2026-07-28T21:00:13.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+A successful B2B ecommerce website does more than display products and accept payments. It supports recurring orders, negotiated pricing, account permissions, approvals, quotes, and real-time information from Dynamics 365. As […]
+The post What Makes a Successful B2B Ecommerce Website for Dynamics 365 Users? appeared first on ERP Software Blog.
+What is eCommerce Product Enrichment and How Can it Increase Sales?
+How to help your sales team embrace a B2B eCommerce strategy
+Overcome Tax Management Challenges by Leveraging Microsoft Dynamics 365 Automation]]></summary>
+        <author>
+            <name>k-ecommerce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Upgrade from Dynamics AX to Dynamics 365 F&SCM?]]></title>
+        <id>https://erpsoftwareblog.com/?p=151499</id>
+        <link href="https://erpsoftwareblog.com/2026/07/why-upgrade-from-dynamics-ax-to-dynamics-365-fscm/"/>
+        <updated>2026-07-28T19:27:32.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Organizations still relying on Dynamics AX 2012 should consider upgrading to Dynamics 365 Finance & Supply Chain Management, commonly referred to as Dynamics 365 F&SCM. The newer cloud-based platform offers […]
+The post Why Upgrade from Dynamics AX to Dynamics 365 F&SCM? appeared first on ERP Software Blog.
+How ChatGPT and Microsoft Copilot Boost Productivity
+Dynamics 365 F&O: Why it is the Best Choice for Your supply Chain Operations
+Top Five Ways Sycor.Rental Leverages AI and Dynamics 365 for Superior ROI in Equipment Rental]]></summary>
+        <author>
+            <name>Pharos Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Are Companies Automating Dynamics 365 Document Generation?]]></title>
+        <id>https://erpsoftwareblog.com/?p=151408</id>
+        <link href="https://erpsoftwareblog.com/2026/07/why-are-companies-automating-dynamics-365-document-generation/"/>
+        <updated>2026-07-28T19:27:29.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Companies are automating Dynamics 365 document generation to replace manual formatting, disconnected templates, and legacy output processes that cannot keep pace with modern business requirements. A purpose-built document generation platform […]
+The post Why Are Companies Automating Dynamics 365 Document Generation? appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Eclipse Corporation</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Entity.Id Is Guid.Empty with QueryExpression.Distinct = True (Dataverse)]]></title>
+        <id>https://365community.online/when-entity-id-is-guid-empty-with-queryexpression-distinct-true-dataverse</id>
+        <link href="https://365community.online/when-entity-id-is-guid-empty-with-queryexpression-distinct-true-dataverse"/>
+        <updated>2026-07-28T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[While optimising the performance of a Dataverse plugin, we noticed a QueryExpression using ColumnSet(true). The business logic only required a few attributes, so replacing ColumnSet(true) with a minimal ColumnSet looked like an easy performance improvement. The query also used Distinct…]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central Behind the Build: 8 Things the Makers Love in 2026 Release Wave 1]]></title>
+        <id>https://erpsoftwareblog.com/?p=151883</id>
+        <link href="https://erpsoftwareblog.com/2026/07/business-central-behind-the-build-8-things-the-makers-love-in-2026-release-wave-1/"/>
+        <updated>2026-07-28T15:10:14.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+When the Dynamics community hears a release wave is coming, they sometimes expect one, single, front-loaded wave of new features and capabilities. Or worse, other times they hope for all […]
+The post Business Central Behind the Build: 8 Things the Makers Love in 2026 Release Wave 1 appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Mount Evans Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Still Processing Customer Payments Manually? Here's What It Could Be Costing Your Team]]></title>
+        <id>https://erpsoftwareblog.com/?p=151798</id>
+        <link href="https://erpsoftwareblog.com/2026/07/still-processing-customer-payments-manually/"/>
+        <updated>2026-07-28T14:27:05.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+When pc/nametag upgraded from NAV 2013R2 to Microsoft Dynamics 365 Business Central, they expected the ERP migration to modernize their operations. What they didn't expect was that customer payment processing […]
+The post Still Processing Customer Payments Manually? Here's What It Could Be Costing Your Team appeared first on ERP Software Blog.
+Saving Space by Going Paperless…
+WithoutWire™ Partial Picking – Minimizing the Impact of Changing Sales Orders
+Achieving ROI Through Mobile Inventory Automation]]></summary>
+        <author>
+            <name>Blue Moon Industries</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Putting Dynamics 365 data on a Power Pages site and letting people export it.]]></title>
+        <id>https://365community.online/putting-dynamics-365-data-on-a-power-pages-site-and-letting-people-export-it</id>
+        <link href="https://365community.online/putting-dynamics-365-data-on-a-power-pages-site-and-letting-people-export-it"/>
+        <updated>2026-07-28T14:23:30.000Z</updated>
+        <summary type="html"><![CDATA[Two supported ways to show a Dataverse view on a public page with a working Excel download. One takes minutes. Most teams pick the other one anyway.]]></summary>
+        <author>
+            <name>Dave Burrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Build 2026 Recap: The AI Innovations That Matter for Business]]></title>
+        <id>https://erpsoftwareblog.com/?p=151878</id>
+        <link href="https://erpsoftwareblog.com/2026/07/microsoft-build-2026-recap/"/>
+        <updated>2026-07-28T11:49:23.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Microsoft Build 2026 made one thing clear: AI is moving beyond experimentation and becoming an integral part of business operations. This year's announcements focused on building secure, scalable AI systems […]
+The post Microsoft Build 2026 Recap: The AI Innovations That Matter for Business appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Volt Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rewiring the operating model]]></title>
+        <id>https://365community.online/rewiring-the-operating-model</id>
+        <link href="https://365community.online/rewiring-the-operating-model"/>
+        <updated>2026-07-28T11:02:46.000Z</updated>
+        <summary type="html"><![CDATA[The tooling question gets settled in a quarter. The harder change is what managers do all day, and that one takes years.]]></summary>
+        <author>
+            <name>Dave Burrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The number your CFO will accept]]></title>
+        <id>https://365community.online/the-number-your-cfo-will-accept</id>
+        <link href="https://365community.online/the-number-your-cfo-will-accept"/>
+        <updated>2026-07-28T11:01:37.000Z</updated>
+        <summary type="html"><![CDATA[Hours saved is not a benefit. It is an input to a benefit, and the step in between is where most AI business cases fall apart.]]></summary>
+        <author>
+            <name>Dave Burrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Governance that speeds you up]]></title>
+        <id>https://365community.online/governance-that-speeds-you-up</id>
+        <link href="https://365community.online/governance-that-speeds-you-up"/>
+        <updated>2026-07-28T11:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Controls get framed as the thing slowing AI down. In the programmes that ship, they are the reason anything reaches production at all.]]></summary>
+        <author>
+            <name>Dave Burrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agents need onboarding too.]]></title>
+        <id>https://365community.online/agents-need-onboarding-too</id>
+        <link href="https://365community.online/agents-need-onboarding-too"/>
+        <updated>2026-07-28T10:57:27.000Z</updated>
+        <summary type="html"><![CDATA[You would never let a contractor into your systems without an identity, an owner and an end date. Most organisations are doing exactly that with agents, at speed.]]></summary>
+        <author>
+            <name>Dave Burrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing an agent that survives production]]></title>
+        <id>https://365community.online/designing-an-agent-that-survives-production</id>
+        <link href="https://365community.online/designing-an-agent-that-survives-production"/>
+        <updated>2026-07-28T10:55:57.000Z</updated>
+        <summary type="html"><![CDATA[A convincing demo takes an afternoon. Something that still works in month six is a different piece of engineering, and most of it is not the prompt.]]></summary>
+        <author>
+            <name>Dave Burrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where should you build it?]]></title>
+        <id>https://365community.online/where-should-you-build-it</id>
+        <link href="https://365community.online/where-should-you-build-it"/>
+        <updated>2026-07-28T10:50:27.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 365 Copilot, Copilot Studio or Foundry. Three questions settle it, and getting the answer wrong is expensive in both directions.]]></summary>
+        <author>
+            <name>Dave Burrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot is a habit, not a licence.]]></title>
+        <id>https://365community.online/copilot-is-a-habit-not-a-licence</id>
+        <link href="https://365community.online/copilot-is-a-habit-not-a-licence"/>
+        <updated>2026-07-28T10:49:24.000Z</updated>
+        <summary type="html"><![CDATA[Deployment takes an afternoon. Adoption takes a quarter, and it is the only part that produces a return.]]></summary>
+        <author>
+            <name>Dave Burrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your data is not ready, and that is the real project]]></title>
+        <id>https://365community.online/your-data-is-not-ready-and-that-is-the-real-project</id>
+        <link href="https://365community.online/your-data-is-not-ready-and-that-is-the-real-project"/>
+        <updated>2026-07-28T10:47:59.000Z</updated>
+        <summary type="html"><![CDATA[Copilot does not create a governance problem. It makes the one you already had visible to everyone at once.]]></summary>
+        <author>
+            <name>Dave Burrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Modern Dynamics 365 Support Should Actually Look Like]]></title>
+        <id>https://erpsoftwareblog.com/?p=151873</id>
+        <link href="https://erpsoftwareblog.com/2026/07/what-modern-dynamics-365-support-should-include/"/>
+        <updated>2026-07-28T08:28:52.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+When organizations evaluate Dynamics 365 support, the conversation usually begins with familiar questions. “How quickly can issues be resolved? What are the response times? Is support available around the clock?” […]
+The post What Modern Dynamics 365 Support Should Actually Look Like appeared first on ERP Software Blog.
+Demand Forecasting Revolutionized with AI,  Pivot Forecasting and Dynamics 365 ERP
+Why small businesses choose Dynamics 365 Business Central
+6 Ways to Use AI in Your Business]]></summary>
+        <author>
+            <name>LevelShift</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add Line Charges to Posted and Pro Forma Sales Invoices Using Electronic Reporting in D365FO]]></title>
+        <id>https://ax.docentric.com/?p=34684</id>
+        <link href="https://ax.docentric.com/add-line-charges-to-posted-and-pro-forma-sales-invoices/"/>
+        <updated>2026-07-28T07:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Charges such as freight and handling are often added directly to sales order lines. Although Dynamics 365 Finance includes them in the invoice total, the standard Sales Invoice report doesn't show them separately. As a result, customers cannot see how the total amount was calculated […]
+The post Add Line Charges to Posted and Pro Forma Sales Invoices Using Electronic Reporting in D365FO appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Amir Omanović</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Know What You Can Ship Today: Order Fulfillment in Business Central]]></title>
         <id>https://erpsoftwareblog.com/?p=151632</id>
@@ -114472,92 +114688,6 @@ ReShoring Manufacturing in the U.S.A.]]></summary>
         <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]]]></summary>
         <author>
             <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[See SmartBOL at the Community Summit October 13-17 San Antonio]]></title>
-        <id>https://erpsoftwareblog.com/?p=117083</id>
-        <link href="https://erpsoftwareblog.com/2024/07/see-smartbol-at-the-community-summit-october-13-17-san-antonio/"/>
-        <updated>2024-07-29T11:29:47.000Z</updated>
-        <summary type="html"><![CDATA[https://www.summitna.com/dynamics-d365-user-training-at-community-summit-north-america/ Who attends: Accounting & Finance Professionals People working in the Dynamics ERP systems everyday to run accounting for the business Operations & LOB Management Those using Dynamics to execute, […]
-The post See SmartBOL at the Community Summit October 13-17 San Antonio appeared first on ERP Software Blog.
-Better Information = Stronger Company in Tough Economy
-Hassle Free Upgrades with Dynamics GP Resellers!
-With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
-        <author>
-            <name>SmartBOL</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Install Field Service Integration with Business Central from AppSource]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-install-field-service-integration-with-business-central-from-appsource</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-install-field-service-integration-with-business-central-from-appsource"/>
-        <updated>2024-07-29T10:00:33.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welsh Azure User Group July 2024 Meet Up!]]></title>
-        <id>https://365community.online/welsh-azure-user-group-july-2024-meet-up</id>
-        <link href="https://365community.online/welsh-azure-user-group-july-2024-meet-up"/>
-        <updated>2024-07-29T08:05:32.000Z</updated>
-        <summary type="html"><![CDATA[It was the day of our Welsh Azure User Group #WAUG July 2024 meet up and we had yet another two amazing speakers join us. We were joined by James […]]]></summary>
-        <author>
-            <name>John Lunn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welsh Azure User Group  – July 2024 Event – YouTube]]></title>
-        <id>https://365community.online/welsh-azure-user-group-july-2024-event-youtube</id>
-        <link href="https://365community.online/welsh-azure-user-group-july-2024-event-youtube"/>
-        <updated>2024-07-29T07:58:32.000Z</updated>
-        <summary type="html"><![CDATA[Welsh Azure User Group – July 2024 Event It was the day of our Welsh Azure User Group #WAUG July 2024 meet up and we had yet another two amazing […]]]></summary>
-        <author>
-            <name>John Lunn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Business Central 2024 Wave 2 release: Query.SaveAsJson… and why not more?]]></title>
-        <id>https://365community.online/dynamics-365-business-central-2024-wave-2-release-query-saveasjson-and-why-not-more</id>
-        <link href="https://365community.online/dynamics-365-business-central-2024-wave-2-release-query-saveasjson-and-why-not-more"/>
-        <updated>2024-07-29T06:25:56.000Z</updated>
-        <summary type="html"><![CDATA[When talking about integrations with REST services or, more generally speaking, as a cross-platform data exchange protocol, working with JSON objects is a must. JSON is a is a lightweight […]]]></summary>
-        <author>
-            <name>Stefano Demiliani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Pages ProPilot : Elevate Your Development Skills with GitHub Copilot – YouTube]]></title>
-        <id>https://365community.online/power-pages-propilot-elevate-your-development-skills-with-github-copilot-youtube</id>
-        <link href="https://365community.online/power-pages-propilot-elevate-your-development-skills-with-github-copilot-youtube"/>
-        <updated>2024-07-29T06:25:28.000Z</updated>
-        <summary type="html"><![CDATA[In this lesson you learn how to leverage AI/Copilots when writing Power Pages code (Liquid, Javascrip, HTML and webapi). source]]></summary>
-        <author>
-            <name>Victor Dantas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to get the Database Version of the Dataverse?]]></title>
-        <id>https://365community.online/how-to-get-the-database-version-of-the-dataverse</id>
-        <link href="https://365community.online/how-to-get-the-database-version-of-the-dataverse"/>
-        <updated>2024-07-29T03:45:14.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes we are required to know the Database version of the Dataverse environment to check for the features which are released or yet to be released. In this article, will […]]]></summary>
-        <author>
-            <name>Arun Potti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D365 Mass de-reservation utility]]></title>
-        <id>https://erconsult.eu/?p=8369</id>
-        <link href="https://erconsult.eu/blog/d365-mass-de-reservation-utility/"/>
-        <updated>2024-07-28T14:25:38.000Z</updated>
-        <summary type="html"><![CDATA[The Production control module in Dynamics 365 for Supply Chain Management (SCM) features an automatic BOM reservation that can unintentionally deplete stock, hindering urgent orders. Manual cancellation is labor-intensive, requiring line-by-line action.
-To streamline this, a runnable class for mass de-reservation is provided. This solution, executable via a menu item or browser command, allows users to specify criteria such as order type and warehouse. Setting the 'Cancel reservation' parameter to Yes enables efficient cancellation with system-generated success messages. The X++ source code for this tool, named InventDeReserve, is available.
-The post D365 Mass de-reservation utility appeared first on ER-Consult.]]></summary>
-        <author>
-            <name>Eugen Glasow</name>
         </author>
     </entry>
     <entry>
