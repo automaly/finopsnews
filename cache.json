@@ -41786,6 +41786,26 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/why-trust-will-determine-the-success-of-ai-in-business-central",
+          "author": "Amol Salvi",
+          "description": "AI Is Moving Faster Than Business Confidence Artificial Intelligence has quickly become one of the most exciting topics in the Microsoft Dynamics 365 Business Central community. Every week brings new announcements, more capable language models, Copilot enhancements, AI agents, and…",
+          "link": "https://365community.online/why-trust-will-determine-the-success-of-ai-in-business-central",
+          "publishedOn": "2026-07-29T07:06:46.000Z",
+          "wordCount": 4312,
+          "title": "Why Trust Will Determine the Success of AI in Business Central",
+          "imageUrl": "https://bcaihub.com/wp-content/uploads/2026/07/image-5.png"
+        },
+        {
+          "id": "https://365community.online/how-to-add-currency-symbols-to-numeric-fields-in-business-central",
+          "author": "Saurav Dhyani",
+          "description": "Hi All,In this article we will discuss about a hidden update in business central.Learn how Business Central BC28 displays currency symbols on numeric fields and improves multi-currency transaction visibility.Business Central BC28 introduces currency symbols for numeric fields, helping users quickly…",
+          "link": "https://365community.online/how-to-add-currency-symbols-to-numeric-fields-in-business-central",
+          "publishedOn": "2026-07-29T05:30:00.000Z",
+          "wordCount": null,
+          "title": "How to Add Currency Symbols to Numeric Fields in Business Central.",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/when-entity-id-is-guid-empty-with-queryexpression-distinct-true-dataverse",
           "author": "Nishant Rana",
           "description": "While optimising the performance of a Dataverse plugin, we noticed a QueryExpression using ColumnSet(true). The business logic only required a few attributes, so replacing ColumnSet(true) with a minimal ColumnSet looked like an easy performance improvement. The query also used Distinct…",
@@ -82349,86 +82369,6 @@
           "wordCount": 3287,
           "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Migrate Record Links and Notes with Cloud Migration Tooling",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1722360884_New-Functionality-In-Microsoft-Dynamics-365-Business-Central-2024-Wave.png?fit=780%2C418&ssl=1"
-        },
-        {
-          "id": "https://365community.online/smartly-plot-records-on-a-map-using-by-territory-and-by-template-within-dynamics-365",
-          "author": "Inogic",
-          "description": "So far, we have seen how to plot records on the map using GPS Location of the user, using regions based of cities, postal codes, countries, etc., using Drawing tools […]",
-          "link": "https://365community.online/smartly-plot-records-on-a-map-using-by-territory-and-by-template-within-dynamics-365",
-          "publishedOn": "2024-07-30T12:31:16.000Z",
-          "wordCount": 3439,
-          "title": "Smartly plot records on a map using ‘By Territory’ and ‘By Template’ within Dynamics 365",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Maplytics-Blog-11-1.png?fit=1200%2C686&ssl=1"
-        },
-        {
-          "id": "https://365community.online/power-platform-admin-center-known-issues-simplifying-support-and-workarounds",
-          "author": "Kurt Hatlevik",
-          "description": "The transition from LCS to Power Platform admin center is steaming ahead, and I would like to put a spotlight into the “known issues” that is available in PPAC.  If […]",
-          "link": "https://365community.online/power-platform-admin-center-known-issues-simplifying-support-and-workarounds",
-          "publishedOn": "2024-07-30T10:39:57.000Z",
-          "wordCount": 3230,
-          "title": "Power Platform Admin Center Known Issues: Simplifying Support and Workarounds",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Power-Platform-Admin-Center-Known-Issues-Simplifying-Support-and-Workarounds.png?fit=1200%2C333&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-automate-tests-for-your-copilot-extensions-with-the-business-central-test-toolkit",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-automate-tests-for-your-copilot-extensions-with-the-business-central-test-toolkit",
-          "publishedOn": "2024-07-30T10:00:17.000Z",
-          "wordCount": 3301,
-          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Automate Tests for your Copilot Extensions with the Business Central Test Toolkit",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
-        },
-        {
-          "id": "https://365community.online/business-central-save-files-to-azure-share-from-al-using-sas",
-          "author": "Roberto Stefanetti",
-          "description": "Business Central save files to Azure Share from AL using SAS Using Azure Storage with Azure Share with AL An Azure Storage unit (or rather an Azure Share resource based […]",
-          "link": "https://365community.online/business-central-save-files-to-azure-share-from-al-using-sas",
-          "publishedOn": "2024-07-30T08:39:36.000Z",
-          "wordCount": 3243,
-          "title": "Business Central save files to Azure Share from AL using SAS",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
-        },
-        {
-          "id": "https://365community.online/2024-wave-2-d365-customer-service",
-          "author": "Dian Taylor",
-          "description": "The 2024 wave 2 release notes are here, and I’m excited to bring you a new series of articles covering all the juicy details for Dynamics 365 Sales, Customer Service, […]",
-          "link": "https://365community.online/2024-wave-2-d365-customer-service",
-          "publishedOn": "2024-07-30T08:11:00.000Z",
-          "wordCount": 3199,
-          "title": "2024 Wave 2: D365 Customer Service",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
-        },
-        {
-          "id": "https://365community.online/2024-wave-2-d365-customer-service-youtube",
-          "author": "Dian Taylor",
-          "description": "2024 Wave 2: D365 Customer Service This is part 3 of my video series about the new features that are part of 2024 Release Wave 2. In this episode I […]",
-          "link": "https://365community.online/2024-wave-2-d365-customer-service-youtube",
-          "publishedOn": "2024-07-30T08:08:00.000Z",
-          "wordCount": 3180,
-          "title": "2024 Wave 2: D365 Customer Service – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/1722340119_hqdefault.jpg?fit=480%2C360&ssl=1"
-        },
-        {
-          "id": "https://365community.online/calling-sharepoint-online-api-using-azure-ad-app-only-permissions-using-certificate-auth",
-          "author": "Nishant Rana",
-          "description": "Below are the steps we need to follow to call SharePoint Online API through a Console App (C#). The first step is to register an Azure AD app. Provide appropriate […]",
-          "link": "https://365community.online/calling-sharepoint-online-api-using-azure-ad-app-only-permissions-using-certificate-auth",
-          "publishedOn": "2024-07-29T20:30:00.000Z",
-          "wordCount": 3234,
-          "title": "Calling SharePoint Online API using Azure AD App-Only permissions using Certificate Auth",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/07/Calling-SharePoint-Online-API-using-Azure-AD-App-Only-permissions-using.jpeg?fit=1200%2C799&ssl=1"
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-simplify-collections-with-copilot-for-finance-and-business-central",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-simplify-collections-with-copilot-for-finance-and-business-central",
-          "publishedOn": "2024-07-29T14:00:06.000Z",
-          "wordCount": 3282,
-          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Simplify collections with Copilot for Finance and Business Central",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2022/07/Implementing-SmartView-for-Microsoft-Dynamics-GP-Review.png?fit=1200%2C672&ssl=1"
         }
       ]
     },
@@ -84971,16 +84911,6 @@
           "wordCount": 3794,
           "title": "D365 : Purge Incremental Changes History",
           "imageUrl": "https://kurthatlevik.com/wp-content/uploads/2024/08/image-4.png"
-        },
-        {
-          "id": "http://kurthatlevik.com/?p=4602",
-          "author": "Kurt Hatlevik",
-          "description": "The transition from LCS to Power Platform admin center is steaming ahead, and I would like to put a spotlight into the “known issues” that is available in PPAC.  If you go into the support menu in LCS, you are now directed to PPAC: Then you now have a known issues tab, where you can … Continue reading Power Platform Admin Center Known Issues: Simplifying Support and Workarounds",
-          "link": "https://kurthatlevik.com/2024/07/30/power-platform-admin-center-known-issues-simplifying-support-and-workarounds/",
-          "publishedOn": "2024-07-30T10:39:57.000Z",
-          "wordCount": 3662,
-          "title": "Power Platform Admin Center Known Issues: Simplifying Support and Workarounds",
-          "imageUrl": "https://kurthatlevik.com/wp-content/uploads/2024/07/image-2.png"
         }
       ]
     },
@@ -87385,16 +87315,6 @@
           "wordCount": 3361,
           "title": "Enhancing and Streamlining Financial Reporting with Dynamics 365 Finance",
           "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/08/CLO22_Factory_031-1024x683.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/07/29/introducing-traceability-for-dynamics-365-supply-chain-management/",
-          "author": "Ban Luo",
-          "description": "Boost your business efficiency with the Traceability add-in for Dynamics 365 Supply Chain Management. Built on the Microsoft platform, this intuitive tool connects you to any source of traceability data, streamlining product lifecycle tracking, improving product quality, and reducing recall costs. Easily pass regulatory audits and use insights to drive actions.\nThe post Introducing Traceability add-in for Dynamics 365 Supply Chain Management  appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/07/29/introducing-traceability-for-dynamics-365-supply-chain-management/",
-          "publishedOn": "2024-07-29T23:57:27.000Z",
-          "wordCount": 3578,
-          "title": "Introducing Traceability add-in for Dynamics 365 Supply Chain Management",
-          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/05/image.png"
         }
       ]
     },

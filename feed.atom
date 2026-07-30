@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-07-29T01:49:57.811Z</updated>
+    <updated>2026-07-30T01:42:28.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Trust Will Determine the Success of AI in Business Central]]></title>
+        <id>https://365community.online/why-trust-will-determine-the-success-of-ai-in-business-central</id>
+        <link href="https://365community.online/why-trust-will-determine-the-success-of-ai-in-business-central"/>
+        <updated>2026-07-29T07:06:46.000Z</updated>
+        <summary type="html"><![CDATA[AI Is Moving Faster Than Business Confidence Artificial Intelligence has quickly become one of the most exciting topics in the Microsoft Dynamics 365 Business Central community. Every week brings new announcements, more capable language models, Copilot enhancements, AI agents, and…]]></summary>
+        <author>
+            <name>Amol Salvi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add Currency Symbols to Numeric Fields in Business Central.]]></title>
+        <id>https://365community.online/how-to-add-currency-symbols-to-numeric-fields-in-business-central</id>
+        <link href="https://365community.online/how-to-add-currency-symbols-to-numeric-fields-in-business-central"/>
+        <updated>2026-07-29T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi All,In this article we will discuss about a hidden update in business central.Learn how Business Central BC28 displays currency symbols on numeric fields and improves multi-currency transaction visibility.Business Central BC28 introduces currency symbols for numeric fields, helping users quickly…]]></summary>
+        <author>
+            <name>Saurav Dhyani</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Makes a Successful B2B Ecommerce Website for Dynamics 365 Users?]]></title>
         <id>https://erpsoftwareblog.com/?p=151483</id>
@@ -114534,76 +114554,6 @@ Pacejet brings next-generation cloud shipping to Microsoft Dynamics 365 Business
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smartly plot records on a map using ‘By Territory’ and ‘By Template’ within Dynamics 365]]></title>
-        <id>https://365community.online/smartly-plot-records-on-a-map-using-by-territory-and-by-template-within-dynamics-365</id>
-        <link href="https://365community.online/smartly-plot-records-on-a-map-using-by-territory-and-by-template-within-dynamics-365"/>
-        <updated>2024-07-30T12:31:16.000Z</updated>
-        <summary type="html"><![CDATA[So far, we have seen how to plot records on the map using GPS Location of the user, using regions based of cities, postal codes, countries, etc., using Drawing tools […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Platform Admin Center Known Issues: Simplifying Support and Workarounds]]></title>
-        <id>https://365community.online/power-platform-admin-center-known-issues-simplifying-support-and-workarounds</id>
-        <link href="https://365community.online/power-platform-admin-center-known-issues-simplifying-support-and-workarounds"/>
-        <updated>2024-07-30T10:39:57.000Z</updated>
-        <summary type="html"><![CDATA[The transition from LCS to Power Platform admin center is steaming ahead, and I would like to put a spotlight into the “known issues” that is available in PPAC.  If […]]]></summary>
-        <author>
-            <name>Kurt Hatlevik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Platform Admin Center Known Issues: Simplifying Support and Workarounds]]></title>
-        <id>http://kurthatlevik.com/?p=4602</id>
-        <link href="https://kurthatlevik.com/2024/07/30/power-platform-admin-center-known-issues-simplifying-support-and-workarounds/"/>
-        <updated>2024-07-30T10:39:57.000Z</updated>
-        <summary type="html"><![CDATA[The transition from LCS to Power Platform admin center is steaming ahead, and I would like to put a spotlight into the “known issues” that is available in PPAC.  If you go into the support menu in LCS, you are now directed to PPAC: Then you now have a known issues tab, where you can … Continue reading Power Platform Admin Center Known Issues: Simplifying Support and Workarounds]]></summary>
-        <author>
-            <name>Kurt Hatlevik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Automate Tests for your Copilot Extensions with the Business Central Test Toolkit]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-automate-tests-for-your-copilot-extensions-with-the-business-central-test-toolkit</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-automate-tests-for-your-copilot-extensions-with-the-business-central-test-toolkit"/>
-        <updated>2024-07-30T10:00:17.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Business Central save files to Azure Share from AL using SAS]]></title>
-        <id>https://365community.online/business-central-save-files-to-azure-share-from-al-using-sas</id>
-        <link href="https://365community.online/business-central-save-files-to-azure-share-from-al-using-sas"/>
-        <updated>2024-07-30T08:39:36.000Z</updated>
-        <summary type="html"><![CDATA[Business Central save files to Azure Share from AL using SAS Using Azure Storage with Azure Share with AL An Azure Storage unit (or rather an Azure Share resource based […]]]></summary>
-        <author>
-            <name>Roberto Stefanetti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 Wave 2: D365 Customer Service]]></title>
-        <id>https://365community.online/2024-wave-2-d365-customer-service</id>
-        <link href="https://365community.online/2024-wave-2-d365-customer-service"/>
-        <updated>2024-07-30T08:11:00.000Z</updated>
-        <summary type="html"><![CDATA[The 2024 wave 2 release notes are here, and I’m excited to bring you a new series of articles covering all the juicy details for Dynamics 365 Sales, Customer Service, […]]]></summary>
-        <author>
-            <name>Dian Taylor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 Wave 2: D365 Customer Service – YouTube]]></title>
-        <id>https://365community.online/2024-wave-2-d365-customer-service-youtube</id>
-        <link href="https://365community.online/2024-wave-2-d365-customer-service-youtube"/>
-        <updated>2024-07-30T08:08:00.000Z</updated>
-        <summary type="html"><![CDATA[2024 Wave 2: D365 Customer Service This is part 3 of my video series about the new features that are part of 2024 Release Wave 2. In this episode I […]]]></summary>
-        <author>
-            <name>Dian Taylor</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mastering Financial Forecasting by Leveraging ERP Accounting Solutions]]></title>
         <id>https://erpsoftwareblog.com/?p=117117</id>
         <link href="https://erpsoftwareblog.com/2024/07/mastering-financial-forecasting-by-leveraging-erp-accounting-solutions/"/>
@@ -114618,17 +114568,6 @@ SRS: Not Just Another Acronym - One of Microsoft's Best Applications]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introducing Traceability add-in for Dynamics 365 Supply Chain Management]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/07/29/introducing-traceability-for-dynamics-365-supply-chain-management/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/07/29/introducing-traceability-for-dynamics-365-supply-chain-management/"/>
-        <updated>2024-07-29T23:57:27.000Z</updated>
-        <summary type="html"><![CDATA[Boost your business efficiency with the Traceability add-in for Dynamics 365 Supply Chain Management. Built on the Microsoft platform, this intuitive tool connects you to any source of traceability data, streamlining product lifecycle tracking, improving product quality, and reducing recall costs. Easily pass regulatory audits and use insights to drive actions.
-The post Introducing Traceability add-in for Dynamics 365 Supply Chain Management  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Ban Luo</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Business Central Data Transfer: 10 Tips]]></title>
         <id>https://erpsoftwareblog.com/?p=117095</id>
         <link href="https://erpsoftwareblog.com/2024/07/business-central-data-transfer-10-tips/"/>
@@ -114640,16 +114579,6 @@ Warehouse Insight Now Available for Dynamics 365 Business Central
 How to Choose a Mobile Computer to use with Business Central]]></summary>
         <author>
             <name>Insight Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calling SharePoint Online API using Azure AD App-Only permissions using Certificate Auth]]></title>
-        <id>https://365community.online/calling-sharepoint-online-api-using-azure-ad-app-only-permissions-using-certificate-auth</id>
-        <link href="https://365community.online/calling-sharepoint-online-api-using-azure-ad-app-only-permissions-using-certificate-auth"/>
-        <updated>2024-07-29T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Below are the steps we need to follow to call SharePoint Online API through a Console App (C#). The first step is to register an Azure AD app. Provide appropriate […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
         </author>
     </entry>
     <entry>
@@ -114678,16 +114607,6 @@ ERP Software Compliance for Regulatory Standards such as SOX, FDA, and ISO using
 ReShoring Manufacturing in the U.S.A.]]></summary>
         <author>
             <name>DAX Software Solutions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1: Simplify collections with Copilot for Finance and Business Central]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-simplify-collections-with-copilot-for-finance-and-business-central</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-1-simplify-collections-with-copilot-for-finance-and-business-central"/>
-        <updated>2024-07-29T14:00:06.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 1 series in which I am taking a look at the new functionality introduced […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
         </author>
     </entry>
     <entry>
