@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-08-01T02:00:58.421Z</updated>
+    <updated>2026-08-02T01:57:15.562Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Little useless-useful R functions – Honest geographical location signposts]]></title>
+        <id>http://tomaztsql.wordpress.com/?p=11201</id>
+        <link href="https://tomaztsql.wordpress.com/2026/08/01/little-useless-useful-r-functions-honest-geographical-location-signposts/"/>
+        <updated>2026-08-01T16:09:59.000Z</updated>
+        <summary type="html"><![CDATA[We have all seen colourful signposts with great cities and their distances – how far each is from this current standpoint. And fundamental question is, how correct these distances are? Or even, one should ask, how honest a particular signpost…
+Read more ›]]></summary>
+        <author>
+            <name>tomaztsql</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7 Stories Launches Dynamics 365 Data Framework for F&O]]></title>
         <id>https://erpsoftwareblog.com/?p=152102</id>
@@ -114369,130 +114380,6 @@ The post Enhancing and Streamlining Financial Reporting with Dynamics 365 Financ
         <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced […]]]></summary>
         <author>
             <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11 Signs It's Time to Upgrade Your Dynamics 365 Partner]]></title>
-        <id>https://erpsoftwareblog.com/?p=117245</id>
-        <link href="https://erpsoftwareblog.com/2024/08/11-signs-its-time-to-upgrade-your-dynamics-365-partner/"/>
-        <updated>2024-08-02T13:54:09.000Z</updated>
-        <summary type="html"><![CDATA[Your Dynamics 365 partner should be a strategic ally, helping you harness the full potential of this powerful platform. But what if your current partner isn't living up to the […]
-The post 11 Signs It's Time to Upgrade Your Dynamics 365 Partner appeared first on ERP Software Blog.
-6 Important Guidelines on Selecting the Best Accounting Software and Reseller
-The 3 Main Benefits of Purchasing All of Your Software Requirements from One Microsoft Dynamics Reseller
-3 Good Reasons to Add Document Scanning and Paperless Workflow to Dynamics ERP]]></summary>
-        <author>
-            <name>Dynamics Square UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curious About Business Central? Join AVT to Learn More!]]></title>
-        <id>https://erpsoftwareblog.com/?p=117240</id>
-        <link href="https://erpsoftwareblog.com/2024/08/curious-about-business-central-join-avt-to-learn-more/"/>
-        <updated>2024-08-02T13:45:11.000Z</updated>
-        <summary type="html"><![CDATA[Join Alta Vista Technology for a look at the next step in ERP, the " Curious About Microsoft Dynamics Business Central" webinar. Are you on a legacy system that can't scale or […]
-The post Curious About Business Central? Join AVT to Learn More! appeared first on ERP Software Blog.
-Get More in the Cloud with Dynamics 365 Business Central
-How to Seamlessly Transfer Data from Excel to Microsoft Dynamics GP
-Why Are Microsoft Dynamics GP Customers Moving Their Solution to the Cloud?]]></summary>
-        <author>
-            <name>Alta Vista Technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Manufacturers Using Business Central Can Achieve Agile Demand Planning]]></title>
-        <id>https://erpsoftwareblog.com/?p=108851</id>
-        <link href="https://erpsoftwareblog.com/2024/08/how-manufacturers-using-business-central-can-achieve-agile-demand-planning/"/>
-        <updated>2024-08-02T13:31:04.000Z</updated>
-        <summary type="html"><![CDATA[Today, manufacturing companies face the challenge of balancing supply and demand while also adjusting to rapid changes in consumer behaviors and supply chain dynamics. Agile demand planning offers a solution […]
-The post How Manufacturers Using Business Central Can Achieve Agile Demand Planning appeared first on ERP Software Blog.
-Dynamics 365 Business Central and Industry-Tailored Functionality
-Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
-Don’t Stop the Flow: Managing a Job Shop]]></summary>
-        <author>
-            <name>Vena</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Archive Service Management Documents]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-archive-service-management-documents</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-archive-service-management-documents"/>
-        <updated>2024-08-02T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Integrate Field Service with Service Management]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-integrate-field-service-with-service-management</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-integrate-field-service-with-service-management"/>
-        <updated>2024-08-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[User Availability Monitoring with Power Automate]]></title>
-        <id>https://365community.online/user-availability-monitoring-with-power-automate</id>
-        <link href="https://365community.online/user-availability-monitoring-with-power-automate"/>
-        <updated>2024-08-02T09:44:10.000Z</updated>
-        <summary type="html"><![CDATA[In today’s workplaces, staying in sync with your team’s availability is key to smooth collaboration. Fortunately, tools like Power Automate offer an easy way to monitor when your colleagues are […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webinar: Empower your Field Operations with integrated maps in Dynamics 365 & Power Pages!]]></title>
-        <id>https://365community.online/webinar-empower-your-field-operations-with-integrated-maps-in-dynamics-365-power-pages</id>
-        <link href="https://365community.online/webinar-empower-your-field-operations-with-integrated-maps-in-dynamics-365-power-pages"/>
-        <updated>2024-08-02T09:33:55.000Z</updated>
-        <summary type="html"><![CDATA[Here’s a timeless principle- “Success is where preparation and opportunity meet” Team Maplytics has been embracing this wisdom for years, constantly refining our solutions to meet the evolving needs of […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Dynamics 365 Business Central Enhances Sales and Marketing Efforts]]></title>
-        <id>https://erpsoftwareblog.com/?p=117235</id>
-        <link href="https://erpsoftwareblog.com/2024/08/dynamics-365-business-central-enhances-sales-and-marketing-efforts/"/>
-        <updated>2024-08-02T07:11:56.000Z</updated>
-        <summary type="html"><![CDATA[Success, in the very competitive corporate environment of today, depends on improving sales and marketing initiatives. If you are an SMB owner looking for a complete solution that can enable […]
-The post How Dynamics 365 Business Central Enhances Sales and Marketing Efforts  appeared first on ERP Software Blog.
-Dynamics 365 Business Central and Industry-Tailored Functionality
-Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
-Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve]]></summary>
-        <author>
-            <name>Dynamics Square USA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ep. 63: Interview with Kennie Pontoppidan | A Shot of Business Central and A Beer podcast]]></title>
-        <id>https://erpsoftwareblog.com/?p=117214</id>
-        <link href="https://erpsoftwareblog.com/2024/08/ep-63-interview-with-kennie-pontoppidan-a-shot-of-business-central-and-a-beer-podcast/"/>
-        <updated>2024-08-01T15:31:15.000Z</updated>
-        <summary type="html"><![CDATA[A Microsoft Dynamics 365 Business Central podcast | Episode 63 A Shot of Business Central and A Beer In Episode 63 of "A Shot of Business Central and A Beer," […]
-The post Ep. 63: Interview with Kennie Pontoppidan | A Shot of Business Central and A Beer podcast appeared first on ERP Software Blog.
-Microsoft Dynamics 365 Business Central: The Future of Distribution Accounting
-Self-Service Analytics: Exploring Your ERP Data for Maximum Insights
-Introducing deFacto POWER Planning]]></summary>
-        <author>
-            <name>Solution Systems, Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 2024 Release Wave 2: The Highlights]]></title>
-        <id>https://erpsoftwareblog.com/?p=117205</id>
-        <link href="https://erpsoftwareblog.com/2024/08/dynamics-365-2024-release-wave-2-the-highlights/"/>
-        <updated>2024-08-01T14:06:21.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Dynamics 365 continues to evolve, bringing powerful tools to businesses worldwide. The Microsoft Dynamics 365 2024 wave 2 release introduces a range of new features and enhancements designed to […]
-The post Dynamics 365 2024 Release Wave 2: The Highlights appeared first on ERP Software Blog.
-Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
-Get More in the Cloud with Dynamics 365 Business Central
-Self-Service Analytics: Exploring Your ERP Data for Maximum Insights]]></summary>
-        <author>
-            <name>Alta Vista Technology</name>
         </author>
     </entry>
     <entry>
