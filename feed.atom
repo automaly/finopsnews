@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-08-02T01:57:15.562Z</updated>
+    <updated>2026-08-03T01:59:18.503Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Automating Quality Inspections with Quality Associations – Part 3]]></title>
+        <id>http://exploredynamics365.home.blog/?p=3155</id>
+        <link href="https://exploredynamics365.home.blog/2026/08/02/automating-quality-inspections-with-quality-associations-part-3/"/>
+        <updated>2026-08-02T11:51:46.000Z</updated>
+        <summary type="html"><![CDATA[Overview Before we move ahead and create our first Quality Order, I thought it would be worthwhile to take a closer look at one of the most important configurations in the entire Quality Management process Quality Associations. In Part 1, we explored why every manufacturing organization needs a Quality Management process. In Part 2, we […]]]></summary>
+        <author>
+            <name>Arvind Bharti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Little useless-useful R functions – Honest geographical location signposts]]></title>
         <id>http://tomaztsql.wordpress.com/?p=11201</id>
@@ -155,6 +165,17 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>Custom Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bring Dynamics 365 Customer Service to MCP-compatible AI clients: Customer Service MCP Server is now generally available]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=202853</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/07/30/dynamics-365-customer-service-mcp-server-ga/"/>
+        <updated>2026-07-30T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Dynamics 365 Customer Service MCP Server is now generally available, enabling MCP-compatible AI clients to securely access customer service data, cases, knowledge, and workflows through a standardized connection model. Organizations can extend customer service capabilities across AI experiences while maintaining existing governance and security controls.
+The post Bring Dynamics 365 Customer Service to MCP-compatible AI clients: Customer Service MCP Server is now generally available appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Saurabh Gupta, Rushil Vora, Daniel Leblond and Boris Volfson</name>
         </author>
     </entry>
     <entry>
@@ -470,6 +491,17 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>TrinSoft, LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explore migration options for Microsoft Dynamics NAV, Microsoft Dynamics GP, and Microsoft Dynamics SL customers]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/07/28/explore-migration-options-for-microsoft-dynamics-nav-microsoft-dynamics-gp-and-microsoft-dynamics-sl-customers/</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/07/28/explore-migration-options-for-microsoft-dynamics-nav-microsoft-dynamics-gp-and-microsoft-dynamics-sl-customers/"/>
+        <updated>2026-07-28T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Business Central provides a modern cloud ERP foundation that helps organizations streamline operations, improve visibility, support AI-powered productivity, and build on a platform that continues to evolve.
+The post Explore migration options for Microsoft Dynamics NAV, Microsoft Dynamics GP, and Microsoft Dynamics SL customers appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Angela Chang</name>
         </author>
     </entry>
     <entry>
@@ -114282,104 +114314,6 @@ How to Upgrade Dynamics NAV to Business Central in 2023?
 Strategies and steps to unlock seamless order fulfillment using Business Central]]></summary>
         <author>
             <name>MetaOption LLC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Dataverse Accelerator – Part 1 – Introduction]]></title>
-        <id>https://365community.online/microsoft-dataverse-accelerator-part-1-introduction</id>
-        <link href="https://365community.online/microsoft-dataverse-accelerator-part-1-introduction"/>
-        <updated>2024-08-03T11:08:10.000Z</updated>
-        <summary type="html"><![CDATA[Please like and share your valuable feedback on this video and follow my blog to get my articles to your Inbox. Click on the below image to navigate to my YouTube Channel. […]]]></summary>
-        <author>
-            <name>Arun Potti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master Business Central Inventory Management with Top Apps]]></title>
-        <id>https://erpsoftwareblog.com/?p=117286</id>
-        <link href="https://erpsoftwareblog.com/2024/08/master-business-central-inventory-management-with-top-apps/"/>
-        <updated>2024-08-02T20:29:10.000Z</updated>
-        <summary type="html"><![CDATA[Master Business Central Inventory Management with Advanced Inventory Count & Warehouse Insight to boost efficiency & streamline operations.
-The post Master Business Central Inventory Management with Top Apps appeared first on ERP Software Blog.
-Better Information = Stronger Company in Tough Economy
-Hassle Free Upgrades with Dynamics GP Resellers!
-With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
-        <author>
-            <name>Insight Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Need for Mobile Warehouse Management Solutions in Modern Logistics]]></title>
-        <id>https://erpsoftwareblog.com/?p=117274</id>
-        <link href="https://erpsoftwareblog.com/2024/08/need-for-mobile-warehouse-management-solutions-in-modern-logistics/"/>
-        <updated>2024-08-02T19:19:37.000Z</updated>
-        <summary type="html"><![CDATA[In the modern world, there is great pressure on logistics companies to deliver goods fast and without mistakes. The focal point of these operations is the warehouse it is the […]
-The post Need for Mobile Warehouse Management Solutions in Modern Logistics appeared first on ERP Software Blog.
-Streamline Your Warehouse with Efficient Cycle Counting in MetaWMS
-Everything you need to know about Warehouse Order Picking Methods
-Why Your Warehouse Needs a Mobile Warehouse Management Solution (WMS) in 2024]]></summary>
-        <author>
-            <name>MetaOption LLC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Budget Consolidation in Multi-Entity Organizations (Budgeting Series)]]></title>
-        <id>https://erpsoftwareblog.com/?p=117269</id>
-        <link href="https://erpsoftwareblog.com/2024/08/budget-consolidation-in-multi-entity-organizations-budgeting-series/"/>
-        <updated>2024-08-02T19:02:13.000Z</updated>
-        <summary type="html"><![CDATA[Budget Consolidation in Multi-Entity Organizations  Nobody likes growing pains, but every company wants to grow. Growing pains are symptoms that an organization needs to make a transition. It is the […]
-The post Budget Consolidation in Multi-Entity Organizations (Budgeting Series) appeared first on ERP Software Blog.
-Better Information = Stronger Company in Tough Economy
-Business Intelligence – What Is Going On Out there?
-SRS: Not Just Another Acronym - One of Microsoft's Best Applications]]></summary>
-        <author>
-            <name>Solver Inc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automated Testing Systems for Dynamics F&O: Why and How to Sell]]></title>
-        <id>https://erpsoftwareblog.com/?p=117252</id>
-        <link href="https://erpsoftwareblog.com/2024/08/automated-testing-for-dynamics-fo-why-and-how-to-sell/"/>
-        <updated>2024-08-02T18:48:45.000Z</updated>
-        <summary type="html"><![CDATA[The automated testing system (ATS) market is growing, especially in the Microsoft channel. Automated regression testing involves running automated tests to ensure that application updates do not break existing functionality. […]
-The post Automated Testing Systems for Dynamics F&O: Why and How to Sell appeared first on ERP Software Blog.
-Better Information = Stronger Company in Tough Economy
-Hassle Free Upgrades with Dynamics GP Resellers!
-With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
-        <author>
-            <name>PartnerTalks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s new in Power Apps: July 2024 Feature Update]]></title>
-        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-apps-july-2024-feature-update/</id>
-        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-apps-july-2024-feature-update/"/>
-        <updated>2024-08-02T18:26:22.000Z</updated>
-        <summary type="html"><![CDATA[A summary of product, community, and learning updates from throughout the month so you can access it in one easy place. This month we're excited to share Copilot updates, GA of some key features for our makers and a huge set of Learning and Documentation updates.
-The post What’s new in Power Apps: July 2024 Feature Update appeared first on Microsoft Power Platform Blog.]]></summary>
-        <author>
-            <name>Clay Wesener</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhancing and Streamlining Financial Reporting with Dynamics 365 Finance]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/02/enhancing-and-streamlining-financial-reporting-with-dynamics-365-finance/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/02/enhancing-and-streamlining-financial-reporting-with-dynamics-365-finance/"/>
-        <updated>2024-08-02T17:23:59.000Z</updated>
-        <summary type="html"><![CDATA[Discover the latest update to Dynamics 365 Finance featuring the powerful financial reporting add-in. Streamline financial reporting processes, enhance data accuracy, and gain comprehensive business insights. Enjoy flexible report design, real-time data integration, secure access, and collaboration tools. With 22 pre-built templates, setup is quick and consistent across environments. Available now for all supported regions, this add-in simplifies data management and improves operational efficiency, empowering better financial insights and informed decision-making.
-The post Enhancing and Streamlining Financial Reporting with Dynamics 365 Finance appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Jinnie Wong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Access Keys with Key Tips In More Languages]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-access-keys-with-key-tips-in-more-languages</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-access-keys-with-key-tips-in-more-languages"/>
-        <updated>2024-08-02T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
         </author>
     </entry>
     <entry>
