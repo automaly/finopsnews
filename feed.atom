@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-08-03T01:59:18.503Z</updated>
+    <updated>2026-08-04T01:45:57.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Business Central Items Won't Sync to Shopify (Common Mapping Issues)]]></title>
+        <id>https://erpsoftwareblog.com/?p=152156</id>
+        <link href="https://erpsoftwareblog.com/2026/08/why-business-central-items-wont-sync-to-shopify/"/>
+        <updated>2026-08-03T14:59:17.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+You added a new product in Dynamics 365 Business Central, expected it to appear in your Shopify store, and nothing happened. Or worse, half your catalog synced, prices came through […]
+The post Why Business Central Items Won't Sync to Shopify (Common Mapping Issues) appeared first on ERP Software Blog.
+How to Reduce Microsoft Licensing Costs
+When Business Central Customization Makes Sense
+5 Steps to a Successful Implementation of Your New Accounting System]]></summary>
+        <author>
+            <name>Trango Tech Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How does BCQuality currently work when we use it as a plugin?]]></title>
+        <id>https://365community.online/how-does-bcquality-currently-work-when-we-use-it-as-a-plugin</id>
+        <link href="https://365community.online/how-does-bcquality-currently-work-when-we-use-it-as-a-plugin"/>
+        <updated>2026-08-03T14:01:00.000Z</updated>
+        <summary type="html"><![CDATA[For those who are not familiar with BCQuality, let me give you a short introduction. I also recommend reading some very interesting posts, such as Why We Built BCQuality: Closing the Gap Between What Agents Know and What BC Developers…]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supplier Visibility in Microsoft Dynamics 365: Why Vertical-Specific PO Requirements Matter for Manufacturing]]></title>
+        <id>https://erpsoftwareblog.com/?p=152154</id>
+        <link href="https://erpsoftwareblog.com/2026/08/supplier-visibility-in-microsoft-dynamics-365-why-vertical-specific-po-requirements-matter-for-manufacturing/"/>
+        <updated>2026-08-03T13:05:20.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+? Listen to this article (15 min) Your browser does not support the audio element. If you're running Microsoft Dynamics 365 Business Central or Finance and Supply Chain Management, you […]
+The post Supplier Visibility in Microsoft Dynamics 365: Why Vertical-Specific PO Requirements Matter for Manufacturing appeared first on ERP Software Blog.
+Insight Works Unveils Enhanced Order Fulfillment for Dynamics 365
+Benefits of Automatic Collection Efforts in Business Central
+Key Trends for Accounts Payable in 2025]]></summary>
+        <author>
+            <name>Leverage AI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Website Says Yes. Your Shelf Says No. Here's Why, and How to Fix It.]]></title>
+        <id>https://erpsoftwareblog.com/?p=152146</id>
+        <link href="https://erpsoftwareblog.com/2026/08/your-website-says-yes-your-shelf-says-no-heres-why-and-how-to-fix-it/"/>
+        <updated>2026-08-03T11:15:44.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The gap comes down to one Dynamics 365 component most teams have heard of and few actually understand: Commerce Scale Unit (CSU).  Most retailers running Adobe Commerce or Shopify on […]
+The post Your Website Says Yes. Your Shelf Says No. Here's Why, and How to Fix It. appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>i95Dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Microsoft Unified Cloud Transforms AI Manufacturing]]></title>
+        <id>https://erpsoftwareblog.com/?p=152143</id>
+        <link href="https://erpsoftwareblog.com/2026/08/how-microsoft-unified-cloud-transforms-ai-manufacturing/"/>
+        <updated>2026-08-03T10:30:53.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Why Manufacturing AI Needs a Connected Data Foundation? AI has already made its entry into the world of manufacturing. There is process automation, supply chain optimization, predictive maintenance, collaborative robots, […]
+The post How Microsoft Unified Cloud Transforms AI Manufacturing appeared first on ERP Software Blog.
+Process, Discrete and Mixed Mode Manufacturing; 3 Business Issues - 3 Dynamic Solutions!
+Real Life Reasons Why Two Manufacturing Companies Replaced Peachtree with Microsoft Dynamics GP
+Stila Cosmetics Selects Dynamics ERP Over Oracle And Sage]]></summary>
+        <author>
+            <name>Intech Systems</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Automating Quality Inspections with Quality Associations – Part 3]]></title>
         <id>http://exploredynamics365.home.blog/?p=3155</id>
@@ -114249,71 +114319,6 @@ The post Announcing public preview of Dynamics 365 Store Commerce Self-checkout 
         <summary type="html"><![CDATA[#156. Neil Benson dives into the essentials of continuously improving Scrum practices in this episode of the Amazing Apps podcast. Drawing on the book “Mastering Professional Scrum” by Stephanie Ockerman […]]]></summary>
         <author>
             <name>Neil Benson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webinar: Unlock Field Management excellence with integrated maps in Dynamics 365 & Power Pages!]]></title>
-        <id>https://365community.online/webinar-unlock-field-management-excellence-with-integrated-maps-in-dynamics-365-power-pages</id>
-        <link href="https://365community.online/webinar-unlock-field-management-excellence-with-integrated-maps-in-dynamics-365-power-pages"/>
-        <updated>2024-08-04T12:06:20.000Z</updated>
-        <summary type="html"><![CDATA[Pssstt.. Did you hear the news? Team Maplytics at Inogic has organized an interesting Webinar ‘Empower your Field Operations with integrated maps in Dynamics 365 & Power Pages! ‘ on […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Areti Iles and Andrew Bibby Talk to Us from Slovenia – YouTube]]></title>
-        <id>https://365community.online/areti-iles-and-andrew-bibby-talk-to-us-from-slovenia-youtube</id>
-        <link href="https://365community.online/areti-iles-and-andrew-bibby-talk-to-us-from-slovenia-youtube"/>
-        <updated>2024-08-04T09:26:44.000Z</updated>
-        <summary type="html"><![CDATA[Rex de Koning and Mark Christie managed to catch up with these two community gems, Andrew Bibby and Areti Iles in person at Dynamics Minds in Slovenia. Join us as […]]]></summary>
-        <author>
-            <name>Scottish Summit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Training the Next Wave of Power Platform Professionals with Julie Yack – YouTube]]></title>
-        <id>https://365community.online/training-the-next-wave-of-power-platform-professionals-with-julie-yack-youtube</id>
-        <link href="https://365community.online/training-the-next-wave-of-power-platform-professionals-with-julie-yack-youtube"/>
-        <updated>2024-08-04T09:08:42.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we are privileged to be joined by 16-time MVP Julie Yack! We discuss her work in the Microsoft community, her big takeaways from Scottish Summit, and how […]]]></summary>
-        <author>
-            <name>Scottish Summit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Dataverse Accelerator – Part 2 – Installation]]></title>
-        <id>https://365community.online/microsoft-dataverse-accelerator-part-2-installation</id>
-        <link href="https://365community.online/microsoft-dataverse-accelerator-part-2-installation"/>
-        <updated>2024-08-04T06:59:26.000Z</updated>
-        <summary type="html"><![CDATA[In my previous article, I had explained about Microsoft Dataverse Accelerator Introduction and in this video, will explain about the Installation of the Dataverse Accelerator App. Have a look at […]]]></summary>
-        <author>
-            <name>Arun Potti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhanced Entra ID group integration in D365FO Admin Toolkit]]></title>
-        <id>https://dynamicspedia.com/?p=19103</id>
-        <link href="https://dynamicspedia.com/2024/08/enhanced-entra-id-group-integration-in-d365fo-admin-toolkit/"/>
-        <updated>2024-08-04T06:51:34.000Z</updated>
-        <summary type="html"><![CDATA[A few years ago, I wrote a blog post about how to use Azure Active Directory for managing users and security in Dynamics 365 for Finance and Operations. In the meantime, Microsoft renamed Azure Active Directory to Microsoft Entra ID. In my blog, I provided how to manage users and provide access permissions by using […]
-The post Enhanced Entra ID group integration in D365FO Admin Toolkit appeared first on Dynamicspedia.]]></summary>
-        <author>
-            <name>André Arnaud de Calavon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From NAV to Business Central: Enhancing Your ERP Capabilities]]></title>
-        <id>https://erpsoftwareblog.com/?p=117294</id>
-        <link href="https://erpsoftwareblog.com/2024/08/from-nav-to-business-central-enhancing-your-erp-capabilities/"/>
-        <updated>2024-08-03T17:32:30.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise Resource Planning (ERP) systems are the strength of today’s organizations, improving processes and providing information for decisions. Over the years Microsoft Dynamics NAV has been stable and reliable for […]
-The post From NAV to Business Central: Enhancing Your ERP Capabilities appeared first on ERP Software Blog.
-Navigating the Upgrade: Steps to Move from Dynamics NAV to Business Central
-How to Upgrade Dynamics NAV to Business Central in 2023?
-Strategies and steps to unlock seamless order fulfillment using Business Central]]></summary>
-        <author>
-            <name>MetaOption LLC</name>
         </author>
     </entry>
     <entry>

@@ -1367,6 +1367,51 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=152156",
+          "author": "Trango Tech Dynamics",
+          "description": "xxx\nYou added a new product in Dynamics 365 Business Central, expected it to appear in your Shopify store, and nothing happened. Or worse, half your catalog synced, prices came through […]\nThe post Why Business Central Items Won't Sync to Shopify (Common Mapping Issues) appeared first on ERP Software Blog.\nHow to Reduce Microsoft Licensing Costs\nWhen Business Central Customization Makes Sense\n5 Steps to a Successful Implementation of Your New Accounting System",
+          "link": "https://erpsoftwareblog.com/2026/08/why-business-central-items-wont-sync-to-shopify/",
+          "publishedOn": "2026-08-03T14:59:17.000Z",
+          "wordCount": 8674,
+          "title": "Why Business Central Items Won't Sync to Shopify (Common Mapping Issues)",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Gemini_Generated_Image_kaxek9kaxek9kaxe_36.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=152154",
+          "author": "Leverage AI",
+          "description": "xxx\n? Listen to this article (15 min) Your browser does not support the audio element. If you're running Microsoft Dynamics 365 Business Central or Finance and Supply Chain Management, you […]\nThe post Supplier Visibility in Microsoft Dynamics 365: Why Vertical-Specific PO Requirements Matter for Manufacturing appeared first on ERP Software Blog.\nInsight Works Unveils Enhanced Order Fulfillment for Dynamics 365\nBenefits of Automatic Collection Efforts in Business Central\nKey Trends for Accounts Payable in 2025",
+          "link": "https://erpsoftwareblog.com/2026/08/supplier-visibility-in-microsoft-dynamics-365-why-vertical-specific-po-requirements-matter-for-manufacturing/",
+          "publishedOn": "2026-08-03T13:05:20.000Z",
+          "wordCount": 9045,
+          "title": "Supplier Visibility in Microsoft Dynamics 365: Why Vertical-Specific PO Requirements Matter for Manufacturing",
+          "enclosure": {
+            "url": "https://5422913.fs1.hubspotusercontent-na1.net/hubfs/5422913/blog-audio/po-automation-mid-market-manufacturers-vertical-requirements-narration.mp3",
+            "length": "13979564",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://5422913.fs1.hubspotusercontent-na1.net/hubfs/5422913/0_ZKpoQmWFGY5CjkQP.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=152146",
+          "author": "i95Dev",
+          "description": "xxx\nThe gap comes down to one Dynamics 365 component most teams have heard of and few actually understand: Commerce Scale Unit (CSU).  Most retailers running Adobe Commerce or Shopify on […]\nThe post Your Website Says Yes. Your Shelf Says No. Here's Why, and How to Fix It. appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/08/your-website-says-yes-your-shelf-says-no-heres-why-and-how-to-fix-it/",
+          "publishedOn": "2026-08-03T11:15:44.000Z",
+          "wordCount": 8403,
+          "title": "Your Website Says Yes. Your Shelf Says No. Here's Why, and How to Fix It.",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Image-CSU-Blog-1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=152143",
+          "author": "Intech Systems",
+          "description": "xxx\nWhy Manufacturing AI Needs a Connected Data Foundation? AI has already made its entry into the world of manufacturing. There is process automation, supply chain optimization, predictive maintenance, collaborative robots, […]\nThe post How Microsoft Unified Cloud Transforms AI Manufacturing appeared first on ERP Software Blog.\nProcess, Discrete and Mixed Mode Manufacturing; 3 Business Issues - 3 Dynamic Solutions!\nReal Life Reasons Why Two Manufacturing Companies Replaced Peachtree with Microsoft Dynamics GP\nStila Cosmetics Selects Dynamics ERP Over Oracle And Sage",
+          "link": "https://erpsoftwareblog.com/2026/08/how-microsoft-unified-cloud-transforms-ai-manufacturing/",
+          "publishedOn": "2026-08-03T10:30:53.000Z",
+          "wordCount": 9167,
+          "title": "How Microsoft Unified Cloud Transforms AI Manufacturing",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ERP-BLOGS-7.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=152102",
           "author": "PartnerTalks",
           "description": "xxx\n  7 Stories launches Dynamics 365 data framework for F&O Aqueducts Consulting founder Joe Christensen plans to launch a Dynamics 365 data framework designed to carry business rules across four […]\nThe post 7 Stories Launches Dynamics 365 Data Framework for F&O appeared first on ERP Software Blog.\nHow ChatGPT and Microsoft Copilot Boost Productivity\nGS1 Standards Boost Efficiency in D365 Supply Chain\n5 Signs It’s Time to Upgrade from Legacy ERP to Dynamics 365 Finance and Operations",
@@ -40490,16 +40535,6 @@
           "wordCount": 4272,
           "title": "Mastering Demand Forecasting with Dynamics 365 Business Central: A Recipe for Success",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/business-central-Hero_foreground.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=117294",
-          "author": "MetaOption LLC",
-          "description": "Enterprise Resource Planning (ERP) systems are the strength of today’s organizations, improving processes and providing information for decisions. Over the years Microsoft Dynamics NAV has been stable and reliable for […]\nThe post From NAV to Business Central: Enhancing Your ERP Capabilities appeared first on ERP Software Blog.\nNavigating the Upgrade: Steps to Move from Dynamics NAV to Business Central\nHow to Upgrade Dynamics NAV to Business Central in 2023?\nStrategies and steps to unlock seamless order fulfillment using Business Central",
-          "link": "https://erpsoftwareblog.com/2024/08/from-nav-to-business-central-enhancing-your-erp-capabilities/",
-          "publishedOn": "2024-08-03T17:32:30.000Z",
-          "wordCount": 4193,
-          "title": "From NAV to Business Central: Enhancing Your ERP Capabilities",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-3-19.jpg"
         }
       ]
     },
@@ -41735,6 +41770,16 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/how-does-bcquality-currently-work-when-we-use-it-as-a-plugin",
+          "author": "jarmesto",
+          "description": "For those who are not familiar with BCQuality, let me give you a short introduction. I also recommend reading some very interesting posts, such as Why We Built BCQuality: Closing the Gap Between What Agents Know and What BC Developers…",
+          "link": "https://365community.online/how-does-bcquality-currently-work-when-we-use-it-as-a-plugin",
+          "publishedOn": "2026-08-03T14:01:00.000Z",
+          "wordCount": 12289,
+          "title": "How does BCQuality currently work when we use it as a plugin?",
+          "imageUrl": "https://i0.wp.com/techspheredynamics.com/wp-content/uploads/2026/08/hero_bcquality.png?fit=1200%2C675&ssl=1"
+        },
         {
           "id": "https://365community.online/two-ai-models-broke-out-and-hacked-real-companies-the-tradecraft-was-ordinary",
           "author": "Dave Burrell",
@@ -82059,46 +82104,6 @@
           "wordCount": 3183,
           "title": "Improving Your Scrum Practice – Mastering Professional Scrum – chapter 1",
           "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
-        },
-        {
-          "id": "https://365community.online/webinar-unlock-field-management-excellence-with-integrated-maps-in-dynamics-365-power-pages",
-          "author": "Inogic",
-          "description": "Pssstt.. Did you hear the news? Team Maplytics at Inogic has organized an interesting Webinar ‘Empower your Field Operations with integrated maps in Dynamics 365 & Power Pages! ‘ on […]",
-          "link": "https://365community.online/webinar-unlock-field-management-excellence-with-integrated-maps-in-dynamics-365-power-pages",
-          "publishedOn": "2024-08-04T12:06:20.000Z",
-          "wordCount": 3509,
-          "title": "Webinar: Unlock Field Management excellence with integrated maps in Dynamics 365 & Power Pages!",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/08/Empower-your-Field-Operations-with-integrated-maps-in-Dynamics-365-Power-Pages.png?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/areti-iles-and-andrew-bibby-talk-to-us-from-slovenia-youtube",
-          "author": "Scottish Summit",
-          "description": "Rex de Koning and Mark Christie managed to catch up with these two community gems, Andrew Bibby and Areti Iles in person at Dynamics Minds in Slovenia. Join us as […]",
-          "link": "https://365community.online/areti-iles-and-andrew-bibby-talk-to-us-from-slovenia-youtube",
-          "publishedOn": "2024-08-04T09:26:44.000Z",
-          "wordCount": 3145,
-          "title": "Areti Iles and Andrew Bibby Talk to Us from Slovenia – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/08/maxresdefault_live.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/training-the-next-wave-of-power-platform-professionals-with-julie-yack-youtube",
-          "author": "Scottish Summit",
-          "description": "In this episode, we are privileged to be joined by 16-time MVP Julie Yack! We discuss her work in the Microsoft community, her big takeaways from Scottish Summit, and how […]",
-          "link": "https://365community.online/training-the-next-wave-of-power-platform-professionals-with-julie-yack-youtube",
-          "publishedOn": "2024-08-04T09:08:42.000Z",
-          "wordCount": 3173,
-          "title": "Training the Next Wave of Power Platform Professionals with Julie Yack – YouTube",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/08/maxresdefault_live.jpg?fit=1200%2C675&ssl=1"
-        },
-        {
-          "id": "https://365community.online/microsoft-dataverse-accelerator-part-2-installation",
-          "author": "Arun Potti",
-          "description": "In my previous article, I had explained about Microsoft Dataverse Accelerator Introduction and in this video, will explain about the Installation of the Dataverse Accelerator App. Have a look at […]",
-          "link": "https://365community.online/microsoft-dataverse-accelerator-part-2-installation",
-          "publishedOn": "2024-08-04T06:59:26.000Z",
-          "wordCount": 3232,
-          "title": "Microsoft Dataverse Accelerator – Part 2 – Installation",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2024/05/dataverse_1600x1600.png?fit=680%2C680&ssl=1"
         }
       ]
     },
@@ -82682,16 +82687,6 @@
           "wordCount": 4565,
           "title": "How to bypass table security in X++ coding",
           "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2024/09/Unchecked.jpg"
-        },
-        {
-          "id": "https://dynamicspedia.com/?p=19103",
-          "author": "André Arnaud de Calavon",
-          "description": "A few years ago, I wrote a blog post about how to use Azure Active Directory for managing users and security in Dynamics 365 for Finance and Operations. In the meantime, Microsoft renamed Azure Active Directory to Microsoft Entra ID. In my blog, I provided how to manage users and provide access permissions by using […]\nThe post Enhanced Entra ID group integration in D365FO Admin Toolkit appeared first on Dynamicspedia.",
-          "link": "https://dynamicspedia.com/2024/08/enhanced-entra-id-group-integration-in-d365fo-admin-toolkit/",
-          "publishedOn": "2024-08-04T06:51:34.000Z",
-          "wordCount": 5544,
-          "title": "Enhanced Entra ID group integration in D365FO Admin Toolkit",
-          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2024/08/EntraIDGroupEnhancement1200.jpg"
         }
       ]
     },
