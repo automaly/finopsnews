@@ -41771,6 +41771,36 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/sql4cds-utc-mode-converting-advanced-find-date-filters-to-utc-boundaries-a-quick-reference-dataverse-dynamics-365",
+          "author": "Nishant Rana",
+          "description": "While validating record counts for a Work Orders view in Dynamics 365 Field Service, we ran into the same underlying issue covered in an earlier post – Why SQL4CDS Record Counts May Not Match Advanced Find for Date Filters. This…",
+          "link": "https://365community.online/sql4cds-utc-mode-converting-advanced-find-date-filters-to-utc-boundaries-a-quick-reference-dataverse-dynamics-365",
+          "publishedOn": "2026-08-04T18:35:00.000Z",
+          "wordCount": 9033,
+          "title": "SQL4CDS UTC Mode: Converting Advanced Find Date Filters to UTC Boundaries– A Quick Reference (Dataverse / Dynamics 365)",
+          "imageUrl": "https://i0.wp.com/nishantrana.me/wp-content/uploads/2026/08/pexels-photo-247781.jpeg?fit=1200%2C800&ssl=1"
+        },
+        {
+          "id": "https://365community.online/power-pages-custom-access-table-permissions-a-way-to-avoid-using-global-scope-permissions",
+          "author": "michelcarlo",
+          "description": "When you build a portal in Power Pages, you usually secure your data by linking a record to the logged-in user through a Contact or [...] The post Power Pages “Custom access” table permissions: A way to avoid using Global…",
+          "link": "https://365community.online/power-pages-custom-access-table-permissions-a-way-to-avoid-using-global-scope-permissions",
+          "publishedOn": "2026-08-04T08:59:49.000Z",
+          "wordCount": null,
+          "title": "Power Pages “Custom access” table permissions: A way to avoid using Global scope permissions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/hide-expired-sessions-in-event-registration-form-using-javascript-dynamics-365-customer-insights-journeys",
+          "author": "Nishant Rana",
+          "description": "One of our recent requirements was to ensure that users could no longer register for event sessions once the session had already ended. The goal was to improve the user experience by hiding expired sessions from the Event Registration form,…",
+          "link": "https://365community.online/hide-expired-sessions-in-event-registration-form-using-javascript-dynamics-365-customer-insights-journeys",
+          "publishedOn": "2026-08-03T18:35:00.000Z",
+          "wordCount": 8736,
+          "title": "Hide Expired  Sessions in Event Registration Form using JavaScript (Dynamics 365 Customer Insights – Journeys)",
+          "imageUrl": "https://i0.wp.com/nishantrana.me/wp-content/uploads/2026/07/pexels-photo-18999470.jpeg?fit=1200%2C800&ssl=1"
+        },
+        {
           "id": "https://365community.online/how-does-bcquality-currently-work-when-we-use-it-as-a-plugin",
           "author": "jarmesto",
           "description": "For those who are not familiar with BCQuality, let me give you a short introduction. I also recommend reading some very interesting posts, such as Why We Built BCQuality: Closing the Gap Between What Agents Know and What BC Developers…",
@@ -82094,16 +82124,6 @@
           "wordCount": 1305,
           "title": "Innovate with AI-Powered Low Code Microsoft’s Power Platform Professional Tools",
           "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/improving-your-scrum-practice-mastering-professional-scrum-chapter-1",
-          "author": "Neil Benson",
-          "description": "#156. Neil Benson dives into the essentials of continuously improving Scrum practices in this episode of the Amazing Apps podcast. Drawing on the book “Mastering Professional Scrum” by Stephanie Ockerman […]",
-          "link": "https://365community.online/improving-your-scrum-practice-mastering-professional-scrum-chapter-1",
-          "publishedOn": "2024-08-04T21:00:00.000Z",
-          "wordCount": 3183,
-          "title": "Improving Your Scrum Practice – Mastering Professional Scrum – chapter 1",
-          "imageUrl": "https://i0.wp.com/365community.online/wp-content/uploads/2020/06/wp-1591740657456.jpg?fit=400%2C400&ssl=1"
         }
       ]
     },
@@ -87246,6 +87266,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=3155",
+          "author": "Arvind Bharti",
+          "description": "Overview Before we move ahead and create our first Quality Order, I thought it would be worthwhile to take a closer look at one of the most important configurations in the entire Quality Management process Quality Associations. In Part 1, we explored why every manufacturing organization needs a Quality Management process. In Part 2, we […]",
+          "link": "https://exploredynamics365.home.blog/2026/08/02/automating-quality-inspections-with-quality-associations-part-3/",
+          "publishedOn": "2026-08-02T11:51:46.000Z",
+          "wordCount": 4150,
+          "title": "Automating Quality Inspections with Quality Associations – Part 3",
+          "imageUrl": "https://i0.wp.com/exploredynamics365.home.blog/wp-content/uploads/2026/08/colorful-modern-designer-linkedin-banner-presentation-4.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=3132",
           "author": "Arvind Bharti",
           "description": "Overview In Part 1, we understood why Quality Management is essential for every manufacturing organization and how Microsoft Dynamics 365 Finance & Operations helps automate the quality inspection process. Before the system can automatically create a Quality Order, we must first configure the master data that drives the entire Quality Management framework. Think of these […]",
@@ -87672,6 +87702,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=3163",
+          "author": "Saurabh Bharti",
+          "description": "Ready to build your first AI Agent for Dynamics 365? In this hands-on ERP Mentorship & AMA session, we move beyond theory and build a Dynamics 365 AI Agent live using Microsoft Copilot Studio, ERP MCP (Model Context Protocol), and the CoWork plugin. Whether you’re a Functional Consultant, Technical Consultant, Solution Architect, or simply curious […]",
+          "link": "https://exploredynamics365.home.blog/2026/08/05/build-your-first-ai-agent-for-dynamics-365-copilot-studio-erp-mcp-erp-mentorship-ama-session-14/",
+          "publishedOn": "2026-08-04T19:56:49.000Z",
+          "wordCount": 3709,
+          "title": "Build Your First AI Agent for Dynamics 365 | Copilot Studio & ERP MCP | ERP Mentorship & AMA-Session-14",
+          "imageUrl": "http://img.youtube.com/vi/LnWIuAMkDNI/0.jpg"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=3155",
           "author": "Arvind Bharti",

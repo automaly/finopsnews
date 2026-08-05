@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-08-04T01:45:57.632Z</updated>
+    <updated>2026-08-05T01:47:47.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build Your First AI Agent for Dynamics 365 | Copilot Studio & ERP MCP | ERP Mentorship & AMA-Session-14]]></title>
+        <id>http://exploredynamics365.home.blog/?p=3163</id>
+        <link href="https://exploredynamics365.home.blog/2026/08/05/build-your-first-ai-agent-for-dynamics-365-copilot-studio-erp-mcp-erp-mentorship-ama-session-14/"/>
+        <updated>2026-08-04T19:56:49.000Z</updated>
+        <summary type="html"><![CDATA[Ready to build your first AI Agent for Dynamics 365? In this hands-on ERP Mentorship & AMA session, we move beyond theory and build a Dynamics 365 AI Agent live using Microsoft Copilot Studio, ERP MCP (Model Context Protocol), and the CoWork plugin. Whether you’re a Functional Consultant, Technical Consultant, Solution Architect, or simply curious […]]]></summary>
+        <author>
+            <name>Saurabh Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL4CDS UTC Mode: Converting Advanced Find Date Filters to UTC Boundaries– A Quick Reference (Dataverse / Dynamics 365)]]></title>
+        <id>https://365community.online/sql4cds-utc-mode-converting-advanced-find-date-filters-to-utc-boundaries-a-quick-reference-dataverse-dynamics-365</id>
+        <link href="https://365community.online/sql4cds-utc-mode-converting-advanced-find-date-filters-to-utc-boundaries-a-quick-reference-dataverse-dynamics-365"/>
+        <updated>2026-08-04T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[While validating record counts for a Work Orders view in Dynamics 365 Field Service, we ran into the same underlying issue covered in an earlier post – Why SQL4CDS Record Counts May Not Match Advanced Find for Date Filters. This…]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Pages “Custom access” table permissions: A way to avoid using Global scope permissions]]></title>
+        <id>https://365community.online/power-pages-custom-access-table-permissions-a-way-to-avoid-using-global-scope-permissions</id>
+        <link href="https://365community.online/power-pages-custom-access-table-permissions-a-way-to-avoid-using-global-scope-permissions"/>
+        <updated>2026-08-04T08:59:49.000Z</updated>
+        <summary type="html"><![CDATA[When you build a portal in Power Pages, you usually secure your data by linking a record to the logged-in user through a Contact or [...] The post Power Pages “Custom access” table permissions: A way to avoid using Global…]]></summary>
+        <author>
+            <name>michelcarlo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hide Expired  Sessions in Event Registration Form using JavaScript (Dynamics 365 Customer Insights – Journeys)]]></title>
+        <id>https://365community.online/hide-expired-sessions-in-event-registration-form-using-javascript-dynamics-365-customer-insights-journeys</id>
+        <link href="https://365community.online/hide-expired-sessions-in-event-registration-form-using-javascript-dynamics-365-customer-insights-journeys"/>
+        <updated>2026-08-03T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[One of our recent requirements was to ensure that users could no longer register for event sessions once the session had already ended. The goal was to improve the user experience by hiding expired sessions from the Event Registration form,…]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Business Central Items Won't Sync to Shopify (Common Mapping Issues)]]></title>
         <id>https://erpsoftwareblog.com/?p=152156</id>
@@ -74,6 +114,16 @@ Real Life Reasons Why Two Manufacturing Companies Replaced Peachtree with Micros
 Stila Cosmetics Selects Dynamics ERP Over Oracle And Sage]]></summary>
         <author>
             <name>Intech Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automating Quality Inspections with Quality Associations – Part 3]]></title>
+        <id>http://exploredynamics365.home.blog/?p=3155</id>
+        <link href="https://exploredynamics365.home.blog/2026/08/02/automating-quality-inspections-with-quality-associations-part-3/"/>
+        <updated>2026-08-02T11:51:46.000Z</updated>
+        <summary type="html"><![CDATA[Overview Before we move ahead and create our first Quality Order, I thought it would be worthwhile to take a closer look at one of the most important configurations in the entire Quality Management process Quality Associations. In Part 1, we explored why every manufacturing organization needs a Quality Management process. In Part 2, we […]]]></summary>
+        <author>
+            <name>Arvind Bharti</name>
         </author>
     </entry>
     <entry>
@@ -114309,16 +114359,6 @@ This post first appeared first on Encore Business Solutions.]]></summary>
 The post Announcing public preview of Dynamics 365 Store Commerce Self-checkout appeared first on Microsoft Dynamics 365 Blog.]]></summary>
         <author>
             <name>Anusha Venkatesan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving Your Scrum Practice – Mastering Professional Scrum – chapter 1]]></title>
-        <id>https://365community.online/improving-your-scrum-practice-mastering-professional-scrum-chapter-1</id>
-        <link href="https://365community.online/improving-your-scrum-practice-mastering-professional-scrum-chapter-1"/>
-        <updated>2024-08-04T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#156. Neil Benson dives into the essentials of continuously improving Scrum practices in this episode of the Amazing Apps podcast. Drawing on the book “Mastering Professional Scrum” by Stephanie Ockerman […]]]></summary>
-        <author>
-            <name>Neil Benson</name>
         </author>
     </entry>
     <entry>
