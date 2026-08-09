@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-08-08T00:59:39.589Z</updated>
+    <updated>2026-08-09T01:02:41.728Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
@@ -19,6 +19,16 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The skill gap between using AI and architecting AI.]]></title>
+        <id>https://365community.online/the-skill-gap-between-using-ai-and-architecting-ai</id>
+        <link href="https://365community.online/the-skill-gap-between-using-ai-and-architecting-ai"/>
+        <updated>2026-08-07T18:08:45.000Z</updated>
+        <summary type="html"><![CDATA[This week after reading some social media posts and discussing with customers and partners some AI-related issues in real-world projects, … More]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
         </author>
     </entry>
     <entry>
@@ -214,6 +224,17 @@ Microsoft Dynamics 365 Business Central is now available! Business without silos
 More Than Just a Name Change: The New Microsoft Dynamics 365 Business Central]]></summary>
         <author>
             <name>OmniVue Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Governance in the Quality Management agent is now generally available]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=202940</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/08/05/governance-customer-service/"/>
+        <updated>2026-08-05T18:04:55.000Z</updated>
+        <summary type="html"><![CDATA[Governance in Dynamics 365 Customer Service helps organizations evaluate outbound emails and attachments against business-defined policies before delivery, reducing risk and ensuring compliant customer communications.
+The post Governance in the Quality Management agent is now generally available appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Harish Tyagi and Shruti Phanse</name>
         </author>
     </entry>
     <entry>

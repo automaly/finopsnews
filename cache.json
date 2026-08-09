@@ -42086,6 +42086,16 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/the-skill-gap-between-using-ai-and-architecting-ai",
+          "author": "Stefano Demiliani",
+          "description": "This week after reading some social media posts and discussing with customers and partners some AI-related issues in real-world projects, … More",
+          "link": "https://365community.online/the-skill-gap-between-using-ai-and-architecting-ai",
+          "publishedOn": "2026-08-07T18:08:45.000Z",
+          "wordCount": 4537,
+          "title": "The skill gap between using AI and architecting AI.",
+          "imageUrl": "https://i0.wp.com/demiliani.com/wp-content/uploads/2026/08/img_2965.jpg?fit=1200%2C800&ssl=1"
+        },
+        {
           "id": "https://365community.online/dynamics-365-business-central-al-transaction-isolation-levels-and-cache-usage",
           "author": "Stefano Demiliani",
           "description": "With version 11 of the Dynamics 365 Business Central runtime, Microsoft introduced the Record.ReadIsolation method to control isolation level on … More",
@@ -85046,6 +85056,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=202940",
+          "author": "Harish Tyagi and Shruti Phanse",
+          "description": "Governance in Dynamics 365 Customer Service helps organizations evaluate outbound emails and attachments against business-defined policies before delivery, reducing risk and ensuring compliant customer communications.\nThe post Governance in the Quality Management agent is now generally available appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/08/05/governance-customer-service/",
+          "publishedOn": "2026-08-05T18:04:55.000Z",
+          "wordCount": 5590,
+          "title": "Governance in the Quality Management agent is now generally available",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2025/11/AdobeStock_535255868-scaled.jpeg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=202853",
           "author": "Saurabh Gupta, Rushil Vora, Daniel Leblond and Boris Volfson",
