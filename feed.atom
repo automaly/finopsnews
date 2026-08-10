@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-08-09T01:02:41.728Z</updated>
+    <updated>2026-08-10T01:05:05.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Reinventing Vendor Collaboration with Dynamics 365 Supplier Engagement]]></title>
+        <id>https://dynamicspedia.com/?p=20497</id>
+        <link href="https://dynamicspedia.com/2026/08/reinventing-vendor-collaboration-with-dynamics-365-supplier-engagement/"/>
+        <updated>2026-08-09T07:09:57.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft just released its new Dynamics 365 Supplier Engagement app and portal in public preview. Until now, vendor collaboration was fully managed within Dynamics 365 Supply Chain Management (SCM). Vendor contacts could have access as an external user to a limited set of features using the Dynamics 365 SCM user interface. In this post, you […]
+The post Reinventing Vendor Collaboration with Dynamics 365 Supplier Engagement appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding Bin Logic in Business Central for Accurate Material Movement]]></title>
         <id>https://erpsoftwareblog.com/?p=152323</id>
@@ -164,6 +175,17 @@ Why small businesses choose Dynamics 365 Business Central
 6 Ways to Use AI in Your Business]]></summary>
         <author>
             <name>Dynamics Square UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supplier Engagement in Dynamics 365 Supply Chain Management is now available in public preview]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=202933</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/08/06/supplier-engagement-supply-chain-management/"/>
+        <updated>2026-08-06T15:21:22.000Z</updated>
+        <summary type="html"><![CDATA[Supplier Engagement, now in public preview for Dynamics 365 Supply Chain Management, helps organizations streamline supplier onboarding, lifecycle management, and collaboration from a centralized workspace. Built on Microsoft Power Platform, it provides trusted supplier data, global vendor management, and self-service supplier experiences while keeping transactions connected to ERP processes.
+The post Supplier Engagement in Dynamics 365 Supply Chain Management is now available in public preview appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Michele Ballinger and Shriram Sivasankaran</name>
         </author>
     </entry>
     <entry>
@@ -114850,17 +114872,6 @@ Create a Closed-Loop Analysis, Planning, and Reporting Process
 Self-Service Analytics: Exploring Your ERP Data for Maximum Insights]]></summary>
         <author>
             <name>Dynamics Square UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use the modern rich text editor in Dynamics 365 Customer Service]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/09/use-the-modern-rich-text-editor-in-dynamics-365-customer-service/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/09/use-the-modern-rich-text-editor-in-dynamics-365-customer-service/"/>
-        <updated>2024-08-09T17:23:53.000Z</updated>
-        <summary type="html"><![CDATA[The modern rich text editor is now our advanced editor for an end-to-end enhanced authoring experience. As part of this advancement, we are phasing out the current rich text editor and integrating its capabilities into the modern rich text editor. 
-The post Use the modern rich text editor in Dynamics 365 Customer Service appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Madhuri Somara</name>
         </author>
     </entry>
     <entry>

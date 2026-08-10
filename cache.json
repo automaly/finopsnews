@@ -82494,6 +82494,16 @@
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
         {
+          "id": "https://dynamicspedia.com/?p=20497",
+          "author": "André Arnaud de Calavon",
+          "description": "Microsoft just released its new Dynamics 365 Supplier Engagement app and portal in public preview. Until now, vendor collaboration was fully managed within Dynamics 365 Supply Chain Management (SCM). Vendor contacts could have access as an external user to a limited set of features using the Dynamics 365 SCM user interface. In this post, you […]\nThe post Reinventing Vendor Collaboration with Dynamics 365 Supplier Engagement appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2026/08/reinventing-vendor-collaboration-with-dynamics-365-supplier-engagement/",
+          "publishedOn": "2026-08-09T07:09:57.000Z",
+          "wordCount": 5597,
+          "title": "Reinventing Vendor Collaboration with Dynamics 365 Supplier Engagement",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2026/08/ReinventingSupplierEngagement1200.png"
+        },
+        {
           "id": "https://dynamicspedia.com/?p=20361",
           "author": "André Arnaud de Calavon",
           "description": "Just recently, Microsoft released a new version for user logs, and based on this, a new dormant user report was created. Two weeks ago, I was checking for a new feature related to viewing the license requirement per object. I then also noticed another feature called (Preview) User log and dormant user report V2 feature. […]\nThe post New User log and dormant user report feature appeared first on Dynamicspedia.",
@@ -85057,6 +85067,16 @@
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
         {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=202933",
+          "author": "Michele Ballinger and Shriram Sivasankaran",
+          "description": "Supplier Engagement, now in public preview for Dynamics 365 Supply Chain Management, helps organizations streamline supplier onboarding, lifecycle management, and collaboration from a centralized workspace. Built on Microsoft Power Platform, it provides trusted supplier data, global vendor management, and self-service supplier experiences while keeping transactions connected to ERP processes.\nThe post Supplier Engagement in Dynamics 365 Supply Chain Management is now available in public preview appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/08/06/supplier-engagement-supply-chain-management/",
+          "publishedOn": "2026-08-06T15:21:22.000Z",
+          "wordCount": 6142,
+          "title": "Supplier Engagement in Dynamics 365 Supply Chain Management is now available in public preview",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/08/AdobeStock_844007776-scaled.jpeg"
+        },
+        {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=202940",
           "author": "Harish Tyagi and Shruti Phanse",
           "description": "Governance in Dynamics 365 Customer Service helps organizations evaluate outbound emails and attachments against business-defined policies before delivery, reducing risk and ensuring compliant customer communications.\nThe post Governance in the Quality Management agent is now generally available appeared first on Microsoft Dynamics 365 Blog.",
@@ -87415,16 +87435,6 @@
           "wordCount": 3040,
           "title": "Your Board, Your Way – Optimize schedule board navigation patterns in Universal Resource Scheduling",
           "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/02/CLO22_TechOffice_022-1024x794.jpg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/09/use-the-modern-rich-text-editor-in-dynamics-365-customer-service/",
-          "author": "Madhuri Somara",
-          "description": "The modern rich text editor is now our advanced editor for an end-to-end enhanced authoring experience. As part of this advancement, we are phasing out the current rich text editor and integrating its capabilities into the modern rich text editor. \nThe post Use the modern rich text editor in Dynamics 365 Customer Service appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/09/use-the-modern-rich-text-editor-in-dynamics-365-customer-service/",
-          "publishedOn": "2024-08-09T17:23:53.000Z",
-          "wordCount": 2772,
-          "title": "Use the modern rich text editor in Dynamics 365 Customer Service",
-          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/03/CLO22_RemoteHome_060-1024x683.jpg"
         }
       ]
     },
