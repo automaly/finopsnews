@@ -83783,16 +83783,6 @@
           "wordCount": 4144,
           "title": "Summit Academy – D365FO Administration & Developer Overview Class Plan",
           "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2024/08/Alex_Peter1200x6271.png"
-        },
-        {
-          "id": "https://alexdmeyer.com/?p=3289",
-          "author": "Alex",
-          "description": "A while ago I wrote a blog post on how you could obtain metadata about data entities within D365FO. Originally this was written against version 10.0.35, I wanted to update this for the 10.0.40 release. The updated file can be found here: D365FO Data Entity Metadata 10.0.40 As a refresher, this Excel has the following […]\nThe post D365FO Data Entity Metadata in 10.0.40 appeared first on Alex Meyer.",
-          "link": "https://alexdmeyer.com/2024/08/16/d365fo-data-entity-metadata-in-10-0-40/",
-          "publishedOn": "2024-08-16T14:30:53.000Z",
-          "wordCount": 4110,
-          "title": "D365FO Data Entity Metadata in 10.0.40",
-          "imageUrl": "https://alexdmeyer.com/wp-content/uploads/2024/08/1-1.png"
         }
       ]
     },
@@ -88428,6 +88418,16 @@
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
         {
+          "id": "http://exploredynamics365.home.blog/?p=3169",
+          "author": "Arvind Bharti",
+          "description": "Overview In the previous part, we explored Quality Associations and understood how they determine when, where, and under what conditions a Quality Order should be created automatically. Now it’s time to see all of our configurations in action. In this article, we’ll create a Purchase Order, post the Product Receipt, and watch Microsoft Dynamics 365 […]",
+          "link": "https://exploredynamics365.home.blog/2026/08/16/automatically-creating-quality-order-part-4/",
+          "publishedOn": "2026-08-16T18:12:02.000Z",
+          "wordCount": 4041,
+          "title": "Automatically Creating Quality Order – Part 4",
+          "imageUrl": "https://i0.wp.com/exploredynamics365.home.blog/wp-content/uploads/2026/08/colorful-modern-designer-linkedin-banner-presentation-5.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
           "id": "http://exploredynamics365.home.blog/?p=3163",
           "author": "Saurabh Bharti",
           "description": "Ready to build your first AI Agent for Dynamics 365? In this hands-on ERP Mentorship & AMA session, we move beyond theory and build a Dynamics 365 AI Agent live using Microsoft Copilot Studio, ERP MCP (Model Context Protocol), and the CoWork plugin. Whether you’re a Functional Consultant, Technical Consultant, Solution Architect, or simply curious […]",
@@ -90573,16 +90573,6 @@
           "wordCount": 4396,
           "title": "How to add resources to a project in dynamics 365 Finance and Supply chain through UI and Automation",
           "imageUrl": "https://elearnd365.com/wp-content/uploads/2025/03/resource-allocation.jpg?w=1200"
-        },
-        {
-          "id": "http://elearnd365.com/?p=1531",
-          "author": "Sukrut Parab",
-          "description": "While working with project management and accounting or project operations you might have come across a term call WBS or Work Breakdown structure. Today we are going to look at what work breakdown structure is in Dynamics 365 Finance and supply chain and some technical things about WBS.Work breakdown structure is nothing but task level […]",
-          "link": "https://elearnd365.com/2024/08/16/working-with-project-work-breakdown-structure-in-project-management-and-accounting/",
-          "publishedOn": "2024-08-16T23:38:00.000Z",
-          "wordCount": 4584,
-          "title": "Working with Project work breakdown structure in Project Management and accounting",
-          "imageUrl": "https://elearnd365.com/wp-content/uploads/2025/03/image-22.png"
         }
       ]
     },

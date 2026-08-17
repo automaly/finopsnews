@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-08-16T00:46:45.457Z</updated>
+    <updated>2026-08-17T00:44:16.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Automatically Creating Quality Order – Part 4]]></title>
+        <id>http://exploredynamics365.home.blog/?p=3169</id>
+        <link href="https://exploredynamics365.home.blog/2026/08/16/automatically-creating-quality-order-part-4/"/>
+        <updated>2026-08-16T18:12:02.000Z</updated>
+        <summary type="html"><![CDATA[Overview In the previous part, we explored Quality Associations and understood how they determine when, where, and under what conditions a Quality Order should be created automatically. Now it’s time to see all of our configurations in action. In this article, we’ll create a Purchase Order, post the Product Receipt, and watch Microsoft Dynamics 365 […]]]></summary>
+        <author>
+            <name>Arvind Bharti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Technological Innovations Have Transformed Traditional Healthcare Patient Monitoring Patterns with RPM]]></title>
         <id>https://erpsoftwareblog.com/?p=152541</id>
@@ -115216,16 +115226,6 @@ Quote Generation with Product Configurator for Business Central]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Working with Project work breakdown structure in Project Management and accounting]]></title>
-        <id>http://elearnd365.com/?p=1531</id>
-        <link href="https://elearnd365.com/2024/08/16/working-with-project-work-breakdown-structure-in-project-management-and-accounting/"/>
-        <updated>2024-08-16T23:38:00.000Z</updated>
-        <summary type="html"><![CDATA[While working with project management and accounting or project operations you might have come across a term call WBS or Work Breakdown structure. Today we are going to look at what work breakdown structure is in Dynamics 365 Finance and supply chain and some technical things about WBS.Work breakdown structure is nothing but task level […]]]></summary>
-        <author>
-            <name>Sukrut Parab</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Responsible Use of AI in Customer Service]]></title>
         <id>https://erpsoftwareblog.com/?p=117635</id>
         <link href="https://erpsoftwareblog.com/2024/08/ai-in-customer-service/"/>
@@ -115335,17 +115335,6 @@ Things to Consider when Choosing a Software Reseller
 An Active Partner Relationship: Increase ROI and Long-Term ERP Success - free eBook]]></summary>
         <author>
             <name>Kwixand Solutions Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D365FO Data Entity Metadata in 10.0.40]]></title>
-        <id>https://alexdmeyer.com/?p=3289</id>
-        <link href="https://alexdmeyer.com/2024/08/16/d365fo-data-entity-metadata-in-10-0-40/"/>
-        <updated>2024-08-16T14:30:53.000Z</updated>
-        <summary type="html"><![CDATA[A while ago I wrote a blog post on how you could obtain metadata about data entities within D365FO. Originally this was written against version 10.0.35, I wanted to update this for the 10.0.40 release. The updated file can be found here: D365FO Data Entity Metadata 10.0.40 As a refresher, this Excel has the following […]
-The post D365FO Data Entity Metadata in 10.0.40 appeared first on Alex Meyer.]]></summary>
-        <author>
-            <name>Alex</name>
         </author>
     </entry>
     <entry>
