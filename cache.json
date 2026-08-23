@@ -42556,6 +42556,66 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/an-hr-onboarding-agent-built-the-vibe-coding-way",
+          "author": "Ana Inés Urrutia",
+          "description": "I didn't open Copilot Studio with a spec. I opened it with a sentence. \"Build me an agent that answers new hire onboarding questions, and knows when to stop guessing and hand off to a human.\" That's it. No flowchart.…",
+          "link": "https://365community.online/an-hr-onboarding-agent-built-the-vibe-coding-way",
+          "publishedOn": "2026-08-22T09:03:12.000Z",
+          "wordCount": 2719,
+          "title": "An HR Onboarding agent, built the Vibe-Coding way",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/turn-conversations-into-code-with-github-copilot-in-microsoft-teams",
+          "author": "Microsoft Tech Community",
+          "description": "Coding where context lives and collaboration happens The best prompt may be the conversation your team has already had or is currently having. Until now, using a coding agent often meant paying context and coordination taxes. Developers had to leave…",
+          "link": "https://365community.online/turn-conversations-into-code-with-github-copilot-in-microsoft-teams",
+          "publishedOn": "2026-08-21T23:19:49.000Z",
+          "wordCount": 1875,
+          "title": "Turn conversations into code with GitHub Copilot in Microsoft Teams",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/support-tip-restore-the-managed-home-screen-exit-pin",
+          "author": "Microsoft Tech Community",
+          "description": "We identified and resolved a recent issue (IT1450132) that could cause the configured Managed Home Screen exit PIN to be removed from some existing Android Enterprise when updating older device configuration policies.  While a fix has been deployed to address…",
+          "link": "https://365community.online/support-tip-restore-the-managed-home-screen-exit-pin",
+          "publishedOn": "2026-08-21T21:53:41.000Z",
+          "wordCount": 1851,
+          "title": "Support tip: Restore the Managed Home Screen Exit PIN",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/model-router-updates-new-regions-a-refreshed-model-pool-and-understanding-the-hill-climb",
+          "author": "Microsoft Tech Community",
+          "description": "Across Microsoft, \"hill climbing\" has become shorthand for how real AI progress happens: not in one dramatic leap, but through a disciplined loop. Microsoft AI defines the hill climb as an organization that continuously improves, cycle after cycle, through more compute, better…",
+          "link": "https://365community.online/model-router-updates-new-regions-a-refreshed-model-pool-and-understanding-the-hill-climb",
+          "publishedOn": "2026-08-21T17:47:58.000Z",
+          "wordCount": 2653,
+          "title": "Model router updates: new regions, a refreshed model pool, and understanding the hill climb",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/extend-clinical-workflows-with-dragon-copilot-ai-apps-and-agents-in-microsoft-marketplace",
+          "author": "Microsoft Tech Community",
+          "description": "GA ANNOUNCEMENT Today, we're excited to announce the General Availability (GA) of Dragon Copilot AI Apps and Agents for physician workflows, a major milestone in building an open and trusted healthcare AI ecosystem. Healthcare organizations can now discover, build, deploy,…",
+          "link": "https://365community.online/extend-clinical-workflows-with-dragon-copilot-ai-apps-and-agents-in-microsoft-marketplace",
+          "publishedOn": "2026-08-21T17:04:55.000Z",
+          "wordCount": 2487,
+          "title": "Extend clinical workflows with Dragon Copilot AI Apps and Agents in Microsoft Marketplace",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/keeping-or-earning-four-business-applications-specializations-just-got-simpler",
+          "author": "Microsoft Tech Community",
+          "description": "Starting on August 24, 2026, Microsoft is simplifying eligibility requirements for the Sales, Service, Finance, and Supply Chain specializations. Eligible deployments will be measured using monthly active users (MAU) instead of monthly consumption value (MCV), and the gross growth performance…",
+          "link": "https://365community.online/keeping-or-earning-four-business-applications-specializations-just-got-simpler",
+          "publishedOn": "2026-08-21T16:27:12.000Z",
+          "wordCount": 1571,
+          "title": "Keeping or earning four Business Applications specializations just got simpler",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/power-automate-design-every-flow-so-a-resubmit-is-always-safe",
           "author": "Mariano Gomez",
           "description": "If there is one question I have learned to ask of every single action in every Power Automate flow I build, it is this one: what happens if this runs twice? Throughout our Business Central to Dynamics 365 CE billing…",
@@ -85775,6 +85835,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/08/20/supplier-engagement-dynamics-365-supply-chain-management/",
+          "author": "Michele Ballinger and Rishabh Agarwal",
+          "description": "Supplier Engagement in Dynamics 365 Supply Chain Management helps organizations connect supplier experiences, procurement operations, and business data while creating a stronger foundation for AI and agentic business processes.\nThe post Build a connected foundation for Supplier Engagement and agentic AI with Microsoft Dynamics 365 Supply Chain Management appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/08/20/supplier-engagement-dynamics-365-supply-chain-management/",
+          "publishedOn": "2026-08-20T15:30:00.000Z",
+          "wordCount": 6749,
+          "title": "Build a connected foundation for Supplier Engagement and agentic AI with Microsoft Dynamics 365 Supply Chain Management",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/08/AdobeStock_524415027-scaled.jpeg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/08/19/cross-legal-entity-fulfillment-dynamics-365/",
           "author": "Yufei Huang and Anupama Raju",
