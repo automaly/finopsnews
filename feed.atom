@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-08-23T00:48:50.734Z</updated>
+    <updated>2026-08-24T00:45:46.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
@@ -115782,17 +115782,6 @@ With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summar
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Use Copilot to quickly filter, sort, and search canvas app galleries with SharePoint lists]]></title>
-        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/use-copilot-to-quickly-filter-sort-and-search-canvas-app-galleries-with-sharepoint-lists/</id>
-        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/use-copilot-to-quickly-filter-sort-and-search-canvas-app-galleries-with-sharepoint-lists/"/>
-        <updated>2024-08-23T23:19:25.000Z</updated>
-        <summary type="html"><![CDATA[Use natural language queries with Copilot for filter to fine tune the records you see in your canvas galleries at runtime.  
-The post Use Copilot to quickly filter, sort, and search canvas app galleries with SharePoint lists appeared first on Microsoft Power Platform Blog.]]></summary>
-        <author>
-            <name>Lance Delano</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Days of Knowledge America 2024: What is it?]]></title>
         <id>https://erpsoftwareblog.com/?p=117838</id>
         <link href="https://erpsoftwareblog.com/2024/08/days-of-knowledge-2024/"/>
@@ -115804,17 +115793,6 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>PartnerTalks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing End of Support for Dynamics 365 Project Service Automation (PSA)]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/23/end-of-support-dynamics-365-project-service-automation/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/23/end-of-support-dynamics-365-project-service-automation/"/>
-        <updated>2024-08-23T19:16:54.000Z</updated>
-        <summary type="html"><![CDATA[On March 19th, 2024, we announced the end of support of Dynamics 365 Project Service Automation on commercial cloud. For Project Service Automation customers on US government cloud, we will have a future announcement regarding upgrade and the availability of Project Operations. Beginning March 31st, 2025, Microsoft will no longer support PSA on commercial cloud
-The post Announcing End of Support for Dynamics 365 Project Service Automation (PSA) appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Rupa Mantravadi</name>
         </author>
     </entry>
     <entry>
