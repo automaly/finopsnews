@@ -42556,6 +42556,86 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/power-platform-environment-not-showing-up-in-maker-portal-power-platform-admin-center-dataverse-dynamics-365",
+          "author": "Nishant Rana",
+          "description": "Recently, we ran into an interesting issue while working with a Dynamics 365 / Dataverse environment. Even though the user was assigned the System Administrator security role, the environment did not appear in either the Power Platform Admin Center or…",
+          "link": "https://365community.online/power-platform-environment-not-showing-up-in-maker-portal-power-platform-admin-center-dataverse-dynamics-365",
+          "publishedOn": "2026-08-24T18:35:00.000Z",
+          "wordCount": 1839,
+          "title": "Power Platform Environment Not Showing Up in Maker Portal & Power Platform Admin Center (Dataverse / Dynamics 365)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/ai-in-business-starting-your-automation-journey-a-preface",
+          "author": "Priyesh Wagh",
+          "description": "Here's a Preface to what AI in business applications will hold this side of the decade. My first note in the Thought Leadership series! The post AI in Business: Starting Your Automation Journey [A Preface] appeared first on D365 Demystified.",
+          "link": "https://365community.online/ai-in-business-starting-your-automation-journey-a-preface",
+          "publishedOn": "2026-08-24T18:21:28.000Z",
+          "wordCount": 2312,
+          "title": "AI in Business: Starting Your Automation Journey [A Preface]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/power-automate-cloud-flow-telemetry-with-azure-application-insights-down-to-the-action-level",
+          "author": "Mariano Gomez",
+          "description": "Longtime readers may remember that the very last article I published before this blog went quiet, back in August of 2021, covered monitoring Power Apps with Azure Application Insights. So it is only fitting that I return to the subject…",
+          "link": "https://365community.online/power-automate-cloud-flow-telemetry-with-azure-application-insights-down-to-the-action-level",
+          "publishedOn": "2026-08-24T11:00:00.000Z",
+          "wordCount": 3404,
+          "title": "Power Automate | Cloud Flow Telemetry with Azure Application Insights, Down to the Action Level",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/manage-database-index-usage-in-business-central",
+          "author": "Saurav Dhyani",
+          "description": "Hi Readers, Microsoft continues to improve the administrative capabilities of Dynamics 365 Business Central. One of the most interesting additions in Business Central 2026 Release Wave 1 is the ability to manage database indexes directly from the Business Central client.For administrators…",
+          "link": "https://365community.online/manage-database-index-usage-in-business-central",
+          "publishedOn": "2026-08-24T05:30:00.000Z",
+          "wordCount": 2224,
+          "title": "Manage Database Index Usage in Business Central.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/stewards-of-their-own-map-what-kakuma-teaches-us-about-ai-done-well",
+          "author": "Microsoft Tech Community",
+          "description": "The most interesting AI projects are rarely the ones with the biggest models. They are the ones where somebody asked a good question about who holds the knowledge. A humanitarian mapping project in northwestern Kenya is a case in point,…",
+          "link": "https://365community.online/stewards-of-their-own-map-what-kakuma-teaches-us-about-ai-done-well",
+          "publishedOn": "2026-08-24T00:57:22.000Z",
+          "wordCount": 1953,
+          "title": "Stewards of Their Own Map: What Kakuma Teaches Us About AI Done Well",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/building-agentic-analytics-with-microsoft-fabric-semantic-models-data-agents-and-copilot-studio",
+          "author": "Richa Pandit",
+          "description": "A hands-on build log: Microsoft Fabric, a semantic model, a 3-page Power BI report, a Fabric Data Agent, and a Copilot Studio agent wired together through the new Fabric IQ MCP tool.IntroductionOrganizations often invest heavily in dashboards, reports, and analytics platforms.…",
+          "link": "https://365community.online/building-agentic-analytics-with-microsoft-fabric-semantic-models-data-agents-and-copilot-studio",
+          "publishedOn": "2026-08-23T23:17:05.000Z",
+          "wordCount": 3009,
+          "title": "Building Agentic Analytics with Microsoft Fabric, Semantic Models, Data Agents, and Copilot Studio",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/a-free-cost-estimator-for-dynamics-365-fscm-that-shows-its-work",
+          "author": "Dag Calafell",
+          "description": "For the past 8 years I have helped IT leaders understand the total cost of ownership for Dynamics 365.  I've been using Excel, but that is old fashioned now.  I've felt like this information and data has not been easily…",
+          "link": "https://365community.online/a-free-cost-estimator-for-dynamics-365-fscm-that-shows-its-work",
+          "publishedOn": "2026-08-23T17:55:15.000Z",
+          "wordCount": 2126,
+          "title": "A Free Cost Estimator for Dynamics 365 F&SCM That Shows Its Work",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/build-ai-agents-without-leaving-vs-code-join-our-3-part-reactor-series",
+          "author": "Microsoft Tech Community",
+          "description": "Starting August 25, we're running a free three-part live series on Microsoft Reactor that takes you from \"what is a hosted agent?\" to a deployed, orchestrated multi-agent application, all built in VS Code with the Microsoft Foundry Toolkit.   👉…",
+          "link": "https://365community.online/build-ai-agents-without-leaving-vs-code-join-our-3-part-reactor-series",
+          "publishedOn": "2026-08-23T07:46:38.000Z",
+          "wordCount": 2018,
+          "title": "Build AI agents without leaving VS Code, join our 3-part Reactor Series",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/an-hr-onboarding-agent-built-the-vibe-coding-way",
           "author": "Ana Inés Urrutia",
           "description": "I didn't open Copilot Studio with a spec. I opened it with a sentence. \"Build me an agent that answers new hire onboarding questions, and knows when to stop guessing and hand off to a human.\" That's it. No flowchart.…",
