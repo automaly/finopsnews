@@ -42641,6 +42641,106 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/ai-can-create-the-transaction-who-is-responsible-when-it-is-wrong",
+          "author": "Amol Salvi",
+          "description": "For decades, the responsibility model inside ERP systems has been relatively straightforward. A person creates a transaction, another person may review it, an approval process may be triggered, and eventually the transaction is posted into the system of record. Whether…",
+          "link": "https://365community.online/ai-can-create-the-transaction-who-is-responsible-when-it-is-wrong",
+          "publishedOn": "2026-08-26T11:52:01.000Z",
+          "wordCount": 3586,
+          "title": "AI Can Create the Transaction. Who Is Responsible When It Is Wrong?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/copilot-studio-adding-dataverse-knowledge-sources-with-the-web-api-the-ui-only-rule-that-isnt",
+          "author": "Mariano Gomez",
+          "description": "Not long ago, I set out to build a support agent in Microsoft Copilot Studio for a product in the Dynamics ecosystem: the kind of agent that answers customer questions grounded in your content, meaning Dataverse knowledge articles plus a…",
+          "link": "https://365community.online/copilot-studio-adding-dataverse-knowledge-sources-with-the-web-api-the-ui-only-rule-that-isnt",
+          "publishedOn": "2026-08-26T11:00:00.000Z",
+          "wordCount": 3973,
+          "title": "Copilot Studio | Adding Dataverse Knowledge Sources with the Web API (the “UI-Only” Rule That Isn’t)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/new-eu-rules-for-software-what-you-need-to-know",
+          "author": "Stefano Demiliani",
+          "description": "On December 9, 2026, EU Product Liability Directive (2024/2853) takes effect, officially classifying software and AI systems as products under … More",
+          "link": "https://365community.online/new-eu-rules-for-software-what-you-need-to-know",
+          "publishedOn": "2026-08-26T07:32:24.000Z",
+          "wordCount": 3329,
+          "title": "New EU rules for software: what you need to know.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/impact-of-ai-06-why-people-follow",
+          "author": "Simon Owen",
+          "description": "Why People Follow explores how leadership is not simply a title or position, but the ability to create direction, confidence and capability around others. As AI accelerates individual capability, the article asks whether organisations are being equally deliberate about developing…",
+          "link": "https://365community.online/impact-of-ai-06-why-people-follow",
+          "publishedOn": "2026-08-26T07:00:16.000Z",
+          "wordCount": 3637,
+          "title": "Impact of AI 06: Why People Follow",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/cost-management-with-azure-resource-manager-mcp",
+          "author": "Microsoft Tech Community",
+          "description": "Today, we’re announcing new Cost Management capabilities in the Azure Resource Management (ARM) MCP server. A core set of cost tools is now available by default, making it easier for AI agents to bring cost context into Azure workflows without…",
+          "link": "https://365community.online/cost-management-with-azure-resource-manager-mcp",
+          "publishedOn": "2026-08-26T02:17:28.000Z",
+          "wordCount": 2442,
+          "title": "Cost Management with Azure Resource Manager MCP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/whats-new-in-microsoft-edu-back-to-school-august-2026",
+          "author": "Microsoft Tech Community",
+          "description": "Welcome to our monthly update for Microsoft Education and thank you so much for being part of our growing community! Topics Teach in Microsoft Copilot updates Learning Zone updates Teams for Education updates Study and Learn agent updates Copilot Notebooks…",
+          "link": "https://365community.online/whats-new-in-microsoft-edu-back-to-school-august-2026",
+          "publishedOn": "2026-08-26T01:46:26.000Z",
+          "wordCount": 3416,
+          "title": "What’s New in Microsoft EDU – Back to School August 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/maia-200-software-defined-dataflow-and-all-ethernet-networking-for-efficient-inference-on-azure",
+          "author": "Microsoft Tech Community",
+          "description": "By Sherry Xu, Prashant Ranjan, Torsten Hoefler   As we enter the era of frontier-scale intelligence, the economics of AI are increasingly determined not by peak compute performance but by how efficiently an entire system can generate tokens at scale.…",
+          "link": "https://365community.online/maia-200-software-defined-dataflow-and-all-ethernet-networking-for-efficient-inference-on-azure",
+          "publishedOn": "2026-08-25T22:49:33.000Z",
+          "wordCount": 2488,
+          "title": "Maia 200: Software-defined dataflow and all-Ethernet networking for efficient inference on Azure",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/instant-revocation-of-service-principal-bearer-tokens-with-cae",
+          "author": "Microsoft Tech Community",
+          "description": "Introduction Workload identities such as service principals are an important part of the attack surface in Entra: they are often used by critical automated processes, and they can carry privileged and sensitive permissions. The authentication flow used by these principals…",
+          "link": "https://365community.online/instant-revocation-of-service-principal-bearer-tokens-with-cae",
+          "publishedOn": "2026-08-25T22:06:21.000Z",
+          "wordCount": 2641,
+          "title": "Instant Revocation of Service Principal Bearer Tokens with CAE",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/retirement-of-microsoft-hpc-pack",
+          "author": "Microsoft Tech Community",
+          "description": "Overview Microsoft HPC Pack is a Windows‑based high‑performance computing (HPC) scheduler that enables customers to deploy, manage, and operate HPC workloads in on‑premises and hybrid environments. Since its original release, HPC Pack has supported a range of Windows‑centric HPC scenarios,…",
+          "link": "https://365community.online/retirement-of-microsoft-hpc-pack",
+          "publishedOn": "2026-08-25T21:17:58.000Z",
+          "wordCount": 2007,
+          "title": "Retirement of Microsoft HPC Pack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/comparing-web-resources-javascript-across-multiple-dataverse-environments-using-a-console-app",
+          "author": "Nishant Rana",
+          "description": "We recently refactored a large JavaScript solution — replacing a number of deprecated methods with their supported equivalents, along with some performance improvements — the kind of change that touches a lot of files without changing what any of them…",
+          "link": "https://365community.online/comparing-web-resources-javascript-across-multiple-dataverse-environments-using-a-console-app",
+          "publishedOn": "2026-08-25T18:35:00.000Z",
+          "wordCount": 2350,
+          "title": "Comparing Web Resources (JavaScript) Across Multiple Dataverse Environments Using a Console App",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/capture-hosting-market-opportunities-without-disrupting-what-already-works",
           "author": "Microsoft Tech Community",
           "description": "Evolve your hosting business for the future without disrupting the customers and operations you depend on today. With the Microsoft Adaptive Cloud strategy, you can modernize your platform and business model on your own terms—and open the door to new,…",
@@ -84597,16 +84697,6 @@
           "wordCount": 4081,
           "title": "ISVLicenseGenerator v0.9: a farewell?",
           "imageUrl": "https://static.ariste.info/wp-content/uploads/2024/09/IMG_2559-1024x1024.jpeg"
-        },
-        {
-          "id": "https://ariste.info/?p=8735",
-          "author": "Adrià Ariste Santacreu",
-          "description": "In this post, I’m going to talk about APIOps, the DevOps techniques applied to Azure API Management, that allow us to automate the promotion of changes between API Management instances. It would be possible to attain a certain degree of automation using Bicep, but it wouldn’t apply to many elements of the APIM, and that’s… Click here to continue reading APIOps: ALM for Azure API Management",
-          "link": "https://ariste.info/2024/08/apiops-alm-for-azure-api-management/",
-          "publishedOn": "2024-08-27T06:44:09.000Z",
-          "wordCount": 5486,
-          "title": "APIOps: ALM for Azure API Management",
-          "imageUrl": "https://static.ariste.info/wp-content/uploads/2024/08/IMG_2545-1024x1024.jpeg"
         }
       ]
     },
@@ -86050,6 +86140,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=203026",
+          "author": "Richard Riley",
+          "description": "Learn how the move from release wave announcements to the AI at Work roadmap creates a single destination to discover, track, and plan innovations.\nThe post One always-on roadmap: Dynamics 365, Power Platform, and Dataverse join the AI at Work roadmap appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/08/25/one-always-on-roadmap-dynamics-365-power-platform-and-dataverse-join-the-ai-at-work-roadmap/",
+          "publishedOn": "2026-08-25T15:00:00.000Z",
+          "wordCount": 6455,
+          "title": "One always-on roadmap: Dynamics 365, Power Platform, and Dataverse join the AI at Work roadmap",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/08/At-at-Work-Roadmap_1_1200.jpg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/08/20/supplier-engagement-dynamics-365-supply-chain-management/",
           "author": "Michele Ballinger and Rishabh Agarwal",
@@ -88404,26 +88504,6 @@
           "wordCount": 4045,
           "title": "G&J Pepsi profit rises by $30 million with Microsoft Dynamics 365",
           "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/08/8.27-power-plat-social.png"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/08/27/experience-the-new-generation-of-financial-analytics-and-reporting-in-microsoft-dynamics-365-business-central/",
-          "author": "Mike Morton",
-          "description": "Amid the growing demand on CFOs to catalyze growth, maintaining a holistic view of business performance has never been more crucial. \nThe post Experience the new generation of financial analytics and reporting in Microsoft Dynamics 365 Business Central appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/08/27/experience-the-new-generation-of-financial-analytics-and-reporting-in-microsoft-dynamics-365-business-central/",
-          "publishedOn": "2024-08-27T15:00:00.000Z",
-          "wordCount": 4402,
-          "title": "Experience the new generation of financial analytics and reporting in Microsoft Dynamics 365 Business Central",
-          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/08/D365_365258_Blog_240822_1200.png"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/26/approve-on-the-go-with-dynamics-365-approvals-management/",
-          "author": "Johan Hoffman",
-          "description": "We are thrilled to announce the public preview of Approvals management in Dynamics 365 in release 10.0.41. Approvals management is a mobile experience that unifies approval workflows across the Dynamics 365 product family.\nThe post Approve on the go with Dynamics 365 Approvals management appeared first on Microsoft Dynamics 365 Blog.",
-          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/26/approve-on-the-go-with-dynamics-365-approvals-management/",
-          "publishedOn": "2024-08-26T21:12:30.000Z",
-          "wordCount": 2724,
-          "title": "Approve on the go with Dynamics 365 Approvals management",
-          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2024/08/CLO20_Margery_003-scaled.jpg"
         }
       ]
     },
@@ -88432,6 +88512,16 @@
       "feedUrl": "https://dev.goshoom.net/feed/",
       "siteUrl": "https://dev.goshoom.net",
       "articles": [
+        {
+          "id": "https://dev.goshoom.net/?p=10310",
+          "author": "Martin Dráb",
+          "description": "Let’s assume that D365 F&O comes with the following class and we want to extend its showInfo() method: class Demo { public static void main(Args _args) { new Demo().showInfo(); }   public final void showInfo() { info(\"Base\"); }   } Let’s try the usual approach, Chain of Command: [ExtensionOf(classStr(Demo))] internal final class Demo_Extension { public ...\nContinue reading ‘Extensions of final methods’ »",
+          "link": "https://dev.goshoom.net/2026/08/extensions-of-final-methods/",
+          "publishedOn": "2026-08-26T13:16:04.000Z",
+          "wordCount": 2320,
+          "title": "Extensions of final methods",
+          "imageUrl": null
+        },
         {
           "id": "https://dev.goshoom.net/?p=10292",
           "author": "Martin Dráb",
@@ -91051,6 +91141,21 @@
       "feedUrl": "https://d365cliffsnotes.com/rss.xml",
       "siteUrl": "https://d365cliffsnotes.com",
       "articles": [
+        {
+          "id": "https://d365cliffsnotes.com/one-roadmap-to-rule-them-all-what-the-ai-at-work-roadmap-means-for-dynamics-365-and-power-platform-architects",
+          "author": "Rakesh Darge",
+          "description": "If you've ever bookmarked a Release Plan page on Learn, saved a filtered view in \"My Release Plans,\" or built a client deck around Wave 1/Wave 2 timelines - Microsoft just changed the ground under you",
+          "link": "https://d365cliffsnotes.com/one-roadmap-to-rule-them-all-what-the-ai-at-work-roadmap-means-for-dynamics-365-and-power-platform-architects",
+          "publishedOn": "2026-08-26T18:17:33.000Z",
+          "wordCount": 4705,
+          "title": "One Roadmap to Rule Them All: What the AI at Work Roadmap Means for Dynamics 365 and Power Platform Architects",
+          "enclosure": {
+            "url": "https://cdn.hashnode.com/uploads/covers/6154a77b414f78089df3d420/9315e9c6-3ee0-4340-b050-5676627f434c.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/6154a77b414f78089df3d420/9315e9c6-3ee0-4340-b050-5676627f434c.png"
+        },
         {
           "id": "https://d365cliffsnotes.com/fix-this-is-not-a-unified-environment-error-in-d365-fo-why-metadata-download-fails-in-visual-studio",
           "author": "Rakesh Darge",

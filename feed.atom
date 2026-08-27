@@ -2,10 +2,101 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-08-26T00:46:57.646Z</updated>
+    <updated>2026-08-27T05:58:14.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[One Roadmap to Rule Them All: What the AI at Work Roadmap Means for Dynamics 365 and Power Platform Architects]]></title>
+        <id>https://d365cliffsnotes.com/one-roadmap-to-rule-them-all-what-the-ai-at-work-roadmap-means-for-dynamics-365-and-power-platform-architects</id>
+        <link href="https://d365cliffsnotes.com/one-roadmap-to-rule-them-all-what-the-ai-at-work-roadmap-means-for-dynamics-365-and-power-platform-architects"/>
+        <updated>2026-08-26T18:17:33.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever bookmarked a Release Plan page on Learn, saved a filtered view in "My Release Plans," or built a client deck around Wave 1/Wave 2 timelines - Microsoft just changed the ground under you]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extensions of final methods]]></title>
+        <id>https://dev.goshoom.net/?p=10310</id>
+        <link href="https://dev.goshoom.net/2026/08/extensions-of-final-methods/"/>
+        <updated>2026-08-26T13:16:04.000Z</updated>
+        <summary type="html"><![CDATA[Let’s assume that D365 F&O comes with the following class and we want to extend its showInfo() method: class Demo { public static void main(Args _args) { new Demo().showInfo(); }   public final void showInfo() { info("Base"); }   } Let’s try the usual approach, Chain of Command: [ExtensionOf(classStr(Demo))] internal final class Demo_Extension { public ...
+Continue reading ‘Extensions of final methods’ »]]></summary>
+        <author>
+            <name>Martin Dráb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Can Create the Transaction. Who Is Responsible When It Is Wrong?]]></title>
+        <id>https://365community.online/ai-can-create-the-transaction-who-is-responsible-when-it-is-wrong</id>
+        <link href="https://365community.online/ai-can-create-the-transaction-who-is-responsible-when-it-is-wrong"/>
+        <updated>2026-08-26T11:52:01.000Z</updated>
+        <summary type="html"><![CDATA[For decades, the responsibility model inside ERP systems has been relatively straightforward. A person creates a transaction, another person may review it, an approval process may be triggered, and eventually the transaction is posted into the system of record. Whether…]]></summary>
+        <author>
+            <name>Amol Salvi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Studio | Adding Dataverse Knowledge Sources with the Web API (the “UI-Only” Rule That Isn’t)]]></title>
+        <id>https://365community.online/copilot-studio-adding-dataverse-knowledge-sources-with-the-web-api-the-ui-only-rule-that-isnt</id>
+        <link href="https://365community.online/copilot-studio-adding-dataverse-knowledge-sources-with-the-web-api-the-ui-only-rule-that-isnt"/>
+        <updated>2026-08-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Not long ago, I set out to build a support agent in Microsoft Copilot Studio for a product in the Dynamics ecosystem: the kind of agent that answers customer questions grounded in your content, meaning Dataverse knowledge articles plus a…]]></summary>
+        <author>
+            <name>Mariano Gomez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New EU rules for software: what you need to know.]]></title>
+        <id>https://365community.online/new-eu-rules-for-software-what-you-need-to-know</id>
+        <link href="https://365community.online/new-eu-rules-for-software-what-you-need-to-know"/>
+        <updated>2026-08-26T07:32:24.000Z</updated>
+        <summary type="html"><![CDATA[On December 9, 2026, EU Product Liability Directive (2024/2853) takes effect, officially classifying software and AI systems as products under … More]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Impact of AI 06: Why People Follow]]></title>
+        <id>https://365community.online/impact-of-ai-06-why-people-follow</id>
+        <link href="https://365community.online/impact-of-ai-06-why-people-follow"/>
+        <updated>2026-08-26T07:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Why People Follow explores how leadership is not simply a title or position, but the ability to create direction, confidence and capability around others. As AI accelerates individual capability, the article asks whether organisations are being equally deliberate about developing…]]></summary>
+        <author>
+            <name>Simon Owen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cost Management with Azure Resource Manager MCP]]></title>
+        <id>https://365community.online/cost-management-with-azure-resource-manager-mcp</id>
+        <link href="https://365community.online/cost-management-with-azure-resource-manager-mcp"/>
+        <updated>2026-08-26T02:17:28.000Z</updated>
+        <summary type="html"><![CDATA[Today, we’re announcing new Cost Management capabilities in the Azure Resource Management (ARM) MCP server. A core set of cost tools is now available by default, making it easier for AI agents to bring cost context into Azure workflows without…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s New in Microsoft EDU – Back to School August 2026]]></title>
+        <id>https://365community.online/whats-new-in-microsoft-edu-back-to-school-august-2026</id>
+        <link href="https://365community.online/whats-new-in-microsoft-edu-back-to-school-august-2026"/>
+        <updated>2026-08-26T01:46:26.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to our monthly update for Microsoft Education and thank you so much for being part of our growing community! Topics Teach in Microsoft Copilot updates Learning Zone updates Teams for Education updates Study and Learn agent updates Copilot Notebooks…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maia 200: Software-defined dataflow and all-Ethernet networking for efficient inference on Azure]]></title>
+        <id>https://365community.online/maia-200-software-defined-dataflow-and-all-ethernet-networking-for-efficient-inference-on-azure</id>
+        <link href="https://365community.online/maia-200-software-defined-dataflow-and-all-ethernet-networking-for-efficient-inference-on-azure"/>
+        <updated>2026-08-25T22:49:33.000Z</updated>
+        <summary type="html"><![CDATA[By Sherry Xu, Prashant Ranjan, Torsten Hoefler   As we enter the era of frontier-scale intelligence, the economics of AI are increasingly determined not by peak compute performance but by how efficiently an entire system can generate tokens at scale.…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fidesic: The Award-Winning AP Automation Platform Built for Multi-Entity Finance Teams]]></title>
         <id>https://erpsoftwareblog.com/?p=153540</id>
@@ -34,6 +125,26 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>Tim Lally</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instant Revocation of Service Principal Bearer Tokens with CAE]]></title>
+        <id>https://365community.online/instant-revocation-of-service-principal-bearer-tokens-with-cae</id>
+        <link href="https://365community.online/instant-revocation-of-service-principal-bearer-tokens-with-cae"/>
+        <updated>2026-08-25T22:06:21.000Z</updated>
+        <summary type="html"><![CDATA[Introduction Workload identities such as service principals are an important part of the attack surface in Entra: they are often used by critical automated processes, and they can carry privileged and sensitive permissions. The authentication flow used by these principals…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Retirement of Microsoft HPC Pack]]></title>
+        <id>https://365community.online/retirement-of-microsoft-hpc-pack</id>
+        <link href="https://365community.online/retirement-of-microsoft-hpc-pack"/>
+        <updated>2026-08-25T21:17:58.000Z</updated>
+        <summary type="html"><![CDATA[Overview Microsoft HPC Pack is a Windows‑based high‑performance computing (HPC) scheduler that enables customers to deploy, manage, and operate HPC workloads in on‑premises and hybrid environments. Since its original release, HPC Pack has supported a range of Windows‑centric HPC scenarios,…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
         </author>
     </entry>
     <entry>
@@ -67,6 +178,16 @@ With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summar
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Comparing Web Resources (JavaScript) Across Multiple Dataverse Environments Using a Console App]]></title>
+        <id>https://365community.online/comparing-web-resources-javascript-across-multiple-dataverse-environments-using-a-console-app</id>
+        <link href="https://365community.online/comparing-web-resources-javascript-across-multiple-dataverse-environments-using-a-console-app"/>
+        <updated>2026-08-25T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[We recently refactored a large JavaScript solution — replacing a number of deprecated methods with their supported equivalents, along with some performance improvements — the kind of change that touches a lot of files without changing what any of them…]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Two Expert Panels Explore Rental ERP and Field Service Solutions for Business Central]]></title>
         <id>https://erpsoftwareblog.com/?p=153509</id>
         <link href="https://erpsoftwareblog.com/2026/08/rental-erp-field-service-expert-panels-business-central/"/>
@@ -79,6 +200,17 @@ The Top 3 Reasons Financing Your Microsoft Accounting Software Can Benefit Your 
 Service Level Agreements For Accounting Software Users]]></summary>
         <author>
             <name>Sabre Limited</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One always-on roadmap: Dynamics 365, Power Platform, and Dataverse join the AI at Work roadmap]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=203026</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/08/25/one-always-on-roadmap-dynamics-365-power-platform-and-dataverse-join-the-ai-at-work-roadmap/"/>
+        <updated>2026-08-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how the move from release wave announcements to the AI at Work roadmap creates a single destination to discover, track, and plan innovations.
+The post One always-on roadmap: Dynamics 365, Power Platform, and Dataverse join the AI at Work roadmap appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Richard Riley</name>
         </author>
     </entry>
     <entry>
@@ -116041,17 +116173,6 @@ EDI Integration with ERP: What are Your Choices? (Explained with Scenarios)]]></
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Experience the new generation of financial analytics and reporting in Microsoft Dynamics 365 Business Central]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/08/27/experience-the-new-generation-of-financial-analytics-and-reporting-in-microsoft-dynamics-365-business-central/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/08/27/experience-the-new-generation-of-financial-analytics-and-reporting-in-microsoft-dynamics-365-business-central/"/>
-        <updated>2024-08-27T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Amid the growing demand on CFOs to catalyze growth, maintaining a holistic view of business performance has never been more crucial. 
-The post Experience the new generation of financial analytics and reporting in Microsoft Dynamics 365 Business Central appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Mike Morton</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Approach Security in Dynamics GP]]></title>
         <id>http://blog.encorebusiness.com/?p=6546</id>
         <link href="https://www.encorebusiness.com/blog/security-microsoft-dynamics-gp/"/>
@@ -116076,16 +116197,6 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>Dynamics Square USA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APIOps: ALM for Azure API Management]]></title>
-        <id>https://ariste.info/?p=8735</id>
-        <link href="https://ariste.info/2024/08/apiops-alm-for-azure-api-management/"/>
-        <updated>2024-08-27T06:44:09.000Z</updated>
-        <summary type="html"><![CDATA[In this post, I’m going to talk about APIOps, the DevOps techniques applied to Azure API Management, that allow us to automate the promotion of changes between API Management instances. It would be possible to attain a certain degree of automation using Bicep, but it wouldn’t apply to many elements of the APIM, and that’s… Click here to continue reading APIOps: ALM for Azure API Management]]></summary>
-        <author>
-            <name>Adrià Ariste Santacreu</name>
         </author>
     </entry>
     <entry>
@@ -116114,17 +116225,6 @@ Dynamics 365: Is Satya Nadella's Promise of "One Microsoft" Finally Here?
 The Benefits of Single-Stack E-Commerce for Dynamics ERPs]]></summary>
         <author>
             <name>Axtension</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Approve on the go with Dynamics 365 Approvals management]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/26/approve-on-the-go-with-dynamics-365-approvals-management/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/26/approve-on-the-go-with-dynamics-365-approvals-management/"/>
-        <updated>2024-08-26T21:12:30.000Z</updated>
-        <summary type="html"><![CDATA[We are thrilled to announce the public preview of Approvals management in Dynamics 365 in release 10.0.41. Approvals management is a mobile experience that unifies approval workflows across the Dynamics 365 product family.
-The post Approve on the go with Dynamics 365 Approvals management appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Johan Hoffman</name>
         </author>
     </entry>
     <entry>
