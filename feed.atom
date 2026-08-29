@@ -2,10 +2,150 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-08-28T08:09:53.042Z</updated>
+    <updated>2026-08-29T04:56:05.878Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Your Business Central CPQ Problem Might Not Need a New Platform]]></title>
+        <id>https://erpsoftwareblog.com/?p=153534</id>
+        <link href="https://erpsoftwareblog.com/2026/08/configurable-quotes-without-new-cpq-platform/"/>
+        <updated>2026-08-28T21:09:48.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Listen to the Podcast If you sell configurable products out of Microsoft Dynamics 365 Business Central, you have probably had some version of this conversation internally: sales wants faster, more […]
+The post Your Business Central CPQ Problem Might Not Need a New Platform appeared first on ERP Software Blog.
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Insight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Business Central at BCUG/NAVUG Summit in Phoenix
+Warehouse Insight Now Available for Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Model Isn’t Your AI Strategy – The System Around It Is]]></title>
+        <id>https://365community.online/the-model-isnt-your-ai-strategy-the-system-around-it-is</id>
+        <link href="https://365community.online/the-model-isnt-your-ai-strategy-the-system-around-it-is"/>
+        <updated>2026-08-28T17:58:27.000Z</updated>
+        <summary type="html"><![CDATA[This week's biggest AI signals all point in the same direction: models are changing faster than enterprises can standardise. The winners will own the harness, memory, governance and economics around them - not allegiance to a single model.]]></summary>
+        <author>
+            <name>John Lunn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eliminating The CRM Integration Tax: Predictable Dataverse Pipelines Without Per-Record Fees]]></title>
+        <id>https://erpsoftwareblog.com/?p=154064</id>
+        <link href="https://erpsoftwareblog.com/2026/08/eliminating-the-crm-integration-tax-predictable-dataverse-pipelines-without-per-record-fees/"/>
+        <updated>2026-08-28T17:30:48.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Dataverse pipelines become expensive when integration pricing follows record volume instead of engineering effort. A CRM program that adds new sales campaigns, service channels, field-service devices, or customer-history loads can […]
+The post Eliminating The CRM Integration Tax: Predictable Dataverse Pipelines Without Per-Record Fees appeared first on ERP Software Blog.
+The Best Way to Track Time in Microsoft Dynamics 365
+ASPIRE22 Aims to Provide Roadmap, Resources for Digital Journey
+6 Myths About Digital Solutions]]></summary>
+        <author>
+            <name>Bobby Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Faster, Smarter, Compliant: Transforming Regulatory Ops]]></title>
+        <id>https://erpsoftwareblog.com/?p=153819</id>
+        <link href="https://erpsoftwareblog.com/2026/08/faster-smarter-compliant-transforming-regulatory-ops/"/>
+        <updated>2026-08-28T17:26:04.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+How Digital Tools Strengthen Speed, Accuracy and Compliance Across the Life Sciences Value Chain In an industry where innovation moves faster than regulation, life sciences companies face increasing pressure to modernize the way they manage regulatory activities. […]
+The post Faster, Smarter, Compliant: Transforming Regulatory Ops appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Vffice Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Formula Manufacturers Should Bring to an ERP Demonstration]]></title>
+        <id>https://erpsoftwareblog.com/?p=154065</id>
+        <link href="https://erpsoftwareblog.com/2026/08/what-formula-manufacturers-should-bring-to-an-erp-demonstration/"/>
+        <updated>2026-08-28T17:16:29.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+An ERP demonstration should show more than a polished sequence built around the software vendor’s sample data. For formula-based manufacturers, it should reveal whether the system can support the way […]
+The post What Formula Manufacturers Should Bring to an ERP Demonstration appeared first on ERP Software Blog.
+Process, Discrete and Mixed Mode Manufacturing; 3 Business Issues - 3 Dynamic Solutions!
+Real Life Reasons Why Two Manufacturing Companies Replaced Peachtree with Microsoft Dynamics GP
+Stila Cosmetics Selects Dynamics ERP Over Oracle And Sage]]></summary>
+        <author>
+            <name>Sabre Limited</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central & CRM Modernization: 4 Decisions for Leaders]]></title>
+        <id>https://erpsoftwareblog.com/?p=154057</id>
+        <link href="https://erpsoftwareblog.com/2026/08/business-central-crm-modernization-4-decisions-for-leaders/"/>
+        <updated>2026-08-28T14:52:22.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Most CRM modernization projects are scoped as a platform decision and priced as one. The integration work becomes a line item somewhere near the bottom. Then the project finishes, the […]
+The post Business Central & CRM Modernization: 4 Decisions for Leaders appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>DStrategyTech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Microsoft Dynamics 365 Partner That Treats You Like a Priority, Not a Pipeline: Interview with Marlena Stark, Dexpro Dynamics]]></title>
+        <id>https://erpsoftwareblog.com/?p=154049</id>
+        <link href="https://erpsoftwareblog.com/2026/08/microsoft-dynamics-365-partner-dexpro-dynamics/"/>
+        <updated>2026-08-28T12:11:07.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+There is a version of the ERP partner relationship that most businesses know well: the contact form, the qualification call, the handoff to a sales rep, and somewhere down the […]
+The post A Microsoft Dynamics 365 Partner That Treats You Like a Priority, Not a Pipeline: Interview with Marlena Stark, Dexpro Dynamics appeared first on ERP Software Blog.
+What Happens When a Microsoft Dynamics 365 Business Central Implementation Becomes More Complex Than It Needs to Be?
+Dynamics 365 Business Central Pricing Made Simple: A Conversation with ProSize ERP
+Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve]]></summary>
+        <author>
+            <name>Anya Ciecierski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Studio | Real ALM for Agents (and the One Click That Breaks Your Pipeline)]]></title>
+        <id>https://365community.online/copilot-studio-real-alm-for-agents-and-the-one-click-that-breaks-your-pipeline</id>
+        <link href="https://365community.online/copilot-studio-real-alm-for-agents-and-the-one-click-that-breaks-your-pipeline"/>
+        <updated>2026-08-28T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In my previous Copilot Studio article, I was working on a support agent grounded in Dataverse knowledge articles and a custom table of curated case resolutions, and I showed how to wire those knowledge sources up with the Web API…]]></summary>
+        <author>
+            <name>Mariano Gomez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Going Global with Dynamics 365: How to Accept Local Payment Methods in Every Market]]></title>
+        <id>https://erpsoftwareblog.com/?p=153866</id>
+        <link href="https://erpsoftwareblog.com/2026/08/going-global-with-dynamics-365-how-to-accept-local-payment-methods-in-every-market/"/>
+        <updated>2026-08-28T09:11:31.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Most international expansion projects treat payments as a late-stage detail. For example, the ERP rollout gets the attention. Localisation, tax and logistics get plans. Meanwhile payments gets a line that […]
+The post Going Global with Dynamics 365: How to Accept Local Payment Methods in Every Market appeared first on ERP Software Blog.
+The Hidden Cost of “Working” Payment Processes in Business Central
+Why Payment Reconciliation in Dynamics 365 Finance Takes Longer Than It Should and How to Fix It
+5 Signs Your Payment Process Is Slowing Down Your Finance Team in Dynamics 365]]></summary>
+        <author>
+            <name>SensePass</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Traditional Thinking About Bank Reconciliation Is Holding Finance Teams Back]]></title>
+        <id>https://erpsoftwareblog.com/?p=154041</id>
+        <link href="https://erpsoftwareblog.com/2026/08/modern-bank-reconciliation-assumptions/"/>
+        <updated>2026-08-27T23:49:23.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+For years, bank reconciliation followed a relatively straightforward process. Transactions flowed through a handful of bank accounts, statements were downloaded at month-end, and finance teams matched activity against ERP records […]
+The post Why Traditional Thinking About Bank Reconciliation Is Holding Finance Teams Back appeared first on ERP Software Blog.
+How to Reduce Microsoft Licensing Costs
+When Business Central Customization Makes Sense
+5 Steps to a Successful Implementation of Your New Accounting System]]></summary>
+        <author>
+            <name>Nolan Business Applications</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zonal redundancy in API management Standard v2]]></title>
         <id>https://365community.online/zonal-redundancy-in-api-management-standard-v2</id>
@@ -116352,80 +116492,6 @@ Get More in the Cloud with Dynamics 365 Business Central
 Strategic Mindset for a Successful ERP implementation]]></summary>
         <author>
             <name>Alta Vista Technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing: Copilot Page in Power Platform Admin Center (Preview)]]></title>
-        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/introducing-copilot-page-in-power-platform-admin-center-preview/</id>
-        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/introducing-copilot-page-in-power-platform-admin-center-preview/"/>
-        <updated>2024-08-29T16:10:43.000Z</updated>
-        <summary type="html"><![CDATA[As Copilots and generative AI features light up across Microsoft Power Platform, admins increasingly need help governing these features. To address these needs, we are introducing the preview of the Copilot page in the Power Platform Admin Center, a centralized location for readiness resources and documentation, Copilot user activity, and unified Copilot settings. The Copilot
-The post Introducing: Copilot Page in Power Platform Admin Center (Preview) appeared first on Microsoft Power Platform Blog.]]></summary>
-        <author>
-            <name>Caitlin Shaw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transforming ERP, and the speed of business, with generative AI]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/08/29/transforming-erp-and-the-speed-of-business-with-generative-ai/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/08/29/transforming-erp-and-the-speed-of-business-with-generative-ai/"/>
-        <updated>2024-08-29T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise resource planning (ERP) platforms were designed to help integrate the fragmented processes that comprise the operation of a large enterprise. But the way we do business keeps fundamentally changing. New business models disrupt the way companies sell products and services, blurring industry lines and transforming customer experiences.
-The post Transforming ERP, and the speed of business, with generative AI appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Francois van Splunder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elevating experiences with AI, from productivity to personalization]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/08/29/elevating-experiences-with-ai-from-productivity-to-personalization/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/08/29/elevating-experiences-with-ai-from-productivity-to-personalization/"/>
-        <updated>2024-08-29T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this blog post, we’re going to focus on the third item: elevating customer and employee experiences by showing how AI-enabled CRM platforms help increase productivity and provide unprecedented levels of personalized service across three key business functions: marketing, sales, and customer service.
-The post Elevating experiences with AI, from productivity to personalization  appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Jayme Mesecher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How PLM ERP Software Integration Solves the Top 6 Challenges in ETO Manufacturing]]></title>
-        <id>https://www.encorebusiness.com/?p=63548</id>
-        <link href="https://www.encorebusiness.com/blog/plm-erp-integration-eto-manufacturing/"/>
-        <updated>2024-08-29T14:30:02.000Z</updated>
-        <summary type="html"><![CDATA[How PLM ERP Software Integration Solves the Top 6 Challenges in ETO Manufacturing
-From digital transformation to fast-moving supply chain changes, Engineer-to-Order (ETO) manufacturers are constantly navigating unforeseen obstacles. Although most of these challenges are beyond a manufacturing company’s direct control, there are many ways to improve internal operations and achieve greater agility, flexibility, and success. Integrating Product Lifecycle Management (PLM) and cloud-based Enterprise Resource Planning (ERP) software...
-Read Next: 18 Warning Signs Your Business Need the Cloud
-This post first appeared first on Encore Business Solutions.]]></summary>
-        <author>
-            <name>The Encore Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What, No Coffee Stains? SmartBOL Removes All Bill of Lading Paperwork]]></title>
-        <id>https://erpsoftwareblog.com/?p=118068</id>
-        <link href="https://erpsoftwareblog.com/2024/08/what-no-coffee-stains-smartbol-removes-all-bill-of-lading-paperwork/"/>
-        <updated>2024-08-29T11:34:06.000Z</updated>
-        <summary type="html"><![CDATA[Dynamics Creates Bill of Lading Paperwork & SmartBOL, together with Dynamics, Converts BOL Paper/Signatures to Data 1. Reducing Costs: SmartBOL Cloud saves on printing and hardware costs by eliminating unnecessary […]
-The post What, No Coffee Stains? SmartBOL Removes All Bill of Lading Paperwork appeared first on ERP Software Blog.
-Microsoft NAV 2016 Version Upgrade! Never Worry!!
-How to Upgrade Reporting, Budgeting, Dashboards, and Data Warehouse Processes with CPM in the Future
-Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting]]></summary>
-        <author>
-            <name>SmartBOL</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Dynamics ERP: Transforming Business Efficiency]]></title>
-        <id>https://erpsoftwareblog.com/?p=118052</id>
-        <link href="https://erpsoftwareblog.com/2024/08/microsoft-dynamics-erp/"/>
-        <updated>2024-08-29T08:30:31.000Z</updated>
-        <summary type="html"><![CDATA[In today’s rapidly evolving business landscape, having an integrated system that streamlines operations and enhances efficiency is crucial for maintaining a competitive edge. Microsoft Dynamics ERP, particularly through its flagship […]
-The post Microsoft Dynamics ERP: Transforming Business Efficiency appeared first on ERP Software Blog.
-Dynamics 365: a seamless fit between ERP and CRM
-Four Benefits of Microsoft Dynamics ERP Cloud Computing
-Taking Microsoft Dynamics GP to the Cloud]]></summary>
-        <author>
-            <name>Dynamics Square USA</name>
         </author>
     </entry>
     <entry>
