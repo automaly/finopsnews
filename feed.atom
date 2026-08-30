@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-08-29T04:56:05.878Z</updated>
+    <updated>2026-08-30T02:40:53.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Title Plan Update – August 28, 2026]]></title>
+        <id>https://365community.online/title-plan-update-august-28-2026</id>
+        <link href="https://365community.online/title-plan-update-august-28-2026"/>
+        <updated>2026-08-28T23:37:25.000Z</updated>
+        <summary type="html"><![CDATA[📁August 28, 2026 - Title Plan Now Available Access the latest Instructor-Led Training (ILT) updates anytime at http://aka.ms/Courseware_Title_Plan to ensure you're always working from the most current version. 📌 Reminder: To help you stay informed more quickly and consistently, we’ve moved to a…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security Review for Microsoft Edge version 152]]></title>
+        <id>https://365community.online/security-review-for-microsoft-edge-version-152</id>
+        <link href="https://365community.online/security-review-for-microsoft-edge-version-152"/>
+        <updated>2026-08-28T21:22:52.000Z</updated>
+        <summary type="html"><![CDATA[We have reviewed the new settings in Microsoft Edge version 152 and determined that there are no additional security settings that require enforcement. The Microsoft Edge version 151 security baseline continues to be our recommended configuration which can be downloaded…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Your Business Central CPQ Problem Might Not Need a New Platform]]></title>
         <id>https://erpsoftwareblog.com/?p=153534</id>
@@ -19,6 +39,56 @@ Insight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Bu
 Warehouse Insight Now Available for Dynamics 365 Business Central]]></summary>
         <author>
             <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D365 Hacks: Custom Lookups]]></title>
+        <id>https://365community.online/d365-hacks-custom-lookups</id>
+        <link href="https://365community.online/d365-hacks-custom-lookups"/>
+        <updated>2026-08-28T21:02:05.000Z</updated>
+        <summary type="html"><![CDATA[You got the Dynamics 365 project. The requirements are clear. More or less. In modern enterprise solutions, it is quite common to have a rich data model with a lot of different tables entwined with each other in various ways.…]]></summary>
+        <author>
+            <name>Angeliki Patsiavou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grow your sales on Marketplace: App Advisor helps you understand improvements to negotiated deals]]></title>
+        <id>https://365community.online/grow-your-sales-on-marketplace-app-advisor-helps-you-understand-improvements-to-negotiated-deals</id>
+        <link href="https://365community.online/grow-your-sales-on-marketplace-app-advisor-helps-you-understand-improvements-to-negotiated-deals"/>
+        <updated>2026-08-28T20:19:56.000Z</updated>
+        <summary type="html"><![CDATA[Want to dive into the details of negotiated deals and how to create them? Head to App Advisor: https://aka.ms/GrowMySales Not all customers buy apps in the same way. Some need negotiated pricing. Others have specific contract or billing requirements. Some…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advertised gateway prefixes in Azure]]></title>
+        <id>https://365community.online/advertised-gateway-prefixes-in-azure</id>
+        <link href="https://365community.online/advertised-gateway-prefixes-in-azure"/>
+        <updated>2026-08-28T20:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction Large Azure hub-and-spoke environments can advertise a significant number of routes toward on-premises networks. By default, Azure VPN Gateway and ExpressRoute Gateway advertise the address spaces of the hub virtual network and the address spaces of peered spoke virtual…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More Performance, Same Price: Azure Postgres V3 & V5 Compute Compared]]></title>
+        <id>https://365community.online/more-performance-same-price-azure-postgres-v3-v5-compute-compared</id>
+        <link href="https://365community.online/more-performance-same-price-azure-postgres-v3-v5-compute-compared"/>
+        <updated>2026-08-28T19:13:10.000Z</updated>
+        <summary type="html"><![CDATA[Azure customers can select newer compute options and scale resources in real time with minimal disruption to business operations. This flexibility allows you to scale capacity as demand changes, match compute and memory profiles to each workload, and test new…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mssql-python 1.14.0: Faster Parameter Binding, Safer Errors, Correct Timeouts]]></title>
+        <id>https://365community.online/mssql-python-1-14-0-faster-parameter-binding-safer-errors-correct-timeouts</id>
+        <link href="https://365community.online/mssql-python-1-14-0-faster-parameter-binding-safer-errors-correct-timeouts"/>
+        <updated>2026-08-28T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[mssql-python 1.14.0 is now available on PyPI. This release moves the standard parameter detection and execution path into native C++, improving throughput for wide parameterized statements and batched workloads. It also corrects connection timeout behavior, prevents Decimal conversion errors from exposing…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
         </author>
     </entry>
     <entry>

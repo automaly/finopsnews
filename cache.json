@@ -42721,6 +42721,76 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/title-plan-update-august-28-2026",
+          "author": "Microsoft Tech Community",
+          "description": "📁August 28, 2026 - Title Plan Now Available Access the latest Instructor-Led Training (ILT) updates anytime at http://aka.ms/Courseware_Title_Plan to ensure you're always working from the most current version. 📌 Reminder: To help you stay informed more quickly and consistently, we’ve moved to a…",
+          "link": "https://365community.online/title-plan-update-august-28-2026",
+          "publishedOn": "2026-08-28T23:37:25.000Z",
+          "wordCount": 1527,
+          "title": "Title Plan Update – August 28, 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/security-review-for-microsoft-edge-version-152",
+          "author": "Microsoft Tech Community",
+          "description": "We have reviewed the new settings in Microsoft Edge version 152 and determined that there are no additional security settings that require enforcement. The Microsoft Edge version 151 security baseline continues to be our recommended configuration which can be downloaded…",
+          "link": "https://365community.online/security-review-for-microsoft-edge-version-152",
+          "publishedOn": "2026-08-28T21:22:52.000Z",
+          "wordCount": 1792,
+          "title": "Security Review for Microsoft Edge version 152",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/d365-hacks-custom-lookups",
+          "author": "Angeliki Patsiavou",
+          "description": "You got the Dynamics 365 project. The requirements are clear. More or less. In modern enterprise solutions, it is quite common to have a rich data model with a lot of different tables entwined with each other in various ways.…",
+          "link": "https://365community.online/d365-hacks-custom-lookups",
+          "publishedOn": "2026-08-28T21:02:05.000Z",
+          "wordCount": 2344,
+          "title": "D365 Hacks: Custom Lookups",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/grow-your-sales-on-marketplace-app-advisor-helps-you-understand-improvements-to-negotiated-deals",
+          "author": "Microsoft Tech Community",
+          "description": "Want to dive into the details of negotiated deals and how to create them? Head to App Advisor: https://aka.ms/GrowMySales Not all customers buy apps in the same way. Some need negotiated pricing. Others have specific contract or billing requirements. Some…",
+          "link": "https://365community.online/grow-your-sales-on-marketplace-app-advisor-helps-you-understand-improvements-to-negotiated-deals",
+          "publishedOn": "2026-08-28T20:19:56.000Z",
+          "wordCount": 1956,
+          "title": "Grow your sales on Marketplace: App Advisor helps you understand improvements to negotiated deals",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/advertised-gateway-prefixes-in-azure",
+          "author": "Microsoft Tech Community",
+          "description": "Introduction Large Azure hub-and-spoke environments can advertise a significant number of routes toward on-premises networks. By default, Azure VPN Gateway and ExpressRoute Gateway advertise the address spaces of the hub virtual network and the address spaces of peered spoke virtual…",
+          "link": "https://365community.online/advertised-gateway-prefixes-in-azure",
+          "publishedOn": "2026-08-28T20:09:00.000Z",
+          "wordCount": 2443,
+          "title": "Advertised gateway prefixes in Azure",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/more-performance-same-price-azure-postgres-v3-v5-compute-compared",
+          "author": "Microsoft Tech Community",
+          "description": "Azure customers can select newer compute options and scale resources in real time with minimal disruption to business operations. This flexibility allows you to scale capacity as demand changes, match compute and memory profiles to each workload, and test new…",
+          "link": "https://365community.online/more-performance-same-price-azure-postgres-v3-v5-compute-compared",
+          "publishedOn": "2026-08-28T19:13:10.000Z",
+          "wordCount": 2492,
+          "title": "More Performance, Same Price: Azure Postgres V3 & V5 Compute Compared",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/mssql-python-1-14-0-faster-parameter-binding-safer-errors-correct-timeouts",
+          "author": "Microsoft Tech Community",
+          "description": "mssql-python 1.14.0 is now available on PyPI. This release moves the standard parameter detection and execution path into native C++, improving throughput for wide parameterized statements and batched workloads. It also corrects connection timeout behavior, prevents Decimal conversion errors from exposing…",
+          "link": "https://365community.online/mssql-python-1-14-0-faster-parameter-binding-safer-errors-correct-timeouts",
+          "publishedOn": "2026-08-28T19:00:00.000Z",
+          "wordCount": 2399,
+          "title": "mssql-python 1.14.0: Faster Parameter Binding, Safer Errors, Correct Timeouts",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/the-model-isnt-your-ai-strategy-the-system-around-it-is",
           "author": "John Lunn",
           "description": "This week's biggest AI signals all point in the same direction: models are changing faster than enterprises can standardise. The winners will own the harness, memory, governance and economics around them - not allegiance to a single model.",
