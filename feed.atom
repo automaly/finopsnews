@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-08-30T02:40:53.754Z</updated>
+    <updated>2026-08-31T02:34:30.860Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Is Retiring Dynamics 365 Release Waves: What ERP Teams Should Do Next]]></title>
+        <id>https://erpsoftwareblog.com/?p=154096</id>
+        <link href="https://erpsoftwareblog.com/2026/08/microsoft-is-retiring-dynamics-365-release-waves-what-erp-teams-should-do-next/"/>
+        <updated>2026-08-29T15:44:02.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+On August 25, Microsoft announced a major change to how it communicates upcoming Dynamics 365, Power Platform, and Dataverse capabilities. Beginning in September 2026, Microsoft will publish new capabilities continuously […]
+The post Microsoft Is Retiring Dynamics 365 Release Waves: What ERP Teams Should Do Next appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>The TestMart</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STAIRS Is Live: What the Ombudsman’s 2026 Report Means for Every Dynamics 365 Product Owner]]></title>
+        <id>https://365community.online/stairs-is-live-what-the-ombudsmans-2026-report-means-for-every-dynamics-365-product-owner</id>
+        <link href="https://365community.online/stairs-is-live-what-the-ombudsmans-2026-report-means-for-every-dynamics-365-product-owner"/>
+        <updated>2026-08-29T08:43:36.000Z</updated>
+        <summary type="html"><![CDATA[The Housing Ombudsman’s July 2026 STAIRS (The Social Tenant Access to Information Requirements) consultation analysis report is officially out, and if you manage Microsoft Dynamics 365 or Power Platform for a housing association, the operational landscape just shifted. The Breakdown:…]]></summary>
+        <author>
+            <name>Chris Roberts</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Title Plan Update – August 28, 2026]]></title>
         <id>https://365community.online/title-plan-update-august-28-2026</id>
@@ -116427,141 +116452,6 @@ With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summar
 The post Microsoft Power Platform Stories appeared first on Microsoft Power Platform Blog.]]></summary>
         <author>
             <name>Sameer Bhangar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dual-write setup from Lifecycle Services fails at Application step]]></title>
-        <id>https://alexvoy.blogspot.com/2024/08/dual-write-setup-from-lifecycle.html</id>
-        <link href="https://alexvoy.blogspot.com/2024/08/dual-write-setup-from-lifecycle.html"/>
-        <updated>2024-08-30T21:45:00.002Z</updated>
-        <summary type="html"><![CDATA[If you receive the issue with applying Dual-write for your D365FO environment following the standard procedure, you may need just to change one database parameter.
-
-
-
-
-
- Open SQL MS and switch this flip to True and keep default values for your database.
-
-
-Now you can resume the process.]]></summary>
-        <author>
-            <name>Adventures in Axapta world</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to get back Import users button in D365FO]]></title>
-        <id>https://alexvoy.blogspot.com/2024/08/how-to-get-back-import-users-button-in.html</id>
-        <link href="https://alexvoy.blogspot.com/2024/08/how-to-get-back-import-users-button-in.html"/>
-        <updated>2024-08-30T21:03:00.002Z</updated>
-        <summary type="html"><![CDATA[You may start experiencing the following issue with button Import users.
-
-
-
-
-
-
-It happens because Microsoft changed their approach to devboxes settings:
-
-
-As of November 15, 2023, certificates in your Microsoft Entra tenant are no longer installed in new one-box development environments by default. 
-
-
-You can find more detail on how to install a certificate in this article, but we can use a shortcut using D365fo.tools.
-
-
-Here are the steps:
-    
-
-
-   1) Go to Azure portal and select app registration and create a new one (name the app to be the same as the environment name & leave settings at default) 
-
-
-   2) The app registration needs to have the following: 
-
-
-       a) 2 reply URLs > https://<fno-url> & https://<fno-url>/oauth 
-
-
-       b) add the following API permissions to the App registration: 
-
-
-
-
-
-
-
-Grant above permissions.
-3) On the VM for the environment, open PowerShell 
-   4) Run the following commands: 
-        a) Install-Module D365fo.tools, and accept all the prompts 
-        b) New-D365EntraIntegration -ClientId <client-id> (client-id is the app registration id that was created) 
-   5) The above command will save a certificate, which then needs to be uploaded to the app registration that was created]]></summary>
-        <author>
-            <name>Adventures in Axapta world</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copilot for Dynamics 365 Commerce revolutionizes retail with AI]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/30/copilot-for-dynamics-365-commerce-revolutionizes-retail-with-ai/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2024/08/30/copilot-for-dynamics-365-commerce-revolutionizes-retail-with-ai/"/>
-        <updated>2024-08-30T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover how Copilot for Dynamics 365 Commerce can help you deliver personalized customer experiences, optimize product management, and streamline retail operations for store associates, managers, and back-office staff with AI.
-The post Copilot for Dynamics 365 Commerce revolutionizes retail with AI appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Ashish Harchwani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Rise of Generative AI in ERP: Automating Tasks and Enhancing Decision-Making]]></title>
-        <id>https://erpsoftwareblog.com/?p=118125</id>
-        <link href="https://erpsoftwareblog.com/2024/08/the-rise-of-generative-ai-in-erp-automating-tasks-and-enhancing-decision-making/"/>
-        <updated>2024-08-30T11:23:25.000Z</updated>
-        <summary type="html"><![CDATA[In 2024, the enterprise resource planning (ERP) industry stands at a major crossroads, driven by the rapid advancements in artificial intelligence (AI). As businesses strive for greater efficiency, agility, and […]
-The post The Rise of Generative AI in ERP: Automating Tasks and Enhancing Decision-Making  appeared first on ERP Software Blog.
-How will Artificial Intelligence (AI) Impact ERP Software?
-Why Artificial Intelligence is not as dangerous as you think
-Dynamics Copilot: How Six AI Experts Save Hours Every Day]]></summary>
-        <author>
-            <name>Dynamics Square USA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Health and Safety with Dynamics 365 Human Resources]]></title>
-        <id>https://paragchapre.com/?p=13249</id>
-        <link href="https://paragchapre.com/health-and-safety-dynamics-365-human-resources/"/>
-        <updated>2024-08-30T07:02:51.000Z</updated>
-        <summary type="html"><![CDATA[In the evolving business environment, maintaining occupational health and safety (OHS) is critical for safeguarding employees and ensuring a productive workplace. With Dynamics 365 Human Resources, organizations can effectively streamline and manage their OHS processes, creating a safer work environment. Streamlining Safety Management with Dynamics 365 Human Resources Dynamics 365 Human Resources offers a powerful […]
-The post Health and Safety with Dynamics 365 Human Resources appeared first on Parag Chapre.]]></summary>
-        <author>
-            <name>paragchapre@gmail.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tips on Synchronizing Master Data in Dynamics 365 Business Central]]></title>
-        <id>https://erpsoftwareblog.com/?p=118104</id>
-        <link href="https://erpsoftwareblog.com/2024/08/tips-on-synchronizing-master-data-in-dynamics-365-business-central/"/>
-        <updated>2024-08-29T20:07:38.000Z</updated>
-        <summary type="html"><![CDATA[In a previous blog post, I’ve covered how to sync master data across companies in Microsoft Dynamics 365 Business Central. Here are a few more tips that may be helpful […]
-The post Tips on Synchronizing Master Data in Dynamics 365 Business Central appeared first on ERP Software Blog.
-An Overview of Purchase Order in Microsoft Dynamics 365 Business Central
-Overcoming Challenges to Integration
-How to Create Purchase Credit Memo in Business Central]]></summary>
-        <author>
-            <name>Jason Ochipa, Tensoft Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Partner with Alta Vista for Your Dynamics 365 Business Central Implementation?]]></title>
-        <id>https://erpsoftwareblog.com/?p=117674</id>
-        <link href="https://erpsoftwareblog.com/2024/08/why-partner-with-alta-vista-for-your-dynamics-365-business-central-implementation/"/>
-        <updated>2024-08-29T18:41:48.000Z</updated>
-        <summary type="html"><![CDATA[Implementing Microsoft Dynamics 365 Business Central is more than just installing software—it’s about transforming the way your business operates. To truly benefit from Business Central, it needs to be tailored […]
-The post Why Partner with Alta Vista for Your Dynamics 365 Business Central Implementation? appeared first on ERP Software Blog.
-Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
-Get More in the Cloud with Dynamics 365 Business Central
-Strategic Mindset for a Successful ERP implementation]]></summary>
-        <author>
-            <name>Alta Vista Technology</name>
         </author>
     </entry>
     <entry>
