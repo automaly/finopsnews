@@ -42701,6 +42701,46 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/ai-in-dynamics-365-ce-applications-transforming-solution-architecting",
+          "author": "Priyesh Wagh",
+          "description": "Here's how Dynamics 365 CE applications are starting to take AI-route, big time. Let's get onboarded well before it all takes off really quick. The post AI in Dynamics 365 CE Applications: Transforming Solution Architecting appeared first on D365 Demystified.",
+          "link": "https://365community.online/ai-in-dynamics-365-ce-applications-transforming-solution-architecting",
+          "publishedOn": "2026-08-31T14:32:48.000Z",
+          "wordCount": 2086,
+          "title": "AI in Dynamics 365 CE Applications: Transforming Solution Architecting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/copilot-studio-turning-war-stories-into-guardrails-introducing-pac-copilot-kit",
+          "author": "Mariano Gomez",
+          "description": "Let me start with the announcement, because some of you came for the tool and not the story, and that is perfectly fine. Today I am releasing pac-copilot-kit, open source under MIT at github.com/dgpblogster/pac-copilot-kit. It is a paved-road toolkit for…",
+          "link": "https://365community.online/copilot-studio-turning-war-stories-into-guardrails-introducing-pac-copilot-kit",
+          "publishedOn": "2026-08-31T11:00:00.000Z",
+          "wordCount": 3109,
+          "title": "Copilot Studio | Turning War Stories into Guardrails: Introducing pac-copilot-kit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/advanced-windows-firewall",
+          "author": "Microsoft Tech Community",
+          "description": "If you administer Windows, you’re already aware of Windows Firewall. You might use it to allow an application, open a port, or block unwanted inbound traffic. But those familiar tasks only scratch the surface of what it can do. The…",
+          "link": "https://365community.online/advanced-windows-firewall",
+          "publishedOn": "2026-08-30T22:38:47.000Z",
+          "wordCount": 2195,
+          "title": "Advanced Windows Firewall",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/lessons-learned-55210-lines-in-an-ssms-msal-trace-that-tell-you-almost-everything-you-need-to-know",
+          "author": "Microsoft Tech Community",
+          "description": "In one of our support cases, a customer reported higher-than-expected connection times when connecting from SQL Server Management Studio (SSMS) to Azure SQL Database using Microsoft Entra authentication. The behavior was also not completely consistent. Sometimes the connection required interaction with…",
+          "link": "https://365community.online/lessons-learned-55210-lines-in-an-ssms-msal-trace-that-tell-you-almost-everything-you-need-to-know",
+          "publishedOn": "2026-08-30T09:16:40.000Z",
+          "wordCount": 3791,
+          "title": "Lessons Learned #552:10 Lines in an SSMS MSAL Trace That Tell You Almost Everything You Need to Know",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/stairs-is-live-what-the-ombudsmans-2026-report-means-for-every-dynamics-365-product-owner",
           "author": "Chris Roberts",
           "description": "The Housing Ombudsman’s July 2026 STAIRS (The Social Tenant Access to Information Requirements) consultation analysis report is officially out, and if you manage Microsoft Dynamics 365 or Power Platform for a housing association, the operational landscape just shifted. The Breakdown:…",
