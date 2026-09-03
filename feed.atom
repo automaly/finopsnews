@@ -2,10 +2,140 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-09-02T02:08:45.207Z</updated>
+    <updated>2026-09-03T02:14:58.161Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Migrate Dynamics GP SOP-to-POP Links to Business Central for Free]]></title>
+        <id>https://erpsoftwareblog.com/?p=154238</id>
+        <link href="https://erpsoftwareblog.com/2026/09/dynamics-gp-sop-to-pop-links-business-central-migration/"/>
+        <updated>2026-09-02T20:10:46.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Dynamics GP's SOP-to-POP link ties a sales order to the purchase order that fulfills it, and it has no direct equivalent in Microsoft Dynamics 365 Business Central. Business Central tracks […]
+The post How to Migrate Dynamics GP SOP-to-POP Links to Business Central for Free appeared first on ERP Software Blog.
+Warehouse Insight Now Available for Dynamics 365 Business Central
+Optimize your Distribution Process with Advanced Warehouse Management System
+How to Choose a Mobile Computer to use with Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embedded Payments for Regulated Industries: What Business Central Teams Need to Get Right]]></title>
+        <id>https://erpsoftwareblog.com/?p=154273</id>
+        <link href="https://erpsoftwareblog.com/2026/09/embedded-payments-for-regulated-industries-what-business-central-teams-need-to-get-right/"/>
+        <updated>2026-09-02T20:06:44.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In a healthcare billing office or a financial services back office, a payment failure is never just a payment failure. It can trigger a compliance review, a client audit, or […]
+The post Embedded Payments for Regulated Industries: What Business Central Teams Need to Get Right appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>USTPay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Warehouse Management System for Ecommerce: Complete Guide]]></title>
+        <id>https://erpsoftwareblog.com/?p=154269</id>
+        <link href="https://erpsoftwareblog.com/2026/09/warehouse-management-system-for-ecommerce-complete-guide/"/>
+        <updated>2026-09-02T19:38:36.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Online orders arrive in a very different shape than wholesale orders. Instead of ten pallets going to three stores, you get four thousand single-unit parcels going to four thousand doorsteps […]
+The post Warehouse Management System for Ecommerce: Complete Guide appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Andrew Scotts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Five Things That Break During a Legacy ERP Data Migration, and How to Avoid Them]]></title>
+        <id>https://erpsoftwareblog.com/?p=154259</id>
+        <link href="https://erpsoftwareblog.com/2026/09/five-things-break-legacy-erp-data-migration/"/>
+        <updated>2026-09-02T12:42:36.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Introduction: “Migration Complete” does not mean “Business Ready” A legacy ERP migration rarely fails due to a single dramatic error message. More often, it fails quietly: an item loses its […]
+The post Five Things That Break During a Legacy ERP Data Migration, and How to Avoid Them appeared first on ERP Software Blog.
+How to Reduce Microsoft Licensing Costs
+When Business Central Customization Makes Sense
+5 Steps to a Successful Implementation of Your New Accounting System]]></summary>
+        <author>
+            <name>LevelShift</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Reasons You Might Need a Better Project Solution for Dynamics 365 Finance]]></title>
+        <id>https://erpsoftwareblog.com/?p=154230</id>
+        <link href="https://erpsoftwareblog.com/2026/09/10-reasons-you-might-need-a-better-project-solution-for-dynamics-365-finance/"/>
+        <updated>2026-09-02T12:22:25.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Microsoft Dynamics 365 Finance can be a strong ERP foundation for project-based companies. But an ERP foundation is not the same thing as a complete project solution. Project-centric companies need […]
+The post 10 Reasons You Might Need a Better Project Solution for Dynamics 365 Finance appeared first on ERP Software Blog.
+What Makes PlanAutomate the Best Project Management Solution for Microsoft Dynamics 365 Finance?
+Dynamics 365 Finance Project Management and Accounting vs Project Operations: What Project-Based Companies Should Know
+Project Controls in Microsoft Dynamics: What Buyers Should Look For]]></summary>
+        <author>
+            <name>Adeaca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Headless ERP? Benefits, Use Cases & Key Advantages]]></title>
+        <id>https://erpsoftwareblog.com/?p=154180</id>
+        <link href="https://erpsoftwareblog.com/2026/09/what-is-headless-erp-benefits-use-cases-key-advantages/"/>
+        <updated>2026-09-02T10:52:03.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Introduction: The Shift Beyond Monolithic ERP ERP’s role is changing. It is not being eliminated. Instead, its architectural philosophy is shifting. This shift is driven by constant disruption in the […]
+The post What Is Headless ERP? Benefits, Use Cases & Key Advantages appeared first on ERP Software Blog.
+Ten Reasons To Implement Dynamics GP In The New Year
+Are Your Prices Hurting Your Bottom Line? Microsoft Dynamics GP Project Accounting Module Can Help!
+Why Microsoft Dynamics GP Is The "People's Choice"!]]></summary>
+        <author>
+            <name>Intech Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Payment Gateway for Dynamics 365: A 2026 Comparison]]></title>
+        <id>https://erpsoftwareblog.com/?p=154255</id>
+        <link href="https://erpsoftwareblog.com/2026/09/best-payment-gateway-for-dynamics-365-a-2026-comparison/"/>
+        <updated>2026-09-02T10:42:06.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Short answer: there is no single best payment gateway for Dynamics 365, because the right choice depends on what you sell, where, and through which channels. However, the options separate […]
+The post Best Payment Gateway for Dynamics 365: A 2026 Comparison appeared first on ERP Software Blog.
+How to Audit Payment Processing Costs in Dynamics 365 Environment
+Why We Care So Much About Your Business Central Journey
+5 Signs Your Payment Process Is Slowing Down Your Finance Team in Dynamics 365]]></summary>
+        <author>
+            <name>SensePass</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Vendor Collaboration in Dynamics 365 Gets Your Team Out of the Middle]]></title>
+        <id>https://erpsoftwareblog.com/?p=154247</id>
+        <link href="https://erpsoftwareblog.com/2026/09/vendor-collaboration-in-dynamics-365/"/>
+        <updated>2026-09-02T08:09:31.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+If your procurement team spends most of the day forwarding emails, chasing purchase order confirmations, and updating vendor records on someone else's behalf, more headcount is not the fix. The […]
+The post How Vendor Collaboration in Dynamics 365 Gets Your Team Out of the Middle appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dan Kosanovic, Reach International</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Impact of AI 07 – Where does judgement come from?]]></title>
+        <id>https://365community.online/impact-of-ai-07-where-does-judgement-come-from</id>
+        <link href="https://365community.online/impact-of-ai-07-where-does-judgement-come-from"/>
+        <updated>2026-09-02T07:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Where does judgement actually come from? A look at the industry's answer — the Forward Deployed Engineer — and why buying judgement doesn't mean owning it.]]></summary>
+        <author>
+            <name>Simon Owen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Silent Margin Killer in Food Manufacturing: Shelf‑Life Blind Spots]]></title>
         <id>https://erpsoftwareblog.com/?p=150667</id>
@@ -116841,100 +116971,6 @@ Which Microsoft Dynamics 365 Sales Solution suitable for your business?
 CRM Solution for Rental Companies: The Value Dynamics 365 Sales Adds to D365 F&SCM]]></summary>
         <author>
             <name>Dynamics Square USA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What License Do SysAdmins Need in D365FO?]]></title>
-        <id>https://alexdmeyer.com/?p=3310</id>
-        <link href="https://alexdmeyer.com/2024/09/03/what-license-do-sysadmins-need-in-d365fo/"/>
-        <updated>2024-09-03T13:57:10.000Z</updated>
-        <summary type="html"><![CDATA[Photo designed by FreePik Licensing in Dynamics 365 is complex, licensing in D365FO is even more difficult. I’ve written numerous articles in the past on licensing but one question I get quite often is ‘What License Do SysAdmins Need in D365FO?’ Let’s take a look at what the Dynamics 365 Licensing Guide says and if […]
-The post What License Do SysAdmins Need in D365FO? appeared first on Alex Meyer.]]></summary>
-        <author>
-            <name>Alex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Rushing To Move From Dynamics GP To D365 Business Central Might Not Be The Best Decision]]></title>
-        <id>https://erpsoftwareblog.com/?p=118145</id>
-        <link href="https://erpsoftwareblog.com/2024/09/should-i-upgrade-to-d365-business-central-from-dynamics-gp/"/>
-        <updated>2024-09-03T13:50:23.000Z</updated>
-        <summary type="html"><![CDATA[What to Consider When Moving from Dynamics GP to D365 Business Central In recent years, the shift towards cloud-based solutions has prompted many businesses using Dynamics GP to consider migrating […]
-The post Why Rushing To Move From Dynamics GP To D365 Business Central Might Not Be The Best Decision appeared first on ERP Software Blog.
-From Payroll to Procure to Pay - Here's how to enable your remote workers
-How to Reduce the Functional Distance Between the Central and Branch Offices
-Year End is Approaching; Are You Ready?]]></summary>
-        <author>
-            <name>EthoTech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Five Examples of D365 F&O Implementation Challenges (Part 2)]]></title>
-        <id>https://erpsoftwareblog.com/?p=117961</id>
-        <link href="https://erpsoftwareblog.com/2024/09/five-examples-of-d365-fo-implementation-challenges-part-2/"/>
-        <updated>2024-09-03T13:00:42.000Z</updated>
-        <summary type="html"><![CDATA[Unstable business processes: Any IT system can only be as effective as the business processes it supports, and it won't magically improve them.
-The post Five Examples of D365 F&O Implementation Challenges (Part 2) appeared first on ERP Software Blog.
-The Product-as-a-Service advantage — a potential game-changer for equipment manufacturers
-Register Now for JourneyTEAM’s 2021 Business Technology Summit
-EDI Integration with ERP: What are Your Choices? (Explained with Scenarios)]]></summary>
-        <author>
-            <name>IT Fandango</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Consignment Vendor Inventory in Dynamics 365 for Finance & Operations]]></title>
-        <id>https://www.encorebusiness.com/?p=38033</id>
-        <link href="https://www.encorebusiness.com/blog/consignment-vendor-inventory-dynamics-365-finance-operations/"/>
-        <updated>2024-09-03T11:13:59.000Z</updated>
-        <summary type="html"><![CDATA[Consignment Vendor Inventory in Dynamics 365 for Finance & Operations
-Consignment inventory in Dynamics 365 Finance & Operations is a powerful functionality often used by operations managers, project managers, and warehouse managers. This functionality handles inventory that is physically in your facilities, but still owned by a vendor. Consignment inventory can be helpful for multiple scenarios: consumption, redistribution, manufacturing, and project-based use. However, there are...
-Read Next: 18 Warning Signs Your Business Need the Cloud
-This post first appeared first on Encore Business Solutions.]]></summary>
-        <author>
-            <name>Gale Dallyn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Streamline Your Case Management with Dynamics 365]]></title>
-        <id>https://erpsoftwareblog.com/?p=118161</id>
-        <link href="https://erpsoftwareblog.com/2024/09/case-management-with-dynamics-365-crm/"/>
-        <updated>2024-09-03T10:20:36.000Z</updated>
-        <summary type="html"><![CDATA[Effective case management is crucial for providing exceptional customer service and resolving issues efficiently. Dynamics 365 CRM offers a comprehensive solution to streamline your case management processes, improve customer satisfaction, […]
-The post Streamline Your Case Management with Dynamics 365 appeared first on ERP Software Blog.
-The Consumerization of Online B2B Sales
-Microsoft Dynamics 365 for Sales Management
-How Dynamics 365 Makes the Job of an Accountant Easier]]></summary>
-        <author>
-            <name>Dynamics Square UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Shift from HubSpot to Dynamics 365?]]></title>
-        <id>https://erpsoftwareblog.com/?p=118158</id>
-        <link href="https://erpsoftwareblog.com/2024/09/how-to-shift-from-hubspot-to-dynamics-365/"/>
-        <updated>2024-09-03T06:19:16.000Z</updated>
-        <summary type="html"><![CDATA[HubSpot and Dynamics 365 are both powerful CRM platforms, each offering unique features to cater to different business needs. HubSpot is known for its user-friendly interface and integrated marketing, sales, […]
-The post How to Shift from HubSpot to Dynamics 365? appeared first on ERP Software Blog.
-The Consumerization of Online B2B Sales
-Microsoft Dynamics 365 for Sales Management
-How Dynamics 365 Makes the Job of an Accountant Easier]]></summary>
-        <author>
-            <name>Aakriti Gaur, DAX Software Solutions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Sustainability in Your Supply Chain with Microsoft D365 F&SCM]]></title>
-        <id>https://erpsoftwareblog.com/?p=118108</id>
-        <link href="https://erpsoftwareblog.com/2024/09/build-sustainability-in-your-supply-chain-with-microsoft-d365-fscm/"/>
-        <updated>2024-09-02T17:11:57.000Z</updated>
-        <summary type="html"><![CDATA[Sustainability is more than just a buzzword, it’s a necessity. For supply chain professionals and business owners, building a sustainable and ethical supply chain isn’t just good for the planet—it’s […]
-The post Build Sustainability in Your Supply Chain with Microsoft D365 F&SCM appeared first on ERP Software Blog.
-10 Ways to Overcome Scalability Challenges with Microsoft Dynamics 365 F&SCM
-The Benefits of Inventory Management Integrated with Dynamics ERP
-How to Manage Inventory with AI Functionality and Dynamics 365]]></summary>
-        <author>
-            <name>Boyer &amp;#38; Associates</name>
         </author>
     </entry>
     <entry>
