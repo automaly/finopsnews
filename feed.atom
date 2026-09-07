@@ -2,10 +2,96 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-09-06T02:06:36.920Z</updated>
+    <updated>2026-09-07T02:04:16.341Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unified Dynamics 365 system administrator management in PPAC]]></title>
+        <id>https://dynamicspedia.com/?p=20673</id>
+        <link href="https://dynamicspedia.com/2026/09/unified-dynamics-365-system-administrator-management-in-ppac/"/>
+        <updated>2026-09-06T17:39:52.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft keeps bringing experiences across different Dynamics 365 applications and the Power Platform together. A new preview feature is available where you can manage system administrator users for Dynamics 365 and the Power Platform in a single place. This blog describes the details and impact of enabling the preview via Feature management. Unified admin user […]
+The post Unified Dynamics 365 system administrator management in PPAC appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central 29.0 Preview: AL Tooling Starts Being Designed for Agents Too]]></title>
+        <id>https://365community.online/business-central-29-0-preview-al-tooling-starts-being-designed-for-agents-too</id>
+        <link href="https://365community.online/business-central-29-0-preview-al-tooling-starts-being-designed-for-agents-too"/>
+        <updated>2026-09-06T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has published the public preview of Business Central 2026 release wave 2. Reading through the change list, one thing stands out well above the feature count.]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Ways B2B eCommerce Personalization Can Strengthen Customer Retention]]></title>
+        <id>https://erpsoftwareblog.com/?p=154389</id>
+        <link href="https://erpsoftwareblog.com/2026/09/4-ways-b2b-ecommerce-personalization-can-strengthen-customer-retention/"/>
+        <updated>2026-09-05T12:59:01.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In B2B eCommerce, personalization means more than recommending products based on browsing behavior. For an established customer, a truly personalized experience should recognize the business relationship that already exists. That […]
+The post 4 Ways B2B eCommerce Personalization Can Strengthen Customer Retention appeared first on ERP Software Blog.
+Top 5 Dynamics 365 Business Central and NAV Add-Ons that will Transform your Business Process
+Cut Costs, Save Time with LS Central for your Retail Business
+5 things to consider when opening an Online Retail Store]]></summary>
+        <author>
+            <name>commercebuild</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Move to Modern SQL Server Licensing with Confidence]]></title>
+        <id>https://365community.online/move-to-modern-sql-server-licensing-with-confidence</id>
+        <link href="https://365community.online/move-to-modern-sql-server-licensing-with-confidence"/>
+        <updated>2026-09-05T00:08:29.000Z</updated>
+        <summary type="html"><![CDATA[Why eligible customers should move to pay-as-you-go licensing (PAYG) For eligible SQL Server workloads, PAYG should be the preferred licensing approach when moving away from licenses and Software Assurance. It aligns billing with measured usage, adapts as the estate changes,…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zoom further in more Microsoft Access views]]></title>
+        <id>https://365community.online/zoom-further-in-more-microsoft-access-views</id>
+        <link href="https://365community.online/zoom-further-in-more-microsoft-access-views"/>
+        <updated>2026-09-04T22:08:12.000Z</updated>
+        <summary type="html"><![CDATA[Zoom from 10% to 1000% Supported Access views can now be zoomed anywhere from 10% to 1000%, expanding the previous range of 50% to 500%. New 10%, 25%, and 1000% choices are available in the Zoom menu, and the status…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Event Recap – TechCon Seattle 2026]]></title>
+        <id>https://365community.online/event-recap-techcon-seattle-2026</id>
+        <link href="https://365community.online/event-recap-techcon-seattle-2026"/>
+        <updated>2026-09-04T21:04:40.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR TechCon 365, PWRCON and DATACON Seattle 2026 August 24–28. Five days. Three thriving technology communities. One shared destination for learning, innovation, and connection. TechCon 365, PWRCON, and DATACON Seattle 2026 brought together Microsoft 365, Power Platform, and Microsoft Data…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Available today: OpenAI GPT-6 Astra in Microsoft Copilot]]></title>
+        <id>https://365community.online/available-today-openai-gpt-6-astra-in-microsoft-copilot</id>
+        <link href="https://365community.online/available-today-openai-gpt-6-astra-in-microsoft-copilot"/>
+        <updated>2026-09-04T20:28:50.000Z</updated>
+        <summary type="html"><![CDATA[GPT-6 Astra joins the frontier models available in Copilot Cowork and Copilot Studio, giving customers more choice for complex work they want to delegate to AI. Astra expands the range of work that can be handed off to Copilot. Instead of breaking work…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Check This Out! (CTO!) Guide (September 2026)]]></title>
+        <id>https://365community.online/check-this-out-cto-guide-september-2026</id>
+        <link href="https://365community.online/check-this-out-cto-guide-september-2026"/>
+        <updated>2026-09-04T20:18:34.000Z</updated>
+        <summary type="html"><![CDATA[Member: TysonPaul | Microsoft Community Hub Retirement of Microsoft HPC Pack Team Blog: Azure High Performance Computing (HPC) Author: XinXin Published: 08/25/2026 Summary: Microsoft HPC Pack, a Windows-based HPC scheduler, will be retired, with support ending August 27, 2027. No…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🕒 Time Matters: Understanding ValidTimeState Tables in D365FO]]></title>
         <id>https://365community.online/%f0%9f%95%92-time-matters-understanding-validtimestate-tables-in-d365fo</id>
@@ -144,6 +230,17 @@ Best Payment Gateway for Dynamics 365: A 2026 Comparison]]></summary>
         <summary type="html"><![CDATA[In Microsoft’s ALE evaluation, Discovery Engine with CLIO enabled leads publicly benchmarked agentic harnesses across three scientific domains. Microsoft Discovery is incorporating CLIO into Discovery Engine. Discovery Engine can effectively test competing hypotheses, learn from unsuccessful approaches, and revise reasoning…]]></summary>
         <author>
             <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Workforce management meets AI: WEM MCP tools for Dynamics 365 Service Agent]]></title>
+        <id>https://www.microsoft.com/en-us/dynamics-365/blog/?p=203070</id>
+        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/09/03/dynamics-365-workforce-engagement-management-mcp-tools/"/>
+        <updated>2026-09-03T19:55:42.000Z</updated>
+        <summary type="html"><![CDATA[Workforce Engagement Management (WEM) MCP tools for Dynamics 365 Service Agent bring workforce actions into Copilot, Microsoft Teams, and Outlook. Supervisors and customer service representatives can manage time-off requests, shift swaps, and shift bids using natural language, with future capabilities planned for schedule visibility, leave balances, and clock in/out experiences.
+The post Workforce management meets AI: WEM MCP tools for Dynamics 365 Service Agent appeared first on Microsoft Dynamics 365 Blog.]]></summary>
+        <author>
+            <name>Edgar Wilson III</name>
         </author>
     </entry>
     <entry>
@@ -116870,199 +116967,6 @@ The post How to bypass table security in X++ coding appeared first on Dynamicspe
         <summary type="html"><![CDATA[One conference, two career-changing connections. source]]></summary>
         <author>
             <name>NZ365Guy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Pages: Use a custom Rich Text Files table to store images (and avoid exposing the full msdyn_richtextfiles table)]]></title>
-        <id>https://365community.online/power-pages-use-a-custom-rich-text-files-table-to-store-images-and-avoid-exposing-the-full-msdyn_richtextfiles-table</id>
-        <link href="https://365community.online/power-pages-use-a-custom-rich-text-files-table-to-store-images-and-avoid-exposing-the-full-msdyn_richtextfiles-table"/>
-        <updated>2024-09-07T13:23:00.000Z</updated>
-        <summary type="html"><![CDATA[In my previous post, I explained how to display images from a Dataverse Rich Text field in Power Pages using Liquid. However, this method enables read access to all records in the Rich Text Attachments (msdyn_richtextfiles) table, which might not be ideal in case the Dataverse environment has other functionalities that have private information stored […]]]></summary>
-        <author>
-            <name>michelcarlo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12 Game Changing Programming Lessons You Wish You Knew Sooner! – YouTube]]></title>
-        <id>https://365community.online/12-game-changing-programming-lessons-you-wish-you-knew-sooner-youtube</id>
-        <link href="https://365community.online/12-game-changing-programming-lessons-you-wish-you-knew-sooner-youtube"/>
-        <updated>2024-09-07T12:30:03.000Z</updated>
-        <summary type="html"><![CDATA[12 Game Changing Programming Lessons You Wish You Knew Sooner! – 🤔 Struggling with programming?    Wish you had a roadmap to navigate the coding world more effectively? – 📹 In this video, we unveil:    12 essential programming lessons that could have saved you time, frustration, and countless late nights. – 📚 Key Takeaways: […]]]></summary>
-        <author>
-            <name>Sourav Raj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Project and Service Management in Business Central]]></title>
-        <id>https://erpsoftwareblog.com/?p=118262</id>
-        <link href="https://erpsoftwareblog.com/2024/09/project-and-service-management-in-business-central/"/>
-        <updated>2024-09-07T12:06:34.000Z</updated>
-        <summary type="html"><![CDATA[The business domain is swiftly changing due to digital transformation, making efficient project and service management crucial for maintaining a competitive edge. Dynamics 365 Business Central offers a comprehensive solution designed to […]
-The post Project and Service Management in Business Central appeared first on ERP Software Blog.
-Better Information = Stronger Company in Tough Economy
-Hassle Free Upgrades with Dynamics GP Resellers!
-With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
-        <author>
-            <name>Dynamics Square USA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minha experiência como desenvolvedor 😃 – YouTube]]></title>
-        <id>https://365community.online/minha-experiencia-como-desenvolvedor-%f0%9f%98%83-youtube</id>
-        <link href="https://365community.online/minha-experiencia-como-desenvolvedor-%f0%9f%98%83-youtube"/>
-        <updated>2024-09-07T11:00:08.000Z</updated>
-        <summary type="html"><![CDATA[source]]></summary>
-        <author>
-            <name>Renato Romao de Souza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Business Central: External Document Number Hidden on the Vendor Applied Invoices Page]]></title>
-        <id>https://erpsoftwareblog.com/?p=118269</id>
-        <link href="https://erpsoftwareblog.com/2024/09/business-central-external-document-number-hidden-on-the-vendor-applied-invoices-page/"/>
-        <updated>2024-09-07T04:37:03.000Z</updated>
-        <summary type="html"><![CDATA[Our Business Central client is spending too much time trying to verify which vendor invoices were applied to which payments. While the payment journal shows the External Document Number of […]
-The post Business Central: External Document Number Hidden on the Vendor Applied Invoices Page appeared first on ERP Software Blog.
-Dynamics 365 Business Central and Industry-Tailored Functionality
-Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
-Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve]]></summary>
-        <author>
-            <name>Written by Steve Simon, PDG Consultants  www.prettydarngood.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qual a importância na comunidade como um desenvolver? – YouTube]]></title>
-        <id>https://365community.online/qual-a-importancia-na-comunidade-como-um-desenvolver-youtube</id>
-        <link href="https://365community.online/qual-a-importancia-na-comunidade-como-um-desenvolver-youtube"/>
-        <updated>2024-09-06T20:00:23.000Z</updated>
-        <summary type="html"><![CDATA[source]]></summary>
-        <author>
-            <name>Renato Romao de Souza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Dynamics Partners: Selling CPM Systems]]></title>
-        <id>https://erpsoftwareblog.com/?p=118266</id>
-        <link href="https://erpsoftwareblog.com/2024/09/microsoft-dynamics-partners-selling-cpm-systems/"/>
-        <updated>2024-09-06T19:08:40.000Z</updated>
-        <summary type="html"><![CDATA[Corporate Performance Management (CPM) systems expand the footprint of what Dynamics Partners can do for their customers. As customers integrate their applications, bringing them into the cloud, they expect a […]
-The post Microsoft Dynamics Partners: Selling CPM Systems appeared first on ERP Software Blog.
-Better Information = Stronger Company in Tough Economy
-Hassle Free Upgrades with Dynamics GP Resellers!
-With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
-        <author>
-            <name>PartnerTalks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Streamline Your Financial Operations with Dynamics 365 Finance & Operations]]></title>
-        <id>https://erpsoftwareblog.com/?p=118238</id>
-        <link href="https://erpsoftwareblog.com/2024/09/financial-operations-with-dynamics-365-finance-operations/"/>
-        <updated>2024-09-06T15:43:28.000Z</updated>
-        <summary type="html"><![CDATA[Efficient financial management is crucial for business success. Dynamics 365 Finance & Operations (F&O) offers comprehensive tools to streamline your financial processes, improve accuracy, and gain valuable insights.  The Challenges […]
-The post Streamline Your Financial Operations with Dynamics 365 Finance & Operations appeared first on ERP Software Blog.
-Dynamics 365 Tutorials Help You Get up and Running Fast
-Want to provide equipment and its status directly to each depot manager and take proper action immediately?
-Dynamics 365 for Finance and Operations Goes Mobile]]></summary>
-        <author>
-            <name>Dynamics Square UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Future Trends in Sales Management: What Dynamics 365 Sales Has in Store]]></title>
-        <id>https://erpsoftwareblog.com/?p=118258</id>
-        <link href="https://erpsoftwareblog.com/2024/09/future-trends-in-sales-management-with-dynamics-365-sales/"/>
-        <updated>2024-09-06T07:01:28.000Z</updated>
-        <summary type="html"><![CDATA[Dynamics 365 Sales, a cutting-edge CRM solution, incorporates these new technologies, including automation, to revolutionize sales operations and enhance overall efficiency. Sales play a critical role in any organization, serving […]
-The post Future Trends in Sales Management: What Dynamics 365 Sales Has in Store  appeared first on ERP Software Blog.
-Microsoft Dynamics GP 2015 Now Available
-How to Compare Sales Receivables to Your GL Accounts in Microsoft Dynamics GP
-Is Your eCommerce Store Achieving Budgeted Sales Targets?]]></summary>
-        <author>
-            <name>Dynamics Square USA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ep 64 | Business Central 2024 Release Wave 2 Overview | A Shot of Business Central and A Beer]]></title>
-        <id>https://erpsoftwareblog.com/?p=118253</id>
-        <link href="https://erpsoftwareblog.com/2024/09/ep-64-business-central-2024-release-wave-2-overview-a-shot-of-business-central-and-a-beer/"/>
-        <updated>2024-09-05T21:03:35.000Z</updated>
-        <summary type="html"><![CDATA[A Microsoft Dynamics 365 Business Central podcast | Episode 64 A Shot of Business Central and A Beer Welcome to episode 64 of A Shot of Business Central and a […]
-The post Ep 64 | Business Central 2024 Release Wave 2 Overview | A Shot of Business Central and A Beer appeared first on ERP Software Blog.
-What's New in Business Central 2024 Release Wave 2
-Learn How To Save Time By Using The "Cancel" Option to Reverse A Posted Sales Invoice
-Create A New Item In Dynamics 365 Business Central]]></summary>
-        <author>
-            <name>Solution Systems, Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transforming Operations with Dynamics 365 Business Central: A Success Story]]></title>
-        <id>https://erpsoftwareblog.com/?p=118244</id>
-        <link href="https://erpsoftwareblog.com/2024/09/transforming-operations-with-dynamics-365-business-central-a-success-story/"/>
-        <updated>2024-09-05T16:44:52.000Z</updated>
-        <summary type="html"><![CDATA[A multinational distribution company faced the challenge of upgrading its aging ERP system, Dynamics SL, to a modern, cloud-based solution. With The TM Group's (TMG) guidance, they transitioned to Dynamics […]
-The post Transforming Operations with Dynamics 365 Business Central: A Success Story appeared first on ERP Software Blog.
-Dynamics 365 Business Central and Industry-Tailored Functionality
-Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
-Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve]]></summary>
-        <author>
-            <name>The TM Group, Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Microsoft Business Central Implementations Fail]]></title>
-        <id>https://erpsoftwareblog.com/?p=118237</id>
-        <link href="https://erpsoftwareblog.com/2024/09/why-microsoft-business-central-implementations-fail/"/>
-        <updated>2024-09-05T15:43:03.000Z</updated>
-        <summary type="html"><![CDATA[In a perfect world, all Microsoft Dynamics 365 Business Central implementations would be seamless. However, the reality often falls short of this ideal. There are pitfalls that can derail the […]
-The post Why Microsoft Business Central Implementations Fail appeared first on ERP Software Blog.
-Better Information = Stronger Company in Tough Economy
-Hassle Free Upgrades with Dynamics GP Resellers!
-With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
-        <author>
-            <name>360 Visibility</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Streamline Your Inventory Tracking with Dynamics 365 Finance & Operations]]></title>
-        <id>https://erpsoftwareblog.com/?p=118232</id>
-        <link href="https://erpsoftwareblog.com/2024/09/inventory-tracking-with-dynamics-365-finance-operations/"/>
-        <updated>2024-09-05T15:32:10.000Z</updated>
-        <summary type="html"><![CDATA[Efficient inventory tracking is crucial for maintaining optimal stock levels, reducing costs, and preventing stockouts or overstocks. Dynamics 365 Finance & Operations (F&O) offers comprehensive tools to streamline your inventory […]
-The post Streamline Your Inventory Tracking with Dynamics 365 Finance & Operations appeared first on ERP Software Blog.
-E-Commerce Business Process Efficiency: Microsoft Dynamics 365 Supply Chain Management ERP and EDI Integration
-Supply Chain Management Best Practices
-The Product-as-a-Service advantage — a potential game-changer for equipment manufacturers]]></summary>
-        <author>
-            <name>Dynamics Square UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transforming Professional Services with Document Management Solution]]></title>
-        <id>https://erpsoftwareblog.com/?p=118231</id>
-        <link href="https://erpsoftwareblog.com/2024/09/transforming-professional-services-with-document-management/"/>
-        <updated>2024-09-05T15:28:53.000Z</updated>
-        <summary type="html"><![CDATA[Every second is valuable in the quickly moving industry of professional services. Your skills are needed, but time-consuming administrative duties often take up valuable time in your day. Picture a […]
-The post Transforming Professional Services with Document Management Solution appeared first on ERP Software Blog.
-How Business Central in the Cloud Can Help You Scale & Thrive
-How MetaDocs Can Help You Streamline Document Management in Business Central
-Empowering Professional Services with Microsoft Dynamics 365 Business Central]]></summary>
-        <author>
-            <name>MetaOption LLC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Need Jet Reports Instead of Jet Basics for Dynamics GP]]></title>
-        <id>https://www.encorebusiness.com/?p=45749</id>
-        <link href="https://www.encorebusiness.com/blog/why-you-need-jet-reports-instead-of-jet-basics-for-gp/"/>
-        <updated>2024-09-05T14:38:49.000Z</updated>
-        <summary type="html"><![CDATA[Why You Need Jet Reports Instead of Jet Basics for Dynamics GP
-If you’re a Dynamics GP user, Jet Basics is no longer available for installation on new machines but will continue functioning with existing installations. This article will discuss the discontinuation of Jet Basics and what options are available through Jet Reports to help users maintain and enhance their reporting efficiency in Dynamics GP. Jet Basics...
-Read Next: 18 Warning Signs Your Business Need the Cloud
-This post first appeared first on Encore Business Solutions.]]></summary>
-        <author>
-            <name>Don McNulty</name>
         </author>
     </entry>
     <entry>
