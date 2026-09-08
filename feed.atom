@@ -2,10 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-09-07T02:04:16.341Z</updated>
+    <updated>2026-09-08T02:15:43.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[September 2026 Updates, Surprise?]]></title>
+        <id>https://365community.online/september-2026-updates-surprise</id>
+        <link href="https://365community.online/september-2026-updates-surprise"/>
+        <updated>2026-09-07T20:48:18.000Z</updated>
+        <summary type="html"><![CDATA[The September Licensing Guides... Microsoft published the September 2026 licensing guides for Dynamics 365, Power Platform, and Copilot Studio. I pointed Claude at the PDFs and asked it to update the pricing catalog inside the D365 F&SCM Cost Estimator. Every…]]></summary>
+        <author>
+            <name>Dag Calafell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auto-Replenishment, Service Contracts, and the New Distributor Revenue Mix]]></title>
+        <id>https://erpsoftwareblog.com/?p=154460</id>
+        <link href="https://erpsoftwareblog.com/2026/09/auto-replenishment-service-contracts-distributor-revenue/"/>
+        <updated>2026-09-07T20:43:14.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Buyers in the lower middle market will pay 1.5 to 2 times more for a dollar of recurring revenue than a dollar of project revenue, and that gap is reshaping […]
+The post Auto-Replenishment, Service Contracts, and the New Distributor Revenue Mix appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>ACE Micro, LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Dynamics 365 PO Automation: True Cost, Implementation Timeline, and IT Security Checklist]]></title>
+        <id>https://erpsoftwareblog.com/?p=154446</id>
+        <link href="https://erpsoftwareblog.com/2026/09/microsoft-dynamics-365-po-automation-true-cost-implementation-timeline-and-it-security-checklist/"/>
+        <updated>2026-09-07T13:58:30.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+If you're running PO processes in Microsoft Dynamics 365, you've likely seen the limitations. Finance asks for the real total cost over three years, not the vendor's license quote. IT […]
+The post Microsoft Dynamics 365 PO Automation: True Cost, Implementation Timeline, and IT Security Checklist appeared first on ERP Software Blog.
+Insight Works Unveils Enhanced Order Fulfillment for Dynamics 365
+Benefits of Automatic Collection Efforts in Business Central
+Key Trends for Accounts Payable in 2025]]></summary>
+        <author>
+            <name>Leverage AI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Agent Design: The Hidden Costs to Expect]]></title>
+        <id>https://erpsoftwareblog.com/?p=154442</id>
+        <link href="https://erpsoftwareblog.com/2026/09/ai-agent-design-the-hidden-costs-to-expect/"/>
+        <updated>2026-09-07T13:57:26.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+An AI agent can look inexpensive when the conversation starts with a prototype. The real cost appears later; when it needs reliable data, multiple integrations, security controls, monitoring, human oversight, […]
+The post AI Agent Design: The Hidden Costs to Expect appeared first on ERP Software Blog.
+Demand Forecasting Revolutionized with AI,  Pivot Forecasting and Dynamics 365 ERP
+Why small businesses choose Dynamics 365 Business Central
+6 Ways to Use AI in Your Business]]></summary>
+        <author>
+            <name>DynaTech Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Payment Reconciliation Breaks in Dynamics 365 — and How to Fix It]]></title>
+        <id>https://erpsoftwareblog.com/?p=154447</id>
+        <link href="https://erpsoftwareblog.com/2026/09/why-payment-reconciliation-breaks-in-dynamics-365-and-how-to-fix-it/"/>
+        <updated>2026-09-07T13:12:50.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In practice, ask a Dynamics 365 finance team what consumes their month-end, and payments come up quickly. Not the payments themselves, which usually work fine. The problem is what happens […]
+The post Why Payment Reconciliation Breaks in Dynamics 365 — and How to Fix It appeared first on ERP Software Blog.
+5 Signs Your Payment Process Is Slowing Down Your Finance Team in Dynamics 365
+Why Payment Reconciliation in Dynamics 365 Finance Takes Longer Than It Should and How to Fix It
+What You Need to Know About the E-invoice Exchange Market Pilot]]></summary>
+        <author>
+            <name>SensePass</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Studio | Migrate the Agent, Keep the Client ID]]></title>
+        <id>https://365community.online/copilot-studio-migrate-the-agent-keep-the-client-id</id>
+        <link href="https://365community.online/copilot-studio-migrate-the-agent-keep-the-client-id"/>
+        <updated>2026-09-07T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There is a question I have been asked in one form or another by every administrator who has ever inherited a tenant full of Copilot Studio agents, and it always arrives with the same slightly worried tone: "what are all…]]></summary>
+        <author>
+            <name>Mariano Gomez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Modern ERP Payment Workflows Look Like]]></title>
+        <id>https://erpsoftwareblog.com/?p=154284</id>
+        <link href="https://erpsoftwareblog.com/2026/09/what-modern-erp-payment-workflows-look-like/"/>
+        <updated>2026-09-07T10:42:03.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+What Modern ERP Payment Workflows Look Like For most finance teams, payments are where processes start to feel heavier than they should. Invoices move through the ERP with structure and […]
+The post What Modern ERP Payment Workflows Look Like appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>USTPay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BC v29 Preview: The Features That Actually Matters]]></title>
+        <id>https://365community.online/bc-v29-preview-the-features-that-actually-matters</id>
+        <link href="https://365community.online/bc-v29-preview-the-features-that-actually-matters"/>
+        <updated>2026-09-07T06:23:54.000Z</updated>
+        <summary type="html"><![CDATA[The public preview for Business Central version 29 has been available for a few days now, and there’s already a lot to go through a long list of new capabilities across development, agents, reporting, and supply chain. Most of it…]]></summary>
+        <author>
+            <name>Amol Salvi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securing Your Certification Authorities (Practical PKI Part 4)]]></title>
+        <id>https://365community.online/securing-your-certification-authorities-practical-pki-part-4</id>
+        <link href="https://365community.online/securing-your-certification-authorities-practical-pki-part-4"/>
+        <updated>2026-09-07T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[My name is Ron Arestia, and I am a Security Researcher with Microsoft’s Detection and Response Team (DART). We respond to customer cybersecurity incidents to assist with containment and recovery from threat actors. In this blog post, we work to…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unified Dynamics 365 system administrator management in PPAC]]></title>
         <id>https://dynamicspedia.com/?p=20673</id>
@@ -15,6 +130,16 @@
 The post Unified Dynamics 365 system administrator management in PPAC appeared first on Dynamicspedia.]]></summary>
         <author>
             <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond the Prompt: Building a Business Tool with Azure and AI]]></title>
+        <id>https://365community.online/beyond-the-prompt-building-a-business-tool-with-azure-and-ai</id>
+        <link href="https://365community.online/beyond-the-prompt-building-a-business-tool-with-azure-and-ai"/>
+        <updated>2026-09-06T11:05:54.000Z</updated>
+        <summary type="html"><![CDATA[Building Wondermade revealed a practical truth: AI becomes useful when it sits inside a clear business workflow. Here are the Azure building blocks, approval gates, development challenges and evaluation questions behind that journey.]]></summary>
+        <author>
+            <name>John Lunn</name>
         </author>
     </entry>
     <entry>
@@ -116917,56 +117042,6 @@ With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summar
 The post How to bypass table security in X++ coding appeared first on Dynamicspedia.]]></summary>
         <author>
             <name>André Arnaud de Calavon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to get the Dataverse Table’s first row from List Rows in Power Automate?]]></title>
-        <id>https://365community.online/how-to-get-the-dataverse-tables-first-row-from-list-rows-in-power-automate</id>
-        <link href="https://365community.online/how-to-get-the-dataverse-tables-first-row-from-list-rows-in-power-automate"/>
-        <updated>2024-09-08T11:04:14.000Z</updated>
-        <summary type="html"><![CDATA[It is quite common requirement to get the Dataverse Table first row’s information from the List rows in the Power Automate. In this article, will explain about the same. Scenario: Get the list of all contacts which has Email address and show the Contact’s first row details (contactid, fullname and emailaddress1). Follow the below steps […]]]></summary>
-        <author>
-            <name>Arun Potti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cartão adaptável dentro do Copilot é possível??? – YouTube]]></title>
-        <id>https://365community.online/cartao-adaptavel-dentro-do-copilot-e-possivel-youtube</id>
-        <link href="https://365community.online/cartao-adaptavel-dentro-do-copilot-e-possivel-youtube"/>
-        <updated>2024-09-08T11:00:45.000Z</updated>
-        <summary type="html"><![CDATA[source]]></summary>
-        <author>
-            <name>Renato Romao de Souza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Networking at Conferences. – YouTube]]></title>
-        <id>https://365community.online/networking-at-conferences-youtube</id>
-        <link href="https://365community.online/networking-at-conferences-youtube"/>
-        <updated>2024-09-08T06:58:30.000Z</updated>
-        <summary type="html"><![CDATA[Networking at Conferences. source]]></summary>
-        <author>
-            <name>NZ365Guy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Pages: Upload large files – work in progress]]></title>
-        <id>https://365community.online/power-pages-upload-large-files-work-in-progress</id>
-        <link href="https://365community.online/power-pages-upload-large-files-work-in-progress"/>
-        <updated>2024-09-08T06:54:29.000Z</updated>
-        <summary type="html"><![CDATA[On the project, we need our portal users to be able to upload large video files. It’s required for incident investigations. As we all know, the large file upload was one of the top asked features. So now we could finally use it with Power Pages. Yay! No code The official documentation is here: Continue […]]]></summary>
-        <author>
-            <name>Olena Grischenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One conference, two career-changing connections. – YouTube]]></title>
-        <id>https://365community.online/one-conference-two-career-changing-connections-youtube</id>
-        <link href="https://365community.online/one-conference-two-career-changing-connections-youtube"/>
-        <updated>2024-09-07T21:05:21.000Z</updated>
-        <summary type="html"><![CDATA[One conference, two career-changing connections. source]]></summary>
-        <author>
-            <name>NZ365Guy</name>
         </author>
     </entry>
     <entry>
