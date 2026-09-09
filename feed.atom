@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-09-08T02:15:43.664Z</updated>
+    <updated>2026-09-09T02:19:04.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Business Central in the work conversation]]></title>
+        <id>https://365community.online/business-central-in-the-work-conversation</id>
+        <link href="https://365community.online/business-central-in-the-work-conversation"/>
+        <updated>2026-09-08T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Connecting Microsoft 365 Copilot Cowork to Business Central through native MCP: delegated identity, dynamic action discovery and a clear read-only scope. Includes a guide to reproduce the solution.]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AOS Math That Kept One Admin Up At Night - And Why PPAC's New F&O Details UX Finally Puts It To Rest]]></title>
+        <id>https://d365cliffsnotes.com/the-aos-math-that-kept-one-admin-up-at-night-and-why-ppac-s-new-f-o-details-ux-finally-puts-it-to-rest</id>
+        <link href="https://d365cliffsnotes.com/the-aos-math-that-kept-one-admin-up-at-night-and-why-ppac-s-new-f-o-details-ux-finally-puts-it-to-rest"/>
+        <updated>2026-09-08T10:06:01.000Z</updated>
+        <summary type="html"><![CDATA[It was 11:40 PM when the message landed in a Dynamics 365 community channel.
+"We currently have one LCS environment with around 900 users that consumes 8 Interactive and 4 Batch AOS instances, and ano]]></summary>
+        <author>
+            <name>Rakesh Darge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What BC29 Actually Did to Table Extensions]]></title>
+        <id>https://365community.online/what-bc29-actually-did-to-table-extensions</id>
+        <link href="https://365community.online/what-bc29-actually-did-to-table-extensions"/>
+        <updated>2026-09-08T08:15:49.000Z</updated>
+        <summary type="html"><![CDATA[Some Business Central changes get their own keynote demo. Others happen entirely inside the database layer, described in a sentence or two of release notes, and only become visible to a developer when a query runs faster than it used…]]></summary>
+        <author>
+            <name>Amol Salvi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[September 2026 Updates, Surprise?]]></title>
         <id>https://365community.online/september-2026-updates-surprise</id>
@@ -29,6 +60,26 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>ACE Micro, LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Process Flow Error: “Participating entity record of stage: X is not valid” (0x80040216) (Dynamics 365 / Dataverse)]]></title>
+        <id>https://365community.online/business-process-flow-error-participating-entity-record-of-stage-x-is-not-valid-0x80040216-dynamics-365-dataverse</id>
+        <link href="https://365community.online/business-process-flow-error-participating-entity-record-of-stage-x-is-not-valid-0x80040216-dynamics-365-dataverse"/>
+        <updated>2026-09-07T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Scenario Working on a custom multi-entity Business Process Flow (Opportunity → Quote) recently, we ran into this error while trying to reactivate the process: The BPF (custom_salesprocess) had already traversed several stages — Generate Opportunity → Qualify → Generate Quote…]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prompts, Loop, Graph: Where Does Your Business Central Practice Actually Sit?]]></title>
+        <id>https://365community.online/prompts-loop-graph-where-does-your-business-central-practice-actually-sit</id>
+        <link href="https://365community.online/prompts-loop-graph-where-does-your-business-central-practice-actually-sit"/>
+        <updated>2026-09-07T14:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Back to the three questions from the earlier posts: is your coding tactical or strategic, how do you see yourself, and where are you — prompts, loop, or graph?]]></summary>
+        <author>
+            <name>jarmesto</name>
         </author>
     </entry>
     <entry>
@@ -77,6 +128,16 @@ What You Need to Know About the E-invoice Exchange Market Pilot]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: automatic .NET runtime acquisition on AL Language Extension.]]></title>
+        <id>https://365community.online/dynamics-365-business-central-automatic-net-runtime-acquisition-on-al-language-extension</id>
+        <link href="https://365community.online/dynamics-365-business-central-automatic-net-runtime-acquisition-on-al-language-extension"/>
+        <updated>2026-09-07T12:19:04.000Z</updated>
+        <summary type="html"><![CDATA[Less than 1 month ago I wrote this post: AL Language extension and macOS: what’s next? announcing changes in the AL … More]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Copilot Studio | Migrate the Agent, Keep the Client ID]]></title>
         <id>https://365community.online/copilot-studio-migrate-the-agent-keep-the-client-id</id>
         <link href="https://365community.online/copilot-studio-migrate-the-agent-keep-the-client-id"/>
@@ -99,6 +160,26 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>USTPay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALDC-GRAPH: making agentic development visible]]></title>
+        <id>https://365community.online/aldc-graph-making-agentic-development-visible</id>
+        <link href="https://365community.online/aldc-graph-making-agentic-development-visible"/>
+        <updated>2026-09-07T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What does each agent receive, what does it return, and how does the system handle our decisions? A sandbox journey through ALDC-GRAPH for Business Central.]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release plans are dead — how I’m tracking the Dynamics 365 roadmap now]]></title>
+        <id>https://365community.online/release-plans-are-dead-how-im-tracking-the-dynamics-365-roadmap-now</id>
+        <link href="https://365community.online/release-plans-are-dead-how-im-tracking-the-dynamics-365-roadmap-now"/>
+        <updated>2026-09-07T07:20:28.000Z</updated>
+        <summary type="html"><![CDATA[In August 2026, Microsoft announced the discontinuation of its twice-yearly release wave model for Dynamics 365 and Power Platform. Instead, updates will be made continuously and tracked via the AI at Work roadmap. While some processes have improved, the transition…]]></summary>
+        <author>
+            <name>Marco Totovic</name>
         </author>
     </entry>
     <entry>
@@ -116935,57 +117016,6 @@ With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summar
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 2: Use Copilot To Analyze Cloud Flow Runs]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-use-copilot-to-analyze-cloud-flow-runs</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-use-copilot-to-analyze-cloud-flow-runs"/>
-        <updated>2024-09-09T14:00:12.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Power Automate 2024 Wave 2. The 3rd of the new functionality in the Desktop flows section is use Copilot to analyze cloud flow runs. Copilot […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 2: Monitor, Manage Your Automations And Related Assets]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-monitor-manage-your-automations-and-related-assets</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-monitor-manage-your-automations-and-related-assets"/>
-        <updated>2024-09-09T12:00:39.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Power Automate 2024 Wave 2. The 2nd of the new functionality in the Desktop flows section is monitor, manage your automations and related assets. The […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Austrian Peppol-UBL e-invoice]]></title>
-        <id>https://erconsult.eu/?p=8518</id>
-        <link href="https://erconsult.eu/blog/austrian-peppol-ubl-e-invoice/"/>
-        <updated>2024-09-09T11:01:04.000Z</updated>
-        <summary type="html"><![CDATA[The Austrian PEPPOL e-invoice in Dynamics 365 Finance has several issues, including mandatory customer requisition, missing PO line references, supplier email requirements.
-The post Austrian Peppol-UBL e-invoice appeared first on ER-Consult.]]></summary>
-        <author>
-            <name>Eugen Glasow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mentoria de carreiras na Power Platform e IA Generativa com Copilot – YouTube]]></title>
-        <id>https://365community.online/mentoria-de-carreiras-na-power-platform-e-ia-generativa-com-copilot-youtube</id>
-        <link href="https://365community.online/mentoria-de-carreiras-na-power-platform-e-ia-generativa-com-copilot-youtube"/>
-        <updated>2024-09-09T11:00:23.000Z</updated>
-        <summary type="html"><![CDATA[source]]></summary>
-        <author>
-            <name>Renato Romao de Souza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 2: Use Cyberark Credentials In Desktop Flow Connections]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-use-cyberark-credentials-in-desktop-flow-connections</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-use-cyberark-credentials-in-desktop-flow-connections"/>
-        <updated>2024-09-09T10:00:03.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Power Automate 2024 Wave 2. The 1st of the new functionality in the Desktop flows section is use CyberArk credentials in desktop flow connections. You […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Utilizing the Power of ChatGPT: Integrating with Dynamics 365 Finance & Operations]]></title>
         <id>https://erpsoftwareblog.com/?p=118324</id>
         <link href="https://erpsoftwareblog.com/2024/09/chatgpt-integrating-with-dynamics-365-finance-operations/"/>
@@ -117000,16 +117030,6 @@ Maximizing Product Margins: VyasTec's SPA & Chargeback Management for Microsoft 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Streamline Your Service Management with Business Central 2024: New Archiving Capabilities.]]></title>
-        <id>https://365community.online/streamline-your-service-management-with-business-central-2024-new-archiving-capabilities</id>
-        <link href="https://365community.online/streamline-your-service-management-with-business-central-2024-new-archiving-capabilities"/>
-        <updated>2024-09-09T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Hi Readers, Managing the Evolution of Service Documents Service documents, like quotes, orders, and contracts, often undergo changes throughout their lifecycle. To ensure data integrity and maintain a clear audit trail, Business Central 2024 introduces robust archiving capabilities specifically tailored for service management. Key Benefits of Archiving Service Documents: Enhanced Data Control:… Continue Reading Saurav […]]]></summary>
-        <author>
-            <name>Saurav Dhyani</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Making Business Central Receivables easier with AL]]></title>
         <id>https://erpsoftwareblog.com/?p=118303</id>
         <link href="https://erpsoftwareblog.com/2024/09/making-business-central-receivables-easier-with-al/"/>
@@ -117021,27 +117041,6 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>Written by Steve Simon, PDG Consultants, Inc., www.prettydarngood.com.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leveraging Azure OpenAI and Cognitive Search for Enterprise AI Applications]]></title>
-        <id>http://azureintegrations.com/?p=1523</id>
-        <link href="https://azureintegrations.com/2024/09/08/building-intelligent-apps-with-retrieval-augmented-generation-rag-on-azure/"/>
-        <updated>2024-09-08T15:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Introduction The introduction of OpenAI on Azure enables the integration of ChatGPT with existing enterprise data through Azure OpenAI and Azure AI Search in .NET (or any front-end) applications. These services enhance business operations using advanced Natural Language Processing (NLP), allowing organizations to develop efficient Enterprise Knowledge Management and Customer Support systems. This post discussesContinue reading "Leveraging Azure OpenAI and Cognitive Search for Enterprise AI Applications"]]></summary>
-        <author>
-            <name>Poojith Jain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to bypass table security in X++ coding]]></title>
-        <id>https://dynamicspedia.com/?p=19160</id>
-        <link href="https://dynamicspedia.com/2024/09/how-to-bypass-table-security-in-x-coding/"/>
-        <updated>2024-09-08T11:22:41.000Z</updated>
-        <summary type="html"><![CDATA[For various reasons, you would like to read business data from or write data to the Dynamics 365 F&O database without enforcing security in the user context. For example, a user might not have access to various tables, like parameters or configuration. In this post, I talk about how to access and write data using […]
-The post How to bypass table security in X++ coding appeared first on Dynamicspedia.]]></summary>
-        <author>
-            <name>André Arnaud de Calavon</name>
         </author>
     </entry>
     <entry>
