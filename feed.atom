@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-09-13T02:17:56.371Z</updated>
+    <updated>2026-09-14T02:35:44.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lessons Learned #554: I Have Used BCP for Years — But How Does It Actually Work?]]></title>
+        <id>https://365community.online/lessons-learned-554-i-have-used-bcp-for-years-but-how-does-it-actually-work</id>
+        <link href="https://365community.online/lessons-learned-554-i-have-used-bcp-for-years-but-how-does-it-actually-work"/>
+        <updated>2026-09-12T05:14:19.000Z</updated>
+        <summary type="html"><![CDATA[BCP is one of those SQL Server tools that many of us have been using for years. It is simple, reliable, and extremely fast when we need to move large amounts of data. We execute it, and millions of rows…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AB-100 Last-Minute Revision Cheat Sheet (Microsoft Agentic AI Business Solutions Architect)]]></title>
         <id>https://365community.online/ab-100-last-minute-revision-cheat-sheet-microsoft-agentic-ai-business-solutions-architect</id>
@@ -14,6 +24,46 @@
         <summary type="html"><![CDATA[Recently, I cleared the Microsoft Certified: Architecting Agentic AI Business Solutions (AB-100) exam. While preparing, I ended up creating this one-page Architect’s Compass for my last-minute revision. Instead of memorizing every Microsoft service, I grouped similar services so I could…]]></summary>
         <author>
             <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft JDBC Driver 13.6 for SQL Server is now available]]></title>
+        <id>https://365community.online/microsoft-jdbc-driver-13-6-for-sql-server-is-now-available</id>
+        <link href="https://365community.online/microsoft-jdbc-driver-13-6-for-sql-server-is-now-available"/>
+        <updated>2026-09-11T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft JDBC Driver 13.6 for SQL Server is now available. This release helps Java applications get more work from the same infrastructure, diagnose latency with better context, strengthen critical connection paths, and adopt the latest capabilities in SQL Server and…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hands on webinar: Build Student Skills with Learning Accelerators in Microsoft Teams]]></title>
+        <id>https://365community.online/hands-on-webinar-build-student-skills-with-learning-accelerators-in-microsoft-teams</id>
+        <link href="https://365community.online/hands-on-webinar-build-student-skills-with-learning-accelerators-in-microsoft-teams"/>
+        <updated>2026-09-11T20:21:50.000Z</updated>
+        <summary type="html"><![CDATA[Join us on Wednesday, September 16th @ 8am Pacific Time and discover how Learning Accelerators in Microsoft Teams for Education can help students build foundational and future ready skills while giving educators actionable insights to personalize instruction. In this webinar,…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mssql-python 1.15.0: Faster, More Reliable, and Built for Your Applications]]></title>
+        <id>https://365community.online/mssql-python-1-15-0-faster-more-reliable-and-built-for-your-applications</id>
+        <link href="https://365community.online/mssql-python-1-15-0-faster-more-reliable-and-built-for-your-applications"/>
+        <updated>2026-09-11T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I am excited to share the release of mssql-python 1.15.0, our 15th release since General Availability. We build mssql-python for Python developers connecting their applications to SQL Server, Azure SQL, and Azure Synapse. Every release is an opportunity to make that…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Title Plan Update – September 11, 2026]]></title>
+        <id>https://365community.online/title-plan-update-september-11-2026</id>
+        <link href="https://365community.online/title-plan-update-september-11-2026"/>
+        <updated>2026-09-11T19:23:00.000Z</updated>
+        <summary type="html"><![CDATA[📁September 11, 2026 - Title Plan Now Available Access the latest Instructor-Led Training (ILT) updates anytime at http://aka.ms/Courseware_Title_Plan to ensure you're always working from the most current version. 📌 Reminder: To help you stay informed more quickly and consistently, we’ve moved to a…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
         </author>
     </entry>
     <entry>
@@ -117012,26 +117062,6 @@ Si…]]></summary>
         <summary type="html"><![CDATA[For managers, keeping track of crucial CRM alerts and notifications is vital for smooth operations and timely decisions. However, with the constant flow of alerts from different CRM activities, it’s easy to overlook important updates, leading to missed actions and delays. Alert4Dynamics by Inogic is designed to solve this problem for users of Dynamics 365 […]]]></summary>
         <author>
             <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Marketing Fundamentals | What is Digital Marketing | Digital Marketing Training | MindMajix – YouTube]]></title>
-        <id>https://365community.online/digital-marketing-fundamentals-what-is-digital-marketing-digital-marketing-training-mindmajix-youtube</id>
-        <link href="https://365community.online/digital-marketing-fundamentals-what-is-digital-marketing-digital-marketing-training-mindmajix-youtube"/>
-        <updated>2024-09-14T12:00:59.000Z</updated>
-        <summary type="html"><![CDATA[In this video we are talking about the Digital Marketing. We covered fundamentals of digital marketing and its basic terms, role of a website, different types of websites and introduction to wordpress. Whether you’re a beginner or looking to enhance your skills, this digital marketing training has everything you need to succeed in today’s digital […]]]></summary>
-        <author>
-            <name>Jaya Sri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heart ke lafde hojaayenge🧘 – YouTube]]></title>
-        <id>https://365community.online/heart-ke-lafde-hojaayenge%f0%9f%a7%98-youtube</id>
-        <link href="https://365community.online/heart-ke-lafde-hojaayenge%f0%9f%a7%98-youtube"/>
-        <updated>2024-09-14T11:53:51.000Z</updated>
-        <summary type="html"><![CDATA[Heart ke lafde hojaayenge🧘 source]]></summary>
-        <author>
-            <name>Sourav Raj</name>
         </author>
     </entry>
     <entry>

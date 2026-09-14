@@ -43046,6 +43046,16 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/lessons-learned-554-i-have-used-bcp-for-years-but-how-does-it-actually-work",
+          "author": "Microsoft Tech Community",
+          "description": "BCP is one of those SQL Server tools that many of us have been using for years. It is simple, reliable, and extremely fast when we need to move large amounts of data. We execute it, and millions of rows…",
+          "link": "https://365community.online/lessons-learned-554-i-have-used-bcp-for-years-but-how-does-it-actually-work",
+          "publishedOn": "2026-09-12T05:14:19.000Z",
+          "wordCount": 2983,
+          "title": "Lessons Learned #554: I Have Used BCP for Years — But How Does It Actually Work?",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/ab-100-last-minute-revision-cheat-sheet-microsoft-agentic-ai-business-solutions-architect",
           "author": "Nishant Rana",
           "description": "Recently, I cleared the Microsoft Certified: Architecting Agentic AI Business Solutions (AB-100) exam. While preparing, I ended up creating this one-page Architect’s Compass for my last-minute revision. Instead of memorizing every Microsoft service, I grouped similar services so I could…",
@@ -43053,6 +43063,46 @@
           "publishedOn": "2026-09-12T04:02:10.000Z",
           "wordCount": 1730,
           "title": "AB-100 Last-Minute Revision Cheat Sheet (Microsoft Agentic AI Business Solutions Architect)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/microsoft-jdbc-driver-13-6-for-sql-server-is-now-available",
+          "author": "Microsoft Tech Community",
+          "description": "Microsoft JDBC Driver 13.6 for SQL Server is now available. This release helps Java applications get more work from the same infrastructure, diagnose latency with better context, strengthen critical connection paths, and adopt the latest capabilities in SQL Server and…",
+          "link": "https://365community.online/microsoft-jdbc-driver-13-6-for-sql-server-is-now-available",
+          "publishedOn": "2026-09-11T22:00:00.000Z",
+          "wordCount": 2731,
+          "title": "Microsoft JDBC Driver 13.6 for SQL Server is now available",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/hands-on-webinar-build-student-skills-with-learning-accelerators-in-microsoft-teams",
+          "author": "Microsoft Tech Community",
+          "description": "Join us on Wednesday, September 16th @ 8am Pacific Time and discover how Learning Accelerators in Microsoft Teams for Education can help students build foundational and future ready skills while giving educators actionable insights to personalize instruction. In this webinar,…",
+          "link": "https://365community.online/hands-on-webinar-build-student-skills-with-learning-accelerators-in-microsoft-teams",
+          "publishedOn": "2026-09-11T20:21:50.000Z",
+          "wordCount": 1633,
+          "title": "Hands on webinar: Build Student Skills with Learning Accelerators in Microsoft Teams",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/mssql-python-1-15-0-faster-more-reliable-and-built-for-your-applications",
+          "author": "Microsoft Tech Community",
+          "description": "I am excited to share the release of mssql-python 1.15.0, our 15th release since General Availability. We build mssql-python for Python developers connecting their applications to SQL Server, Azure SQL, and Azure Synapse. Every release is an opportunity to make that…",
+          "link": "https://365community.online/mssql-python-1-15-0-faster-more-reliable-and-built-for-your-applications",
+          "publishedOn": "2026-09-11T20:00:00.000Z",
+          "wordCount": 1930,
+          "title": "mssql-python 1.15.0: Faster, More Reliable, and Built for Your Applications",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/title-plan-update-september-11-2026",
+          "author": "Microsoft Tech Community",
+          "description": "📁September 11, 2026 - Title Plan Now Available Access the latest Instructor-Led Training (ILT) updates anytime at http://aka.ms/Courseware_Title_Plan to ensure you're always working from the most current version. 📌 Reminder: To help you stay informed more quickly and consistently, we’ve moved to a…",
+          "link": "https://365community.online/title-plan-update-september-11-2026",
+          "publishedOn": "2026-09-11T19:23:00.000Z",
+          "wordCount": 1497,
+          "title": "Title Plan Update – September 11, 2026",
           "imageUrl": null
         },
         {
@@ -84318,26 +84368,6 @@
           "publishedOn": "2024-09-15T09:23:13.000Z",
           "wordCount": 1343,
           "title": "Easy Steps to Set Up Email Notifications and Never Miss an Alert in Dynamics 365",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/digital-marketing-fundamentals-what-is-digital-marketing-digital-marketing-training-mindmajix-youtube",
-          "author": "Jaya Sri",
-          "description": "In this video we are talking about the Digital Marketing. We covered fundamentals of digital marketing and its basic terms, role of a website, different types of websites and introduction to wordpress. Whether you’re a beginner or looking to enhance your skills, this digital marketing training has everything you need to succeed in today’s digital […]",
-          "link": "https://365community.online/digital-marketing-fundamentals-what-is-digital-marketing-digital-marketing-training-mindmajix-youtube",
-          "publishedOn": "2024-09-14T12:00:59.000Z",
-          "wordCount": 1145,
-          "title": "Digital Marketing Fundamentals | What is Digital Marketing | Digital Marketing Training | MindMajix – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/heart-ke-lafde-hojaayenge%f0%9f%a7%98-youtube",
-          "author": "Sourav Raj",
-          "description": "Heart ke lafde hojaayenge🧘 source",
-          "link": "https://365community.online/heart-ke-lafde-hojaayenge%f0%9f%a7%98-youtube",
-          "publishedOn": "2024-09-14T11:53:51.000Z",
-          "wordCount": 913,
-          "title": "Heart ke lafde hojaayenge🧘 – YouTube",
           "imageUrl": null
         }
       ]
