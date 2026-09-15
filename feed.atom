@@ -2,10 +2,240 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-09-14T02:35:44.462Z</updated>
+    <updated>2026-09-15T02:39:19.937Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Make Your Organization More Efficient with MCP Connectivity and PopdockAI]]></title>
+        <id>https://erpsoftwareblog.com/?p=154085</id>
+        <link href="https://erpsoftwareblog.com/2026/09/make-your-organization-more-efficient-with-mcp-connectivity-and-popdockai/"/>
+        <updated>2026-09-14T21:10:01.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+For the everyday user, efficiency often comes down to how quickly you can get to your data. PopdockAI connects your AI with your ERP environment, whether you’re using Business Central, […]
+The post Make Your Organization More Efficient with MCP Connectivity and PopdockAI appeared first on ERP Software Blog.
+AI and the Cloud: Making Your ERP into a Platform
+How Can Dynamics Users Get Smarter with Time Tracking?
+Why Your Business Needs ERP as a Platform: Flexibility]]></summary>
+        <author>
+            <name>eOne Solutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Counter Payments Don’t Match the Ledger in Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=154737</id>
+        <link href="https://erpsoftwareblog.com/2026/09/counter-payment-reconciliation-business-central/"/>
+        <updated>2026-09-14T20:27:04.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Listen to the Podcast A customer pays for the part at the counter, but that payment does not really land in the books until someone reconciles it later. Multiply that […]
+The post When Counter Payments Don’t Match the Ledger in Business Central appeared first on ERP Software Blog.
+Warehouse Insight Now Available for Dynamics 365 Business Central
+Optimize your Distribution Process with Advanced Warehouse Management System
+There ain't no thing as a free WMS? Think again.]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central 2026 Wave 2: Key Features Distributors and Manufacturers Should Pay Attention To]]></title>
+        <id>https://erpsoftwareblog.com/?p=154623</id>
+        <link href="https://erpsoftwareblog.com/2026/09/business-central-2026-wave-2-key-features-distributors-and-manufacturers-should-pay-attention-to/"/>
+        <updated>2026-09-14T20:09:43.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Microsoft Dynamics 365 Business Central continues to evolve with each release wave, but not every new capability deserves equal attention from every company. For distributors and manufacturers, the most valuable […]
+The post Business Central 2026 Wave 2: Key Features Distributors and Manufacturers Should Pay Attention To appeared first on ERP Software Blog.
+How to Reduce Microsoft Licensing Costs
+When Business Central Customization Makes Sense
+5 Steps to a Successful Implementation of Your New Accounting System]]></summary>
+        <author>
+            <name>iCepts Technology Group, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Dynamics GP to Business Central: An Executive Playbook for a Successful ERP Migration]]></title>
+        <id>https://erpsoftwareblog.com/?p=154727</id>
+        <link href="https://erpsoftwareblog.com/2026/09/from-dynamics-gp-to-business-central-executive-playbook/"/>
+        <updated>2026-09-14T15:18:27.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+For many organizations, Microsoft Dynamics GP has been the system behind their financial operations for years, sometimes decades. It has managed the general ledger, payables and receivables, inventory, purchasing, reporting, […]
+The post From Dynamics GP to Business Central: An Executive Playbook for a Successful ERP Migration appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>360 Visibility</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does Dynamics 365 Solve the UK Construction Industry's Biggest Operational Challenges?]]></title>
+        <id>https://erpsoftwareblog.com/?p=154720</id>
+        <link href="https://erpsoftwareblog.com/2026/09/dynamics-365-uk-construction-challenges/"/>
+        <updated>2026-09-14T14:33:51.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Many construction businesses reach a point where growth starts creating complexity. Projects become larger. Supply chains become more demanding. Subcontractor networks expand. Multiple teams need access to the same information, […]
+The post How Does Dynamics 365 Solve the UK Construction Industry's Biggest Operational Challenges? appeared first on ERP Software Blog.
+How to Reduce Microsoft Licensing Costs
+When Business Central Customization Makes Sense
+5 Steps to a Successful Implementation of Your New Accounting System]]></summary>
+        <author>
+            <name>Akita Intelligent Solutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL: Automatic index compaction (preview)]]></title>
+        <id>https://kurthatlevik.com/?p=5515</id>
+        <link href="https://kurthatlevik.com/2026/09/14/sql-automatic-index-compaction-preview/"/>
+        <updated>2026-09-14T14:03:55.000Z</updated>
+        <summary type="html"><![CDATA[I was watching Microsoft youtube video’s, and came over the following video. So I asked my AI to create a blogpost on it. Looks promising 🙂 Microsoft’s Azure SQL team recently announced the public preview of Automatic Index Compaction. The headline is appealing: stop running disruptive index-maintenance jobs, reduce storage consumption, and let the database … Continue reading SQL: Automatic index compaction (preview)]]></summary>
+        <author>
+            <name>Kurt Hatlevik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HydraFusion and ALDC: choosing how to solve a task]]></title>
+        <id>https://365community.online/hydrafusion-and-aldc-choosing-how-to-solve-a-task</id>
+        <link href="https://365community.online/hydrafusion-and-aldc-choosing-how-to-solve-a-task"/>
+        <updated>2026-09-14T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Where might HydraFusion fit in AL development? A reflection on adaptive execution, context and evidence, with ALDC as a potential application.]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Business Central Testing Has to Reflect the People Who Actually Use It]]></title>
+        <id>https://erpsoftwareblog.com/?p=154710</id>
+        <link href="https://erpsoftwareblog.com/2026/09/why-business-central-testing-has-to-reflect-the-people-who-actually-use-it/"/>
+        <updated>2026-09-14T13:14:10.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+A finance leader can hear that a Business Central change has been tested and still be missing an important piece of the picture: who was it tested as? Suppose a […]
+The post Why Business Central Testing Has to Reflect the People Who Actually Use It appeared first on ERP Software Blog.
+Heads Up: Successful Forecasting and Demand Planning with AGR
+Benefits of Automatic Collection Efforts in Business Central
+Vendor Data in Accounts Payable: Best Management Practices]]></summary>
+        <author>
+            <name>Bluefort</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Automate | Licensing the Flow Nobody Owns]]></title>
+        <id>https://365community.online/power-automate-licensing-the-flow-nobody-owns</id>
+        <link href="https://365community.online/power-automate-licensing-the-flow-nobody-owns"/>
+        <updated>2026-09-14T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you have done any serious application lifecycle management work in Power Platform, you know the pattern: you move flow ownership off a human being and onto a service principal, because people change roles, people leave, and a mission critical…]]></summary>
+        <author>
+            <name>Mariano Gomez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Business Central Users Pay Too Much in Processing Fees (and What to Do About It)]]></title>
+        <id>https://erpsoftwareblog.com/?p=154290</id>
+        <link href="https://erpsoftwareblog.com/2026/09/business-central-payment-processing-fees/"/>
+        <updated>2026-09-14T10:46:38.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The monthly processing statement arrives, the total is higher than expected, and it gets approved anyway. For many organizations using Microsoft Dynamics 365 Business Central, payment processing fees become a […]
+The post Why Business Central Users Pay Too Much in Processing Fees (and What to Do About It) appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>USTPay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Locking down PAWs internet access when GSA drops]]></title>
+        <id>https://365community.online/locking-down-paws-internet-access-when-gsa-drops</id>
+        <link href="https://365community.online/locking-down-paws-internet-access-when-gsa-drops"/>
+        <updated>2026-09-14T08:38:19.000Z</updated>
+        <summary type="html"><![CDATA[By: Christian Friedel-Jain - Sr. Security Consultant | James Noyce - Sr. Security Solution Engineer  Introduction Privileged Access Workstations (PAWs) are among the most sensitive endpoints in any organization. A PAW, in most of our Microsoft consulting projects, exists to…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond reports: turning business data into better decisions with AI]]></title>
+        <id>https://erpsoftwareblog.com/?p=154695</id>
+        <link href="https://erpsoftwareblog.com/2026/09/turning-business-data-into-better-decisions-with-ai/"/>
+        <updated>2026-09-14T08:19:51.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Every organization generates data. Project plans, resource forecasts, financial figures, risk assessments, customer information, and operational metrics all contribute to a growing pool of business intelligence. Yet despite having more […]
+The post Beyond reports: turning business data into better decisions with AI appeared first on ERP Software Blog.
+What should I be tracking in my project-based business?
+Timely Invoicing: A Guide for Service Companies
+The 5 biggest challenges in resource management – and how modern software solves them]]></summary>
+        <author>
+            <name>proMX Group</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 Business Central: locking down IsolatedStorage reads.]]></title>
+        <id>https://365community.online/dynamics-365-business-central-locking-down-isolatedstorage-reads</id>
+        <link href="https://365community.online/dynamics-365-business-central-locking-down-isolatedstorage-reads"/>
+        <updated>2026-09-14T07:34:58.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve ever used Dynamics 365 Business Central IsolatedStorage object to store module-scoped settings or secret keys in AL, maybe … More]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your D365 LCS SSL Certificate Rotation Comes Back "Incomplete"]]></title>
+        <id>https://erpsoftwareblog.com/?p=148986</id>
+        <link href="https://erpsoftwareblog.com/2026/09/winrm-certificate-expired-lcs-ssl-rotation/"/>
+        <updated>2026-09-14T07:30:11.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Why Your D365 LCS SSL Certificate Rotation Comes Back "Incomplete" Certificates have a lot in common with milk. They expire quietly, nobody checks the date, and then one morning everything […]
+The post Why Your D365 LCS SSL Certificate Rotation Comes Back "Incomplete" appeared first on ERP Software Blog.
+Parcel for Microsoft Dynamics 365 Finance and Operations
+Give Employees Work Flexibility with Dynamics 365
+What Professional Service Firms Can Learn from Baseball About Improving Utilization]]></summary>
+        <author>
+            <name>Logan Consulting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central 29.0: Major Change to Table Extensions and SQL Storage.]]></title>
+        <id>https://365community.online/business-central-29-0-major-change-to-table-extensions-and-sql-storage</id>
+        <link href="https://365community.online/business-central-29-0-major-change-to-table-extensions-and-sql-storage"/>
+        <updated>2026-09-14T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi All,Business Central 29.0 introduces a major change to the data model used for table extensions. With the new model, fields from table extensions are stored in the same database table as the base table instead of being stored using the…]]></summary>
+        <author>
+            <name>Saurav Dhyani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securing AI Agent Tool Calls in Azure: Identity, Authorization, and Verified Execution]]></title>
+        <id>https://365community.online/securing-ai-agent-tool-calls-in-azure-identity-authorization-and-verified-execution</id>
+        <link href="https://365community.online/securing-ai-agent-tool-calls-in-azure-identity-authorization-and-verified-execution"/>
+        <updated>2026-09-14T04:15:00.000Z</updated>
+        <summary type="html"><![CDATA[When an agent can use tools, untrusted content can influence requests to access sensitive data or change external systems. A retrieved document might tell the agent to send a file to an external address. An attacker-controlled log field might suggest…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Reduce B2B Buying Friction With Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=154689</id>
+        <link href="https://erpsoftwareblog.com/2026/09/how-to-reduce-b2b-buying-friction-with-business-central/"/>
+        <updated>2026-09-13T18:27:24.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Most businesses want to make it easy for customers to buy. Yet many B2B purchasing processes still depend on phone calls, emails, and employee assistance for routine tasks such as […]
+The post How to Reduce B2B Buying Friction With Business Central appeared first on ERP Software Blog.
+Why Modern eCommerce Businesses Choose Business Central
+[Webinar] Solving ECommerce Challenges with Sana Commerce for Dynamics
+Top 5 Dynamics 365 Business Central and NAV Add-Ons that will Transform your Business Process]]></summary>
+        <author>
+            <name>commercebuild</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Expanding model choice in Copilot with Grok]]></title>
+        <id>https://365community.online/expanding-model-choice-in-copilot-with-grok</id>
+        <link href="https://365community.online/expanding-model-choice-in-copilot-with-grok"/>
+        <updated>2026-09-12T15:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Today we are expanding model choice in Copilot with the addition of Grok models from SpaceXAI1. This continues our commitment to bring the latest AI innovation in the industry to Copilot, tuned for work and tailored to business needs.  Adding…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lessons Learned #554: I Have Used BCP for Years — But How Does It Actually Work?]]></title>
         <id>https://365community.online/lessons-learned-554-i-have-used-bcp-for-years-but-how-does-it-actually-work</id>
@@ -1067,6 +1297,21 @@ The post Unified Dynamics 365 system administrator management in PPAC appeared f
         <summary type="html"><![CDATA[Microsoft has published the public preview of Business Central 2026 release wave 2. Reading through the change list, one thing stands out well above the feature count.]]></summary>
         <author>
             <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BOGO Pricing Strategy: Managing Complex Promotions Inside Your ERP]]></title>
+        <id>https://erpsoftwareblog.com/?p=154734</id>
+        <link href="https://erpsoftwareblog.com/2026/09/bogo-pricing-strategy-managing-complex-promotions/"/>
+        <updated>2026-09-05T16:50:53.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Did you know that according to Deloitte, 4 in 10 American consumers are considered value-seekers, making discounts, promotions, and special offers increasingly important in competitive markets.  For many organizations, Buy […]
+The post BOGO Pricing Strategy: Managing Complex Promotions Inside Your ERP appeared first on ERP Software Blog.
+How to Improve Pricing Strategy: Stop Letting Spreadsheets & Your Ego Wreck Your Pricing Strategy
+Admiral Consulting Group Newsletter: April Insights in Bloom
+Cost Plus Pricing Strategy with Pricing Intelligence]]></summary>
+        <author>
+            <name>Mark Rockwell, Rockton Software</name>
         </author>
     </entry>
     <entry>
@@ -117042,110 +117287,6 @@ Reading this article is a good place to start as we continue testing but with da
 Si…]]></summary>
         <author>
             <name>Nathan Clouse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Achieving Work-Life-Lego Balance with Craig White – YouTube]]></title>
-        <id>https://365community.online/achieving-work-life-lego-balance-with-craig-white-youtube</id>
-        <link href="https://365community.online/achieving-work-life-lego-balance-with-craig-white-youtube"/>
-        <updated>2024-09-15T10:10:17.000Z</updated>
-        <summary type="html"><![CDATA[Get ready for an inspiring episode of the Power Platform Podcast! We’re sitting down with Ecosystem Engineer Craig White, a master of balancing it all—family, hobbies, a thriving blog, and leading countless community initiatives. Want to know his secrets to stay on top while still enjoying life? You won’t want to miss this conversation! Plus, […]]]></summary>
-        <author>
-            <name>Scottish Summit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easy Steps to Set Up Email Notifications and Never Miss an Alert in Dynamics 365]]></title>
-        <id>https://365community.online/easy-steps-to-set-up-email-notifications-and-never-miss-an-alert-in-dynamics-365</id>
-        <link href="https://365community.online/easy-steps-to-set-up-email-notifications-and-never-miss-an-alert-in-dynamics-365"/>
-        <updated>2024-09-15T09:23:13.000Z</updated>
-        <summary type="html"><![CDATA[For managers, keeping track of crucial CRM alerts and notifications is vital for smooth operations and timely decisions. However, with the constant flow of alerts from different CRM activities, it’s easy to overlook important updates, leading to missed actions and delays. Alert4Dynamics by Inogic is designed to solve this problem for users of Dynamics 365 […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamic Communities CEO Discusses the Meaning of "Community"]]></title>
-        <id>https://erpsoftwareblog.com/?p=118495</id>
-        <link href="https://erpsoftwareblog.com/2024/09/dynamic-communities-ceo-discusses-the-meaning-of-community/"/>
-        <updated>2024-09-13T18:52:16.000Z</updated>
-        <summary type="html"><![CDATA[John Siefert, CEO of Dynamic Communities, joined the organization in 2020 with a clear mission: to foster a true sense of community within the Microsoft Dynamics ecosystem. Dynamic Communities, under […]
-The post Dynamic Communities CEO Discusses the Meaning of "Community" appeared first on ERP Software Blog.
-Better Information = Stronger Company in Tough Economy
-Hassle Free Upgrades with Dynamics GP Resellers!
-With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
-        <author>
-            <name>PartnerTalks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Great Reasons Why Distributors Choose Microsoft Business Central]]></title>
-        <id>https://erpsoftwareblog.com/?p=118429</id>
-        <link href="https://erpsoftwareblog.com/2024/09/10-great-reasons-why-distributors-choose-microsoft-business-central/"/>
-        <updated>2024-09-13T17:46:44.000Z</updated>
-        <summary type="html"><![CDATA[Wholesale distribution is an industry where efficiency, accuracy, and timely decision-making are crucial. With increasing competition and customer expectations, distributors must optimize their operations to remain profitable and relevant. One […]
-The post 10 Great Reasons Why Distributors Choose Microsoft Business Central appeared first on ERP Software Blog.
-Top 5 Reasons to Choose Microsoft Business Central in 2024
-Lot Control: A Non-Negotiable for Food Distribution Software
-Comparing Microsoft Essentials and Premium for Business Central]]></summary>
-        <author>
-            <name>iCepts Technology Group, Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leverage Advanced Analytics to Unlock the Future of Business Insights]]></title>
-        <id>https://erpsoftwareblog.com/?p=118470</id>
-        <link href="https://erpsoftwareblog.com/2024/09/leverage-advanced-analytics-to-unlock-your-business-insights/"/>
-        <updated>2024-09-13T17:15:57.000Z</updated>
-        <summary type="html"><![CDATA[Discover how advanced analytics revolutionizes your decision-making process by providing deeper, more actionable insights. This powerful approach to data analysis goes beyond traditional methods, enabling you to uncover hidden patterns […]
-The post Leverage Advanced Analytics to Unlock the Future of Business Insights appeared first on ERP Software Blog.
-Better Information = Stronger Company in Tough Economy
-Hassle Free Upgrades with Dynamics GP Resellers!
-With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
-        <author>
-            <name>Express Info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Excess Redistribution with Netstock and Microsoft Dynamics ERP]]></title>
-        <id>https://erpsoftwareblog.com/?p=118225</id>
-        <link href="https://erpsoftwareblog.com/2024/09/excess-redistribution-with-netstock-and-microsoft-dynamics-erp/"/>
-        <updated>2024-09-13T15:57:51.000Z</updated>
-        <summary type="html"><![CDATA[Netstock, a leading supply chain planning solution provider for small and medium-sized businesses,  announced the launch of Excess Redistribution. This innovative new feature works with your Microsoft Dynamics ERP to […]
-The post Excess Redistribution with Netstock and Microsoft Dynamics ERP appeared first on ERP Software Blog.
-Is your outdated technology keeping you from properly managing your inventory?
-The Impact of Artificial Intelligence (AI) on Warehouse Management
-Inventory Optimization: Unlocking Hidden Cash with Netstock and Dynamics 365]]></summary>
-        <author>
-            <name>Netstock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics ERP vs. Other ERP Systems: A Comprehensive Comparison]]></title>
-        <id>https://erpsoftwareblog.com/?p=118428</id>
-        <link href="https://erpsoftwareblog.com/2024/09/dynamics-erp-vs-other-erp-systems/"/>
-        <updated>2024-09-13T15:24:32.000Z</updated>
-        <summary type="html"><![CDATA[According to a report, the ERP software market is expected to be worth $300 billion by 2027. (Source: Blue Link) This fact alone indicates that businesses are increasingly incorporating ERP […]
-The post Dynamics ERP vs. Other ERP Systems: A Comprehensive Comparison  appeared first on ERP Software Blog.
-Dynamics 365: a seamless fit between ERP and CRM
-Simplify Credit Card Processing in Microsoft Dynamics GP
-Identifying Bottlenecks on a SQL Server]]></summary>
-        <author>
-            <name>Dynamics Square USA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Best Practices for Effective ERP Training]]></title>
-        <id>https://erpsoftwareblog.com/?p=117384</id>
-        <link href="https://erpsoftwareblog.com/2024/09/10-best-practices-for-effective-erp-training/"/>
-        <updated>2024-09-13T14:47:54.000Z</updated>
-        <summary type="html"><![CDATA[Adopting an Enterprise Resource Planning (ERP) system is a major step toward improving your business's efficiency, productivity, and growth potential. However, the benefits of an ERP system can only be […]
-The post 10 Best Practices for Effective ERP Training appeared first on ERP Software Blog.
-ERP Implementation
-Switch to the Cloud and Reduce your Costs
-IRAP DTAPP Funding for Small Business]]></summary>
-        <author>
-            <name>Kwixand Solutions Inc.</name>
         </author>
     </entry>
     <entry>
