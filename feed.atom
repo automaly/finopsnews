@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-09-19T02:25:16.909Z</updated>
+    <updated>2026-09-20T02:35:18.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[D365 Hacks: The Browser Strikes Back]]></title>
+        <id>https://365community.online/d365-hacks-the-browser-strikes-back</id>
+        <link href="https://365community.online/d365-hacks-the-browser-strikes-back"/>
+        <updated>2026-09-19T12:53:44.000Z</updated>
+        <summary type="html"><![CDATA[If you've worked with Dynamics 365 long enough, you know that some error messages are helpful. And some are...well...not quite as helpful. Today’s Problem Yesterday, I was working on a custom Dynamics 365 CRM app when I was greeted with…]]></summary>
+        <author>
+            <name>Angeliki Patsiavou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get an Instant Quote for Microsoft Dynamics ERP]]></title>
+        <id>https://erpsoftwareblog.com/?p=155187</id>
+        <link href="https://erpsoftwareblog.com/2026/09/microsoft-dynamics-erp-instant-quote/"/>
+        <updated>2026-09-19T10:10:12.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Choosing an ERP system is only part of the challenge. Once you have started comparing solutions, one of the biggest questions is usually: How much is this actually going to […]
+The post Get an Instant Quote for Microsoft Dynamics ERP appeared first on ERP Software Blog.
+Dynamics 365 Business Central Pricing Made Simple: A Conversation with ProSize ERP
+Welcome to Exceptional Financial Reporting with Microsoft Dynamics GP 2010
+Scary Low Prices from Microsoft’s ‘Give Me 5’ Promotion is Definitely a Treat]]></summary>
+        <author>
+            <name>ERP Software Blog Writer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why .NET Development Outsourcing Now Favors Small Senior Teams]]></title>
         <id>https://365community.online/?p=101680</id>
@@ -29,6 +54,16 @@ When Business Central Customization Makes Sense
 5 Steps to a Successful Implementation of Your New Accounting System]]></summary>
         <author>
             <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free SSL/TLS certificates for Power Pages]]></title>
+        <id>https://365community.online/free-ssl-tls-certificates-for-power-pages</id>
+        <link href="https://365community.online/free-ssl-tls-certificates-for-power-pages"/>
+        <updated>2026-09-18T19:12:04.000Z</updated>
+        <summary type="html"><![CDATA[So this is a little bit embarrassing. I was at HELish Summit in Helsinki, a really good event. The day after, I went to update my website with the session materials so anyone looking to download them could get them.…]]></summary>
+        <author>
+            <name>Nick Doelman</name>
         </author>
     </entry>
     <entry>
@@ -117276,162 +117311,6 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>PartnerTalks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unleashing Microsoft Copilot for Sales]]></title>
-        <id>https://www.encorebusiness.com/?p=63447</id>
-        <link href="https://www.encorebusiness.com/blog/unleashing-copilot-in-d365-crm/"/>
-        <updated>2024-09-20T14:21:57.000Z</updated>
-        <summary type="html"><![CDATA[Unleashing Microsoft Copilot for Sales
-In today’s fast-paced digital world, the landscape of sales has dramatically transformed. With the explosion of information and digital selling, sellers face increased responsibilities and higher expectations. Customers demand more personalized interactions, and sellers must juggle numerous tools and accounts. To address these challenges, a solution is needed that frees sellers from mundane tasks, allowing...
-Read Next: 18 Warning Signs Your Business Need the Cloud
-This post first appeared first on Encore Business Solutions.]]></summary>
-        <author>
-            <name>Tracey Santos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boost Efficiency and Growth: The Top Benefits of Dynamics 365 Finance and Operations]]></title>
-        <id>https://erpsoftwareblog.com/?p=118576</id>
-        <link href="https://erpsoftwareblog.com/2024/09/benefits-of-dynamics-365-finance-and-operations/"/>
-        <updated>2024-09-20T13:10:41.000Z</updated>
-        <summary type="html"><![CDATA[Dynamics 365 Finance and Operations is a comprehensive solution, and it is suitable for an array of industries including service, retail, healthcare, automotive, distribution, and the public sector. F&O provides […]
-The post Boost Efficiency and Growth: The Top Benefits of Dynamics 365 Finance and Operations  appeared first on ERP Software Blog.
-Better Information = Stronger Company in Tough Economy
-Hassle Free Upgrades with Dynamics GP Resellers!
-With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
-        <author>
-            <name>Dynamics Square USA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Show Features With Demo Dataset For Czechia]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-show-features-with-demo-dataset-for-czechia</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-show-features-with-demo-dataset-for-czechia"/>
-        <updated>2024-09-20T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 4th of the new functionality in the Country and regional section is show features with […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Platform Community Conference & Copilot Wave 2]]></title>
-        <id>https://365community.online/power-platform-community-conference-copilot-wave-2</id>
-        <link href="https://365community.online/power-platform-community-conference-copilot-wave-2"/>
-        <updated>2024-09-20T11:34:32.000Z</updated>
-        <summary type="html"><![CDATA[This week was a busy week in the Microsoft BizApps world. The Power Platform Community Conference (PPCC) was held. The Microsoft 365 Copilot wave 2 was announced too. I will not just ask Microsoft Copilot to write me a summary of what is going on, I will also reason over it myself. Copilot Agents, autonomous […]]]></summary>
-        <author>
-            <name>Carina Claesson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tag someone who takes too long to review your code – YouTube]]></title>
-        <id>https://365community.online/tag-someone-who-takes-too-long-to-review-your-code-youtube</id>
-        <link href="https://365community.online/tag-someone-who-takes-too-long-to-review-your-code-youtube"/>
-        <updated>2024-09-20T11:30:29.000Z</updated>
-        <summary type="html"><![CDATA[Tag someone who takes too long to review your code source]]></summary>
-        <author>
-            <name>Sourav Raj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webinar: Empower your Field Operations with integrated maps in Dynamics 365 & Power Pages!]]></title>
-        <id>https://365community.online/webinar-empower-your-field-operations-with-integrated-maps-in-dynamics-365-power-pages-2</id>
-        <link href="https://365community.online/webinar-empower-your-field-operations-with-integrated-maps-in-dynamics-365-power-pages-2"/>
-        <updated>2024-09-20T10:49:49.000Z</updated>
-        <summary type="html"><![CDATA[“Success happens when preparation meets opportunity” As Team Maplytics, we’ve embraced this philosophy for years, continuously improving our solutions to keep pace with the evolving demands of field operations. For more than a decade now, we have unveiled noteworthy innovations in integrated mapping within Dynamics 365, Dataverse, PowerApps, and even Power Pages! Join us for […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I…  Use the “Create Record V3” Action]]></title>
-        <id>https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-create-record-v3-action</id>
-        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-create-record-v3-action"/>
-        <updated>2024-09-20T10:00:15.000Z</updated>
-        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I… series, a sub-series of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Techtember Webinars: Exclusive Preview of Inogic’s Innovations at Community Summit NA!]]></title>
-        <id>https://365community.online/techtember-webinars-exclusive-preview-of-inogics-innovations-at-community-summit-na</id>
-        <link href="https://365community.online/techtember-webinars-exclusive-preview-of-inogics-innovations-at-community-summit-na"/>
-        <updated>2024-09-20T09:19:43.000Z</updated>
-        <summary type="html"><![CDATA[In the competitive landscape of sales and customer relationship management, leveraging smart business solutions is essential for gaining an edge. By streamlining sales communication through integrations with platforms like WhatsApp, SMS, and live chat, along with effective document storage and management, you can significantly enhance your Dynamics 365 CRM experience. These integrations not only improve […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekly Update #153 – 20th September 2024 – YouTube]]></title>
-        <id>https://365community.online/weekly-update-153-20th-september-2024-youtube</id>
-        <link href="https://365community.online/weekly-update-153-20th-september-2024-youtube"/>
-        <updated>2024-09-20T06:15:49.000Z</updated>
-        <summary type="html"><![CDATA[Weekly Update #153 – 20th September 2024 Tune in as I explore the latest Azure updates from the past week. Enjoyed the podcast? Consider buying me a coffee to show your support: ⁠⁠⁠https://ko-fi.com/techielass Tune in as I explore the latest Azure updates from the past week. Enjoyed the podcast? Consider buying me a coffee to […]]]></summary>
-        <author>
-            <name>Sarah Lean ???????</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[¿Tienes 5 minutos? En menos tiempo puedes instalar Copilot for Finance en Business Central. – YouTube]]></title>
-        <id>https://365community.online/tienes-5-minutos-en-menos-tiempo-puedes-instalar-copilot-for-finance-en-business-central-youtube</id>
-        <link href="https://365community.online/tienes-5-minutos-en-menos-tiempo-puedes-instalar-copilot-for-finance-en-business-central-youtube"/>
-        <updated>2024-09-20T06:00:08.000Z</updated>
-        <summary type="html"><![CDATA[¿Tienes 5 minutos? En menos tiempo puedes instalar Copilot for Finance en Business Central. En este video, te muestro cómo puedes instalar Copilot For Finance en Business Central en menos de 5 minutos. Copilot For Finance es la herramienta de inteligencia artificial de Microsoft que facilita la gestión financiera, proporcionando automatización de tareas y recomendaciones […]]]></summary>
-        <author>
-            <name>jarmesto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build user-focused intelligent solutions in Power Apps, start with a plan.]]></title>
-        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/build-user-focused-intelligent-solutions-in-power-apps-start-with-a-plan/</id>
-        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/build-user-focused-intelligent-solutions-in-power-apps-start-with-a-plan/"/>
-        <updated>2024-09-19T21:50:10.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Power Apps announces ability to co-create a solution plan with Copilot in Power Apps and improved intelligent features for data input and management.
-The post Build user-focused intelligent solutions in Power Apps, start with a plan. appeared first on Microsoft Power Platform Blog.]]></summary>
-        <author>
-            <name>Clay Wesener</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Close the Month Using a Business Central Dashboard]]></title>
-        <id>https://erpsoftwareblog.com/?p=118633</id>
-        <link href="https://erpsoftwareblog.com/2024/09/how-to-close-the-month-using-a-business-central-dashboard/"/>
-        <updated>2024-09-19T19:21:04.000Z</updated>
-        <summary type="html"><![CDATA[For new users of Microsoft Dynamics 365 Business Central one of the most frequently asked questions is, “Does Business Central have a list of month end closing tasks?” Not only […]
-The post How to Close the Month Using a Business Central Dashboard appeared first on ERP Software Blog.
-To upgrade or not to upgrade: the case for moving from NAV to Dynamics 365 Business Central
-Microsoft Dynamics 365 Business Central ERP Implementation: Ask Yourself ‘Which Features Do I Really Need?’
-Learn How To Save Time By Using The "Cancel" Option to Reverse A Posted Sales Invoice]]></summary>
-        <author>
-            <name>Michael Ramatowski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New-but-not-new feature]]></title>
-        <id>https://365community.online/new-but-not-new-feature</id>
-        <link href="https://365community.online/new-but-not-new-feature"/>
-        <updated>2024-09-19T15:51:26.000Z</updated>
-        <summary type="html"><![CDATA[Using Bulk Data Updater can be a bit scary… Which records did I update? Which fields did I change? What did really happen?? I have a soft spot in my heart, and the spot is logging… I’m not a big fan of logs , but I’m a fan of logs . If you have read […]]]></summary>
-        <author>
-            <name>Jonas Rapp ᴹᴠᴾ ??</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Business Central Wave 2 Updates: A Comprehensive Exploration]]></title>
-        <id>https://erpsoftwareblog.com/?p=118630</id>
-        <link href="https://erpsoftwareblog.com/2024/09/dynamics-365-business-central-wave-2-updates-a-comprehensive-exploration/"/>
-        <updated>2024-09-19T15:18:20.000Z</updated>
-        <summary type="html"><![CDATA[The Dynamics 365 Business Central Wave 2 updates represent a significant milestone in the evolution of this powerful ERP solution. These updates introduce a wealth of new features and enhancements […]
-The post Dynamics 365 Business Central Wave 2 Updates: A Comprehensive Exploration appeared first on ERP Software Blog.
-Dynamics 365 Business Central and Industry-Tailored Functionality
-Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
-Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve]]></summary>
-        <author>
-            <name>Dynamics Square UK</name>
         </author>
     </entry>
     <entry>
