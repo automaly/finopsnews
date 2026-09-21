@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-09-20T02:35:18.320Z</updated>
+    <updated>2026-09-21T02:32:49.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From Quality Order to Quality Decision: Performing the Inspection – Part 5]]></title>
+        <id>http://exploredynamics365.home.blog/?p=3182</id>
+        <link href="https://exploredynamics365.home.blog/2026/09/20/from-quality-order-to-quality-decision-performing-the-inspection-part-5/"/>
+        <updated>2026-09-20T13:13:43.000Z</updated>
+        <summary type="html"><![CDATA[Overview In Part 4, we followed a real business transaction at USMF Bottled Water Manufacturing Ltd. We created a Purchase Order for 10,000 Empty PET Bottles, confirmed the order, posted the Product Receipt, and watched Dynamics 365 automatically create a Quality Order based on our Quality Association. But creating a Quality Order is only the […]]]></summary>
+        <author>
+            <name>Arvind Bharti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agents vs Skills: Between the Agentic Monolith and Agentic Bureaucracy]]></title>
+        <id>https://365community.online/agents-vs-skills-between-the-agentic-monolith-and-agentic-bureaucracy</id>
+        <link href="https://365community.online/agents-vs-skills-between-the-agentic-monolith-and-agentic-bureaucracy"/>
+        <updated>2026-09-20T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We still need agents, but not every capability deserves its own actor. A practical reflection on responsibility, skills, context boundaries, ALDC Graph, and the cost of agentic complexity.]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What McKinsey Got Right and Wrong About AI Disrupting ERP]]></title>
+        <id>https://365community.online/what-mckinsey-got-right-and-wrong-about-ai-disrupting-erp</id>
+        <link href="https://365community.online/what-mckinsey-got-right-and-wrong-about-ai-disrupting-erp"/>
+        <updated>2026-09-20T04:07:00.000Z</updated>
+        <summary type="html"><![CDATA[McKinsey says ERP migrations cost $100 million to $1 billion and that AI will cut implementation time in half. Neither matches what I see on Dynamics 365 projects. A point-by-point reaction to their five predictions.]]></summary>
+        <author>
+            <name>Dag Calafell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[D365 Hacks: The Browser Strikes Back]]></title>
         <id>https://365community.online/d365-hacks-the-browser-strikes-back</id>
@@ -42,6 +72,16 @@ Scary Low Prices from Microsoft’s ‘Give Me 5’ Promotion is Definitely a Tr
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Microphone and Camera Streaming for Mixed Reality Link]]></title>
+        <id>https://365community.online/microphone-and-camera-streaming-for-mixed-reality-link</id>
+        <link href="https://365community.online/microphone-and-camera-streaming-for-mixed-reality-link"/>
+        <updated>2026-09-18T20:44:23.000Z</updated>
+        <summary type="html"><![CDATA[Our latest release of Mixed Reality Link introduces new ways to connect your mixed reality headset with your Windows PC. With this update, your headset becomes more than just a display. You can now use its built-in microphone and cameras…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Insight Works Adds Priority1 Support to Dynamic Ship for Microsoft Dynamics 365 Business Central]]></title>
         <id>https://erpsoftwareblog.com/?p=154997</id>
         <link href="https://erpsoftwareblog.com/2026/09/priority1-dynamic-ship-for-business-central/"/>
@@ -57,6 +97,16 @@ When Business Central Customization Makes Sense
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Title Plan Update – September 18, 2026]]></title>
+        <id>https://365community.online/title-plan-update-september-18-2026</id>
+        <link href="https://365community.online/title-plan-update-september-18-2026"/>
+        <updated>2026-09-18T19:18:28.000Z</updated>
+        <summary type="html"><![CDATA[📁September 18, 2026 - Title Plan Now Available Access the latest Instructor-Led Training (ILT) updates anytime at http://aka.ms/Courseware_Title_Plan to ensure you're always working from the most current version. 📌 Reminder: To help you stay informed more quickly and consistently, we’ve moved to a…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Free SSL/TLS certificates for Power Pages]]></title>
         <id>https://365community.online/free-ssl-tls-certificates-for-power-pages</id>
         <link href="https://365community.online/free-ssl-tls-certificates-for-power-pages"/>
@@ -64,6 +114,36 @@ When Business Central Customization Makes Sense
         <summary type="html"><![CDATA[So this is a little bit embarrassing. I was at HELish Summit in Helsinki, a really good event. The day after, I went to update my website with the session materials so anyone looking to download them could get them.…]]></summary>
         <author>
             <name>Nick Doelman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A2A Endpoints and A2A Tool in Microsoft Foundry agents]]></title>
+        <id>https://365community.online/a2a-endpoints-and-a2a-tool-in-microsoft-foundry-agents</id>
+        <link href="https://365community.online/a2a-endpoints-and-a2a-tool-in-microsoft-foundry-agents"/>
+        <updated>2026-09-18T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Agent-to-agent collaboration just became much easier to build in Microsoft Foundry. The A2A Tool and incoming A2A endpoints support A2A protocol version 1.0, which is generally available. The earlier a2a_preview tool type and protocol version 0.3 remain available in preview…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two modes combined: Windows Admin Center version 2610 is now in public preview!]]></title>
+        <id>https://365community.online/two-modes-combined-windows-admin-center-version-2610-is-now-in-public-preview</id>
+        <link href="https://365community.online/two-modes-combined-windows-admin-center-version-2610-is-now-in-public-preview"/>
+        <updated>2026-09-18T18:09:48.000Z</updated>
+        <summary type="html"><![CDATA[We’ve been working on something big, and now we’d like to share it with you and get your feedback before we release to general availability. The time has come—we’ve combined Windows Admin Center: Administration Mode (aMode) and Windows Admin Center: Virtualization…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FinOps-Ready Azure Landing Zone – Part 2]]></title>
+        <id>https://365community.online/finops-ready-azure-landing-zone-part-2</id>
+        <link href="https://365community.online/finops-ready-azure-landing-zone-part-2"/>
+        <updated>2026-09-18T17:30:45.000Z</updated>
+        <summary type="html"><![CDATA[Author's Note: Vendor names referenced in this article are used solely as illustrative architectural examples and should not be interpreted as endorsements, recommendations, or advertisements. Introduction In Part 1, we looked at how Azure-native services can establish the foundation for a…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
         </author>
     </entry>
     <entry>
@@ -117249,68 +117329,6 @@ With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summar
         <summary type="html"><![CDATA[Day 4 2024 Power Platform Community Conference source]]></summary>
         <author>
             <name>NZ365Guy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Discovered the Secret to Writing Bug Free Code – YouTube]]></title>
-        <id>https://365community.online/i-discovered-the-secret-to-writing-bug-free-code-youtube</id>
-        <link href="https://365community.online/i-discovered-the-secret-to-writing-bug-free-code-youtube"/>
-        <updated>2024-09-21T06:30:23.000Z</updated>
-        <summary type="html"><![CDATA[I Discovered the Secret to Writing Bug Free Code As a developer, dealing with bugs is one of the most frustrating aspects of coding. But what if I told you that there are secrets to writing bug-free code? In this video, I’ll share the methods and practices I’ve uncovered over the years that helped me […]]]></summary>
-        <author>
-            <name>Sourav Raj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Track Vendor Performance and How It Matters?]]></title>
-        <id>https://erpsoftwareblog.com/?p=118724</id>
-        <link href="https://erpsoftwareblog.com/2024/09/why-track-vendor-performance-and-how-it-matters/"/>
-        <updated>2024-09-21T03:44:24.000Z</updated>
-        <summary type="html"><![CDATA[Why Do We Measure How Well Vendors Do? Keeping an eye on your vendor management to be strong and working well. You can learn much about your Vendor’s work by watching important […]
-The post Why Track Vendor Performance and How It Matters? appeared first on ERP Software Blog.
-Top 3 KPIs for Manufacturing, Operations and Finance
-Efficient Inventory Management: Unlocking Stock Levels with LS Central
-How Vendor Portal Enhances RFQ Management in Business Central]]></summary>
-        <author>
-            <name>MetaOption LLC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to add resources to a project in dynamics 365 Finance and Supply chain through UI and Automation]]></title>
-        <id>http://elearnd365.com/?p=1551</id>
-        <link href="https://elearnd365.com/2024/09/20/how-to-add-resources-to-a-project-in-dynamics-365-finance-and-supply-chain-through-ui-and-automation/"/>
-        <updated>2024-09-21T00:45:00.000Z</updated>
-        <summary type="html"><![CDATA[When you work with project management and accounting or project operations often times you have to set up resources on your Projects.Let’s look at different ways of managing resources depending on the size of your consulting organization and projects. Resource management is tightly linked to scope, budget and timeline planning. Prerequisites: –If you want to […]]]></summary>
-        <author>
-            <name>Sukrut Parab</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the Difference Between Business Intelligence and Reporting]]></title>
-        <id>https://erpsoftwareblog.com/?p=118721</id>
-        <link href="https://erpsoftwareblog.com/2024/09/difference-between-business-intelligence-and-reporting/"/>
-        <updated>2024-09-20T21:51:43.000Z</updated>
-        <summary type="html"><![CDATA[Searching for “what’s the difference between business intelligence and reporting” or something similar gets a lot of results online with various interpretations. Business intelligence (BI) is a buzzword with many meanings, depending […]
-The post Understanding the Difference Between Business Intelligence and Reporting  appeared first on ERP Software Blog.
-Ep. 63: Interview with Kennie Pontoppidan | A Shot of Business Central and A Beer podcast
-Are the Analytics in Your Business Management System Enough?
-Register Now for JourneyTEAM’s 2021 Business Technology Summit]]></summary>
-        <author>
-            <name>Tigunia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PartnerTalks and MSDW Connecting ISVs with Microsoft Partners]]></title>
-        <id>https://erpsoftwareblog.com/?p=118715</id>
-        <link href="https://erpsoftwareblog.com/2024/09/connecting-isvs-with-microsoft-partners/"/>
-        <updated>2024-09-20T18:33:16.000Z</updated>
-        <summary type="html"><![CDATA[PartnerTalks and MSDynamicsWorld (MSDW) are connecting ISVs with Microsoft Partners through a new Partner Acquisition Program. MSDW and PartnerTalks want to forge valuable connections and foster growth for both ISVs […]
-The post PartnerTalks and MSDW Connecting ISVs with Microsoft Partners appeared first on ERP Software Blog.
-Better Information = Stronger Company in Tough Economy
-Hassle Free Upgrades with Dynamics GP Resellers!
-With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
-        <author>
-            <name>PartnerTalks</name>
         </author>
     </entry>
     <entry>
