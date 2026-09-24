@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-09-23T02:35:36.993Z</updated>
+    <updated>2026-09-24T02:24:27.846Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Enable Microsoft 365 Copilot in Model-Driven Apps]]></title>
+        <id>https://365community.online/how-to-enable-microsoft-365-copilot-in-model-driven-apps</id>
+        <link href="https://365community.online/how-to-enable-microsoft-365-copilot-in-model-driven-apps"/>
+        <updated>2026-09-23T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 365 Copilot brings conversational AI directly into Model-Driven Apps, allowing users to ask natural language questions about Dataverse data, quickly locate records, and improve productivity without leaving the application. In this post, we walk through the steps we follow…]]></summary>
+        <author>
+            <name>Nishant Rana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Menu Configuration for Microsoft Dynamics 365 F&O]]></title>
+        <id>https://dynamicspedia.com/?p=20702</id>
+        <link href="https://dynamicspedia.com/2026/09/introducing-menu-configuration-for-microsoft-dynamics-365-fo/"/>
+        <updated>2026-09-23T06:41:29.000Z</updated>
+        <summary type="html"><![CDATA[Usually, when people asked if it is possible to hide menus as they don’t need specific menus or if it only contains duplicate menu items already present in another menu, then I had to say that the option is not available in the standard application. Already a long time ago, I found a place where […]
+The post Introducing Menu Configuration for Microsoft Dynamics 365 F&O appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Impact of AI 10 – Building Judgement Through a Frontier Capability Organisation]]></title>
+        <id>https://365community.online/impact-of-ai-10-building-judgement-through-a-frontier-capability-organisation</id>
+        <link href="https://365community.online/impact-of-ai-10-building-judgement-through-a-frontier-capability-organisation"/>
+        <updated>2026-09-23T04:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Every organisation sits on a fork: keep investing in the loop that renews judgement, or let it quietly lapse because sustaining it costs more than letting it go. This final piece in the series sets out the four habits of…]]></summary>
+        <author>
+            <name>Simon Owen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Alphabet Soup of Federal Contracting: Mastering CPFF, T&M, and FFP with XTIVIA GovCon365]]></title>
         <id>https://erpsoftwareblog.com/?p=155354</id>
@@ -117364,27 +117395,6 @@ Why Fabless Semiconductor Companies Rely on Tensoft SemiOps: 3 Minute Video]]></
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Find Customers and Vendors With Invalid or Missing Email Addresses in D365FO]]></title>
-        <id>https://ax.docentric.com/?p=29059</id>
-        <link href="https://ax.docentric.com/find-accounts-without-email-address-in-d365fo/"/>
-        <updated>2024-09-24T14:01:14.000Z</updated>
-        <summary type="html"><![CDATA[Are you emailing the public-facing documents, such as Sales invoices and Purchase orders, through Print management in D365FO? That means that you need to use Email tokens in the To field of your Email print destination. And if you don’t have perfect quality of your […]
-The post Find Customers and Vendors With Invalid or Missing Email Addresses in D365FO appeared first on Docentric AX.]]></summary>
-        <author>
-            <name>Sanja Kolundzija</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Use Advanced Settings In The Power Bi Connector]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-use-advanced-settings-in-the-power-bi-connector</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-use-advanced-settings-in-the-power-bi-connector"/>
-        <updated>2024-09-24T14:00:41.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 3rd of the new functionality in the Reporting and data analysis section is use advanced […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Business Central is empowering Accountants]]></title>
         <id>https://erpsoftwareblog.com/?p=118734</id>
         <link href="https://erpsoftwareblog.com/2024/09/how-business-central-is-empowering-accountants/"/>
@@ -117396,16 +117406,6 @@ Microsoft Dynamics 365 Business Central is now available! Business without silos
 What is Microsoft Dynamics 365 Business Central? - Webinar]]></summary>
         <author>
             <name>x2x eCommerce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MVP Renewal for 2024/2025]]></title>
-        <id>https://365community.online/mvp-renewal-for-2024-2025</id>
-        <link href="https://365community.online/mvp-renewal-for-2024-2025"/>
-        <updated>2024-09-24T13:15:00.000Z</updated>
-        <summary type="html"><![CDATA[This is quite delayed as I am writing this in September, two months after the fact! I was re-awarded the Microsoft MVP award, my 8th award, in July 2024. What's new this time around is I am no longer a "Business Applications" MVP, I have been awarded instead for 2 categories – M365 (for Excel), […]]]></summary>
-        <author>
-            <name>Jen Kuntz</name>
         </author>
     </entry>
     <entry>
@@ -117437,67 +117437,6 @@ Revenue Recognition Solutions for Technology Companies
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Do Ad Hoc Analysis On Fixed Assets, Projects, And Services]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-do-ad-hoc-analysis-on-fixed-assets-projects-and-services</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-do-ad-hoc-analysis-on-fixed-assets-projects-and-services"/>
-        <updated>2024-09-24T12:00:04.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 2nd of the new functionality in the Reporting and data analysis section is do ad […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visualize, Prioritize, and Track Tasks with ease – Kanban Board’s New Features for Dynamic 365 CRM!]]></title>
-        <id>https://365community.online/visualize-prioritize-and-track-tasks-with-ease-kanban-boards-new-features-for-dynamic-365-crm</id>
-        <link href="https://365community.online/visualize-prioritize-and-track-tasks-with-ease-kanban-boards-new-features-for-dynamic-365-crm"/>
-        <updated>2024-09-24T10:17:01.000Z</updated>
-        <summary type="html"><![CDATA[Imagine a workspace where complex workflows are transformed into a visually intuitive, easily manageable process. Kanban Board by Inogic offers just that, providing a dynamic way to visualize and manage your Dynamics 365 and Dataverse data. By converting your data into a clear, card-based view, Kanban Boards bring unprecedented clarity and control to your CRM […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I…  Use the “Delete Record V3” Action]]></title>
-        <id>https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-delete-record-v3-action</id>
-        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-delete-record-v3-action"/>
-        <updated>2024-09-24T10:00:16.000Z</updated>
-        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I… series, a sub-series of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZUGFeRD 2.2 import for Dynamics 365 for Finance]]></title>
-        <id>https://erconsult.eu/?p=8702</id>
-        <link href="https://erconsult.eu/blog/zugferd-2-2-import-for-dynamics-365-for-finance/"/>
-        <updated>2024-09-24T09:54:11.000Z</updated>
-        <summary type="html"><![CDATA[The ZUGFeRD format integrates a human-readable PDF/A-3 with an embedded XML file using the CII (Cross-Industry Invoice) syntax, also applicable to xRechnung, a pure XML format for German e-invoices. Starting in 2025, B2B businesses in Germany must handle e-invoices. Microsoft Dynamics 365 for Finance currently supports UBL-based xRechnung imports, but ER-Consult offers a CII-compliant ZUGFeRD import solution. This solution operates without customizations, ensuring integration into existing systems, aligning with legal requirements, and supporting PO matching and tax compliance.
-The post ZUGFeRD 2.2 import for Dynamics 365 for Finance appeared first on ER-Consult.]]></summary>
-        <author>
-            <name>Eugen Glasow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There is already an object named ‘LICENSING_POPULATEROLEPRIVILEGELICENSEMAPV2’ in the database]]></title>
-        <id>https://365community.online/there-is-already-an-object-named-licensing_populateroleprivilegelicensemapv2-in-the-database</id>
-        <link href="https://365community.online/there-is-already-an-object-named-licensing_populateroleprivilegelicensemapv2-in-the-database"/>
-        <updated>2024-09-24T09:29:21.000Z</updated>
-        <summary type="html"><![CDATA[I encountered the error when a new VM with 10.0.39 was deployed and trying to sync the database. Execute this below command in SQL and try the sync again. DROP PROCEDURE IF EXISTS LICENSING_POPULATEROLEPRIVILEGELICENSEMAPV2 GO Continue Reading AnithaEswaran’s Article on their blog There is already an object named ‘LICENSING_POPULATEROLEPRIVILEGELICENSEMAPV2’ in the database I encountered the […]]]></summary>
-        <author>
-            <name>Anitha Santosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There is already an object named ‘LICENSING_POPULATEROLEPRIVILEGELICENSEMAPV2’ in the database]]></title>
-        <id>http://anithasantosh.wordpress.com/?p=3601</id>
-        <link href="https://anithasantosh.wordpress.com/2024/09/24/there-is-already-an-object-named-licensing_populateroleprivilegelicensemapv2-in-the-database/"/>
-        <updated>2024-09-24T09:29:21.000Z</updated>
-        <summary type="html"><![CDATA[I encountered the error when a new VM with 10.0.39 was deployed and trying to sync the database. Execute this below command in SQL and try the sync again.]]></summary>
-        <author>
-            <name>AnithaEswaran</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft Update: Dynamics 365 Human Resources Merges with Finance and Operations]]></title>
         <id>https://erpsoftwareblog.com/?p=118816</id>
         <link href="https://erpsoftwareblog.com/2024/09/microsoft-update-dynamics-365-human-resources-merges-with-finance-and-operations/"/>
@@ -117512,27 +117451,6 @@ Three Can’t Miss Dynamics 365 New Features Coming Soon]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Create Segments From Marketing Lists In Realtime Marketing]]></title>
-        <id>https://365community.online/create-segments-from-marketing-lists-in-realtime-marketing</id>
-        <link href="https://365community.online/create-segments-from-marketing-lists-in-realtime-marketing"/>
-        <updated>2024-09-24T07:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Now this one is something I tend NOT to suggest but it is definitely a request that comes up A LOT. How can I create a segment of people I can just add by picking people myself, or based on an upload file. If there isn’t any filtering criteria, you can use the Include Members […]]]></summary>
-        <author>
-            <name>Megan V. Walker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tabular View, Advanced Search and Update in Bulk of D365FO Print Management Settings]]></title>
-        <id>https://ax.docentric.com/?p=29056</id>
-        <link href="https://ax.docentric.com/d365fo-print-management-tabular-view-and-bulk-update/"/>
-        <updated>2024-09-23T22:55:30.000Z</updated>
-        <summary type="html"><![CDATA[So, you have mastered the D365FO Print Management, but you find it annoying that the settings are accessible one by one, instead in a convenient tabular view? It is a common configuration to have one Default and multiple Conditional setting, and perhaps also some Copy […]
-The post Tabular View, Advanced Search and Update in Bulk of D365FO Print Management Settings appeared first on Docentric AX.]]></summary>
-        <author>
-            <name>Sanja Kolundzija</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Saddle Up for Community Summit North America 2024]]></title>
         <id>https://erpsoftwareblog.com/?p=118809</id>
         <link href="https://erpsoftwareblog.com/2024/09/saddle-up-for-community-summit-north-america-2024/"/>
@@ -117544,16 +117462,6 @@ Are You Getting The Most From Your ERP Solution or Are You On Cruise Control?
 5 Benefits of Having a Certified Microsoft Dynamics GP Partner]]></summary>
         <author>
             <name>Solver Inc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use the new Associated Grid Control to display details of other tables in subgrids  – Model-driven App / Dynamics 365]]></title>
-        <id>https://365community.online/use-the-new-associated-grid-control-to-display-details-of-other-tables-in-subgrids-model-driven-app-dynamics-365</id>
-        <link href="https://365community.online/use-the-new-associated-grid-control-to-display-details-of-other-tables-in-subgrids-model-driven-app-dynamics-365"/>
-        <updated>2024-09-23T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[With the Associated Grid Control we can configure and show up four subgrids in the form, making it a more intuitive and cleaner form layout, with ease of navigation. Below we are adding the Associated Grid Control component to the Contact’s form. Here we have specified the Subgrid Tables and Views to begin with. For […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
         </author>
     </entry>
     <entry>

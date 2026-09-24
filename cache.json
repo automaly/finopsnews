@@ -43341,6 +43341,26 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/how-to-enable-microsoft-365-copilot-in-model-driven-apps",
+          "author": "Nishant Rana",
+          "description": "Microsoft 365 Copilot brings conversational AI directly into Model-Driven Apps, allowing users to ask natural language questions about Dataverse data, quickly locate records, and improve productivity without leaving the application. In this post, we walk through the steps we follow…",
+          "link": "https://365community.online/how-to-enable-microsoft-365-copilot-in-model-driven-apps",
+          "publishedOn": "2026-09-23T18:35:00.000Z",
+          "wordCount": 2357,
+          "title": "How to Enable Microsoft 365 Copilot in Model-Driven Apps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/impact-of-ai-10-building-judgement-through-a-frontier-capability-organisation",
+          "author": "Simon Owen",
+          "description": "Every organisation sits on a fork: keep investing in the loop that renews judgement, or let it quietly lapse because sustaining it costs more than letting it go. This final piece in the series sets out the four habits of…",
+          "link": "https://365community.online/impact-of-ai-10-building-judgement-through-a-frontier-capability-organisation",
+          "publishedOn": "2026-09-23T04:30:07.000Z",
+          "wordCount": 4961,
+          "title": "Impact of AI 10 – Building Judgement Through a Frontier Capability Organisation",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/the-right-evidence-asked-at-the-wrong-moment-also-blocks",
           "author": "jarmesto",
           "description": "What the AI-DLC adoption anti-patterns teach us about architecture, technical specification and gates in ALDC.",
@@ -84614,86 +84634,6 @@
           "wordCount": 1092,
           "title": "Dynamics 365 Business Central: Power Automate flows using business events may require a refresh.",
           "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-use-advanced-settings-in-the-power-bi-connector",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 3rd of the new functionality in the Reporting and data analysis section is use advanced […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-use-advanced-settings-in-the-power-bi-connector",
-          "publishedOn": "2024-09-24T14:00:41.000Z",
-          "wordCount": 1113,
-          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Use Advanced Settings In The Power Bi Connector",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/mvp-renewal-for-2024-2025",
-          "author": "Jen Kuntz",
-          "description": "This is quite delayed as I am writing this in September, two months after the fact! I was re-awarded the Microsoft MVP award, my 8th award, in July 2024. What's new this time around is I am no longer a \"Business Applications\" MVP, I have been awarded instead for 2 categories – M365 (for Excel), […]",
-          "link": "https://365community.online/mvp-renewal-for-2024-2025",
-          "publishedOn": "2024-09-24T13:15:00.000Z",
-          "wordCount": 1053,
-          "title": "MVP Renewal for 2024/2025",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-do-ad-hoc-analysis-on-fixed-assets-projects-and-services",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Dynamics 365 Business Central 2024 Wave 2. The 2nd of the new functionality in the Reporting and data analysis section is do ad […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-dynamics-365-business-central-2024-wave-2-do-ad-hoc-analysis-on-fixed-assets-projects-and-services",
-          "publishedOn": "2024-09-24T12:00:04.000Z",
-          "wordCount": 1122,
-          "title": "New Functionality In Microsoft Dynamics 365 Business Central 2024 Wave 2: Do Ad Hoc Analysis On Fixed Assets, Projects, And Services",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/visualize-prioritize-and-track-tasks-with-ease-kanban-boards-new-features-for-dynamic-365-crm",
-          "author": "Inogic",
-          "description": "Imagine a workspace where complex workflows are transformed into a visually intuitive, easily manageable process. Kanban Board by Inogic offers just that, providing a dynamic way to visualize and manage your Dynamics 365 and Dataverse data. By converting your data into a clear, card-based view, Kanban Boards bring unprecedented clarity and control to your CRM […]",
-          "link": "https://365community.online/visualize-prioritize-and-track-tasks-with-ease-kanban-boards-new-features-for-dynamic-365-crm",
-          "publishedOn": "2024-09-24T10:17:01.000Z",
-          "wordCount": 1346,
-          "title": "Visualize, Prioritize, and Track Tasks with ease – Kanban Board’s New Features for Dynamic 365 CRM!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-delete-record-v3-action",
-          "author": "Ian Grieve",
-          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I… series, a sub-series of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I […]",
-          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-delete-record-v3-action",
-          "publishedOn": "2024-09-24T10:00:16.000Z",
-          "wordCount": 1104,
-          "title": "In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I…  Use the “Delete Record V3” Action",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/there-is-already-an-object-named-licensing_populateroleprivilegelicensemapv2-in-the-database",
-          "author": "Anitha Santosh",
-          "description": "I encountered the error when a new VM with 10.0.39 was deployed and trying to sync the database. Execute this below command in SQL and try the sync again. DROP PROCEDURE IF EXISTS LICENSING_POPULATEROLEPRIVILEGELICENSEMAPV2 GO Continue Reading AnithaEswaran’s Article on their blog There is already an object named ‘LICENSING_POPULATEROLEPRIVILEGELICENSEMAPV2’ in the database I encountered the […]",
-          "link": "https://365community.online/there-is-already-an-object-named-licensing_populateroleprivilegelicensemapv2-in-the-database",
-          "publishedOn": "2024-09-24T09:29:21.000Z",
-          "wordCount": 1019,
-          "title": "There is already an object named ‘LICENSING_POPULATEROLEPRIVILEGELICENSEMAPV2’ in the database",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/create-segments-from-marketing-lists-in-realtime-marketing",
-          "author": "Megan V. Walker",
-          "description": "Now this one is something I tend NOT to suggest but it is definitely a request that comes up A LOT. How can I create a segment of people I can just add by picking people myself, or based on an upload file. If there isn’t any filtering criteria, you can use the Include Members […]",
-          "link": "https://365community.online/create-segments-from-marketing-lists-in-realtime-marketing",
-          "publishedOn": "2024-09-24T07:30:00.000Z",
-          "wordCount": 1029,
-          "title": "Create Segments From Marketing Lists In Realtime Marketing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/use-the-new-associated-grid-control-to-display-details-of-other-tables-in-subgrids-model-driven-app-dynamics-365",
-          "author": "Nishant Rana",
-          "description": "With the Associated Grid Control we can configure and show up four subgrids in the form, making it a more intuitive and cleaner form layout, with ease of navigation. Below we are adding the Associated Grid Control component to the Contact’s form. Here we have specified the Subgrid Tables and Views to begin with. For […]",
-          "link": "https://365community.online/use-the-new-associated-grid-control-to-display-details-of-other-tables-in-subgrids-model-driven-app-dynamics-365",
-          "publishedOn": "2024-09-23T20:30:00.000Z",
-          "wordCount": 1120,
-          "title": "Use the new Associated Grid Control to display details of other tables in subgrids  – Model-driven App / Dynamics 365",
-          "imageUrl": null
         }
       ]
     },
@@ -84708,6 +84648,16 @@
       "feedUrl": "https://dynamicspedia.com/feed/",
       "siteUrl": "https://dynamicspedia.com/",
       "articles": [
+        {
+          "id": "https://dynamicspedia.com/?p=20702",
+          "author": "André Arnaud de Calavon",
+          "description": "Usually, when people asked if it is possible to hide menus as they don’t need specific menus or if it only contains duplicate menu items already present in another menu, then I had to say that the option is not available in the standard application. Already a long time ago, I found a place where […]\nThe post Introducing Menu Configuration for Microsoft Dynamics 365 F&O appeared first on Dynamicspedia.",
+          "link": "https://dynamicspedia.com/2026/09/introducing-menu-configuration-for-microsoft-dynamics-365-fo/",
+          "publishedOn": "2026-09-23T06:41:29.000Z",
+          "wordCount": 5413,
+          "title": "Introducing Menu Configuration for Microsoft Dynamics 365 F&O",
+          "imageUrl": "https://dynamicspedia.com/wp-content/uploads/2026/09/Dynamicspedia-Menu-configuration-1200x600-1.jpg"
+        },
         {
           "id": "https://dynamicspedia.com/?p=20673",
           "author": "André Arnaud de Calavon",
@@ -86184,16 +86134,6 @@
           "wordCount": 2981,
           "title": "Remove CR LF from Notepad++",
           "imageUrl": "https://anithasantosh.wordpress.com/wp-content/uploads/2024/10/image.png?w=586"
-        },
-        {
-          "id": "http://anithasantosh.wordpress.com/?p=3601",
-          "author": "AnithaEswaran",
-          "description": "I encountered the error when a new VM with 10.0.39 was deployed and trying to sync the database. Execute this below command in SQL and try the sync again.",
-          "link": "https://anithasantosh.wordpress.com/2024/09/24/there-is-already-an-object-named-licensing_populateroleprivilegelicensemapv2-in-the-database/",
-          "publishedOn": "2024-09-24T09:29:21.000Z",
-          "wordCount": 3025,
-          "title": "There is already an object named ‘LICENSING_POPULATEROLEPRIVILEGELICENSEMAPV2’ in the database",
-          "imageUrl": "https://anithasantosh.wordpress.com/wp-content/uploads/2024/09/image-8.png"
         }
       ]
     },
@@ -91663,26 +91603,6 @@
           "wordCount": 11722,
           "title": "Delete all Redundant D365FO Print Management Overrides",
           "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/09/D365Blog-Delete-all-redundant-D365FO-Print-management-overrides-main-image.png"
-        },
-        {
-          "id": "https://ax.docentric.com/?p=29059",
-          "author": "Sanja Kolundzija",
-          "description": "Are you emailing the public-facing documents, such as Sales invoices and Purchase orders, through Print management in D365FO? That means that you need to use Email tokens in the To field of your Email print destination. And if you don’t have perfect quality of your […]\nThe post Find Customers and Vendors With Invalid or Missing Email Addresses in D365FO appeared first on Docentric AX.",
-          "link": "https://ax.docentric.com/find-accounts-without-email-address-in-d365fo/",
-          "publishedOn": "2024-09-24T14:01:14.000Z",
-          "wordCount": 11691,
-          "title": "Find Customers and Vendors With Invalid or Missing Email Addresses in D365FO",
-          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/09/D365Blog-Find-Customers-and-Vendors-with-invalid-or-missing-email-addresses-in-D365FO-main-image.png"
-        },
-        {
-          "id": "https://ax.docentric.com/?p=29056",
-          "author": "Sanja Kolundzija",
-          "description": "So, you have mastered the D365FO Print Management, but you find it annoying that the settings are accessible one by one, instead in a convenient tabular view? It is a common configuration to have one Default and multiple Conditional setting, and perhaps also some Copy […]\nThe post Tabular View, Advanced Search and Update in Bulk of D365FO Print Management Settings appeared first on Docentric AX.",
-          "link": "https://ax.docentric.com/d365fo-print-management-tabular-view-and-bulk-update/",
-          "publishedOn": "2024-09-23T22:55:30.000Z",
-          "wordCount": 11886,
-          "title": "Tabular View, Advanced Search and Update in Bulk of D365FO Print Management Settings",
-          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/09/D365Blog-Tabular-View-Advanced-Search-and-Update-in-Bulk-of-D365FO-Print-Management-Settings-main-image.png"
         }
       ]
     },
@@ -92565,16 +92485,6 @@
           "wordCount": 2479,
           "title": "Z4-Meldung an Bundesbank in D365 for Finance",
           "imageUrl": "https://erconsult.eu/wp-content/uploads/2024/09/Z4-Meldung_AWV.png"
-        },
-        {
-          "id": "https://erconsult.eu/?p=8702",
-          "author": "Eugen Glasow",
-          "description": "The ZUGFeRD format integrates a human-readable PDF/A-3 with an embedded XML file using the CII (Cross-Industry Invoice) syntax, also applicable to xRechnung, a pure XML format for German e-invoices. Starting in 2025, B2B businesses in Germany must handle e-invoices. Microsoft Dynamics 365 for Finance currently supports UBL-based xRechnung imports, but ER-Consult offers a CII-compliant ZUGFeRD import solution. This solution operates without customizations, ensuring integration into existing systems, aligning with legal requirements, and supporting PO matching and tax compliance.\nThe post ZUGFeRD 2.2 import for Dynamics 365 for Finance appeared first on ER-Consult.",
-          "link": "https://erconsult.eu/blog/zugferd-2-2-import-for-dynamics-365-for-finance/",
-          "publishedOn": "2024-09-24T09:54:11.000Z",
-          "wordCount": 2499,
-          "title": "ZUGFeRD 2.2 import for Dynamics 365 for Finance",
-          "imageUrl": "https://erconsult.eu/wp-content/uploads/2023/01/ZUGFeRD_FacturX_Dynamics-365-1024x787.png"
         }
       ]
     },
