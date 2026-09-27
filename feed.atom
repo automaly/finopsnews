@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-09-26T02:44:14.239Z</updated>
+    <updated>2026-09-27T02:44:37.226Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Role of Success by Design, Business Process Catalog and Azure DevOps in Dynamics 365 Implementations]]></title>
+        <id>https://ax.docentric.com/?p=35126</id>
+        <link href="https://ax.docentric.com/the-role-of-success-by-design-business-process-catalog-and-azure-devops-in-dynamics-365-implementations/"/>
+        <updated>2026-09-26T19:34:58.000Z</updated>
+        <summary type="html"><![CDATA[Table of Contents 1. Success by Design Provides the Implementation Framework 2. Business Process Catalog Provides the Process Model 3. Bring the Business Processes into Azure DevOps 4. Connect Business Processes with Implementation Deliverables 5. Dynamics 365 Implementation Framework: Complete Picture Useful MS Learn Links […]
+The post The Role of Success by Design, Business Process Catalog and Azure DevOps in Dynamics 365 Implementations appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Ana Gligorijevic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZUGFeRD export: common modifications]]></title>
+        <id>https://erconsult.eu/?p=11188</id>
+        <link href="https://erconsult.eu/blog/zugferd-export-common-modifications/"/>
+        <updated>2026-09-26T06:42:11.000Z</updated>
+        <summary type="html"><![CDATA[Extending the standard ZUGFeRD export often requires more than Electronic Reporting alone. This article covers common modifications in Dynamics 365 Finance, including header and line charges, customised SalesInvoiceTmp data, legacy SSRS technical debt, and PDF template branding. It also explains practical approaches for adapting the ZUGFeRD configuration without changing D365 logic.
+The post ZUGFeRD export: common modifications appeared first on ER-Consult.]]></summary>
+        <author>
+            <name>Eugen Glasow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scale repeatable channel sales with Marketplace resale enabled offers (REO) and App Advisor]]></title>
+        <id>https://365community.online/scale-repeatable-channel-sales-with-marketplace-resale-enabled-offers-reo-and-app-advisor</id>
+        <link href="https://365community.online/scale-repeatable-channel-sales-with-marketplace-resale-enabled-offers-reo-and-app-advisor"/>
+        <updated>2026-09-25T21:42:16.000Z</updated>
+        <summary type="html"><![CDATA[Want to dive right into setting up REO details? Head to right to the App Advisor step on negotiated deals   Selling more doesn’t always mean building a bigger sales organization. You can extend your sales reach through channel partners…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CoreDNS in AKS: service discovery, upstream DNS, and failover]]></title>
+        <id>https://365community.online/coredns-in-aks-service-discovery-upstream-dns-and-failover</id>
+        <link href="https://365community.online/coredns-in-aks-service-discovery-upstream-dns-and-failover"/>
+        <updated>2026-09-25T21:06:37.000Z</updated>
+        <summary type="html"><![CDATA[Table of Contents 1. Where CoreDNS fits in AKS 2. How a pod gets a DNS answer Cluster Service names Names handled by another DNS server LocalDNS can change the first hop 3. What AKS manages and what you can…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RFID in Business Central: When It Pays Off and When Barcodes Win]]></title>
         <id>https://erpsoftwareblog.com/?p=155402</id>
@@ -34,6 +76,36 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Camera to Canvas: How Multimodal GenAI Automates Shop Floor Instructions]]></title>
+        <id>https://365community.online/from-camera-to-canvas-how-multimodal-genai-automates-shop-floor-instructions</id>
+        <link href="https://365community.online/from-camera-to-canvas-how-multimodal-genai-automates-shop-floor-instructions"/>
+        <updated>2026-09-25T18:56:13.000Z</updated>
+        <summary type="html"><![CDATA[Scenario Across the industry, manufacturing organizations spend significant engineering effort converting tribal knowledge and assembly demonstrations into standardized work instructions. This process is traditionally manual, inconsistent, and difficult to scale across plants, product lines, and geographies. By integrating multimodal Generative…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure IoT Central is evolving: what you need to know]]></title>
+        <id>https://365community.online/azure-iot-central-is-evolving-what-you-need-to-know</id>
+        <link href="https://365community.online/azure-iot-central-is-evolving-what-you-need-to-know"/>
+        <updated>2026-09-25T18:38:15.000Z</updated>
+        <summary type="html"><![CDATA[On September 23, 2026, Microsoft announced guidance that will help Azure IoT Central customers migrate their solutions to use new features of Azure IoT Hub and Microsoft Fabric. The new approach leverages IoT Hub capabilities such as certificate management, along…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft SAP Partner Community Call | September 23 Recording Now Available]]></title>
+        <id>https://365community.online/microsoft-sap-partner-community-call-september-23-recording-now-available</id>
+        <link href="https://365community.online/microsoft-sap-partner-community-call-september-23-recording-now-available"/>
+        <updated>2026-09-25T18:21:51.000Z</updated>
+        <summary type="html"><![CDATA[Missed the September Microsoft SAP Partner Community Call? Watch the recording to hear the latest updates, partner opportunities, and resources designed to help you accelerate SAP customer transformation and grow your SAP on Microsoft Azure practice. Key Topics Covered: AI-Led…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
         </author>
     </entry>
     <entry>
@@ -109,6 +181,16 @@ Automated Vendor Validation: Secure and Simplify AP Compliance
 $950/year Early Access to Mekorma Payment Hub for BC Ends in April 2025]]></summary>
         <author>
             <name>Bobby Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PPAC Friday Tip: New Environment View Toggle Hides Transaction less Copy Option]]></title>
+        <id>https://www.paragchapre.com/?p=17171</id>
+        <link href="https://www.paragchapre.com/ppac-new-environment-view-transactionless-copy-missing/"/>
+        <updated>2026-09-25T09:34:54.000Z</updated>
+        <summary type="html"><![CDATA[As Microsoft continues to enhance the Power Platform Admin Center (PPAC) experience, you may have noticed a new Environment View toggle available in the Environments section. While the refreshed interface looks modern and provides a different navigation experience, we recently discovered an important limitation that administrators should be aware of. This week’s Friday Tip is…]]></summary>
+        <author>
+            <name>Parag Chapre</name>
         </author>
     </entry>
     <entry>
@@ -4563,6 +4645,16 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>The TestMart</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fix the “Failed to Add Assembly Redirects” Error in Dynamics 365 F&O UDE]]></title>
+        <id>https://www.paragchapre.com/?p=17178</id>
+        <link href="https://www.paragchapre.com/fix-failed-to-add-assembly-redirects-d365fo-ude/"/>
+        <updated>2026-08-29T09:59:11.000Z</updated>
+        <summary type="html"><![CDATA[If you’re working with Dynamics 365 Finance & Operations Unified Developer Experience (UDE) and frequently encounter the following error when launching Visual Studio: “Failed to add assembly redirects to test platform configuration files. Please open the output window pane ‘Dynamics 365 for Finance and Operations’ to see more details. You’re not alone. This is a…]]></summary>
+        <author>
+            <name>Parag Chapre</name>
         </author>
     </entry>
     <entry>
@@ -117303,16 +117395,6 @@ This post first appeared first on Encore Business Solutions.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[STOP Wasting Time with the Wrong AI Tech Books! – YouTube]]></title>
-        <id>https://365community.online/stop-wasting-time-with-the-wrong-ai-tech-books-youtube</id>
-        <link href="https://365community.online/stop-wasting-time-with-the-wrong-ai-tech-books-youtube"/>
-        <updated>2024-09-27T14:15:01.000Z</updated>
-        <summary type="html"><![CDATA[Don’t waste time with the wrong AI tech books! Join me as I review the awesome Packt book by Steve Miles on the AI-900 exam topics. Get the right resources to ace your AI exams! Buy the book – https://www.amazon.com/Microsoft-Azure-Fundamentals-AI-900-Guide/dp/1835885667/ref=sr_1_2?dib=eyJ2IjoiMSJ9.1uURVRSTsY8Mn3IDPxAKHZMMPRWfbqaUT62Pjt3D5zTVmX1JNgED3Spel8YanvMOYgroH9Jv0DTcGf56TUjARDGK0uCYD_-A04Ii5ZoSN_xuFd5fzD7pUJ2n8HnikCTxxr8AkwB5_smbL9OrPxoiUpuBeNLhKDvbTeucren6L3wPiZZMju5teIAlANNzGLYEFUBWTxfu4xwa_vMdKEfER0ftwpRKTZEcWfRZc76f2zU.4pP1C35CiGSdBz1amUL72fRdI8sf4MfTKjrL4k-uduY&dib_tag=se&keywords=ai-900&qid=1727448917&sr=8-2 source]]></summary>
-        <author>
-            <name>shabaz darr</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AP Automation for Microsoft Dynamics 365]]></title>
         <id>https://erpsoftwareblog.com/?p=118535</id>
         <link href="https://erpsoftwareblog.com/2024/09/ap-automation-for-microsoft-dynamics-365/"/>
@@ -117324,56 +117406,6 @@ Adding AP Automation to Existing Systems
 How to Fix Common Invoice Discrepancies with Automation]]></summary>
         <author>
             <name>Rillion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MADIC dynamics Knowledge Hub Webinars: How to Create a Multi-company Report in Jet Reports]]></title>
-        <id>https://365community.online/madic-dynamics-knowledge-hub-webinars-how-to-create-a-multi-company-report-in-jet-reports</id>
-        <link href="https://365community.online/madic-dynamics-knowledge-hub-webinars-how-to-create-a-multi-company-report-in-jet-reports"/>
-        <updated>2024-09-27T14:00:54.000Z</updated>
-        <summary type="html"><![CDATA[In our most recent webinar here at MADIC dynamics, we took a look at how to create a multi-company report in Jet Reports. This is a webinar which I presented. If you want to catch up on this webinar, you can do so here. Introduction Multi-company data in reports Multi-company by columns Multi-company by sheets […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Functionality In Microsoft Power Automate 2024 Wave 2: Monitor Performance For Cloud and Desktop Flow Activities In Automation Center]]></title>
-        <id>https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-monitor-performance-for-cloud-and-desktop-flow-activities-in-automation-center</id>
-        <link href="https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-monitor-performance-for-cloud-and-desktop-flow-activities-in-automation-center"/>
-        <updated>2024-09-27T12:00:03.000Z</updated>
-        <summary type="html"><![CDATA[This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Power Automate 2024 Wave 2. The 5th of the new functionality in the Cloud flows section is monitor performance for cloud and desktop flow activities […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boost productivity and code smarter with these top 5 tools for developers! – YouTube]]></title>
-        <id>https://365community.online/boost-productivity-and-code-smarter-with-these-top-5-tools-for-developers-youtube</id>
-        <link href="https://365community.online/boost-productivity-and-code-smarter-with-these-top-5-tools-for-developers-youtube"/>
-        <updated>2024-09-27T11:30:25.000Z</updated>
-        <summary type="html"><![CDATA[Boost productivity and code smarter with these top 5 tools for developers! source]]></summary>
-        <author>
-            <name>Sourav Raj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I… Use the “Get Adaptive Card V3” Action]]></title>
-        <id>https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-get-adaptive-card-v3-action</id>
-        <link href="https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-get-adaptive-card-v3-action"/>
-        <updated>2024-09-27T10:00:47.000Z</updated>
-        <summary type="html"><![CDATA[This article is part of the In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I… series, a sub-series of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I […]]]></summary>
-        <author>
-            <name>Ian Grieve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discover the Latest 2024 Updates to Dynamics 365 Lead Qualification]]></title>
-        <id>https://365community.online/discover-the-latest-2024-updates-to-dynamics-365-lead-qualification</id>
-        <link href="https://365community.online/discover-the-latest-2024-updates-to-dynamics-365-lead-qualification"/>
-        <updated>2024-09-27T09:50:56.000Z</updated>
-        <summary type="html"><![CDATA[In the latest Dynamics 365 2024 release wave 2 plan, Microsoft has improved the Lead Qualification Process, enabling administrators to customize the process, and making it easier for sellers to qualify leads more efficiently. Previously users had the option to automatically create Account, Contact, and Opportunity records when qualifying a lead. Now with the new […]]]></summary>
-        <author>
-            <name>Inogic</name>
         </author>
     </entry>
     <entry>
@@ -117391,29 +117423,6 @@ Quote Generation with Product Configurator for Business Central]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Weekly Update #154 – 27th September 2024 – YouTube]]></title>
-        <id>https://365community.online/weekly-update-154-27th-september-2024-youtube</id>
-        <link href="https://365community.online/weekly-update-154-27th-september-2024-youtube"/>
-        <updated>2024-09-27T07:36:02.000Z</updated>
-        <summary type="html"><![CDATA[Weekly Update #154 – 27th September 2024 Tune in as I explore the latest Azure updates from the past week. Enjoyed the podcast? Consider buying me a coffee to show your support: ⁠⁠⁠⁠https://ko-fi.com/techielass Tune in as I explore the latest Azure updates from the past week. Enjoyed the podcast? Consider buying me a coffee to […]]]></summary>
-        <author>
-            <name>Sarah Lean ???????</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Z4-Meldung an Bundesbank in D365 for Finance]]></title>
-        <id>https://erconsult.eu/?p=8836</id>
-        <link href="https://erconsult.eu/blog/z4-meldung-an-bundesbank-in-d365-for-finance/"/>
-        <updated>2024-09-27T07:29:16.000Z</updated>
-        <summary type="html"><![CDATA[Download our Electronic Reporting configuration for the Z4 report in Dynamics 365 for Finance to automate the Z4-Meldung process for regular payment transactions (DIKAPPOSTEN).
-The Z4 report (AWV) is a financial report that German companies must submit to the Deutsche Bundesbank for cross-border financial transactions over €12,500, covering both EU and non-EU payments. Payments related to the trade of goods (imports/exports) are excluded.
-The report uses a specialized XML schema (XMW) and requires classification of payments by transaction types (BELEGART) and subtypes (KENNZAHL), with around 1000 detailed codes. We simplify the KENNZAHL classification by deriving it from the GL voucher prefix in the D365 bank transaction. To ensure accuracy, we recommend using separate payment journals for different types of transactions.
-The post Z4-Meldung an Bundesbank in D365 for Finance appeared first on ER-Consult.]]></summary>
-        <author>
-            <name>Eugen Glasow</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Best Practices for Budgeting and Forecasting Using Dynamics 365 Finance in Medium and Large Enterprises]]></title>
         <id>https://erpsoftwareblog.com/?p=118998</id>
         <link href="https://erpsoftwareblog.com/2024/09/best-practices-for-budgeting-and-forecasting-using-dynamics-365-finance-in-medium-and-large-enterprises/"/>
@@ -117425,16 +117434,6 @@ Announcing deFacto Tabular Modeler
 DeFacto Global Named Top-Rated Corporate Performance Management Vendor For 2021]]></summary>
         <author>
             <name>Dynamics Square AU</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ladies and gentlemen, welcome Power Platform Plan Designer! 📑 – YouTube]]></title>
-        <id>https://365community.online/ladies-and-gentlemen-welcome-power-platform-plan-designer-%f0%9f%93%91-youtube</id>
-        <link href="https://365community.online/ladies-and-gentlemen-welcome-power-platform-plan-designer-%f0%9f%93%91-youtube"/>
-        <updated>2024-09-26T23:19:15.000Z</updated>
-        <summary type="html"><![CDATA[In today’s AI-driven world, building intelligent apps starts with more than just code—it starts with a plan! With Microsoft Power Platform, you can design solutions that truly meet business needs by first understanding the problem and defining user roles. Copilot makes this process easier by helping developers iterate on user requirements, data models, and automation […]]]></summary>
-        <author>
-            <name>Victor Dantas</name>
         </author>
     </entry>
     <entry>
@@ -117491,27 +117490,6 @@ Three Steps to the Cloud with Microsoft Dynamics GP
 Vers le cloud en 3 étapes avec Microsoft Dynamics GP]]></summary>
         <author>
             <name>Western Computer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Google It Like a Senior Software Engineer – YouTube]]></title>
-        <id>https://365community.online/how-to-google-it-like-a-senior-software-engineer-youtube</id>
-        <link href="https://365community.online/how-to-google-it-like-a-senior-software-engineer-youtube"/>
-        <updated>2024-09-26T15:27:47.000Z</updated>
-        <summary type="html"><![CDATA[How to Google It Like a Senior Software Engineer 🧐Are you tired of wasting time searching for answers online? 🚀 In this video, we’ll share expert tips and techniques on how to Google like a senior software engineer. From basic search operators to advanced techniques, we’ll cover everything you need to know to boost your […]]]></summary>
-        <author>
-            <name>Sourav Raj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harnessing transformative AI for field service excellence]]></title>
-        <id>https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/09/26/harnessing-transformative-ai-for-field-service-excellence/</id>
-        <link href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/09/26/harnessing-transformative-ai-for-field-service-excellence/"/>
-        <updated>2024-09-26T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Dynamics 365 Field Service customers can use Connected Field Service to seamlessly connect their IoT devices to diagnose problems.
-The post Harnessing transformative AI for field service excellence appeared first on Microsoft Dynamics 365 Blog.]]></summary>
-        <author>
-            <name>Safiyyah O’Quinn</name>
         </author>
     </entry>
     <entry>
