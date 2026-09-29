@@ -2,10 +2,161 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-09-28T02:46:20.780Z</updated>
+    <updated>2026-09-29T03:28:07.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What tools simplify the initial setup process for Product Configurator in Business Central?]]></title>
+        <id>https://erpsoftwareblog.com/?p=155405</id>
+        <link href="https://erpsoftwareblog.com/2026/09/product-configurator-setup-tools/"/>
+        <updated>2026-09-28T20:22:44.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Setting up Product Configurator does require dedicated planning, since a working configuration depends on item categories, options, and option choices being defined correctly before that category can generate a usable […]
+The post What tools simplify the initial setup process for Product Configurator in Business Central? appeared first on ERP Software Blog.
+Dynamics 365 Business Central and Industry-Tailored Functionality
+Insight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Business Central at BCUG/NAVUG Summit in Phoenix
+Warehouse Insight Now Available for Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced query syntax in Dynamics 365 Finance: an example with joined tables]]></title>
+        <id>https://erconsult.eu/?p=11280</id>
+        <link href="https://erconsult.eu/blog/advanced-query-syntax-in-dynamics-365-finance-an-example-with-joined-tables/"/>
+        <updated>2026-09-28T19:34:20.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft documents the syntax for advanced queries in Dynamics 365 Finance, but the example is not sufficient for more complex queries involving joined tables. This article shows how to build nested n:1 joins, reference the resulting data sources, and combine fields from different tables in one advanced filter.
+The post Advanced query syntax in Dynamics 365 Finance: an example with joined tables appeared first on ER-Consult.]]></summary>
+        <author>
+            <name>Eugen Glasow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choosing AI Invoice Capture for Dynamics GP and Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=155617</id>
+        <link href="https://erpsoftwareblog.com/2026/09/choosing-ai-invoice-capture-for-dynamics-gp-and-business-central-a-buyers-guide-for-ap-managers/"/>
+        <updated>2026-09-28T18:29:56.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+There's a change happening in back office operations. That change is of course AI, and it's going to keep being shaped and reshaping process management for years. While this change […]
+The post Choosing AI Invoice Capture for Dynamics GP and Business Central appeared first on ERP Software Blog.
+Why Human Resources Should Ask Accounting About AP Clerks
+How are AP and AR the 2 Sides of The Same Coin?
+How to keep businesses running smoothly with labor shortages]]></summary>
+        <author>
+            <name>Fidesic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond ERP: How CFOs Can Plan, Forecast & Close Faster]]></title>
+        <id>https://erpsoftwareblog.com/?p=155369</id>
+        <link href="https://erpsoftwareblog.com/2026/09/beyond-erp-how-cfos-can-plan-forecast-close-faster/"/>
+        <updated>2026-09-28T16:09:03.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Microsoft Dynamics 365 Business Central, ERP Migration Your ERP Has the Data. So Why Is Finance Still in Excel? Turn ERP Data into Smarter Decisions Your ERP may be the […]
+The post Beyond ERP: How CFOs Can Plan, Forecast & Close Faster appeared first on ERP Software Blog.
+When Business Central Customization Makes Sense
+hat 10 Years of ERP Evolution Can Teach Us
+Why Manufacturers Need ERP and eCommerce Integration]]></summary>
+        <author>
+            <name>Admiral Consulting Group</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Microsoft Dynamics 365 Business Central Supports Seafood Companies]]></title>
+        <id>https://erpsoftwareblog.com/?p=155603</id>
+        <link href="https://erpsoftwareblog.com/2026/09/microsoft-dynamics-365-business-central-for-seafood-companies/"/>
+        <updated>2026-09-28T14:18:28.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Seafood Operations Put Unusual Demands on ERP Seafood is not a simple buy, stock, sell business. A company may purchase product by case, receive and value it by actual weight, […]
+The post How Microsoft Dynamics 365 Business Central Supports Seafood Companies appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
+Create a Closed-Loop Analysis, Planning, and Reporting Process
+Get More in the Cloud with Dynamics 365 Business Central]]></summary>
+        <author>
+            <name>Andrew Good, DynamicsFoodERP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LATAM Localizations Webinar: What Business Central Partners Need to Know]]></title>
+        <id>https://erpsoftwareblog.com/?p=155493</id>
+        <link href="https://erpsoftwareblog.com/2026/09/latam-localizations-webinar-what-business-central-partners-need-to-know/"/>
+        <updated>2026-09-28T14:00:14.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Latin America is one of the fastest-growing regions for Microsoft Dynamics 365 Business Central adoption. It's also one of the most complex when it comes to fiscal compliance. Every country […]
+The post LATAM Localizations Webinar: What Business Central Partners Need to Know appeared first on ERP Software Blog.
+Webinar: Business Central Add-on Spotlight Series - Continia
+Webinar: Business Central Add-on Spotlight Series – Business Central Addins
+Webinar: Business Central Add-on Spotlight Series – Nodus, a division of EVO]]></summary>
+        <author>
+            <name>Soluciones LLB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Disconnected Systems Quietly Drain Print Margins]]></title>
+        <id>https://erpsoftwareblog.com/?p=155595</id>
+        <link href="https://erpsoftwareblog.com/2026/09/how-disconnected-systems-quietly-drain-print-margins/"/>
+        <updated>2026-09-28T13:38:47.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Key Takeaways Disconnected systems between estimating, shop floor, and finance are the leading cause of quiet margin loss in print businesses. Connecting shop floor reporting to ERP can cut job […]
+The post How Disconnected Systems Quietly Drain Print Margins appeared first on ERP Software Blog.
+How ChatGPT and Microsoft Copilot Boost Productivity
+Dynamics 365 F&O: Why it is the Best Choice for Your supply Chain Operations
+Top Five Ways Sycor.Rental Leverages AI and Dynamics 365 for Superior ROI in Equipment Rental]]></summary>
+        <author>
+            <name>Boyer &amp;#38; Associates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bring Your Own Processor: How BYOP Saves Business Central Users Time and Money]]></title>
+        <id>https://erpsoftwareblog.com/?p=154298</id>
+        <link href="https://erpsoftwareblog.com/2026/09/bring-your-own-processor-business-central/"/>
+        <updated>2026-09-28T10:58:57.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+When a company has spent time negotiating a merchant account, choosing an acquirer, and securing processing rates it is happy with, switching processors just to integrate payments with Microsoft Dynamics […]
+The post Bring Your Own Processor: How BYOP Saves Business Central Users Time and Money appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>USTPay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALDC – Version 5.0.0: what changes when developing AL with AI agents]]></title>
+        <id>https://365community.online/aldc-version-5-0-0-what-changes-when-developing-al-with-ai-agents</id>
+        <link href="https://365community.online/aldc-version-5-0-0-what-changes-when-developing-al-with-ai-agents"/>
+        <updated>2026-09-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ALDC 5.0.0 adds visual project management, a dedicated Spec Agent and BCQuality knowledge during design. A look at the changes and what to check before upgrading.]]></summary>
+        <author>
+            <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Reports to Decisions: Consolidating Reporting onto Power BI]]></title>
+        <id>https://erpsoftwareblog.com/?p=155584</id>
+        <link href="https://erpsoftwareblog.com/2026/09/from-reports-to-decisions-consolidating-reporting-onto-power-bi/"/>
+        <updated>2026-09-28T09:42:59.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Every organization that runs more than one reporting tool eventually holds the same meeting. Two people arrive with two numbers for the same month. Both numbers come out of systems […]
+The post From Reports to Decisions: Consolidating Reporting onto Power BI appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Rohinii K By Dax software solutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Business Central Roadmap You’ve Bookmarked Just Stopped Updating]]></title>
+        <id>https://365community.online/the-business-central-roadmap-youve-bookmarked-just-stopped-updating</id>
+        <link href="https://365community.online/the-business-central-roadmap-youve-bookmarked-just-stopped-updating"/>
+        <updated>2026-09-28T06:17:41.000Z</updated>
+        <summary type="html"><![CDATA[For as long as most Business Central partners have been planning around Microsoft’s release cadence, the rhythm has been predictable: a Wave 1 plan lands around February, a Wave 2 plan lands around July, and everything a partner needs to…]]></summary>
+        <author>
+            <name>Amol Salvi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reusing Dynamics 365 BPC Across Azure DevOps Implementation Projects]]></title>
         <id>https://ax.docentric.com/?p=35206</id>
@@ -117285,16 +117436,6 @@ Best Practices for Budgeting and Forecasting Using Dynamics 365 Finance in Mediu
 Dynamics 365 Tutorials Help You Get up and Running Fast]]></summary>
         <author>
             <name>Dynamics Square AU</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We have conducted a  2-day hands-on logic-building hackathon in (DSVV) Dev Sanskriti vishwavidyalaya – YouTube]]></title>
-        <id>https://365community.online/we-have-conducted-a-2-day-hands-on-logic-building-hackathon-in-dsvv-dev-sanskriti-vishwavidyalaya-youtube</id>
-        <link href="https://365community.online/we-have-conducted-a-2-day-hands-on-logic-building-hackathon-in-dsvv-dev-sanskriti-vishwavidyalaya-youtube"/>
-        <updated>2024-09-29T12:00:31.000Z</updated>
-        <summary type="html"><![CDATA[We have conducted a 2-day hands-on logic-building hackathon in (DSVV) Dev Sanskriti vishwavidyalaya source]]></summary>
-        <author>
-            <name>Sourav Raj</name>
         </author>
     </entry>
     <entry>
