@@ -43301,6 +43301,66 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/the-wave-reaches-the-reviewers",
+          "author": "jarmesto",
+          "description": "The creator of Claude Code says agent-generated code is on its way to needing no review. If juniors were first, are senior reviewers next? Tactical vs strategic programming, Cherny's roadmap, and what it means for the Business Central world.",
+          "link": "https://365community.online/the-wave-reaches-the-reviewers",
+          "publishedOn": "2026-09-29T14:00:59.000Z",
+          "wordCount": 2445,
+          "title": "The Wave Reaches the Reviewers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/postgis-and-ai-retrieval-in-azure-horizondb",
+          "author": "Microsoft Tech Community",
+          "description": "Fleet operators rarely search with a single kind of question. Sometimes they know exactly what they want: delayed shipments, within a certain radius of a location, arriving in a given window. Other times they only have intent, phrased in a…",
+          "link": "https://365community.online/postgis-and-ai-retrieval-in-azure-horizondb",
+          "publishedOn": "2026-09-29T08:19:15.000Z",
+          "wordCount": 4527,
+          "title": "PostGIS and AI Retrieval in Azure HorizonDB",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/documentdb-as-an-internal-hybrid-store-documents-vectors-state-and-safe-publication",
+          "author": "Microsoft Tech Community",
+          "description": "A RAG store is often introduced as a vector database. That description is too narrow for a real application. Retrieval needs text and vectors, but ingestion also needs checkpoints and publication state. Structured planning needs schema metadata. Chat needs conversations…",
+          "link": "https://365community.online/documentdb-as-an-internal-hybrid-store-documents-vectors-state-and-safe-publication",
+          "publishedOn": "2026-09-29T07:00:00.000Z",
+          "wordCount": 4534,
+          "title": "DocumentDB as an Internal Hybrid Store: Documents, Vectors, State, and Safe Publication",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/mi-link-support-for-multiple-databases-in-an-always-on-availability-group-for-sql-server-preview",
+          "author": "Microsoft Tech Community",
+          "description": "A simpler way to extend availability groups to Azure We are pleased to announce the preview of multi-database mode for Managed Instance link. The new mode lets you replicate multiple databases from an existing Always On availability group through a…",
+          "link": "https://365community.online/mi-link-support-for-multiple-databases-in-an-always-on-availability-group-for-sql-server-preview",
+          "publishedOn": "2026-09-29T07:00:00.000Z",
+          "wordCount": 2226,
+          "title": "MI link support for multiple databases in an Always On availability group for SQL Server (Preview)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/the-same-connection-string-keywords-now-work-across-our-sql-drivers",
+          "author": "Microsoft Tech Community",
+          "description": "For years we've been treating every one of our Microsoft SQL drivers as a distinct entity. We've heard your feedback that we need to re-examine that approach. A team running applications written in multiple languages against one database should not…",
+          "link": "https://365community.online/the-same-connection-string-keywords-now-work-across-our-sql-drivers",
+          "publishedOn": "2026-09-29T06:00:00.000Z",
+          "wordCount": 2016,
+          "title": "The same connection string keywords now work across our SQL drivers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/public-preview-performance-monitoring-for-azure-sql",
+          "author": "Microsoft Tech Community",
+          "description": "Today we're excited to announce the public preview of performance monitoring for Azure SQL. Performance monitoring gives you deep visibility into the health and performance of your SQL estate, built directly into the Azure SQL platform. It works across: Azure…",
+          "link": "https://365community.online/public-preview-performance-monitoring-for-azure-sql",
+          "publishedOn": "2026-09-29T06:00:00.000Z",
+          "wordCount": 2597,
+          "title": "Public Preview: Performance monitoring for Azure SQL",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/aldc-version-5-0-0-what-changes-when-developing-al-with-ai-agents",
           "author": "jarmesto",
           "description": "ALDC 5.0.0 adds visual project management, a dedicated Spec Agent and BCQuality knowledge during design. A look at the changes and what to check before upgrading.",
@@ -43308,6 +43368,26 @@
           "publishedOn": "2026-09-28T10:00:00.000Z",
           "wordCount": 2508,
           "title": "ALDC – Version 5.0.0: what changes when developing AL with AI agents",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/connecting-azure-ai-foundry-to-opencode-and-some-troubleshooting-steps",
+          "author": "Microsoft Tech Community",
+          "description": "Introduction I had an Azure model deployment, an endpoint, and an API key. Getting that model into OpenCode looked like a configuration task: register a provider, paste in the connection details, select the model.   Then came “Resource not found.”…",
+          "link": "https://365community.online/connecting-azure-ai-foundry-to-opencode-and-some-troubleshooting-steps",
+          "publishedOn": "2026-09-28T07:00:00.000Z",
+          "wordCount": 3772,
+          "title": "Connecting Azure AI Foundry to OpenCode, and some troubleshooting steps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/bringing-ai-powered-grid-optimization-offline-quantizing-gridsfm-for-local-deployment",
+          "author": "Microsoft Tech Community",
+          "description": "Introduction Field engineers operating in remote substations frequently encounter connectivity limitations when evaluating the safety of proposed grid adjustments. While physics-informed neural surrogates for AC Optimal Power Flow can deliver these assessments in milliseconds, they typically rely on cloud…",
+          "link": "https://365community.online/bringing-ai-powered-grid-optimization-offline-quantizing-gridsfm-for-local-deployment",
+          "publishedOn": "2026-09-28T07:00:00.000Z",
+          "wordCount": 4298,
+          "title": "Bringing AI-Powered Grid Optimization Offline: Quantizing GridSFM for Local Deployment",
           "imageUrl": null
         },
         {
@@ -84479,26 +84559,6 @@
           "wordCount": 1123,
           "title": "Use Copilot to generate knowledge articles from resolved cases – Dynamics 365 Customer Service",
           "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/error-in-customer-insights-data",
-          "author": "thecrmninja",
-          "description": "Not a long blog post, but something that may come in handy for some people! I was recently playing around with Customer Insights – both the Data & Journeys side of thing for a Proof of Concept I was creating for a customer. It’s definitively interesting to see how Microsoft have been evolving the product […]",
-          "link": "https://365community.online/error-in-customer-insights-data",
-          "publishedOn": "2024-09-30T14:09:22.000Z",
-          "wordCount": 1059,
-          "title": "Error in Customer Insights – Data",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-create-and-edit-expressions-with-copilot",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Power Automate 2024 Wave 2. The 8th of the new functionality in the Cloud flows section is create and edit expressions with Copilot. Makers can […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-create-and-edit-expressions-with-copilot",
-          "publishedOn": "2024-09-30T14:00:00.000Z",
-          "wordCount": 1118,
-          "title": "New Functionality In Microsoft Power Automate 2024 Wave 2: Create And Edit Expressions With Copilot",
-          "imageUrl": null
         }
       ]
     },
@@ -85532,16 +85592,6 @@
           "wordCount": 3812,
           "title": "Ready to master ALM? The New Dynamics 365 ALM Guide is Here!",
           "imageUrl": "https://ariste.info/wp-content/uploads/2024/12/IMG_2620.jpeg"
-        },
-        {
-          "id": "https://ariste.info/?p=9558",
-          "author": "Adrià Ariste Santacreu",
-          "description": "I’ve been working on the ISVLicenseGenerator open source tool for some years now, almost five. It all started when I ordered a code-signing certificate to sign ISV solutions, and I got a USB token instead of a software certificate. After many years of Microsoft not offering support for these devices to sign the license files,… Click here to continue reading ISVLicenseGenerator v0.9: a farewell?",
-          "link": "https://ariste.info/2024/09/isvlicensegenerator-v0-9-farewell/",
-          "publishedOn": "2024-09-18T04:47:58.000Z",
-          "wordCount": 4081,
-          "title": "ISVLicenseGenerator v0.9: a farewell?",
-          "imageUrl": "https://static.ariste.info/wp-content/uploads/2024/09/IMG_2559-1024x1024.jpeg"
         }
       ]
     },
@@ -86995,6 +87045,21 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=203187",
+          "author": "James Oleinik",
+          "description": "Work IQ now grounds Microsoft Copilot and agents in your core business data from Microsoft Dynamics 365 and Microsoft Power Platform.\nThe post Work IQ: Business and workplace intelligence in the flow of work appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/09/25/work-iq-business-and-workplace-intelligence-in-the-flow-of-work/",
+          "publishedOn": "2026-09-25T12:00:00.000Z",
+          "wordCount": 7128,
+          "title": "Work IQ: Business and workplace intelligence in the flow of work",
+          "enclosure": {
+            "url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/1111111-microsoftbizapps",
+            "length": "265941025",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/1111111-microsoftbizapps"
+        },
         {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=203154",
           "author": "Sameer Verma",
@@ -89853,106 +89918,6 @@
           "wordCount": 3884,
           "title": "Free Microsoft Dynamics 365 Finance & SCM Training – Starts May 24th 2025",
           "imageUrl": "https://exploredynamics365.home.blog/wp-content/uploads/2025/05/image.png"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2933",
-          "author": "Saurabh Bharti",
-          "description": "Welcome to the next video on “Learning Path to Become Functional consultant” series. In the last video, I discussed about test plans in Azure DevOps which you can have for different testing types that functional consultants should be familiar with. Now in This Video, I talk about following: Let’s explore the essentials of Azure DevOps […]",
-          "link": "https://exploredynamics365.home.blog/2024/09/30/testingtest-cases-using-bpm-library-and-task-recorder-in-azure-devops-learning-path-to-become-functional-consultantfc-013/",
-          "publishedOn": "2024-09-30T07:51:22.000Z",
-          "wordCount": 3307,
-          "title": "[Testing]Test cases using BPM Library and Task Recorder in Azure DevOps: Learning Path to Become Functional Consultant:FC-013",
-          "imageUrl": "http://img.youtube.com/vi/9ekuRyObmuE/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2930",
-          "author": "Saurabh Bharti",
-          "description": "Welcome to the next video on “Learning Path to Become Functional consultant” series. In the previous few videos, I discussed the testing strategy and test types that functional consultants should be familiar with. It’s crucial to have a solid process for documenting and managing test plans, cases, and execution across all phases of a project […]",
-          "link": "https://exploredynamics365.home.blog/2024/09/30/testingtest-plans-and-test-cases-in-azure-devops-learning-path-to-become-functional-consultantfc-012/",
-          "publishedOn": "2024-09-30T07:49:37.000Z",
-          "wordCount": 3319,
-          "title": "[Testing]Test plans and test cases in Azure DevOps: Learning Path to Become Functional Consultant:FC-012",
-          "imageUrl": "http://img.youtube.com/vi/bQQp9uu0-y0/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2927",
-          "author": "Saurabh Bharti",
-          "description": "What is physical cost in Dynamics 365 F&O? Anything which has been received or shipped but not invoiced is considered as physical cost for inventory quantity which gets converted into financial cost once that transaction is invoiced. How weighted average is calculated in Dynamics 365? Weighted average calculation in Dynamics 365 is = Total Financial […]",
-          "link": "https://exploredynamics365.home.blog/2024/09/30/physical-cost-inclusion-for-weighted-average-valuation-in-microsoft-dynamics-365-finance-and-operations-part-13/",
-          "publishedOn": "2024-09-30T07:47:41.000Z",
-          "wordCount": 3262,
-          "title": "Physical cost inclusion for Weighted Average Valuation in Microsoft Dynamics 365 Finance and Operations: Part-13",
-          "imageUrl": "http://img.youtube.com/vi/YPj8MNTjKqM/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2924",
-          "author": "Saurabh Bharti",
-          "description": "10.0.41 has got another new feature for customer prepayments against the sales order. There was a feature to record prepayment against sales order but that was not a great, it had lot of issues for tracking and settlements which also got deprecated. Now Microsoft has released new feature with new design and framework. Let’s explore […]",
-          "link": "https://exploredynamics365.home.blog/2024/09/30/customer-prepayment-in-microsoft-dynamics-365-finance-and-operation/",
-          "publishedOn": "2024-09-30T07:46:13.000Z",
-          "wordCount": 3214,
-          "title": "Customer Prepayment in Microsoft Dynamics 365 Finance and Operation",
-          "imageUrl": "http://img.youtube.com/vi/DYr7fPxhZSQ/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2921",
-          "author": "Saurabh Bharti",
-          "description": "Use case: Employee requested 5,000 USD cash advance for business travel. Return from travel and spent 4,500 USD only and need to submit the expense report. How do you adjustment or Map Cash advance to the expense report? How do you return the cash which is not used while submitting expense report?",
-          "link": "https://exploredynamics365.home.blog/2024/09/30/apply-cash-advance-to-expense-report-in-microsoft-dynamics-365-finance-and-operation/",
-          "publishedOn": "2024-09-30T07:44:57.000Z",
-          "wordCount": 3209,
-          "title": "Apply Cash Advance to Expense Report in Microsoft Dynamics 365 Finance and Operation",
-          "imageUrl": "http://img.youtube.com/vi/L7RHUE-WBQ8/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2918",
-          "author": "Saurabh Bharti",
-          "description": "Are you using Financial Tags in your project? If yes, then What about Financial tags which are inactive but having posted transactions? Why would you inactive financial tags? It’s possible that a customer initially decides to use a specific financial tag to capture an additional attribute on financial transactions but later decides to discontinue its […]",
-          "link": "https://exploredynamics365.home.blog/2024/09/30/view-inactive-financial-tags-in-microsoft-dynamics-365-finance-and-operation/",
-          "publishedOn": "2024-09-30T07:43:31.000Z",
-          "wordCount": 3228,
-          "title": "View Inactive Financial Tags in Microsoft Dynamics 365 Finance and Operation",
-          "imageUrl": "http://img.youtube.com/vi/ODG8A0VaW44/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2915",
-          "author": "Saurabh Bharti",
-          "description": "Microsoft has released a new feature “Dynamics 365 Approval management” for Microsoft Dynamics 365 finance and operations which currently supports us to manage purchase order and purchase requisition approval through the mobile app. This app not only allows to approve PO’s and PR’s through mobile app but also help in accessing all the information required […]",
-          "link": "https://exploredynamics365.home.blog/2024/09/30/new-feature-approval-management-app-in-microsoft-dynamics-365-finance-and-operation/",
-          "publishedOn": "2024-09-30T07:42:01.000Z",
-          "wordCount": 3275,
-          "title": "[New Feature] Approval Management App in Microsoft Dynamics 365 Finance and Operation",
-          "imageUrl": "http://img.youtube.com/vi/1XGFJtE03k0/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2912",
-          "author": "Saurabh Bharti",
-          "description": "Welcome to the next video on “Learning Path to Become Functional consultant” series. In the last video, we talked about the key components for testing strategy. Now in this video we will further break down to understand different test types using one example. As functional consultant we are responsible for following test types during the […]",
-          "link": "https://exploredynamics365.home.blog/2024/09/30/testingtest-types-learning-path-to-become-functional-consultantfc-011/",
-          "publishedOn": "2024-09-30T07:39:44.000Z",
-          "wordCount": 3282,
-          "title": "[Testing]Test types: Learning Path to Become Functional Consultant:FC-011",
-          "imageUrl": "http://img.youtube.com/vi/lFYYk7QoEUY/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2909",
-          "author": "Saurabh Bharti",
-          "description": "Welcome to the next video on “Learning Path to Become Functional consultant” series. Testing plays a crucial role in the success of the any implementation, I’ve witnessed numerous projects encounter failures or issues due to inadequate testing during the implementation phase. This often results in project delays, poor user adoption, and unstable solutions. Proper testing […]",
-          "link": "https://exploredynamics365.home.blog/2024/09/30/testingtest-strategy-components-learning-path-to-become-functional-consultantfc-010/",
-          "publishedOn": "2024-09-30T07:38:18.000Z",
-          "wordCount": 3300,
-          "title": "[Testing]Test strategy components: Learning Path to Become Functional Consultant:FC-010",
-          "imageUrl": "http://img.youtube.com/vi/mW9wfuMdRzs/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2905",
-          "author": "Saurabh Bharti",
-          "description": "Product bundle was first introduced in module revenue recognition but as we all know the there is new modules which has been introduced and will replace revenue recognition “Subscription Billing “. Few Questions?",
-          "link": "https://exploredynamics365.home.blog/2024/09/30/product-bundles-in-microsoft-dynamics-365-finance-and-operations/",
-          "publishedOn": "2024-09-30T07:36:19.000Z",
-          "wordCount": 3229,
-          "title": "Product bundles in Microsoft Dynamics 365 Finance and Operations",
-          "imageUrl": "http://img.youtube.com/vi/yT1KnTrF-w0/0.jpg"
         }
       ]
     },
@@ -90320,106 +90285,6 @@
           "wordCount": 3705,
           "title": "Free Microsoft Dynamics 365 Finance & SCM Training – Starts May 24th 2025",
           "imageUrl": "https://exploredynamics365.home.blog/wp-content/uploads/2025/05/image.png"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2933",
-          "author": "Saurabh Bharti",
-          "description": "Welcome to the next video on “Learning Path to Become Functional consultant” series. In the last video, I discussed about test plans in Azure DevOps which you can have for different testing types that functional consultants should be familiar with. Now in This Video, I talk about following: Let’s explore the essentials of Azure DevOps […]",
-          "link": "https://exploredynamics365.home.blog/2024/09/30/testingtest-cases-using-bpm-library-and-task-recorder-in-azure-devops-learning-path-to-become-functional-consultantfc-013/",
-          "publishedOn": "2024-09-30T07:51:22.000Z",
-          "wordCount": 3307,
-          "title": "[Testing]Test cases using BPM Library and Task Recorder in Azure DevOps: Learning Path to Become Functional Consultant:FC-013",
-          "imageUrl": "http://img.youtube.com/vi/9ekuRyObmuE/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2930",
-          "author": "Saurabh Bharti",
-          "description": "Welcome to the next video on “Learning Path to Become Functional consultant” series. In the previous few videos, I discussed the testing strategy and test types that functional consultants should be familiar with. It’s crucial to have a solid process for documenting and managing test plans, cases, and execution across all phases of a project […]",
-          "link": "https://exploredynamics365.home.blog/2024/09/30/testingtest-plans-and-test-cases-in-azure-devops-learning-path-to-become-functional-consultantfc-012/",
-          "publishedOn": "2024-09-30T07:49:37.000Z",
-          "wordCount": 3319,
-          "title": "[Testing]Test plans and test cases in Azure DevOps: Learning Path to Become Functional Consultant:FC-012",
-          "imageUrl": "http://img.youtube.com/vi/bQQp9uu0-y0/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2927",
-          "author": "Saurabh Bharti",
-          "description": "What is physical cost in Dynamics 365 F&O? Anything which has been received or shipped but not invoiced is considered as physical cost for inventory quantity which gets converted into financial cost once that transaction is invoiced. How weighted average is calculated in Dynamics 365? Weighted average calculation in Dynamics 365 is = Total Financial […]",
-          "link": "https://exploredynamics365.home.blog/2024/09/30/physical-cost-inclusion-for-weighted-average-valuation-in-microsoft-dynamics-365-finance-and-operations-part-13/",
-          "publishedOn": "2024-09-30T07:47:41.000Z",
-          "wordCount": 3262,
-          "title": "Physical cost inclusion for Weighted Average Valuation in Microsoft Dynamics 365 Finance and Operations: Part-13",
-          "imageUrl": "http://img.youtube.com/vi/YPj8MNTjKqM/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2924",
-          "author": "Saurabh Bharti",
-          "description": "10.0.41 has got another new feature for customer prepayments against the sales order. There was a feature to record prepayment against sales order but that was not a great, it had lot of issues for tracking and settlements which also got deprecated. Now Microsoft has released new feature with new design and framework. Let’s explore […]",
-          "link": "https://exploredynamics365.home.blog/2024/09/30/customer-prepayment-in-microsoft-dynamics-365-finance-and-operation/",
-          "publishedOn": "2024-09-30T07:46:13.000Z",
-          "wordCount": 3214,
-          "title": "Customer Prepayment in Microsoft Dynamics 365 Finance and Operation",
-          "imageUrl": "http://img.youtube.com/vi/DYr7fPxhZSQ/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2921",
-          "author": "Saurabh Bharti",
-          "description": "Use case: Employee requested 5,000 USD cash advance for business travel. Return from travel and spent 4,500 USD only and need to submit the expense report. How do you adjustment or Map Cash advance to the expense report? How do you return the cash which is not used while submitting expense report?",
-          "link": "https://exploredynamics365.home.blog/2024/09/30/apply-cash-advance-to-expense-report-in-microsoft-dynamics-365-finance-and-operation/",
-          "publishedOn": "2024-09-30T07:44:57.000Z",
-          "wordCount": 3209,
-          "title": "Apply Cash Advance to Expense Report in Microsoft Dynamics 365 Finance and Operation",
-          "imageUrl": "http://img.youtube.com/vi/L7RHUE-WBQ8/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2918",
-          "author": "Saurabh Bharti",
-          "description": "Are you using Financial Tags in your project? If yes, then What about Financial tags which are inactive but having posted transactions? Why would you inactive financial tags? It’s possible that a customer initially decides to use a specific financial tag to capture an additional attribute on financial transactions but later decides to discontinue its […]",
-          "link": "https://exploredynamics365.home.blog/2024/09/30/view-inactive-financial-tags-in-microsoft-dynamics-365-finance-and-operation/",
-          "publishedOn": "2024-09-30T07:43:31.000Z",
-          "wordCount": 3228,
-          "title": "View Inactive Financial Tags in Microsoft Dynamics 365 Finance and Operation",
-          "imageUrl": "http://img.youtube.com/vi/ODG8A0VaW44/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2915",
-          "author": "Saurabh Bharti",
-          "description": "Microsoft has released a new feature “Dynamics 365 Approval management” for Microsoft Dynamics 365 finance and operations which currently supports us to manage purchase order and purchase requisition approval through the mobile app. This app not only allows to approve PO’s and PR’s through mobile app but also help in accessing all the information required […]",
-          "link": "https://exploredynamics365.home.blog/2024/09/30/new-feature-approval-management-app-in-microsoft-dynamics-365-finance-and-operation/",
-          "publishedOn": "2024-09-30T07:42:01.000Z",
-          "wordCount": 3275,
-          "title": "[New Feature] Approval Management App in Microsoft Dynamics 365 Finance and Operation",
-          "imageUrl": "http://img.youtube.com/vi/1XGFJtE03k0/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2912",
-          "author": "Saurabh Bharti",
-          "description": "Welcome to the next video on “Learning Path to Become Functional consultant” series. In the last video, we talked about the key components for testing strategy. Now in this video we will further break down to understand different test types using one example. As functional consultant we are responsible for following test types during the […]",
-          "link": "https://exploredynamics365.home.blog/2024/09/30/testingtest-types-learning-path-to-become-functional-consultantfc-011/",
-          "publishedOn": "2024-09-30T07:39:44.000Z",
-          "wordCount": 3282,
-          "title": "[Testing]Test types: Learning Path to Become Functional Consultant:FC-011",
-          "imageUrl": "http://img.youtube.com/vi/lFYYk7QoEUY/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2909",
-          "author": "Saurabh Bharti",
-          "description": "Welcome to the next video on “Learning Path to Become Functional consultant” series. Testing plays a crucial role in the success of the any implementation, I’ve witnessed numerous projects encounter failures or issues due to inadequate testing during the implementation phase. This often results in project delays, poor user adoption, and unstable solutions. Proper testing […]",
-          "link": "https://exploredynamics365.home.blog/2024/09/30/testingtest-strategy-components-learning-path-to-become-functional-consultantfc-010/",
-          "publishedOn": "2024-09-30T07:38:18.000Z",
-          "wordCount": 3300,
-          "title": "[Testing]Test strategy components: Learning Path to Become Functional Consultant:FC-010",
-          "imageUrl": "http://img.youtube.com/vi/mW9wfuMdRzs/0.jpg"
-        },
-        {
-          "id": "http://exploredynamics365.home.blog/?p=2905",
-          "author": "Saurabh Bharti",
-          "description": "Product bundle was first introduced in module revenue recognition but as we all know the there is new modules which has been introduced and will replace revenue recognition “Subscription Billing “. Few Questions?",
-          "link": "https://exploredynamics365.home.blog/2024/09/30/product-bundles-in-microsoft-dynamics-365-finance-and-operations/",
-          "publishedOn": "2024-09-30T07:36:19.000Z",
-          "wordCount": 3229,
-          "title": "Product bundles in Microsoft Dynamics 365 Finance and Operations",
-          "imageUrl": "http://img.youtube.com/vi/yT1KnTrF-w0/0.jpg"
         }
       ]
     },
