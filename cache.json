@@ -1311,16 +1311,6 @@
           "wordCount": 4629,
           "title": "Advent of 2024, Day 1 – Microsoft Azure AI – What is Foundry?",
           "imageUrl": "https://tomaztsql.wordpress.com/wp-content/uploads/2024/12/image-1.png"
-        },
-        {
-          "id": "http://tomaztsql.wordpress.com/?p=10036",
-          "author": "tomaztsql",
-          "description": "ROC (Receiver Operation Characteristics) – curve is a graph that shows how classifiers performs by plotting the true positive and false positive rates. It is used to evaluate the performance of binary classification models by illustrating the trade-off between True…\nRead more ›",
-          "link": "https://tomaztsql.wordpress.com/2024/10/02/data-science-with-microsoft-fabric-plotting-roc-curve-and-distribution-of-scores/",
-          "publishedOn": "2024-10-02T17:37:07.000Z",
-          "wordCount": 4978,
-          "title": "Data science with Microsoft Fabric – Plotting ROC curve and distribution of scores",
-          "imageUrl": "https://tomaztsql.wordpress.com/wp-content/uploads/2024/10/image-4.png"
         }
       ]
     },
@@ -1346,6 +1336,86 @@
       "feedUrl": "https://erpsoftwareblog.com/feed/",
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
+        {
+          "id": "https://erpsoftwareblog.com/?p=155800",
+          "author": "Insight Works",
+          "description": "xxx\nListen to the Podcast The One-Size-Fits-All Mobile Screen Problem A forklift operator does not want a forty-line pick list. A receiving clerk staring at an unfamiliar pallet wants to see […]\nThe post Each Warehouse Role Can Now Choose Their Ideal WMS Interface for Business Central appeared first on ERP Software Blog.\nWarehouse Insight Now Available for Dynamics 365 Business Central\nOptimize your Distribution Process with Advanced Warehouse Management System\nHow to Choose a Mobile Computer to use with Business Central",
+          "link": "https://erpsoftwareblog.com/2026/10/mobile-interface-views-business-central/",
+          "publishedOn": "2026-10-02T20:28:25.000Z",
+          "wordCount": 8111,
+          "title": "Each Warehouse Role Can Now Choose Their Ideal WMS Interface for Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Each-Warehouse-Role-Can-Now-Choose-Their-Ideal-WMS-Interface-for-Business-Central.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=155885",
+          "author": "Syvantis Technologies, Inc.",
+          "description": "xxx\nWith Community Summit North America right around the corner, there will be no shortage of networking, information, and solutions about your Microsoft products and systems going around. Hosted in Nashville, […]\nThe post Four can't-miss sessions at 2026 Community Summit NA appeared first on ERP Software Blog.\nSelf-Service Analytics: Exploring Your ERP Data for Maximum Insights\nInsight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Business Central at BCUG/NAVUG Summit in Phoenix\nCanadian Payroll for Dynamics NAV and 365 Business Central",
+          "link": "https://erpsoftwareblog.com/2026/10/four-cant-miss-sessions-at-2026-community-summit-na/",
+          "publishedOn": "2026-10-02T17:48:00.000Z",
+          "wordCount": 8270,
+          "title": "Four can't-miss sessions at 2026 Community Summit NA",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Blog-Featured-Image-820x600-1-1.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=155867",
+          "author": "Rob Hansen",
+          "description": "xxx\nAs a long-term consultant for Business Central (back to the NAV and even the Navision days), I spent many years working with the “Item Category / Product Group” classification structure […]\nThe post Business Central Item Categories + Dimensions = Magic! appeared first on ERP Software Blog.\nIntegrating Business Central with Third-Party Applications\nDynamics 365 Business Central and Industry-Tailored Functionality\nDon’t Stop the Flow: Managing a Job Shop",
+          "link": "https://erpsoftwareblog.com/2026/10/business-central-item-categories-dimensions-magic/",
+          "publishedOn": "2026-10-02T16:41:07.000Z",
+          "wordCount": 7680,
+          "title": "Business Central Item Categories + Dimensions = Magic!",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/category-dimensions-listing-graphic.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=155871",
+          "author": "CADTALK",
+          "description": "xxx\nThe Business Central support call that always ends at the item card Every Business Central partner knows this call. A manufacturer turns on planning, runs the worksheet for a few […]\nThe post The Business Central support call that always ends at the item card appeared first on ERP Software Blog.\nStrategic Mindset for a Successful ERP implementation\nMetaADCS – Advanced Warehouse Solution for Microsoft Dynamics 365 Business Central\nCustom Backgrounds in Microsoft Teams and How to set up Your ERP Company Images",
+          "link": "https://erpsoftwareblog.com/2026/10/the-business-central-support-call-that-always-ends-at-the-item-card/",
+          "publishedOn": "2026-10-02T16:15:53.000Z",
+          "wordCount": 8153,
+          "title": "The Business Central support call that always ends at the item card",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/blog-feature-image-625x328.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=155503",
+          "author": "Soluciones LLB",
+          "description": "xxx\nEvery electronic document in Ecuador carries a 49-digit fingerprint. If a single digit is off, the SRI rejects the document before it ever reaches the buyer. That's why, for companies […]\nThe post Business Central Ecuador: How the SRI's Clave de Acceso Works appeared first on ERP Software Blog.\nResponsible AP Automation: Empowering Teams, Not Replacing Them\nBusiness Central Panama: The 2026 Shift from Free Invoicing to PAC\nBusiness Central Chile: SII's DTE, CAF, and TED Explained",
+          "link": "https://erpsoftwareblog.com/2026/10/business-central-ecuador-how-the-sris-clave-de-acceso-works/",
+          "publishedOn": "2026-10-02T15:00:50.000Z",
+          "wordCount": 7698,
+          "title": "Business Central Ecuador: How the SRI's Clave de Acceso Works",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ChatGPT-Image-25-sept-2026-08_29_17.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=155854",
+          "author": "Adeaca",
+          "description": "xxx\n  ERP buyers often begin with a feature or requirements list. A better starting point is the operating model: how the company plans work, manages change, controls financial exposure, and […]\nThe post 5 Questions to Ask Before Choosing a Project Solution for Dynamics 365 Finance appeared first on ERP Software Blog.\nDynamics 365 Finance Project Management and Accounting vs Project Operations: What Project-Based Companies Should Know\nCan the web client be your answer to a portal?\nWhat Makes PlanAutomate the Best Project Management Solution for Microsoft Dynamics 365 Finance?",
+          "link": "https://erpsoftwareblog.com/2026/10/5-questions-to-ask-before-choosing-a-project-solution-for-dynamics-365-finance/",
+          "publishedOn": "2026-10-02T11:59:27.000Z",
+          "wordCount": 8325,
+          "title": "5 Questions to Ask Before Choosing a Project Solution for Dynamics 365 Finance",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/erp-evaluations.jpg"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=154310",
+          "author": "USTPay",
+          "description": "xxx\nA finance director recently inherited three subsidiaries over 18 months. One came through an acquisition, two through international expansion. Each entity was set up properly in Business Central, with its […]\nThe post Why Multi-Currency and Multi-Entity Payments Are a Struggle in Dynamics 365 Business Central appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/10/multi-entity-payments-business-central/",
+          "publishedOn": "2026-10-02T11:16:00.000Z",
+          "wordCount": 7606,
+          "title": "Why Multi-Currency and Multi-Entity Payments Are a Struggle in Dynamics 365 Business Central",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Screenshot-2026-09-02-at-2.16.56-PM.png"
+        },
+        {
+          "id": "https://erpsoftwareblog.com/?p=155706",
+          "author": "Flywire",
+          "description": "xxx\nB2B payment processes are under pressure to modernize. While consumers have become accustomed to convenient digital payments and self-service experiences, many businesses still rely on manual processes and paper checks. […]\nThe post The B2B Payments Opportunity: Move Ahead by Mirroring B2C Convenience appeared first on ERP Software Blog.\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!\nWith Microsoft Dynamics GP, you really can have it all! Here's how...",
+          "link": "https://erpsoftwareblog.com/2026/10/b2b-payments-opportunity-b2c-convenience/",
+          "publishedOn": "2026-10-02T10:24:29.000Z",
+          "wordCount": 7416,
+          "title": "The B2B Payments Opportunity: Move Ahead by Mirroring B2C Convenience",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/ERPSB-Blog-Feature-2.png"
+        },
         {
           "id": "https://erpsoftwareblog.com/?p=155862",
           "author": "Solver",
@@ -42345,66 +42415,6 @@
           "wordCount": 4160,
           "title": "NAV Case Study: Transforming a Critical Challenge into Success",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Buehler-Video-Case-Study-Thumbnail.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=118991",
-          "author": "Insight Works",
-          "description": "xxx\nLicense Plating version 1.97 from Insight Works expands mixed item tracking capabilities, enhances inventory accuracy, and optimizes workflows for manufacturers and distributors using Business Central.\nThe post Business Central’s Most Trusted License Plating App, a Five-Star Rating on AppSource appeared first on ERP Software Blog.\nLicense Plating v1.97: Transforming Warehouse Management in Business Central\nTop 10 Reasons to Use Business Central’s License Plating App\nWarehouse Insight Now Available for Dynamics 365 Business Central",
-          "link": "https://erpsoftwareblog.com/2024/10/business-centrals-most-trusted-license-plating-app-a-five-star-rating-on-appsource/",
-          "publishedOn": "2024-10-03T10:42:45.000Z",
-          "wordCount": 7315,
-          "title": "Business Central’s Most Trusted License Plating App, a Five-Star Rating on AppSource",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/License-Plating-TILE-1.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=119253",
-          "author": "Dynamics Square AU",
-          "description": "xxx\nOne of the most critical challenges large enterprises face today is effectively managing credit while mitigating financial risk. As businesses scale, the complexity of managing credit policies, ensuring timely collections, […]\nThe post Enhancing Credit Management and Reducing Financial Risk in Large Enterprises with Dynamics 365 Finance appeared first on ERP Software Blog.\nIntroducing deFacto POWER Planning\nHow Machine Learning is Transforming Accounts Payable\nRefunding Customers is Automated in Microsoft Dynamics GP",
-          "link": "https://erpsoftwareblog.com/2024/10/enhancing-credit-management-and-reducing-financial-risk-in-large-enterprises-with-dynamics-365-finance/",
-          "publishedOn": "2024-10-03T04:19:42.000Z",
-          "wordCount": 4685,
-          "title": "Enhancing Credit Management and Reducing Financial Risk in Large Enterprises with Dynamics 365 Finance",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=119236",
-          "author": "ERP Software Blog Writer",
-          "description": "xxx\nMany businesses face significant challenges while managing their accounts payable processes due to a lack of automation and standardized procedures. Many rely on manual data entry, which is time-consuming and […]\nThe post Compare Five AP Automation Tools for Business Central appeared first on ERP Software Blog.\nSwitching from Sage MAS 90 To Dynamics GP - Video Review & Testimonial\nBetter Information = Stronger Company in Tough Economy\nHassle Free Upgrades with Dynamics GP Resellers!",
-          "link": "https://erpsoftwareblog.com/2024/10/compare-five-ap-automation-tools-for-business-central/",
-          "publishedOn": "2024-10-02T16:11:46.000Z",
-          "wordCount": 7917,
-          "title": "Compare Five AP Automation Tools for Business Central",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/2024-08-19-MSDW-AP-Automation-Showcase-Banners-BC_1200-x-628-1.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=119212",
-          "author": "k-ecommerce",
-          "description": "xxx\nJoin us at Community Summit, October 13-17, 2024, where we’ll be a Platinum Sponsor at the largest independent innovation, education, and training event for Microsoft business applications. We’re excited to […]\nThe post Meet with k-ecommerce at Community Summit 2024 appeared first on ERP Software Blog.\nBest strategies, insights and techniques for a successful eCommerce implementation\nHow to help your sales team embrace a B2B eCommerce strategy\nIncrease your to-order close rates with online quote configuration (with webinar recording)",
-          "link": "https://erpsoftwareblog.com/2024/10/meet-with-k-ecommerce-at-community-summit-2024/",
-          "publishedOn": "2024-10-02T15:26:55.000Z",
-          "wordCount": 3944,
-          "title": "Meet with k-ecommerce at Community Summit 2024",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/KEC-CS2024-1200x627_Lin-300x156.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=119219",
-          "author": "Solution Systems, Inc.",
-          "description": "xxx\nA Microsoft Dynamics 365 Business Central podcast | Episode 65 A Shot of Business Central and A Beer Welcome to the show notes for Episode 65 of A Shot of […]\nThe post Ep 65 | Copilot in Business Central | A Shot of Business Central and A Beer appeared first on ERP Software Blog.\nEp. 63: Interview with Kennie Pontoppidan | A Shot of Business Central and A Beer podcast\nWhat's New in Business Central 2024 Release Wave 2\nBusiness Central Copilot | The Definitive Guide",
-          "link": "https://erpsoftwareblog.com/2024/10/ep-65-copilot-in-business-central-a-shot-of-business-central-and-a-beer/",
-          "publishedOn": "2024-10-02T15:24:50.000Z",
-          "wordCount": 5037,
-          "title": "Ep 65 | Copilot in Business Central | A Shot of Business Central and A Beer",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Ep-65-Shot-of-BC-N-Beer.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=119213",
-          "author": "Western Computer",
-          "description": "xxx\nAs business owners near retirement, they often reflect on the legacy they'll leave behind. They wonder how their successors will get on and whether they have set up their company […]\nThe post Leveraging Dynamics 365 Business Central Cloud Enhances Owners' Legacy appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve\nMore Than Just a Name Change: The New Microsoft Dynamics 365 Business Central\nWhat is Microsoft Dynamics 365 Business Central? - Webinar",
-          "link": "https://erpsoftwareblog.com/2024/10/leveraging-dynamics-365-business-central-cloud-enhances-owners-legacy/",
-          "publishedOn": "2024-10-02T15:22:18.000Z",
-          "wordCount": 4310,
-          "title": "Leveraging Dynamics 365 Business Central Cloud Enhances Owners' Legacy",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/distribution-network-istock-scaled.jpg"
         }
       ]
     },
@@ -43481,6 +43491,56 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/the-business-central-2026-release-wave-2-docs-nobody-asked-for",
+          "author": "Waldo",
+          "description": "I did a thing .. again 🙈. You know the drill. Microsoft drops the Business Central 2026 release wave 2 launch event. 38 videos. 7 hours and 9 minutes of “What’s new in ..”. And somewhere in there are the 12 minutes that…",
+          "link": "https://365community.online/the-business-central-2026-release-wave-2-docs-nobody-asked-for",
+          "publishedOn": "2026-10-02T11:37:59.000Z",
+          "wordCount": 2738,
+          "title": "The Business Central 2026 release wave 2 docs nobody asked for ..",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/power-apps-rows-without-an-owner",
+          "author": "Mariano Gomez",
+          "description": "If you have spent any real time modeling security in Dataverse, you have had this conversation. A customer wants \"this group of people should only see the rows for their region\", and you reach for the tools you have: business…",
+          "link": "https://365community.online/power-apps-rows-without-an-owner",
+          "publishedOn": "2026-10-02T11:00:00.000Z",
+          "wordCount": 3780,
+          "title": "Power Apps | Rows Without an Owner",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/your-aldc-project-at-a-glance-project-manager-doctor-and-bcquality",
+          "author": "jarmesto",
+          "description": "See your ALDC toolkit, solution layout, workspace roots, MCP settings and BCQuality provider in one place, then use Doctor to find configuration issues before the next development step.",
+          "link": "https://365community.online/your-aldc-project-at-a-glance-project-manager-doctor-and-bcquality",
+          "publishedOn": "2026-10-02T10:00:00.000Z",
+          "wordCount": 2172,
+          "title": "Your ALDC project at a glance: Project Manager, Doctor and BCQuality",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/new-moduleinfo-properties-in-business-central-29",
+          "author": "Saurav Dhyani",
+          "description": "Hi All,Business Central 29 introduces four new properties on the ModuleInfo type, allowing AL developers to retrieve additional application manifest metadata programmatically. The new properties are Help, EULA, PrivacyStatement, and ContextSensitiveHelpUrl, and they require runtime version 18.0 or later.Read Complete Article…",
+          "link": "https://365community.online/new-moduleinfo-properties-in-business-central-29",
+          "publishedOn": "2026-10-02T05:30:00.000Z",
+          "wordCount": 2398,
+          "title": "New ModuleInfo Properties in Business Central 29",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/ews-deprecation-is-here-what-this-means-to-you",
+          "author": "Microsoft Tech Community",
+          "description": "The deprecation of EWS in Exchange Online starts today. This is a multi-step process, years in the making, and this post has lots of important information. We will keep this post updated if we have new information to add. The…",
+          "link": "https://365community.online/ews-deprecation-is-here-what-this-means-to-you",
+          "publishedOn": "2026-10-01T17:12:32.000Z",
+          "wordCount": 2046,
+          "title": "EWS Deprecation Is Here – What This Means To You",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/business-central-29-0-is-generally-available-what-cloud-customers-and-partners-need-to-do",
           "author": "Saurav Dhyani",
           "description": "Microsoft Dynamics 365 Business Central version 29.0, also referred to as 2026 release wave 2, is now generally available (GA).This is an important milestone for Business Central customers, consultants, developers, and implementation partners. New Business Central cloud customers onboarding after…",
@@ -43488,6 +43548,46 @@
           "publishedOn": "2026-10-01T17:11:26.000Z",
           "wordCount": 3704,
           "title": "Business Central 29.0 Is Generally Available: What Cloud Customers and Partners Need to Do.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/explore-app-advisor-for-details-on-how-frontier-accelerate-for-marketplace-can-help-you-sell-more",
+          "author": "Microsoft Tech Community",
+          "description": "Want to skip right to what benefits are available in Frontier Accelerate for Marketplace? Discover more in App Advisor Frontier Accelerate for Marketplace, launched on September 28, can help you publish faster, transact sooner, and scale Marketplace revenue. Frontier Accelerate for…",
+          "link": "https://365community.online/explore-app-advisor-for-details-on-how-frontier-accelerate-for-marketplace-can-help-you-sell-more",
+          "publishedOn": "2026-10-01T17:07:03.000Z",
+          "wordCount": 2199,
+          "title": "Explore App Advisor for details on how Frontier Accelerate for Marketplace can help you sell more",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/whats-new-in-microsoft-teams-august-september-2026",
+          "author": "Microsoft Tech Community",
+          "description": "A quick note before we get into it: What's New in Teams is shifting from a monthly to a quarterly rhythm. You'll hear from us next in December, March, and June, and each edition will round up everything announced and…",
+          "link": "https://365community.online/whats-new-in-microsoft-teams-august-september-2026",
+          "publishedOn": "2026-10-01T17:03:00.000Z",
+          "wordCount": 5291,
+          "title": "What’s New in Microsoft Teams | August – September 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/build-expressive-voice-experiences-with-new-mai-models-in-microsoft-foundry",
+          "author": "Microsoft Tech Community",
+          "description": "A voice agent has to do more than hear a request and produce a reply. It has to keep the interaction moving while it listens, reasons, uses tools, and speaks. A delay at either end can turn a conversation into…",
+          "link": "https://365community.online/build-expressive-voice-experiences-with-new-mai-models-in-microsoft-foundry",
+          "publishedOn": "2026-10-01T17:01:24.000Z",
+          "wordCount": 2241,
+          "title": "Build expressive voice experiences with new MAI models in Microsoft Foundry",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/whats-new-in-copilot-in-sharepoint-october-2026",
+          "author": "Microsoft Tech Community",
+          "description": "Your monthly roundup of what's new in Copilot in SharePoint. Copilot in SharePoint general availability rollout started on September 30 — read the announcement blog for the full story.  But general availability isn't the finish line, and this month's release…",
+          "link": "https://365community.online/whats-new-in-copilot-in-sharepoint-october-2026",
+          "publishedOn": "2026-10-01T17:01:11.000Z",
+          "wordCount": 3858,
+          "title": "What’s new in Copilot in SharePoint: October 2026",
           "imageUrl": null
         },
         {
@@ -84639,86 +84739,6 @@
           "wordCount": 993,
           "title": "Weekly Update #155 – 4th October 2024 – YouTube",
           "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-use-machine-to-credential-mapping-in-desktop-flow-connections",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Power Automate 2024 Wave 2. The 9th of the new functionality in the Desktop flows section is use machine to credential mapping in desktop flow […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-use-machine-to-credential-mapping-in-desktop-flow-connections",
-          "publishedOn": "2024-10-03T14:00:00.000Z",
-          "wordCount": 1139,
-          "title": "New Functionality In Microsoft Power Automate 2024 Wave 2: Use Machine To Credential Mapping In Desktop Flow Connections",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/aws-training-and-certification-course-aws-awstraining-shortsfeedviral-mindmajix-youtube",
-          "author": null,
-          "description": "This AWS training and certification course will help you learn and work on various use-case scenarios of Amazon Web Services implementations and become you a job-ready. 🔥To learn AWS training enroll here: https://mindmajix.com/aws-training?utm_source=youtube&utm_medium=video&utm_campaign=promotion 🔵 About MindMajix’s AWS Course: This training is for every individual aiming to build a robust career in Cloud Computing. Our online […]",
-          "link": "https://365community.online/aws-training-and-certification-course-aws-awstraining-shortsfeedviral-mindmajix-youtube",
-          "publishedOn": "2024-10-03T13:30:04.000Z",
-          "wordCount": 1127,
-          "title": "AWS Training and Certification Course #aws #awstraining #shortsfeedviral | MindMajix – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/currency-and-exchange-rates-in-projops-and-finops",
-          "author": "Sarang Kusare",
-          "description": "Currency on the Project record  There are 3 currencies in FinOps: Transaction currency – In which transaction happens Accounting currency – In which the company accounts (configured in the Ledger under Accounting currency) Reporting currency – In which the company reports (configured in the Ledger under Reporting currency) There are 3 currencies in ProjOps as […]",
-          "link": "https://365community.online/currency-and-exchange-rates-in-projops-and-finops",
-          "publishedOn": "2024-10-03T13:16:00.000Z",
-          "wordCount": 1045,
-          "title": "Currency and Exchange rates in ProjOps and FinOps",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/thingworx-iot-platform-basics-thingworx-training-ptc-thingworx-tutorial-mindmajix-youtube",
-          "author": null,
-          "description": "ThingWorx is your go-to IoT platform! In this ThingWorx training video, we provide a detailed introduction to Thingworx, covering its core features, installation process, and the creation of Things, services, and properties. 🔥 Check out our ThingWorx mastery course: https://mindmajix.com/contact?utm_source=youtube&utm_medium=video&utm_campaign=promotion 📌 Subscribe to our channel to get video updates. Click on the link to subscribe: […]",
-          "link": "https://365community.online/thingworx-iot-platform-basics-thingworx-training-ptc-thingworx-tutorial-mindmajix-youtube",
-          "publishedOn": "2024-10-03T12:00:11.000Z",
-          "wordCount": 1069,
-          "title": "ThingWorx IoT Platform Basics | ThingWorx Training | PTC ThingWorx Tutorial | MindMajix – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-power-fx-integration-with-power-automate-for-desktop",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Power Automate 2024 Wave 2. The 8th of the new functionality in the Desktop flows section is power Fx integration with Power Automate for desktop. […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-power-fx-integration-with-power-automate-for-desktop",
-          "publishedOn": "2024-10-03T12:00:00.000Z",
-          "wordCount": 1135,
-          "title": "New Functionality In Microsoft Power Automate 2024 Wave 2: Power Fx Integration With Power Automate For Desktop",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-update-an-image-file-or-document-v3-action",
-          "author": "Ian Grieve",
-          "description": "This article is part of the In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I… series, a sub-series of the In Microsoft Dynamics 365 Business Central (Power Automate), how do I… series and of the wider In Microsoft Dynamics 365 Business Central, how do I… series which I am posting as I […]",
-          "link": "https://365community.online/in-microsoft-dynamics-365-business-central-power-automate-actions-how-do-i-use-the-update-an-image-file-or-document-v3-action",
-          "publishedOn": "2024-10-03T10:00:33.000Z",
-          "wordCount": 1149,
-          "title": "In Microsoft Dynamics 365 Business Central (Power Automate Actions), how do I… Use the “Update an Image, File or Document V3” Action",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/new-enhancements-in-your-microsoft-dynamics-365-undo-and-restore-process",
-          "author": "Inogic",
-          "description": "You’re in the middle of a hectic workday, and amid a rush of clicks and decisions, you accidentally delete a crucial record from your CRM. Panic sets in as you realize the impact this mistake could have on your workflow. Studies show that 30% of users admit to accidentally deleting important records in their CRM […]",
-          "link": "https://365community.online/new-enhancements-in-your-microsoft-dynamics-365-undo-and-restore-process",
-          "publishedOn": "2024-10-03T06:28:33.000Z",
-          "wordCount": 1357,
-          "title": "New Enhancements in your Microsoft Dynamics 365 Undo and Restore Process!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/stop-wasting-time-and-energy-with-poor-posture-management-youtube",
-          "author": "shabaz darr",
-          "description": "Are you tired of wasting time and energy due to poor posture management? Learn how to protect your workload with these SC-100 exam tips! Episode Breakdown: 00:00 – Episode Intro 00:47 – Episode Breakdown 01:14 – Overview of Posture evaluation with Defender for Cloud 07:23 – Design posture management & workload protection in Hybrid & […]",
-          "link": "https://365community.online/stop-wasting-time-and-energy-with-poor-posture-management-youtube",
-          "publishedOn": "2024-10-02T15:44:23.000Z",
-          "wordCount": 1041,
-          "title": "STOP Wasting Time and Energy with Poor POSTURE Management! – YouTube",
-          "imageUrl": null
         }
       ]
     },
@@ -87205,6 +87225,16 @@
       "feedUrl": "https://cloudblogs.microsoft.com/dynamics365/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=203275",
+          "author": "Shruti Chaurasia and Shivani Sugandha",
+          "description": "What if supervisors could act on operational issues before customers feel the impact? New real-time streaming analytics in Dynamics 365 Contact Center provide live insights into queues, conversations, and workforce performance, helping teams move from monitoring to action faster than ever.\nThe post From live streaming to real-time action: Real-time streaming analytics in Microsoft Dynamics 365 Contact Center appeared first on Microsoft Dynamics 365 Blog.",
+          "link": "https://www.microsoft.com/en-us/dynamics-365/blog/it-professional/2026/10/02/real-time-streaming-analytics-in-dynamics-365-contact-cente/",
+          "publishedOn": "2026-10-02T15:21:54.000Z",
+          "wordCount": 6505,
+          "title": "From live streaming to real-time action: Real-time streaming analytics in Microsoft Dynamics 365 Contact Center",
+          "imageUrl": "https://www.microsoft.com/en-us/dynamics-365/blog/wp-content/uploads/2026/04/AdobeStock_85416890-scaled.jpeg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/dynamics-365/blog/?p=203240",
           "author": "Anusha Venkatesan",
@@ -92432,6 +92462,21 @@
       "feedUrl": "https://powerapps.microsoft.com/en-us/blog/feed/",
       "siteUrl": "https://www.microsoft.com/en-us/power-platform/blog/product/power-apps/",
       "articles": [
+        {
+          "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=135102",
+          "author": "Tiffany Treacy",
+          "description": "See how Power Apps, Power Platform, and Copilot Studio are helping teams transform ideas into AI-powered business solutions at PPCC 2026.\nThe post Your AI transformation starts with what you’ve already built appeared first on Microsoft Power Platform Blog.",
+          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/your-ai-transformation-starts-with-what-youve-already-built/",
+          "publishedOn": "2026-10-01T15:00:00.000Z",
+          "wordCount": 5903,
+          "title": "Your AI transformation starts with what you’ve already built",
+          "enclosure": {
+            "url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/1121465-tiffanyleon2",
+            "length": "252236629",
+            "type": ""
+          },
+          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2026/10/AI-transformation-1-1200.jpg"
+        },
         {
           "id": "https://www.microsoft.com/en-us/power-platform/blog/?p=134999",
           "author": "Tiffany Treacy",
