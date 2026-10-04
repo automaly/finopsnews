@@ -43491,6 +43491,96 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/ai-powered-human-focused-powering-workforce-transformation",
+          "author": "Microsoft Tech Community",
+          "description": "How Microsoft combines the reach and personalization of AI with human expertise to turn workforce learning into business impact. When we think about AI transformation, we have to start with employees. There is simply no way around it. You can…",
+          "link": "https://365community.online/ai-powered-human-focused-powering-workforce-transformation",
+          "publishedOn": "2026-10-03T05:27:58.000Z",
+          "wordCount": 2144,
+          "title": "AI-powered + human-focused: Powering workforce transformation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/earn-the-new-clinical-applications-specialization-for-dragon-copilot",
+          "author": "Microsoft Tech Community",
+          "description": "Starting today, eligible partners can earn the new Clinical Applications specialization, which recognizes proven expertise in deploying Dragon Copilot for healthcare customers. Earning the specialization can unlock co-sell and referral eligibility with Microsoft sellers, along with funding opportunities, Azure bulk…",
+          "link": "https://365community.online/earn-the-new-clinical-applications-specialization-for-dragon-copilot",
+          "publishedOn": "2026-10-02T22:51:34.000Z",
+          "wordCount": 1503,
+          "title": "Earn the new Clinical Applications specialization for Dragon Copilot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/beyond-the-trace-the-science-of-insight-quality",
+          "author": "Microsoft Tech Community",
+          "description": "Co-authors and reviewers: Morteza Ziyadi, Hanchi Wang, Han Che, Billy Hu, Sean Gayler, Nishal Dsilva, Avinav Jami, Ankit Singhal, Augustus Arthur TL;DR. Insights in Foundry turns recurring agent behavior into evidence-linked findings developers can review and act on. We evaluate…",
+          "link": "https://365community.online/beyond-the-trace-the-science-of-insight-quality",
+          "publishedOn": "2026-10-02T21:34:39.000Z",
+          "wordCount": 4004,
+          "title": "Beyond the Trace: The Science of Insight Quality",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/windows-news-you-can-use-september-2026",
+          "author": "Microsoft Tech Community",
+          "description": "With the end of September came a big milestone: Windows 11, version 26H2 is now generally available. If you're ready to get started, explore how to get the update. Then dive into the details regarding updating via enablement package, the…",
+          "link": "https://365community.online/windows-news-you-can-use-september-2026",
+          "publishedOn": "2026-10-02T20:30:04.000Z",
+          "wordCount": 2989,
+          "title": "Windows news you can use: September 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/understanding-azure-container-apps-costs-aca-compute-metrics-and-cost-observability-part-2",
+          "author": "Microsoft Tech Community",
+          "description": "Welcome to Part 2 of our three-part Azure Container Apps series. This time, we’ll explore how to monitor resource consumption, detect over-provisioned applications, and right-size ACA workloads for better efficiency and cost control. Imagine a small API with quiet periods,…",
+          "link": "https://365community.online/understanding-azure-container-apps-costs-aca-compute-metrics-and-cost-observability-part-2",
+          "publishedOn": "2026-10-02T20:11:02.000Z",
+          "wordCount": 8315,
+          "title": "Understanding Azure Container Apps Costs: ACA Compute, Metrics and Cost observability – Part 2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/how-microsoft-partners-drive-healthcare-transformation-through-collaboration",
+          "author": "Microsoft Tech Community",
+          "description": "How Microsoft Partners Drive Healthcare Transformation Through Collaboration   Digital transformation is often measured by technology outcomes: faster systems, better data, and improved efficiency. But the most successful transformation initiatives create impact far beyond technology itself.   That was the…",
+          "link": "https://365community.online/how-microsoft-partners-drive-healthcare-transformation-through-collaboration",
+          "publishedOn": "2026-10-02T16:00:00.000Z",
+          "wordCount": 2639,
+          "title": "How Microsoft Partners Drive Healthcare Transformation Through Collaboration",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/evaluate-more-spend-less-batching-microsoft-foundry-evaluators-for-efficient-evaluation",
+          "author": "Microsoft Tech Community",
+          "description": "Authors: Salma Elshafey, Ali Mahmoudzadeh, Kayla Ames, Ahmad Qardahji, Vivek Bhadauria, Morteza Ziyadi, April Kwong A single agent trajectory may need to be evaluated for groundedness, coherence, instruction following, task completion, and correct tool use. In a conventional pipeline, each…",
+          "link": "https://365community.online/evaluate-more-spend-less-batching-microsoft-foundry-evaluators-for-efficient-evaluation",
+          "publishedOn": "2026-10-02T16:00:00.000Z",
+          "wordCount": 4243,
+          "title": "Evaluate More, Spend Less: Batching Microsoft Foundry Evaluators for Efficient Evaluation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/ai-features-in-azure-databases",
+          "author": "Microsoft Tech Community",
+          "description": "A support engineer hits a fault. Somebody solved the same fault two years ago, wrote down what fixed it, and closed the ticket. The engineer searches, finds nothing, and works it out from scratch. The answer was in the database…",
+          "link": "https://365community.online/ai-features-in-azure-databases",
+          "publishedOn": "2026-10-02T14:00:00.000Z",
+          "wordCount": 4516,
+          "title": "AI features in Azure databases",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/how-to-make-ai-responses-faster-on-microsoft-foundry-lessons-from-2040-measurements",
+          "author": "Microsoft Tech Community",
+          "description": "A faster model does not always make an AI application faster. Latency also comes from output length, repeated prompt content, image and document processing, tool selection, connection setup, serial waits, and extra model requests. Comparing complete configurations, optimized software plus…",
+          "link": "https://365community.online/how-to-make-ai-responses-faster-on-microsoft-foundry-lessons-from-2040-measurements",
+          "publishedOn": "2026-10-02T13:00:00.000Z",
+          "wordCount": 4375,
+          "title": "How to make AI responses faster on Microsoft Foundry: lessons from 2,040 measurements",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/the-business-central-2026-release-wave-2-docs-nobody-asked-for",
           "author": "Waldo",
           "description": "I did a thing .. again 🙈. You know the drill. Microsoft drops the Business Central 2026 release wave 2 launch event. 38 videos. 7 hours and 9 minutes of “What’s new in ..”. And somewhere in there are the 12 minutes that…",
@@ -84659,86 +84749,6 @@
           "wordCount": 1176,
           "title": "5 Tips to write Clean code that doesn’t stink – YouTube",
           "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/azure-arc-made-easy-top-tips-for-a-stress-free-cloud-integration-experience-youtube",
-          "author": "shabaz darr",
-          "description": "Learn how to design cloud workload protection and hybrid, multi-cloud environments with Azure Arc in this stress-free tutorial. Azure Arc Made Easy and prep for SC-100 exam! Episode Summary: 00:00 – Episode Intro 00:49 – Episode Breakdown 01:40 – Design cloud workload protection solutions that use Microsoft Defender for Cloud 07:30 – Design a solution […]",
-          "link": "https://365community.online/azure-arc-made-easy-top-tips-for-a-stress-free-cloud-integration-experience-youtube",
-          "publishedOn": "2024-10-04T15:30:24.000Z",
-          "wordCount": 1062,
-          "title": "Azure Arc Made EASY – Top Tips for a Stress-Free Cloud Integration Experience – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/tasklet-certified-certified-tasklet-implementer",
-          "author": "Ian Grieve",
-          "description": "Since I started working with Microsoft Dynamics 365 Business Central, I’ve also been learning some of the add-ons which are commonly used. One of those add-ons is Tasklet Mobile WMS from Tasklet. The learning course is fairly short, as is the certification test. I took and successfully passed the Tasklet Implementer certification announced by Tasklet […]",
-          "link": "https://365community.online/tasklet-certified-certified-tasklet-implementer",
-          "publishedOn": "2024-10-04T14:00:19.000Z",
-          "wordCount": 1055,
-          "title": "Tasklet Certified: Certified Tasklet Implementer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-connect-your-own-virtual-network-with-hosted-machine-group",
-          "author": "Ian Grieve",
-          "description": "This post is part of the New Functionality In Microsoft Power Automate 2024 Wave 2 series in which I am taking a look at the new functionality introduced in Microsoft Power Automate 2024 Wave 2. The 10th of the new functionality in the Desktop flows section is connect your own virtual network with hosted machine […]",
-          "link": "https://365community.online/new-functionality-in-microsoft-power-automate-2024-wave-2-connect-your-own-virtual-network-with-hosted-machine-group",
-          "publishedOn": "2024-10-04T12:00:00.000Z",
-          "wordCount": 1117,
-          "title": "New Functionality In Microsoft Power Automate 2024 Wave 2: Connect Your Own Virtual Network With Hosted Machine Group",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/generate-summary-with-copilot-in-dynamics-365-field-service-mobile-app-part-ii",
-          "author": "Inogic",
-          "description": "In the field service industry, timely and accurate information is essential for ensuring operational efficiency. The Dynamics 365 Field Service Mobile App equips field technicians with the ability to access critical work order data, real-time updates, and essential features directly from their mobile devices. With the addition of the Copilot feature, technicians can now benefit […]",
-          "link": "https://365community.online/generate-summary-with-copilot-in-dynamics-365-field-service-mobile-app-part-ii",
-          "publishedOn": "2024-10-04T10:09:16.000Z",
-          "wordCount": 1356,
-          "title": "Generate Summary with Copilot in Dynamics 365 Field Service Mobile App (Part II)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/attending-community-summit-san-antonio-meet-team-maplytics-at-booth-1017",
-          "author": "Inogic",
-          "description": "The Tech ritual continues in 2024 and Team Inogic-Maplytics is back as the ‘Platinum Sponsor’ at #MySummitNA. The CRMUG Summit shall be held at Henry B. Gonzalez Convention Center, San Antonio, Texas from October 13-17 and Team Maplytics shall be present at Booth 1017! The product experts are thrilled to be present there and meet […]",
-          "link": "https://365community.online/attending-community-summit-san-antonio-meet-team-maplytics-at-booth-1017",
-          "publishedOn": "2024-10-04T10:01:50.000Z",
-          "wordCount": 1291,
-          "title": "Attending Community Summit, San Antonio? Meet Team Maplytics at Booth 1017!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/intrastat-only-available-to-specific-countries-in-microsoft-dynamics-365-business-central",
-          "author": "Ian Grieve",
-          "description": "I don;t recall where I saw this mentioned originally, but it cropped up again in a discussion the other day; the Intrastat module in Microsoft Dynamics 365 Business Central is now only available to EU countries and the UK. It used to be core and in all deployments regardless of the environment setup, but now […]",
-          "link": "https://365community.online/intrastat-only-available-to-specific-countries-in-microsoft-dynamics-365-business-central",
-          "publishedOn": "2024-10-04T10:00:57.000Z",
-          "wordCount": 1096,
-          "title": "Intrastat Only Available to Specific Countries in Microsoft Dynamics 365 Business Central",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/%f0%9f%9a%80-ready-to-land-your-first-internship-youtube",
-          "author": "Sourav Raj",
-          "description": "🚀 Ready to land your first internship? 🎯 Whether you’re a student or a recent grad, this guide will walk you through the steps to score that dream opportunity. From building the perfect resume to nailing your interview, we’ve got you covered! 💼 Don’t miss out on these essential tips to kickstart your career. ✨Watch […]",
-          "link": "https://365community.online/%f0%9f%9a%80-ready-to-land-your-first-internship-youtube",
-          "publishedOn": "2024-10-04T06:30:08.000Z",
-          "wordCount": 1156,
-          "title": "🚀 Ready to land your first internship? – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/weekly-update-155-4th-october-2024-youtube",
-          "author": "Sarah Lean ???????",
-          "description": "Weekly Update #155 – 4th October 2024 Tune in as I explore the latest Azure updates from the past week. Enjoyed the podcast? Consider buying me a coffee to show your support: ⁠⁠⁠⁠⁠https://ko-fi.com/techielass Tune in as I explore the latest Azure updates from the past week. Enjoyed the podcast? Consider buying me a coffee to […]",
-          "link": "https://365community.online/weekly-update-155-4th-october-2024-youtube",
-          "publishedOn": "2024-10-04T06:13:56.000Z",
-          "wordCount": 993,
-          "title": "Weekly Update #155 – 4th October 2024 – YouTube",
-          "imageUrl": null
         }
       ]
     },
@@ -90126,6 +90136,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=3207",
+          "author": "Arvind Bharti",
+          "description": "Overview Every AP team’s job comes down to one thing: making sure a vendor gets paid the right amount, at the right time, for something the business actually received. That single responsibility is why invoices get checked so carefully a mistake caught after posting means rework during period close, and a mistake missed altogether means […]",
+          "link": "https://exploredynamics365.home.blog/2026/10/03/invoice-capture-decoded-part-1-introduction-architecture-setup/",
+          "publishedOn": "2026-10-03T11:40:15.000Z",
+          "wordCount": 4284,
+          "title": "Invoice Capture Decoded – Part 1: Introduction, Architecture & Setup",
+          "imageUrl": "https://i0.wp.com/exploredynamics365.home.blog/wp-content/uploads/2026/10/colorful-modern-designer-linkedin-banner-presentation-8.jpg?fit=1200%2C675&ssl=1"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=3182",
           "author": "Arvind Bharti",
