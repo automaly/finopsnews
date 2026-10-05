@@ -43491,6 +43491,16 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/using-secret-environment-variables-in-dataverse",
+          "author": "Jonas Rapp ᴹᴠᴾ ??",
+          "description": "Still storing API keys in Text Environment Variables? Here’s how to move them to Azure Key Vault and use them safely from Power Automate!",
+          "link": "https://365community.online/using-secret-environment-variables-in-dataverse",
+          "publishedOn": "2026-10-04T10:10:25.000Z",
+          "wordCount": 2640,
+          "title": "Using Secret Environment Variables in Dataverse",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/ai-powered-human-focused-powering-workforce-transformation",
           "author": "Microsoft Tech Community",
           "description": "How Microsoft combines the reach and personalization of AI with human expertise to turn workforce learning into business impact. When we think about AI transformation, we have to start with employees. There is simply no way around it. You can…",
@@ -84739,16 +84749,6 @@
           "wordCount": 1118,
           "title": "Business Central 25: allow more than one user to post warehouse entries at a time using the “ConcurrentWarehousingPosting”  key",
           "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/5-tips-to-write-clean-code-that-doesnt-stink-youtube",
-          "author": "Sourav Raj",
-          "description": "5 Tips to write Clean code that doesn’t stink Clean code is the foundation of maintainable, efficient, and scalable software. In this video, I’m sharing 5 practical tips to help you write code that not only works but is easy to read, understand, and improve! Whether you’re a beginner or an experienced developer, these tips […]",
-          "link": "https://365community.online/5-tips-to-write-clean-code-that-doesnt-stink-youtube",
-          "publishedOn": "2024-10-05T06:30:01.000Z",
-          "wordCount": 1176,
-          "title": "5 Tips to write Clean code that doesn’t stink – YouTube",
-          "imageUrl": null
         }
       ]
     },
@@ -89751,16 +89751,6 @@
           "wordCount": 1178,
           "title": "GitHub Copilot in Visual Studio",
           "imageUrl": null
-        },
-        {
-          "id": "https://dev.goshoom.net/?p=10025",
-          "author": "Martin Dráb",
-          "description": "I’ve finally started looking more closely on GitHub Copilot. What it can do with languages like C# is impressive; I also checked that it can help with things like Powershell scripts or Excel formulas. But because I’m still primarily an X++ guy, I’m keen to explore how it can help there. So far, I tried ...\nContinue reading ‘X++ documentation comments by GitHub Copilot’ »",
-          "link": "https://dev.goshoom.net/2024/10/x-documentation-comments-by-github-copilot/",
-          "publishedOn": "2024-10-04T17:16:45.000Z",
-          "wordCount": 1135,
-          "title": "X++ documentation comments by GitHub Copilot",
-          "imageUrl": null
         }
       ]
     },
@@ -89769,6 +89759,16 @@
       "feedUrl": "https://exploredynamics365.home.blog/blog-feed/feed/",
       "siteUrl": "https://exploredynamics365.home.blog",
       "articles": [
+        {
+          "id": "http://exploredynamics365.home.blog/?p=3207",
+          "author": "Arvind Bharti",
+          "description": "Overview Every AP team’s job comes down to one thing: making sure a vendor gets paid the right amount, at the right time, for something the business actually received. That single responsibility is why invoices get checked so carefully a mistake caught after posting means rework during period close, and a mistake missed altogether means […]",
+          "link": "https://exploredynamics365.home.blog/2026/10/03/invoice-capture-decoded-part-1-introduction-architecture-setup/",
+          "publishedOn": "2026-10-03T11:40:15.000Z",
+          "wordCount": 4307,
+          "title": "Invoice Capture Decoded – Part 1: Introduction, Architecture & Setup",
+          "imageUrl": "https://i0.wp.com/exploredynamics365.home.blog/wp-content/uploads/2026/10/colorful-modern-designer-linkedin-banner-presentation-8.jpg?fit=1200%2C675&ssl=1"
+        },
         {
           "id": "http://exploredynamics365.home.blog/?p=3182",
           "author": "Arvind Bharti",
@@ -91523,16 +91523,6 @@
           "wordCount": 11552,
           "title": "Invoices and Emailing, Inseparable Friends",
           "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/11/D365Blog-Digiton2024-Invoices-and-emailing-inseparable-friends.png"
-        },
-        {
-          "id": "https://ax.docentric.com/?p=29459",
-          "author": "Jovica Zivkovic",
-          "description": "Transactional Reporting in D365FO enables creating public facing documents but also internal reports. The technologies available in D365FO to support transactional reporting are SSRS, ER/Business Documents, Export to Word and Excel. SSRS requires code customization, while Electronic Reporting and Export to Word and Excel are […]\nThe post SSRS, Electronic Reporting or Export to Word and Excel: Which to use and When appeared first on Docentric AX.",
-          "link": "https://ax.docentric.com/ssrs-electronic-reporting-or-export-to-word-and-excel-which-to-use-and-when/",
-          "publishedOn": "2024-10-05T11:08:44.000Z",
-          "wordCount": 11615,
-          "title": "SSRS, Electronic Reporting or Export to Word and Excel: Which to use and When",
-          "imageUrl": "https://ax.docentric.com/wp-content/uploads/2024/11/D365Blog-Digiton2024-SSRS-reporting-or-excel.png"
         }
       ]
     },
@@ -93211,16 +93201,6 @@
           "wordCount": 3061,
           "title": "Data Workspace is Now Generally Available!",
           "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/10/Screenshot_10-10-2024_122753_make.preview.powerapps.com_-e1728588515444.jpeg"
-        },
-        {
-          "id": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/hyperscale-your-enterprise-business-applications-with-microsoft-dataverse/",
-          "author": "James Oleinik",
-          "description": "Over the past three years, the annual growth rate of enterprise data within Fortune 500 companies has been remarkable, driven by an exponential increase in data generation and the strategic imperative to leverage data analytics. The volume of data continues to grow as enterprises build and deploy new applications within their organizations. IDC has predicted\nThe post Hyperscale Your Enterprise Business Applications with Microsoft Dataverse appeared first on Microsoft Power Platform Blog.",
-          "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/hyperscale-your-enterprise-business-applications-with-microsoft-dataverse/",
-          "publishedOn": "2024-10-04T20:47:02.000Z",
-          "wordCount": 4616,
-          "title": "Hyperscale Your Enterprise Business Applications with Microsoft Dataverse",
-          "imageUrl": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2024/05/5.17-MSC24-ASEAN-developer-Getty-1336501076-rgb-1-FI.jpg"
         }
       ]
     },

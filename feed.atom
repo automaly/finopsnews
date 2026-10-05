@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-10-04T03:33:17.848Z</updated>
+    <updated>2026-10-05T03:13:55.819Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Using Secret Environment Variables in Dataverse]]></title>
+        <id>https://365community.online/using-secret-environment-variables-in-dataverse</id>
+        <link href="https://365community.online/using-secret-environment-variables-in-dataverse"/>
+        <updated>2026-10-04T10:10:25.000Z</updated>
+        <summary type="html"><![CDATA[Still storing API keys in Text Environment Variables? Here’s how to move them to Azure Key Vault and use them safely from Power Automate!]]></summary>
+        <author>
+            <name>Jonas Rapp ᴹᴠᴾ ??</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Invoice Capture Decoded – Part 1: Introduction, Architecture & Setup]]></title>
+        <id>http://exploredynamics365.home.blog/?p=3207</id>
+        <link href="https://exploredynamics365.home.blog/2026/10/03/invoice-capture-decoded-part-1-introduction-architecture-setup/"/>
+        <updated>2026-10-03T11:40:15.000Z</updated>
+        <summary type="html"><![CDATA[Overview Every AP team’s job comes down to one thing: making sure a vendor gets paid the right amount, at the right time, for something the business actually received. That single responsibility is why invoices get checked so carefully a mistake caught after posting means rework during period close, and a mistake missed altogether means […]]]></summary>
+        <author>
+            <name>Arvind Bharti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Invoice Capture Decoded – Part 1: Introduction, Architecture & Setup]]></title>
         <id>http://exploredynamics365.home.blog/?p=3207</id>
@@ -117441,38 +117461,6 @@ The post Invoices and Emailing, Inseparable Friends appeared first on Docentric 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SSRS, Electronic Reporting or Export to Word and Excel: Which to use and When]]></title>
-        <id>https://ax.docentric.com/?p=29459</id>
-        <link href="https://ax.docentric.com/ssrs-electronic-reporting-or-export-to-word-and-excel-which-to-use-and-when/"/>
-        <updated>2024-10-05T11:08:44.000Z</updated>
-        <summary type="html"><![CDATA[Transactional Reporting in D365FO enables creating public facing documents but also internal reports. The technologies available in D365FO to support transactional reporting are SSRS, ER/Business Documents, Export to Word and Excel. SSRS requires code customization, while Electronic Reporting and Export to Word and Excel are […]
-The post SSRS, Electronic Reporting or Export to Word and Excel: Which to use and When appeared first on Docentric AX.]]></summary>
-        <author>
-            <name>Jovica Zivkovic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Tips to write Clean code that doesn’t stink – YouTube]]></title>
-        <id>https://365community.online/5-tips-to-write-clean-code-that-doesnt-stink-youtube</id>
-        <link href="https://365community.online/5-tips-to-write-clean-code-that-doesnt-stink-youtube"/>
-        <updated>2024-10-05T06:30:01.000Z</updated>
-        <summary type="html"><![CDATA[5 Tips to write Clean code that doesn’t stink Clean code is the foundation of maintainable, efficient, and scalable software. In this video, I’m sharing 5 practical tips to help you write code that not only works but is easy to read, understand, and improve! Whether you’re a beginner or an experienced developer, these tips […]]]></summary>
-        <author>
-            <name>Sourav Raj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyperscale Your Enterprise Business Applications with Microsoft Dataverse]]></title>
-        <id>https://www.microsoft.com/en-us/power-platform/blog/power-apps/hyperscale-your-enterprise-business-applications-with-microsoft-dataverse/</id>
-        <link href="https://www.microsoft.com/en-us/power-platform/blog/power-apps/hyperscale-your-enterprise-business-applications-with-microsoft-dataverse/"/>
-        <updated>2024-10-04T20:47:02.000Z</updated>
-        <summary type="html"><![CDATA[Over the past three years, the annual growth rate of enterprise data within Fortune 500 companies has been remarkable, driven by an exponential increase in data generation and the strategic imperative to leverage data analytics. The volume of data continues to grow as enterprises build and deploy new applications within their organizations. IDC has predicted
-The post Hyperscale Your Enterprise Business Applications with Microsoft Dataverse appeared first on Microsoft Power Platform Blog.]]></summary>
-        <author>
-            <name>James Oleinik</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Boost Productivity with Business Central and Microsoft 365]]></title>
         <id>https://erpsoftwareblog.com/?p=119263</id>
         <link href="https://erpsoftwareblog.com/2024/10/boost-productivity-with-business-central-and-microsoft-365/"/>
@@ -117500,17 +117488,6 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>PartnerTalks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X++ documentation comments by GitHub Copilot]]></title>
-        <id>https://dev.goshoom.net/?p=10025</id>
-        <link href="https://dev.goshoom.net/2024/10/x-documentation-comments-by-github-copilot/"/>
-        <updated>2024-10-04T17:16:45.000Z</updated>
-        <summary type="html"><![CDATA[I’ve finally started looking more closely on GitHub Copilot. What it can do with languages like C# is impressive; I also checked that it can help with things like Powershell scripts or Excel formulas. But because I’m still primarily an X++ guy, I’m keen to explore how it can help there. So far, I tried ...
-Continue reading ‘X++ documentation comments by GitHub Copilot’ »]]></summary>
-        <author>
-            <name>Martin Dráb</name>
         </author>
     </entry>
     <entry>
