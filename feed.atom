@@ -2,10 +2,188 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-11-17T05:51:14.809Z</updated>
+    <updated>2026-11-18T05:17:22.421Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Business Central inventory management: Built in, where it stops, when you need an app]]></title>
+        <id>https://erpsoftwareblog.com/?p=158330</id>
+        <link href="https://erpsoftwareblog.com/2026/11/business-central-inventory-management/"/>
+        <updated>2026-11-17T21:00:40.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Business Central inventory management covers items, locations, bins, item tracking, reservations, availability, counting, and adjustments without an add-on. This pillar article explains each standard feature in plain terms, then names the three operational moments where companies add barcode scannin
+The post Business Central inventory management: Built in, where it stops, when you need an app appeared first on ERP Software Blog.
+Warehouse Insight Now Available for Dynamics 365 Business Central
+Optimize your Distribution Process with Advanced Warehouse Management System
+How to Choose a Mobile Computer to use with Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting More from Business Central: Integration, AI and Beyond]]></title>
+        <id>https://erpsoftwareblog.com/?p=158551</id>
+        <link href="https://erpsoftwareblog.com/2026/11/getting-more-from-business-central-integration-ai-and-beyond/"/>
+        <updated>2026-11-17T20:18:17.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Microsoft Dynamics 365 Business Central can do more than manage your organization's finances. When connected with other business applications, it can help bring financial, workforce and operational information together while […]
+The post Getting More from Business Central: Integration, AI and Beyond appeared first on ERP Software Blog.
+Why We Care So Much About Your Business Central Journey
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
+Create a Closed-Loop Analysis, Planning, and Reporting Process]]></summary>
+        <author>
+            <name>OnActuate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Studio Hooks Explained: Make One Rule Run Every Time]]></title>
+        <id>https://365community.online/copilot-studio-hooks-explained-make-one-rule-run-every-time</id>
+        <link href="https://365community.online/copilot-studio-hooks-explained-make-one-rule-run-every-time"/>
+        <updated>2026-11-17T19:22:55.000Z</updated>
+        <summary type="html"><![CDATA[Copilot Studio hooks run a workflow every time an event fires. The six events, what Pre tool use can block, setup steps, and the fail-open gotcha.]]></summary>
+        <author>
+            <name>Valantis Avramopoulos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond Accounting: Giving Program Managers Control with GovCon365]]></title>
+        <id>https://erpsoftwareblog.com/?p=156733</id>
+        <link href="https://erpsoftwareblog.com/2026/11/beyond-accounting-giving-program-managers-control-with-govcon365/"/>
+        <updated>2026-11-17T17:32:08.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Historically, ERP systems were built strictly for accountants. However, GovCon365 was designed for leaders at top government contractors who recognized that Program Managers (PMs) need real-time data to be effective. […]
+The post Beyond Accounting: Giving Program Managers Control with GovCon365 appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Dennis Robinson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central and Dataverse Just Got Easier to Keep in Sync]]></title>
+        <id>https://erpsoftwareblog.com/?p=158502</id>
+        <link href="https://erpsoftwareblog.com/2026/11/business-central-and-dataverse-just-got-easier-to-keep-in-sync/"/>
+        <updated>2026-11-17T16:51:18.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Microsoft continues to strengthen the connections between Dynamics 365 Business Central, Dataverse, Dynamics 365 Sales, and Power Platform. With Business Central 29.0 and the latest wave of Microsoft Business Applications […]
+The post Business Central and Dataverse Just Got Easier to Keep in Sync appeared first on ERP Software Blog.
+How to Reduce Microsoft Licensing Costs
+When Business Central Customization Makes Sense
+5 Steps to a Successful Implementation of Your New Accounting System]]></summary>
+        <author>
+            <name>GP Support North (An Endeavor4 Company)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Automate vs. The eOne iPaaS: What Your ERP Data Needs]]></title>
+        <id>https://erpsoftwareblog.com/?p=158527</id>
+        <link href="https://erpsoftwareblog.com/2026/11/power-automate-vs-the-eone-ipaas-what-your-erp-data-needs/"/>
+        <updated>2026-11-17T16:21:07.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+If your business runs on Microsoft Dynamics, someone has probably asked, "We already have Power Automate. Do we really need anything else?" The right answer depends on the job. Power […]
+The post Power Automate vs. The eOne iPaaS: What Your ERP Data Needs appeared first on ERP Software Blog.
+Custom Tech Solutions for Salesforce with Microsoft Power Platform
+Microsoft Dynamics 365 Customer Insights: 6 Reasons to Switch
+Salesforce Coming Up Short? Microsoft Power Platform to the Rescue]]></summary>
+        <author>
+            <name>eOne Solutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What the ERP Should Own in B2B Ecommerce, and What It Shouldn't]]></title>
+        <id>https://erpsoftwareblog.com/?p=157718</id>
+        <link href="https://erpsoftwareblog.com/2026/11/what-the-erp-should-own-in-b2b-ecommerce-and-what-it-shouldnt/"/>
+        <updated>2026-11-17T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Which B2B ecommerce data Business Central, NAV or GP should own, what the webstore should own, and a simple test for deciding the gray areas in between.
+The post What the ERP Should Own in B2B Ecommerce, and What It Shouldn't appeared first on ERP Software Blog.
+Before You Build a Store, Build the Reorder Portal
+Business Central eCommerce Connectors
+Reasons for Microsoft Dynamics ERP and eCommerce Integration]]></summary>
+        <author>
+            <name>ProjectThunder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Studio | Five Tools, Fifty-One Actions]]></title>
+        <id>https://365community.online/copilot-studio-five-tools-fifty-one-actions</id>
+        <link href="https://365community.online/copilot-studio-five-tools-fifty-one-actions"/>
+        <updated>2026-11-17T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I pointed an MCP client at Microsoft's new Copilot Studio MCP server and asked it what tools it had. It answered with nine, and not one of the nine appears in the documentation. That is not a bug, and by…]]></summary>
+        <author>
+            <name>Mariano Gomez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YAMPI (Dynamics 365 Business Central Admin MCP Server) version 2.0.x: a ground-up refresh.]]></title>
+        <id>https://365community.online/yampi-dynamics-365-business-central-admin-mcp-server-version-2-0-x-a-ground-up-refresh</id>
+        <link href="https://365community.online/yampi-dynamics-365-business-central-admin-mcp-server-version-2-0-x-a-ground-up-refresh"/>
+        <updated>2026-11-17T11:35:36.000Z</updated>
+        <summary type="html"><![CDATA[YAMPI (the open source D365 Business Central Admin MCP Server I’ve released last year at Directions EMEA) lets AI assistants … More]]></summary>
+        <author>
+            <name>Stefano Demiliani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Mitigate the Top 9 ERP Implementation Risks & Challenges]]></title>
+        <id>http://blog.encorebusiness.com/?p=10085</id>
+        <link href="https://www.encorebusiness.com/blog/erp-implementation-risks/"/>
+        <updated>2026-11-17T11:13:53.000Z</updated>
+        <summary type="html"><![CDATA[How to Mitigate the Top 9 ERP Implementation Risks & Challenges
+Some of the biggest ERP implementation risks we see today involve cost overruns, project delays, and scope creep. Most risks begin with early decisions: rushed requirements, unclear ownership, and too little internal involvement. All of them are manageable when they are caught early. I have seen ERP implementations from the ground floor and from the...
+Read Next: 18 Warning Signs Your Business Need the Cloud
+This post first appeared first on Encore Business Solutions.]]></summary>
+        <author>
+            <name>Jack Ries</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Order, Four Hand-offs: What Business Central 2026 Wave 2 Means for Food & Beverage]]></title>
+        <id>https://erpsoftwareblog.com/?p=158085</id>
+        <link href="https://erpsoftwareblog.com/2026/11/one-order-four-hand-offs-what-business-central-2026-wave-2-means-for-food-beverage/"/>
+        <updated>2026-11-17T11:03:26.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Part 1 of 4: The Order in the Inbox Business Central 2026 Wave 2 Implications for the Food & Beverage Industry Every food and beverage company has some version of […]
+The post One Order, Four Hand-offs: What Business Central 2026 Wave 2 Means for Food & Beverage appeared first on ERP Software Blog.
+How to Reduce Microsoft Licensing Costs
+When Business Central Customization Makes Sense
+5 Steps to a Successful Implementation of Your New Accounting System]]></summary>
+        <author>
+            <name>Brendan Murphy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 F&SCM vs. SAP S/4HANA: The 2026 Enterprise Comparison]]></title>
+        <id>https://erpsoftwareblog.com/?p=158514</id>
+        <link href="https://erpsoftwareblog.com/2026/11/dynamics-365-fscm-vs-sap-s-4hana-the-2026-enterprise-comparison/"/>
+        <updated>2026-11-17T10:30:01.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Choosing an ERP is a ten-year decision. Get it wrong, and you feel it at every quarter close.  If you are weighing Dynamics 365 F&SCM vs SAP S/4HANA, you are […]
+The post Dynamics 365 F&SCM vs. SAP S/4HANA: The 2026 Enterprise Comparison appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>DynaTech Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Accounting Software: Is Business Central Right for You?]]></title>
+        <id>https://erpsoftwareblog.com/?p=158515</id>
+        <link href="https://erpsoftwareblog.com/2026/11/microsoft-accounting-software-business-central/"/>
+        <updated>2026-11-17T09:27:05.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+For many growing businesses, there comes a point when accounting software stops making life easier. Finance may still be working effectively in Sage, Xero or QuickBooks, but information from sales, […]
+The post Microsoft Accounting Software: Is Business Central Right for You? appeared first on ERP Software Blog.
+How to Reduce Microsoft Licensing Costs
+When Business Central Customization Makes Sense
+5 Steps to a Successful Implementation of Your New Accounting System]]></summary>
+        <author>
+            <name>Jonathan Bye, Akita Intelligent Solutions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Physical inventory orders vs Advanced Inventory Count in Business Central]]></title>
         <id>https://erpsoftwareblog.com/?p=158323</id>
@@ -19,6 +197,16 @@ Optimize your Distribution Process with Advanced Warehouse Management System
 How to Choose a Mobile Computer to use with Business Central]]></summary>
         <author>
             <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modernizing Treasury Operations with SharePoint-Driven Bank Statement Imports]]></title>
+        <id>https://365community.online/modernizing-treasury-operations-with-sharepoint-driven-bank-statement-imports</id>
+        <link href="https://365community.online/modernizing-treasury-operations-with-sharepoint-driven-bank-statement-imports"/>
+        <updated>2026-11-16T19:36:14.000Z</updated>
+        <summary type="html"><![CDATA[Bank statement imports are a critical part of treasury and cash management processes. While Dynamics 365 Finance & Operations provides an out-of-the-box approach using Data Management (DIXF) entities for importing bank statements, organizations often look for a more automated and…]]></summary>
+        <author>
+            <name>Anitha Santosh</name>
         </author>
     </entry>
     <entry>
@@ -94,6 +282,26 @@ Better Information = Stronger Company in Tough Economy]]></summary>
         <summary type="html"><![CDATA[I tried Edit with Copilot in Business Central: it set up a price group, customer, item and prices from an Excel agreement, then saved the process as a skill.]]></summary>
         <author>
             <name>jarmesto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlock multi-region HPC capabilities with Azure CycleCloud]]></title>
+        <id>https://365community.online/unlock-multi-region-hpc-capabilities-with-azure-cyclecloud</id>
+        <link href="https://365community.online/unlock-multi-region-hpc-capabilities-with-azure-cyclecloud"/>
+        <updated>2026-11-16T14:03:28.000Z</updated>
+        <summary type="html"><![CDATA[As HPC workloads grow, organizations need the flexibility to access more compute capacity without adding complexity to how they manage data. Expanding across regions can unlock new resources, but moving data between environments often introduces additional operational overhead. The Azure…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Provance ServiceTeam in Microsoft Marketplace shows AI in ITSM is about more than smarter IT]]></title>
+        <id>https://365community.online/how-provance-serviceteam-in-microsoft-marketplace-shows-ai-in-itsm-is-about-more-than-smarter-it</id>
+        <link href="https://365community.online/how-provance-serviceteam-in-microsoft-marketplace-shows-ai-in-itsm-is-about-more-than-smarter-it"/>
+        <updated>2026-11-16T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this guest blog post, Roger Labelle, Head of Product, Provance Technologies, explains how Provance ServiceTeam ITSM in Microsoft Marketplace uses artificial intelligence (AI) to improve IT support knowledge retention and access while enhancing IT capabilities and ultimately boosting business…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
         </author>
     </entry>
     <entry>
@@ -113148,121 +113356,6 @@ Introducing deFacto POWER Planning
 2015 and Beyond: Business Intelligence]]></summary>
         <author>
             <name>Kwixand Solutions Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DUG is meeting in Canada, eh?]]></title>
-        <id>https://erpsoftwareblog.com/?p=120909</id>
-        <link href="https://erpsoftwareblog.com/2024/11/dug-in-canada/"/>
-        <updated>2024-11-18T14:47:04.000Z</updated>
-        <summary type="html"><![CDATA[xxx
-Dynamics User Group (DUG)’s Canadian Regional Meetup is gathering ahead of one of the year’s first snowfalls. On Nov. 26th, a mini-conference focused on Microsoft Dynamics 365 (BC & CE/CRM) […]
-The post DUG is meeting in Canada, eh? appeared first on ERP Software Blog.
-Better Information = Stronger Company in Tough Economy
-Hassle Free Upgrades with Dynamics GP Resellers!
-With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
-        <author>
-            <name>PartnerTalks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Does SmartBOL Cloud Solution Do?]]></title>
-        <id>https://erpsoftwareblog.com/?p=120883</id>
-        <link href="https://erpsoftwareblog.com/2024/11/what-does-smartbol-cloud-solution-do/"/>
-        <updated>2024-11-18T14:16:39.000Z</updated>
-        <summary type="html"><![CDATA[xxx
-The SmartBOL Cloud solution streamlines warehouse shipping operations by automating and digitizing processes, which eliminates the need for paper printing, reduces manual labor, minimizes errors, and decreases the carbon footprint. […]
-The post What Does SmartBOL Cloud Solution Do? appeared first on ERP Software Blog.
-Better Information = Stronger Company in Tough Economy
-Hassle Free Upgrades with Dynamics GP Resellers!
-With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
-        <author>
-            <name>SmartBOL</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Infor vs Dynamics 365: A Comprehensive Comparison for Your ERP Needs]]></title>
-        <id>https://erpsoftwareblog.com/?p=120894</id>
-        <link href="https://erpsoftwareblog.com/2024/11/infor-vs-dynamics-365/"/>
-        <updated>2024-11-18T13:15:59.000Z</updated>
-        <summary type="html"><![CDATA[xxx
-The purpose of this research is to evaluate the ERP systems, Infor and Dynamics 365, for an integrated software solution – Server and Client Management Application (SCM). For organizations seeking […]
-The post Infor vs Dynamics 365: A Comprehensive Comparison for Your ERP Needs appeared first on ERP Software Blog.
-The Significance of ERP Cloud for Small and Medium Businesses
-What ERP Software Can Do for Small and Medium Businesses and How Cloud ERP Can Return Greater ROI
-The CIO’s Guide to a Bulletproof Ecommerce Investment]]></summary>
-        <author>
-            <name>Dynamics Square UK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhancing Efficiency with Advanced Packing and Shipping Options]]></title>
-        <id>https://erpsoftwareblog.com/?p=120887</id>
-        <link href="https://erpsoftwareblog.com/2024/11/enhancing-efficiency-with-advanced-packing-and-shipping-options/"/>
-        <updated>2024-11-18T11:27:21.000Z</updated>
-        <summary type="html"><![CDATA[xxx
-In the world of logistics and shipping, efficiency is key. With the rise of e-commerce and the demand for faster delivery times, companies need robust solutions to streamline their packing […]
-The post Enhancing Efficiency with Advanced Packing and Shipping Options appeared first on ERP Software Blog.
-Optimize Your Warehouse Shipping Operations: MetaShip
-Top 5 ways to Streamline Shipping with Business Central
-Real-Time Rate Shopping: Maximizing Savings and Efficiency]]></summary>
-        <author>
-            <name>MetaOption LLC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curso Power Automate – Aula 5 – Técnica super fácil para usar condições de gatilho em uma lista – YouTube]]></title>
-        <id>https://365community.online/curso-power-automate-aula-5-tecnica-super-facil-para-usar-condicoes-de-gatilho-em-uma-lista-youtube</id>
-        <link href="https://365community.online/curso-power-automate-aula-5-tecnica-super-facil-para-usar-condicoes-de-gatilho-em-uma-lista-youtube"/>
-        <updated>2024-11-18T10:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Nesse curso vamos aprender os conceitos do Power Automate e vamos fazer práticas para aprender mais sobre essa tecnologia. ♐ Adquira meu curso na Udemy e aprenda SharePoint, Power Apps e Power Automate do zero. https://www.udemy.com/course/aprenda-sharepoint-do-zero-com-foco-no-negocio/?referralCode=34B700C89A7463BD0A00 ♐ Quer aprender SharePoint Framework(SPFx)? Adquira meu curso na Udemy e aprenda a criar aplicações SPA. https://www.udemy.com/course/desenvolvendo-para-sharepoint-com-spfx/?referralCode=26879FEB3B350B408792 Seja membro […]]]></summary>
-        <author>
-            <name>Saulo Soares Oliveira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhancing Data Quality with Smart Email Address Validation in Dynamics 365 CRM]]></title>
-        <id>https://365community.online/enhancing-data-quality-with-smart-email-address-validation-in-dynamics-365-crm</id>
-        <link href="https://365community.online/enhancing-data-quality-with-smart-email-address-validation-in-dynamics-365-crm"/>
-        <updated>2024-11-18T09:29:51.000Z</updated>
-        <summary type="html"><![CDATA[Introduction In my earlier blog post from November 2022, we discussed the Smart Email Validation feature found in Dynamics 365 Sales and its advantages for managing leads effectively by identifying invalid email entries. This feature played a crucial role in making sure that email communications successfully reach their designated recipients, thereby enhancing engagement and the […]]]></summary>
-        <author>
-            <name>Inogic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revolutionizing Supply Chain with Microsoft Dynamics 365 Finance & Operation]]></title>
-        <id>https://erpsoftwareblog.com/?p=120881</id>
-        <link href="https://erpsoftwareblog.com/2024/11/revolutionizing-supply-chain-with-microsoft-dynamics-365-finance-operation/"/>
-        <updated>2024-11-18T08:48:08.000Z</updated>
-        <summary type="html"><![CDATA[xxx
-In the rapidly evolving business landscape, supply chain management is critical for sectors such as manufacturing, retail, and logistics. The success of a business often hinges on how well its […]
-The post Revolutionizing Supply Chain with Microsoft Dynamics 365 Finance & Operation appeared first on ERP Software Blog.
-Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
-Self-Service Analytics: Exploring Your ERP Data for Maximum Insights
-Microsoft Dynamics 365 Business Central: Essentials vs. Premium]]></summary>
-        <author>
-            <name>Intelegain Technologies</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to create POP-UP CONFIRMATION DIALOGUE NOTIFICATIONS with POWER FX365 in Dynamics 365 CE – YouTube]]></title>
-        <id>https://365community.online/how-to-create-pop-up-confirmation-dialogue-notifications-with-power-fx365-in-dynamics-365-ce-youtube</id>
-        <link href="https://365community.online/how-to-create-pop-up-confirmation-dialogue-notifications-with-power-fx365-in-dynamics-365-ce-youtube"/>
-        <updated>2024-11-18T07:30:17.000Z</updated>
-        <summary type="html"><![CDATA[In this video, learn how to create a custom button and display pop-up notifications using the Confirm Power FX function in Microsoft Dynamics 365 CE. We guide you step-by-step on integrating Power FX to enhance user interactions and streamline notifications. Whether you’re customizing workflows or improving user experience, this tutorial provides practical tips and insights […]]]></summary>
-        <author>
-            <name>Manish chauhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dev Box EXPERT Shares Top Roadmap Strategies for Success! – YouTube]]></title>
-        <id>https://365community.online/dev-box-expert-shares-top-roadmap-strategies-for-success-youtube</id>
-        <link href="https://365community.online/dev-box-expert-shares-top-roadmap-strategies-for-success-youtube"/>
-        <updated>2024-11-18T04:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Get expert advice on Dev Box roadmap strategies for success, including development, management, and performance tips. Perfect for coders and developers! Episode Breakdown: 00:00 – Episode Intro 00:43 – Episode Breakdown 01:09 – Ready-to-code Development Environment 04:57 – Enterprise Management 07:11 – Fundamental Performance & Reliability Shabaz LinkedIn – https://www.linkedin.com/in/shabaz-darr-900b8361/ Shabaz X – https://x.com/ShabazDarr Microsoft […]]]></summary>
-        <author>
-            <name>shabaz darr</name>
         </author>
     </entry>
     <entry>
