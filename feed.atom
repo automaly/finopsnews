@@ -2,10 +2,277 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-11-19T05:13:27.658Z</updated>
+    <updated>2026-11-20T04:59:58.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dynamics GP Payroll in 2026]]></title>
+        <id>https://www.erpsoftwareblog.com/?p=57921</id>
+        <link href="https://erpsoftwareblog.com/2026/11/dynamics-gp-payroll-getting-complicated/"/>
+        <updated>2026-11-19T21:50:36.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Fix Today’s Complexity While Planning What Comes Next  You do not have to choose between improving payroll today and preparing for the future. The right plan addresses immediate pain while […]
+The post Dynamics GP Payroll in 2026 appeared first on ERP Software Blog.
+The Lonely, Complex Job of the Compliance Officer
+Got Gaps in Dynamics GP Payroll? Here's How to Fix Them
+Do You Have What It Takes To Be A Payroll Manager?]]></summary>
+        <author>
+            <name>Integrity Data</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free add-on: Business Central work center load and downtime]]></title>
+        <id>https://erpsoftwareblog.com/?p=158568</id>
+        <link href="https://erpsoftwareblog.com/2026/11/business-central-work-center-load/"/>
+        <updated>2026-11-19T21:00:21.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Mark Hamblin, Senior Solution Advisor, builds a Graphical Scheduler view that shows work center load, closed hours and machine downtime on one Business Central schedule.
+The post Free add-on: Business Central work center load and downtime appeared first on ERP Software Blog.
+Warehouse Insight Now Available for Dynamics 365 Business Central
+Optimize your Distribution Process with Advanced Warehouse Management System
+How to Choose a Mobile Computer to use with Business Central]]></summary>
+        <author>
+            <name>Insight Works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Costa Rica Mensaje Receptor: How Acceptance Works in Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=158728</id>
+        <link href="https://erpsoftwareblog.com/2026/11/costa-rica-mensaje-receptor-how-acceptance-works-in-business-central/"/>
+        <updated>2026-11-19T17:00:11.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In Costa Rica, an invoice does not end when Hacienda validates it. The buyer can also confirm it, and that confirmation is the mensaje receptor. For a Business Central project, […]
+The post Costa Rica Mensaje Receptor: How Acceptance Works in Business Central appeared first on ERP Software Blog.
+Business Central Panama: The 2026 Shift from Free Invoicing to PAC
+Business Central Chile: SII's DTE, CAF, and TED Explained
+Business Central Honduras: Understanding the CAI System]]></summary>
+        <author>
+            <name>Soluciones LLB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Central Year-End Close Checklist]]></title>
+        <id>https://erpsoftwareblog.com/?p=158701</id>
+        <link href="https://erpsoftwareblog.com/2026/11/business-central-year-end-close-checklist/"/>
+        <updated>2026-11-19T16:48:10.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Year-end close does not have to be a scramble. Business Central gives you a clear path, but only if you run the steps in the right order. The below Business […]
+The post Business Central Year-End Close Checklist appeared first on ERP Software Blog.
+How to Reduce Microsoft Licensing Costs
+When Business Central Customization Makes Sense
+5 Steps to a Successful Implementation of Your New Accounting System]]></summary>
+        <author>
+            <name>iCepts Technology Group, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Reduce Microsoft Licensing Costs in 2027: A Dynamics 365 and Microsoft 365 Renewal Playbook]]></title>
+        <id>https://erpsoftwareblog.com/?p=158690</id>
+        <link href="https://erpsoftwareblog.com/2026/11/reduce-microsoft-licensing-costs-2027/"/>
+        <updated>2026-11-19T15:24:18.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+There are four levers that reduce Microsoft licensing costs at a 2027 renewal, and they work in a specific order: right-size the estate, restructure the term, fix the billing frequency, […]
+The post How to Reduce Microsoft Licensing Costs in 2027: A Dynamics 365 and Microsoft 365 Renewal Playbook appeared first on ERP Software Blog.
+Unleashing the Power of Business Intelligence in ERP Systems
+Ep 65 | Copilot in Business Central | A Shot of Business Central and A Beer
+Why Integrate ERP, CRM, PSA, and HCM Systems?]]></summary>
+        <author>
+            <name>Steven</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generate Multi-Sheet Excel File from SSRS Report in D365FO]]></title>
+        <id>https://d365fotechexpert.blogspot.com/2026/11/generate-multi-sheet-excel-file-from.html</id>
+        <link href="https://d365fotechexpert.blogspot.com/2026/11/generate-multi-sheet-excel-file-from.html"/>
+        <updated>2026-11-19T15:07:00.032Z</updated>
+        <summary type="html"><![CDATA[Purpose
+The purpose of this document is to explain how to generate a single Excel workbook containing two worksheets from an SSRS report in Microsoft Dynamics 365 Finance and Operations (D365FO).
+In this example:
+
+The Details worksheet displays the account numbers and names of the top 10 vendors, ordered by vendor account number.
+
+The Summary worksheet displays the total number of vendors included in the Details worksheet.
+
+Here, “top 10” means the first 10 vendors ordered by account number—not vendors ranked by balance or transaction value.
+This functionality can be useful for:
+
+Presenting detailed records and their summary in one Excel workbook.
+
+Providing business users with a report that is easy to review.
+
+Avoiding manual preparation of separate detail and summary files.
+
+Demonstratin…]]></summary>
+        <author>
+            <name>D365 F&amp;O TechExpert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Convergence 2026: Chad Weiner on AI-Powered Contact Centers]]></title>
+        <id>https://erpsoftwareblog.com/?p=157928</id>
+        <link href="https://erpsoftwareblog.com/2026/11/convergence-2026-chad-weiner-on-ai-powered-contact-centers/"/>
+        <updated>2026-11-19T13:51:36.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Want to see an AI-powered contact center in action? Chad Weiner, Lead AI and Power Platform Solution Architect at global Microsoft partner Alithya, is going to show you at Convergence […]
+The post Convergence 2026: Chad Weiner on AI-Powered Contact Centers appeared first on ERP Software Blog.
+Convergence 2026: AJ Ansari on Copilot Studio Skills
+Convergence 2026: Shawn Dorward on the Predictive ERP
+Convergence 2026: Nucor's Chad Dickerhoff on AI in Manufacturing]]></summary>
+        <author>
+            <name>ERP Software Blog Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configure Business Central Bank Feeds and Automate Reconciliation]]></title>
+        <id>https://erpsoftwareblog.com/?p=153036</id>
+        <link href="https://erpsoftwareblog.com/2026/11/configure-business-central-bank-feeds-and-automate-reconciliation/"/>
+        <updated>2026-11-19T13:48:51.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+          Last Updated: November 2026 Key Takeaways Here is what finance teams need to know about Business Central bank feeds and automated reconciliation before getting started: […]
+The post Configure Business Central Bank Feeds and Automate Reconciliation appeared first on ERP Software Blog.
+Self-Service Analytics: Exploring Your ERP Data for Maximum Insights
+A Path to Intelligent Cloud – Learn about Microsoft Dynamics GP and Intelligent Edge
+10 Time Saving Business Central Keyboard Shortcuts You Need Today]]></summary>
+        <author>
+            <name>CAL Business Solutions, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Track Accounts Payable Aging in Business Central]]></title>
+        <id>https://erpsoftwareblog.com/?p=158334</id>
+        <link href="https://erpsoftwareblog.com/2026/11/business-central-accounts-payable-aging/"/>
+        <updated>2026-11-19T13:44:59.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Business Central accounts payable aging groups what you owe suppliers by how far each invoice is from its due date, so you can see what is overdue, what is due […]
+The post How to Track Accounts Payable Aging in Business Central appeared first on ERP Software Blog.
+20 Business Central Financial Ratios for Finance Directors
+Self-Service Analytics: Exploring Your ERP Data for Maximum Insights
+A Path to Intelligent Cloud – Learn about Microsoft Dynamics GP and Intelligent Edge]]></summary>
+        <author>
+            <name>Craig McCracken, Business Central Insights</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shipping Label Format: What Every Shipping Label Must Include]]></title>
+        <id>https://erpsoftwareblog.com/?p=158672</id>
+        <link href="https://erpsoftwareblog.com/2026/11/shipping-label-format/"/>
+        <updated>2026-11-19T13:38:57.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Shipping label format is the one thing nobody on your team owns, but ultimately, it decides whether your package moves or sits. The warehouse says the carrier misread it. The […]
+The post Shipping Label Format: What Every Shipping Label Must Include appeared first on ERP Software Blog.
+When Business Central Customization Makes Sense
+hat 10 Years of ERP Evolution Can Teach Us
+Why Manufacturers Need ERP and eCommerce Integration]]></summary>
+        <author>
+            <name>MetaOption LLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Design Your Chart of Accounts in Dynamics 365 Finance]]></title>
+        <id>https://erpsoftwareblog.com/?p=156911</id>
+        <link href="https://erpsoftwareblog.com/2026/11/how-to-design-your-chart-of-accounts-in-dynamics-365-finance/"/>
+        <updated>2026-11-19T13:15:46.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+A chart of accounts can seem like a list of account numbers until someone needs a report they cannot produce, or a transaction fails because the account combination is invalid. […]
+The post How to Design Your Chart of Accounts in Dynamics 365 Finance appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Sunrise Technologies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI-Ready ERP Scorecard: Ten Questions Before Your First Agent]]></title>
+        <id>https://erpsoftwareblog.com/?p=158446</id>
+        <link href="https://erpsoftwareblog.com/2026/11/ai-ready-erp-scorecard/"/>
+        <updated>2026-11-19T12:00:49.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Most AI readiness lists are opinion dressed as rigour. Clean your data. Align stakeholders. Define success. All true, and none of it checkable on a Tuesday. This one has a […]
+The post The AI-Ready ERP Scorecard: Ten Questions Before Your First Agent appeared first on ERP Software Blog.
+Microsoft Dynamics 365 Business Central: Advanced Reporting and Budgeting
+Don’t Stop the Flow: Managing a Job Shop
+Create a Closed-Loop Analysis, Planning, and Reporting Process]]></summary>
+        <author>
+            <name>Rohinii K By Dax software solutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make Insurance Payments Borderless: Meeting the Demands of Globally Mobile High-Net-Worth Customers]]></title>
+        <id>https://erpsoftwareblog.com/?p=158003</id>
+        <link href="https://erpsoftwareblog.com/2026/11/global-insurance-payments-policyholder-experience/"/>
+        <updated>2026-11-19T11:25:05.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+The number of high-net-worth individuals (HNWIs) around the world continues to grow. With an estimated 22.8 million HNWIs globally holding approximately $86.8 trillion in wealth, international mobility is creating new […]
+The post How to Make Insurance Payments Borderless: Meeting the Demands of Globally Mobile High-Net-Worth Customers appeared first on ERP Software Blog.
+Better Information = Stronger Company in Tough Economy
+Hassle Free Upgrades with Dynamics GP Resellers!
+With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
+        <author>
+            <name>Flywire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diagnose Dashboard for Unified Routing Not Working After Following the MS Learn Setup]]></title>
+        <id>https://365community.online/diagnose-dashboard-for-unified-routing-not-working-after-following-the-ms-learn-setup</id>
+        <link href="https://365community.online/diagnose-dashboard-for-unified-routing-not-working-after-following-the-ms-learn-setup"/>
+        <updated>2026-11-19T10:06:12.000Z</updated>
+        <summary type="html"><![CDATA[We set up the Diagnose dashboard (real-time analytics for Unified Routing) by following the MS Learn article step by step. The dashboard still didn't work, and it took a few MS Support tickets to get it working. We hit different…]]></summary>
+        <author>
+            <name>Linn Zaw Win</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Events to Decisions: Real-Time Logistics with Microsoft Fabric and Microsoft-Decision-1.1]]></title>
+        <id>https://365community.online/from-events-to-decisions-real-time-logistics-with-microsoft-fabric-and-microsoft-decision-1-1</id>
+        <link href="https://365community.online/from-events-to-decisions-real-time-logistics-with-microsoft-fabric-and-microsoft-decision-1-1"/>
+        <updated>2026-11-19T09:44:55.000Z</updated>
+        <summary type="html"><![CDATA[In logistics, every single shipment carries inherent risks. When delivery timelines are tied to contractual outcomes, or regulatory implications, that adds to the complexity of how the shipment provider should handle it. Often, such agencies implement rule-based systems to deal…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Model Watches: Sewer CCTV with Azure Content Understanding in Microsoft Foundry]]></title>
+        <id>https://365community.online/the-model-watches-sewer-cctv-with-azure-content-understanding-in-microsoft-foundry</id>
+        <link href="https://365community.online/the-model-watches-sewer-cctv-with-azure-content-understanding-in-microsoft-foundry"/>
+        <updated>2026-11-19T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A city crew drives a camera through a sewer pipe and records everything. The footage lands in SharePoint, and then someone has to watch it, every minute of it, pausing to log each crack, root intrusion, and joint offset against…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Citrix DaaS™ Profiles Flex: Profiles that outlive the desktop]]></title>
+        <id>https://365community.online/citrix-daas-profiles-flex-profiles-that-outlive-the-desktop</id>
+        <link href="https://365community.online/citrix-daas-profiles-flex-profiles-that-outlive-the-desktop"/>
+        <updated>2026-11-19T05:27:25.000Z</updated>
+        <summary type="html"><![CDATA[Desktops are temporary, but a user's work shouldn't be. Virtual desktops are routinely reassigned, reimaged, and reprovisioned, yet users still expect their settings, files, and personalized experience to be there every time they sign in.  Citrix DaaS Profiles Flex, an…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing GitHub Actions Runners on Private AKS with a Secured Azure Virtual WAN Hub]]></title>
+        <id>https://365community.online/designing-github-actions-runners-on-private-aks-with-a-secured-azure-virtual-wan-hub</id>
+        <link href="https://365community.online/designing-github-actions-runners-on-private-aks-with-a-secured-azure-virtual-wan-hub"/>
+        <updated>2026-11-19T05:09:10.000Z</updated>
+        <summary type="html"><![CDATA[Self-hosted GitHub Actions runners can execute workflows close to private deployment targets without making those targets publicly reachable. That network access also makes the runner environment part of the security boundary. A workflow can use the connectivity and credentials available…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What your Service Bus messages can tell you about your business]]></title>
+        <id>https://365community.online/what-your-service-bus-messages-can-tell-you-about-your-business</id>
+        <link href="https://365community.online/what-your-service-bus-messages-can-tell-you-about-your-business"/>
+        <updated>2026-11-19T02:19:54.000Z</updated>
+        <summary type="html"><![CDATA[Which business decisions could benefit from the information already moving through your applications? The messages exchanged through Azure Service Bus can carry details that matter beyond the application receiving them. Connecting Service Bus to Microsoft Fabric lets you analyze those…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Free RapidStart Alternative for Microsoft Dynamics 365 Business Central: Import Export PowerTool vs Configuration Packages]]></title>
         <id>https://erpsoftwareblog.com/?p=158558</id>
@@ -44,6 +311,21 @@ Why Manufacturers Need ERP and eCommerce Integration]]></summary>
         <summary type="html"><![CDATA[One procedure in SharePoint can exist as the current version, older versions, a minor draft and copies elsewhere. Which of them reach the AI index decides whether the answer is current, and a simple test shows what your assistant reads.]]></summary>
         <author>
             <name>Kaspars Jurjāns</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nicaragua Invoicing in Business Central: What Exists Today and How to Prepare]]></title>
+        <id>https://erpsoftwareblog.com/?p=158729</id>
+        <link href="https://erpsoftwareblog.com/2026/11/nicaragua-invoicing-in-business-central-what-exists-today-and-how-to-prepare/"/>
+        <updated>2026-11-18T17:00:13.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Nicaragua is one of the quieter countries in Latin America when it comes to e-invoicing. The sources we reviewed do not describe a clearance model like the ones in Colombia […]
+The post Nicaragua Invoicing in Business Central: What Exists Today and How to Prepare appeared first on ERP Software Blog.
+Business Central Panama: The 2026 Shift from Free Invoicing to PAC
+Business Central Chile: SII's DTE, CAF, and TED Explained
+Business Central Honduras: Understanding the CAI System]]></summary>
+        <author>
+            <name>Soluciones LLB</name>
         </author>
     </entry>
     <entry>
@@ -132,6 +414,17 @@ The add-on solutions to maximize the capabilities of Microsoft Dynamics 365 Proj
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Support for ZUGFeRD e-Invoices in Germany: Watch the Webinar]]></title>
+        <id>https://ax.docentric.com/?p=35770</id>
+        <link href="https://ax.docentric.com/support-for-zugferd-e-invoices-in-germany-watch-the-webinar/"/>
+        <updated>2026-11-18T10:21:45.000Z</updated>
+        <summary type="html"><![CDATA[ZUGFeRD is an e-invoicing format used in Germany. Organizations running Microsoft Dynamics 365 Finance and Supply Chain Management need to understand its requirements and how to generate compliant e-invoices as they prepare for the transition to electronic invoicing. In our webinar, Support for ZUGFeRD e-Invoices […]
+The post Support for ZUGFeRD e-Invoices in Germany: Watch the Webinar appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Marko Panjan</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Azure Elastic SAN Next Generation public preview: Mission-critical performance & cloud-native scale]]></title>
         <id>https://365community.online/azure-elastic-san-next-generation-public-preview-mission-critical-performance-cloud-native-scale</id>
         <link href="https://365community.online/azure-elastic-san-next-generation-public-preview-mission-critical-performance-cloud-native-scale"/>
@@ -139,6 +432,16 @@ The add-on solutions to maximize the capabilities of Microsoft Dynamics 365 Proj
         <summary type="html"><![CDATA[Mission-critical applications such as SAP HANA, Epic, and core transactional databases demand consistently high performance and predictable low latency. Cloud-native platforms running stateful applications, vector databases, and fast-growing fleets of AI agent environments need persistent storage that can scale across…]]></summary>
         <author>
             <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Timeline Doesn’t Have to Look Like This]]></title>
+        <id>https://365community.online/the-timeline-doesnt-have-to-look-like-this</id>
+        <link href="https://365community.online/the-timeline-doesnt-have-to-look-like-this"/>
+        <updated>2026-11-18T09:11:00.000Z</updated>
+        <summary type="html"><![CDATA[An open-source PCF control reimagines the Dataverse timeline without changing underlying data, licensing, or model-driven app structure. It highlights overdue and upcoming activities, groups emails, supports content search and flexible filtering, and enables inline editing through a preview panel. The…]]></summary>
+        <author>
+            <name>Thomas Sandsør</name>
         </author>
     </entry>
     <entry>
@@ -287,6 +590,21 @@ With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summar
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Panama PAC Project in Business Central: Step by Step]]></title>
+        <id>https://erpsoftwareblog.com/?p=158726</id>
+        <link href="https://erpsoftwareblog.com/2026/11/panama-pac-project-in-business-central-step-by-step/"/>
+        <updated>2026-11-17T17:00:08.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+In Panama, a certified provider sits between the company and the tax authority. This provider is the PAC, short for Proveedor Autorizado Calificado. A Panama PAC project in Business Central […]
+The post Panama PAC Project in Business Central: Step by Step appeared first on ERP Software Blog.
+Business Central Panama: The 2026 Shift from Free Invoicing to PAC
+Business Central Chile: SII's DTE, CAF, and TED Explained
+Business Central Honduras: Understanding the CAI System]]></summary>
+        <author>
+            <name>Soluciones LLB</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Business Central and Dataverse Just Got Easier to Keep in Sync]]></title>
         <id>https://erpsoftwareblog.com/?p=158502</id>
         <link href="https://erpsoftwareblog.com/2026/11/business-central-and-dataverse-just-got-easier-to-keep-in-sync/"/>
@@ -329,6 +647,28 @@ Business Central eCommerce Connectors
 Reasons for Microsoft Dynamics ERP and eCommerce Integration]]></summary>
         <author>
             <name>ProjectThunder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docentric’s Experience with Microsoft Business Skills and Dynamics 365 ERP MCP Server]]></title>
+        <id>https://ax.docentric.com/?p=35816</id>
+        <link href="https://ax.docentric.com/docentrics-experience-with-microsoft-business-skills-and-dynamics-365-erp-mcp-server/"/>
+        <updated>2026-11-17T13:07:08.000Z</updated>
+        <summary type="html"><![CDATA[It started when Miha Vuk connected with Microsoft and was soon joined by Jovica Živković, Klemen Novak, Jim Willsher, and Marek Rolecki to form a small project team. In this article, we share what we learned. Docentric participated in Microsoft's Dynamics 365 ERP in Work […]
+The post Docentric’s Experience with Microsoft Business Skills and Dynamics 365 ERP MCP Server appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Marek Rolecki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Microsoft Business Skills and the Dynamics 365 ERP MCP Server Work Together]]></title>
+        <id>https://ax.docentric.com/?p=35813</id>
+        <link href="https://ax.docentric.com/how-microsoft-business-skills-and-the-dynamics-365-erp-mcp-server-work-together/"/>
+        <updated>2026-11-17T12:54:46.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Business Skills and the Dynamics 365 ERP MCP server provide two complementary capabilities for AI agents: understanding how to perform a business process and having the tools to execute it in Dynamics 365 Finance and Operations (D365FO). These capabilities are also part of Microsoft's […]
+The post How Microsoft Business Skills and the Dynamics 365 ERP MCP Server Work Together appeared first on Docentric AX.]]></summary>
+        <author>
+            <name>Ana Gligorijevic</name>
         </author>
     </entry>
     <entry>
@@ -482,6 +822,21 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>Michael Kulik, Digital Vantage Point</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Venezuela Digital Invoicing: What a Business Central Project Must Cover]]></title>
+        <id>https://erpsoftwareblog.com/?p=158725</id>
+        <link href="https://erpsoftwareblog.com/2026/11/venezuela-digital-invoicing-what-a-business-central-project-must-cover/"/>
+        <updated>2026-11-16T17:00:06.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+Venezuela has its own approach to digital invoicing. Instead of sending each invoice directly to the tax authority, many companies work with an authorized digital printer, called an imprenta digital. […]
+The post Venezuela Digital Invoicing: What a Business Central Project Must Cover appeared first on ERP Software Blog.
+Business Central Panama: The 2026 Shift from Free Invoicing to PAC
+Business Central Chile: SII's DTE, CAF, and TED Explained
+Business Central Honduras: Understanding the CAI System]]></summary>
+        <author>
+            <name>Soluciones LLB</name>
         </author>
     </entry>
     <entry>
@@ -113170,161 +113525,6 @@ Achieve more than ever with AI & Copilot for Microsoft 365]]></summary>
         <summary type="html"><![CDATA[Harnessing AI and Coding Tools for Modern Development with Andrzej Zwierzchowski Send me a Text Message here (https://www.buzzsprout.com/twilio/text_messages/1796418/open_sms) FULL SHOW NOTES https://podcast.nz365guy.com/625   What if you could revolutionize your coding process with tools designed by a Microsoft MVP? Join us as we chat with Andrzej Zwierzchowski, a 2023 MVP awardee and development standards lead at […]]]></summary>
         <author>
             <name>NZ365Guy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Ignite 2024 Recap]]></title>
-        <id>https://365community.online/microsoft-ignite-2024-recap</id>
-        <link href="https://365community.online/microsoft-ignite-2024-recap"/>
-        <updated>2024-11-20T14:35:11.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Ignite 2024 is Live! There is so much news, information, and updates so it’s really hard to follow all of them and watch online sessions at the same time (or attend in Chicago). I selected the most interesting announcements and explored them a little bit. Let’s check out if this edition is only about […]]]></summary>
-        <author>
-            <name>Marcin Siewnicki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Ways Dynamics 365 CRM Boosts Sales Team Productivity]]></title>
-        <id>https://erpsoftwareblog.com/?p=121076</id>
-        <link href="https://erpsoftwareblog.com/2024/11/dynamics-365-crm-boosts-sales-team-productivity/"/>
-        <updated>2024-11-20T14:08:19.000Z</updated>
-        <summary type="html"><![CDATA[xxx
-In today's competitive business scenario, maximizing sales team productivity is crucial for driving revenue and achieving growth. Dynamics 365 CRM, a comprehensive customer relationship management solution from Microsoft, offers a […]
-The post 10 Ways Dynamics 365 CRM Boosts Sales Team Productivity  appeared first on ERP Software Blog.
-Better Information = Stronger Company in Tough Economy
-Hassle Free Upgrades with Dynamics GP Resellers!
-With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
-        <author>
-            <name>Dynamics Square USA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimizing Efficiency with Advanced Order Picking Options]]></title>
-        <id>https://erpsoftwareblog.com/?p=121086</id>
-        <link href="https://erpsoftwareblog.com/2024/11/optimizing-efficiency-with-advanced-order-picking-options/"/>
-        <updated>2024-11-20T13:53:23.000Z</updated>
-        <summary type="html"><![CDATA[xxx
-Order picking is a critical component of any logistics and warehousing operation. It directly impacts the speed of delivery, customer satisfaction, and overall operational efficiency. MetaShip, a cloud-based automation solution […]
-The post Optimizing Efficiency with Advanced Order Picking Options appeared first on ERP Software Blog.
-Enhancing Efficiency with Advanced Packing and Shipping Options
-License Plating: Transforming Warehouse Efficiency in Business Central
-How does Business Central offer enhanced reporting and data access?]]></summary>
-        <author>
-            <name>MetaOption LLC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Your Business Using the Right ERP and Accounting Software in 2025?]]></title>
-        <id>https://erpsoftwareblog.com/?p=121081</id>
-        <link href="https://erpsoftwareblog.com/2024/11/is-your-business-using-the-right-erp-and-accounting-software-in-2025/"/>
-        <updated>2024-11-20T12:37:31.000Z</updated>
-        <summary type="html"><![CDATA[xxx
-As your business grows, every challenge becomes an opportunity to adapt and prepare for the future. Leveraging the full potential of Right ERP and Accounting Software has never been more […]
-The post Is Your Business Using the Right ERP and Accounting Software in 2025? appeared first on ERP Software Blog.
-Microsoft Dynamics 365 Business Central vs QuickBooks
-Popular Coffee Chain Automates Its Distribution and Financial Processes with Microsoft Dynamics Business Central
-A Comprehensive Guide to Microsoft ERP Solutions for 2024]]></summary>
-        <author>
-            <name>Intelegain Technologies</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to master Command Bar Buttons in Powerapps: A complete guide – YouTube]]></title>
-        <id>https://365community.online/how-to-master-command-bar-buttons-in-powerapps-a-complete-guide-youtube</id>
-        <link href="https://365community.online/how-to-master-command-bar-buttons-in-powerapps-a-complete-guide-youtube"/>
-        <updated>2024-11-20T12:30:06.000Z</updated>
-        <summary type="html"><![CDATA[Dive into the world of PowerApps command bar buttons! In this video, we’ll explore all four types of buttons and show you how to create each one with practical examples. Whether you’re new to PowerApps or looking to sharpen your skills, this step-by-step guide will help you master button creation and boost your app’s functionality. […]]]></summary>
-        <author>
-            <name>Manish chauhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting attributes in X++]]></title>
-        <id>https://dev.goshoom.net/?p=10102</id>
-        <link href="https://dev.goshoom.net/2024/11/getting-attributes-in-x/"/>
-        <updated>2024-11-20T10:51:27.000Z</updated>
-        <summary type="html"><![CDATA[In X++, you can decorate classes and methods with attributes. Attributes were added in AX 2012 (I believe), where the typical use case was a definition of data contracts. They’re much more common in F&O, because they’re also used for CoC and event handlers. For most developers, attributes are something defined by Microsoft and used ...
-Continue reading ‘Getting attributes in X++’ »]]></summary>
-        <author>
-            <name>Martin Dráb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to set up Custom Insights Trial in Dynamics 365 – YouTube]]></title>
-        <id>https://365community.online/how-to-set-up-custom-insights-trial-in-dynamics-365-youtube</id>
-        <link href="https://365community.online/how-to-set-up-custom-insights-trial-in-dynamics-365-youtube"/>
-        <updated>2024-11-20T10:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Ready to transform your customer data? This video shows you how to set up a free Dynamics 365 Customer Insights trial (formerly D365 CE Marketing) in just a few steps. Discover how to unify data, gain actionable insights, and create personalized experiences to drive business growth. Helpful Links:   •How to Set Up a Microsoft Account […]]]></summary>
-        <author>
-            <name>Manish chauhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamics 365 Business Central: AppSource and PTE apps under the hood.]]></title>
-        <id>https://365community.online/dynamics-365-business-central-appsource-and-pte-apps-under-the-hood</id>
-        <link href="https://365community.online/dynamics-365-business-central-appsource-and-pte-apps-under-the-hood"/>
-        <updated>2024-11-20T09:56:12.000Z</updated>
-        <summary type="html"><![CDATA[I think that everyone of you know the difference between a Dynamics 365 Business Central AppSource extension and a per-tenant extension (PTE): AppSource apps are apps that are published in the Microsoft AppSource marketplace (after passing a validation) and that are installed in the global scope. Per-tenant extensions apps (PTEs) are apps created by the […]]]></summary>
-        <author>
-            <name>Stefano Demiliani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Run settings for SysTest]]></title>
-        <id>https://dev.goshoom.net/?p=10105</id>
-        <link href="https://dev.goshoom.net/2024/11/run-settings-for-systest/"/>
-        <updated>2024-11-20T07:44:56.000Z</updated>
-        <summary type="html"><![CDATA[When you execute automated tests of X++ code with SysTest, the test service (SysTestService class) gets called with some parameters, defined in SysTestRunnerSettings: You could, for example, set granularity to execute just unit tests and skip integration tests, or produce a trace file for diagnostics. You may want to use such parameters in automatic processes ...
-Continue reading ‘Run settings for SysTest’ »]]></summary>
-        <author>
-            <name>Martin Dráb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimizing Your Legacy Dynamics AX System(AX2012, AX2009, AX40)]]></title>
-        <id>https://denistrunin.com/ax2012-howtosupport/</id>
-        <link href="https://denistrunin.com/ax2012-howtosupport/"/>
-        <updated>2024-11-19T22:12:03.000Z</updated>
-        <summary type="html"><![CDATA[Optimizing and maintaining a legacy Dynamics AX system can be challenging. This guide provides actionable steps, from technical audits to performance monitoring, helping you keep your system running smoothly.]]></summary>
-        <author>
-            <name>Gatsby RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buyer’s Guide: How To Buy a New ERP Solution]]></title>
-        <id>https://www.encorebusiness.com/?p=65892</id>
-        <link href="https://www.encorebusiness.com/blog/buyers-guide-how-to-buy-a-new-erp-solution/"/>
-        <updated>2024-11-19T20:59:46.000Z</updated>
-        <summary type="html"><![CDATA[Buyer’s Guide: How To Buy a New ERP Solution
-If you’re evaluating a new ERP solution, like Dynamics 365 Business Central, this recorded webinar will walk you through the essential steps and considerations for selecting the right one for your business. Encore Account Executive Darren Atkins will discuss: Evaluating Business Needs Requirements: Functional and Non-Functional Overall Gap-Fit Data Migrations Budgetary Alignment One-time implementation costs...
-Read Next: 18 Warning Signs Your Business Need the Cloud
-This post first appeared first on Encore Business Solutions.]]></summary>
-        <author>
-            <name>Darren Atkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manage solution dependencies easily through the refreshed look – Dataverse]]></title>
-        <id>https://365community.online/manage-solution-dependencies-easily-through-the-refreshed-look-dataverse</id>
-        <link href="https://365community.online/manage-solution-dependencies-easily-through-the-refreshed-look-dataverse"/>
-        <updated>2024-11-19T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In Dataverse, solution dependencies are a vital aspect of managing and deploying applications. Dependencies ensure that required components are present for a solution to work seamlessly across environments. However, with complex solutions, understanding and managing these dependencies can become overwhelming. The updated dependencies page is designed to simplify dependency management by… Continue Reading Nishant Rana’s […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 4 Reasons to Upgrade To The Latest Version of Microsoft Dynamics GP]]></title>
-        <id>https://erpsoftwareblog.com/?p=121056</id>
-        <link href="https://erpsoftwareblog.com/2024/11/top-4-reasons-to-upgrade-to-the-latest-version-of-microsoft-dynamics-gp/"/>
-        <updated>2024-11-19T19:37:40.000Z</updated>
-        <summary type="html"><![CDATA[xxx
-Upgrading to the latest version of Microsoft Dynamics GP offers a host of benefits that can enhance your business efficiency and keep you ahead in a competitive market. Here are […]
-The post Top 4 Reasons to Upgrade To The Latest Version of Microsoft Dynamics GP appeared first on ERP Software Blog.
-What’s New in Microsoft Dynamics GP 2015?
-Tips to Improve Cash Flow from Accounts Receivable Policies
-Microsoft Dynamics GP Timecard Entry - Overview]]></summary>
-        <author>
-            <name>Mekorma</name>
         </author>
     </entry>
     <entry>
