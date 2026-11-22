@@ -1367,6 +1367,16 @@
       "siteUrl": "https://erpsoftwareblog.com/",
       "articles": [
         {
+          "id": "https://erpsoftwareblog.com/?p=158730",
+          "author": "Soluciones LLB",
+          "description": "xxx\nArgentina has a special invoice for small and medium companies that sell to large ones. It is the Factura de Crédito Electrónica MiPyME, or FCEM. It helps suppliers get paid […]\nThe post Factura de Crédito Electrónica MiPyME in Argentina: A Guide for Business Central Partners appeared first on ERP Software Blog.\nBusiness Central Panama: The 2026 Shift from Free Invoicing to PAC\nBusiness Central Chile: SII's DTE, CAF, and TED Explained\nBusiness Central Honduras: Understanding the CAI System",
+          "link": "https://erpsoftwareblog.com/2026/11/factura-de-credito-electronica-mipyme-in-argentina-a-guide-for-business-central-partners/",
+          "publishedOn": "2026-11-21T15:00:23.000Z",
+          "wordCount": 8199,
+          "title": "Factura de Crédito Electrónica MiPyME in Argentina: A Guide for Business Central Partners",
+          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Guia-FCEM-para-Business-Central-en-Argentina.png"
+        },
+        {
           "id": "https://erpsoftwareblog.com/?p=157982",
           "author": "Vicinity Software",
           "description": "xxx\nMoving from Microsoft Dynamics GP to Dynamics 365 Business Central requires more than transferring data and recreating existing processes. For batch and process manufacturers, it is an opportunity to reconsider […]\nThe post Dynamics GP to Business Central Migration: Key Considerations for Process Manufacturers appeared first on ERP Software Blog.\nDynamics 365 Business Central and Industry-Tailored Functionality\nInsight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Business Central at BCUG/NAVUG Summit in Phoenix\nWarehouse Insight Now Available for Dynamics 365 Business Central",
@@ -41530,46 +41540,6 @@
           "wordCount": 7315,
           "title": "Streamline Your Shipping with MetaShip’s Advanced Inventory Management Tools",
           "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/post-banner-7-1.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=121147",
-          "author": "Dynamics Square CA",
-          "description": "xxx\nMicrosoft Dynamics 365 Business Central is a powerful solution that helps businesses manage their operations, irrespective of the size of the industry. However, businesses require a right Business Central consultant […]\nThe post Dynamics 365 Business Central Consultant in Canada | 2024 appeared first on ERP Software Blog.\nWhich Dynamics 365 Business Central License should I purchase?\nTo upgrade or not to upgrade: the case for moving from NAV to Dynamics 365 Business Central\nMicrosoft Dynamics 365 Business Central ERP Implementation: Ask Yourself ‘Which Features Do I Really Need?’",
-          "link": "https://erpsoftwareblog.com/2024/11/business-central-consultant-in-canada/",
-          "publishedOn": "2024-11-22T14:40:49.000Z",
-          "wordCount": 7819,
-          "title": "Dynamics 365 Business Central Consultant in Canada | 2024",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Business-Central-Consultant.png"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=121138",
-          "author": "Dynamics Square AU",
-          "description": "xxx\nIntroduction  Efficiency has transformed from a nice-to-have to a must-have in the fast-changing business world. Many small and medium-sized businesses struggle with operational bottlenecks, manual processes, and disparate systems holding […]\nThe post Boosting Operational Efficiency with Dynamics 365 Business Central: Addressing Key Pain Points  appeared first on ERP Software Blog.\nHow effectively you can defer revenue and expenses in Business Central?\nTo upgrade or not to upgrade: the case for moving from NAV to Dynamics 365 Business Central\nMICROSOFT DYNAMICS 365 BUSINESS CENTRAL DEMO",
-          "link": "https://erpsoftwareblog.com/2024/11/boosting-operational-efficiency-with-dynamics-365-business-central-addressing-key-pain-points/",
-          "publishedOn": "2024-11-22T04:49:19.000Z",
-          "wordCount": 8371,
-          "title": "Boosting Operational Efficiency with Dynamics 365 Business Central: Addressing Key Pain Points",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/Dynamics-GP-screenshot-Nov-2020.jpg"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=121129",
-          "author": "Ben Cole - President @ ERP Connect",
-          "description": "xxx\nRecurring Sales Invoices and Orders for Dynamics 365 Business Central   Recurring sales documents are a game-changer for businesses that rely on subscription billing or automated recurring orders/invoices for their […]\nThe post How To Create Recurring Sales Orders and Invoices in D365 Business Central appeared first on ERP Software Blog.\nBenefits of Email Automation in Business Central\nD365 Business Central Health Check\nInsight Works Gears Up to Showcase Add-Ons for Microsoft Dynamics NAV and 365 Business Central at BCUG/NAVUG Summit in Phoenix",
-          "link": "https://erpsoftwareblog.com/2024/11/d365-business-central-recurring-billing/",
-          "publishedOn": "2024-11-22T02:05:04.000Z",
-          "wordCount": 8020,
-          "title": "How To Create Recurring Sales Orders and Invoices in D365 Business Central",
-          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/videotoblog-35c6e.appspot.com/o/%2F2fZbJoIUxwQa8kM7g8FM6n5uapE3%2FLtyehepPUr2T1OAUphPM%2F3fe1a21f-6046-4b6c-ba9a-85bb4fd5db84.webp?alt=media&token=1b569567-e761-4406-839c-b083bdbd4bde"
-        },
-        {
-          "id": "https://erpsoftwareblog.com/?p=121124",
-          "author": "Mark Rockwell, Rockton Software",
-          "description": "xxx\nManaging pricing effectively is crucial for optimizing sales and maximizing profits. Rockton Pricing Management (RPM) offers a range of features to streamline this process. Here’s a quick overview of how […]\nThe post Pricing Strategy Software: Meet Rockton Pricing Management appeared first on ERP Software Blog.\nMicrosoft Dynamics 365 Business Central: Advanced Reporting and Budgeting\nCreate a Closed-Loop Analysis, Planning, and Reporting Process\n5 Reasons To Start Using A Payment Processing System",
-          "link": "https://erpsoftwareblog.com/2024/11/pricing-strategy-software-meet-rockton-pricing-management/",
-          "publishedOn": "2024-11-21T20:37:44.000Z",
-          "wordCount": 7393,
-          "title": "Pricing Strategy Software: Meet Rockton Pricing Management",
-          "imageUrl": "https://erpsoftwareblog.com/wp-content/uploads/RPM_Pricing-Strategy-Software_1200x800.png"
         }
       ]
     },
@@ -42605,6 +42575,56 @@
       "feedUrl": "https://365community.online/feed",
       "siteUrl": "https://365community.online",
       "articles": [
+        {
+          "id": "https://365community.online/azure-api-management-credential-rotation-guidance",
+          "author": "Microsoft Tech Community",
+          "description": "Find your instances and credentials Step 1: List your API Management instances In the Azure portal, search for API Management services, or use Azure CLI: In one subscription: az apim list --subscription {subscriptionId} --query \"[].{name:name, resourceGroup:resourceGroup}\" --output table Across accessible…",
+          "link": "https://365community.online/azure-api-management-credential-rotation-guidance",
+          "publishedOn": "2026-11-21T02:56:26.000Z",
+          "wordCount": 2401,
+          "title": "Azure API Management: Credential Rotation Guidance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/amplify-healthcare-intelligence-workshop-recap",
+          "author": "Microsoft Tech Community",
+          "description": "What We Covered The evolving role of data in becoming a frontier AI organization The modern data estate and how Microsoft Fabric unifies analytics Architecture patterns for healthcare data platforms Real-world healthcare and life sciences use cases driving impact Building…",
+          "link": "https://365community.online/amplify-healthcare-intelligence-workshop-recap",
+          "publishedOn": "2026-11-20T23:12:18.000Z",
+          "wordCount": 1639,
+          "title": "Amplify Healthcare Intelligence: Workshop Recap",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/azure-api-management-premium-v2-now-supports-private-cname-records",
+          "author": "Microsoft Tech Community",
+          "description": "We’re excited to announce support for private CNAME records in Azure API Management Premium v2, providing greater flexibility for customers deploying API gateways in private network environments. Organizations increasingly rely on private networking to securely expose APIs to internal applications, enterprise…",
+          "link": "https://365community.online/azure-api-management-premium-v2-now-supports-private-cname-records",
+          "publishedOn": "2026-11-20T22:33:28.000Z",
+          "wordCount": 1997,
+          "title": "Azure API Management Premium v2 now supports private CNAME records",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/title-plan-update-november-20-2026",
+          "author": "Microsoft Tech Community",
+          "description": "Access the latest Instructor-Led Training (ILT) updates anytime at http://aka.ms/Courseware_Title_Plan to ensure you're always working from the most current version.   📌 Reminder: To help you stay informed more quickly and consistently, we’ve moved to a weekly publishing cadence for the title plan.…",
+          "link": "https://365community.online/title-plan-update-november-20-2026",
+          "publishedOn": "2026-11-20T20:16:00.000Z",
+          "wordCount": 1493,
+          "title": "Title Plan Update – November 20, 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/available-today-openais-gpt-6-2-sol-and-gpt-6-2-astra-in-microsoft-copilot",
+          "author": "Microsoft Tech Community",
+          "description": "OpenAI's GPT-6.2 Sol and GPT-6.2 Astra are now joining the frontier models available in Microsoft Copilot, giving customers more choice as they delegate more complex tasks to AI.  With both models in Copilot, you can match the model to the…",
+          "link": "https://365community.online/available-today-openais-gpt-6-2-sol-and-gpt-6-2-astra-in-microsoft-copilot",
+          "publishedOn": "2026-11-20T20:07:04.000Z",
+          "wordCount": 1702,
+          "title": "Available today: OpenAI’s GPT-6.2 Sol and GPT-6.2 Astra in Microsoft Copilot",
+          "imageUrl": null
+        },
         {
           "id": "https://365community.online/introducing-azure-sre-agent-in-azure-managed-grafana-the-dashboard-as-command-center",
           "author": "Microsoft Tech Community",
@@ -81134,76 +81154,6 @@
           "wordCount": 1193,
           "title": "Power Pages CSP: Starter Settings",
           "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/lowcode-deployment-approaches-with-sabjan-sama-youtube",
-          "author": "Scottish Summit",
-          "description": "Explore power platform deployment approaches, lowcode approach using power platform pipelines. source",
-          "link": "https://365community.online/lowcode-deployment-approaches-with-sabjan-sama-youtube",
-          "publishedOn": "2024-11-22T15:13:50.000Z",
-          "wordCount": 951,
-          "title": "Lowcode Deployment approaches with Sabjan Sama – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/unlocking-the-power-of-azure-arc-manage-monitor-and-secure-your-hybrid-cloud-azbytes-youtube",
-          "author": "John Lunn",
-          "description": "Unlocking the Power of Azure Arc: Manage, Monitor, and Secure Your Hybrid Cloud – AzBytes Welcome to another episode of AzBytes! In this video, John and Ty dive into the transformative benefits of Azure Arc, a game-changer for managing, monitoring, and updating on-premises servers. Discover how Azure Arc extends Azure management capabilities to on-premises, multi-cloud, […]",
-          "link": "https://365community.online/unlocking-the-power-of-azure-arc-manage-monitor-and-secure-your-hybrid-cloud-azbytes-youtube",
-          "publishedOn": "2024-11-22T14:12:40.000Z",
-          "wordCount": 1461,
-          "title": "Unlocking the Power of Azure Arc: Manage, Monitor, and Secure Your Hybrid Cloud – AzBytes – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/how-to-control-form-visibility-in-power-apps-dynamics-365-ce-youtube",
-          "author": "Manish chauhan",
-          "description": "In this video, we’ll demonstrate how to hide forms in Model-Driven Power Apps within Microsoft Dynamics 365 Customer Engagement (CE). You’ll learn how to manage form visibility by simply setting a form to be hidden, without needing any complex conditions or rules. #powerapps #dynamics365crm #techtutorial #Formvisibility #powerplatform #crm #tutorial #microsoftdynamics #microsoftsoftware #d365crm #d365ce #microsoftcrm #businessapps source",
-          "link": "https://365community.online/how-to-control-form-visibility-in-power-apps-dynamics-365-ce-youtube",
-          "publishedOn": "2024-11-22T13:30:10.000Z",
-          "wordCount": 1021,
-          "title": "How to control Form Visibility in Power Apps (Dynamics 365 CE) – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/manage-accounting-billing-within-dynamics-365-crm-with-quickbooks-integration",
-          "author": "Inogic",
-          "description": "The success of any business hinges on its sales performance and revenue generation. To achieve this, maintaining accurate and organized accounting and billing records is non-negotiable. A flawless balance sheet is the ultimate goal—but have you ever wondered if your accounting and billing are truly in sync with the business entities influencing your bottom line? […]",
-          "link": "https://365community.online/manage-accounting-billing-within-dynamics-365-crm-with-quickbooks-integration",
-          "publishedOn": "2024-11-22T11:53:29.000Z",
-          "wordCount": 1332,
-          "title": "Manage Accounting & Billing within Dynamics 365 CRM with QuickBooks Integration",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/work-wellness-festivities-balanced-getmerry4holidays",
-          "author": "Inogic",
-          "description": "The holiday season is a magical time, but the lead-up can often be overwhelming. Between work deadlines, holiday shopping, and festive preparations, maintaining mental peace becomes a challenge. Tools like Maplytics, integrated within Microsoft Dynamics 365, Dataverse, and Power Pages offer innovative solutions to streamline holiday planning, enhance well-being, and manage professional responsibilities effectively. Welcome […]",
-          "link": "https://365community.online/work-wellness-festivities-balanced-getmerry4holidays",
-          "publishedOn": "2024-11-22T08:50:33.000Z",
-          "wordCount": 1256,
-          "title": "Work, Wellness & Festivities Balanced #GetMerry4Holidays",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/how-to-send-approval-in-microsoft-dynamics-365-crm-using-power-automate-flow-youtube",
-          "author": "Manish chauhan",
-          "description": "Learn how to simplify and automate your approval processes in Microsoft Dynamics 365 CRM with Power Automate! This step-by-step tutorial will guide you through creating a seamless approval flow, helping you save time and streamline workflows. Whether you need to request manager approval for record updates, manage tasks, or enhance collaboration, this guide covers it […]",
-          "link": "https://365community.online/how-to-send-approval-in-microsoft-dynamics-365-crm-using-power-automate-flow-youtube",
-          "publishedOn": "2024-11-22T07:13:37.000Z",
-          "wordCount": 1056,
-          "title": "How to send Approval in Microsoft Dynamics 365 CRM using Power Automate Flow – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/become-a-propilot-lesson-04-youtube",
-          "author": "Victor Dantas",
-          "description": "Presenter: Daniel Christian Learn Azure OpenAI integration, agent deployment, and the latest Copilot innovations. source",
-          "link": "https://365community.online/become-a-propilot-lesson-04-youtube",
-          "publishedOn": "2024-11-22T04:00:06.000Z",
-          "wordCount": 948,
-          "title": "Become a ProPilot: Lesson 04 – YouTube",
-          "imageUrl": null
         }
       ]
     },
@@ -86215,16 +86165,6 @@
           "publishedOn": "2025-01-16T09:08:56.000Z",
           "wordCount": 1084,
           "title": "Default fields in Open in Excel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dev.goshoom.net/?p=10124",
-          "author": "Martin Dráb",
-          "description": "I had a scenario in electronic report where I wanted to reuse existing X++ code that generates some temporary table records for reporting purpose. Therefore I wanted electronic reporting to call my X++ method (for a particular context, an invoice in this case) and use the list of records returned by this method. Electronic reporting ...\nContinue reading ‘Electronic reporting: Method returning a list of records’ »",
-          "link": "https://dev.goshoom.net/2024/11/electronic-reporting-method-returning-a-list-of-records/",
-          "publishedOn": "2024-11-22T08:51:37.000Z",
-          "wordCount": 1470,
-          "title": "Electronic reporting: Method returning a list of records",
           "imageUrl": null
         }
       ]
