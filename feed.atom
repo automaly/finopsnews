@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-11-22T04:15:18.794Z</updated>
+    <updated>2026-11-23T04:55:07.277Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Teaching AI how your Business works with Dynamics 365 Business Skills]]></title>
+        <id>https://dynamicspedia.com/?p=20757</id>
+        <link href="https://dynamicspedia.com/2026/11/teaching-ai-how-your-business-works-with-dynamics-365-business-skills/"/>
+        <updated>2026-11-22T14:12:11.000Z</updated>
+        <summary type="html"><![CDATA[A few days ago, Microsoft announced new possibilities for Dynamics 365 AI ERP with Work IQ and business skills. This changes how users will interact with the ERP application. Instead of always going into Finance and Operations to find information and execute transactions, instead, users can work through Microsoft Copilot and AI agents. Dynamics 365 […]
+The post Teaching AI how your Business works with Dynamics 365 Business Skills appeared first on Dynamicspedia.]]></summary>
+        <author>
+            <name>André Arnaud de Calavon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ignite 2026: The next era of enterprise AI starts with the infrastructure beneath it]]></title>
+        <id>https://365community.online/ignite-2026-the-next-era-of-enterprise-ai-starts-with-the-infrastructure-beneath-it</id>
+        <link href="https://365community.online/ignite-2026-the-next-era-of-enterprise-ai-starts-with-the-infrastructure-beneath-it"/>
+        <updated>2026-11-22T02:13:31.000Z</updated>
+        <summary type="html"><![CDATA[By Arun Kishan, Technical Fellow and Corporate Vice President, Azure Compute Every major technology shift eventually asks whether infrastructure can turn possibility into dependable progress, and for enterprise AI, that moment is here. As organizations move beyond isolated experiments toward…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rotating credentials in Azure API Management]]></title>
+        <id>https://365community.online/rotating-credentials-in-azure-api-management</id>
+        <link href="https://365community.online/rotating-credentials-in-azure-api-management"/>
+        <updated>2026-11-21T22:12:12.000Z</updated>
+        <summary type="html"><![CDATA[Credentials covered by this guidance Subscription keys Named values that contain secrets Backend credentials (headers, query parameters, client certificates) OAuth 2.0 and OpenID Connect client secrets Connection strings (for example, Event Hubs loggers) Credentials written directly into policies How to…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Factura de Crédito Electrónica MiPyME in Argentina: A Guide for Business Central Partners]]></title>
         <id>https://erpsoftwareblog.com/?p=158730</id>
@@ -19,6 +50,16 @@ Business Central Chile: SII's DTE, CAF, and TED Explained
 Business Central Honduras: Understanding the CAI System]]></summary>
         <author>
             <name>Soluciones LLB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implement Virtual WAN Secure Hub with Customer-Owned Public IPs for Firewall using AVM]]></title>
+        <id>https://365community.online/implement-virtual-wan-secure-hub-with-customer-owned-public-ips-for-firewall-using-avm</id>
+        <link href="https://365community.online/implement-virtual-wan-secure-hub-with-customer-owned-public-ips-for-firewall-using-avm"/>
+        <updated>2026-11-21T10:27:54.000Z</updated>
+        <summary type="html"><![CDATA[Azure Virtual WAN provides a managed networking architecture that simplifies connectivity between virtual networks, branch locations, VPN connections, and ExpressRoute connections. At the centre of this architecture is the Virtual Hub, which provides managed connectivity and routing. When Azure Firewall…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
         </author>
     </entry>
     <entry>
@@ -339,6 +380,21 @@ When Business Central Customization Makes Sense
 5 Steps to a Successful Implementation of Your New Accounting System]]></summary>
         <author>
             <name>iCepts Technology Group, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9 New ARVO Features for Dynamics 365 Business Central GitHub Pull Requests, Your Coding Standards and More]]></title>
+        <id>https://erpsoftwareblog.com/?p=158835</id>
+        <link href="https://erpsoftwareblog.com/2026/11/9-new-arvo-features-for-dynamics-365-business-central-github-pull-requests-your-coding-standards-and-more/"/>
+        <updated>2026-11-19T16:43:18.000Z</updated>
+        <summary type="html"><![CDATA[xxx
+ARVO now delivers its code into your GitHub repository, and your developers decide what gets merged. Here is what each of the nine new features means for Business Central teams. […]
+The post 9 New ARVO Features for Dynamics 365 Business Central GitHub Pull Requests, Your Coding Standards and More appeared first on ERP Software Blog.
+Demand Forecasting Revolutionized with AI,  Pivot Forecasting and Dynamics 365 ERP
+6 Ways to Use AI in Your Business
+AI, the Cloud, and Digital Adoption Are the Keys to Business Success]]></summary>
+        <author>
+            <name>Bluefort</name>
         </author>
     </entry>
     <entry>
@@ -113347,117 +113403,6 @@ What, No Coffee Stains? SmartBOL Removes All Bill of Lading Paperwork
 Benefits of Voice Automation in Dynamics 365 for Warehouse Management]]></summary>
         <author>
             <name>Boyer &amp;#38; Associates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Power of AI in Dynamics 365 CRM: Unlocking Customer Insights]]></title>
-        <id>https://erpsoftwareblog.com/?p=121202</id>
-        <link href="https://erpsoftwareblog.com/2024/11/ai-in-dynamics-365-crm/"/>
-        <updated>2024-11-23T13:25:50.000Z</updated>
-        <summary type="html"><![CDATA[xxx
-Having precise customer insights is a way to earn remunerative revenue. An AI-enabled CRM software in this context can help you understand customers at the granular level, so you can […]
-The post The Power of AI in Dynamics 365 CRM: Unlocking Customer Insights  appeared first on ERP Software Blog.
-Better Information = Stronger Company in Tough Economy
-Hassle Free Upgrades with Dynamics GP Resellers!
-With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
-        <author>
-            <name>Dynamics Square USA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Pages CSP: Starter Settings]]></title>
-        <id>https://365community.online/power-pages-csp-starter-settings</id>
-        <link href="https://365community.online/power-pages-csp-starter-settings"/>
-        <updated>2024-11-23T12:31:09.000Z</updated>
-        <summary type="html"><![CDATA[While working on CSP (Content Security Policy) settings on Power Pages to make the site external connections or loading of external references more restrictive, we can find a few challenges if we restrict all to ‘self’, we will break a lot of out-of-the-box functionality as some fonts, scripts and content are by default hosted outside […]]]></summary>
-        <author>
-            <name>michelcarlo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s New in Quality Inspector v7.18 for Business Central?]]></title>
-        <id>https://erpsoftwareblog.com/?p=121168</id>
-        <link href="https://erpsoftwareblog.com/2024/11/whats-new-in-quality-inspector-v7-18-for-business-central/"/>
-        <updated>2024-11-22T21:46:55.000Z</updated>
-        <summary type="html"><![CDATA[xxx
-Learn what’s new in Quality Inspector v7.18 for Business Central, featuring advanced tools to streamline quality control, enhance compliance, and boost operational efficiency for your business.
-The post What’s New in Quality Inspector v7.18 for Business Central? appeared first on ERP Software Blog.
-License Plating v1.97: Transforming Warehouse Management in Business Central
-Top 10 Reasons to Use Business Central’s License Plating App
-Business Central’s Most Trusted License Plating App, a Five-Star Rating on AppSource]]></summary>
-        <author>
-            <name>Insight Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Payment Processor Discontinued? Here’s How to Transition]]></title>
-        <id>https://erpsoftwareblog.com/?p=121173</id>
-        <link href="https://erpsoftwareblog.com/2024/11/121173/"/>
-        <updated>2024-11-22T21:32:12.000Z</updated>
-        <summary type="html"><![CDATA[xxx
-“Payment Processor Discontinued.” Those words can strike horror for any merchant. It’s the kind of message no business wants to receive, and it calls for fast action.   ChargeLogic announced […]
-The post Payment Processor Discontinued? Here’s How to Transition appeared first on ERP Software Blog.
-Microsoft Dynamics 365 Business Central is now available! Business without silos, actionable insights, built to evolve
-Three ERP Implementation Tips for SMB Manufacturers
-What is a Microsoft Cloud Services Provider and their Benefits?]]></summary>
-        <author>
-            <name>USTPay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhancing Financial Insights with Data Visualization in Microsoft Dynamics]]></title>
-        <id>https://erpsoftwareblog.com/?p=121164</id>
-        <link href="https://erpsoftwareblog.com/2024/11/enhancing-financial-insights-with-data-visualization-in-microsoft-dynamics/"/>
-        <updated>2024-11-22T19:49:43.000Z</updated>
-        <summary type="html"><![CDATA[xxx
-As a modern finance leader, staying on top of your organization’s financial health requires more than just reviewing static reports. You need a holistic, real-time view of critical business metrics, […]
-The post Enhancing Financial Insights with Data Visualization in Microsoft Dynamics appeared first on ERP Software Blog.
-What is a Microsoft Cloud Services Provider and their Benefits?
-Upgrade your Business from QuickBooks to Dynamics 365 Business Central
-Why Non-profits Need a Modern ERP for Financial Success]]></summary>
-        <author>
-            <name>Accountnet, Inc.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Streamline Your Shipping with MetaShip’s Advanced Inventory Management Tools]]></title>
-        <id>https://erpsoftwareblog.com/?p=121161</id>
-        <link href="https://erpsoftwareblog.com/2024/11/streamline-your-shipping-with-metaships-advanced-inventory-management-tools/"/>
-        <updated>2024-11-22T19:25:36.000Z</updated>
-        <summary type="html"><![CDATA[xxx
-Efficient inventory management is the backbone of any successful shipping operation. In today’s competitive market, having the right tools to track and manage inventory is critical for staying ahead. MetaShip, a […]
-The post Streamline Your Shipping with MetaShip’s Advanced Inventory Management Tools appeared first on ERP Software Blog.
-Exploring the Warehouse Structure in MetaWMS for Dynamics 365 Business Central
-Navigating the Upgrade: Steps to Move from Dynamics NAV to Business Central
-Exploring Multiple Printing Options in MetaShip for Business Central]]></summary>
-        <author>
-            <name>MetaOption LLC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Year-End Close Tips & Tricks for Dynamics 365 Business Central (Video)]]></title>
-        <id>https://www.encorebusiness.com/?p=66015</id>
-        <link href="https://www.encorebusiness.com/blog/year-end-close-d365-business-central/"/>
-        <updated>2024-11-22T18:15:43.000Z</updated>
-        <summary type="html"><![CDATA[Year-End Close Tips & Tricks for Dynamics 365 Business Central (Video)
-During this recorded webinar, we discuss essential tips and tricks for the year-end close process in Dynamics 365 Business Central. ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿ Transcript below: – [Katie] Hello, everyone. Thank you for joining us today for our webinar, “Year-End Close Tips & Tricks for Dynamics 365 Business Central.” My name is Katie, and I’ll be the facilitator...
-Read Next: 18 Warning Signs Your Business Need the Cloud
-This post first appeared first on Encore Business Solutions.]]></summary>
-        <author>
-            <name>Raymond Wong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Excel Integrations and Dynamics GP (Video)]]></title>
-        <id>https://www.encorebusiness.com/?p=66009</id>
-        <link href="https://www.encorebusiness.com/blog/excel-integrations-and-dynamics-gp/"/>
-        <updated>2024-11-22T17:46:58.000Z</updated>
-        <summary type="html"><![CDATA[Excel Integrations and Dynamics GP (Video)
-In this recorded webinar, we dive into Excel integrations with Dynamics GP. Learn how to streamline your workflow by using copy-paste functionality for transactions, exporting data via SmartList, and leveraging Excel reports. We also discuss the possibility of making changes to your existing Excel reports. ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿ Transcript below: – [Katie] Hi, everyone. Thank you for...
-Read Next: 18 Warning Signs Your Business Need the Cloud
-This post first appeared first on Encore Business Solutions.]]></summary>
-        <author>
-            <name>Don McNulty</name>
         </author>
     </entry>
     <entry>
