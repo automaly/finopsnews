@@ -42706,6 +42706,76 @@
       "siteUrl": "https://365community.online",
       "articles": [
         {
+          "id": "https://365community.online/change-radar-is-it-going-to-rain-on-your-barbecue",
+          "author": "Simon Owen",
+          "description": "Every week Microsoft tells us what’s changing in Power Platform and Copilot. What they can’t tell us is whether any of it touches the things that we’ve built… So I drew a picture, and ended up building something that can.",
+          "link": "https://365community.online/change-radar-is-it-going-to-rain-on-your-barbecue",
+          "publishedOn": "2026-11-25T17:44:15.000Z",
+          "wordCount": 3606,
+          "title": "Change Radar: Is It Going to Rain on Your Barbecue?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/whats-new-in-azure-database-security-stronger-encryption-simpler-identity-and-networking",
+          "author": "Microsoft Tech Community",
+          "description": "At Microsoft Ignite 2026, we announced nine security enhancements across Azure SQL Database, Azure Database for PostgreSQL, and Azure HorizonDB, covering encryption, identity, and networking. Azure SQL Database: Stronger Encryption, More Control We're continuing to invest in making Azure SQL…",
+          "link": "https://365community.online/whats-new-in-azure-database-security-stronger-encryption-simpler-identity-and-networking",
+          "publishedOn": "2026-11-25T09:55:09.000Z",
+          "wordCount": 2047,
+          "title": "What’s new in Azure database security: stronger encryption, simpler identity, and networking",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/who-approved-this-procedure-sharepoint-content-approval-ai-answers-and-the-auditor",
+          "author": "Kaspars Jurjāns",
+          "description": "SharePoint content approval records a status and versioning records which version readers get. The approver's name and the approval date in an AI answer come from somewhere else, and the answer should say where.",
+          "link": "https://365community.online/who-approved-this-procedure-sharepoint-content-approval-ai-answers-and-the-auditor",
+          "publishedOn": "2026-11-25T08:08:49.000Z",
+          "wordCount": 3376,
+          "title": "Who Approved This Procedure? SharePoint Content Approval, AI Answers and the Auditor",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/measuring-freshness-for-web-grounding",
+          "author": "Microsoft Tech Community",
+          "description": "When picking a web grounding service, most developers evaluate a provider's enterprise readiness, quality, latency, and cost. For applications built on changing information, one more question matters: how fresh are the results? An earnings announcement can reshape a customer brief,…",
+          "link": "https://365community.online/measuring-freshness-for-web-grounding",
+          "publishedOn": "2026-11-25T05:15:00.000Z",
+          "wordCount": 2657,
+          "title": "Measuring Freshness for Web Grounding",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/whats-new-in-excel-november-2026",
+          "author": "Microsoft Tech Community",
+          "description": "Finance teams can hand reconciliations and journal entries to new accounting skills, analysts can group PivotTable data just by asking, and anyone who opens a read-only workbook can now ask Copilot about it. You also get more model choices. On…",
+          "link": "https://365community.online/whats-new-in-excel-november-2026",
+          "publishedOn": "2026-11-25T00:31:51.000Z",
+          "wordCount": 2401,
+          "title": "What’s New in Excel (November 2026)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/upcoming-dns-changes-for-azure-event-hubs-and-azure-service-bus",
+          "author": "Microsoft Tech Community",
+          "description": "What is happening In Azure public cloud, the new hostname format is namespace-name.zN.eventhubs.azure.net for Event Hubs and namespace-name.zN.servicebus.azure.net for Service Bus. Here, namespace-name is your namespace name and N is the partition number assigned by the service. Azure Relay also…",
+          "link": "https://365community.online/upcoming-dns-changes-for-azure-event-hubs-and-azure-service-bus",
+          "publishedOn": "2026-11-24T23:43:01.000Z",
+          "wordCount": 2063,
+          "title": "Upcoming DNS changes for Azure Event Hubs and Azure Service Bus",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/strengthen-your-azure-security-baseline-with-metadata-security-protocol",
+          "author": "Microsoft Tech Community",
+          "description": "Managed identities make it easier to securely authenticate applications running on Azure Virtual Machines without storing credentials in application code. However, they introduce an important security consideration: which applications and processes running inside a VM should be able to request those…",
+          "link": "https://365community.online/strengthen-your-azure-security-baseline-with-metadata-security-protocol",
+          "publishedOn": "2026-11-24T21:52:02.000Z",
+          "wordCount": 2064,
+          "title": "Strengthen your Azure security baseline with Metadata Security Protocol",
+          "imageUrl": null
+        },
+        {
           "id": "https://365community.online/a-complete-guide-to-workforce-engagement-management-importing-external-data",
           "author": "Dian Taylor",
           "description": "In the third part of my series on Dynamics 365 Workforce Engagement Management (WEM) I will cover how we can import data from an external call center system into Dynamics 365 Contact Center. If your organization is moving from another…",
@@ -42713,6 +42783,26 @@
           "publishedOn": "2026-11-24T16:38:00.000Z",
           "wordCount": 1504,
           "title": "A Complete Guide to Workforce Engagement Management: Importing External Data",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/cetirun-taking-ai-agents-from-personal-tools-to-an-operable-platform-on-azure",
+          "author": "Microsoft Tech Community",
+          "description": "1. The adoption challenge is not whether an agent can write code At developer events, the demo often looks straightforward: describe a requirement, let AI inspect a project, change files, and run tests, and a few minutes later a feature…",
+          "link": "https://365community.online/cetirun-taking-ai-agents-from-personal-tools-to-an-operable-platform-on-azure",
+          "publishedOn": "2026-11-24T12:10:44.000Z",
+          "wordCount": 4427,
+          "title": "CetiRun: Taking AI Agents from Personal Tools to an Operable Platform on Azure",
+          "imageUrl": null
+        },
+        {
+          "id": "https://365community.online/looking-for-a-managed-opentelemetry-collector-azure-monitor-pipeline-now-does-the-job",
+          "author": "Microsoft Tech Community",
+          "description": "You did the hard part. Your teams instrumented applications, and increasingly, AI agents, with OpenTelemetry, so their logs, metrics, and traces and events aren’t locked to any one vendor’s SDK. In the AI era, those signals do double duty: they…",
+          "link": "https://365community.online/looking-for-a-managed-opentelemetry-collector-azure-monitor-pipeline-now-does-the-job",
+          "publishedOn": "2026-11-24T01:26:25.000Z",
+          "wordCount": 2570,
+          "title": "Looking for a managed OpenTelemetry collector? Azure Monitor pipeline now does the job",
           "imageUrl": null
         },
         {
@@ -81264,66 +81354,6 @@
           "wordCount": 1044,
           "title": "The Windows 365 Setup Mistake That’s Costing You Productivity – YouTube",
           "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/ai-agents-and-now",
-          "author": "Stefano Demiliani",
-          "description": "As I think you all have noticed, we are in the middle of a revolution in the IT world where artificial intelligence (AI) is emerging more and more in every sector and in the coming years AI will guide the technological choices of many companies. The AI landscape had (and is having) lots of transformation […]",
-          "link": "https://365community.online/ai-agents-and-now",
-          "publishedOn": "2024-11-26T14:01:01.000Z",
-          "wordCount": 1066,
-          "title": "AI, Agents… and now?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/microsoft-ignite-2024-highlights",
-          "author": "Carina Claesson",
-          "description": "I just got back home from Chicago and a week full of adventure. In this post I’ll go though the the announcements that caught my attention the most and I’ll also let you in on a my thinking around the new features. Happy reading! Summary My perspective is Power Platform and a bit beyond and […]",
-          "link": "https://365community.online/microsoft-ignite-2024-highlights",
-          "publishedOn": "2024-11-26T13:27:31.000Z",
-          "wordCount": 1042,
-          "title": "Microsoft Ignite 2024 – Highlights",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/how-to-prevent-deletion-of-contact-records-with-active-cases-using-pre-validation-plugin-youtube",
-          "author": "Manish chauhan",
-          "description": "Learn how to prevent users from deleting critical records in Dynamics 365! In this video, we demonstrate how to create a Pre-validation Plugin to stop the deletion of contact records associated with active cases.    #dynamics365crm #PreValidationPlugin #CRMPlugins #microsoftdynamics #dataintegrity #Dynamics365Development #tutorial #techtutorial #d365crm #dynamicscrm source",
-          "link": "https://365community.online/how-to-prevent-deletion-of-contact-records-with-active-cases-using-pre-validation-plugin-youtube",
-          "publishedOn": "2024-11-26T13:15:00.000Z",
-          "wordCount": 1019,
-          "title": "How to prevent Deletion of Contact Records with Active Cases using Pre-Validation Plugin – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/how-to-hide-system-views-in-model-driven-apps-in-dynamics-365-ce-youtube",
-          "author": "Manish chauhan",
-          "description": "In this video, we’ll walk you through the simple steps to hide system views in a model-driven app in Microsoft Dynamics 365 Customer Engagement (CE). Whether you want to customize your app for a cleaner user experience or prevent users from accessing certain views, this tutorial will show you how to manage view visibility effectively. […]",
-          "link": "https://365community.online/how-to-hide-system-views-in-model-driven-apps-in-dynamics-365-ce-youtube",
-          "publishedOn": "2024-11-26T11:30:21.000Z",
-          "wordCount": 1042,
-          "title": "How to hide system views in Model-Driven Apps in Dynamics 365 CE – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/fear-of-ai-its-time-to-rethink-your-ai-strategy-youtube",
-          "author": "NZ365Guy",
-          "description": "Fear of AI? It’s Time to Rethink Your AI Strategy Fear of AI comes from misunderstanding. Discover how companies like Lufthansa are using AI to empower employees, not replace them. AI Strategy is about growth, not fear. Fear of AI comes from misunderstanding. Discover how companies like Lufthansa are using AI to empower employees, not […]",
-          "link": "https://365community.online/fear-of-ai-its-time-to-rethink-your-ai-strategy-youtube",
-          "publishedOn": "2024-11-26T07:00:19.000Z",
-          "wordCount": 1021,
-          "title": "Fear of AI? It’s Time to Rethink Your AI Strategy – YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://365community.online/using-xrm-utility-getpagecontext-input-to-identity-or-get-parent-record-details-for-the-quick-create-form-dataverse-dynamics-365",
-          "author": "Nishant Rana",
-          "description": "Recently we had a requirement to make different sets of fields mandatory and non-mandatory on the Quick Create form for Contact, based on the parent record type it is opened from. Quick Create Form As we cannot have multiple Quick Create Form specified for different forms, we had to use JavaScript to identify the parent […]",
-          "link": "https://365community.online/using-xrm-utility-getpagecontext-input-to-identity-or-get-parent-record-details-for-the-quick-create-form-dataverse-dynamics-365",
-          "publishedOn": "2024-11-25T20:30:00.000Z",
-          "wordCount": 1126,
-          "title": "Using Xrm.Utility.getPageContext().input to identity or get parent record details for the Quick Create form – Dataverse / Dynamics 365",
-          "imageUrl": null
         }
       ]
     },
@@ -88186,6 +88216,16 @@
       "feedUrl": "https://paragchapre.com/feed/",
       "siteUrl": "https://www.paragchapre.com",
       "articles": [
+        {
+          "id": "https://www.paragchapre.com/?p=17344",
+          "author": "Parag Chapre",
+          "description": "Dynamics 365 ERP Is Entering a New Phase Microsoft is bringing Dynamics 365 ERP data, business logic, and reusable business skills into Work IQ, the intelligence layer used by Microsoft Copilot and supported AI agents. This is more than another Copilot feature. It represents a change in how people interact with enterprise resource planning. Instead…",
+          "link": "https://www.paragchapre.com/dynamics-365-erp-work-iq-business-skills/",
+          "publishedOn": "2026-11-20T14:38:35.000Z",
+          "wordCount": 4852,
+          "title": "Dynamics 365 ERP with Work IQ and Business Skills",
+          "imageUrl": "https://www.paragchapre.com/wp-content/uploads/2026/11/Dynamics-365-ERP-with-Work-IQ-and-Business-Skills.webp"
+        },
         {
           "id": "https://www.paragchapre.com/?p=17171",
           "author": "Parag Chapre",

@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://automaly.github.io/finopsnews/index.html</id>
     <title>Dynamics 365 Finance &amp; Operations Feeds</title>
-    <updated>2026-11-25T06:14:28.362Z</updated>
+    <updated>2026-11-26T06:07:18.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://automaly.github.io/finopsnews/index.html"/>
     <link rel="self" href="https://automaly.github.io/finopsnews/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Change Radar: Is It Going to Rain on Your Barbecue?]]></title>
+        <id>https://365community.online/change-radar-is-it-going-to-rain-on-your-barbecue</id>
+        <link href="https://365community.online/change-radar-is-it-going-to-rain-on-your-barbecue"/>
+        <updated>2026-11-25T17:44:15.000Z</updated>
+        <summary type="html"><![CDATA[Every week Microsoft tells us what’s changing in Power Platform and Copilot. What they can’t tell us is whether any of it touches the things that we’ve built… So I drew a picture, and ended up building something that can.]]></summary>
+        <author>
+            <name>Simon Owen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s new in Azure database security: stronger encryption, simpler identity, and networking]]></title>
+        <id>https://365community.online/whats-new-in-azure-database-security-stronger-encryption-simpler-identity-and-networking</id>
+        <link href="https://365community.online/whats-new-in-azure-database-security-stronger-encryption-simpler-identity-and-networking"/>
+        <updated>2026-11-25T09:55:09.000Z</updated>
+        <summary type="html"><![CDATA[At Microsoft Ignite 2026, we announced nine security enhancements across Azure SQL Database, Azure Database for PostgreSQL, and Azure HorizonDB, covering encryption, identity, and networking. Azure SQL Database: Stronger Encryption, More Control We're continuing to invest in making Azure SQL…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who Approved This Procedure? SharePoint Content Approval, AI Answers and the Auditor]]></title>
+        <id>https://365community.online/who-approved-this-procedure-sharepoint-content-approval-ai-answers-and-the-auditor</id>
+        <link href="https://365community.online/who-approved-this-procedure-sharepoint-content-approval-ai-answers-and-the-auditor"/>
+        <updated>2026-11-25T08:08:49.000Z</updated>
+        <summary type="html"><![CDATA[SharePoint content approval records a status and versioning records which version readers get. The approver's name and the approval date in an AI answer come from somewhere else, and the answer should say where.]]></summary>
+        <author>
+            <name>Kaspars Jurjāns</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring Freshness for Web Grounding]]></title>
+        <id>https://365community.online/measuring-freshness-for-web-grounding</id>
+        <link href="https://365community.online/measuring-freshness-for-web-grounding"/>
+        <updated>2026-11-25T05:15:00.000Z</updated>
+        <summary type="html"><![CDATA[When picking a web grounding service, most developers evaluate a provider's enterprise readiness, quality, latency, and cost. For applications built on changing information, one more question matters: how fresh are the results? An earnings announcement can reshape a customer brief,…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s New in Excel (November 2026)]]></title>
+        <id>https://365community.online/whats-new-in-excel-november-2026</id>
+        <link href="https://365community.online/whats-new-in-excel-november-2026"/>
+        <updated>2026-11-25T00:31:51.000Z</updated>
+        <summary type="html"><![CDATA[Finance teams can hand reconciliations and journal entries to new accounting skills, analysts can group PivotTable data just by asking, and anyone who opens a read-only workbook can now ask Copilot about it. You also get more model choices. On…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upcoming DNS changes for Azure Event Hubs and Azure Service Bus]]></title>
+        <id>https://365community.online/upcoming-dns-changes-for-azure-event-hubs-and-azure-service-bus</id>
+        <link href="https://365community.online/upcoming-dns-changes-for-azure-event-hubs-and-azure-service-bus"/>
+        <updated>2026-11-24T23:43:01.000Z</updated>
+        <summary type="html"><![CDATA[What is happening In Azure public cloud, the new hostname format is namespace-name.zN.eventhubs.azure.net for Event Hubs and namespace-name.zN.servicebus.azure.net for Service Bus. Here, namespace-name is your namespace name and N is the partition number assigned by the service. Azure Relay also…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strengthen your Azure security baseline with Metadata Security Protocol]]></title>
+        <id>https://365community.online/strengthen-your-azure-security-baseline-with-metadata-security-protocol</id>
+        <link href="https://365community.online/strengthen-your-azure-security-baseline-with-metadata-security-protocol"/>
+        <updated>2026-11-24T21:52:02.000Z</updated>
+        <summary type="html"><![CDATA[Managed identities make it easier to securely authenticate applications running on Azure Virtual Machines without storing credentials in application code. However, they introduce an important security consideration: which applications and processes running inside a VM should be able to request those…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Business Central warehouse management: Bins, directed Put-away and Pick, and mobile WMS]]></title>
         <id>https://erpsoftwareblog.com/?p=159116</id>
@@ -182,6 +252,16 @@ Achieve more than ever with AI & Copilot for Microsoft 365]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CetiRun: Taking AI Agents from Personal Tools to an Operable Platform on Azure]]></title>
+        <id>https://365community.online/cetirun-taking-ai-agents-from-personal-tools-to-an-operable-platform-on-azure</id>
+        <link href="https://365community.online/cetirun-taking-ai-agents-from-personal-tools-to-an-operable-platform-on-azure"/>
+        <updated>2026-11-24T12:10:44.000Z</updated>
+        <summary type="html"><![CDATA[1. The adoption challenge is not whether an agent can write code At developer events, the demo often looks straightforward: describe a requirement, let AI inspect a project, change files, and run tests, and a few minutes later a feature…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Why ERP Implementation Projects Fail – and How Dynamics Square UK Helps Businesses Avoid Common Mistakes]]></title>
         <id>https://erpsoftwareblog.com/?p=159101</id>
         <link href="https://erpsoftwareblog.com/2026/11/why-erp-implementation-projects-fail/"/>
@@ -194,6 +274,16 @@ Hassle Free Upgrades with Dynamics GP Resellers!
 With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summary>
         <author>
             <name>Dynamics Square UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking for a managed OpenTelemetry collector? Azure Monitor pipeline now does the job]]></title>
+        <id>https://365community.online/looking-for-a-managed-opentelemetry-collector-azure-monitor-pipeline-now-does-the-job</id>
+        <link href="https://365community.online/looking-for-a-managed-opentelemetry-collector-azure-monitor-pipeline-now-does-the-job"/>
+        <updated>2026-11-24T01:26:25.000Z</updated>
+        <summary type="html"><![CDATA[You did the hard part. Your teams instrumented applications, and increasingly, AI agents, with OpenTelemetry, so their logs, metrics, and traces and events aren’t locked to any one vendor’s SDK. In the AI era, those signals do double duty: they…]]></summary>
+        <author>
+            <name>Microsoft Tech Community</name>
         </author>
     </entry>
     <entry>
@@ -690,6 +780,16 @@ When Business Central Customization Makes Sense
 5 Steps to a Successful Implementation of Your New Accounting System]]></summary>
         <author>
             <name>Trango Tech Dynamics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamics 365 ERP with Work IQ and Business Skills]]></title>
+        <id>https://www.paragchapre.com/?p=17344</id>
+        <link href="https://www.paragchapre.com/dynamics-365-erp-work-iq-business-skills/"/>
+        <updated>2026-11-20T14:38:35.000Z</updated>
+        <summary type="html"><![CDATA[Dynamics 365 ERP Is Entering a New Phase Microsoft is bringing Dynamics 365 ERP data, business logic, and reusable business skills into Work IQ, the intelligence layer used by Microsoft Copilot and supported AI agents. This is more than another Copilot feature. It represents a change in how people interact with enterprise resource planning. Instead…]]></summary>
+        <author>
+            <name>Parag Chapre</name>
         </author>
     </entry>
     <entry>
@@ -113576,16 +113676,6 @@ With Microsoft Dynamics GP, you really can have it all! Here's how...]]></summar
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI, Agents… and now?]]></title>
-        <id>https://365community.online/ai-agents-and-now</id>
-        <link href="https://365community.online/ai-agents-and-now"/>
-        <updated>2024-11-26T14:01:01.000Z</updated>
-        <summary type="html"><![CDATA[As I think you all have noticed, we are in the middle of a revolution in the IT world where artificial intelligence (AI) is emerging more and more in every sector and in the coming years AI will guide the technological choices of many companies. The AI landscape had (and is having) lots of transformation […]]]></summary>
-        <author>
-            <name>Stefano Demiliani</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dynamics 365 for Retail: Minimize challenges and Boost Revenue]]></title>
         <id>https://erpsoftwareblog.com/?p=121237</id>
         <link href="https://erpsoftwareblog.com/2024/11/dynamics-365-for-retail-and-commerce/"/>
@@ -113616,26 +113706,6 @@ Microsoft Dynamics GP Interfund Management – It’s Not Just For Non-Profits]]
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Ignite 2024 – Highlights]]></title>
-        <id>https://365community.online/microsoft-ignite-2024-highlights</id>
-        <link href="https://365community.online/microsoft-ignite-2024-highlights"/>
-        <updated>2024-11-26T13:27:31.000Z</updated>
-        <summary type="html"><![CDATA[I just got back home from Chicago and a week full of adventure. In this post I’ll go though the the announcements that caught my attention the most and I’ll also let you in on a my thinking around the new features. Happy reading! Summary My perspective is Power Platform and a bit beyond and […]]]></summary>
-        <author>
-            <name>Carina Claesson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to prevent Deletion of Contact Records with Active Cases using Pre-Validation Plugin – YouTube]]></title>
-        <id>https://365community.online/how-to-prevent-deletion-of-contact-records-with-active-cases-using-pre-validation-plugin-youtube</id>
-        <link href="https://365community.online/how-to-prevent-deletion-of-contact-records-with-active-cases-using-pre-validation-plugin-youtube"/>
-        <updated>2024-11-26T13:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to prevent users from deleting critical records in Dynamics 365! In this video, we demonstrate how to create a Pre-validation Plugin to stop the deletion of contact records associated with active cases.    #dynamics365crm #PreValidationPlugin #CRMPlugins #microsoftdynamics #dataintegrity #Dynamics365Development #tutorial #techtutorial #d365crm #dynamicscrm source]]></summary>
-        <author>
-            <name>Manish chauhan</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Data Administration Tools in Business Central]]></title>
         <id>https://erpsoftwareblog.com/?p=121199</id>
         <link href="https://erpsoftwareblog.com/2024/11/data-administration-tools-in-business-central/"/>
@@ -113648,16 +113718,6 @@ What is Microsoft Dynamics 365 Business Central? - Webinar
 Announcing Microsoft Dynamics 365 Business Central]]></summary>
         <author>
             <name>x2x eCommerce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to hide system views in Model-Driven Apps in Dynamics 365 CE – YouTube]]></title>
-        <id>https://365community.online/how-to-hide-system-views-in-model-driven-apps-in-dynamics-365-ce-youtube</id>
-        <link href="https://365community.online/how-to-hide-system-views-in-model-driven-apps-in-dynamics-365-ce-youtube"/>
-        <updated>2024-11-26T11:30:21.000Z</updated>
-        <summary type="html"><![CDATA[In this video, we’ll walk you through the simple steps to hide system views in a model-driven app in Microsoft Dynamics 365 Customer Engagement (CE). Whether you want to customize your app for a cleaner user experience or prevent users from accessing certain views, this tutorial will show you how to manage view visibility effectively. […]]]></summary>
-        <author>
-            <name>Manish chauhan</name>
         </author>
     </entry>
     <entry>
@@ -113676,16 +113736,6 @@ Microsoft Dynamics Invoice Capture – Key Functionalities And Benefits]]></summ
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fear of AI? It’s Time to Rethink Your AI Strategy – YouTube]]></title>
-        <id>https://365community.online/fear-of-ai-its-time-to-rethink-your-ai-strategy-youtube</id>
-        <link href="https://365community.online/fear-of-ai-its-time-to-rethink-your-ai-strategy-youtube"/>
-        <updated>2024-11-26T07:00:19.000Z</updated>
-        <summary type="html"><![CDATA[Fear of AI? It’s Time to Rethink Your AI Strategy Fear of AI comes from misunderstanding. Discover how companies like Lufthansa are using AI to empower employees, not replace them. AI Strategy is about growth, not fear. Fear of AI comes from misunderstanding. Discover how companies like Lufthansa are using AI to empower employees, not […]]]></summary>
-        <author>
-            <name>NZ365Guy</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Step-by-Step Guide to Customize Power BI Reports with Brand Colors]]></title>
         <id>https://erpsoftwareblog.com/?p=120083</id>
         <link href="https://erpsoftwareblog.com/2024/11/customize-power-bi-reports-with-brand-colors/"/>
@@ -113698,16 +113748,6 @@ Top 5 reasons to use Microsoft Power BI
 Ways to collaborate and share reports and dashboards in Power BI]]></summary>
         <author>
             <name>ArcherPoint</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Xrm.Utility.getPageContext().input to identity or get parent record details for the Quick Create form – Dataverse / Dynamics 365]]></title>
-        <id>https://365community.online/using-xrm-utility-getpagecontext-input-to-identity-or-get-parent-record-details-for-the-quick-create-form-dataverse-dynamics-365</id>
-        <link href="https://365community.online/using-xrm-utility-getpagecontext-input-to-identity-or-get-parent-record-details-for-the-quick-create-form-dataverse-dynamics-365"/>
-        <updated>2024-11-25T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Recently we had a requirement to make different sets of fields mandatory and non-mandatory on the Quick Create form for Contact, based on the parent record type it is opened from. Quick Create Form As we cannot have multiple Quick Create Form specified for different forms, we had to use JavaScript to identify the parent […]]]></summary>
-        <author>
-            <name>Nishant Rana</name>
         </author>
     </entry>
     <entry>
